@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1790" nextid="c1792" id="c1791">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.158 (in Jum and MSM - with 'nobis' for 'novus' - but not in insular sources)</note>
+         <note place="unspecified" anchored="yes">In Fec-O, is lauds gosp for John: in Fec-B2 is sext for 6ta die post Nativ.</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-F CAO-L"> Christus deus noster in quo divinitatis est plenitudo carnis nostrae infirma suscipiens novus natus est homo alleluia</aBody>
+</ant>

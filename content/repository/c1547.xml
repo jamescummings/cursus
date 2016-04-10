@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1546" nextid="c1547b" id="c1547">
+   <header>
+      <usage ms="Alb2" code="07065000">[107v] matins-a2</usage>
+      <usage ms="Cdm" code="07065000">[77r] matins-n1</usage>
+      <usage ms="Ely" code="07065000">[88r] matins-n1</usage>
+      <usage ms="Evm" code="07065000">[147v] matins-n1</usage>
+      <usage ms="Hyd" code="07065000">[94v] matins-n1</usage>
+      <usage ms="Mch" code="07065000">[157v] matins-n1-a2</usage>
+      <usage ms="Pet" code="07065000">[88r] matins-n1</usage>
+      <usage ms="Wcb" code="07065000">[114v] matins-n1</usage>
+      <usage ms="Wor" code="07065000">[59r] matins-n1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Avertantur retrorsum et erubescant
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Cdm Mch"> qui cogitant mihi mala</rdg>
+         <rdg wit="Alb2"> omnes qui cogitant mihi mala</rdg>
+      </app>
+   </aBody>
+</ant>

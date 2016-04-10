@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1821" nextid="c1823" id="c1822">
+   <header>
+      <usage ms="Alb2" code="02122800">[38r] matins-n2-a9</usage>
+      <usage ms="Bat" code="02122800">[23r] matins-n2-a12</usage>
+      <usage ms="Cdm" code="02122800">[28v] matins-n2-a12</usage>
+      <usage ms="Evm" code="02122800">[47r] matins-n2-a9</usage>
+      <usage ms="Hyd" code="02122800">[26r] matins-n2-a10</usage>
+      <usage ms="Pet" code="02122800">[32r] week?</usage>
+      <usage ms="Wcb" code="02122800">[63v] matins-n2-a12</usage>
+      <usage ms="Wor" code="02122800">[22r] matins-n2-a11</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-S Hyd Wcb Bat Cdm Wor Pet"> Clamant clamant clamant dominum innocentes</rdg>
+         <rdg wit="CAO-E CAO-L Evm"> Clamant clamant clamant ad dominum innocentes</rdg>
+         <rdg wit="Alb2"> Clamant clamant clamant domino innocentes</rdg>
+         <rdg wit="CAO-V"> Clamant dominum innocentes</rdg>
+      </app> resonat luctus
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-S Hyd Alb2 Evm Wcb Bat Wor Pet"> multis matribus</rdg>
+         <rdg wit="Cdm">
+            <corr sic="martyribus">matribus</corr>
+         </rdg>
+         <rdg wit="CAO-L"> multis martyribus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L Hyd Evm Wcb Bat Cdm Wor Pet"> in excelsis gaudet ecclesia</rdg>
+         <rdg wit="Alb2"> in excelsis et gaudet ecclesia</rdg>
+         <rdg wit="CAO-V"> in excelsis gaudent ecclesiae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-L Evm Wcb"> super martyres in aeternum</rdg>
+         <rdg wit="CAO-V Hyd Alb2 Bat Cdm Wor Pet"> super martyres alleluia</rdg>
+         <rdg wit="CAO-S"> super martyres</rdg>
+      </app>
+   </aBody>
+</ant>

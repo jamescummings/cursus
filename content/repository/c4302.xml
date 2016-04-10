@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4301" nextid="c4303" id="c4302">
+   <header>
+      <usage ms="Alb2" code="01038000">[14v] lauds</usage>
+      <usage ms="Evm" code="01036009">[21r] nones</usage>
+      <usage ms="Mch" code="01048000">[19r] </usage>
+      <usage ms="Wcb" code="01034000">[47v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Mch Wcb"> Ponam in Sion salutem et in Jerusalem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D Alb2 Evm Mch Wcb"> gloriam meam alleluia</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F CAO-L"> gloria mea alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-L" num="2"> Ponam in Sion salutem et in Jerusalem gloriam meam alleluia</aBody>
+</ant>

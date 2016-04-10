@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4282" nextid="c4284" id="c4283">
+   <aBody wit="CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S"> Petrus apostolus dixit paralytico
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-D CAO-F CAO-S"> Aenea sanet te dominus Jesus Christus</rdg>
+         <rdg wit="CAO-M"> Aenea sanat te dominus Jesus Christus</rdg>
+      </app> surge et sterne tibi qui continuo surrexit
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-S"> et omnes qui videbant</rdg>
+         <rdg wit="CAO-D CAO-F"> et omnes qui viderant</rdg>
+         <rdg wit="CAO-M"> et omnes qui aderant</rdg>
+      </app> conversi sunt ad dominum</aBody>
+</ant>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6332" nextid="c6334" id="c6333">
+   <header>
+      <usage ms="Alb2" code="02010100">[47r] matins-n3-r10</usage>
+      <usage ms="Bat" code="14122900">[24v] matins-n3-r10</usage>
+      <usage ms="Cdm" code="02123000">[31v] matins-n3-r9</usage>
+      <usage ms="Hyd" code="02010100">matins-n1-r2</usage>
+      <usage ms="Pet" code="02010100">[36r] matins-n3-r9</usage>
+      <usage ms="Wor" code="02010100">[25r] matins-n3-r10</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">variant version (William's cursus, for Xmas 8ve) at c9537</note>
+         <note place="unspecified" anchored="yes">the first verse in Pet is that of the variant at c9537, though the body is of this version, not of that</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet"> Continet in gremio</rdg>
+         <rdg wit="CAO-C"> Continet in gremium</rdg>
+         <rdg wit="CAO-F"> Continet in <corr sic="gremium">gremio</corr>
+         </rdg>
+      </app> caelum terramque regentem virgo dei genitrix proceres comitantur
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Bat Cdm Wor Pet"> heriles</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-F Alb2"> herilem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Bat Cdm Wor Pet"> per quos</rdg>
+         <rdg wit="CAO-S"> per <corr sic="quos">quod</corr>
+         </rdg>
+      </app> orbis ovans Christo
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet"> sub principe</rdg>
+         <rdg wit="CAO-V"> sub principem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet"> pollet</rdg>
+         <rdg wit="CAO-C"> pollens</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Domus pudici pectoris templum repente fit dei intacta nesciens virum verbo concepit filium</vBody>
+      <vBody type="r" wit="CAO-B CAO-E"> Domus pudici</vBody>
+      <vBody type="r" wit="CAO-M"> Gloria in excelsis deo</vBody>
+      <vBody type="r" wit="CAO-H"> Maternis vehitur qui matrem vexerat ulnis Bisseni comites quem stipant agmine fido</vBody>
+      <vBody type="r" wit="Pet"> Natus in orbe verus homo sublimis deus fulget in caelo</vBody>
+      <vBody type="r" wit="CAO-G CAO-L">
+         <app>
+            <rdg wit="CAO-G"> Quando venit ergo sacri plenitudo temporis</rdg>
+            <rdg wit="CAO-L"> Quando ergo venit plenitudo temporis</rdg>
+         </app> missus est ab arce patris
+       <app>
+            <rdg wit="CAO-G"> natus orbis</rdg>
+            <rdg wit="CAO-L"> natus in orbe</rdg>
+         </app> filius</vBody>
+      <vBody type="r" wit="CAO-C CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Bat Cdm Wor"> Virgo dei genitrix quem totus non capit orbis
+       <app>
+            <rdg wit="CAO-D CAO-F CAO-S Hyd Alb2 Bat Cdm Wor"> in tua se clausit</rdg>
+            <rdg wit="CAO-V"> in tuo se clausit</rdg>
+            <rdg wit="CAO-C"> in tua clausit</rdg>
+         </app> viscera factus homo</vBody>
+      <vBody type="r" num="2" wit="Pet"> Virgo dei genitrix quem totus non capit orbis in tua se clausit viscera factus homo</vBody>
+      <rep type="r" wit="Alb2">Proceres</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-R Bat">Virgo</rep>
+      <rep type="r" wit="CAO-V CAO-C CAO-F CAO-G CAO-L CAO-M CAO-H Hyd Cdm Wor">Per quos</rep>
+      <rep type="r" wit="CAO-S">Per quod</rep>
+      <rep type="r" wit="CAO-C">Per <sic>quem</sic>
+      </rep>
+   </verses>
+</res>

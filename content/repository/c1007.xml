@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1006b" nextid="c1008" id="c1007">
+   <header>
+      <usage ms="Evm" code="06011000">[91r] matins</usage>
+      <usage ms="Wcb" code="06011000">[84v] matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-F CAO-L Wcb Evm"> Adoremus deum quia ipse fecit nos</aBody>
+</ant>

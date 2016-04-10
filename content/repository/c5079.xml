@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5078" nextid="c5080" id="c5079">
+   <header>
+      <usage ms="Hyd" code="08011000">terce</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">CAO sources differ in the number of concluding 'alleluia'.  CAO-R and CAO-D both give the text twice, with two different melodies.</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Surrexit dominus de sepulcro qui pro nobis pependit in ligno
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> alleluia</rdg>
+         <rdg wit="Hyd"> alleluia alleluia alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

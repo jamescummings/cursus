@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5399" nextid="c5401" id="c5400">
+   <header>
+      <usage ms="Cdm" code="08013000">[83r] prime</usage>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Videte manus meas et pedes meos
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cdm"> quia ego ipse sum alleluia alleluia</rdg>
+         <rdg wit="Hyd"> quia ego ipse sum alleluia</rdg>
+         <rdg wit="CAO-C"> quia ipse ego sum alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

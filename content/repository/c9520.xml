@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9519" nextid="c9521" id="c9520">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+   </header>
+   <rBody wit="Hyd">Hoc est testimonium quod perhibuit Joannes qui post me venit ante me factus est cuius non sum dignus solvere corrigiam calcimenti</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Ego baptizo vos aqua ille vos baptizabit spiritu sancto</vBody>
+      <rep type="r" wit="Hyd">Cuius</rep>
+   </verses>
+</res>

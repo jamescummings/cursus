@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5413b" nextid="c5415" id="c5414">
+   <aBody wit="CAO-F CAO-S CAO-L"> Vidit igitur assistere sibi virum
+     <app>
+         <rdg wit="CAO-F CAO-S"> aetate senem</rdg>
+         <rdg wit="CAO-L"> aetate plenum</rdg>
+      </app> statura procerum
+     <app>
+         <rdg wit="CAO-F CAO-S"> vultu decorum</rdg>
+         <rdg wit="CAO-L"> vultu decorem</rdg>
+      </app>
+   </aBody>
+</ant>

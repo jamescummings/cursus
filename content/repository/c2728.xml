@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2727" nextid="c2729" id="c2728">
+   <header>
+      <usage ms="Cdm" code="08011000">[81v] lauds-a6</usage>
+      <usage ms="Hyd" code="08011000">[100v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Cdm"> Et valde mane una sabbatorum</rdg>
+         <rdg wit="CAO-L"> Valde mane una sabbatorum</rdg>
+         <rdg wit="CAO-D"> Et valde mane sabbatorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> veniunt ad monumentum</rdg>
+         <rdg wit="CAO-C"> veniunt ad monumento</rdg>
+      </app> orto iam sole alleluia</aBody>
+</ant>

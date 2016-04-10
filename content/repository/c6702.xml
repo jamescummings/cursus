@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6701" nextid="c6703" id="c6702">
+   <rBody wit="CAO-C CAO-D">
+      <app>
+         <rdg wit="CAO-D"> Exspoliavit veste Hippolytum</rdg>
+         <rdg wit="CAO-C"> Exspoliavit vestem Hippolytum</rdg>
+      </app> Decius qua induebatur in habitu christiano
+      <app>
+         <rdg wit="CAO-D"> et dixit ei</rdg>
+         <rdg wit="CAO-C"> et dicit ei</rdg>
+      </app> sacrifica diis et acquiesce praeceptis nostris
+      <app>
+         <rdg wit="CAO-D"> et vive et fruere militiae palma</rdg>
+         <rdg wit="CAO-C"> et <sic resp="Hesbert">vivae</sic> militiae palmae</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Caesar dixit ad Hippolytum quomodo insipiens factus es ut vel nuditatem tuam non erubescas? </vBody>
+      <vBody type="r" wit="CAO-C"> Gratias ago Deo meo qui me confortavit in conspectu principum</vBody>
+      <rep type="r" wit="CAO-D"> Sacrifica</rep>
+      <rep type="r" wit="CAO-C"> Et dicit</rep>
+   </verses>
+</res>

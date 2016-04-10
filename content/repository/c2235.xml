@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2234" nextid="c2236" id="c2235">
+   <aBody wit="CAO-E CAO-F"> Diligite dominum omnes sancti eius
+     <app>
+         <rdg wit="CAO-F"> quoniam veritatem requiret dominus</rdg>
+         <rdg wit="CAO-E"> quoniam veritates requiret dominus</rdg>
+      </app>
+   </aBody>
+</ant>

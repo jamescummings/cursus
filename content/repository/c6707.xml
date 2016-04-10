@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6706" nextid="c6708" id="c6707">
+   <header>
+      <usage ms="Alb2" code="07031000">[88r] matins-n1-r3</usage>
+      <usage ms="Evm" code="07031000">[120v] matins-n1-r3</usage>
+      <usage ms="Mch" code="07031000">[129r] matins-n1-r3</usage>
+      <usage ms="Wcb" code="07031000">[100v] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-F CAO-S CAO-L Evm Wcb Alb2 Mch"> Extrahentes Joseph de lacu
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-L Evm Wcb Alb2"> vendiderunt Ismaelitis viginti argenteis</rdg>
+         <rdg wit="CAO-M Mch"> vendiderunt Ismaelitis triginta argenteis</rdg>
+         <rdg wit="CAO-S"> vendiderunt Ismaelitis viginti argentei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-S CAO-L Evm Wcb Alb2 Mch"> reversusque Ruben ad puteum</rdg>
+         <rdg wit="CAO-F"> reversusque Ruben a puteum</rdg>
+         <rdg wit="CAO-V"> reversusque Ruben <sic resp="Hesbert">apud teum</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-F CAO-S CAO-L Evm Wcb Mch"> et cum non invenisset eum</rdg>
+         <rdg wit="CAO-V Alb2"> et dum non invenisset eum</rdg>
+         <rdg wit="CAO-M"> et non invenisset eum</rdg>
+      </app> scidit vestimenta sua cum fletu
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-F CAO-S CAO-L Evm Wcb Alb2 Mch"> et dixit</rdg>
+         <rdg wit="CAO-V"> et <del status="unremarkable">d</del>ait</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-S CAO-L Evm Wcb Alb2 Mch"> puer non comparet</rdg>
+         <rdg wit="CAO-M"> puer numquam paret</rdg>
+      </app> et ego quo ibo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-F CAO-L Evm Wcb Alb2 Mch"> At illi intincta tunica Joseph
+       <app>
+            <rdg wit="CAO-F Alb2"> in sanguine hoedi</rdg>
+            <rdg wit="CAO-C CAO-L Mch"> in sanguine</rdg>
+            <rdg wit="Evm Wcb"> in sanguine edi</rdg>
+         </app>
+         <app>
+            <rdg wit="Evm Wcb Alb2"> miserunt qui ferret eam ad patrem</rdg>
+            <rdg wit="CAO-C Mch"> et mittentes qui ferrent eam ad patrem</rdg>
+            <rdg wit="CAO-F CAO-L"> mittentes qui ferrent eam ad patrem</rdg>
+         </app>
+         <app>
+            <rdg wit="Evm Wcb Alb2"> et diceret</rdg>
+            <rdg wit="Mch"> et dicebant</rdg>
+            <rdg wit="CAO-C CAO-F CAO-L"> et dicerent</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-F Evm Wcb Alb2 Mch"> vide si tunica filii tui sit an non</rdg>
+            <rdg wit="CAO-L"> vide si tunica filii tui est an non</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V"> Cumque abisset Ruben <corr sic="a" resp="Hesbert">ad</corr> cisternam et non invenisset puerum scissisque vestibus pergens ad fratres ait</vBody>
+      <vBody type="r" wit="CAO-E"> Cumque abisset Ruben ad puteum et non invenisset eum scidit vestimenta sua et pergens ad fratres cum fletu et dixit</vBody>
+      <vBody type="r" wit="CAO-M"> Ruben dum quaereret relictum fratrem in cisternam et non invenisset eum scissisque vestibus flens et eiulans ceteris fratribus ita fari coepit</vBody>
+      <vBody type="r" wit="CAO-S"> Dixit Judas fratribus suis Ecce Ismaelitae transeunt venite venumdetur</vBody>
+      <rep type="r" wit="CAO-F CAO-L Evm Alb2"> Reversusque</rep>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-S Wcb Mch"> Puer</rep>
+   </verses>
+</res>

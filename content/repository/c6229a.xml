@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6229" nextid="c6229b" id="c6229a">
+   <rBody wit="CAO-C CAO-B CAO-R CAO-D CAO-F"> Beatus vir Laurentius qui post aurum non abiit nec speravit in thesauris pecuniae fecit enim mirabilia in vita sua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R CAO-F">
+         <app>
+            <rdg wit="CAO-B CAO-R"> Qui potuit transgredi</rdg>
+            <rdg wit="CAO-F"> Qui potuit enim transgredi</rdg>
+         </app> et non est transgressus facere mala et non fecit</vBody>
+      <vBody type="r" wit="CAO-C CAO-D"> Hic est vere martyr qui pro Christi nomine sanguinem suum fudit</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-R CAO-D CAO-F">Fecit</rep>
+   </verses>
+</res>

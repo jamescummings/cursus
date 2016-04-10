@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1091" nextid="c1093" id="c1092">
+   <header>
+      <usage ms="Alb2" code="07061000">[103v] matins</usage>
+      <usage ms="Bat" code="07061000">[62r] matins inv</usage>
+      <usage ms="Cdm" code="07061000">[74r] matins</usage>
+      <usage ms="Ely" code="07061000">[84v] matins</usage>
+      <usage ms="Evm" code="07061000">[141r] matins</usage>
+      <usage ms="Hyd" code="07061000">[89v] matins</usage>
+      <usage ms="Mch" code="07061000">[151v] matins inv</usage>
+      <usage ms="Pet" code="07061000">[83v] matins-a1</usage>
+      <usage ms="Wcb" code="07061000">[111r] matins</usage>
+      <usage ms="Wor" code="07061000">[55r] matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Ipsi vero non cognoverunt vias meas quibus iuravi in ira mea si introibunt in requiem meam</aBody>
+</ant>

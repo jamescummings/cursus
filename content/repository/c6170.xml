@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6169" nextid="c6171" id="c6170">
+   <rBody wit="CAO-E CAO-M CAO-V CAO-F CAO-S"> Beata vere mater ecclesia quam sic honor
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-S">divinae</rdg>
+         <rdg wit="CAO-M">divinus</rdg>
+      </app> dignationis
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-S">illuminat</rdg>
+         <rdg wit="CAO-M CAO-V">illuminet</rdg>
+      </app> quam victoriosorum gloriosus martyrum sanguis exornat quam
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V">inviolata</rdg>
+         <rdg wit="CAO-F CAO-S">inviolatae</rdg>
+      </app> confessionis
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-S">candida</rdg>
+         <rdg wit="CAO-M">candide</rdg>
+      </app> induit virginitas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V CAO-F CAO-S">Floribus eius nec
+       <app>
+            <rdg wit="CAO-M CAO-V CAO-F CAO-S">rosae</rdg>
+            <rdg wit="CAO-E">rosa</rdg>
+         </app> nec lilia desunt</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V CAO-F CAO-S">Quam</rep>
+   </verses>
+</res>

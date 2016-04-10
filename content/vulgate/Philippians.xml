@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Philippians">
+<body>
+  <rubric type="bible-incipit" id="B.Philippians.incipit.001">
+    <reference>
+      <bookName>Philippians</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AD PHILIPPENSES</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Philippians.001.001">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus et Timotheus servi Iesu Christi omnibus sanctis in Christo Iesu qui sunt Philippis cum episcopis et diaconis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.002">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.003">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>gratias ago Deo meo in omni memoria vestri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.004">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>semper in cunctis orationibus meis pro omnibus vobis cum gaudio deprecationem faciens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.005">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>super communicatione vestra in evangelio a prima die usque nunc</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.006">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>confidens hoc ipsum quia qui coepit in vobis opus bonum perficiet usque in diem Christi Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.007">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>sicut est mihi iustum hoc sentire pro omnibus vobis eo quod habeam in corde vos et in vinculis meis et in defensione et confirmatione evangelii socios gaudii mei omnes vos esse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.008">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>testis enim mihi est Deus quomodo cupiam omnes vos in visceribus Christi Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.009">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et hoc oro ut caritas vestra magis ac magis abundet in scientia et omni sensu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.010">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>ut probetis potiora ut sitis sinceres et sine offensa in diem Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.011">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>repleti fructu iustitiae per Christum Iesum in gloriam et laudem Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.012">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>scire autem vos volo fratres quia quae circa me sunt magis ad profectum venerunt evangelii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.013">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>ita ut vincula mea manifesta fierent in Christo in omni praetorio et in ceteris omnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.014">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>et plures e fratribus in Domino confidentes vinculis meis abundantius audere sine timore verbum Dei loqui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.015">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>quidam quidem et propter invidiam et contentionem quidam autem et propter bonam voluntatem Christum praedicant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.016">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>quidam ex caritate scientes quoniam in defensionem evangelii positus sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.017">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>quidam autem ex contentione Christum adnuntiant non sincere existimantes pressuram se suscitare vinculis meis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.018">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>quid enim dum omni modo sive per occasionem sive per veritatem Christus adnuntiatur et in hoc gaudeo sed et gaudebo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.019">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>scio enim quia hoc mihi proveniet in salutem per vestram orationem et subministrationem Spiritus Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.020">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>secundum expectationem et spem meam quia in nullo confundar sed in omni fiducia sicut semper et nunc magnificabitur Christus in corpore meo sive per vitam sive per mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.021">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>mihi enim vivere Christus est et mori lucrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.022">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>quod si vivere in carne hic mihi fructus operis est et quid eligam ignoro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.023">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>coartor autem e duobus desiderium habens dissolvi et cum Christo esse multo magis melius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.024">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>permanere autem in carne magis necessarium est propter vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.025">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>et hoc confidens scio quia manebo et permanebo omnibus vobis ad profectum vestrum et gaudium fidei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.026">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:26</verseNum>
+      </reference>
+      <l>ut gratulatio vestra abundet in Christo Iesu in me per meum adventum iterum ad vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.027">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:27</verseNum>
+      </reference>
+      <l>tantum digne evangelio Christi conversamini ut sive cum venero et videro vos sive absens audiam de vobis quia stetistis uno spiritu unianimes conlaborantes fide evangelii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.028">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:28</verseNum>
+      </reference>
+      <l>et in nullo terreamini ab adversariis quae est illis causa perditionis vobis autem salutis et hoc a Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.029">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:29</verseNum>
+      </reference>
+      <l>quia vobis donatum est pro Christo non solum ut in eum credatis sed ut etiam pro illo patiamini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.001.030">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>1:30</verseNum>
+      </reference>
+      <l>eundem certamen habentes qualem et vidistis in me et nunc audistis de me</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Philippians.002.001">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>si qua ergo consolatio in Christo si quod solacium caritatis si qua societas spiritus si quid viscera et miserationes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.002">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>implete gaudium meum ut idem sapiatis eandem caritatem habentes unianimes id ipsum sentientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.003">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>nihil per contentionem neque per inanem gloriam sed in humilitate superiores sibi invicem arbitrantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.004">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>non quae sua sunt singuli considerantes sed et ea quae aliorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.005">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>hoc enim sentite in vobis quod et in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.006">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>qui cum in forma Dei esset non rapinam arbitratus est esse se aequalem Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.007">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>sed semet ipsum exinanivit formam servi accipiens in similitudinem hominum factus et habitu inventus ut homo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.008">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>humiliavit semet ipsum factus oboediens usque ad mortem mortem autem crucis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.009">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>propter quod et Deus illum exaltavit et donavit illi nomen super omne nomen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.010">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>ut in nomine Iesu omne genu flectat caelestium et terrestrium et infernorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.011">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>et omnis lingua confiteatur quia Dominus Iesus Christus in gloria est Dei Patris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.012">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>itaque carissimi mei sicut semper oboedistis non ut in praesentia mei tantum sed multo magis nunc in absentia mea cum metu et tremore vestram salutem operamini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.013">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>Deus est enim qui operatur in vobis et velle et perficere pro bona voluntate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.014">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>omnia autem facite sine murmurationibus et haesitationibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.015">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>ut sitis sine querella et simplices filii Dei sine reprehensione in medio nationis pravae et perversae inter quos lucetis sicut luminaria in mundo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.016">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>verbum vitae continentes ad gloriam meam in die Christi quia non in vacuum cucurri neque in vacuum laboravi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.017">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>sed et si immolor supra sacrificium et obsequium fidei vestrae gaudeo et congratulor omnibus vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.018">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>id ipsum autem et vos gaudete et congratulamini mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.019">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>spero autem in Domino Iesu Timotheum cito me mittere ad vos ut et ego bono animo sim cognitis quae circa vos sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.020">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>neminem enim habeo tam unianimem qui sincera affectione pro vobis sollicitus sit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.021">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>omnes enim sua quaerunt non quae sunt Christi Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.022">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>experimentum autem eius cognoscite quoniam sicut patri filius mecum servivit in evangelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.023">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>hunc igitur spero me mittere mox ut videro quae circa me sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.024">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>confido autem in Domino quoniam et ipse veniam ad vos cito</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.025">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>necessarium autem existimavi Epafroditum fratrem et cooperatorem et commilitonem meum vestrum autem apostolum et ministrum necessitatis meae mittere ad vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.026">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:26</verseNum>
+      </reference>
+      <l>quoniam quidem omnes vos desiderabat et maestus erat propterea quod audieratis illum infirmatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.027">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:27</verseNum>
+      </reference>
+      <l>nam et infirmatus est usque ad mortem sed Deus misertus est eius non solum autem eius verum etiam et mei ne tristitiam super tristitiam haberem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.028">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:28</verseNum>
+      </reference>
+      <l>festinantius ergo misi illum ut viso eo iterum gaudeatis et ego sine tristitia sim</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.029">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:29</verseNum>
+      </reference>
+      <l>excipite itaque illum cum omni gaudio in Domino et eiusmodi cum honore habetote</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.002.030">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>2:30</verseNum>
+      </reference>
+      <l>quoniam propter opus Christi usque ad mortem accessit tradens animam suam ut impleret id quod ex vobis deerat erga meum obsequium</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Philippians.003.001">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>de cetero fratres mei gaudete in Domino eadem vobis scribere mihi quidem non pigrum vobis autem necessarium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.002">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>videte canes videte malos operarios videte concisionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.003">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>nos enim sumus circumcisio qui spiritu Deo servimus et gloriamur in Christo Iesu et non in carne fiduciam habentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.004">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>quamquam ego habeam confidentiam et in carne si quis alius videtur confidere in carne ego magis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.005">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>circumcisus octava die ex genere Israhel de tribu Beniamin Hebraeus ex Hebraeis secundum legem Pharisaeus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.006">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>secundum aemulationem persequens ecclesiam Dei secundum iustitiam quae in lege est conversatus sine querella</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.007">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>sed quae mihi fuerunt lucra haec arbitratus sum propter Christum detrimenta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.008">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>verumtamen existimo omnia detrimentum esse propter eminentem scientiam Iesu Christi Domini mei propter quem omnia detrimentum feci et arbitror ut stercora ut Christum lucri faciam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.009">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>et inveniar in illo non habens meam iustitiam quae ex lege est sed illam quae ex fide est Christi quae ex Deo est iustitia in fide</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.010">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>ad agnoscendum illum et virtutem resurrectionis eius et societatem passionum illius configuratus morti eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.011">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>si quo modo occurram ad resurrectionem quae est ex mortuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.012">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>non quod iam acceperim aut iam perfectus sim sequor autem si conprehendam in quo et conprehensus sum a Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.013">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>fratres ego me non arbitror conprehendisse unum autem quae quidem retro sunt obliviscens ad ea vero quae sunt in priora extendens me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.014">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>ad destinatum persequor ad bravium supernae vocationis Dei in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.015">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>quicumque ergo perfecti hoc sentiamus et si quid aliter sapitis et hoc vobis Deus revelabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.016">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>verumtamen ad quod pervenimus ut idem sapiamus et in eadem permaneamus regula</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.017">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>imitatores mei estote fratres et observate eos qui ita ambulant sicut habetis formam nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.018">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>multi enim ambulant quos saepe dicebam vobis nunc autem et flens dico inimicos crucis Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.019">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>quorum finis interitus quorum deus venter et gloria in confusione ipsorum qui terrena sapiunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.020">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>nostra autem conversatio in caelis est unde etiam salvatorem expectamus Dominum Iesum Christum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.003.021">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>qui reformabit corpus humilitatis nostrae configuratum corpori claritatis suae secundum operationem qua possit etiam subicere sibi omnia</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Philippians.004.001">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>itaque fratres mei carissimi et desiderantissimi gaudium meum et corona mea sic state in Domino carissimi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.002">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>Euhodiam rogo et Syntychen deprecor id ipsum sapere in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.003">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>etiam rogo et te germane conpar adiuva illas quae mecum laboraverunt in evangelio cum Clemente et ceteris adiutoribus meis quorum nomina sunt in libro vitae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.004">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>gaudete in Domino semper iterum dico gaudete</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.005">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>modestia vestra nota sit omnibus hominibus Dominus prope</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.006">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>nihil solliciti sitis sed in omni oratione et obsecratione cum gratiarum actione petitiones vestrae innotescant apud Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.007">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>et pax Dei quae exsuperat omnem sensum custodiat corda vestra et intellegentias vestras in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.008">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>de cetero fratres quaecumque sunt vera quaecumque pudica quaecumque iusta quaecumque sancta quaecumque amabilia quaecumque bonae famae si qua virtus si qua laus haec cogitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.009">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>quae et didicistis et accepistis et audistis et vidistis in me haec agite et Deus pacis erit vobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.010">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>gavisus sum autem in Domino vehementer quoniam tandem aliquando refloruistis pro me sentire sicut et sentiebatis occupati autem eratis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.011">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>non quasi propter penuriam dico ego enim didici in quibus sum sufficiens esse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.012">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>scio et humiliari scio et abundare ubique et in omnibus institutus sum et satiari et esurire et abundare et penuriam pati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.013">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>omnia possum in eo qui me confortat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.014">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>verumtamen bene fecistis communicantes tribulationi meae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.015">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>scitis autem et vos Philippenses quod in principio evangelii quando profectus sum a Macedonia nulla mihi ecclesia communicavit in ratione dati et accepti nisi vos soli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.016">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>quia et Thessalonicam et semel et bis in usum mihi misistis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.017">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>non quia quaero datum sed requiro fructum abundantem in rationem vestram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.018">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>habeo autem omnia et abundo repletus sum acceptis ab Epafrodito quae misistis odorem suavitatis hostiam acceptam placentem Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.019">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>Deus autem meus impleat omne desiderium vestrum secundum divitias suas in gloria in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.020">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>Deo autem et Patri nostro gloria in saecula saeculorum amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.021">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:21</verseNum>
+      </reference>
+      <l>salutate omnem sanctum in Christo Iesu salutant vos qui mecum sunt fratres</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.022">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:22</verseNum>
+      </reference>
+      <l>salutant vos omnes sancti maxime autem qui de Caesaris domo sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Philippians.004.023">
+      <reference>
+        <bookName>Philippians</bookName>
+        <verseNum>4:23</verseNum>
+      </reference>
+      <l>gratia Domini Iesu Christi cum spiritu vestro amen</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Philippians.colophon.001">
+    <reference>
+      <bookName>Philippians</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA AD PHILIPPENSES</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

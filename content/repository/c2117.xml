@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2116" nextid="c2118" id="c2117">
+   <header>
+      <usage ms="Alb2" code="07041000">[95r] nones</usage>
+      <usage ms="Bat" code="07041000">[56v] matins-n3-a1</usage>
+      <usage ms="Cdm" code="07041000">[67v] matins-n3-a3</usage>
+      <usage ms="Cht" code="07041000">[42r] prime</usage>
+      <usage ms="Ely" code="07041000">[77v] matins-n3</usage>
+      <usage ms="Evm" code="07041000">[129v] sext</usage>
+      <usage ms="Glo" code="07041000">[68r] sext</usage>
+      <usage ms="Hyd" code="07041000">[82r] matins-n3</usage>
+      <usage ms="Mch" code="07041000">[137v] matins-n3-a3</usage>
+      <usage ms="Pet" code="07041000"/>
+      <usage ms="Wcb" code="07041000">[105v] sext</usage>
+      <usage ms="Wor" code="07041000">[50v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> De quinque panibus et duobus piscibus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> satiavit dominus quinque milia hominum</rdg>
+         <rdg wit="CAO-G CAO-D"> saturavit dominus quinque milia hominum</rdg>
+      </app>
+   </aBody>
+</ant>

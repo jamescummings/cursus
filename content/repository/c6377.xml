@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6376" nextid="c6378" id="c6377">
+   <rBody wit="CAO-C CAO-F CAO-S CAO-L"> Cum videret beatus Martinus discipulos suos
+      <app>
+         <rdg wit="CAO-C CAO-S"> flentes</rdg>
+         <rdg wit="CAO-L"> dicens</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="dicens">flentes</corr>
+         </rdg>
+      </app> motus his fletibus conversus ad dominum dixit domine si adhuc populo tuo sum necessarius non recuso laborem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Cur nos pater deseris aut cui nos desolatos relinquis invadent enim gregem tuum lupi rapaces</vBody>
+      <vBody type="r" wit="CAO-F"> O virum ineffabilem nec labore victum nec morte vincendum qui nec mori timuit nec vivere recusavit sed conversus ad dominum dixit Domine</vBody>
+      <vBody type="r" wit="CAO-L"> Oculis ac manibus in caelum semper intentus invictum ab oratione spiritum non relaxabat</vBody>
+      <rep type="r" wit="CAO-F CAO-S CAO-L"> Domine</rep>
+   </verses>
+</res>

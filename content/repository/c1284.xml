@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1283" nextid="c1285" id="c1284">
+   <header>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010608"/>
+   </header>
+   <aBody wit="CAO-C CAO-D CAO-F CAO-L Hyd Pet"> Admoniti magi in somnis ab angelo per aliam viam reversi sunt in regionem suam</aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4732" nextid="c4733b" id="c4733">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Sancti per fidem vicerunt regna
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> operati sunt iustitiam</rdg>
+         <rdg wit="CAO-V"> operati sunt iustitia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S"> adepti sunt promissiones</rdg>
+         <rdg wit="CAO-M CAO-L"> adepti sunt repromissiones</rdg>
+      </app>
+   </aBody>
+</ant>

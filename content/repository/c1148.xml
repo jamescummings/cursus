@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1147" nextid="c1149" id="c1148">
+   <aBody wit="CAO-F"> Regem sempiternum pronis mentibus adoremus qui martyrem suum digne pro meritis coronavit illius nomen</aBody>
+   <aBody wit="CAO-E CAO-D CAO-F CAO-S" num="2"> Regem sempiternum pronis mentibus adoremus qui martyrem suum digne pro meritis coronavit
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-S"> Laurentium</rdg>
+         <rdg wit="CAO-F"> Vincentium</rdg>
+      </app>
+   </aBody>
+</ant>

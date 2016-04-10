@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1742" nextid="o1744" id="o1743">
+   <header>
+      <usage ms="Alb2" code="01021000">[7r] vesp1</usage>
+      <usage ms="Bat" code="01017000">[5v] vesp2</usage>
+      <usage ms="Cdm" code="01021000">[11v] vesp1</usage>
+      <usage ms="Ely" code="01021000">[6v] vesp1</usage>
+      <usage ms="Evm" code="01021000">[12v] vesp1</usage>
+      <usage ms="Hyd" code="01021000">[6v] vesp1</usage>
+      <usage ms="Mch" code="01021000">[6r] vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Mch Cdm Ely Bat"> Excita domine corda nostra ad praeparandas unigeniti tui vias ut per eius adventum purificatis tibi mentibus servire mereamur</pBody>
+</prayer>

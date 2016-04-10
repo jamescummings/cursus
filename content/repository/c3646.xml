@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3645" nextid="c3647" id="c3646">
+   <header>
+      <usage ms="Alb2" code="02122600">[30v] matins-n1-a4</usage>
+      <usage ms="Bat" code="02122600">[18v] matins-n1-a4</usage>
+      <usage ms="Cdm" code="02122600">[24r] matins-n1-a4</usage>
+      <usage ms="Evm" code="02122600">[38v] matins-n1-a4</usage>
+      <usage ms="Hyd" code="02122600">[22r] matins-n1-a4</usage>
+      <usage ms="Pet" code="02122600">[20v] matins-n1-a4</usage>
+      <usage ms="Wor" code="02122600">[16v] matins-n1-a4</usage>
+   </header>
+   <aBody wit="CAO-G CAO-D CAO-S Hyd Alb2 Evm Bat Cdm Wor Pet"> Lumine vultus tui domine
+     <app>
+         <rdg wit="CAO-G CAO-D Hyd Alb2 Evm Bat Cdm Wor Pet"> insignitus protomartyr Stephanus</rdg>
+         <rdg wit="CAO-S"> insignitus protomartyr Stephane</rdg>
+      </app> sacrificium iustitiae seipsum tibi sacrificavit ideoque in laetitia cordis in pace obdormiens requiescit</aBody>
+</ant>

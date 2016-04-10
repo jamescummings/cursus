@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1355" nextid="c1357" id="c1356">
+   <aBody wit="CAO-D">
+      <verse type="stanza">
+         <l part="N">Alma <rs reg="Maria virg" type="saint">redemptoris mater</rs> quae pervia caeli</l>
+         <l part="N">Porta manes et stella maris succurre cadenti</l>
+         <l part="N">Surgere qui curat populo tu quae genuisti</l>
+         <l part="N">Natura mirante tuum sanctum genitorem</l>
+         <l part="N">Virgo prius ac posterius <name reg="Gabriel" type="archang">Gabrielis</name> ab ore</l>
+         <l part="N">Sumens illud ave peccatorum miserere</l>
+      </verse>
+   </aBody>
+</ant>

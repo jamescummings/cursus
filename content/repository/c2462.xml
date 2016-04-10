@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2461b" nextid="c2463" id="c2462">
+   <header>
+      <usage ms="Alb2" code="02122500">[24r] vesp1 gosp</usage>
+      <usage ms="Bat" code="02122500">[15r] vesp1 gosp</usage>
+      <usage ms="Cdm" code="02122400">[21r] vesp2 gosp</usage>
+      <usage ms="Ely" code="02122500">[17v] vesp1-a4</usage>
+      <usage ms="Hyd" code="02122500">[17r] vesp1 gosp</usage>
+      <usage ms="Mch" code="02122400">[23v] vesp2 gosp</usage>
+      <usage ms="Pet" code="02122500">[15r] vesp1 gosp</usage>
+      <usage ms="Wor" code="02122400">[13v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Mch Ely Wor Pet"> Dum ortus fuerit sol de caelo videbitis regem regum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Mch"> procedentem a patre</rdg>
+         <rdg wit="Bat Cdm Ely Wor Pet"> procedentem</rdg>
+         <rdg wit="CAO-C"> procedentes a patre</rdg>
+         <rdg wit="CAO-H"> procedentem a matre</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-L Hyd Alb2 Mch"> tamquam sponsus de thalamo suo</rdg>
+         <rdg wit="CAO-H CAO-F CAO-S Bat Cdm Ely Wor Pet"> tamquam sponsum de thalamo suo</rdg>
+      </app>
+   </aBody>
+</ant>

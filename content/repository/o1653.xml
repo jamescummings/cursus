@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1652" nextid="o1654" id="o1653">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.1498</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Veritas tua quaesumus domine luceat in cordibus nostris et omnis falsitas inimici destruamur</pBody>
+</prayer>

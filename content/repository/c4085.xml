@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4084" nextid="c4086" id="c4085">
+   <aBody wit="CAO-C CAO-D"> O veneranda martyrum gloriosa certamina qui in suis corporibus pro Christo immania pertulerunt tormenta
+     <app>
+         <rdg wit="CAO-C"> ideo percipere meruerunt</rdg>
+         <rdg wit="CAO-D"> et ideo percipere meruerunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> immarcescibilem aeternae gloriae coronam alleluia</rdg>
+         <rdg wit="CAO-D"> immarcescibilem aeternae gloriae coronam</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2160" nextid="c2162" id="c2161">
+   <header>
+      <usage ms="Alb2" code="07056000">[103r] vesp2</usage>
+      <usage ms="Cdm" code="07056000">[73r] vesp2</usage>
+      <usage ms="Ely" code="07064000">[88r] terce-a1</usage>
+      <usage ms="Evm" code="07057000">[140v] sext</usage>
+      <usage ms="Glo" code="07057000">[72r] sext</usage>
+      <usage ms="Hyd" code="07064000">[93r] prime</usage>
+      <usage ms="Mch" code="07056000">[150v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07057000">[83r] sext-a1</usage>
+      <usage ms="Wcb" code="07057000">[110v] sext</usage>
+      <usage ms="Wor" code="07057000">[55r] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-L Wor Pet Evm Alb2">Desiderio desideravi pascha manducare</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-D CAO-F CAO-S Ely Hyd Wcb Glo Cdm Mch">Desiderio desideravi hoc pascha manducare</rdg>
+      </app> vobiscum antequam patiar</aBody>
+</ant>

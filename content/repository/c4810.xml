@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4809" nextid="c4811" id="c4810">
+   <header>
+      <usage ms="Hyd" code="10200000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Sapientia aedificavit sibi domum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Hyd"> excidit columnas septem</rdg>
+         <rdg wit="CAO-M CAO-V CAO-F"> scidit columnas septem</rdg>
+      </app> subdidit sibi gentes
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> superborumque et sublimium</rdg>
+         <rdg wit="CAO-S"> superborum et sublimium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Hyd"> colla propria virtute calcavit</rdg>
+         <rdg wit="CAO-M CAO-V CAO-F"> colla propria virtute calcavi</rdg>
+      </app>
+   </aBody>
+</ant>

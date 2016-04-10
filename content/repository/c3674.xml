@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3673" nextid="c3675" id="c3674">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D">
+      <app>
+         <rdg wit="CAO-E CAO-D"> Magnificemus te domine</rdg>
+         <rdg wit="CAO-C CAO-H"> Magnificamus te domine</rdg>
+      </app> quia fecisti nobiscum magnalia
+     <app>
+         <rdg wit="CAO-E CAO-H"> sicut locutus es</rdg>
+         <rdg wit="CAO-C CAO-D"> sicut locutus est</rdg>
+      </app>
+   </aBody>
+</ant>

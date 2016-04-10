@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9515" nextid="c9517" id="c9516">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+   </header>
+   <rBody wit="Alb2 Hyd Pet">Testimonium perhibuit Joannes
+     <app>
+         <rdg wit="Alb2"> domini Jesu</rdg>
+         <rdg wit="Hyd"> de domino Jesu</rdg>
+         <rdg wit="Pet"> domino Jesu</rdg>
+      </app> dicens quia vidi spiritum descendentem quasi columbam de caelo et mansit super eum</rBody>
+   <verses>
+      <vBody type="r" wit="Alb2 Hyd Pet"> Et ego vidi et testimonium prohibui quia hic est Christus filius dei</vBody>
+      <rep type="r" wit="Alb2 Hyd"> Quia</rep>
+      <rep type="r" wit="Pet">Et <supplied resp="DC">mansit</supplied>
+      </rep>
+   </verses>
+</res>

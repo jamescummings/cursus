@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2008" nextid="c2010" id="c2009">
+   <header>
+      <usage ms="Alb2" code="07031000">[90r] sext</usage>
+      <usage ms="Bat" code="07031000">[55r] nones</usage>
+      <usage ms="Cdm" code="07031000">[65v] nones-a1</usage>
+      <usage ms="Cht" code="07031000">[37r] nones</usage>
+      <usage ms="Ely" code="07031000">[75v] nones</usage>
+      <usage ms="Evm" code="07031000">[123v] nones</usage>
+      <usage ms="Glo" code="07031000">[65r] nones</usage>
+      <usage ms="Mch" code="07031000">[132v] nones-a1</usage>
+      <usage ms="Pet" code="07031000">[73v] nones</usage>
+      <usage ms="Wcb" code="07031000"/>
+      <usage ms="Wor" code="07031000">[49v] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Cum immundus spiritus exierit ab homine
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> ambulat per loca inaquosa quaerens requiem</rdg>
+         <rdg wit="CAO-E"> ambulans per loca inaquosa quaerens requiem</rdg>
+         <rdg wit="CAO-V">
+            <corr sic="ambulat" resp="Hesbert">ambulans</corr> per loca inaquosa quaerens requiem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-D CAO-F CAO-S Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> et non invenit</rdg>
+         <rdg wit="CAO-H CAO-R CAO-L"> et non inveniet</rdg>
+      </app>
+   </aBody>
+</ant>

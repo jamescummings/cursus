@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7808" nextid="c7809b" id="c7809">
+   <header>
+      <usage ms="Cdm" code="07065000">[77v] matins-n2-r4</usage>
+      <usage ms="Cht" code="07065000">[60r] matins-n2-r1</usage>
+      <usage ms="Ely" code="07065000">[88v] matins-n2-r4</usage>
+      <usage ms="Evm" code="07065000">[147v] matins-n1-r1</usage>
+      <usage ms="Hyd" code="07065000">[94v] matins-n1-r1</usage>
+      <usage ms="Mch" code="07065000">[158v] matins-n2-r6</usage>
+      <usage ms="Pet" code="07065000">[89r] matins-n2-r4</usage>
+      <usage ms="Wcb" code="07065000">[114v] matins-n1-r1</usage>
+      <usage ms="Wor" code="07065000">[59r] matins-n2-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch"> Unus ex discipulis meis tradet me hodie</rdg>
+         <rdg wit="CAO-F"> Unus ex vobis tradet me hodie</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch">vae illi per quem tradar ego</rdg>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-L">vae illi per quem trador ego</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Wor Cht Hyd Pet Cdm Mch"> melius illi erat si natus non fuisset</rdg>
+         <rdg wit="CAO-F Ely Evm Wcb"> melius illi esset si natus non fuisset</rdg>
+         <rdg wit="CAO-C"> melius illi fuerat si natus non fuisset</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch"> Qui intingit mecum</rdg>
+            <rdg wit="CAO-H CAO-R CAO-F"> Qui intinguit mecum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch"> manum in parapside</rdg>
+            <rdg wit="CAO-H CAO-R"> manum in parapsidem</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Cdm Mch"> hic me traditurus est in manus peccatorum</rdg>
+            <rdg wit="CAO-L Wcb"> hic me traditurus est</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G"> Qui intingit mecum manum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-R CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch">Melius</rep>
+      <rep type="r" wit="CAO-V CAO-H CAO-D">Vae illi</rep>
+   </verses>
+</res>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1503" nextid="c1505" id="c1504">
+   <aBody wit="CAO-G CAO-E CAO-M CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-D CAO-F"> Assumptus ex equuleo</rdg>
+         <rdg wit="CAO-M"> Assumptus est equuleo</rdg>
+      </app> levita <name reg="Vincentius" type="saint">Vincentius</name> atque ad patibulum raptus
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-D CAO-F"> moras carnificum arguendo</rdg>
+         <rdg wit="CAO-G"> moras crudelium arguendo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-D CAO-F"> ad poenam</rdg>
+         <rdg wit="CAO-G"> ad poenas</rdg>
+      </app> alacriter properabat</aBody>
+</ant>

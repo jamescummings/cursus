@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7182" nextid="c7184" id="c7183">
+   <header>
+      <usage ms="Alb2" code="07041000">[93v] matins-n2-r7</usage>
+      <usage ms="Bat" code="07041000">[56r] matins-n2-r6</usage>
+      <usage ms="Cdm" code="07041000">[67v] matins-n2-r6</usage>
+      <usage ms="Cht" code="07041000">[40v] matins-n2-r6</usage>
+      <usage ms="Ely" code="07041000">[77v] matins-n2-r6</usage>
+      <usage ms="Evm" code="07041000">[128r] matins-n2-r7</usage>
+      <usage ms="Hyd" code="07041000">[82r] matins-n2-r6</usage>
+      <usage ms="Mch" code="07041000">[137v] matins-n2-r7</usage>
+      <usage ms="Pet" code="07041000">[75v] matins-r6</usage>
+      <usage ms="Wcb" code="07041000">[104r] matins-n2-r7</usage>
+      <usage ms="Wor" code="07041000">[50v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Moyses famulus domini ieiunavit quadraginta diebus et quadraginta noctibus ut legem domini mereretur accipere</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Ascendit Moyses in montem Sinai</rdg>
+            <rdg wit="Ely"> Ascendit Moyses in montem domini</rdg>
+            <rdg wit="CAO-L"> Ascendens Moyse in montem Sinai</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Pet Alb2 Cdm Mch Bat" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+            <rdg wit="Cht Hyd Evm Wcb"> ubi constituerat ei deus</rdg>
+            <rdg wit="CAO-L"> ad dominum fuit ibi quadraginta diebus et quadraginta noctibus</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Bat">Ut legem</rep>
+   </verses>
+</res>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4825" nextid="c4827" id="c4826">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Saulus qui et Paulus magnus praedicator
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> a deo confortatus convalescebat</rdg>
+         <rdg wit="CAO-H"> a deo confortatus invalescebat</rdg>
+      </app> et confundebat Judaeos</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Ostendens quia hic est Christus</rdg>
+            <rdg wit="CAO-F"> Ostendens quoniam hic est Christus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> filius dei vivi</rdg>
+            <rdg wit="CAO-D"> filius dei</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

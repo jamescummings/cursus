@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1582" nextid="o1584" id="o1583">
+   <header>
+      <usage ms="Alb2" code="07035000"/>
+      <usage ms="Bat" code="07035000">[55v] vesp2</usage>
+      <usage ms="Cdm" code="07035000">[66v] vesp2</usage>
+      <usage ms="Cht" code="07035000"/>
+      <usage ms="Evm" code="07035000"/>
+      <usage ms="Hyd" code="07035000"/>
+      <usage ms="Mch" code="07035000">[135r] vesp2</usage>
+      <usage ms="Wcb" code="07035000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.247</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Hyd Evm Wcb Alb2 Cdm Mch Bat">Subiectum tibi populum quaesumus domine propitiatio caelestis amplificet
+     <app>
+         <rdg wit="Cht Hyd Evm Wcb Alb2 Cdm Bat"> et tuis semper faciat</rdg>
+         <rdg wit="Mch"> et tuis faciat semper</rdg>
+      </app> servire mandatis</pBody>
+</prayer>

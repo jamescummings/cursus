@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4440" nextid="c4442" id="c4441">
+   <header>
+      <usage ms="Alb2" code="02010100">[47v] lauds-a2</usage>
+      <usage ms="Cdm" code="02010100">[34r] lauds-a2</usage>
+      <usage ms="Evm" code="02010100">[61r] lauds-a2</usage>
+      <usage ms="Hyd" code="02010100">[34v] lauds-a2</usage>
+      <usage ms="Pet" code="02010100">[37r] lauds-a2</usage>
+      <usage ms="Wcb" code="02010100">[67r] lauds-a2</usage>
+      <usage ms="Wor" code="02010100">[25r] lauds-a2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.153</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Evm Cdm Wor Pet"> Quando natus est ineffabiliter ex virgine</rdg>
+         <rdg wit="Hyd Alb2 Wcb"> Quando natus es ineffabiliter ex virgine</rdg>
+         <rdg wit="CAO-B CAO-D"> Quando natus est ineffabiliter de virgine</rdg>
+      </app> tunc impletae sunt scripturae
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Cdm Wor Pet"> sicut pluvia in vellus descendisti</rdg>
+         <rdg wit="Hyd"> sicut pluvia in vellis descendisti</rdg>
+         <rdg wit="CAO-M"> sicut pluviam in vellus descendisti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor"> ut salvum faceres genus humanum</rdg>
+         <rdg wit="CAO-V Pet"> ut salvum faceret genus humanum</rdg>
+      </app> te laudamus deus noster</aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1501" nextid="o1503" id="o1502">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Bat" code="07014000">[49v] matins</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Evm" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[119r] vesp2</usage>
+      <usage ms="Wcb" code="07012000"/>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Mch Bat"> Absolve quaesumus domine nostrorum vincula peccatorum et quicquid pro eis meremur propitiatus averte</pBody>
+</prayer>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7701" nextid="c7703" id="c7702">
+   <header>
+      <usage ms="Alb2" code="02122600">[31r] matins-n1-r3</usage>
+      <usage ms="Bat" code="02122600">[19r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="02122600">[24r] matins-n1-r1</usage>
+      <usage ms="Evm" code="02122600">[39r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="02122600">[22r] matins-n1-r1</usage>
+      <usage ms="Pet" code="02122600">[21r] matins-n1-r1</usage>
+      <usage ms="Wcb" code="02122600">[58r] matins-n1-r1</usage>
+      <usage ms="Wor" code="02122600">[17r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Wor Pet"> Stephanus autem plenus gratia et fortitudine</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Alb2"> Stephanus autem plenus gratia et veritate</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Alb2 Evm Wcb"> faciebat signa magna et prodigia</rdg>
+         <rdg wit="CAO-C CAO-D CAO-L Hyd Bat Cdm Wor Pet"> faciebat prodigia et signa magna</rdg>
+      </app> in populo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Cum igitur saxorum crepitantium <corr sic="turbinem">turbine</corr> quateretur inter <corr sic="etheros">aethereos</corr> caelestis aulae sinus divina ei claritas fulsit</vBody>
+      <vBody type="r" wit="Hyd Bat Cdm Wor Pet"> Et non poterant resistere sapientiae et spiritui qui loquebatur</vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H Evm Wcb"> Stephanus vidit caelos apertos vidit et introivit</vBody>
+      <vBody type="r" wit="CAO-R"> Stephanus vidit caelos</vBody>
+      <vBody type="r" wit="CAO-S CAO-L Alb2"> Surrexerunt quidam de synagoga disputantes cum Stephano et non poterant resistere sapientiae et
+      <app>
+            <rdg wit="CAO-L Alb2"> spiritui qui loquebatur</rdg>
+            <rdg wit="CAO-S"> spiritu qui loquebantur</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F"> Surrexerunt quidam de synagoga quae appellatur Libertinorum et Cyrenensium disputantes cum Stephano</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">Faciebat</rep>
+   </verses>
+</res>

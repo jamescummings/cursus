@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7012" nextid="c7014" id="c7013">
+   <header>
+      <usage ms="Alb2" code="07051000">[98r] matins-n1-r1</usage>
+      <usage ms="Bat" code="07051000">[58v] matins-n1-r1</usage>
+      <usage ms="Cdm" code="07051000">[70v] matins-n1-r1</usage>
+      <usage ms="Cht" code="07051000">[46r] matins-n1-r1</usage>
+      <usage ms="Ely" code="07051000">[81r] matins-n1-r1</usage>
+      <usage ms="Evm" code="07051000">[133r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="07051000">[85v] matins-n1-r1</usage>
+      <usage ms="Mch" code="07051000">[144r] matins-n1-r1</usage>
+      <usage ms="Pet" code="07051000">[79r] matins-r1</usage>
+      <usage ms="Wcb" code="07051000">[107r] matins-n1-r1</usage>
+      <usage ms="Wor" code="07051000">[52v] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Isti sunt dies quos observare debetis</rdg>
+         <rdg wit="CAO-V"> Isti sunt dies quod observare debetis</rdg>
+      </app> temporibus suis
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> quartadecima die ad vesperum</rdg>
+         <rdg wit="CAO-C CAO-B"> quartadecima die ad vesperam</rdg>
+      </app> pascha domini est
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> et in quintadecima</rdg>
+         <rdg wit="Evm"> et in quintadecima die</rdg>
+      </app> solemnitatem celebrabitis
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> altissimo domino</rdg>
+         <rdg wit="CAO-G">temporibus suis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">Locutus est dominus ad Moysen dicens loquere filiis Israel et dices ad eos</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">Quartadecima</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1044" nextid="c1046" id="c1045">
+   <header>
+      <usage ms="Pet" code="02122600">[20v] matins inv</usage>
+      <usage ms="Wor" code="02122600">[16v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-G CAO-F Wor Pet">
+      <app>
+         <rdg wit="CAO-G Wor Pet"> Beatus Stephanus Christi martyr</rdg>
+         <rdg wit="CAO-F"> Beatus Laurentius Christi martyr</rdg>
+      </app> triumphat coronatus
+     <app>
+         <rdg wit="CAO-G Wor Pet"> in caelis</rdg>
+         <rdg wit="CAO-F"> in caelum</rdg>
+      </app>
+   </aBody>
+</ant>

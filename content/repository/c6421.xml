@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6420" nextid="c6422" id="c6421">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <rBody wit="CAO-L Hyd"> Deus in nomine tuo salvum me fac domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L Hyd"> Et in virtute tua libera me</vBody>
+      <rep type="r" wit="CAO-L"> Salvum</rep>
+      <dox type="r" wit="Hyd">Gloria patri</dox>
+   </verses>
+</res>

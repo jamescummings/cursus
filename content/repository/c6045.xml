@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6044" nextid="c6046" id="c6045">
+   <rBody wit="CAO-D CAO-F CAO-S"> Adoramus te Christe et benedicimus tibi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S">Quia per crucem tuam redemisti mundum</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Et</rep>
+   </verses>
+</res>

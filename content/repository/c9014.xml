@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9013" nextid="c9015" id="c9014">
+   <header>
+      <usage ms="Cht" code="06021000">[14r] matins-n2-r8</usage>
+   </header>
+   <rBody wit="Cht"> Aperiens Noe fenestram arcae emisit columbam ut videret <corr sic="suam" resp="DC">si iam</corr> cessent aquae super faciem terrae</rBody>
+   <verses>
+      <vBody type="r" wit="Cht"> At illa venit ad eum ad vesperam ramum olivae portans in ore suo</vBody>
+      <rep type="r" wit="Cht">Emisit</rep>
+   </verses>
+</res>

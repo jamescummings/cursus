@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7648b" nextid="c7650" id="c7649">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Si diligis me Simon Petre pasce oves meas domine tu nosti quia amo te et animam meam pono pro te</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-L"> Si oportuerit me</rdg>
+            <rdg wit="CAO-V CAO-D CAO-F"> Etsi oportuerit me</rdg>
+         </app> mori tecum non te negabo</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Et animam</rep>
+      <rep type="r" wit="CAO-L">Domine</rep>
+   </verses>
+</res>

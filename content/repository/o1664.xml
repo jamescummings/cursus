@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1663" nextid="o1665" id="o1664">
+   <header>
+      <usage ms="Cdm" code="02122800">[29v] matins-n3</usage>
+      <usage ms="Alb2" code="02122800">[39v] matins-n3</usage>
+      <usage ms="Bat" code="02122700">[22v] vesp2 commemoration</usage>
+      <usage ms="Evm" code="02122700">[46r] vesp2 commemoratio</usage>
+      <usage ms="Hyd" code="02122700"/>
+      <usage ms="Wcb" code="02122700">[62v] vesp2 commemoratio</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.75</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Wcb Bat Cdm"> Deus cuius hodierna die praeconium innocentes martyres non loquendo sed moriendo confessi sunt omnia in nobis vitiorum mala mortifica ut fidem tuam quam lingua nostra loquitur etiam moribus vita fateatur</pBody>
+</prayer>

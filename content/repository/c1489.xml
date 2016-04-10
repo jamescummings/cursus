@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1488" nextid="c1490" id="c1489">
+   <header>
+      <usage ms="Cht" code="05041000">[6r] lauds gosp</usage>
+      <usage ms="Hyd" code="05051000"/>
+      <usage ms="Pet" code="05051000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Pet Cht">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R Hyd Pet Cht"> Ascendente Jesu in naviculam</rdg>
+         <rdg wit="CAO-D CAO-F CAO-L"> Ascendente Jesu in navicula</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V"> Abeunte Jesu in navicula</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Pet Cht"> ecce</rdg>
+         <rdg wit="CAO-M"> et ecce</rdg>
+      </app> motus magnus factus est
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Pet Cht"> in mari</rdg>
+         <rdg wit="CAO-F Hyd"> in mare</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Pet Cht"> et suscitaverunt eum</rdg>
+         <rdg wit="Hyd"> et excitaverunt eum</rdg>
+      </app> discipuli eius dicentes
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> domine salva nos perimus</rdg>
+         <rdg wit="Pet Cht"> domine salva nos</rdg>
+      </app>
+   </aBody>
+</ant>

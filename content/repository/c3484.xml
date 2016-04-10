@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3483" nextid="c3485" id="c3484">
+   <header>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Jesum qui crucifixus est quaeritis alleluia non est hic surrexit enim
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Hyd"> sicut dixit vobis alleluia</rdg>
+         <rdg wit="CAO-L"> sicut dixi vobis alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

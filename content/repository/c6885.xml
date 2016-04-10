@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6884" nextid="c6886" id="c6885">
+   <header>
+      <usage ms="Alb2" code="02122600">[32v] matins-n3-r10</usage>
+      <usage ms="Bat" code="02122600">[20r] matins-n3-r10</usage>
+      <usage ms="Cdm" code="02122600">[25r] matins-n3-r10</usage>
+      <usage ms="Evm" code="02122600" corresp="c6885-1">[42r] vesp2</usage>
+      <usage ms="Evm" code="02122600">[40r] matins-n2-r6</usage>
+      <usage ms="Pet" code="02122600">[22v] matins-n2-r7</usage>
+      <usage ms="Wcb" code="02122600">[59r] matins-n2-r6</usage>
+      <usage ms="Wor" code="02122600" corresp="c6885-3">[17r] matins-n1-r4</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">for vesp2 Evm uses two verses (or is the second really a doxology?)</note>
+         <note place="unspecified" anchored="yes">for verse in Bat, Cdm --- cf. antiphon c1499</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> Impetum fecerunt
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> unanimes</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V"> unianimes</rdg>
+         <rdg wit="CAO-E CAO-F"> unanimiter</rdg>
+      </app> in eum
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-D CAO-F CAO-S CAO-L Alb2 Wcb Bat Cdm Wor Pet"> et eiecerunt</rdg>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-R"> eiecerunt</rdg>
+         <rdg wit="CAO-E CAO-V Evm"> et eiecentes</rdg>
+      </app> eum extra civitatem invocantem et dicentem domine accipe spiritum meum</rBody>
+   <verses>
+      <vBody type="r" wit="Bat Cdm"> Aspiciens in caelum beatus Stephanus orabat dicens</vBody>
+      <vBody type="r" wit="Alb2"> Cum autem esset Stephanus plenus spiritu sancto intuens in caelum ait</vBody>
+      <vBody type="r" wit="CAO-G CAO-F CAO-S CAO-L Evm Wcb"> Et testes deposuerunt
+      <app>
+            <rdg wit="CAO-F CAO-S CAO-L Evm Wcb"> vestimenta sua</rdg>
+            <rdg wit="CAO-G"> vestimenta</rdg>
+         </app> secus pedes adolescentis qui vocabatur Saulus
+      <app>
+            <rdg wit="CAO-G CAO-S CAO-L Evm Wcb"> et lapidabant eum</rdg>
+            <rdg wit="CAO-F"> et lapidabant Stephanum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D"> Positis autem genibus</rdg>
+            <rdg wit="CAO-B CAO-V"> Positis genibus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-H"> Stephanus</rdg>
+            <rdg wit="CAO-B CAO-R CAO-D"> beatus Stephanus</rdg>
+         </app> orabat dicens</vBody>
+      <vBody type="r" wit="CAO-M"> Stephanus autem plenus gratia et fortitudine elevans oculos suos ad caelum et dixit</vBody>
+      <vBody type="r" wit="Pet">Stephanus dei gratia plenus erat in plebe signa multa faciebat caelos apertos aspiciebat Jesum stantem videbat a dextris dei et dicebat</vBody>
+      <vBody id="c6885-1" type="r" num="2" wit="Evm">Stephanus dei gratia plenus erat in plebe multa signa faciebat caelos apertos aspiciebat Jesum stantem videbat a dextris dei et dicebat</vBody>
+      <rep corresp="c6885-1" type="r" wit="Evm">Domine</rep>
+      <vBody id="c6885-3" type="r" num="1" wit="Wor">Stephanus dei gratia plenus erat in plebe multa signa faciebat caelos apertos aspiciebat Jesum stantem videbat a dextris dei et dicebat</vBody>
+      <rep corresp="c6885-3" type="r" wit="Wor">Domine</rep>
+      <dox type="r" wit="Wor Pet">Gloria deo per cuncta patri summo
+      <app>
+            <rdg wit="Wor"> eiusque digne sibi nato</rdg>
+            <rdg wit="Pet"> eiusque proli soli digne laudes</rdg>
+         </app> ac utriusque spiritui sancto sicut erat primo et nunc et semper et in saecula</dox>
+      <rep type="r" wit="Wor Pet">Domine</rep>
+      <vBody id="c6885-2" type="r" num="3" wit="Evm">Gloria deo per cuncta patri magno eiusque soli sibi digne nato ac utriusque spiritui sancto sicut erat primo et nunc et semper et in saecula amen</vBody>
+      <rep corresp="c6885-2" type="r" wit="Evm">Domine</rep>
+      <rep type="r" wit="CAO-G CAO-F CAO-L Evm Wcb">Invocantem</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Alb2 Bat Cdm">Domine</rep>
+      <prosula wit="CAO-D">Stephanus dei gratia plenus erat in plebe multa signa faciebat caelos apertos aspiciebat Jesum stantem videbat a dextris dei et dicebat</prosula>
+      <rep type="p" wit="CAO-D">Domine</rep>
+      <dox type="p" wit="CAO-D"> Gloria deo patri magno eiusque filio sibi digne nato ac utriusque flamini sacro per omnia saecula saeculorum Amen</dox>
+   </verses>
+</res>

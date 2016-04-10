@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5277" nextid="c5279" id="c5278">
+   <header>
+      <usage ms="Alb2" code="07023000"/>
+      <usage ms="Bat" code="07023000">[53r] lauds gosp</usage>
+      <usage ms="Cdm" code="07023000">[62v] lauds-a1</usage>
+      <usage ms="Cht" code="07023000"/>
+      <usage ms="Ely" code="07023000"/>
+      <usage ms="Hyd" code="07023000"/>
+      <usage ms="Mch" code="07023000">[125v] vesp2-a1</usage>
+      <usage ms="Pet" code="07023000"/>
+      <usage ms="Wor" code="07023000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Cht Pet Alb2 Cdm Mch Bat"> Unus est enim magister vester
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Cht Pet Alb2 Cdm Mch Bat"> qui in caelis est</rdg>
+         <rdg wit="CAO-G"> qui in caelis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Hyd Pet Alb2 Cdm Mch Bat"> Christus dominus</rdg>
+         <rdg wit="CAO-V CAO-S Cht"> dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

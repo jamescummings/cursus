@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6087" nextid="c6089" id="c6088">
+   <header>
+      <usage ms="Evm" code="02122500">[36r] matins-n3-r10</usage>
+      <usage ms="Pet" code="02122500">[17r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="02122500">[55v] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-F CAO-L Evm Wcb Pet"> Angelus ad pastores ait annuntio vobis gaudium magnum
+     <app>
+         <rdg wit="CAO-L Evm Wcb Pet"> quod erit omni populo</rdg>
+         <rdg wit="CAO-F" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F Evm Wcb Pet"> quia natus est vobis</rdg>
+         <rdg wit="CAO-L"> quia natus est nobis</rdg>
+      </app> salvator qui est Christus dominus in civitate David</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-L Evm Wcb Pet">Invenientis infantem pannis involutum et positum in praesepio</vBody>
+      <rep type="r" wit="CAO-L">Quia</rep>
+      <rep type="r" wit="CAO-F Evm Wcb Pet">Qui est</rep>
+   </verses>
+</res>

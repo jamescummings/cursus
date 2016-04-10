@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6136" nextid="c6138" id="c6137">
+   <header>
+      <usage ms="Alb2" code="07061000">[104r] matins-n1-r3</usage>
+      <usage ms="Bat" code="07061000">[62r] matins-n1-r3</usage>
+      <usage ms="Cdm" code="07061000">[74r] matins-r3</usage>
+      <usage ms="Cht" code="07061000">[53r] matins-n1-r3</usage>
+      <usage ms="Ely" code="07061000">[85r] matins-n1-r3</usage>
+      <usage ms="Evm" code="07061000">[141v] matins-n1-r3</usage>
+      <usage ms="Hyd" code="07061000">[91r] matins-n3-r9</usage>
+      <usage ms="Mch" code="07061000">[152r] matins-n1-r3</usage>
+      <usage ms="Pet" code="07061000">[83v] matins-n1-r3</usage>
+      <usage ms="Wcb" code="07061000">[111r] matins-n1-r3</usage>
+      <usage ms="Wor" code="07061000">[55r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Attende domine ad me et audi voces adversariorum meorum numquid redditur pro bono malum quia foderunt foveam animae meae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Ely Hyd Pet Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D Pet Mch"> Homo pacis meae in quo sperabam</rdg>
+            <rdg wit="CAO-H Ely Hyd"> Homo pacis meae in quo speravi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D Ely Hyd Pet Mch"> ampliavit adversum me supplantationem</rdg>
+            <rdg wit="CAO-M"> ampliavit adversum me supplantatione</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L Wor Cht Evm Wcb Alb2 Cdm Bat"> Recordare quod steterim in conspectu tuo ut loquerer pro eis
+      <app>
+            <rdg wit="CAO-F Cht Evm Wcb Alb2 Cdm">bonum et averterem</rdg>
+            <rdg wit="Wor Bat"> bona et averterem</rdg>
+            <rdg wit="CAO-L">bonum et avertere</rdg>
+            <rdg wit="CAO-S">bona et ut averteret</rdg>
+         </app> indignationem tuam ab eis</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Alb2 Cdm Bat">Numquid</rep>
+      <rep type="r" wit="CAO-B Cht Evm Wcb Mch"> Quia</rep>
+   </verses>
+</res>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1723" nextid="o1725" id="o1724">
+   <header>
+      <usage ms="Cdm" code="08011000">[81v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.389</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Concede quaesumus omnipotens deus ut qui resurrectionis dominicae sollemnia colimus innovatione tui spiritus a morte animae resurgamus</pBody>
+</prayer>

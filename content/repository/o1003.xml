@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1002" nextid="o1004" id="o1003">
+   <header>
+      <usage ms="Alb2" code="06031000">[69v] vesp1</usage>
+      <usage ms="Hyd" code="06031000">[65r] vesp1</usage>
+      <usage ms="Wcb" code="06031000">[88v] vesp1</usage>
+   </header>
+   <pBody wit="Hyd Alb2 Wcb">
+      <app>
+         <rdg wit="Hyd">Preces populi tui quaesumus domine clementer exaudi</rdg>
+         <rdg wit="Alb2 Wcb">Preces nostras quaesumus domine clementer exaudi</rdg>
+      </app> atque a peccatorum vinculis absolutos ab omni nos adversitate custodi
+    </pBody>
+</prayer>

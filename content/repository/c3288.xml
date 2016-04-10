@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3287" nextid="c3289" id="c3288">
+   <header>
+      <usage ms="Alb2" code="07011000">[78r] lauds</usage>
+      <usage ms="Bat" code="07011000">[48v] lauds-a4</usage>
+      <usage ms="Cdm" code="07011000">[57v] lauds-a4</usage>
+      <usage ms="Cht" code="07011000">[24r] lauds</usage>
+      <usage ms="Ely" code="07011000">[68r] lauds</usage>
+      <usage ms="Evm" code="07011000">[107v] lauds</usage>
+      <usage ms="Hyd" code="07011000">[70v] lauds</usage>
+      <usage ms="Mch" code="07011000">[116r] lauds-a4</usage>
+      <usage ms="Pet" code="07011000">[65r] lauds-a2</usage>
+      <usage ms="Wcb" code="07011000">[94r] lauds</usage>
+      <usage ms="Wor" code="07011000">[44r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> In spiritu humilitatis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat"> et in animo contrito</rdg>
+         <rdg wit="CAO-C CAO-M CAO-L Mch"> et in anima contrita</rdg>
+         <rdg wit="CAO-V"> et in animo contrita</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-F CAO-L Hyd Ely Wor Cht Pet Evm Alb2 Cdm Bat Mch"> suscipiamur domine a te</rdg>
+         <rdg wit="CAO-C CAO-R CAO-S Wcb"> suscipiamur domine ad te</rdg>
+         <rdg wit="CAO-V"> suscipiamus domine ad te</rdg>
+      </app> et sic fiat sacrificium nostrum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-L Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat"> ut a te suscipiatur hodie</rdg>
+         <rdg wit="Mch"> ut a te hodie suscipiatur</rdg>
+         <rdg wit="CAO-C CAO-V"> ut ad te suscipiamur hodie</rdg>
+         <rdg wit="CAO-M"> ut ad te <corr sic="suscipiamur">suscipiatur</corr>
+         </rdg>
+         <rdg wit="CAO-F CAO-S"> ut ad te suscipiatur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-F CAO-S CAO-L Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> et placeat tibi domine deus</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R Hyd"> ut placeat tibi domine deus</rdg>
+      </app>
+   </aBody>
+</ant>

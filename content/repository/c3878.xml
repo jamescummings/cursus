@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3877" nextid="c3879" id="c3878">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> Nigra sum sed formosa</rdg>
+         <rdg wit="CAO-V"> Nigra sum et formosa</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L"> filia Jerusalem</rdg>
+         <rdg wit="CAO-R"> filiae Jerusalem</rdg>
+      </app> ideo dilexit me rex et introduxit me
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> in cubiculum suum</rdg>
+         <rdg wit="CAO-C"> in cubicula sua</rdg>
+      </app>
+   </aBody>
+</ant>

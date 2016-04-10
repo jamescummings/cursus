@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5060" nextid="c5062" id="c5061">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Super omnia ligna cedrorum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> tu sola excelsior</rdg>
+         <rdg wit="CAO-H"> crux sola excelsior</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> in qua vita mundi pependit</rdg>
+         <rdg wit="CAO-M"> in quo vita mundi pependit</rdg>
+      </app> in qua Christus triumphavit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-D CAO-S"> et mors mortem superavit alleluia</rdg>
+         <rdg wit="CAO-H CAO-F"> et mors mortem superavit in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7198" nextid="c7200" id="c7199">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Nativitas tua dei genitrix virgo gaudium
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-F CAO-S"> annuntiavit</rdg>
+         <rdg wit="CAO-B CAO-R"> annuntiabit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> universo mundo</rdg>
+         <rdg wit="CAO-E"> in universo mundo</rdg>
+      </app> ex te enim
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> ortus est</rdg>
+         <rdg wit="CAO-C">
+            <sic resp="Hesbert">hortus</sic> est</rdg>
+      </app> sol iustitiae Christus deus noster
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S"> qui solvens maledictionem</rdg>
+         <rdg wit="CAO-C CAO-V"> exsolvens maledictionem</rdg>
+         <rdg wit="CAO-M"> exsolvens maledictione</rdg>
+      </app> dedit benedictionem et confundens mortem donavit nobis vitam sempiternam</rBody>
+   <rBody wit="CAO-L" num="2"> Nativitas tua dei genitrix virgo gaudium annuntiavit universo mundo ex te enim ortus est sol iustitiae Christus deus noster</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-F"> Ave Maria gratia plena dominus tecum</vBody>
+      <vBody type="r" wit="CAO-M"> Ave Maria</vBody>
+      <vBody type="r" wit="CAO-V"> Adiuvabit eam deus vultu suo deus in medio eius non commovebitur</vBody>
+      <vBody type="r" wit="CAO-B"> Corde et animo</vBody>
+      <vBody type="r" wit="CAO-L"> Exsolvens maledictionem dedit benedictionem et confundens mortem condonavit nobis vitam sempiternam</vBody>
+      <vBody type="r" wit="CAO-S"> Felix namque es quae sola ex genitricis dignitate obtinuisti et virginalem pudicitiam non amisisti</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-F">Qui solvens</rep>
+      <rep type="r" wit="CAO-R CAO-S">Et confundens</rep>
+      <rep type="r" wit="CAO-M CAO-V">Exsolvens</rep>
+      <rep type="r" wit="CAO-B">Qui solvens</rep>
+      <rep type="r" wit="CAO-L">Ex te</rep>
+   </verses>
+</res>

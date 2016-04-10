@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4857" nextid="c4858b" id="c4858">
+   <aBody wit="CAO-M CAO-H CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-H CAO-F"> Sedit angelus ad sepulcrum domini</rdg>
+         <rdg wit="CAO-M CAO-D"> Stetit angelus ad sepulcrum domini</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-D CAO-F"> stola claritatis coopertus</rdg>
+         <rdg wit="CAO-M"> stola claritatis quo opertus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-F"> videntes eum mulieres</rdg>
+         <rdg wit="CAO-D"> videntes mulieres</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-F"> nimio terrore perterritae</rdg>
+         <rdg wit="CAO-D"> nimio terrore preterritae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-F"> astiterunt a longe</rdg>
+         <rdg wit="CAO-H"> substiterunt a longe</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-D"> tunc locutus est angelus et dixit eis</rdg>
+         <rdg wit="CAO-F"> tunc locutus est angelus et dixit ei</rdg>
+      </app> nolite metuere dico vobis quia illum quem quaeritis mortuum iam vivit et vita hominum cum eo surrexit alleluia</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D CAO-F"> Crucifixum in carne laudate et sepultum propter vos glorificate resurgentemque de morte adorate</vBody>
+      <rep type="a" wit="CAO-D CAO-F"> Nolite</rep>
+      <vBody type="a" wit="CAO-H"> Recordamini quomodo praedixit quia oportet filium hominis crucifigi et tertia die a morte suscitari Nolite metuere</vBody>
+   </verses>
+</ant>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2871" nextid="c2873" id="c2872">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2"> Fili quid fecisti nobis sic ego et pater tuus dolentes quaerebamus te
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-L Alb2"> quid est quod me quaerebatis</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V"> et quid est quod me quaerebatis</rdg>
+         <rdg wit="CAO-F">
+            <del status="unremarkable">et</del> quid est quod me quaerebatis</rdg>
+         <rdg wit="CAO-S">
+            <add hand="scribe">et</add> quid est quod me quaerebatis</rdg>
+      </app> nesciebatis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> quia in his</rdg>
+         <rdg wit="CAO-L Alb2"> quia in hiis</rdg>
+      </app> quae patris mei sunt oportet me esse</aBody>
+</ant>

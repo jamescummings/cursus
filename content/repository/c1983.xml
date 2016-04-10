@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1982" nextid="c1984" id="c1983">
+   <header>
+      <usage ms="Glo" code="07061000">[74r] procession-a12</usage>
+   </header>
+   <aBody wit="CAO-H CAO-D CAO-F"> Cum audisset populus quia Jesus venit Jerosolymam acceperunt ramos palmarum et exierunt ei obviam et clamabant pueri dicentes hic est qui venturus est in salutem populi haec est salus nostra et redemptio Israel quantus est iste cui throni et dominationes occurrunt noli timere filia Sion ecce rex tuus venit tibi sedens super pullum asinae sicut scriptum est salve rex fabricator mundi qui venisti redimere nos</aBody>
+   <aBody wit="Glo"> Cum audisset populus quia Jesus venit Jerosolymam acceperunt ramos palmarum et exierunt ei obviam et clamabant pueri dicentes  <rubric type="general">pueri</rubric>
+      <rubric type="verse">V.</rubric>hic est qui venturus erat pro salute populi <rubric type="verse">V.</rubric> hic est salus nostra et redemptio Israel <rubric type="general">pueri</rubric>
+      <rubric type="verse">V.</rubric> quantus est iste cui throni et dominationes occurrunt noli timere filia Sion ecce rex tuus venit tibi sedens super pullum asinae sicut scriptum est</aBody>
+</ant>

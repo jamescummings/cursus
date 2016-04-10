@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1537" nextid="o1539" id="o1538">
+   <header>
+      <usage ms="Alb2" code="07034000"/>
+      <usage ms="Alb2" code="07056000">[103r] vesp2</usage>
+      <usage ms="Bat" code="07034000">[55v] vesp2</usage>
+      <usage ms="Cdm" code="07034000">[66r] vesp2</usage>
+      <usage ms="Cdm" code="07056000">[73r] vesp2</usage>
+      <usage ms="Cht" code="07034000"/>
+      <usage ms="Ely" code="07034000"/>
+      <usage ms="Evm" code="07034000"/>
+      <usage ms="Evm" code="07056000" corresp="o1538_1"/>
+      <usage ms="Hyd" code="07034000"/>
+      <usage ms="Mch" code="07034000">[134v] vesp2</usage>
+      <usage ms="Mch" code="07056000">[150v] vesp2</usage>
+      <usage ms="Wcb" code="07034000"/>
+      <usage ms="Wcb" code="07056000">[110v] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.243</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch Bat">Concede quaesumus omnipotens deus ut qui protectionis tuae gratiam querimus
+     <app>
+         <rdg wit="Ely Cht Hyd Wcb Alb2 Cdm Mch Bat"> liberati a malis omnibus</rdg>
+         <rdg wit="Evm"> liberati ab omnibus malis</rdg>
+      </app> secura tibi mente serviamus</pBody>
+   <pBody id="o1538_1" wit="Evm" num="2">Concede quaesumus omnipotens deus ut qui protectionis tuae gratiam querimus liberati a malis omnibus secura tibi mente famulemur</pBody>
+</prayer>

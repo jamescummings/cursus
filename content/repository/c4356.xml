@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4355" nextid="c4357" id="c4356">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Praeceptor per totam noctem laborantes</rdg>
+         <rdg wit="CAO-L"> Praeceptor per totam noctem laborantem</rdg>
+      </app> nihil cepimus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in verbo autem tuo</rdg>
+         <rdg wit="CAO-M"> sed in verbo tuo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> laxabo rete</rdg>
+         <rdg wit="CAO-H"> laxabo rete alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

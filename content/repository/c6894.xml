@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6893" nextid="c6895" id="c6894">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> In conspectu angelorum psallam tibi et adorabo ad templum sanctum tuum et confitebor
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> nomini tuo domine</rdg>
+         <rdg wit="CAO-C"> nomini tuo</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-F"> Super misericordiam tuam et veritatem tuam</rdg>
+            <rdg wit="CAO-R CAO-D"> Super misericordia tua et veritate tua</rdg>
+         </app> quoniam magnificasti super omne nomen sanctum tuum</vBody>
+      <vBody type="r" wit="CAO-C CAO-V CAO-H"> Angelus qui fuit cum Jacob
+       <app>
+            <rdg wit="CAO-C"> ipse sit</rdg>
+            <rdg wit="CAO-H"> sit</rdg>
+            <rdg wit="CAO-V"> ita erit</rdg>
+         </app> mecum in terra peregrinationis meae
+       <app>
+            <rdg wit="CAO-V CAO-H"> et benedicat</rdg>
+            <rdg wit="CAO-C"> et benedixit</rdg>
+         </app> vias meas Deus meus</vBody>
+      <vBody type="r" wit="CAO-L"> Deus meus es tu et confitebor tibi Deus meus es tu et exaltabo te</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">Et confitebor</rep>
+      <rep type="r" wit="CAO-C CAO-M">Et adorabo</rep>
+   </verses>
+</res>

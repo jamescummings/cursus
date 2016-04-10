@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3859" nextid="c3860b" id="c3860">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ne magnitudo revelationum extollat me datus est mihi stimulus angelus Satanae
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-S CAO-L"> qui me colaphizet</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D"> ut me colaphizet</rdg>
+      </app> propter quod ter dominum rogavi
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> ut auferretur a me</rdg>
+         <rdg wit="CAO-H"> ut auferatur a me</rdg>
+      </app> et dixit mihi dominus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-D CAO-F CAO-S CAO-L"> sufficit tibi Paule gratia mea</rdg>
+         <rdg wit="CAO-M CAO-R"> sufficit tibi Saule gratia mea</rdg>
+         <rdg wit="CAO-V"> sufficit tibi Paule gratiam meam</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Nam virtus in infirmitate perficitur</vBody>
+   </verses>
+</ant>

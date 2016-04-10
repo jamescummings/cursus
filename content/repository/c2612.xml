@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2611" nextid="c2613" id="c2612">
+   <header>
+      <usage ms="Alb2" code="01032000">[14v] lauds-a5</usage>
+      <usage ms="Cdm" code="01032000">[16r] lauds-a5</usage>
+      <usage ms="Ely" code="01032000">[11v] lauds-a6</usage>
+      <usage ms="Evm" code="01036009">[27r] lauds-a5</usage>
+      <usage ms="Evm" code="01042000">[25r] lauds-a5</usage>
+      <usage ms="Glo" code="14032500">[69v] vesp2-a2</usage>
+      <usage ms="Hyd" code="01042000">[14v] lauds-a5</usage>
+      <usage ms="Mch" code="01032000">[12v] lauds-a5</usage>
+      <usage ms="Wcb" code="01042000">[50r] lauds-a5</usage>
+      <usage ms="Wor" code="01032000">[8v] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Egredietur dominus de loco sancto suo
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> veniet ut salvet</rdg>
+         <rdg wit="CAO-C"> veniet et salvet</rdg>
+         <rdg wit="CAO-L"> ut veniet et salvet</rdg>
+      </app> populum suum</aBody>
+   <aBody wit="Glo" type="incipit"> Egredietur dominus de loco sancto suo</aBody>
+</ant>

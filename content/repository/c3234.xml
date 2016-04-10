@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3233" nextid="c3235" id="c3234">
+   <header>
+      <usage ms="Alb2" code="02122700">[34r] matins-n1-a4</usage>
+      <usage ms="Bat" code="02122700">[20v] matins-n1-a4</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins-n1-a4</usage>
+      <usage ms="Evm" code="02122700">[42v] matins-n1-a4</usage>
+      <usage ms="Hyd" code="02122700">[23r] matins-n1-a4</usage>
+      <usage ms="Pet" code="02122700">[25r] matins-n1-a4</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins-n1-a4</usage>
+      <usage ms="Wor" code="02122700">[19r] matins-n1-a4</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> In ferventis olei dolium missus</rdg>
+         <rdg wit="CAO-E CAO-V CAO-S"> In ferventis olei dolio missus</rdg>
+      </app> Joannes apostolus divina se protegente gratia
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> illaesus exivit</rdg>
+         <rdg wit="CAO-G"> intactus exivit</rdg>
+      </app>
+   </aBody>
+</ant>

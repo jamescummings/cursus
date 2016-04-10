@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6399" nextid="c6401" id="c6400">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Decantabat populus in Israel</rdg>
+         <rdg wit="CAO-L"> Decantabat populus Israel</rdg>
+      </app> alleluia et universa multitudo Jacob
+         <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S"> canebat</rdg>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-L"> canebant</rdg>
+      </app> legitime et David cum cantoribus
+         <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> citharam</rdg>
+         <rdg wit="CAO-C CAO-V"> cythara</rdg>
+      </app> percutiebat in domo domini
+         <app>
+         <rdg wit="CAO-G CAO-H CAO-D CAO-F CAO-S"> et laudes Deo canebat</rdg>
+         <rdg wit="CAO-R"> et laudem Deo canebant</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V"> et laudem Deo canebat</rdg>
+         <rdg wit="CAO-E CAO-L"> et laudes Deo canebant</rdg>
+         <rdg wit="CAO-B"> et laudes Deo <sic resp="Hesbert">canebar</sic>
+         </rdg>
+      </app> alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Moyses et Aaron
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F"> in sacerdotibus eius</rdg>
+            <rdg wit="CAO-H"> in sacerdotibus suis</rdg>
+         </app> et Samuel inter eos
+       <app>
+            <rdg wit="CAO-V"> qui invocant nomen eius</rdg>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-F CAO-S"> Sanctificati sunt ergo sacerdotes</rdg>
+            <rdg wit="CAO-L"> Sanctificati sunt sacerdotes</rdg>
+         </app> et levitae et universus Israel
+       <app>
+            <rdg wit="CAO-F"> deducebat arcam</rdg>
+            <rdg wit="CAO-S"> deducebant arcam</rdg>
+            <rdg wit="CAO-L"> deducabatur cum arca</rdg>
+         </app> foederis domini in iubilo</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Et David</rep>
+   </verses>
+</res>

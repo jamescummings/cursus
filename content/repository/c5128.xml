@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5127" nextid="c5129" id="c5128">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Templum domini sanctum est dei cultura est
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> dei aedificatio est</rdg>
+         <rdg wit="CAO-V"> dei aedificatio hic est</rdg>
+      </app>
+   </aBody>
+</ant>

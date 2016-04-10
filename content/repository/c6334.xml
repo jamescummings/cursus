@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6333" nextid="c6335" id="c6334">
+   <rBody wit="CAO-C CAO-E CAO-V CAO-L"> Contristatus est rex Herodes propter iusiurandum et propter simul
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-L"> discumbentes</rdg>
+         <rdg wit="CAO-C"> discumbentis</rdg>
+      </app> noluit eam contristari
+      <app>
+         <rdg wit="CAO-V CAO-L"> caput Joannis iussit afferri</rdg>
+         <rdg wit="CAO-C" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+         <rdg wit="CAO-E"> sed misso spiculatore praecepit amputare caput Joannis in carcerem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-L">Herodes funestus
+       <app>
+            <rdg wit="CAO-C"> praecepit interficere et amputare iussit</rdg>
+            <rdg wit="CAO-E"> iussit interficere et amputare iussit</rdg>
+            <rdg wit="CAO-L"> praecepit interficere et amputare</rdg>
+            <rdg wit="CAO-V" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-V CAO-L">Caput</rep>
+   </verses>
+</res>

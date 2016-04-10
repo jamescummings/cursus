@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7208" nextid="c7210" id="c7209">
+   <rBody wit="CAO-M CAO-H CAO-S CAO-L"> Ne recorderis peccata mea domine dum veneris iudicare saeculum per ignem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-H"> Dirige domine deus meus in conspectu tuo viam meam</vBody>
+      <vBody type="r" wit="CAO-L"> Cui monti dicturus sum in illo die cade super me et absconde me</vBody>
+      <vBody type="r" wit="CAO-S"> Et non intres in iudicio cum servo tuo domine</vBody>
+      <rep type="r" wit="CAO-M CAO-H CAO-S CAO-L">Dum</rep>
+   </verses>
+</res>

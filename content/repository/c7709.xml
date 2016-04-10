@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7708" nextid="c7709b" id="c7709">
+   <rBody wit="CAO-R CAO-D CAO-F CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N">Stirps Jesse virgam produxit virgaque florem</l>
+         <l part="N">Et super hunc florem requiescit spiritus almus</l>
+      </lg>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F CAO-L">
+         <verse type="stanza">
+            <l part="N">
+               <app>
+                  <rdg wit="CAO-R">Virga dei genitrix virgo est</rdg>
+                  <rdg wit="CAO-D CAO-F CAO-L"> Virgo dei genitrix virga est</rdg>
+               </app> flos filius eius</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-R CAO-D CAO-F CAO-L">Et super</rep>
+   </verses>
+</res>

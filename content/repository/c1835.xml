@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1834" nextid="c1836" id="c1835">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Caeli aperti sunt super eum
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> et vox facta est de caelo</rdg>
+         <rdg wit="CAO-G"> et vox de caelo facta est</rdg>
+         <rdg wit="CAO-V"> et facta est vox de caelo</rdg>
+      </app> dicens hic est filius meus dilectus
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Pet"> in quo mihi complacui</rdg>
+         <rdg wit="CAO-C CAO-L Hyd"> in quo mihi complacuit</rdg>
+         <rdg wit="CAO-G"> in quo mihi complacui ipsum audite</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2194e" nextid="c2195b" id="c2195">
+   <header>
+      <usage ms="Alb2" code="01038000">[14v] lauds</usage>
+      <usage ms="Cdm" code="01042000">[19v] lauds gosp</usage>
+      <usage ms="Ely" code="01032000">[11r] </usage>
+      <usage ms="Evm" code="01032000">[18v] lauds gosp</usage>
+      <usage ms="Evm" code="01036009">[21r] prime</usage>
+      <usage ms="Mch" code="01048000">[19r] </usage>
+      <usage ms="Wcb" code="01032000">[47v] lauds gosp</usage>
+      <usage ms="Wor" code="01032000">[8r] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Ely Wor Wcb"> Dicit dominus paenitentiam agite
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Ely Wor Wcb"> appropinquabit enim</rdg>
+         <rdg wit="CAO-C"> appropinquavit enim</rdg>
+      </app> regnum caelorum alleluia</aBody>
+</ant>

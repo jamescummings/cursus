@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2126" nextid="c2128" id="c2127">
+   <aBody wit="CAO-C CAO-F">
+      <app>
+         <rdg wit="CAO-F"> Decem viri leprosi astiterunt a longe</rdg>
+         <rdg wit="CAO-C"> Decem viri leprosi steterunt a longe</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> et levaverunt vocem</rdg>
+         <rdg wit="CAO-C"> levaverunt vocem</rdg>
+      </app> dicentes Jesu praeceptor miserere nostri</aBody>
+</ant>

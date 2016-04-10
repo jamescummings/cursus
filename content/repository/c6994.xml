@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6993" nextid="c6994a" id="c6994">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for Assumption and Nativity of BVM</note>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-S CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-S CAO-D CAO-F"> Ista est speciosa</rdg>
+         <rdg wit="CAO-L"> Ista speciosa</rdg>
+      </app> inter filias Jerusalem sicut vidistis eam
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F"> plenam caritate et dilectione</rdg>
+         <rdg wit="CAO-C CAO-E CAO-L"> plenam caritatem et dilectionem</rdg>
+         <rdg wit="CAO-S"> plenam caritate<del status="unremarkable">m</del> et dilectionem</rdg>
+      </app> in cubilibus et in hortis aromatum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E"> Specie tua et pulchritudine tua intende prospere procede et regna</vBody>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R"> Specie tua</vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Ista est quae ascendit
+       <app>
+            <rdg wit="CAO-F"> de deserto</rdg>
+            <rdg wit="CAO-S CAO-L"> de desertum</rdg>
+         </app> deliciis affluens</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">In cubilibus</rep>
+   </verses>
+</res>

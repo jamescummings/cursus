@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1005" nextid="o1007" id="o1006">
+   <header>
+      <usage ms="Cdm" code="06035000">[55v] sext</usage>
+      <usage ms="Cht" code="06035000"/>
+      <usage ms="Hyd" code="06035000"/>
+   </header>
+   <pBody wit="Cht Hyd Cdm"> Da quaesumus domine fidelibus tuis ieiuniis paschalibus
+     <app>
+         <rdg wit="Cht Cdm">convenienter aptari</rdg>
+         <rdg wit="Hyd">aptari convenienter</rdg>
+      </app> ut suscepta solemniter castigatio corporalis cunctis ad fructum proficiat animarum</pBody>
+</prayer>

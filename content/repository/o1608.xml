@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1607" nextid="o1609" id="o1608">
+   <header>
+      <usage ms="Alb2" code="07014000"/>
+      <usage ms="Bat" code="07015000">[50v] lauds</usage>
+      <usage ms="Cdm" code="07014000">[59v] sext</usage>
+      <usage ms="Evm" code="07015000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.180/184</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Alb2 Cdm Bat">Devotionem populi tui
+     <app>
+         <rdg wit="Evm Alb2"> domine quaesumus</rdg>
+         <rdg wit="Cdm"> quaesumus domine</rdg>
+      </app> benignus intende ut qui per abstinentiam macerantur in corpore per fructum boni operis reficiantur in mente</pBody>
+</prayer>

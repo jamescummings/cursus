@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4545" nextid="c4547" id="c4546">
+   <header>
+      <usage ms="Hyd" code="10100000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Fec-B2 Hyd"> Quis enim in omnibus sicut David fidelis
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-F CAO-L Fec-B2 Hyd"> inventus est in regno tuo</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-S"> inventus est in regno suo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> egrediens et regrediens</rdg>
+         <rdg wit="Fec-B2"> ingrediens et egrediens</rdg>
+      </app> et pergens ad imperium regis</aBody>
+</ant>

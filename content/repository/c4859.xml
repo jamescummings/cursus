@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4858b" nextid="c4860" id="c4859">
+   <header>
+      <usage ms="Alb2" code="06021000">[69v] terce-a1</usage>
+      <usage ms="Bat" code="06021000">[44v] prime</usage>
+      <usage ms="Cdm" code="06021000">[52v] prime-a1</usage>
+      <usage ms="Cht" code="06021000">[15v] terce-a1</usage>
+      <usage ms="Ely" code="06021000">[62v] sext-a1</usage>
+      <usage ms="Evm" code="06028000"/>
+      <usage ms="Glo" code="06028000"/>
+      <usage ms="Hyd" code="06021000">[64v] prime</usage>
+      <usage ms="Mch" code="06021000">[105v] sext</usage>
+      <usage ms="Pet" code="06021000">[59v] sext</usage>
+      <usage ms="Wor" code="06021000">[39v] terce-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Glo Cdm Mch Bat"> Semen cecidit in terram bonam
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-L Evm Glo Mch">et obtulit fructum aliud centessimum et aliud sexagesimum</rdg>
+         <rdg wit="CAO-C">et tulit fructum aliud centessimum et aliud sexagesimum</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S Alb2 Cht Hyd Wor Pet Ely Cdm Bat">et attulit fructum aliud centessimum et aliud sexagesimum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1041" nextid="c1042b" id="c1042">
+   <header>
+      <usage ms="Alb2" code="01041000">[19r] matins-n3</usage>
+      <usage ms="Bat" code="01011000">[4r] commemoration</usage>
+      <usage ms="Cdm" code="01041000">[18v] matins-n3</usage>
+      <usage ms="Ely" code="01011000">[2r] commemoration</usage>
+   </header>
+   <aBody wit="CAO-G CAO-S Alb2 Cdm Ely Bat"> Ave Maria gratia plena dominus tecum benedicta tu
+     <app>
+         <rdg wit="CAO-G CAO-S Alb2"> in mulieribus</rdg>
+         <rdg wit="Cdm Ely Bat"> in mulieribus alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

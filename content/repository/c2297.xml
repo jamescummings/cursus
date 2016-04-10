@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2296" nextid="c2298" id="c2297">
+   <aBody wit="CAO-F CAO-L"> Dixit Jesus discipulis suis venite prandete
+     <app>
+         <rdg wit="CAO-F"> et accepit panem et dat eis alleluia</rdg>
+         <rdg wit="CAO-L"> et accepto pane dedit eis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

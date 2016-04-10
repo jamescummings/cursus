@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6759" nextid="c6760a" id="c6760">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">(The version for St Agatha and the Common of Virgins)</note>
+   <rBody wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gaudeamus omnes in domino diem festum celebrantes
+      <app>
+         <rdg wit="CAO-G CAO-H CAO-D CAO-F CAO-S CAO-L"> sub honore</rdg>
+         <rdg wit="CAO-B CAO-R"> in honore</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-L"> Agathae martyris</rdg>
+         <rdg wit="CAO-F"> Agathae virginis</rdg>
+         <rdg wit="CAO-S"> beatae virginis</rdg>
+      </app> de cuius passione gaudent angeli et
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-S CAO-L"> collaudant</rdg>
+         <rdg wit="CAO-F"> collaudent</rdg>
+      </app> filium Dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L"> Immaculatus dominus immaculatam sibi famulam in hoc fragilitatis corpore positam misericorditer consecravit</vBody>
+      <vBody type="r" wit="CAO-D"> Agathes ingressa carcerem benedicebat Dominum Jesum Christum</vBody>
+      <vBody type="r" wit="CAO-G"> Quinque prudentes virgines acceperunt oleum in vasis suis cum lampadibus</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> De cuius</rep>
+   </verses>
+</res>

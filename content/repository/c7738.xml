@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7737" nextid="c7739" id="c7738">
+   <header>
+      <usage ms="Cdm" code="08011000">[81v] vesp2</usage>
+      <usage ms="Hyd" code="08011000">[100r] lauds</usage>
+   </header>
+   <rBody wit="CAO-H CAO-S Hyd Cdm"> Surrexit dominus de sepulchro alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-S Hyd Cdm"> Qui pro nobis pependit in ligno</vBody>
+      <rep type="r" wit="CAO-H CAO-S Cdm"> Alleluia</rep>
+   </verses>
+</res>

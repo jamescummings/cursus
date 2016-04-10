@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4353b" nextid="c4355" id="c4354">
+   <aBody wit="CAO-E CAO-M CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-S"> Praecepto apostoli destructis a daemone simulacris</rdg>
+         <rdg wit="CAO-L"> Praecepto apostoli destructis a daemone simulacri</rdg>
+      </app> regi dixit Astragi Bartholomaeus
+     <app>
+         <rdg wit="CAO-E CAO-L"> ego iussi daemonibus quassare idola</rdg>
+         <rdg wit="CAO-S"> ego iussi daemonia quassare idola</rdg>
+         <rdg wit="CAO-M"> ego iussi daemoni<gap desc="two letters" reason="erasure" resp="Hesbert"/> quassare idola</rdg>
+      </app> ut gentes verum credant deum qui regnat in caelis</aBody>
+</ant>

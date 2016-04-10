@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4342" nextid="c4344" id="c4343">
+   <header>
+      <usage ms="Alb2" code="07066000">[111r] lauds gosp</usage>
+      <usage ms="Cdm" code="07066000">[79v] lauds gosp</usage>
+      <usage ms="Cht" code="07066000">[63v] lauds</usage>
+      <usage ms="Ely" code="07066000">[90v] lauds</usage>
+      <usage ms="Evm" code="07066000">[152v] lauds</usage>
+      <usage ms="Hyd" code="07066000">[97r] lauds</usage>
+      <usage ms="Mch" code="07066000">[162r] lauds gosp</usage>
+      <usage ms="Pet" code="07066000">[93r] lauds</usage>
+      <usage ms="Wcb" code="07066000">[117r] lauds</usage>
+      <usage ms="Wor" code="07066000">[62r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Alb2 Cdm Mch"> Posuerunt super caput eius</rdg>
+         <rdg wit="Pet"> Posuerunt super capito eius</rdg>
+      </app> causam ipsius scriptam Jesus Nazarenus rex Judaeorum</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-L"> Et erat ibi scriptum litteris hebraicis graecis et latinis</vBody>
+   </verses>
+</ant>

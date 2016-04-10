@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1705" nextid="c1707" id="c1706">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Benedicta gloria domini de loco suo
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-C CAO-D" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

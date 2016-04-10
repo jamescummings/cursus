@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3041" nextid="c3043" id="c3042">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-S"> Hi sancti viri</rdg>
+         <rdg wit="CAO-B CAO-R CAO-F"> Hii sancti viri</rdg>
+      </app> a beati Dionysii numquam sustinuerunt
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-F CAO-S"> abesse praesentia</rdg>
+         <rdg wit="CAO-V"> abesse praesentiam</rdg>
+      </app> quos in unum interrogatio percussoris invenit</aBody>
+</ant>

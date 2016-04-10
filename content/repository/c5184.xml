@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5183" nextid="c5185" id="c5184">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> Tribus miraculis ornatum diem sanctum colimus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S"> hodie stella magos duxit ad praesepium</rdg>
+         <rdg wit="CAO-M"> hodie stella magos duxit ad praesepia</rdg>
+         <rdg wit="CAO-L"> hodie stella magos duxit ad praesepio</rdg>
+      </app> hodie vinum ex aqua factum est ad nuptias
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> hodie a Joanne Christus baptizari voluit</rdg>
+         <rdg wit="CAO-M CAO-V"> hodie ab Joanne Christus baptizari voluit</rdg>
+         <rdg wit="CAO-S"> hodie ad Joanne Christus baptizari voluit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> ut salvaret nos alleluia</rdg>
+         <rdg wit="CAO-M CAO-V CAO-S"> ut salvaret nos deus noster</rdg>
+      </app>
+   </aBody>
+</ant>

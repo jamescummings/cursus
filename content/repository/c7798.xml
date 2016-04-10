@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7797" nextid="c7799" id="c7798">
+   <header>
+      <usage ms="Alb2" code="06011000">[65r] matins-n1-r4</usage>
+      <usage ms="Bat" code="06011000">[42r] matins-n2-r5</usage>
+      <usage ms="Cdm" code="06011000">[49r] matins-n1-r4</usage>
+      <usage ms="Cht" code="06011000">[11v] matins-n2-r5</usage>
+      <usage ms="Ely" code="06011000">[59v] matins-n1-r4</usage>
+      <usage ms="Evm" code="06011000">[92r] matins-n2-r5</usage>
+      <usage ms="Hyd" code="06011000">[61r] matins-n1-r4</usage>
+      <usage ms="Mch" code="06011000">[99v] matins-n2-r5</usage>
+      <usage ms="Pet" code="06011000">[55r] matins-n1-r4</usage>
+      <usage ms="Wor" code="06011000"/>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat Mch"> Tulit ergo dominus hominem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-L Hyd Wor Pet Evm Mch"> et posuit eum in paradisum voluptatis</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Alb2 Cht Ely Cdm Bat"> et posuit eum in paradiso voluptatis</rdg>
+      </app> ut operaretur et
+     <app>
+         <rdg wit="CAO-V CAO-H CAO-D CAO-F CAO-L Hyd Wor Pet Cdm Bat"> custodiret illum</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-R CAO-S Alb2 Cht Ely Evm Mch"> custodiret illud</rdg>
+         <rdg wit="CAO-C"> custodire illum</rdg>
+         <rdg wit="CAO-M"> custodiret eum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-H CAO-R Mch"> Formavit igitur dominus hominem de limo terrae
+      <app>
+            <rdg wit="CAO-B CAO-H CAO-R Mch"> et posuit eum in paradisum</rdg>
+            <rdg wit="CAO-C CAO-E"> et inspiravit in faciem eius spiraculum vitae</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat"> Plantaverat autem
+      <app>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat"> dominus deus</rdg>
+            <rdg wit="CAO-M"> dominus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat"> paradisum voluptatis a principio</rdg>
+            <rdg wit="CAO-M"> paradisum voluptatis</rdg>
+         </app> in quo posuit hominem quem formaverat</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat">Ut operaretur</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

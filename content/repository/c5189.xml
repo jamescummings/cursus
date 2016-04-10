@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5188" nextid="c5190" id="c5189">
+   <header>
+      <usage ms="Hyd" code="08041000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-L Hyd"> Tristitia implevit cor vestrum</rdg>
+         <rdg wit="CAO-G CAO-D"> Tristitia implebit cor vestrum</rdg>
+         <rdg wit="CAO-B CAO-E"> Tristitia implevit cor vestrum alleluia</rdg>
+         <rdg wit="CAO-F"> Tristitia implebit cor vestrum alleluia</rdg>
+      </app> et gaudium vestrum
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-L Hyd"> nemo tollet a vobis alleluia alleluia</rdg>
+         <rdg wit="CAO-G"> nemo tollet alleluia alleluia</rdg>
+         <rdg wit="CAO-B CAO-E CAO-M"> nemo tollet a vobis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1939" nextid="c1941" id="c1940">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] lauds-a3</usage>
+      <usage ms="Bat" code="02122400">[14r] lauds-a3</usage>
+      <usage ms="Cdm" code="02122400">[21r] lauds-a3</usage>
+      <usage ms="Ely" code="02122400">[17r] lauds-a3</usage>
+      <usage ms="Evm" code="02122400">[31v] lauds-a3</usage>
+      <usage ms="Hyd" code="02122400">[16v] lauds-a3</usage>
+      <usage ms="Mch" code="02122400">[23r] lauds-a3</usage>
+      <usage ms="Pet" code="02122400">[14r] lauds-a3</usage>
+      <usage ms="Wcb" code="02122400">[52v] lauds-a3</usage>
+      <usage ms="Wor" code="02122400">[13r] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Crastina die delebitur iniquitas terrae
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Cdm Mch Ely Wor"> et regnabit super nos</rdg>
+         <rdg wit="Alb2 Evm Wcb Bat Pet"> et regnabit super vos</rdg>
+         <rdg wit="CAO-C CAO-S"> et regnavit super nos</rdg>
+         <rdg wit="CAO-L"> et regnabit in nobis</rdg>
+      </app> salvator mundi</aBody>
+</ant>

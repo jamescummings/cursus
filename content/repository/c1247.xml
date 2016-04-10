@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1246" nextid="c1248" id="c1247">
+   <aBody wit="CAO-E CAO-F CAO-S"> Ad manus autem illum trahentes introduxerunt <name reg="Damascus" type="place">Damascum</name>
+      <app>
+         <rdg wit="CAO-E CAO-F"> et erat tribus diebus</rdg>
+         <rdg wit="CAO-S"> et erat ibi tribus diebus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F"> non videns et non manducavit</rdg>
+         <rdg wit="CAO-S"> non manducavit</rdg>
+      </app> neque bibit</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-E CAO-F"> Surrexit autem <name reg="Paulus" type="saint">Saulus</name> de terra apertisque oculis nihil videbat</vBody>
+   </verses>
+</ant>

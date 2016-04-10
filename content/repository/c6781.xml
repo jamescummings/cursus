@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6780" nextid="c6782" id="c6781">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gloriosae virginis Mariae ortum
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-S"> dignissimum recolentes</rdg>
+         <rdg wit="CAO-D"> dignissime recolamus</rdg>
+         <rdg wit="CAO-R CAO-F"> dignissimum recolamus</rdg>
+         <rdg wit="CAO-L"> dignissimum recolimus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-S"> cuius dominus humilitatem respiciens</rdg>
+         <rdg wit="CAO-B CAO-R CAO-L"> cuius dominus humilitatem respexit</rdg>
+         <rdg wit="CAO-H"> cuius domino humilitatem vidente</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> angelo nuntiante</rdg>
+         <rdg wit="CAO-L"> unde angelo nuntiante</rdg>
+         <rdg wit="CAO-E"> angelo narrante</rdg>
+      </app> concepit
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> redemptorem mundi</rdg>
+         <rdg wit="CAO-E CAO-S"> salvatorem mundi</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-D CAO-L"> Beatissimae virginis Mariae nativitatem devotissime celebremus</vBody>
+      <vBody type="r" wit="CAO-M"> Beatissimae</vBody>
+      <vBody type="r" wit="CAO-C CAO-B"> Beatissimae virginis Mariae</vBody>
+      <vBody type="r" wit="CAO-S"> Cum <corr sic="iucunditatem" resp="Hesbert">iucunditate</corr> nativitatem beatae Mariae devotissime celebremus</vBody>
+      <vBody type="r" wit="CAO-F"> Hodie nata est beata virgo Maria ex progenie David</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cuius</rep>
+   </verses>
+</res>

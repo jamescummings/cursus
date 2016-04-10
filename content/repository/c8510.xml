@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8509" nextid="c8511" id="c8510">
+   <header>
+      <usage ms="Ely" code="07057000">[84v] lauds</usage>
+      <usage ms="Hyd" code="07057000">[89v] lauds</usage>
+      <usage ms="Pet" code="07057000">[83r] -a1</usage>
+   </header>
+   <aBody wit="Ely Hyd Pet"> Caro mea vere est cibus et sanguis meus vere est potus</aBody>
+</ant>

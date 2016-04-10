@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6380" nextid="c6382" id="c6381">
+   <rBody wit="CAO-S CAO-L"> Cumque descendisset de navi ecce organa cum tibiis et cytharis rex filiam suam tradens
+      <app>
+         <rdg wit="CAO-L"> mandat ut dives et pauper civis et peregrinus veniret</rdg>
+         <rdg wit="CAO-S"> mandet ut divites et pauperes cives et peregrini venirent</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S CAO-L"> Quicumque non
+       <app>
+            <rdg wit="CAO-L"> venirent regem offenderent capitalem immo subirent sententiam</rdg>
+            <rdg wit="CAO-S"> veniret regem offenderet et captivitatis nimiae subire</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-S"> Rex</rep>
+      <rep type="r" wit="CAO-L"> Mandat</rep>
+   </verses>
+</res>

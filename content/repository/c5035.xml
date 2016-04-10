@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5034b" nextid="c5036" id="c5035">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Strinxerunt corporis membra</rdg>
+         <rdg wit="CAO-L"> Stridebant corporis membra</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-L"> posita super craticula</rdg>
+         <rdg wit="CAO-M"> positi super craticula</rdg>
+         <rdg wit="CAO-V"> positum super craticula</rdg>
+         <rdg wit="CAO-C CAO-B CAO-R CAO-D CAO-S"> posita super craticulam</rdg>
+         <rdg wit="CAO-H"> posita super craticula<del status="unremarkable">m</del>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L"> ministrantibus prunas</rdg>
+         <rdg wit="CAO-C"> superiectis prunis</rdg>
+         <rdg wit="CAO-M CAO-V"> ministrantibus prunis</rdg>
+         <rdg wit="CAO-D CAO-F"> subicientibus prunis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-S CAO-L"> insultat levita Christi</rdg>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F"> exsultat levita Christi</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-S">Carnifices vero urguentes</rdg>
+            <rdg wit="CAO-C">Carnifices vero</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-F">Carnifices vero urgentes</rdg>
+         </app> ministrabant carbones
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S"> subter cratem ferream</rdg>
+            <rdg wit="CAO-V CAO-F"> subter cratam ferream</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

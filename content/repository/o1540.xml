@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1539" nextid="o1541" id="o1540">
+   <header>
+      <usage ms="Ely" code="07035000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.855</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely">Purifica quaesumus domine tuorum corda fidelium ut a terrena cupiditate mundati et praesentis vitae periculis exuantur et perpetuis donis firmentur</pBody>
+</prayer>

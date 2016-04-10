@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7013" nextid="c7015" id="c7014">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Isti sunt duae olivae
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-D CAO-L"> candelabra</rdg>
+         <rdg wit="CAO-B CAO-R CAO-S"> et duo candelabra</rdg>
+      </app> lucentia ante dominum habent
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L"> potestatem</rdg>
+         <rdg wit="CAO-S"> potestates</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> claudere caelum nubibus</rdg>
+         <rdg wit="CAO-L"> claudere caelum ne pluant</rdg>
+      </app> et aperire
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> portas</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="potes">portas</corr>
+         </rdg>
+      </app> eius quia linguae eorum claves caeli factae sunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum</vBody>
+      <vBody id="c7014-1" type="r" wit="CAO-S"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum</vBody>
+      <rep corresp="c7014-1" type="r" wit="CAO-S">Quia</rep>
+      <vBody type="r" wit="CAO-M CAO-V"> In omnem terram</vBody>
+      <vBody type="r" wit="CAO-B CAO-H"> In omnem terram exivit</vBody>
+      <vBody id="c7014-2" type="r" num="2" wit="CAO-S"> Isti sunt duo filii splendoris qui assistunt Dominatori universae terrae</vBody>
+      <rep corresp="c7014-2" type="r" wit="CAO-S">Habent</rep>
+      <vBody type="r" wit="CAO-D"> Isti sunt duo viri misericordiae qui assistunt ante dominum</vBody>
+      <vBody type="r" wit="CAO-L"> Isti sunt viri misericordiae quorum iustitiae oblivionem non acceperunt</vBody>
+      <vBody type="r" wit="CAO-R"> Iusti autem in perpetuum vivent et apud dominum est merces eorum</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-D CAO-R">Habent</rep>
+      <rep type="r" wit="CAO-B CAO-H CAO-L">Quia</rep>
+   </verses>
+</res>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1540" nextid="c1542" id="c1541">
+   <header>
+      <usage id="c1541-1" ms="CAO-D" code="14012200"/>
+      <usage id="c1541-2" ms="CAO-D" code="14073100"/>
+      <usage id="c1541-3" ms="CAO-S" code="14111100"/>
+   </header>
+   <aBody corresp="c1541-2 c1541-3" wit="CAO-D CAO-S">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N">Ave praesul gloriose ave sidus iam caeleste</l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-D">decorans <name reg="Germanus" type="saint">Germane</name> caelum</rdg>
+               <rdg wit="CAO-S">decorans <name reg="Martinus" type="saint">Martine</name> caelo</rdg>
+            </app>
+            <app>
+               <rdg wit="CAO-D"> nos guberna virens humum</rdg>
+               <rdg wit="CAO-S"> nos gubernans virens humum</rdg>
+            </app>
+         </l>
+         <l part="N">quo laetemur triumphantes te patronum venerantes</l>
+      </lg>
+   </aBody>
+   <aBody corresp="c1541-1" wit="CAO-D" num="2"> Ave martyr gloriose ave sidus iam caeleste</aBody>
+</ant>

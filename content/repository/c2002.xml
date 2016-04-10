@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2001" nextid="c2003" id="c2002">
+   <header>
+      <usage ms="Hyd" code="08021000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-F CAO-S CAO-L"> Cum esset sero die illo una sabbatorum</rdg>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-D Hyd"> Cum esset sero die illa una sabbatorum</rdg>
+      </app> et fores essent clausae ubi erant discipuli congregati stetit Jesus in medio et dixit eis pax vobis alleluia</aBody>
+</ant>

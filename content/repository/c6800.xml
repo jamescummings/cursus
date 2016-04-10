@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6799" nextid="c6801" id="c6800">
+   <rBody wit="CAO-R CAO-S"> Haec est domus domini et porta caeli et vocabitur nomen loci huius
+      <app>
+         <rdg wit="CAO-R"> aula</rdg>
+         <rdg wit="CAO-S"> ala</rdg>
+      </app> Dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-S"> Fundata est domus domini super verticem montium et exaltata est super omnes colles</vBody>
+      <rep type="r" wit="CAO-R CAO-S"> Et vocabitur</rep>
+   </verses>
+</res>

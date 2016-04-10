@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6055" nextid="c6057" id="c6056">
+   <header>
+      <usage ms="Alb2" code="01031000">[12r] matins-n2-r5</usage>
+      <usage ms="Bat" code="01031000">[8v] matins-n2-r6</usage>
+      <usage ms="Cdm" code="01031000">[14v] matins-n2-r6</usage>
+      <usage ms="Ely" code="01031000">[10r] matins-n2-r6</usage>
+      <usage ms="Evm" code="01031000">[16v] matins-n2-r5</usage>
+      <usage ms="Hyd" code="01031000">[10r] matins-n2-r5</usage>
+      <usage ms="Mch" code="01031000">[10v] matins-n2-r5</usage>
+      <usage ms="Wcb" code="01031000">[46v] matins-n2-r5</usage>
+      <usage ms="Wor" code="01031000">[7r] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Aegypte noli flere quia dominator tuus veniet tibi ante cuius
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> conspectum</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-S CAO-L"> conspectu</rdg>
+      </app> movebuntur
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> abyssi</rdg>
+         <rdg wit="CAO-C"> abyssis</rdg>
+      </app> liberare
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Mch Wor Wcb"> populum suum</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-S Hyd Cdm Ely Bat"> populum tuum</rdg>
+         <rdg wit="CAO-V"> populum <corr sic="tuum">suum</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> de manu potentium</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-R CAO-S"> de manu potentiae</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-H CAO-L Mch"> Ecce dominator dominus cum virtute veniet</vBody>
+      <vBody type="r" wit="CAO-E"> Ecce dominator dominus</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-R"> Ecce dominator</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Ecce veniet dominus exercituum deus tuus 
+       <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-S Hyd Alb2 Evm Ely Wor Wcb Bat"> in</rdg>
+            <rdg wit="Cdm"> cum</rdg>
+         </app> potestate magna</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Ely Wor Wcb Bat">Liberare</rep>
+      <rep type="r" wit="CAO-V CAO-H">Ante cuius</rep>
+   </verses>
+</res>

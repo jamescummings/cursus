@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4552" nextid="c4554" id="c4553">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F"> Quo amplius gentilitatis fervere cognovit errorem</rdg>
+         <rdg wit="CAO-V"> Quo amplius gentilitatis fervore cognovit errorem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-F"> illuc intrepidus</rdg>
+         <rdg wit="CAO-V CAO-H"> illic intrepidus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-R"> et calore fidei flammatus accessit</rdg>
+         <rdg wit="CAO-H"> a calore fidei flammatus accessit</rdg>
+         <rdg wit="CAO-V CAO-D CAO-F"> et calore fidei armatus accessit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> ac Parisius domino ducente pervenit</rdg>
+         <rdg wit="CAO-C CAO-V"> ad Parisius domino ducente pervenit</rdg>
+         <rdg wit="CAO-D CAO-F"> et Parisius domino ducente pervenit</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Doctrina praeclarus miraculis coruscans et virtutum signis</vBody>
+   </verses>
+</ant>

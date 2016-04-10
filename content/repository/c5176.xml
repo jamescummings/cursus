@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5175" nextid="c5177" id="c5176">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-D"> Tres ex uno ore clamabant in camino ignis</rdg>
+         <rdg wit="CAO-E CAO-V"> Tres ex uno ore cantabant in camino ignis</rdg>
+         <rdg wit="CAO-R"> Tres ex uno ore laudabant in camino ignis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D"> et psallebant benedictus deus</rdg>
+         <rdg wit="CAO-V"> psallentes benedictus deus</rdg>
+      </app>
+   </aBody>
+</ant>

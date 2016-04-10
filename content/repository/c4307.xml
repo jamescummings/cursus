@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4306" nextid="c4308" id="c4307">
+   <aBody wit="CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-H"> Ponit nubem ascensum suum dominus</rdg>
+         <rdg wit="CAO-R"> Ponis nubem ascensum tuum domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H"> qui ambulat super pennas ventorum alleluia alleluia</rdg>
+         <rdg wit="CAO-R"> qui ambulas super pennas ventorum alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

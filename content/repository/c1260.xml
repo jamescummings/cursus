@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1259" nextid="c1261" id="c1260">
+   <aBody wit="CAO-G CAO-D CAO-S"> Adaperiat dominus cor vestrum in lege sua et in praeceptis suis
+     <app>
+         <rdg wit="CAO-G"> et faciat pacem in diebus nostris</rdg>
+         <rdg wit="CAO-D"> et faciat pacem</rdg>
+         <rdg wit="CAO-S"> et faciat pacem in diebus vestris</rdg>
+      </app> concedat vobis salutem et redimat vos a malis</aBody>
+</ant>

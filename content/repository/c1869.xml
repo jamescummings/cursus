@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1868" nextid="c1870" id="c1869">
+   <aBody wit="CAO-M CAO-V CAO-L">
+      <app>
+         <rdg wit="CAO-M CAO-V"> Confessor sancte sacerdos magne</rdg>
+         <rdg wit="CAO-L"> Confessor sancte et sacerdos magne</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> beate <name reg="Gregorius" type="saint">Gregorii</name>
+         </rdg>
+         <rdg wit="CAO-L"> beate ill</rdg>
+         <rdg wit="CAO-V">
+            <name reg="Zeno" type="saint">Zeno</name> beate</rdg>
+      </app> intercede pro nobis</aBody>
+</ant>

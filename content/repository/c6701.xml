@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6700" nextid="c6702" id="c6701">
+   <header>
+      <usage ms="Wor" code="01041000">[12v] lauds</usage>
+   </header>
+   <rBody wit="CAO-B Wor"> Exspectetur sicut pluvia eloquium domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B Wor"> Et descendat super nos sicut ros
+      <app>
+            <rdg wit="CAO-B"> deus noster eloquium</rdg>
+            <rdg wit="Wor"> deus noster</rdg>
+         </app>
+      </vBody>
+   </verses>
+</res>

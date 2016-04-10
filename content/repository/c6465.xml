@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6464" nextid="c6466" id="c6465">
+   <header>
+      <usage ms="Alb2" code="07021000">[84r] matins-r10</usage>
+      <usage ms="Bat" code="07021000">[52r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="07021000">[61v] matins-n3-r11</usage>
+      <usage ms="Cht" code="07021000">[30v] matins-n3-r11</usage>
+      <usage ms="Ely" code="07021000">[71v] matins-n3-r11</usage>
+      <usage ms="Evm" code="07021000">[116r] matins-n3-r11</usage>
+      <usage ms="Hyd" code="07021000">[75v] matins-n3-r11</usage>
+      <usage ms="Mch" code="07021000">[123r] matins-n3-r9</usage>
+      <usage ms="Pet" code="07021000">[68v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="07021000">[98v] matins-n3-r11</usage>
+      <usage ms="Wor" code="07021000">[46r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Dixit angelus ad Jacob dimitte me aurora est respondit ei non dimittam te nisi benedixeris mihi
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-L Ely Hyd Wor Cht Pet Evm Alb2 Cdm Bat Mch"> et benedixit eum in eodem loco</rdg>
+         <rdg wit="CAO-B CAO-R CAO-S Wcb"> et benedixit ei in eodem loco</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Ely Wor Pet Alb2 Cdm Bat Mch"> Benedicens benedicam tibi et multiplicabo te</vBody>
+      <vBody type="r" wit="CAO-G CAO-S CAO-L Hyd Cht Evm Wcb">
+         <app>
+            <rdg wit="CAO-S CAO-L Hyd Evm Cht Wcb"> Cumque mature surrexisset Jacob</rdg>
+            <rdg wit="CAO-G"> Cumque mature surrexisset </rdg>
+         </app> ecce vir luctabatur cum eo usque mane
+      <app>
+            <rdg wit="CAO-G CAO-S CAO-L Hyd"> et cum videret quod eum superare non posset</rdg>
+            <rdg wit="Evm Wcb Cht"> et cum vidisset quod superare eum non posset</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-S CAO-L Hyd Cht"> dixit ad eum</rdg>
+            <rdg wit="Evm Wcb"> dixit ei</rdg>
+         </app>
+      </vBody>
+      <vBody id="c6465-1" type="r" wit="CAO-F"> Benedicens benedicam tibi et multiplicabo te</vBody>
+      <rep corresp="c6465-1" type="r" wit="CAO-F"> Et benedixit</rep>
+      <vBody id="c6465-2" type="r" wit="CAO-F"> Cumque mature surrexisset Jacob ecce vir luctabatur cum eo usque mane et cum vidisset quod eum superare eum non posset dixit ad eum</vBody>
+      <rep corresp="c6465-2" type="r" wit="CAO-F"> Dimitte me</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D Ely Wor Pet Alb2 Cdm Mch"> Et benedixit</rep>
+      <rep type="r" wit="CAO-E CAO-M"> In eodem</rep>
+      <rep type="r" wit="CAO-L Hyd Evm"> Dimitte me</rep>
+      <rep type="r" wit="CAO-S"> Non dimittam</rep>
+   </verses>
+</res>

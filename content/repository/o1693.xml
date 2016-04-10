@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1692" nextid="o1694" id="o1693">
+   <header>
+      <usage ms="Hyd" code="08064000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Praesta quaesumus omnipotens pater ut mentis nostrae intentio quo filius tuus gloriosus auctor ingressus est semper intendat et quo fide pergit conversatione perveniat</pBody>
+</prayer>

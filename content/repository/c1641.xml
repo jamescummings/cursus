@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1640" nextid="c1642" id="c1641">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> dixit mea non obscurum non habet
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> sed omnia in luce clarescunt</rdg>
+         <rdg wit="CAO-M"> sed omnia in luce clarescit</rdg>
+         <rdg wit="CAO-H"> sed omnis in luce clarescit</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Quia ipse dominus novit
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S"> quia accusatus non negavi nomen sanctum eius</rdg>
+            <rdg wit="CAO-F"> quod accusatus non negavi nomen sanctum eius</rdg>
+            <rdg wit="CAO-V"> quod accusatus non negavi nomen sanctum tuum interrogatus te domine confessus sum</rdg>
+            <rdg wit="CAO-C"> quia accusatus non negavi interrogatus Christum confessus sum</rdg>
+            <rdg wit="CAO-D"> quia accusatus non negavi</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

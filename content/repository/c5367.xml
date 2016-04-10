@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5366" nextid="c5368" id="c5367">
+   <header>
+      <usage ms="Alb2" code="07036000"/>
+      <usage ms="Bat" code="07036000">[55v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07036000">[66v] vesp2</usage>
+      <usage ms="Ely" code="07036000"/>
+      <usage ms="Evm" code="07036000"/>
+      <usage ms="Glo" code="07036000"/>
+      <usage ms="Hyd" code="07036000"/>
+      <usage ms="Mch" code="07036000">[135v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07036000"/>
+      <usage ms="Wcb" code="07036000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Pet Wcb Glo Alb2 Cdm Mch Bat"> Veri adoratores adorabunt patrem</rdg>
+         <rdg wit="Evm"> Veri adoratores <add place="margin" hand="later">adorabunt</add> patrem</rdg>
+      </app> in spiritu et veritate</aBody>
+</ant>

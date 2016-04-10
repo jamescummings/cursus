@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7814" nextid="c7816" id="c7815">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Vade Luciane et dic Joanni episcopo Jerosolymitano usquequo clausi sumus usquequo non aperis nobis tuis
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> etenim</rdg>
+         <rdg wit="CAO-L"> eum</rdg>
+      </app> temporibus revelandi sumus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Aperi nobis velocius ut per nos ostium misericordiae suae humano generi aperiat Deus</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L">Tuis</rep>
+   </verses>
+</res>

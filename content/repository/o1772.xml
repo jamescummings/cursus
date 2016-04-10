@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1771" nextid="o1773" id="o1772">
+   <header>
+      <usage ms="Cdm" code="02122800">[29v] sext</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Fulda no.93</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Deus qui <sic resp="DC">bonis</sic> tuis infantium quoque nescia sacramenti corda praecedis tribue quaesumus ut nostrae conscientiae fiduciam non habentes indulgentia semper copiosa perveniat</pBody>
+</prayer>

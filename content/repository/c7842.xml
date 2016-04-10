@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7841" nextid="c7843" id="c7842">
+   <header>
+      <usage ms="Cdm" code="07021000">[61r] matins-n2-r6</usage>
+      <usage ms="Cht" code="07021000">[30r] matins-n2-r6</usage>
+      <usage ms="Ely" code="07021000">[71v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="07021000">[74v] matins-n2-r6</usage>
+      <usage ms="Pet" code="07021000">[68r] matins-n2-r6</usage>
+      <usage ms="Wor" code="07021000">[45v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-D Hyd Ely Wor Cht Pet Cdm"> Vere dominus est in loco isto et ego nesciebam quam terribilis est locus iste non est hic aliud nisi domus dei et porta caeli</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D Hyd Ely Wor Cht Pet Cdm"> Cumque evigilasset Jacob a somno ait</vBody>
+      <rep type="r" wit="CAO-D Hyd Ely Wor Cht Pet Cdm"> Quam</rep>
+   </verses>
+</res>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6536" nextid="c6537b" id="c6537">
+   <header>
+      <usage ms="Alb2" code="06011000">[66r] matins-n2-r10</usage>
+      <usage ms="Bat" code="06011000">[42v] matins-n3-r9</usage>
+      <usage ms="Cdm" code="06011000">[49v] matins-n3-r9</usage>
+      <usage ms="Ely" code="06011000">[60r] matins-n3-r9</usage>
+      <usage ms="Evm" code="06011000">[93r] matins-n3-r9</usage>
+      <usage ms="Hyd" code="06011000">[61v] matins-n3-r9</usage>
+      <usage ms="Mch" code="06011000">[100r] matins-n2-r8</usage>
+      <usage ms="Pet" code="06011000">[55v] matins-n3-r9</usage>
+      <usage ms="Wcb" code="06011000">[85v] matins-n3-r9</usage>
+      <usage ms="Wor" code="06011000">[36v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Pet Ely Evm Bat Mch"> Dum deambularet</rdg>
+         <rdg wit="Alb2"> Dum perambularet</rdg>
+         <rdg wit="Wor Wcb"> Cum deambularet</rdg>
+         <rdg wit="Cdm"> Cum ambularet</rdg>
+         <rdg wit="CAO-C"> Dum ambularet</rdg>
+      </app> dominus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-F CAO-S CAO-L Bat Mch"> in paradisum</rdg>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-D Hyd Alb2 Wor Pet Ely Wcb Evm Cdm"> in paradiso</rdg>
+         <rdg wit="CAO-H"> in <corr sic="paradisum">paradiso</corr>
+         </rdg>
+         <rdg wit="CAO-R"> in paradi<gap/>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> ad auram</rdg>
+         <rdg wit="CAO-F"> ad aurem</rdg>
+         <rdg wit="CAO-M"> ad horam</rdg>
+      </app> post meridiem clamavit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Mch"> et dixit Adam</rdg>
+         <rdg wit="Bat"> dixit Adam</rdg>
+      </app> ubi es
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Bat Mch"> audivi domine vocem tuam et abscondi me</rdg>
+         <rdg wit="CAO-C Cdm"> audi domine vocem tuam et abscondi me</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> Vocem tuam audivi in paradiso</rdg>
+            <rdg wit="CAO-F CAO-S"> Vocem tuam domine audivi in paradiso</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> et timui eo quod nudus essem</rdg>
+            <rdg wit="CAO-V"> et timui eo quod nudus esse</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R"> Domine audivi auditum tuum et timui
+      <app>
+            <rdg wit="CAO-C CAO-H"> consideravi opera tua et expavi</rdg>
+            <rdg wit="CAO-B CAO-G CAO-M CAO-R" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> Et abscondi</rep>
+      <rep type="r" wit="CAO-V"> Audivi</rep>
+   </verses>
+</res>

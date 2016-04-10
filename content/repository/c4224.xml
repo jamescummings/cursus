@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4223" nextid="c4225" id="c4224">
+   <header>
+      <usage ms="Alb2" code="02010100">[46r] matins-n2-a11</usage>
+      <usage ms="Alb2" code="02010108">[30r] commemoration</usage>
+      <usage ms="Bat" code="02123000">[25v] lauds gosp</usage>
+      <usage ms="Cdm" code="02010100">[33v] matins-n2-a11</usage>
+      <usage ms="Cdm" code="02122700">[28r] vesp2 commemoratio</usage>
+      <usage ms="Hyd" code="14122901">[29r] lauds gosp</usage>
+      <usage ms="Pet" code="02122508">[19v] </usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.151-152</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Bat Cdm Pet"> Pastores dicite quidnam vidistis et annuntiate Christi nativitatem infantem vidimus pannis involutum et choros angelorum laudantes salvatorem</aBody>
+</ant>

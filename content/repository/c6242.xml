@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6241" nextid="c6243" id="c6242">
+   <rBody wit="CAO-B CAO-H"> Benedicite domino omnes angeli eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H"> Potentes virtute qui facitis verbum eius</vBody>
+      <vBody type="r" wit="CAO-B"> Potentes virtute</vBody>
+      <rep type="r" wit="CAO-B">Omnes</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1519" nextid="o1521" id="o1520">
+   <header>
+      <usage ms="Alb2" code="07017000"/>
+      <usage ms="Cdm" code="07017000">[60r] lauds</usage>
+      <usage ms="Cht" code="07017000"/>
+      <usage ms="Ely" code="07017000"/>
+      <usage ms="Evm" code="07017000"/>
+      <usage ms="Hyd" code="07017000"/>
+      <usage ms="Mch" code="07017000">[121r] lauds</usage>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Ely Cht Evm Cdm Mch"> Populum tuum quaesumus domine propitius respice</rdg>
+         <rdg wit="Hyd Alb2"> Populum tuum domine quaesumus propitius respice</rdg>
+      </app> atque ab eo flagella tuae iracundiae clementer averte</pBody>
+</prayer>

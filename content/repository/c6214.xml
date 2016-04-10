@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6213" nextid="c6215" id="c6214">
+   <rBody wit="CAO-E CAO-M CAO-V"> Beatus Laurentius dixit disce miser quanta est virtus domini
+     <app>
+         <rdg wit="CAO-E"> nam carbones tui</rdg>
+         <rdg wit="CAO-V"> nam carbones isti</rdg>
+         <rdg wit="CAO-M"> nam carbones ignis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> non dolorem sed refrigerium</rdg>
+         <rdg wit="CAO-M"> non dolore sed refrigerium</rdg>
+         <rdg wit="CAO-V"> non dolores sed refrigerium</rdg>
+      </app> mihi praestant</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Beatus Laurentius dum in craticula ureretur ad impiissimum tyrannum dixit</vBody>
+      <vBody type="r" wit="CAO-V"> Ecce miser assasti me una parte regira alia et manduca</vBody>
+      <vBody type="r" wit="CAO-M"> Probasti domine</vBody>
+      <vBody type="r" num="2" wit="CAO-M"> Carnifices</vBody>
+      <dox type="r" wit="CAO-M"> Gloria</dox>
+      <rep type="r" wit="CAO-E"> Quanta</rep>
+      <rep type="r" wit="CAO-M CAO-V"> Nam carbones</rep>
+      <rep type="r" num="2" wit="CAO-M"> Sed <supplied>refrigerium</supplied>
+      </rep>
+   </verses>
+</res>

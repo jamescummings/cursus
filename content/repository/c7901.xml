@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7900" nextid="c7902" id="c7901">
+   <header>
+      <usage ms="Cdm" code="02122700">[27r] matins-n3-r10</usage>
+      <usage ms="Alb2" code="02122700">[34v] matins-n1-r3</usage>
+      <usage ms="Evm" code="02122700">[42v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-M CAO-V CAO-D CAO-F Alb2 Evm Wcb Cdm"> Virgo est electus
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-D Alb2 Wcb Cdm"> a domino</rdg>
+         <rdg wit="CAO-F Evm"> a domino deo</rdg>
+      </app> atque inter ceteros magis dilectus qui supra pectus eius
+     <app>
+         <rdg wit="CAO-V CAO-F Alb2 Evm Wcb Cdm"> recumbens</rdg>
+         <rdg wit="CAO-D"> in cena recumbens</rdg>
+         <rdg wit="CAO-M"> recubuit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-F Alb2 Evm Wcb Cdm"> evangelii fluenta</rdg>
+         <rdg wit="CAO-D"> fluenta evangelii</rdg>
+      </app> de ipso sacro dominici pectoris fonte potavit et verbi dei
+     <app>
+         <rdg wit="CAO-D CAO-F Alb2 Evm Wcb Cdm"> gratiam</rdg>
+         <rdg wit="CAO-M CAO-V"> gratia</rdg>
+      </app> in toto terrarum orbe diffudit</rBody>
+   <rBody wit="CAO-L" num="2"> Virgo est electus a domino atque inter ceteros magis dilectus <gap reason="illegible in CAO-L" extent="remainder of respond text"/>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-V CAO-D CAO-F Alb2 Evm Wcb Cdm">
+         <app>
+            <rdg wit="CAO-M CAO-V CAO-F Alb2 Evm Wcb Cdm"> Spiritus sancti gratia debriatus</rdg>
+            <rdg wit="CAO-D"> Gratia sancti spiritus debriatus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-V CAO-D CAO-F Alb2 Evm Wcb Cdm"> ceteris altius divinitatis</rdg>
+            <rdg wit="CAO-M"> ceteris altior divinitatis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M CAO-V Alb2 Evm Wcb Cdm"> patefecit arcanum</rdg>
+            <rdg wit="CAO-D CAO-F"> patefecit arcana</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">Text illegible in CAO-L</note>
+      </vBody>
+      <rep type="r" wit="CAO-M CAO-V CAO-D CAO-F Alb2 Evm Wcb Cdm">Et verbi</rep>
+   </verses>
+</res>

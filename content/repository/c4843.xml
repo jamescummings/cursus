@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4842" nextid="c4844" id="c4843">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sebastianus Mediolanensium partium civis</rdg>
+         <rdg wit="CAO-E CAO-V"> Sebastianus Mediolanensium partium cives</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> quem perfuderat deus gratia</rdg>
+         <rdg wit="CAO-L"> quem perfuderat dei gratia</rdg>
+      </app> ab omnibus amabatur</aBody>
+</ant>

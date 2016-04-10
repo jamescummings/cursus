@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2285b" nextid="c2287" id="c2286">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> Dixit dominus matri suae</rdg>
+         <rdg wit="CAO-E"> Dicit dominus matri suae</rdg>
+         <rdg wit="CAO-V"> Dixit dominus matris suae</rdg>
+      </app> mulier ecce filius tuus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R"> ad discipulum autem</rdg>
+         <rdg wit="CAO-V"> a discipulum autem</rdg>
+         <rdg wit="CAO-L"> ad discipulus autem</rdg>
+      </app> ecce mater tua alleluia</aBody>
+</ant>

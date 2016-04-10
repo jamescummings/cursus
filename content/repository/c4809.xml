@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4808" nextid="c4810" id="c4809">
+   <aBody wit="CAO-C CAO-V CAO-F CAO-S CAO-L"> Sanguis sanctorum martyrum
+     <app>
+         <rdg wit="CAO-C CAO-S CAO-L"> pro Christo effusus est in terris</rdg>
+         <rdg wit="CAO-V"> propter dominum effusus est in terris</rdg>
+         <rdg wit="CAO-F"> pro Christo effusus est in terra</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-S CAO-L"> ideo adepti sunt praemia sempiterna</rdg>
+         <rdg wit="CAO-F"> ideo adepti sunt munera sempiterna</rdg>
+         <rdg wit="CAO-V"> ideo adepti sunt promissiones aeternae</rdg>
+      </app>
+   </aBody>
+</ant>

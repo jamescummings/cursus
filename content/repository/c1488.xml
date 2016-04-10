@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1487" nextid="c1489" id="c1488">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-L"> Ascendens Jesus in navem</rdg>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-F"> Ascendens Jesus in navim</rdg>
+         <rdg wit="CAO-V"> Ascendens Jesus in nave</rdg>
+      </app> et sedens docebat turbas alleluia</aBody>
+</ant>

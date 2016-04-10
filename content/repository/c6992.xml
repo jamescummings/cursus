@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6991" nextid="c6993" id="c6992">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ipsi sum desponsata cui angeli serviunt cuius
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> pulchritudinem</rdg>
+         <rdg wit="CAO-L"> pulchritudine</rdg>
+      </app> sol et luna mirantur ipsi soli servo
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> fidem</rdg>
+         <rdg wit="CAO-M"> fide</rdg>
+      </app> ipsi me tota devotione committo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R"> Propter veritatem et mansuetudinem et iustitiam</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Dextram meam et collum meum cinxit lapidibus pretiosis tradidit auribus meis inaestimabiles margaritas</vBody>
+      <vBody type="r" wit="CAO-M"> Iam corpus eius corpori meo sociatum est et sanguis eius ornavit genas meas</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Ipsi</rep>
+      <rep type="r" wit="CAO-M">Cuius</rep>
+   </verses>
+</res>

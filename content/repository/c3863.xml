@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3862" nextid="c3864" id="c3863">
+   <header>
+      <usage ms="Alb2" code="01011000">[3v] matins-n3-a2</usage>
+      <usage ms="Cdm" code="01011000">[10v] vesp2 gosp</usage>
+      <usage ms="Ely" code="01011000">[5r] vesp2 gosp</usage>
+      <usage ms="Evm" code="01011000">[7r] commemoration</usage>
+      <usage ms="Evm" code="01011000">[8r] vesp2 gosp</usage>
+      <usage ms="Evm" code="01017000">[12r] lauds-a3</usage>
+      <usage ms="Glo" code="01011000">[8r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01011000">[3v] commemoration</usage>
+      <usage ms="Mch" code="01011000">[5r] vesp2 gosp</usage>
+      <usage ms="Wor" code="01011000">[4r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Glo"> Ne timeas Maria invenisti gratiam apud dominum ecce concipies et paries filium alleluia</aBody>
+   <aBody wit="CAO-E" num="2"> Ne timeas Maria invenisti gratiam apud dominum ecce concipies et paries filium</aBody>
+   <aBody wit="Hyd"> Ne timeas Maria invenisti gratiam apud dominum</aBody>
+</ant>

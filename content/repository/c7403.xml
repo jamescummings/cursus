@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7402" nextid="c7404" id="c7403">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Post passionem suam per dies quadraginta apparens eis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> loquens</rdg>
+         <rdg wit="CAO-D CAO-L Hyd"> et loquens</rdg>
+      </app> de regno dei alleluia et videntibus illis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> elevatus est</rdg>
+         <rdg wit="CAO-E"> elevata est</rdg>
+      </app> alleluia et nubes suscepit eum ab oculis eorum alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et convescens praecepit eis ab Jerosolymis ne discederent sed exspectarent promissionem patris</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Hyd"> Et videntibus</rep>
+      <rep type="r" wit="CAO-B CAO-F CAO-S">Et nubes</rep>
+   </verses>
+</res>

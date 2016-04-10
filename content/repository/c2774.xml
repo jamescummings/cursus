@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2773" nextid="c2775" id="c2774">
+   <header>
+      <usage ms="Hyd" code="01011000">[4r] vesp2-a4</usage>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H Hyd"> Excelsus super omnes gentes dominus</aBody>
+</ant>

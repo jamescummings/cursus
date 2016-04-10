@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7755" nextid="c7757" id="c7756">
+   <header>
+      <usage ms="Alb2" code="02122500">[26v] matins-n2-r8</usage>
+      <usage ms="Bat" code="02122500">[16r] matins-n2-r7</usage>
+      <usage ms="Cdm" code="02122500">[22r] matins-n2-r8</usage>
+      <usage ms="Hyd" code="02122500">[18v] matins-n2-r8</usage>
+      <usage ms="Pet" code="02010100">[35v] matins-n2-r8</usage>
+      <usage ms="Wor" code="02122500">[14r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-V CAO-D CAO-F Hyd Alb2 Bat Cdm Wor Pet"> Te laudant angeli sancta dei genitrix quae virum non cognovisti et dominum in tuo utero baiulasti
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-D Alb2 Bat Cdm Wor Pet"> concepisti per aurem</rdg>
+         <rdg wit="Hyd"> concepisti per fidem</rdg>
+         <rdg wit="CAO-F"> concepisti virgo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F Hyd Alb2 Bat Cdm Wor Pet"> dominum nostrum</rdg>
+         <rdg wit="CAO-V"> deum paries et hominem</rdg>
+      </app> ut benedicta dicaris inter omnes mulieres</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V CAO-D CAO-F Hyd Alb2 Bat Cdm Pet"> Ipsum genuisti
+      <app>
+            <rdg wit="CAO-D Hyd Alb2 Bat Cdm Pet"> et in praesepe posuisti</rdg>
+            <rdg wit="CAO-F"> et in praesepio posuisti</rdg>
+            <rdg wit="CAO-C"> quem in praesepe posuisti</rdg>
+            <rdg wit="CAO-V"> quae in praesepe posuisti</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-D CAO-F Hyd Alb2 Bat Cdm Pet"> quem adorat</rdg>
+            <rdg wit="CAO-V"> quem adorant</rdg>
+         </app> multitudo angelorum</vBody>
+      <vBody type="r" wit="Wor"> Ipsum unicum dei patris filium per sanctum spiritum ex te incarnatum hominum pro salute sic humiliatum factum parvulum genuisti et in praesepio posuisti quem adorat omnis militia caelita tremit potestas aethera collaudant agmina supera et omnis multitudo angelorum</vBody>
+      <rep type="r" wit="CAO-C CAO-V CAO-D CAO-F Hyd Alb2 Bat Cdm Wor Pet">Ut benedicta</rep>
+      <dox type="r" wit="Hyd Pet">Gloria</dox>
+      <dox type="r" wit="Wor"> Gloria claritas decus honor virtus imperium potestas laus iubiliatio maiestas dignitas magnificentia per cuncta saecula sit aeterno patri et filio coaeterno pro nobis ex virgine genito et paraclito utrisque coaevo tuo deo et uno vivo et vero summo et perenniter sancto</dox>
+      <rep type="r" num="2" wit="Wor"> Ut benedicta</rep>
+      <rep type="r" num="2" wit="Hyd"> Te laudant</rep>
+   </verses>
+</res>

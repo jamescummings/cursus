@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6758" nextid="c6760" id="c6759">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gaude Maria virgo cunctas haereses sola interemisti
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> quae Gabrielis archangeli</rdg>
+         <rdg wit="CAO-L"> quem Gabrielis archangeli</rdg>
+         <rdg wit="CAO-V"> quae Gabrielis archangelis</rdg>
+      </app> dictis
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> credidisti</rdg>
+         <rdg wit="CAO-V"> credidistis</rdg>
+      </app> dum virgo
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Deum</rdg>
+         <rdg wit="CAO-C"> Deo</rdg>
+      </app> et hominem genuisti et post partum virgo inviolata permansisti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gabrielem archangelum
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> credimus</rdg>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-S"> scimus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> divinitus te esse</rdg>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-L"> divinitus tibi esse</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> affatum</rdg>
+            <rdg wit="CAO-L"> affatim</rdg>
+         </app> uterum tuum de Spiritu Sancto credimus impraegnatum
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> erubescat</rdg>
+            <rdg wit="CAO-V"> erubescam</rdg>
+         </app> Judaeus infelix qui dicit Christum
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L"> ex Joseph</rdg>
+            <rdg wit="CAO-R"> de Joseph</rdg>
+         </app> semine esse natum</vBody>
+      <vBody id="c6759-1" type="r" num="2" wit="CAO-F"> Gabrielem archangelum scimus divinitus te esse affatum uterum tuum de spiritu sancto credimus impraegnatum erubescat Judaeus infelix qui dicit Christum ex Joseph semine esse natum</vBody>
+      <rep corresp="c6759-1" type="r" wit="CAO-F"> Inviolata permansisti</rep>
+      <vBody type="r" wit="CAO-E CAO-M"> Gloria virtus et gratia
+       <app>
+            <rdg wit="CAO-M"> et</rdg>
+            <rdg wit="CAO-E"> haec</rdg>
+         </app> tua sunt fortissime rex sanctorum quod ita eos gratuito munere sublimasti gloriose tu Deus in sanctis
+       <app>
+            <rdg wit="CAO-M"> ostende nobis</rdg>
+            <rdg wit="CAO-E"> ostendens eis</rdg>
+         </app> multimoda praemia
+       <app>
+            <rdg wit="CAO-M"> post laborem</rdg>
+            <rdg wit="CAO-E"> post labore</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dum virgo</rep>
+      <prosula wit="CAO-F"> Inviolata integra et casta es Maria Quae es effecta fulgida regis porta O Virgo sola Christi carissima Suscipe pia nostra precamina Quae nunc flagitant devota corda et ora Nostra ut pura pectora sint et corpora Tu da per precata dulcissima Nobis concedas veniam per saecula O benigna quae sola inviolata</prosula>
+   </verses>
+</res>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7729" nextid="c7731" id="c7730">
+   <header>
+      <usage ms="Alb2" code="07021000">[82v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-E CAO-V CAO-F CAO-L Alb2"> Surge pater comede de venatione filii tui quomodo tam cito invenire potuisti
+     <app>
+         <rdg wit="CAO-F Alb2"> fili</rdg>
+         <rdg wit="CAO-E CAO-V CAO-L"> fili mi</rdg>
+      </app> voluntas dei fuit pater
+     <app>
+         <rdg wit="CAO-F Alb2"> ut cito</rdg>
+         <rdg wit="CAO-E CAO-V CAO-L"> ut tam cito</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F Alb2"> mihi occurreret quod volebam</rdg>
+         <rdg wit="CAO-L"> occurreret mihi quod volebam</rdg>
+         <rdg wit="CAO-E"> reverterer ad te</rdg>
+         <rdg wit="CAO-V"> revertere ad te</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V"> Ego sum Esau primogenitus tuus feci sicut praecepisti mihi</vBody>
+      <vBody type="r" wit="CAO-F Alb2"> Manus quidem manus sunt Esau loquela autem Jacob</vBody>
+      <vBody type="r" wit="CAO-L"> Vox quidem vox Jacob est nam manus manus sunt Esau</vBody>
+      <rep type="r" wit="CAO-V CAO-F CAO-L Alb2">Quomodo</rep>
+      <rep type="r" wit="CAO-E">Voluntas</rep>
+   </verses>
+</res>

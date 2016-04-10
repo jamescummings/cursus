@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5085" nextid="c5087" id="c5086">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-D CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-D CAO-L"> Suscepit deus Israel puerum suum</rdg>
+         <rdg wit="CAO-C"> Suscepit Israel puerum suum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D"> sicut iuravit Abraham et semini eius</rdg>
+         <rdg wit="CAO-G CAO-E"> sicut locutus est Abraham et semini eius</rdg>
+         <rdg wit="CAO-H"> sicut locutus est Abraham et semen eius</rdg>
+         <rdg wit="CAO-L"> sicut iuravit Abraham et semen eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> exaltavit humiles usque in saeculum</rdg>
+         <rdg wit="CAO-E CAO-H CAO-D"> et exaltavit humiles usque in saeculum</rdg>
+         <rdg wit="CAO-G"> et exaltavit humiles <note type="editorial" resp="DC" place="unspecified" anchored="yes">text ends abruptly at end of line</note>
+         </rdg>
+         <rdg wit="CAO-L"> exaltare humiles usque in saeculum</rdg>
+      </app>
+   </aBody>
+</ant>

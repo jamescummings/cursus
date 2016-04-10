@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6963" nextid="c6965" id="c6964">
+   <rBody wit="CAO-E CAO-S CAO-L"> Ingressus Bartholomaeus apostolus ulteriorem Indiam intravit in templum Astaroth et statim a responsis siluit daemon et a cunctis ludificationibus cessavit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-S CAO-L">Cumque ut peregrinus in templo Astaroth lateret apostolus et centies in die ita et in nocte genu in oratione flecteret Deo</vBody>
+      <rep type="r" wit="CAO-E CAO-L">Et statim</rep>
+      <rep type="r" wit="CAO-S"> Et a</rep>
+   </verses>
+</res>

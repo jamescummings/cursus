@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2561" nextid="c2563" id="c2562">
+   <header>
+      <usage ms="Glo" code="14120600">[14r] terce</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Glo"> Ecclesiae sanctae frequentans limina
+     <app>
+         <rdg wit="CAO-D CAO-F Glo"> sacra pectori condebat mandata</rdg>
+         <rdg wit="CAO-E CAO-L"> sacra pectori mandata condebat sagaciter</rdg>
+         <rdg wit="CAO-B CAO-R"> sacro pectori mandata condebat sagaciter</rdg>
+         <rdg wit="CAO-S"> sacra pectoris mandata condebat sagaciter</rdg>
+      </app>
+   </aBody>
+</ant>

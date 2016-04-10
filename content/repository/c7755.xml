@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7754" nextid="c7756" id="c7755">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n3-r14</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Te deum patrem ingenitum te filium unigenitum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> te spiritum sanctum paraclitum</rdg>
+         <rdg wit="Hyd"> te spiritum sanctum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> sanctam et individuam</rdg>
+         <rdg wit="CAO-L"> sancta et individua</rdg>
+      </app> trinitatem toto corde et ore confitemur laudamus atque benedicimus tibi gloria in saecula</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Quoniam magnus es tu et faciens mirabilia tu es deus solus</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Tibi</rep>
+   </verses>
+</res>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6025" nextid="c6027" id="c6026">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Ad te domine levavi animam meam deus meus in te confido
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> non erubescam</rdg>
+         <rdg wit="CAO-B"> non erubesco</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Hyd"> Neque irrideant me inimici mei etenim universi qui sustinent te non confundentur</vBody>
+      <vBody type="r" wit="CAO-S"> Custodi animam meam et erue eam</vBody>
+      <vBody type="r" wit="CAO-L"> Dirige me in veritate tua et doce me quia tu es deus salutaris meus et te sustinui tota die</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd">Deus meus</rep>
+   </verses>
+</res>

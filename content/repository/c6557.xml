@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6556" nextid="c6558" id="c6557">
+   <rBody wit="CAO-L">
+      <l part="N">Dum revexit rex benignus crucem venerabilem</l>
+      <l part="N">Jerosolymam laetantur omnis et provincia</l>
+      <l part="N">Gaudium effecit mundo omnia per saecula</l>
+      <l part="N">Celebratur clara semper huius exaltatio</l>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Tota mente Christum Deum deprecemur iugiter nos redemit qui per crucem suo sancto sanguine</vBody>
+      <rep type="r" wit="CAO-L"> Gaudium</rep>
+   </verses>
+</res>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7464" nextid="c7466" id="c7465">
+   <rBody wit="CAO-D CAO-F CAO-S"> Quatuor animalia ibant et revertebantur in similitudinem fulguris coruscantis et erat in medio splendor ignis et de igne fulgur egrediens</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Erat autem
+      <app>
+            <rdg wit="CAO-D CAO-F"> quasi visio</rdg>
+            <rdg wit="CAO-S"> visio</rdg>
+         </app> discurrens in medio
+      <app>
+            <rdg wit="CAO-F CAO-S"> quatuor animalium</rdg>
+            <rdg wit="CAO-D"> quatuor animalia</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-S">Et de igne</rep>
+      <rep type="r" wit="CAO-F">Et erat</rep>
+   </verses>
+</res>

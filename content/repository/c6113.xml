@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6112" nextid="c6114" id="c6113">
+   <header>
+      <usage ms="Bat" code="02122700">[21v] matins-n2-r7</usage>
+      <usage ms="Cdm" code="02122700">[27r] matins-n2-r7</usage>
+      <usage ms="Evm" code="02122700">[45r] matins-n3-r12</usage>
+      <usage ms="Hyd" code="02122700">[25r] matins-n3-r12</usage>
+      <usage ms="Pet" code="02122700">[27v] matins-n3-r11</usage>
+      <usage ms="Wor" code="02122700">[20v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-V CAO-D CAO-F CAO-L Hyd Evm Bat Cdm Wor Pet"> Apparuit caro suo
+     <app>
+         <rdg wit="CAO-V CAO-F CAO-L Hyd Evm Bat Cdm Wor Pet"> Joanni dominus cum discipulis suis</rdg>
+         <rdg wit="CAO-D"> Joanni Jesus Christus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-F CAO-L Hyd Bat Pet"> et dixit ei</rdg>
+         <rdg wit="Evm"> et ait illi</rdg>
+         <rdg wit="CAO-D Cdm Wor"> et dixit ad eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-F CAO-L Hyd Evm Bat Cdm Wor Pet"> veni dilecte mi ad me</rdg>
+         <rdg wit="CAO-D"> veni dilecte meus ad me</rdg>
+      </app> quia tempus est ut epuleris in convivio meo cum fratribus tuis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-F CAO-L Hyd Evm Bat Cdm Wor Pet"> Cumque complesset
+      <app>
+            <rdg wit="CAO-F Hyd Evm Bat Cdm Wor Pet"> apostolus</rdg>
+            <rdg wit="CAO-V"> apostolum</rdg>
+            <rdg wit="CAO-L"> annorum</rdg>
+         </app> cursum vitae praesentis
+      <app>
+            <rdg wit="CAO-V CAO-L Hyd Evm Bat Cdm Wor Pet"> in senectute bona</rdg>
+            <rdg wit="CAO-F"> in servitute bona</rdg>
+         </app> apparuit ei
+      <app>
+            <rdg wit="CAO-V CAO-F Hyd Evm Bat Cdm Wor Pet"> salvator mundi</rdg>
+            <rdg wit="CAO-L"> dominus Jesus</rdg>
+         </app> et dixit
+      <app>
+            <rdg wit="CAO-V CAO-F Hyd Evm Bat Cdm Wor Pet"> ad eum</rdg>
+            <rdg wit="CAO-L"> ei</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Joannes apostolus virgo persistens in aevum invitatus a Christo meruit audire</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-L Hyd Evm Bat Cdm Wor Pet">Veni</rep>
+      <dox type="r" wit="Evm Wor">Gloria</dox>
+      <rep type="r" num="2" wit="Evm">Te deum laudamus</rep>
+      <rep type="r" num="2" wit="Wor">Veni</rep>
+   </verses>
+</res>

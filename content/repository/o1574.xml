@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1573" nextid="o1575" id="o1574">
+   <header>
+      <usage ms="Alb2" code="07063000">[106v] lauds</usage>
+      <usage ms="Cdm" code="07063000">[76v] lauds</usage>
+      <usage ms="Cht" code="07063000">[58v] lauds</usage>
+      <usage ms="Ely" code="07063000">[87v] lauds</usage>
+      <usage ms="Evm" code="07063000">[146r] lauds</usage>
+      <usage ms="Hyd" code="07063000">[92v] lauds</usage>
+      <usage ms="Mch" code="07063000">[156v] lauds</usage>
+      <usage ms="Wcb" code="07058000">[109v] </usage>
+      <usage ms="Wcb" code="07063000">[114r] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.319</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Wcb Alb2 Cdm Mch">Omnipotens sempiterne deus da nobis ita dominicae passionis sacramenta peragere ut indulgentiam percipere mereamur</pBody>
+</prayer>

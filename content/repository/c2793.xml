@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2792" nextid="c2794" id="c2793">
+   <header>
+      <usage ms="Hyd" code="08062000">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Hyd"> Exivi a patre
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-L Hyd"> et veni in mundum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> et veni in mundum alleluia</rdg>
+      </app> iterum relinquo mundum
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-F CAO-L Hyd"> et vado ad patrem alleluia alleluia</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> et vado ad patrem alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-E"> et vado ad patrem alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

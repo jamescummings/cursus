@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4674" nextid="c4676" id="c4675">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S CAO-L"> Sacerdotes dei benedicite dominum</rdg>
+         <rdg wit="CAO-C CAO-M CAO-H"> Sacerdotes dei benedicite domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-S CAO-L"> servi domini hymnum dicite deo alleluia</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F"> servi domini hymnum dicite deo in aeternum</rdg>
+         <rdg wit="CAO-M"> servi domino hymnum dicite deo alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-C" num="2"> Sacerdotes dei benedicite dominum servi domini hymnum dicite deo alleluia</aBody>
+</ant>

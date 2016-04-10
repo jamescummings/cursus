@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1641" nextid="c1643" id="c1642">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-L"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> dum in craticula suprapositus ureretur</rdg>
+         <rdg wit="CAO-C"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> cum in craticula supra prunas positus ureretur</rdg>
+         <rdg wit="CAO-E CAO-D"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> dum in craticula ureretur</rdg>
+         <rdg wit="CAO-F CAO-S"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> dum in craticula superpositus ureretur</rdg>
+      </app> ad impiissimum tyranaum dixit
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L"> assatum est iam</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> assatus sum iam</rdg>
+      </app> versa et manduca nam facultates ecclesiae
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> quas requiris</rdg>
+         <rdg wit="CAO-M"> quas <corr sic="requirit">requiris</corr>
+         </rdg>
+         <rdg wit="CAO-L"> quas requirit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> in caelestes thesauros</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-L"> in caelestibus thesaruis</rdg>
+      </app> manus pauperum deportaverunt</aBody>
+</ant>

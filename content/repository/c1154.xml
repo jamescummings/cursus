@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1153" nextid="c1155" id="c1154">
+   <header>
+      <usage ms="Hyd" code="08082000">matins</usage>
+   </header>
+   <aBody wit="CAO-S Hyd"> Repleti sunt omnes spiritu sancto
+     <app>
+         <rdg wit="CAO-S"> alleluia</rdg>
+         <rdg wit="Hyd"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5320" nextid="c5322" id="c5321">
+   <header>
+      <usage ms="Bat" code="01016000">[5v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01016000">[11v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01021000">[12v] vesp1 gosp</usage>
+      <usage ms="Glo" code="01021000">[12v] vesp1 gosp</usage>
+      <usage ms="Hyd" code="01012000">[5r] prime</usage>
+      <usage ms="Mch" code="01012000">[5v] prime</usage>
+      <usage ms="Wor" code="01016000">[4v] vesp2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Mch Cdm Wor Glo Bat"> Veni domine visitare nos in pace ut laetemur coram te corde perfecto</aBody>
+</ant>

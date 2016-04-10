@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7207" nextid="c7209" id="c7208">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd"> Ne perdideris me domine cum iniquitatibus meis neque in finem iratus reserves mala mea</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S Hyd"> Miserere mei deus miserere mei quoniam in te confidit anima mea</vBody>
+      <vBody type="r" wit="CAO-L"> Exaudi deus orationem meam et ne despexeris deprecationem meam intende in me et exaudi me</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd">Neque</rep>
+   </verses>
+</res>

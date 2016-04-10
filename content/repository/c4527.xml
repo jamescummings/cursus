@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4526" nextid="c4528" id="c4527">
+   <header>
+      <usage ms="Alb2" code="07055000">[102v] lauds</usage>
+      <usage ms="Cdm" code="07055000">[73r] lauds-a1</usage>
+      <usage ms="Cht" code="07062000">[57v] nones</usage>
+      <usage ms="Ely" code="07061000">[84v] matins-n1</usage>
+      <usage ms="Evm" code="07062000">[145r] nones</usage>
+      <usage ms="Glo" code="07062000">[78r] nones</usage>
+      <usage ms="Mch" code="07055000">[150r] lauds gosp</usage>
+      <usage ms="Pet" code="07063000">[87r] terce</usage>
+      <usage ms="Wcb" code="07062000">[114r] nones</usage>
+      <usage ms="Wor" code="07055000">[55r] lauds</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch"> Quid molesti estis huic mulieri opus enim bonum operata est in me</aBody>
+</ant>

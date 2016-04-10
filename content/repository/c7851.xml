@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7850" nextid="c7852" id="c7851">
+   <header>
+      <usage ms="Bat" code="07051000">[59r] matins-n3-r9</usage>
+      <usage ms="Cdm" code="07051000">[71r] matins-n3-r9</usage>
+      <usage ms="Cht" code="07051000">[47v] matins-n3-r12</usage>
+      <usage ms="Ely" code="07051000">[81v] matins-n3-r10</usage>
+      <usage ms="Evm" code="07051000">[135r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="07051000">[86v] matins-n3-r11</usage>
+      <usage ms="Pet" code="07051000">[80v] matins-r10</usage>
+      <usage ms="Wcb" code="07051000">[107v] matins-n3-r9</usage>
+      <usage ms="Wor" code="07051000">[53v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Bat"> Vide quia tribulor velociter exaudi me intende animae meae et libera eam propter inimicos meos eripe me domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Bat">
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Cdm Bat"> Libera me ab his qui oderunt me</rdg>
+            <rdg wit="Wcb"> Libera me de his qui oderunt me</rdg>
+         </app> et ne avertas faciem tuam a puero tuo</vBody>
+      <vBody type="r" wit="CAO-C"> Eripe me de inimicis meis deus meus et ab insurgentibus in me libera me</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-L Ely Wor Cht Hyd Wcb Bat">Intende</rep>
+      <rep type="r" wit="CAO-G Pet Evm Cdm">Propter</rep>
+   </verses>
+</res>

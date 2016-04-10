@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6012" nextid="c6014" id="c6013">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Absterget deus omnem lacrimam ab oculis sanctorum et iam non erit amplius neque luctus neque clamor sed nec ullus dolor quoniam priora transierunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D"> Iustorum animae</rdg>
+            <rdg wit="CAO-H CAO-R"> Iustorum autem animae</rdg>
+         </app> in manu dei sunt et non tanget illos tormentum malitiae</vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Non esurient neque sitient amplius
+      <app>
+            <rdg wit="CAO-S CAO-L"> neque cadet</rdg>
+            <rdg wit="CAO-F"> et non cadet</rdg>
+         </app> super illos sol neque ullus aestus</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">Quoniam</rep>
+   </verses>
+</res>

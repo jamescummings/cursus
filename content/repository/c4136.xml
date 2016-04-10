@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4135" nextid="c4137" id="c4136">
+   <aBody wit="CAO-B CAO-V CAO-H CAO-R"> Omni tempore benedic deum
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-R"> et pete ab eo</rdg>
+         <rdg wit="CAO-H"> et petete ab eo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> ut vias tuas dirigat</rdg>
+         <rdg wit="CAO-V"> ut vias tuas dirigas</rdg>
+      </app> et omni tempore consilia tua
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> in ipso permaneant</rdg>
+         <rdg wit="CAO-V"> in ipso permaneat</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-C" type="incipit"> Omni tempore benedic deum</aBody>
+</ant>

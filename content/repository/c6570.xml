@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6569" nextid="c6571" id="c6570">
+   <header>
+      <usage ms="Alb2" code="01031000">[13r] matins-n3-r11</usage>
+      <usage ms="Evm" code="01041000">[24r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="01041000">[13r] matins-n2-r6</usage>
+      <usage ms="Mch" code="01031000">[11v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="01041000">[49r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-R CAO-F Hyd Alb2 Evm Mch Wcb"> Ecce ab austro
+     <app>
+         <rdg wit="CAO-R CAO-F Alb2 Evm Mch Wcb"> venio ego dominus deus vester</rdg>
+         <rdg wit="Hyd"> veniet nobis dominus deus noster</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R CAO-F Alb2 Evm Mch Wcb"> visitare vos in pace</rdg>
+         <rdg wit="Hyd"> ut visitet nos in pace</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-F Hyd Alb2 Mch">
+         <app>
+            <rdg wit="CAO-R CAO-F Alb2 Mch"> Aspiciam vos</rdg>
+            <rdg wit="Hyd"> Aspiciet vos</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-F Alb2 Mch"> et crescere faciam</rdg>
+            <rdg wit="Hyd"> et crescere faciet</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-F Alb2 Mch"> multiplicabimini</rdg>
+            <rdg wit="Hyd"> et multiplicabit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-F Alb2 Mch"> et firmabo pactum meum vobiscum</rdg>
+            <rdg wit="Hyd"> et firmabit pactum suum nobiscum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="Evm Wcb"> Iuxta est
+      <app>
+            <rdg wit="Evm"> iustitia mea ut reveletur</rdg>
+            <rdg wit="Wcb"> salus mea ut veniat</rdg>
+         </app> et
+      <app>
+            <rdg wit="Evm">salus mea ut veniat</rdg>
+            <rdg wit="Wcb"> iustitia mea ut reveletur</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="Hyd Alb2"> Deus noster</rep>
+      <rep type="r" wit="Mch"> In pace</rep>
+      <rep type="r" wit="Evm"> Visitare</rep>
+      <rep type="r" wit="CAO-R CAO-F"> Ego</rep>
+   </verses>
+</res>

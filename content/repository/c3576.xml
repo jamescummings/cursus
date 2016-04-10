@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3575" nextid="c3577" id="c3576">
+   <header>
+      <usage ms="Alb2" code="02122600">[33r] lauds-a1</usage>
+      <usage ms="Bat" code="02122600">[20r] lauds-a1</usage>
+      <usage ms="Cdm" code="02122600">[25v] lauds-a1</usage>
+      <usage ms="Evm" code="02122600">[41v] lauds-a1</usage>
+      <usage ms="Pet" code="02122600">[24r] lauds-a1</usage>
+      <usage ms="Wcb" code="02122600">[60r] lauds-a1</usage>
+      <usage ms="Wor" code="02122600">[18v] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> Lapidaverunt Stephanum et ipse invocabat dominum dicens ne statuas illis hoc peccatum</aBody>
+</ant>

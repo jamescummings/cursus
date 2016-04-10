@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4742" nextid="c4744" id="c4743">
+   <aBody wit="CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N">Sancti viri compassio</l>
+         <l part="N"> solo crucis signaculo</l>
+         <l part="N"> a foedo cancri ulcere</l>
+         <l part="N"> mire salvavit hominem</l>
+      </lg>
+   </aBody>
+</ant>

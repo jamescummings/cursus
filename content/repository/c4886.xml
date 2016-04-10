@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4885" nextid="c4886b" id="c4886">
+   <header>
+      <usage ms="Hyd" code="08081000">vesp1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. c4906</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-H CAO-R CAO-D CAO-S CAO-L Hyd"> Si diligitis me mandata mea servate
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-S Hyd"> alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

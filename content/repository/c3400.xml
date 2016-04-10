@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3399" nextid="c3400b" id="c3400">
+   <aBody wit="CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-D"> Invocantes dominum exclamemus ut respiciat populum suum</rdg>
+         <rdg wit="CAO-F"> Invocamus dominum et clamemus ut respiciat populum suum</rdg>
+      </app> conculcatum et dolentem et protegat templum ne ab impiis contaminetur sed misereatur nimis afflictae
+     <app>
+         <rdg wit="CAO-F"> civitatis suae</rdg>
+         <rdg wit="CAO-D"> civitati suae</rdg>
+      </app>
+   </aBody>
+</ant>

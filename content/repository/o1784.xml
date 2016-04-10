@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1783" nextid="o1785" id="o1784">
+   <header>
+      <usage ms="Cdm" code="01000000">[11r] </usage>
+      <usage ms="Ely" code="01000000">[5v] </usage>
+      <usage ms="Mch" code="01036000">[15v] nones</usage>
+   </header>
+   <pBody wit="Mch Cdm Ely"> Excita quaesumus domine potentiam tuam et veni ut in tua protectione salvemur</pBody>
+</prayer>

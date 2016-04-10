@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6575" nextid="c6577" id="c6576">
+   <rBody wit="CAO-E CAO-M CAO-V"> Ecce annuntio vobis magnum gaudium et laetabitur cor vestrum puer
+      <app>
+         <rdg wit="CAO-E CAO-V"> vobis</rdg>
+         <rdg wit="CAO-M"> nobis</rdg>
+      </app> natus est mater eius non novit virum ipse reget omnes gentes in fortitudine sua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V">
+         <app>
+            <rdg wit="CAO-E CAO-M CAO-V"> Puer natus et</rdg>
+            <rdg wit="CAO-M">
+               <sic resp="Hesbert">Ecce puer natus</sic>
+            </rdg>
+            <rdg wit="CAO-V"> Puer natus est vobis</rdg>
+         </app> filius datus est nobis cuius regni non erit finis</vBody>
+      <vBody type="r" num="2" wit="CAO-V"> Et hoc vobis signum invenietis infantem pannis involutum et positum in praesepio</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V"> Ipse reget omnes</rep>
+   </verses>
+</res>

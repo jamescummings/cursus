@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4482" nextid="c4484" id="c4483">
+   <header>
+      <usage ms="Cht" code="07016000"/>
+      <usage ms="Ely" code="07016000"/>
+      <usage ms="Evm" code="07016000"/>
+      <usage ms="Glo" code="07016000"/>
+      <usage ms="Hyd" code="07016000"/>
+      <usage ms="Pet" code="07016000"/>
+      <usage ms="Wcb" code="07016000"/>
+      <usage ms="Wor" code="07016000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Ely Wor Cht Pet Evm Wcb Glo">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Ely Cht Pet Evm Wcb Glo"> Qui me sanum fecit</rdg>
+         <rdg wit="CAO-C CAO-M"> Qui me salvum fecit</rdg>
+         <rdg wit="Wor">
+            <gap reason="erasure of verbal text" resp="DC"/>
+         </rdg>
+      </app> ille mihi praecepit tolle grabatum tuum et ambula in pace</aBody>
+</ant>

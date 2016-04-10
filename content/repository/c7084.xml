@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7083" nextid="c7085" id="c7084">
+   <rBody wit="CAO-F">
+      <verse type="stanza">
+         <l part="N">Laudibus insignis quem perpes gloria cingit</l>
+         <l part="N">Leges in populos statuens velut archisenator</l>
+         <l part="N">Saecli iura tenens regnum ditademata solvens</l>
+         <l part="N">Orantes turmas vitiorum solve catena</l>
+         <l part="N">Caelica caesareo praetendens gaudia dona</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F">Excrescit ut pluvia doctrina tua fluit ut ros eloquium tuum</vBody>
+      <rep type="r" wit="CAO-F">Caelica</rep>
+      <prosula wit="CAO-F">Gaudia nobis opima aetheris semper condona cuius inclita per orbem iura potentum sceptra subigunt fera quem nunc venerans pie vox nostra celsa cantibus reddit pneumata suscipe melos poscimus nostros quos tibi voto concinit cohors et tuo sint nobis gaudia dono</prosula>
+   </verses>
+</res>

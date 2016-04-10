@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7528" nextid="c7530" id="c7529">
+   <header>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Repleatur os meum laude</rdg>
+         <rdg wit="CAO-V"> Repleatur os meum laudem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> ut hymnum dicam</rdg>
+         <rdg wit="CAO-G CAO-S"> ut hymnum dicat</rdg>
+      </app> gloriae tuae tota die
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-D Hyd"> magnificentiam tuam</rdg>
+         <rdg wit="CAO-F"> magnificentia tua</rdg>
+         <rdg wit="CAO-G">
+            <corr sic="magnificentia tua">magnificentiam tuam</corr>
+         </rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S"> magnificentiae tuae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Hyd"> noli me proicere</rdg>
+         <rdg wit="CAO-D"> noli me despicere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> in tempore senectutis</rdg>
+         <rdg wit="CAO-V"> in tempus senectutis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R"> cum defecerit</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S Hyd"> dum defecerit</rdg>
+         <rdg wit="CAO-G"> cum deficiet</rdg>
+      </app> virtus mea
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> deus ne derelinquas me</rdg>
+         <rdg wit="CAO-B"> ne derelinquas me</rdg>
+         <rdg wit="CAO-S"> deus ne derelinquas nos</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Gaudebunt labia mea
+      <app>
+            <rdg wit="CAO-E CAO-V CAO-D CAO-F CAO-S Hyd"> dum cantavero tibi</rdg>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R"> cum cantavero tibi</rdg>
+         </app> et anima mea
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S"> quam redemisti</rdg>
+            <rdg wit="CAO-V CAO-F Hyd"> quam redemisti domine</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-V CAO-R">Cum defecerit</rep>
+      <rep type="r" wit="CAO-D CAO-F CAO-S Hyd">Dum defecerit</rep>
+      <rep type="r" wit="CAO-E CAO-H">Deus</rep>
+      <rep type="r" wit="CAO-B">Noli</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4835" nextid="c4837" id="c4836">
+   <header>
+      <usage ms="Alb2" code="07013000"/>
+      <usage ms="Evm" code="07013000"/>
+      <usage ms="Glo" code="07013000"/>
+      <usage ms="Wcb" code="07013000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Evm Wcb Glo Alb2"> Scriptum est enim quia domus mea domus orationis est cunctis gentibus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Evm Wcb Glo Alb2"> vos autem fecistis illam speluncam latronum</rdg>
+         <rdg wit="CAO-L"> vos autem fecistis eam speluncam latronum</rdg>
+      </app> et erat quotidie docens in templo</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-L"> Cum intrasset Jesus in templum dei coepit eicere vendentes et ementes de illo dicens eis</vBody>
+   </verses>
+</ant>

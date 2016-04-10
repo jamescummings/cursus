@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5353" nextid="c5355" id="c5354">
+   <header>
+      <usage ms="Glo" code="01031000">[15v] procession</usage>
+   </header>
+   <aBody wit="CAO-F Glo"> Venite omnes exsultemus in conspectu domini quia prope est dies in quo natalem eius
+     <app>
+         <rdg wit="Glo"> celebrabimus</rdg>
+         <rdg wit="CAO-F"> celebrabitis</rdg>
+      </app>
+      <app>
+         <rdg wit="Glo"> ut</rdg>
+         <rdg wit="CAO-F"> et</rdg>
+      </app> in illa die mundo corde ad altare domini perveniamus quia promittitur filius
+     <app>
+         <rdg wit="CAO-F"> virgini</rdg>
+         <rdg wit="Glo"> virginis</rdg>
+      </app> per visitationem spiritus sancti</aBody>
+</ant>

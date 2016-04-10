@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5479" nextid="c5481" id="c5480">
+   <header>
+      <usage ms="Cht" code="05027000">[3r] prime</usage>
+      <usage ms="Hyd" code="05027000">[55r] prime</usage>
+   </header>
+   <aBody wit="CAO-H CAO-S CAO-L Hyd Cht">Vivit dominus et benedictus deus salutis meae</aBody>
+</ant>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2164" nextid="c2166" id="c2165">
+   <header>
+      <usage ms="Alb2" code="07067000">[112r] matins-n3-a8</usage>
+      <usage ms="Cdm" code="07067000">[80r] matins-n3</usage>
+      <usage ms="Cht" code="07066000">[64r] -n3</usage>
+      <usage ms="Evm" code="07067000">[154r] matins-n3</usage>
+      <usage ms="Hyd" code="07067000">[97v] matins-n3</usage>
+      <usage ms="Mch" code="07067000">[163v] matins-n3-a7</usage>
+      <usage ms="Pet" code="07067000">[94v] matins-n3</usage>
+      <usage ms="Wcb" code="07067000">[118r] matins-n3</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Deus adiuvat me</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Deus adiuva me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Wor Hyd Evm Wcb Alb2 Cdm"> et dominus susceptor est animae meae</rdg>
+         <rdg wit="Mch">
+            <add place="interlinear">et</add> dominus susceptor est animae meae</rdg>
+         <rdg wit="CAO-G CAO-F Cht Pet"> dominus susceptor est animae meae</rdg>
+      </app>
+   </aBody>
+</ant>

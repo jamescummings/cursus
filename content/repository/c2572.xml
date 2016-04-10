@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2571" nextid="c2573" id="c2572">
+   <header>
+      <usage ms="Cdm" code="08011000">[81r] matins-n1</usage>
+      <usage ms="Hyd" code="08011000">[99v] matins-n3-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Ego dormivi et somnum coepi
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-F CAO-S Hyd"> et exsurrexi</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-L Cdm"> et resurrexi</rdg>
+         <rdg wit="CAO-M"> et <corr sic="exsurrexi">resurrexi</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> quoniam dominus suscepit me</rdg>
+         <rdg wit="Hyd Cdm"> quia dominus suscepit me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cdm"> alleluia alleluia</rdg>
+         <rdg wit="Hyd"> alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1573" nextid="c1575" id="c1574">
+   <header>
+      <usage ms="Alb2" code="01038000">[15r] vesp2 gosp</usage>
+      <usage ms="Bat" code="01032000">[10r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01032000">[16r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01043000">[19v] lauds gosp</usage>
+      <usage ms="Ely" code="01036000">[13r] prime</usage>
+      <usage ms="Evm" code="01015000">[11v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01017000">[12r] lauds-a4</usage>
+      <usage ms="Glo" code="01015000">[11v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01048000">[19r] </usage>
+      <usage ms="Wor" code="01032000">[8r] vesp2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Glo Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Mch Cdm Ely Wor Glo Bat"> Beatam me dicent omnes generationes</rdg>
+         <rdg wit="CAO-C CAO-V CAO-S"> Beata me dicent omnes generationes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Cdm Ely Wor Glo Bat"> quia ancillam humilem respexit deus</rdg>
+         <rdg wit="CAO-G Mch"> quia ancillam humilem respexit dominus</rdg>
+         <rdg wit="CAO-C"> quia ancilla humilem respexit deus</rdg>
+      </app>
+   </aBody>
+</ant>

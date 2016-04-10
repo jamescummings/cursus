@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8564" nextid="c8566" id="c8565">
+   <header>
+      <usage ms="Hyd" code="08086000">vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. antiphon c5288</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Hyd">  Ut autem sciatis quia filius hominis habet potestatem in terra dimittendi peccata tunc ait paraclito surge tolle lectum tuum et vade in domum tuam alleluia</aBody>
+</ant>

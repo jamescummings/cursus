@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2326" nextid="c2328" id="c2327">
+   <header>
+      <usage ms="Cht" code="07017000"/>
+      <usage ms="Ely" code="07017000"/>
+      <usage ms="Evm" code="07017000"/>
+      <usage ms="Hyd" code="07017000"/>
+      <usage ms="Mch" code="07017000">[121r] lauds gosp</usage>
+      <usage ms="Pet" code="07017000"/>
+      <usage ms="Wor" code="07017000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Cht Pet Evm Mch"> Domine bonum est nos hic esse</rdg>
+         <rdg wit="Hyd"> Domine bonum est hic esse</rdg>
+         <rdg wit="Wor">
+            <gap reason="erased verbal and musical text" resp="DC" extent="four words"/> hic esse</rdg>
+      </app> si vis faciamus hic tria tabernacula tibi unum Moysi unum et Eliae unum</aBody>
+</ant>

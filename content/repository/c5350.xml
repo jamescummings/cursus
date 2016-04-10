@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5349" nextid="c5351" id="c5350">
+   <header>
+      <usage ms="Bat" code="07014000">[49v] lauds gosp</usage>
+      <usage ms="Cdm" code="07012000">[58r] lauds</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Evm" code="07012000"/>
+      <usage ms="Glo" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[118r] lauds gosp</usage>
+      <usage ms="Pet" code="07012000"/>
+      <usage ms="Wcb" code="07012000"/>
+      <usage ms="Wor" code="07011000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Glo Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Evm"> Venite benedici</rdg>
+         <rdg wit="Cht Pet Wcb Glo Cdm Mch Bat"> Venite benedicti</rdg>
+      </app> patris mei percipite regnum quod vobis paratum est ab origine mundi</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-L"> Tunc dicet rex his qui a dextris eius erunt</vBody>
+   </verses>
+</ant>

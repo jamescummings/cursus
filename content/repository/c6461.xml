@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6460" nextid="c6462" id="c6461">
+   <rBody wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Disrumpam</rdg>
+         <rdg wit="CAO-D"> Dirumpam</rdg>
+         <rdg wit="CAO-L"> Dirrumpam</rdg>
+      </app> vincula populi mei dicit dominus
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L"> et disperdam</rdg>
+         <rdg wit="CAO-F"> et dispergam</rdg>
+      </app> omnia mala
+      <app>
+         <rdg wit="CAO-G CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> quae induxi</rdg>
+         <rdg wit="CAO-E"> quae induxit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> super eum</rdg>
+         <rdg wit="CAO-E CAO-L"> super eos</rdg>
+      </app> et auferam
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> universum laborem</rdg>
+         <rdg wit="CAO-L"> universum dolorem</rdg>
+      </app> a facie terrae et a civitate ista</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-H"> Refulsit sol in clipeos aureos et resplenduerunt montes ab eis</vBody>
+      <vBody type="r" wit="CAO-R CAO-F CAO-L">
+         <app>
+            <rdg wit="CAO-R"> Revertar Jerusalem</rdg>
+            <rdg wit="CAO-F"> Revertar ad Jerusalem</rdg>
+            <rdg wit="CAO-L"> Revertar ab Jerusalem</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-F"> in misericordia</rdg>
+            <rdg wit="CAO-L"> in misericordiis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-F"> et domus mea</rdg>
+            <rdg wit="CAO-L"> domus mea</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F"> aedificabitur in ea</rdg>
+            <rdg wit="CAO-L"> reaedificabitur in ea</rdg>
+            <rdg wit="CAO-R"> et aedificabitur ibi domus mea</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Bonas facite vias vestras et studia vestra et habitabo vobiscum in loco isto</vBody>
+      <vBody type="r" wit="CAO-V"> Ego enim sum dominus Deus vester et liberabo vos ab omnibus inimicis vestris dicit Dominus</vBody>
+      <vBody type="r" wit="CAO-H"> Iam enim placatus sum super malo quod feci vobis</vBody>
+      <vBody type="r" wit="CAO-G"> Sanabo contritiones eorum et diligam eos spontanee</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Et auferam</rep>
+   </verses>
+</res>

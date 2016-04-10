@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1561" nextid="o1563" id="o1562">
+   <header>
+      <usage ms="Alb2" code="07053000">[102r] lauds</usage>
+      <usage ms="Cdm" code="07053000">[72v] lauds-a2</usage>
+      <usage ms="Cht" code="07053000">[51r] lauds</usage>
+      <usage ms="Ely" code="07053000">[83v] lauds</usage>
+      <usage ms="Evm" code="07053000">[138r] lauds</usage>
+      <usage ms="Hyd" code="07053000">[88v] lauds</usage>
+      <usage ms="Mch" code="07053000">[149r] lauds</usage>
+      <usage ms="Wcb" code="07053000">[110r] lauds</usage>
+      <notesStmt>
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">Deshusses no.292</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Ely Hyd"> Nostra tibi domine</rdg>
+         <rdg wit="Cht"> Praesta quaesumus domine</rdg>
+         <rdg wit="Evm Wcb Alb2 Cdm"> Nostra tibi quaesumus domine</rdg>
+         <rdg wit="Mch"> Nostra tibi domine quaesumus</rdg>
+      </app> sint accepta ieiunia
+     <app>
+         <rdg wit="Ely"> quae nos expiando</rdg>
+         <rdg wit="Cdm"> quae nos expianda</rdg>
+         <rdg wit="Cht Evm Wcb Alb2"> quae nos et expiando</rdg>
+         <rdg wit="Mch"> quae et nos expiando</rdg>
+         <rdg wit="Hyd"> quae nos ad expiando</rdg>
+      </app> gratia tua dignos efficiant
+     <app>
+         <rdg wit="Ely Cht Evm Wcb"> et ad remedia perducant aeterna</rdg>
+         <rdg wit="Hyd"> et ad gaudia aeterna perducant</rdg>
+         <rdg wit="Alb2 Cdm Mch"> et ad gaudia perducant aeterna</rdg>
+      </app>
+   </pBody>
+</prayer>

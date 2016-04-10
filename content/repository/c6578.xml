@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6577" nextid="c6579" id="c6578">
+   <header>
+      <usage ms="Alb2" code="01031000">[11r] matins-n1-r1</usage>
+      <usage ms="Bat" code="01031000">[8r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="01031000">[14v] matins-n1-r1</usage>
+      <usage ms="Ely" code="01031000">[9v] matins-n1-r1</usage>
+      <usage ms="Evm" code="01031000">[16r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="01031000">[9v] matins-n1-r1</usage>
+      <usage ms="Mch" code="01031000">[9v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="01031000">[46r] matins-n1-r1</usage>
+      <usage ms="Wor" code="01031000">[6v] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Ecce apparebit dominus
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> super nubem candidam</rdg>
+         <rdg wit="CAO-L"> supra nubem candidam</rdg>
+      </app> et cum eo sanctorum millia
+      <app>
+         <rdg wit="CAO-G CAO-D CAO-F CAO-S Hyd Cdm Ely Wor Bat"> habens</rdg>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V Alb2 Mch"> et habens</rdg>
+         <rdg wit="CAO-M CAO-R CAO-L Evm Wcb"> et habet</rdg>
+         <rdg wit="CAO-H"> et <corr sic="habent">habet</corr>
+         </rdg>
+      </app> in vestimento et in femore suo scriptum rex regum et dominus dominatium</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Apparebit in finem et non mentietur si moram fecerit exspecta eum quia
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-D CAO-F CAO-S Hyd Evm Cdm Ely Wor Wcb Bat"> veniens veniet</rdg>
+            <rdg wit="Alb2"> veniet</rdg>
+            <rdg wit="CAO-V"> veniens venit</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-L Mch"> Ecce dominator dominus cum virtute veniet</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-D CAO-F Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Rex</rep>
+      <rep type="r" wit="CAO-B CAO-R CAO-S CAO-L"> Et cum eo</rep>
+      <rep type="r" wit="CAO-C CAO-V"> Et habens</rep>
+      <rep type="r" wit="CAO-M"> Et habet</rep>
+      <rep type="r" wit="CAO-H"> Et cum eo <rubric type="general">vel</rubric> Rex</rep>
+   </verses>
+</res>

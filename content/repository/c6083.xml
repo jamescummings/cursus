@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6082" nextid="c6084" id="c6083">
+   <header>
+      <usage ms="Alb2" code="07065000">[108r] matins-n2-r4</usage>
+      <usage ms="Evm" code="07065000">[148v] matins-n2-r6</usage>
+      <usage ms="Mch" code="07065000">[158v] matins-n2-r4</usage>
+      <usage ms="Wcb" code="07065000">[115r] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-H CAO-S CAO-L Evm Wcb Alb2 Mch">
+      <app>
+         <rdg wit="CAO-G CAO-H Alb2"> Amicus meus osculi me tradidit signo</rdg>
+         <rdg wit="Mch"> Amicus meus osculi me tradidit dicens</rdg>
+         <rdg wit="Evm Wcb"> Magistrum Judas osculi Judeis tradidit signo</rdg>
+         <rdg wit="CAO-C"> Amicus meus osculum me tradidit signo</rdg>
+         <rdg wit="CAO-E CAO-S CAO-L"> Amicus meus osculi me tradidit signum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-S CAO-L Alb2 Mch"> quem osculatus fuero ipse est</rdg>
+         <rdg wit="Evm Wcb"> quem osculatus inquit fuero ipse est</rdg>
+      </app> tenete eum hoc malum fecit signum qui per osculum adimplevit homicidium infelix praetermisit pretium sanguinis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-S CAO-L Wcb"> et in finem laqueo se suspendit</rdg>
+         <rdg wit="CAO-H Evm Alb2"> et in fine laqueo se suspendit</rdg>
+         <rdg wit="Mch"> et in fine<del type="underdot" resp="DC" status="unremarkable">m</del> laqueo se suspendit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-H CAO-S Evm Wcb Alb2 Mch">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-H Alb2 Mch"> Melius illi erat</rdg>
+            <rdg wit="CAO-C CAO-S Evm Wcb"> Melius illi fuerat</rdg>
+         </app> si natus non fuisset</vBody>
+      <vBody type="r" wit="CAO-L"> Bonum erat ei si natus non fuisset homo ille</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-H CAO-S CAO-L Evm Wcb Alb2 Mch">Infelix praetermisit</rep>
+      <rep type="r" wit="CAO-C">Qui per osculum</rep>
+      <rep type="r" num="2" wit="Evm Wcb">Magistrum</rep>
+   </verses>
+</res>

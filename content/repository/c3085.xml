@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3084" nextid="c3086" id="c3085">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-F CAO-S CAO-L"> Hoc iam tertio manifestavit se Jesus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-H CAO-F CAO-S"> postquam resurrexit a mortuis alleluia</rdg>
+         <rdg wit="CAO-L"> cum resurrexisset a mortuis alleluia</rdg>
+         <rdg wit="CAO-E"> postquam surrexit</rdg>
+      </app>
+   </aBody>
+</ant>

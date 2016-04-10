@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6593" nextid="c6595" id="c6594">
+   <header>
+      <usage ms="Alb2" code="02122600">[33r] matins-n3-r12</usage>
+      <usage ms="Bat" code="02122600">[19r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="02122600">[24v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-D CAO-F Alb2 Bat Cdm"> Ecce iam coram te protomartyr Stephane suppliciter assistentes te devote precamur ut qui pro te lapidantibus
+     <app>
+         <rdg wit="Alb2 Bat Cdm">deum</rdg>
+         <rdg wit="CAO-D CAO-F"> Christum</rdg>
+      </app> deprecatus es pro nobis apud ipsum intercedere digneris</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F Alb2 Bat Cdm"> Caritatis gratia repletus pro persecutoribus orans filium hominis ad dexteram patris stantem videre meruisti ideoque precamur</vBody>
+      <rep type="r" wit="CAO-D CAO-F Alb2 Bat Cdm"> Ut qui</rep>
+   </verses>
+   <rBody type="incipit" wit="Hyd">
+      <note type="editorial" resp="DC" place="unspecified" anchored="yes">Full item probably used in service(s) contained in previous lost folio</note>Ecce iam</rBody>
+</res>

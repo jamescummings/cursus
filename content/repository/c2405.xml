@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2404" nextid="c2406" id="c2405">
+   <header>
+      <usage ms="Alb2" code="07061000">[105r] lauds</usage>
+      <usage ms="Bat" code="07061000">[63r] lauds-a1</usage>
+      <usage ms="Cdm" code="07061000">[75r] lauds-a1</usage>
+      <usage ms="Cht" code="07062000">[57r] prime</usage>
+      <usage ms="Ely" code="07061000">[86r] lauds</usage>
+      <usage ms="Evm" code="07062000">[145r] prime</usage>
+      <usage ms="Glo" code="07062000">[77v] prime</usage>
+      <usage ms="Hyd" code="07061000">[91r] lauds-a1</usage>
+      <usage ms="Mch" code="07061000">[154v] lauds-a1</usage>
+      <usage ms="Pet" code="07061000">[85v] lauds</usage>
+      <usage ms="Wcb" code="07062000">[114r] prime</usage>
+      <usage ms="Wor" code="07061000">[56v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Dominus deus auxiliator meus et ideo non sum confusus</aBody>
+</ant>

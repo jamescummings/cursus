@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2841" nextid="c2843" id="c2842">
+   <header>
+      <usage ms="Hyd" code="08086000">lauds</usage>
+   </header>
+   <aBody wit="CAO-S Hyd"> Factum est in una dierum et Jesus sedebat docens et erant pharisaei sedentes et legis doctores qui venerant ex omni castello Galilaeae
+     <app>
+         <rdg wit="CAO-S"> Judaeae</rdg>
+         <rdg wit="Hyd"> et Judaeae</rdg>
+      </app> et Jerusalem et virtus erat domini ad sanandum eos alleluia</aBody>
+</ant>

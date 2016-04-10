@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2464" nextid="c2466" id="c2465">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Dum praeliaretur Michael archangelus</rdg>
+         <rdg wit="CAO-V"> Dum praeliaretur Michael archangelo</rdg>
+      </app> cum dracone audita est vox dicentium salus deo nostro alleluia</aBody>
+   <aBody wit="CAO-C" num="2"> Dum praeliaretur Michael archangelus cum dracone antiquo dedit ei dominus victoriam sempiternam</aBody>
+</ant>

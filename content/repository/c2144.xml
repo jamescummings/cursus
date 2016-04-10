@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2143" nextid="c2145" id="c2144">
+   <header>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">CAO-H and CAO-L have different melodies</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-L"> Dele domine deus iniquitatem meam</aBody>
+   <aBody wit="CAO-H"> Dele domine iniquitatem meam</aBody>
+</ant>

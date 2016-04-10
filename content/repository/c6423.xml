@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6422" nextid="c6424" id="c6423">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Deus in te speravi domine non confundar in aeternum in tua iustitia libera me et eripe me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-R CAO-F CAO-S"> Esto mihi</rdg>
+            <rdg wit="CAO-H"> Esto mihi domine</rdg>
+         </app> in Deum protectorem
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R"> et in locum munitum</rdg>
+            <rdg wit="CAO-F"> et in domum refugii</rdg>
+            <rdg wit="CAO-S"> et in locum refugii</rdg>
+         </app> ut salvum me
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> facias</rdg>
+            <rdg wit="CAO-S"> faciat</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Quoniam tu es patientia mea domine spes mea a iuventute mea</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">In tua</rep>
+   </verses>
+</res>

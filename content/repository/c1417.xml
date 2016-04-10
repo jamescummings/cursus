@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1416" nextid="c1418" id="c1417">
+   <aBody wit="CAO-M CAO-H">
+      <app>
+         <rdg wit="CAO-H"> Anima mea exsultabit in domino</rdg>
+         <rdg wit="CAO-M"> Anima mea exsultavit in domino</rdg>
+      </app> et delectabitur
+     <app>
+         <rdg wit="CAO-H"> in salutari suo</rdg>
+         <rdg wit="CAO-M"> in salutari tuo</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1781" nextid="o1783" id="o1782">
+   <header>
+      <usage ms="Ely" code="02122400">[15v] vesp1</usage>
+      <usage ms="Mch" code="01021000">[9r] sext</usage>
+   </header>
+   <pBody wit="Mch Ely"> Praesta misericors deus ut nativitatis tuae proximae ventura solemnitas ita nos tibi placitos reddat ut cum fructu bonorum operum ad regna caelestia introducat</pBody>
+</prayer>

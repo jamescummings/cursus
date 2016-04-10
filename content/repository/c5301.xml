@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5300" nextid="c5302" id="c5301">
+   <header>
+      <usage ms="Cht" code="07016000"/>
+      <usage ms="Ely" code="07016000"/>
+      <usage ms="Hyd" code="07016000"/>
+      <usage ms="Pet" code="07016000"/>
+      <usage ms="Wor" code="07016000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Ely Wor Cht Pet">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Ely Wor Cht Pet"> Vade iam et noli peccare</rdg>
+         <rdg wit="CAO-C CAO-G"> Vade iam noli peccare</rdg>
+      </app> ne deterius tibi aliquid contingat</aBody>
+</ant>

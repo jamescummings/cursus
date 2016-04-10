@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3385" nextid="c3387" id="c3386">
+   <aBody wit="CAO-G CAO-E CAO-M CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> Intrepidus itaque candentis ferri machinam</rdg>
+         <rdg wit="CAO-G CAO-M"> Intrepidus itaque candentis ferri machinas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M"> ultro conscendit</rdg>
+         <rdg wit="CAO-D CAO-F"> ultro conscendens</rdg>
+      </app> ac manens immotus erectis in caelum luminibus dominum precabatur</aBody>
+</ant>

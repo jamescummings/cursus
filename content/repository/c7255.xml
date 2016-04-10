@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7254" nextid="c7256" id="c7255">
+   <rBody wit="CAO-V CAO-R CAO-D CAO-F CAO-S"> O beati viri
+     <app>
+         <rdg wit="CAO-R CAO-D CAO-F CAO-S"> Benedicti</rdg>
+         <rdg wit="CAO-V"> Prosperi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F"> sancta praeconia</rdg>
+         <rdg wit="CAO-R"> tanta praeconia</rdg>
+         <rdg wit="CAO-S"> sancta praeconiis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R CAO-D CAO-F CAO-S"> o inaestimabilis dilectio caritatis qui dum</rdg>
+         <rdg wit="CAO-V"> o inaestimabilis virtus in ea laude digna qui dudum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-F CAO-S"> saeculi pompam</rdg>
+         <rdg wit="CAO-D"> saeculi <sic resp="Hesbert"> popam</sic>
+         </rdg>
+         <rdg wit="CAO-S"> saeculi pompa</rdg>
+      </app> contempsit aeternae vitae coniunctus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-R CAO-D CAO-F CAO-S"> Cui vivere Christus
+      <app>
+            <rdg wit="CAO-V CAO-D CAO-F CAO-S"> fuit</rdg>
+            <rdg wit="CAO-R"> erat</rdg>
+         </app> et mori lucrum</vBody>
+      <rep type="r" wit="CAO-V CAO-D CAO-F CAO-S">Aeternae</rep>
+      <rep type="r" wit="CAO-R">Qui dum</rep>
+   </verses>
+</res>

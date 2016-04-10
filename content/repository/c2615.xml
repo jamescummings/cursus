@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2614" nextid="c2616" id="c2615">
+   <header>
+      <usage ms="Glo" code="14031200"/>
+   </header>
+   <aBody wit="CAO-D Glo"> Egregio beatitudinis tuae praeconio triumphans universalis ecclesia per te nobiliter instituta ave papa insignissime Romanorum decus Anglorum gloria
+     <app>
+         <rdg wit="CAO-D"> Suessorum laetitia</rdg>
+         <rdg wit="Glo">monachorum laetitia</rdg>
+      </app> sancte Gregori interveni quaesumus
+     <app>
+         <rdg wit="CAO-D"> pro nostra omniumque salute</rdg>
+         <rdg wit="Glo"> pro nostra omnium salute</rdg>
+      </app>
+   </aBody>
+</ant>

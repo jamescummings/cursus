@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2920" nextid="c2922" id="c2921">
+   <header>
+      <usage ms="Ely" code="01021000">[8r] terce</usage>
+      <usage ms="Evm" code="01021000">[15r] sext</usage>
+      <usage ms="Glo" code="01021000">[12v] sext</usage>
+      <usage ms="Wcb" code="01021000">[45v] sext</usage>
+   </header>
+   <aBody wit="CAO-F Evm Ely Wcb Glo"> Gaude et laetare filia Sion quia ecce ego venio et habitabo in medio tui dicit dominus</aBody>
+</ant>

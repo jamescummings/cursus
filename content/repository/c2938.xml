@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2937" nextid="c2939" id="c2938">
+   <header>
+      <usage ms="Alb2" code="02122500">[29r] lauds-a2</usage>
+      <usage ms="Bat" code="02122500">[18r] lauds-a2</usage>
+      <usage ms="Cdm" code="02122500">[23v] lauds-a2</usage>
+      <usage ms="Ely" code="02122500">[20v] lauds-a2</usage>
+      <usage ms="Evm" code="02122500">[37r] lauds-a1</usage>
+      <usage ms="Hyd" code="02122500">[20v] lauds-a1</usage>
+      <usage ms="Pet" code="02122500">[18r] lauds-a2</usage>
+      <usage ms="Wcb" code="02122500">[56v] lauds-a1</usage>
+      <usage ms="Wor" code="02122500">[14v] lauds-a2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.144-146</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Genuit puerpera regem</rdg>
+         <rdg wit="CAO-L"> Genuit puerperam regem</rdg>
+      </app> cui nomen aeternum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Wcb Bat Cdm Ely Wor Pet"> et gaudium matris</rdg>
+         <rdg wit="CAO-D Evm"> et gaudia matris</rdg>
+         <rdg wit="CAO-C"> et gaudio matris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F Hyd Alb2 Wcb Bat Cdm Ely Wor Pet"> habens cum virginitatis honore</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-S Evm"> habens cum virginitate pudoris</rdg>
+         <rdg wit="CAO-L"> habet cum virginitate pudoris</rdg>
+         <rdg wit="CAO-M"> habet cum virginitatis pudore</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> habens cum virginitatis pudore</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Wcb Bat Cdm Ely Wor Pet"> nec primam similem visa est</rdg>
+         <rdg wit="Evm"> nec primam similem visa es</rdg>
+         <rdg wit="CAO-L"> nec prima ei similis visa est</rdg>
+         <rdg wit="CAO-F"> nec primam similem visa <corr sic="est">es</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Wcb Bat Cdm Ely Wor Pet"> nec habere sequentem alleluia</rdg>
+         <rdg wit="Alb2"> nec habere sequentem</rdg>
+         <rdg wit="CAO-L"> nec habebit sequentem alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

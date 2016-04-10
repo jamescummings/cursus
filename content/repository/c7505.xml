@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7504" nextid="c7506" id="c7505">
+   <rBody wit="CAO-G CAO-B CAO-V CAO-R CAO-F CAO-S"> Quomodo fiet istud
+     <app>
+         <rdg wit="CAO-G CAO-V CAO-R"> respondens ait Maria</rdg>
+         <rdg wit="CAO-F"> respondit Maria</rdg>
+         <rdg wit="CAO-S">
+            <corr sic="respondit">respondens</corr> Maria</rdg>
+         <rdg wit="CAO-B" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> quia virum non cognosco angelus ad haec spiritus sanctus superveniet in te et virtus altissimi
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-R CAO-F"> obumbrabit tibi</rdg>
+         <rdg wit="CAO-V CAO-S"> obumbravit tibi</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-V CAO-R CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-V CAO-F"> Ideoque quod nascetur ex te</rdg>
+            <rdg wit="CAO-R"> Ideoque et quod nascetur ex te</rdg>
+            <rdg wit="CAO-S"> Ideoque et quod nascetur <add place="sublinear">ex te</add>
+            </rdg>
+         </app> sanctum vocabitur filius dei</vBody>
+      <rep type="r" wit="CAO-V CAO-R CAO-F CAO-S">Spiritus</rep>
+      <rep type="r" wit="CAO-B">Et virtus</rep>
+      <dox type="r" wit="CAO-F"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-F">Et virtus</rep>
+   </verses>
+</res>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4827" nextid="c4829" id="c4828">
+   <header>
+      <usage ms="Ely" code="01011000">[5r] prime</usage>
+   </header>
+   <aBody wit="CAO-B CAO-R Ely"> Scientes quia hora est iam nos de somno surgere nunc enim propior est nostra salus quam cum credidimus nox praecessit dies autem
+     <app>
+         <rdg wit="CAO-B CAO-R"> appropinquabit</rdg>
+         <rdg wit="Ely"> appropinquavit</rdg>
+      </app>
+   </aBody>
+</ant>

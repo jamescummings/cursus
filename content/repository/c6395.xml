@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6394" nextid="c6396" id="c6395">
+   <header>
+      <usage ms="Alb2" code="07051000">[100v] vesp2</usage>
+      <usage ms="Cdm" code="07051000">[72r] vesp2-r1</usage>
+      <usage ms="Ely" code="07051000">[82v] vesp2</usage>
+      <usage ms="Evm" code="07051000">[136v] vesp2</usage>
+      <usage ms="Glo" code="07051000">[70v] vesp2</usage>
+      <usage ms="Hyd" code="07051000">[87v] vesp2</usage>
+      <usage ms="Pet" code="07051000">[81v] vesp2</usage>
+      <usage ms="Wcb" code="07051000">[109r] vesp2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L Ely Hyd Pet Evm Wcb Glo Alb2 Cdm"> De ore leonis libera me domine
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-R CAO-S Ely Hyd Pet Evm Wcb Glo Alb2 Cdm"> et a cornibus unicornium humilitatem meam</rdg>
+         <rdg wit="CAO-C CAO-H CAO-L">et a cornibus unicornuorum humilitatem meam</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L Ely Hyd Pet Evm Wcb Glo Alb2 Cdm">Erue a framea deus animam meam
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L Ely Alb2 Cdm"> et de manu canis unicam meam</rdg>
+            <rdg wit="Hyd Pet Evm Wcb Glo"> et de manu canis</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-H CAO-R CAO-L Ely Pet Evm Wcb Glo">Humilitatem</rep>
+      <rep type="r" wit="CAO-B CAO-S Alb2 Cdm">Et a <supplied>cornibus</supplied>
+      </rep>
+      <rep type="r" num="2" wit="Evm Wcb">De ore</rep>
+   </verses>
+</res>

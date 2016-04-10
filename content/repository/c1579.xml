@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1578" nextid="c1580" id="c1579">
+   <aBody wit="CAO-B CAO-H CAO-R"> Beati ergo corpus <name reg="Othmarus" type="saint">Othmari</name> in ecclesia sancti <name reg="Gallus" type="saint">Galli</name> positum multis inibi miraculis caelitus
+     <app>
+         <rdg wit="CAO-B CAO-R"> est glorificatum</rdg>
+         <rdg wit="CAO-H"> est clarificatum</rdg>
+      </app>
+   </aBody>
+</ant>

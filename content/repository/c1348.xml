@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1347" nextid="c1349" id="c1348">
+   <header>
+      <usage corresp="c1348-1" ms="Hyd" code="08017000">matins-n2</usage>
+      <usage ms="Hyd" code="08015000">[104r] matins-n2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-F Hyd"> Alleluia noli flere Maria alleluia</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-R CAO-D CAO-L"> Noli flere Maria alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-H CAO-F Hyd"> resurrexit dominus alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> quia resurrexit dominus alleluia</rdg>
+         <rdg wit="CAO-V CAO-R CAO-D"> resurrexit dominus alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody id="c1348-1" wit="Hyd">Noli flere Maria alleluia resurrexit dominus alleluia alleluia</aBody>
+</ant>

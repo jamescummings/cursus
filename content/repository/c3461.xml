@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3460" nextid="c3462" id="c3461">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] terce-a1</usage>
+      <usage ms="Bat" code="06011000">[43r] terce</usage>
+      <usage ms="Cdm" code="06011000">[50r] terce-a1</usage>
+      <usage ms="Cht" code="06011000">[12v] sext-a1</usage>
+      <usage ms="Ely" code="06011000">[60v] sext-a1</usage>
+      <usage ms="Evm" code="06011000">[93r] matins-n3</usage>
+      <usage ms="Hyd" code="06011000">[62r] sext gosp</usage>
+      <usage ms="Mch" code="06011000">[100r] matins-n3</usage>
+      <usage ms="Pet" code="06011000">[57r] sext</usage>
+      <usage ms="Wcb" code="06011000">[85v] matins-n3</usage>
+      <usage ms="Wor" code="06011000">[37v] terce-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Pet Ely Alb2 Wcb Evm Cdm Mch Bat"> Ite et vos in vineam meam</rdg>
+         <rdg wit="Wor"> Ite et vos in vineam</rdg>
+      </app> et quod iustum fuerit dabo vobis</aBody>
+</ant>

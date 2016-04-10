@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3973" nextid="c3975" id="c3974">
+   <header>
+      <usage ms="Evm" code="07057000">[140v] prime</usage>
+      <usage ms="Glo" code="07057000">[72r] prime</usage>
+      <usage ms="Wcb" code="07057000">[110v] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-F Evm Wcb Glo"> Nunc clarificatus est filius hominis
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-F Evm Glo"> et deus clarificatus est in eo</rdg>
+         <rdg wit="Wcb"> et deus clarificatus est in <add place="interlined">illo</add>eo</rdg>
+      </app>
+   </aBody>
+</ant>

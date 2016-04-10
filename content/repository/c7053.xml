@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7052" nextid="c7054" id="c7053">
+   <rBody wit="CAO-V CAO-H CAO-R CAO-S"> Iusti autem
+      <app>
+         <rdg wit="CAO-V CAO-R"> in perpetuum</rdg>
+         <rdg wit="CAO-H"> in perpetuo</rdg>
+         <rdg wit="CAO-S"> in perpet<gap extent="remainder of word"/>
+         </rdg>
+      </app> vivent
+      <app>
+         <rdg wit="CAO-R"> alleluia</rdg>
+         <rdg wit="CAO-V CAO-H CAO-S" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-H CAO-R CAO-S">Et apud dominum est merces eorum</vBody>
+   </verses>
+</res>

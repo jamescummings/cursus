@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2185" nextid="c2186b" id="c2186">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L"> Dextram meam et collum meum</rdg>
+         <rdg wit="CAO-R"> Dexteram meam et collum meum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> cinxit lapidibus pretiosis</rdg>
+         <rdg wit="CAO-S"> cinxi lapidibus pretiosis</rdg>
+      </app> tradidit auribus meis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> inaestimabiles maxgaritas</rdg>
+         <rdg wit="CAO-D"> inestimales maxgaritas</rdg>
+      </app>
+   </aBody>
+</ant>

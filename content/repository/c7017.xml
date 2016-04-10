@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7016" nextid="c7018" id="c7017">
+   <rBody wit="CAO-E CAO-L"> Isti sunt incliti martires Christi Gervasius et Protasius
+      <app>
+         <rdg wit="CAO-E"> qui monita Dei cernentes spernentes mundum</rdg>
+         <rdg wit="CAO-L"> qui praecepta Dei complentes spernendo mundum</rdg>
+      </app> secuti sunt domini nostri Jesu Christi pia vestigia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Nihil terrenum nihil carnale concupiscentes in Mediolanense urbe per decem annos perdurarunt</vBody>
+      <vBody type="r" wit="CAO-L"> Nihil terrenum nihil carnale concupiscentes sed coronam immortalem accipere cupientes Secuti</vBody>
+      <rep type="r" wit="CAO-E CAO-L">Secuti</rep>
+   </verses>
+</res>

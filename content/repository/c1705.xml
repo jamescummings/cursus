@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1704" nextid="c1706" id="c1705">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F"> Benedicta filia tu a domino</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L"> Benedicta filia tua domine</rdg>
+         <rdg wit="CAO-S"> Benedicta filia tua <corr sic="domine">domino</corr>
+         </rdg>
+         <rdg wit="CAO-E"> Benedicta a filio tuo domina</rdg>
+      </app> quia per te
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L"> fructum vitae</rdg>
+         <rdg wit="CAO-F CAO-S"> fructui vitae</rdg>
+      </app> communicavimus</aBody>
+</ant>

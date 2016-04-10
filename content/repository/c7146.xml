@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7145" nextid="c7147" id="c7146">
+   <header>
+      <usage ms="Alb2" code="07031000">[89r] matins-n3-r9</usage>
+      <usage ms="Bat" code="07031000">[54r] matins-n2-r6</usage>
+      <usage ms="Cdm" code="07031000">[64r] matins-n2-r6</usage>
+      <usage ms="Cht" code="07031000">[35r] matins-n2-r2</usage>
+      <usage ms="Ely" code="07031000">[74v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="07031000">[78v] matins-n2-r6</usage>
+      <usage ms="Mch" code="07031000">[131r] matins-n3-r10</usage>
+      <usage ms="Pet" code="07031000">[72r] matins-r6</usage>
+      <usage ms="Wcb" code="07031000">[101r] matins-n2-r7</usage>
+      <usage ms="Wor" code="07031000">[48v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> Merito haec patimur quia peccavimus in fratrem nostrum
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> videntes angustiam animae eius</rdg>
+         <rdg wit="CAO-C CAO-L"> videntes angustiae animae eius</rdg>
+      </app> dum deprecaretur nos et non audivimus
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> idcirco venit super nos tribulatio</rdg>
+         <rdg wit="CAO-L"> idcirco venit super nos ista tribulatio</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> Dixit Ruben fratribus suis
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> numquid non dixi vobis</rdg>
+            <rdg wit="CAO-D"> non quid non dixi vobis</rdg>
+         </app> nolite peccare in puerum et non audistis me</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> Idcirco</rep>
+   </verses>
+</res>

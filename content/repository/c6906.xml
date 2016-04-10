@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6905b" nextid="c6906b" id="c6906">
+   <header>
+      <usage ms="Alb2" code="02122700">[34v] matins-n1-r2</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n1-r3</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n1-r3</usage>
+      <usage ms="Evm" code="02122700">[44r] matins-n2-r6</usage>
+      <usage ms="Hyd" code="02122700">[24v] matins-n2-r6</usage>
+      <usage ms="Pet" code="02122700">[25v] matins-n1-r3</usage>
+      <usage ms="Wcb" code="02122700">[61v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Pet">
+      <app>
+         <rdg wit="CAO-C CAO-D Hyd Evm Wcb Bat Pet"> In illa die</rdg>
+         <rdg wit="Cdm"> In die illa</rdg>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-L Alb2"> In illo die</rdg>
+         <rdg wit="CAO-E CAO-M CAO-F CAO-S"> In illum diem</rdg>
+      </app> suscipiam te
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Pet"> servum meum</rdg>
+         <rdg wit="CAO-C CAO-G CAO-L"> serve meus</rdg>
+      </app> et ponam te sicut signaculum in conspectu meo quoniam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Pet"> ego elegi te</rdg>
+         <rdg wit="Hyd"> elegi te</rdg>
+         <rdg wit="CAO-V"> ego elegit te</rdg>
+      </app> dicit dominus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Pet"> Esto fidelis usque ad mortem et dabo tibi coronam vitae</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Bat Cdm"> In tribulatione invocasti me
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R Bat Cdm"> et exaudivi te et liberavi te</rdg>
+            <rdg wit="CAO-M"> et exaudivi te et liberabo te</rdg>
+            <rdg wit="CAO-C">exaudivit te et liberavit te</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm">Quoniam</rep>
+      <rep type="r" wit="CAO-R Hyd"> Dicit</rep>
+   </verses>
+</res>

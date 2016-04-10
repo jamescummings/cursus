@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1763" nextid="c1765" id="c1764">
+   <header>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Cantate domino
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-S Hyd"> et benedicite nomini eius</rdg>
+         <rdg wit="CAO-H CAO-L"> et benedicite nomen eius</rdg>
+      </app>
+   </aBody>
+</ant>

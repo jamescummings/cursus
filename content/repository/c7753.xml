@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7752" nextid="c7754" id="c7753">
+   <rBody wit="CAO-C CAO-D CAO-F"> Tantas per illum dominus dignabatur exercere virtutes ut
+     <app>
+         <rdg wit="CAO-F"> rebellium</rdg>
+         <rdg wit="CAO-C"> rebellum</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="rebellum">rebellium</corr>
+         </rdg>
+      </app> corda non minus miraculis quam praedicationibus
+     <app>
+         <rdg wit="CAO-D CAO-F"> obtineret</rdg>
+         <rdg wit="CAO-C"> obtinerent</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> In quo lux caelestis gratiae ineffabiliter radiabat</vBody>
+      <vBody type="r" wit="CAO-C"> Miroque modo inermi viro non valebat plebs <corr sic="arma" resp="Hesbert">armata</corr> resistere</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Ut</rep>
+      <rep type="r" wit="CAO-C">Quam</rep>
+   </verses>
+</res>

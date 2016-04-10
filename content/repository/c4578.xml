@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4577" nextid="c4579" id="c4578">
+   <aBody wit="CAO-C CAO-L">
+      <app>
+         <rdg wit="CAO-C"> Recordatus est Petrus verbi Jesu</rdg>
+         <rdg wit="CAO-L"> Recordatus Petrus verbi Jesu</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> quod dixerat ei</rdg>
+         <rdg wit="CAO-L"> quod dixerat</rdg>
+      </app> et egressus foras flevit amare</aBody>
+</ant>

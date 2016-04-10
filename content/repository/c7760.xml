@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7759" nextid="c7761" id="c7760">
+   <header>
+      <usage ms="Alb2" code="07066000">[110v] matins-n2-r6</usage>
+      <usage ms="Cdm" code="07066000">[79v] matins-n3-r9</usage>
+      <usage ms="Cht" code="07066000">[63v] matins-n3-r9</usage>
+      <usage ms="Ely" code="07066000">[90v] matins-n3-r9</usage>
+      <usage ms="Evm" code="07066000">[151v] matins-n3-r7</usage>
+      <usage ms="Hyd" code="07065000">[95v] matins-n3-r8</usage>
+      <usage ms="Mch" code="07066000">[161v] matins-n2-r6</usage>
+      <usage ms="Pet" code="07066000">[92v] matins-n3-r9</usage>
+      <usage ms="Wcb" code="07066000">[116v] matins-n3-r7</usage>
+      <usage ms="Wor" code="07066000">[62r] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Tenebrae factae sunt dum crucifixissent Jesum Judaei et circa horam nonam
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> exclamavit Jesus voce magna</rdg>
+         <rdg wit="CAO-G CAO-R"> exclamabat Jesus voce magna</rdg>
+         <rdg wit="CAO-B">
+            <corr sic="exclamabat" resp="Hesbert">exclamavit</corr> Jesus voce magna</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F Wor Cht Pet Evm Wcb Mch"> deus deus ut quid me dereliquisti</rdg>
+         <rdg wit="CAO-B CAO-R Ely Alb2"> deus meus ut quid me dereliquisti</rdg>
+         <rdg wit="Hyd"> deus deus meus ut quid me dereliquisti</rdg>
+         <rdg wit="Cdm"> deus deus meus ut quid dereliquisti me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch"> et inclinato capite emisit spiritum</rdg>
+         <rdg wit="CAO-V"> et inclinato capite tradidit spiritum</rdg>
+      </app> tunc unus ex militibus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Evm Wcb Alb2 Mch"> lancea latus eius perforavit</rdg>
+         <rdg wit="CAO-M Ely Wor Cht Pet Cdm"> lancea latus eius aperuit</rdg>
+         <rdg wit="Hyd"> lancea latus eius <corr sic="aparuit" resp="DC">aperuit</corr>
+         </rdg>
+      </app> et continuo exivit sanguis et aqua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Cht Evm Wcb Alb2 Mch"> Et velum templi
+    <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Cht Evm Wcb Alb2"> scissum est a summo</rdg>
+            <rdg wit="Mch"> scissum a summo est</rdg>
+         </app> usque deorsum et omnis terra tremuit</vBody>
+      <vBody type="r" wit="CAO-D CAO-F Ely Wor Hyd Pet Cdm"> Cum ergo accepisset acetum dixit consummatum est</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Cht Evm Wcb Alb2 Mch"> Tunc unus</rep>
+      <rep type="r" wit="CAO-G CAO-F Ely Wor Hyd Pet Cdm"> Et inclinato</rep>
+      <rep type="r" num="2" wit="Ely Wor Cht">
+         <rubric type="respond">R.</rubric> Tenebrae</rep>
+   </verses>
+</res>

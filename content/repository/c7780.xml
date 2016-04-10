@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7779" nextid="c7781" id="c7780">
+   <header>
+      <usage ms="Alb2" code="07065000">[108r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="07065000">[77v] matins-n1-r2</usage>
+      <usage ms="Ely" code="07065000">[88v] matins-n1-r2</usage>
+      <usage ms="Evm" code="07065000">[148r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="07065000">[94v] matins-n1-r2</usage>
+      <usage ms="Mch" code="07065000">[158r] matins-n1-r2</usage>
+      <usage ms="Pet" code="07065000">[88v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="07065000">[114v] matins-n1-r3</usage>
+      <usage ms="Wor" code="07065000">[59r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Tristis est anima mea
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">usque ad mortem</rdg>
+         <rdg wit="CAO-S">usque ad morte</rdg>
+      </app> sustinete hic et vigilate mecum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">nunc videbitis turbam</rdg>
+         <rdg wit="CAO-G">nunc non videtis turbam</rdg>
+         <rdg wit="CAO-L">nunc non videbitis turba</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-R CAO-D CAO-L Wor Pet Cdm"> quae circumdat me</rdg>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-F CAO-S Ely Hyd Evm Wcb Alb2 Mch"> quae circumdabit me</rdg>
+      </app> vos fugam capietis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> et ego vadam immolari pro vobis</rdg>
+         <rdg wit="CAO-B CAO-H"> et ego vado immolari pro vobis</rdg>
+         <rdg wit="CAO-M"> et ego <corr sic="vado">vadam</corr> immolari pro vobis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-L Ely Wor Pet Alb2 Cdm"> Ecce appropinquabit hora
+      <app>
+            <rdg wit="CAO-D CAO-L Ely Wor Pet Cdm"> et filius hominis tradetur</rdg>
+            <rdg wit="Alb2"> in qua filius hominis tradetur</rdg>
+         </app> in manus peccatorum</vBody>
+      <vBody type="r" wit="Hyd Evm Wcb">Surgite eamus dicit dominus ecce appropinquabit qui me tradet</vBody>
+      <vBody type="r" wit="CAO-S"> Verumtamen non sicut ego volo sed sicut tu vis</vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F Mch"> Vigilate et orate dicit dominus</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F Evm Wcb Mch"> Nunc</rep>
+      <rep type="r" wit="CAO-G CAO-E CAO-D CAO-S CAO-L Ely Wor Pet Alb2 Cdm"> Vos fugam</rep>
+      <rep type="r" wit="CAO-M"> Et ego</rep>
+      <rep type="r" num="2" wit="Evm Wcb">Tristis</rep>
+   </verses>
+</res>

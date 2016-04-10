@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6684" nextid="c6686" id="c6685">
+   <header>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <rBody wit="CAO-H CAO-R CAO-D CAO-L Hyd"> Exaudi deus deprecationem meam intende orationi meae a finibus terrae ad te clamavi domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D Hyd"> Dum anxiaretur cor meum in petra exaltasti me deduxisti me</vBody>
+      <vBody type="r" wit="CAO-H CAO-R"> Dum anxiaretur cor meum in petra exaltasti me deduxisti me
+      <app>
+            <rdg wit="CAO-H"> quia factus es</rdg>
+            <rdg wit="CAO-R"> quia factus est</rdg>
+         </app> adiutor meus</vBody>
+      <rep type="r" wit="CAO-R CAO-D Hyd"> A finibus</rep>
+      <vBody type="r" wit="CAO-L"> Quoniam tu Deus exaudisti orationem meam dedisti hereditatem timentibus nomen tuum</vBody>
+   </verses>
+</res>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2554" nextid="c2556" id="c2555">
+   <header>
+      <usage ms="Alb2" code="02122800">[38r] matins-n2-a12</usage>
+      <usage ms="Bat" code="02122800">[23r] matins-n2-a10</usage>
+      <usage ms="Cdm" code="02122800">[28v] matins-n2-a10</usage>
+      <usage ms="Evm" code="02122800">[47v] matins-n2-a12</usage>
+      <usage ms="Hyd" code="02122800">[27v] lauds gosp</usage>
+      <usage ms="Pet" code="02122800">[30v] matins-n3</usage>
+      <usage ms="Wcb" code="02122800">[65r] terce</usage>
+      <usage ms="Wor" code="02122800">[23v] terce</usage>
+   </header>
+   <aBody wit="CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Ecce vidi agnum stantem supra montem Sion et cum eo sanctorum millia et habebant nomen eius et nomen patris eius scriptum
+     <app>
+         <rdg wit="CAO-S Alb2 Evm Wcb Bat Cdm Wor Pet"> in frontibus suis</rdg>
+         <rdg wit="Hyd"> in frontibus eorum</rdg>
+      </app>
+   </aBody>
+</ant>

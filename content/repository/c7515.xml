@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7514" nextid="c7516" id="c7515">
+   <header>
+      <usage ms="Hyd" code="10900000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd"> Redemit dominus populum suum</rdg>
+         <rdg wit="CAO-R"> Redimet dominus populum suum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-D CAO-F CAO-S"> et liberavit eos</rdg>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-L Hyd"> et liberavit eum</rdg>
+         <rdg wit="CAO-R"> et liberabit eos</rdg>
+      </app> et venient et exsultabunt
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> in monte Sion</rdg>
+         <rdg wit="CAO-G CAO-M CAO-V CAO-L Hyd"> in montem Sion</rdg>
+      </app> et gaudebunt de bonis domini
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> super frumento vino et oleo</rdg>
+         <rdg wit="CAO-C"> super frumentum vinum et oleum</rdg>
+      </app> et ultra non esurient</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> A fructu frumenti
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> vini et olei</rdg>
+            <rdg wit="CAO-C"> et vini et olei</rdg>
+         </app> sui multiplicati sunt</vBody>
+      <vBody type="r" wit="CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-S"> Eritque animus eorum</rdg>
+            <rdg wit="CAO-L"> Eritque animas eorum</rdg>
+         </app> quasi hortus irriguus</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Et ultra</rep>
+      <rep type="r" wit="CAO-L">Et exsultabunt</rep>
+      <rep type="r" wit="Hyd"> Et</rep>
+   </verses>
+</res>

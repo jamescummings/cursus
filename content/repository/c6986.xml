@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6985" nextid="c6987" id="c6986">
+   <rBody wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-S"> Inveni David servum meum oleo sancto meo unxi eum manus enim mea auxiliabitur ei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-S">Nihil proficiet inimicus in eo et filius iniquitatis non nocebit
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-S"> eum</rdg>
+            <rdg wit="CAO-F"> ei</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-S">Manus</rep>
+   </verses>
+</res>

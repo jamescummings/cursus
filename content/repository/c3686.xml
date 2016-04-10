@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3685" nextid="c3687" id="c3686">
+   <header>
+      <usage ms="Ely" code="07026000"/>
+      <usage ms="Hyd" code="07026000"/>
+      <usage ms="Wor" code="07026000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S Ely Hyd"> Malos male perdet et vineam suam locabit agricolis</aBody>
+   <aBody wit="Wor">
+      <gap reason="erasure of verbal and musical text" resp="DC"/> vineam suam locabit agricolis</aBody>
+</ant>

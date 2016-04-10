@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2556b" nextid="c2558" id="c2557">
+   <header>
+      <usage ms="Ely" code="01034000">[12r] lauds-a2</usage>
+      <usage ms="Evm" code="01017000">[12r] matins-n2-a2</usage>
+      <usage ms="Evm" code="01021000">[15r] prime</usage>
+      <usage ms="Evm" code="01034009">[19v] prime</usage>
+      <usage ms="Glo" code="14032500"/>
+      <usage ms="Hyd" code="01034009">[12r] lauds-a2</usage>
+      <usage ms="Wcb" code="01021000">[45v] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-F Glo Hyd Evm Ely"> Ecce virgo concipiet et pariet filium
+     <app>
+         <rdg wit="CAO-C Glo Hyd Evm Wcb"> et vocabitur nomen eius Emmanuel</rdg>
+         <rdg wit="Ely"> et vocabitur nomen eius Emmanuel quod interpretatur nobiscum deus</rdg>
+         <rdg wit="CAO-F"> et vocabis nomen eius Emmanuel</rdg>
+      </app>
+   </aBody>
+</ant>

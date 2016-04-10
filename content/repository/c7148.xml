@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7147a" nextid="c7149" id="c7148">
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R"> Metuebat Herodes Joannem sciens eum virum iustum et sanctum et audito eo multa faciebat
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et eum custodiebat et libenter audiebat</rdg>
+         <rdg wit="CAO-E"> et libenter audiebat et ipse eum custodiebat</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R"> Ille erat lucerna ardens et lucens</vBody>
+      <vBody type="r" wit="CAO-E CAO-B"> Misit Herodes rex manus ac tenuit Joannem et vinxit eum in carcerem
+       <app>
+            <rdg wit="CAO-E"> quia metuebat eum</rdg>
+            <rdg wit="CAO-B" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-H CAO-R">Et audito</rep>
+      <rep type="r" wit="CAO-B">Et eum</rep>
+   </verses>
+</res>

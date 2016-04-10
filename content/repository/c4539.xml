@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4538" nextid="c4540" id="c4539">
+   <aBody wit="CAO-E CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E"> Quidquid bene rogaverunt accipiant</rdg>
+         <rdg wit="CAO-S CAO-L"> Quidquid bene rogaverint recipiant</rdg>
+      </app> per Jesum Christum filium tuum
+     <app>
+         <rdg wit="CAO-E"> unigenitum salvatorem mundi</rdg>
+         <rdg wit="CAO-S CAO-L"> unigenitum redemptorem mundi</rdg>
+      </app>
+   </aBody>
+</ant>

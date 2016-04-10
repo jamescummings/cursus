@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4698" nextid="c4700" id="c4699">
+   <aBody wit="CAO-B CAO-H CAO-F CAO-S CAO-L"> Sancta dei genitrix virgo semper Maria intercede pro nobis
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-S"> ad dominum Jesum Christum</rdg>
+         <rdg wit="CAO-F CAO-L"> ad dominum deum nostrum</rdg>
+      </app>
+   </aBody>
+</ant>

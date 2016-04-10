@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4315" nextid="c4317" id="c4316">
+   <header>
+      <usage ms="Hyd" code="01016000">[6v] vesp2-a1</usage>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-S CAO-L Hyd"> Portio mea domine sit in terra viventium</aBody>
+</ant>

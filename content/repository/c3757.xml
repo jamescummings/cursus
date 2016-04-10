@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3756" nextid="c3758" id="c3757">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Michael praepositus paradisi
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> quem honorificant angelorum cives</rdg>
+         <rdg wit="CAO-C"> quem honorificat angelorum civis</rdg>
+      </app>
+   </aBody>
+</ant>

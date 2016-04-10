@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3737" nextid="c3739" id="c3738">
+   <header>
+      <usage ms="Hyd" code="10400000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-L Hyd"> Memor esto fili
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-L"> quoniam pauperem vitam gerimus</rdg>
+         <rdg wit="Hyd"> quoniam vitam pauperem gerimus</rdg>
+      </app> habebis multa bona si timueris deum</aBody>
+</ant>

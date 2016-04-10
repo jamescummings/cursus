@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4872" nextid="c4874" id="c4873">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Serve nequam omne debitum dimisi tibi</rdg>
+         <rdg wit="CAO-V"> Serve nequam omne debitum dimisit tibi</rdg>
+      </app> quoniam rogasti me
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> nonne ergo oportuit</rdg>
+         <rdg wit="CAO-D CAO-S"> non ergo oportuit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> et te misereri conservi tui</rdg>
+         <rdg wit="CAO-D"> et te miserere conservis tuis</rdg>
+         <rdg wit="CAO-S"> et te misereri cum servo tuo</rdg>
+         <rdg wit="CAO-L"> et te misereri conservis tuis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> sicut et ego tui misertus sum dicit dominus</rdg>
+         <rdg wit="CAO-C"> sicut et ego tui misertus sum</rdg>
+         <rdg wit="CAO-M CAO-D"> sicut et ego tui misertus sum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

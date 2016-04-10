@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1931" nextid="c1933" id="c1932">
+   <aBody wit="CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S">
+      <name reg="Cornelius" type="person">Cornelius</name> centurio vir religiosus ac timens deum vidit manifeste angelum dei dicentem sibi <name reg="Cornelius" type="person">Corneli</name> mitte
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-F CAO-S"> et accersi <name reg="Petrus" type="saint">Simonem</name>
+         </rdg>
+         <rdg wit="CAO-D"> et accessi <name reg="Petrus" type="saint">Simonem</name>
+         </rdg>
+      </app> qui cognominatur <name reg="Petrus" type="saint">Petrus</name> hic dicet tibi quid te oporteat facere</aBody>
+</ant>

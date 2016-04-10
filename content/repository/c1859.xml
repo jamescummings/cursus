@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1858" nextid="c1860" id="c1859">
+   <aBody wit="CAO-C CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-S"> Compassus nutrici</rdg>
+         <rdg wit="CAO-F"> Cumpassus nutricis suae</rdg>
+         <rdg wit="CAO-D"> Compassus nutricis suae</rdg>
+      </app> orationem
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> fudit</rdg>
+         <rdg wit="CAO-C"> dedit</rdg>
+      </app>
+      <name reg="Benedictus" type="saint">Benedictus</name> puer cum lacrimis
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-S"> capisterium reparavit</rdg>
+         <rdg wit="CAO-F"> et capisterium reparavit</rdg>
+      </app>
+   </aBody>
+</ant>

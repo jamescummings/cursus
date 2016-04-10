@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4029" nextid="c4031" id="c4030">
+   <aBody wit="CAO-B CAO-R"> O gloriosum lumen omnium ecclesiarum sole splendidius o vere apostolicum sidus altissimum sancte Paule
+     <app>
+         <rdg wit="CAO-B"> qui aeterni regis splendore tenebris gentium infudisti</rdg>
+         <rdg wit="CAO-R"> qui aeterni regis splendorem tenebris gentium infudisti</rdg>
+      </app> qui in terra positus caelorum secreta petisti
+     <app>
+         <rdg wit="CAO-B"> et quae non licent homini loqui perspexisti</rdg>
+         <rdg wit="CAO-R"> et quae non licet homini loqui pervidisti</rdg>
+      </app> illuc supplices tuos post huius carnis terminum perducere dignare quos fecisti veritatis lumen agnoscere</aBody>
+</ant>

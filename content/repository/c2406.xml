@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2405" nextid="c2407" id="c2406">
+   <header>
+      <usage ms="Alb2" code="02010100">[45r] matins-n1-a1</usage>
+      <usage ms="Alb2" code="02122500">[24v] matins-n1-a1</usage>
+      <usage ms="Bat" code="02122500">[15r] matins-n1-a1</usage>
+      <usage ms="Cdm" code="02010100" corresp="c2406-1">[33r] matins-n1-a1</usage>
+      <usage ms="Cdm" code="02122500">[21v] matins-n1-a1</usage>
+      <usage ms="Ely" code="02122500">[18r] matins-n1-a1</usage>
+      <usage ms="Evm" code="02122500">[32v] matins-n1-a1</usage>
+      <usage ms="Hyd" code="02122500">[17v] matins-n1-a1</usage>
+      <usage ms="Pet" code="02122500">[15r] matins-n1-a1</usage>
+      <usage ms="Wcb" code="02122500">[53v] matins-n1-a1</usage>
+      <usage ms="Wor" code="02122500">[13v] matins-n1-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Dominus dixit ad me filius meus es tu ego hodie genui te</aBody>
+   <aBody wit="Cdm" id="c2406-1" num="2"> Dixit dominus ad me filius meus es tu ego hodie genui te</aBody>
+</ant>

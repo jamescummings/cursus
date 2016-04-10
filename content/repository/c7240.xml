@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7239" nextid="c7241" id="c7240">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Notas mihi fecisti domine vias vitae adimplebis me laetitia cum vultu tuo delectationes in dextera tua usque in finem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Conserva me domine quoniam in te speravi dixi domino deus meus es tu</vBody>
+      <vBody type="r" wit="CAO-B CAO-R"> Conserva me</vBody>
+      <vBody type="r" wit="CAO-M CAO-V CAO-H CAO-D"> Conserva me domine</vBody>
+      <vBody type="r" wit="CAO-G CAO-F CAO-S CAO-L Alb2 Hyd"> Tu es domine qui restitues hereditatem meam mihi</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Alb2"> Delectationes</rep>
+      <rep type="r" wit="Hyd"> Usque</rep>
+      <rep type="r" wit="CAO-R">Adimplebis</rep>
+   </verses>
+</res>

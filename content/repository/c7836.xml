@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7835" nextid="c7837" id="c7836">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Verbera carnificum non timuerunt sancti Dei morientes pro Christi nomine ut heredes
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> fierent in domo domini</rdg>
+         <rdg wit="CAO-D"> fierint in domo domini</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E"> Magnus dominus et laudabilis valde in civitate dei nostri in monte sancto eius</vBody>
+      <vBody type="r" wit="CAO-M"> Magnus dominus</vBody>
+      <vBody type="r" wit="CAO-V"> Magnus dominus et laudabilis</vBody>
+      <vBody type="r" wit="CAO-H CAO-R CAO-L"> Tradiderunt corpora sua
+      <app>
+            <rdg wit="CAO-H CAO-R CAO-L"> ad supplicia propter dominum</rdg>
+            <rdg wit="CAO-L"> propter dominum ad supplicia</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-S"> Immania enim pro Christo in suis corporibus pertulerunt tormenta</vBody>
+      <vBody type="r" wit="CAO-F"> Sancti per fidem vicerunt regna operati sunt iustitiam adepti sunt repromissiones</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Ut heredes</rep>
+      <rep type="r" wit="CAO-F"> Morientes</rep>
+   </verses>
+</res>

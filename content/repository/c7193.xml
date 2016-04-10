@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7192" nextid="c7194" id="c7193">
+   <rBody wit="CAO-B CAO-H CAO-R CAO-L"> Mutato enim saeculari habitu beatus Gregorius monasterium petiit et ex huius mundi naufragio nudus evasit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-L">Qui ante serico et gemmis micantibus ornatus processit post vili tectus tegmine pauper ipse pauperibus
+       <app>
+            <rdg wit="CAO-H CAO-L"> ministrabat</rdg>
+            <rdg wit="CAO-B CAO-R"> ministravit</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-L">Et ex huius</rep>
+   </verses>
+</res>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1652" nextid="c1654" id="c1653">
+   <aBody wit="CAO-B CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-B"> Beatus <name reg="Othmarus" type="saint">Othmarus</name> abbas</rdg>
+         <rdg wit="CAO-H CAO-R"> Beatus <name reg="Othmarus" type="saint">Othmarus</name> abba</rdg>
+      </app> a tyrannis <name reg="Warinus" type="person">Warino</name> et <name reg="Ruthardus" type="person">Ruthardo</name>
+      <app>
+         <rdg wit="CAO-B CAO-H"> in insulam Rheni relegatus</rdg>
+         <rdg wit="CAO-R"> in insula Rheni relegatus</rdg>
+      </app> in confessione Christi migravit</aBody>
+</ant>

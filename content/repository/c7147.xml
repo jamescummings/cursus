@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7146" nextid="c7147a" id="c7147">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for St Laurence</note>
+   <rBody wit="CAO-C CAO-V CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-D CAO-F"> Meruit esse hostia</rdg>
+         <rdg wit="CAO-S CAO-L"> Meruit esse hostia Christi</rdg>
+         <rdg wit="CAO-C"> Voluit esse hostia</rdg>
+         <rdg wit="CAO-V"> Volui esse hostia</rdg>
+      </app> levita Laurentius qui dum assaretur
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> non negavit</rdg>
+         <rdg wit="CAO-V CAO-L"> non negavi</rdg>
+      </app> dominum et ideo inventus est sacrificium laudis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V CAO-D CAO-F"> In craticula
+       <app>
+            <rdg wit="CAO-C CAO-D CAO-F"> positus</rdg>
+            <rdg wit="CAO-V"> sanctum</rdg>
+         </app> Deum non negavit et ad ignem
+       <app>
+            <rdg wit="CAO-C CAO-V CAO-F"> applicatus</rdg>
+            <rdg wit="CAO-D"> applicatus te</rdg>
+         </app> Christum
+       <app>
+            <rdg wit="CAO-D CAO-F"> confessus est</rdg>
+            <rdg wit="CAO-C"> confessus</rdg>
+            <rdg wit="CAO-V"> confessus sum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Ecce enim
+       <app>
+            <rdg wit="CAO-S"> transivit per ignem</rdg>
+            <rdg wit="CAO-L"> transiens per ignem</rdg>
+         </app> quod non adustus
+       <app>
+            <rdg wit="CAO-S"> inhorruit</rdg>
+            <rdg wit="CAO-L"> horrui</rdg>
+         </app> sed illuminatus effulsit</vBody>
+      <rep type="r" wit="CAO-C CAO-V CAO-D CAO-F CAO-S">Et ideo</rep>
+   </verses>
+</res>

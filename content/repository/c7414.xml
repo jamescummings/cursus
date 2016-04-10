@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7413" nextid="c7415" id="c7414">
+   <rBody wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L"> Posuisti domine super caput eius coronam de lapide pretioso vitam petiit
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-F CAO-S"> ad te</rdg>
+         <rdg wit="CAO-E CAO-R CAO-L"> a te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-F"> tribuisti</rdg>
+         <rdg wit="CAO-S CAO-L"> et tribuisti</rdg>
+      </app> ei in saeculum saeculi
+     <app>
+         <rdg wit="CAO-R"> alleluia</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-S CAO-L" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-F CAO-S"> Desiderium animae eius tribuisti ei
+      <app>
+            <rdg wit="CAO-E CAO-V"> et voluntatem</rdg>
+            <rdg wit="CAO-F CAO-S"> et voluntate</rdg>
+         </app> labiorum eius non fraudasti eum</vBody>
+      <vBody type="r" wit="CAO-M"> Desiderium animae eius</vBody>
+      <vBody type="r" wit="CAO-L"> Desiderium animae eius tribuisti ei</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-F CAO-S">Vitam</rep>
+      <rep type="r" wit="CAO-M">Tribuisti</rep>
+      <rep type="r" wit="CAO-L">Et tribuisti</rep>
+   </verses>
+</res>

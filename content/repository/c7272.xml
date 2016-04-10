@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7271b" nextid="c7273" id="c7272">
+   <header>
+      <usage ms="Alb2" code="07065000">[109r] matins-n3-r9</usage>
+      <usage ms="Cdm" code="07065000">[78r] matins-n3-r9</usage>
+      <usage ms="Cht" code="07065000">[61r] matins-n3-r6</usage>
+      <usage ms="Ely" code="07065000">[89r] matins-n3-r9</usage>
+      <usage ms="Hyd" code="07066000">[97r] matins-n3-r8</usage>
+      <usage ms="Pet" code="07065000">[90r] matins-n3-r9</usage>
+      <usage ms="Wor" code="07065000">[60r] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm"> O Juda qui dereliquisti consilium pacis</rdg>
+         <rdg wit="CAO-C"> O Judas qui dereliquisti consilium pacis</rdg>
+      </app> et cum Judaeis consiliatus es triginta argenteis vendidisti sanguinem iustum
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm"> et pacem osculo ferebas</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R"> et pacis osculum ferebas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-D CAO-F Ely Wor Cht Hyd Pet Alb2 Cdm"> quam in pectore non habebas</rdg>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R"> quod in pectore non habebas</rdg>
+         <rdg wit="CAO-C"> quae in pectore non habebas</rdg>
+         <rdg wit="CAO-L"> quas in pectore non habebas</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R Cht Alb2 Cdm">
+         <l part="N">Verax datur fallacibus</l>
+         <l part="N">Pium flagellat impius</l>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-L Wor"> Corpore tantum
+      <app>
+            <rdg wit="CAO-F CAO-L"> cum cenantibus</rdg>
+            <rdg wit="Wor"> cum cenantibus recumbibas</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L"> et mente</rdg>
+            <rdg wit="CAO-F Wor"> et mentem</rdg>
+         </app> invidiae furore armabas</vBody>
+      <vBody type="r" wit="CAO-D Ely Hyd Pet"> Os tuum abundavit malitia et lingua tua concinnabat dolos</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R"> Et pacis</rep>
+      <rep type="r" wit="CAO-G"> Triginta</rep>
+      <rep type="r" wit="CAO-F CAO-L CAO-D Ely Wor Cht Hyd Pet Alb2 Cdm"> Et pacem</rep>
+      <rep n="2" type="r" wit="Ely Wor Cht Pet"> O Juda</rep>
+   </verses>
+</res>

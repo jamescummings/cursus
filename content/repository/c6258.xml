@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6257" nextid="c6259" id="c6258">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Caecilia me misit ad vos ut ostendatis mihi sanctum Urbanum quia
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> ad ipsum</rdg>
+         <rdg wit="CAO-V CAO-S"> ab ipsum</rdg>
+      </app> habeo secreta quae perferam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Tunc Valerianus perrexit ad antistitem et
+       <app>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> signo quod</rdg>
+            <rdg wit="CAO-C"> signum quod</rdg>
+            <rdg wit="CAO-E"> signo quo</rdg>
+         </app> acceperat invenit sanctum Urbanum</vBody>
+      <vBody type="r" wit="CAO-D"> Cumque pro signo acceperitis benedictionem meam ducite me ad sanctum antistitem</vBody>
+      <vBody type="r" wit="CAO-S"> Invenies ergo pauperes a transeuntibus alimoniae petentes auxilium hos tu dum videris dabis eis benedictionem</vBody>
+      <vBody type="r" wit="CAO-C"> Ostende nobis domine misericordiam tuam et salutare tuum da nobis</vBody>
+      <vBody type="r" wit="CAO-L"> Tunc Valerianus iuxta verba beatae Caeciliae ad praetereuntes dixit ostendite mihi papam Urbanum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Quia</rep>
+   </verses>
+</res>

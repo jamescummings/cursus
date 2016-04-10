@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6070" nextid="c6072" id="c6071">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Alleluia dum praesens est imitantur illam et desiderant eam
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S"> dum se duxerit</rdg>
+         <rdg wit="CAO-M"> cum se duxerit</rdg>
+         <rdg wit="CAO-C"> dum se eduxerit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-D CAO-F CAO-S"> et in perpetuum coronata</rdg>
+         <rdg wit="CAO-E"> et in perpetuo coronata</rdg>
+         <rdg wit="CAO-M"> et in perpetuum coronatam</rdg>
+      </app> triumphat ante dominum alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S"> In amicitia illius delectatio bona quoniam immortalis est memoria illius</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V">
+         <app>
+            <rdg wit="CAO-C CAO-E"> Sola namque tenes principatum</rdg>
+            <rdg wit="CAO-M CAO-V"> Sola namque tenens principatum</rdg>
+         </app> in conspectu domini propterea revertere in thesauros tuos</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-M CAO-D CAO-F">Et in</rep>
+      <rep type="r" wit="CAO-S">Dum</rep>
+      <rep type="r" wit="CAO-C CAO-V">Ante</rep>
+   </verses>
+</res>

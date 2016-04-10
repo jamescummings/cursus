@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5290" nextid="c5292" id="c5291">
+   <aBody wit="CAO-E CAO-M CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-S"> Ut iussu apostoli cuncta daemon idola comminuit</rdg>
+         <rdg wit="CAO-M"> Iussu apostoli cuncta daemon idola comminuit</rdg>
+         <rdg wit="CAO-L"> Ut iussu apostoli cuncta daemon idola comminui</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L"> credentes clamabant populi</rdg>
+         <rdg wit="CAO-M"> credentes clamabat populus</rdg>
+      </app> unus deus quem praedicat Bartholomaeus</aBody>
+</ant>

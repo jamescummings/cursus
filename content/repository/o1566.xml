@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1565" nextid="o1567" id="o1566">
+   <header>
+      <usage ms="Alb2" code="07055000">[102v] lauds</usage>
+      <usage ms="Cdm" code="07055000">[73r] lauds-a2</usage>
+      <usage ms="Cht" code="07055000">[52r] lauds</usage>
+      <usage ms="Ely" code="07055000">[84r] lauds</usage>
+      <usage ms="Evm" code="07055000">[139v] lauds</usage>
+      <usage ms="Hyd" code="07055000">[89r] lauds</usage>
+      <usage ms="Mch" code="07055000">[150r] lauds</usage>
+      <usage ms="Wcb" code="07055000">[110r] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.300</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">Praesta quaesumus omnipotens deus
+     <app>
+         <rdg wit="Ely Cht Hyd Evm Wcb Cdm Mch"> ut dignitas conditionis humanae</rdg>
+         <rdg wit="Alb2"> ut dignitas humanae conditionis</rdg>
+      </app> per immoderantiam sauciata
+     <app>
+         <rdg wit="Ely Hyd Evm Wcb Alb2 Cdm Mch"> medicinalis parsimoniae</rdg>
+         <rdg wit="Cht"> medicina medicinalis parsimoniae</rdg>
+      </app> studio reformetur</pBody>
+</prayer>

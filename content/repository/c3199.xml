@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3198" nextid="c3200" id="c3199">
+   <aBody wit="CAO-D CAO-F CAO-S"> Implevit eos dominus spiritu sapientiae et intellectus
+     <app>
+         <rdg wit="CAO-D CAO-F"> iucunditatem et exsultationem</rdg>
+         <rdg wit="CAO-S">
+            <corr sic=" iucunditatem et exsultationem">iucunditate et exsultatione</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-S"> thesaurizavit super eos</rdg>
+         <rdg wit="CAO-D"> thesaurizabit super eos</rdg>
+      </app>
+   </aBody>
+</ant>

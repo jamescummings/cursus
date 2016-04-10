@@ -1,0 +1,2049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Esther">
+<body>
+  <rubric type="bible-incipit" id="B.Esther.incipit.001">
+    <reference>
+      <bookName>Esther</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT LIBER HESTER</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Esther.001.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>in diebus Asueri qui regnavit ab India usque Aethiopiam super centum viginti septem provincias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>quando sedit in solio regni sui Susa civitas regni eius exordium fuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>tertio igitur anno imperii sui fecit grande convivium cunctis principibus et pueris suis fortissimis Persarum et Medorum inclitis et praefectis provinciarum coram se</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>ut ostenderet divitias gloriae regni sui ac magnitudinem atque iactantiam potentiae suae multo tempore centum videlicet et octoginta diebus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>cumque implerentur dies convivii invitavit omnem populum qui inventus est Susis a maximo usque ad minimum et septem diebus iussit convivium praeparari in vestibulo horti et nemoris quod regio cultu et manu consitum erat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et pendebant ex omni parte tentoria aerii coloris et carpasini et hyacinthini sustentata funibus byssinis atque purpureis qui eburneis circulis inserti erant et columnis marmoreis fulciebantur lectuli quoque aurei et argentei super pavimentum zmaragdino et pario stratum lapide dispositi erant quod mira varietate pictura decorabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>bibebant autem qui invitati erant aureis poculis et aliis atque aliis vasis cibi inferebantur vinum quoque ut magnificentia regia dignum erat abundans et praecipuum ponebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>nec erat qui nolentes cogeret ad bibendum sed sic rex statuerat praeponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>Vasthi quoque regina fecit convivium feminarum in palatio ubi rex Asuerus manere consueverat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>itaque die septimo cum rex esset hilarior et post nimiam potionem incaluisset mero praecepit Mauman et Bazatha et Arbona et Bagatha et Abgatha et Zarath et Charchas septem eunuchis qui in conspectu eius ministrabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>ut introducerent reginam Vasthi coram rege posito super caput eius diademate et ostenderet cunctis populis et principibus illius pulchritudinem erat enim pulchra valde</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>quae rennuit et ad regis imperium quod per eunuchos mandaverat venire contempsit unde iratus rex et nimio furore succensus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>interrogavit sapientes qui ex more regio semper ei aderant et illorum faciebat cuncta consilio scientium leges ac iura maiorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>erant autem primi et proximi Charsena et Sethar et Admatha et Tharsis et Mares et Marsana et Mamucha septem duces Persarum atque Medorum qui videbant faciem regis et primi post eum residere soliti erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>cui sententiae Vasthi regina subiaceret quae Asueri regis imperium quod per eunuchos mandaverat facere noluisset</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>responditque Mamuchan audiente rege atque principibus non solum regem laesit regina Vasthi sed omnes principes et populos qui sunt in cunctis provinciis regis Asueri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>egredietur enim sermo reginae ad omnes mulieres ut contemnant viros suos et dicant rex Asuerus iussit ut regina Vasthi intraret ad eum et illa noluit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.018">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>atque hoc exemplo omnes principum coniuges Persarum atque Medorum parvipendent imperia maritorum unde regis iusta est indignatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.019">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>et si tibi placet egrediatur edictum a facie tua et scribatur iuxta legem Persarum atque Medorum quam praeteriri inlicitum est ut nequaquam ultra Vasthi ingrediatur ad regem sed regnum illius altera quae melior illa est accipiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.020">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>et hoc in omne quod latissimum est provinciarum tuarum divulgetur imperium et cunctae uxores tam maiorum quam minorum deferant maritis suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.021">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>placuit consilium eius regi et principibus fecitque rex iuxta consultum Mamuchan</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.001.022">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>et misit epistulas ad universas provincias regni sui ut quaeque gens audire et legere poterat diversis linguis et litteris esse viros principes ac maiores in domibus suis et hoc per cunctos populos divulgari</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Esther.002.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>his itaque gestis postquam regis Asueri deferbuerat indignatio recordatus est Vasthi et quae fecisset vel quae passa esset</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>dixeruntque pueri regis ac ministri eius quaerantur regi puellae virgines ac speciosae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>et mittantur qui considerent per universas provincias puellas speciosas et virgines et adducant eas ad civitatem Susan et tradant in domum feminarum sub manu Aegaei eunuchi qui est praepositus et custos mulierum regiarum et accipiant mundum muliebrem et cetera ad usus necessaria</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>et quaecumque inter omnes oculis regis placuerit ipsa regnet pro Vasthi placuit sermo regi et ita ut suggesserant iussit fieri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>erat vir iudaeus in Susis civitate vocabulo Mardocheus filius Iair filii Semei filii Cis de stirpe Iemini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>qui translatus fuerat de Hierusalem eo tempore quo Iechoniam regem Iuda Nabuchodonosor rex Babylonis transtulerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>qui fuit nutricius filiae fratris sui Edessae quae altero nomine Hester vocabatur et utrumque parentem amiserat pulchra nimis et decora facie mortuisque patre eius ac matre Mardocheus sibi eam adoptavit in filiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>cumque percrebuisset regis imperium et iuxta mandata illius multae virgines pulchrae adducerentur Susan et Aegaeo traderentur eunucho Hester quoque inter ceteras puellas ei tradita est ut servaretur in numero feminarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>quae placuit ei et invenit gratiam in conspectu illius ut adceleraret mundum muliebrem et traderet ei partes suas et septem puellas speciosissimas de domo regis et tam ipsam quam pedisequas eius ornaret atque excoleret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>quae noluit indicare ei populum et patriam suam Mardocheus enim praeceperat ut de hac re omnino reticeret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>qui deambulabat cotidie ante vestibulum domus in qua electae virgines servabantur curam agens salutis Hester et scire volens quid ei accideret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>cum autem venisset tempus singularum per ordinem puellarum ut intrarent ad regem expletis omnibus quae ad cultum muliebrem pertinebant mensis duodecimus vertebatur ita dumtaxat ut sex menses oleo unguerentur myrtino et aliis sex quibusdam pigmentis et aromatibus uterentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>ingredientesque ad regem quicquid postulassent ad ornatum pertinens accipiebant et ut eis placuerat conpositae de triclinio feminarum ad regis cubiculum transiebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>et quae intraverat vespere egrediebatur mane atque inde in secundas aedes deducebatur quae sub manu Sasagazi eunuchi erant qui concubinis regis praesidebat nec habebat potestatem ad regem ultra redeundi nisi voluisset rex et eam venire iussisset ex nomine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>evoluto autem tempore per ordinem instabat dies quo Hester filia Abiahil fratris Mardochei quam sibi adoptaverat in filiam intrare deberet ad regem quae non quaesivit muliebrem cultum sed quaecumque voluit Aegaeus eunuchus custos virginum haec ei ad ornatum dedit erat enim formonsa valde et incredibili pulchritudine omnium oculis gratiosa et amabilis videbatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>ducta est itaque ad cubiculum regis Asueri mense decimo qui vocatur tebeth septimo anno regni eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>et amavit eam rex plus quam omnes mulieres habuitque gratiam et misericordiam coram eo super omnes mulieres et posuit diadema regni in capite eius fecitque eam regnare in loco Vasthi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.018">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>et iussit convivium praeparari permagnificum cunctis principibus et servis suis pro coniunctione et nuptiis Hester et dedit requiem in universis provinciis ac dona largitus est iuxta magnificentiam principalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.019">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>cumque et secundo quaererentur virgines et congregarentur Mardocheus manebat ad regis ianuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.020">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>necdumque prodiderat Hester patriam et populum suum iuxta mandatum eius quicquid enim ille praecipiebat observabat Hester et ita cuncta faciebat ut eo tempore solita erat quo eam parvulam nutriebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.021">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>eo igitur tempore quo Mardocheus ad regis ianuam morabatur irati sunt Bagathan et Thares duo eunuchi regis qui ianitores erant et in primo palatii limine praesidebant volueruntque insurgere in regem et occidere eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.022">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>quod Mardocheum non latuit statimque nuntiavit reginae Hester et illa regi ex nomine Mardochei qui ad se rem detulerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.002.023">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>quaesitum est et inventum et adpensus uterque eorum in patibulo mandatumque historiis et annalibus traditum coram rege</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Esther.003.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>post haec rex Asuerus exaltavit Aman filium Amadathi qui erat de stirpe Agag et posuit solium eius super omnes principes quos habebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>cunctique servi regis qui in foribus palatii versabantur flectebant genu et adorabant Aman sic enim eis praeceperat imperator solus Mardocheus non flectebat genu neque adorabat eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>cui dixerunt regis pueri qui ad fores palatii praesidebant cur praeter ceteros non observas mandata regis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>cumque hoc crebrius dicerent et ille nollet audire nuntiaverunt Aman scire cupientes utrum perseveraret in sententia dixerat enim eis se esse Iudaeum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>quod cum audisset Aman et experimento probasset quod Mardocheus non sibi flecteret genu nec se adoraret iratus est valde</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>et pro nihilo duxit in unum Mardocheum mittere manus suas audierat enim quod esset gentis iudaeae magisque voluit omnem Iudaeorum qui erant in regno Asueri perdere nationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>mense primo cuius vocabulum est nisan anno duodecimo regni Asueri missa est sors in urnam quae hebraice dicitur phur coram Aman quo die et quo mense gens Iudaeorum deberet interfici et exivit mensis duodecimus qui vocatur adar</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>dixitque Aman regi Asuero est populus per omnes provincias regni tui dispersus et a se mutuo separatus novis utens legibus et caerimoniis insuper et regis scita contemnens et optime nosti quod non expediat regno tuo ut insolescat per licentiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>si tibi placet decerne ut pereat et decem milia talentorum adpendam arcariis gazae tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>tulit ergo rex anulum quo utebatur de manu sua et dedit eum Aman filio Amadathi de progenie Agag hosti Iudaeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>dixitque ad eum argentum quod polliceris tuum sit de populo age quod tibi placet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>vocatique sunt scribae regis mense primo nisan tertiadecima die eius et scriptum est ut iusserat Aman ad omnes satrapas regis et iudices provinciarum diversarumque gentium ut quaeque gens legere poterat et audire pro varietate linguarum ex nomine regis Asueri et litterae ipsius signatae anulo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>missae sunt per cursores regis ad universas provincias ut occiderent atque delerent omnes Iudaeos a puero usque ad senem parvulos et mulieres uno die hoc est tertiodecimo mensis duodecimi qui vocatur adar et bona eorum diriperent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>summa autem epistularum haec fuit ut omnes provinciae scirent et pararent se ad praedictam diem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.003.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>festinabant cursores qui missi erant explere regis imperium statimque in Susis pependit edictum rege et Aman celebrante convivium et cunctis qui in urbe erant flentibus</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Esther.004.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>quae cum audisset Mardocheus scidit vestimenta sua et indutus est sacco spargens cinerem capiti et in platea mediae civitatis voce magna clamabat ostendens amaritudinem animi sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>et hoc heiulatu usque ad fores palatii gradiens non enim erat licitum indutum sacco aulam regis intrare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>in omnibus quoque provinciis oppidis ac locis ad quae crudele regis dogma pervenerat planctus ingens erat apud Iudaeos ieiunium ululatus et fletus sacco et cinere multis pro strato utentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>ingressae sunt autem puellae Hester et eunuchi nuntiaveruntque ei quod audiens consternata est et misit vestem ut ablato sacco induerent eum quam accipere noluit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>accitoque Athac eunucho quem rex ministrum ei dederat praecepit ut iret ad Mardocheum et disceret ab eo cur hoc faceret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>egressusque Athac ivit ad Mardocheum stantem in platea civitatis ante ostium palatii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>qui indicavit ei omnia quae acciderant quomodo Aman promisisset ut in thesauros regis pro Iudaeorum nece inferret argentum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>exemplarque edicti quod pendebat in Susis dedit ei ut reginae ostenderet et moneret eam ut intraret ad regem et deprecaretur eum pro populo suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>regressus Athac nuntiavit Hester omnia quae Mardocheus dixerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>quae respondit ei et iussit ut diceret Mardocheo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>omnes servi regis et cunctae quae sub dicione eius sunt norunt provinciae quod sive vir sive mulier invocatus interius atrium regis intraverit absque ulla cunctatione statim interficiatur nisi forte rex auream virgam ad eum tetenderit pro signo clementiae atque ita possit vivere ego igitur quomodo ad regem intrare potero quae triginta iam diebus non sum vocata ad eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>quod cum audisset Mardocheus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>rursum mandavit Hester dicens ne putes quod animam tuam tantum liberes quia in domo regis es prae cunctis Iudaeis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>si enim nunc silueris per aliam occasionem liberabuntur Iudaei et tu et domus patris tui peribitis et quis novit utrum idcirco ad regnum veneris ut in tali tempore parareris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>rursumque Hester haec Mardocheo verba mandavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>vade et congrega omnes Iudaeos quos in Susis reppereris et orate pro me non comedatis et non bibatis tribus diebus ac noctibus et ego cum ancillulis meis similiter ieiunabo et tunc ingrediar ad regem contra legem faciens invocata tradensque me morti et periculo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.004.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>ivit itaque Mardocheus et fecit omnia quae ei Hester praeceperat</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Esther.005.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>die autem tertio induta est Hester regalibus vestimentis et stetit in atrio domus regiae quod erat interius contra basilicam regis at ille sedebat super solium in consistorio palatii contra ostium domus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>cumque vidisset Hester reginam stantem placuit oculis eius et extendit contra eam virgam auream quam tenebat manu quae accedens osculata est summitatem virgae eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>dixitque ad eam rex quid vis Hester regina quae est petitio tua etiam si dimidiam regni partem petieris dabitur tibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>at illa respondit si regi placet obsecro ut venias ad me hodie et Aman tecum ad convivium quod paravi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>statimque rex vocate inquit cito Aman ut Hester oboediat voluntati venerunt itaque rex et Aman ad convivium quod eis regina paraverat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>dixitque ei rex postquam vinum biberat abundanter quid petis ut detur tibi et pro qua re postulas etiam si dimidiam partem regni mei petieris inpetrabis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>cui respondit Hester petitio mea et preces istae sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>si inveni gratiam in conspectu regis et si regi placet ut det mihi quod postulo et meam impleat petitionem veniat rex et Aman ad convivium quod paravi eis et cras regi aperiam voluntatem meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>egressus est itaque illo die Aman laetus et alacer cumque vidisset Mardocheum sedentem ante fores palatii et non solum non adsurrexisse sibi sed nec motum quidem de loco sessionis suae indignatus est valde</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>et dissimulata ira reversus in domum suam convocavit ad se amicos et Zares uxorem suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>et exposuit illis magnitudinem divitiarum suarum filiorumque turbam et quanta eum gloria super omnes principes et servos suos rex elevasset</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>et post haec ait regina quoque Hester nullum alium vocavit cum rege ad convivium praeter me apud quam etiam cras cum rege pransurus sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>et cum haec omnia habeam nihil me habere puto quamdiu videro Mardocheum Iudaeum sedentem ante fores regias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.005.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>responderuntque ei Zares uxor eius et ceteri amici iube parari excelsam trabem habentem altitudinem quinquaginta cubitos et dic mane regi ut adpendatur super eam Mardocheus et sic ibis cum rege laetus ad convivium placuit ei consilium et iussit excelsam parari crucem</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Esther.006.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>noctem illam rex duxit insomnem iussitque adferri sibi historias et annales priorum temporum qui cum illo praesente legerentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>ventum est ad eum locum ubi scriptum erat quomodo nuntiasset Mardocheus insidias Bagathan et Thares eunuchorum regem Asuerum iugulare cupientium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>quod cum rex audisset ait quid pro hac fide honoris ac praemii Mardocheus consecutus est dixeruntque ei servi illius ac ministri nihil omnino mercedis accepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>statimque rex quis est inquit in atrio Aman quippe interius atrium domus regiae intraverat ut suggereret regi et iuberet Mardocheum adfigi patibulo quod ei fuerat praeparatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>responderunt pueri Aman stat in atrio dixitque rex ingrediatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>cumque esset ingressus ait illi quid debet fieri viro quem rex honorare desiderat cogitans Aman in corde suo et reputans quod nullum alium rex nisi se vellet honorare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>respondit homo quem rex honorare cupit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>debet indui vestibus regiis et inponi super equum qui de sella regis est et accipere regium diadema super caput suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>et primus de regis principibus ac tyrannis teneat equum eius et per plateam civitatis incedens clamet ac dicat sic honorabitur quemcumque rex voluerit honorare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>dixitque ei rex festina et sumpta stola et equo fac ita ut locutus es Mardocheo Iudaeo qui sedet ante fores palatii cave ne quicquam de his quae locutus es praetermittas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>tulit itaque Aman stolam et equum indutumque Mardocheum in platea civitatis et inpositum equo praecedebat atque clamabat hoc honore condignus est quemcumque rex voluerit honorare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>reversus est Mardocheus ad ianuam palatii et Aman festinavit ire in domum suam lugens et operto capite</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>narravitque Zares uxori suae et amicis omnia quae evenissent sibi cui responderunt sapientes quos habebat in consilio et uxor eius si de semine Iudaeorum est Mardocheus ante quem cadere coepisti non poteris ei resistere sed cades in conspectu eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.006.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>adhuc illis loquentibus venerunt eunuchi regis et cito eum ad convivium quod regina paraverat pergere conpulerunt</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Esther.007.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>intravit itaque rex et Aman ut biberent cum regina</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>dixitque ei rex etiam in secundo die postquam vino incaluerat quae est petitio tua Hester ut detur tibi et quid vis fieri etiam si dimidiam regni mei partem petieris inpetrabis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>ad quem illa respondit si inveni gratiam in oculis tuis o rex et si tibi placet dona mihi animam meam pro qua rogo et populum meum pro quo obsecro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>traditi enim sumus ego et populus meus ut conteramur iugulemur et pereamus atque utinam in servos et famulas venderemur esset tolerabile malum et gemens tacerem nunc autem hostis noster est cuius crudelitas redundat in regem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>respondensque rex Asuerus ait quis est iste et cuius potentiae ut haec audeat facere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>dixit Hester hostis et inimicus noster pessimus iste est Aman quod ille audiens ilico obstipuit vultum regis ac reginae ferre non sustinens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>rex autem surrexit iratus et de loco convivii intravit in hortum arboribus consitum Aman quoque surrexit ut rogaret Hester reginam pro anima sua intellexit enim a rege sibi paratum malum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>qui cum reversus esset de horto nemoribus consito et intrasset convivii locum repperit Aman super lectulum corruisse in quo iacebat Hester et ait etiam reginam vult opprimere me praesente in domo mea necdum verbum de ore regis exierat et statim operuerunt faciem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>dixitque Arbona unus de eunuchis qui stabant in ministerio regis en lignum quod paraverat Mardocheo qui locutus est pro rege stat in domo Aman habens altitudinis quinquaginta cubitos cui dixit rex adpendite eum in eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.007.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>suspensus est itaque Aman in patibulo quod paraverat Mardocheo et regis ira quievit</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Esther.008.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>die illo dedit rex Asuerus Hester reginae domum Aman adversarii Iudaeorum et Mardocheus ingressus est ante faciem regis confessa est enim ei Hester quod esset patruus suus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>tulitque rex anulum quem ab Aman recipi iusserat et tradidit Mardocheo Hester autem constituit Mardocheum super domum suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>nec his contenta procidit ad pedes regis flevitque et locuta ad eum oravit ut malitiam Aman Agagitae et machinationes eius pessimas quas excogitaverat contra Iudaeos iuberet irritas fieri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>at ille ex more sceptrum aureum protendit manu quo signum clementiae monstrabatur illaque consurgens stetit ante eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>et ait si placet regi et inveni gratiam coram oculis eius et deprecatio mea non ei videtur esse contraria obsecro ut novis epistulis veteres Aman litterae insidiatoris et hostis Iudaeorum quibus eos in cunctis regis provinciis perire praeceperat corrigantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>quomodo enim potero sustinere necem et interfectionem populi mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>responditque rex Asuerus Hester reginae et Mardocheo Iudaeo domum Aman concessi Hester et ipsum iussi adfigi cruci qui ausus est manum in Iudaeos mittere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>scribite ergo Iudaeis sicut vobis placet ex regis nomine signantes litteras anulo meo haec enim consuetudo erat ut epistulis quae ex regis nomine mittebantur et illius anulo signatae erant nemo auderet contradicere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>accitisque scribis et librariis regis erat autem tempus tertii mensis qui appellatur siban vicesima et tertia illius die scriptae sunt epistulae ut Mardocheus voluerat ad Iudaeos et ad principes procuratoresque et iudices qui centum viginti septem provinciis ab India usque Aethiopiam praesidebant provinciae atque provinciae populo et populo iuxta linguas et litteras suas et Iudaeis ut legere poterant et audire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>ipsaeque epistulae quae ex regis nomine mittebantur anulo illius obsignatae sunt et missae per veredarios qui per omnes provincias discurrentes veteres litteras novis nuntiis praevenirent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>quibus imperavit rex ut convenirent Iudaeos per singulas civitates et in unum praeciperent congregari ut starent pro animabus suis et omnes inimicos suos cum coniugibus ac liberis et universis domibus interficerent atque delerent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>et constituta est per omnes provincias una ultionis dies id est tertiadecima mensis duodecimi adar</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>summaque epistulae fuit ut in omnibus terris ac populis qui regis Asueri imperio subiacebant notum fieret paratos esse Iudaeos ad capiendam vindictam de hostibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>egressique sunt veredarii celeres nuntios perferentes et edictum regis pependit in Susis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>Mardocheus autem de palatio et de conspectu regis egrediens fulgebat vestibus regiis hyacinthinis videlicet et aerinis coronam auream portans capite et amictus pallio serico atque purpureo omnisque civitas exultavit atque laetata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>Iudaeis autem nova lux oriri visa est gaudium honor et tripudium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.008.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>apud omnes populos urbes atque provincias quocumque regis iussa veniebant mira exultatio epulae atque convivia et festus dies in tantum ut plures alterius gentis et sectae eorum religioni et caerimoniis iungerentur grandis enim cunctos iudaici nominis terror invaserat</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Esther.009.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>igitur duodecimi mensis quem adar vocari ante iam diximus tertiadecima die quando cunctis Iudaeis interfectio parabatur et hostes eorum inhiabant sanguini versa vice Iudaei superiores esse coeperunt et se de adversariis vindicare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>congregatique sunt per singulas civitates oppida et loca ut extenderent manum contra inimicos et persecutores suos nullusque ausus est resistere eo quod omnes populos magnitudinis eorum formido penetrarat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>nam et provinciarum iudices duces et procuratores omnisque dignitas quae singulis locis et operibus praeerat extollebant Iudaeos timore Mardochei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>quem principem esse palatii et plurimum posse cognoverant fama quoque nominis eius crescebat cotidie et per cunctorum ora volitabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>itaque percusserunt Iudaei inimicos suos plaga magna et occiderunt eos reddentes eis quod sibi paraverant facere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>in tantum ut etiam in Susis quingentos viros interficerent et decem extra filios Aman Agagitae hostis Iudaeorum quorum ista sunt nomina</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>Pharsandatha et Delphon et Esphata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>et Phorata et Adalia et Aridatha</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>et Ephermesta et Arisai et Aridai et Vaizatha</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>quos cum occidissent praedas de substantiis eorum agere noluerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>statimque numerus eorum qui occisi erant in Susis ad regem relatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>qui dixit reginae in urbe Susis interfecere Iudaei quingentos viros et alios decem filios Aman quantam putas eos exercere caedem in universis provinciis quid ultra postulas et quid vis ut fieri iubeam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>cui illa respondit si regi placet detur potestas Iudaeis ut sicut hodie fecerunt in Susis sic et cras faciant et decem filii Aman in patibulis suspendantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>praecepitque rex ut ita fieret statimque in Susis pependit edictum et decem Aman filii suspensi sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>congregatis Iudaeis quartadecima adar mensis die interfecti sunt in Susis trecenti viri nec eorum ab illis direpta substantia est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>sed et per omnes provincias quae dicioni regis subiacebant pro animabus suis stetere Iudaei interfectis hostibus ac persecutoribus suis in tantum ut septuaginta quinque milia occisorum implerentur et nullus de substantiis eorum quicquam contingeret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>dies autem tertiusdecimus mensis adar unus apud omnes interfectionis fuit et quartodecimo die caedere desierunt quem constituerunt esse sollemnem ut in eo omni deinceps tempore vacarent epulis gaudio atque conviviis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.018">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:18</verseNum>
+      </reference>
+      <l>at hii qui in urbe Susis caedem exercuerant tertiodecimo et quartodecimo eiusdem mensis die in caede versati sunt quintodecimo autem die percutere desierunt et idcirco eandem diem constituere sollemnem epularum atque laetitiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.019">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:19</verseNum>
+      </reference>
+      <l>hii vero Iudaei qui in oppidis non muratis ac villis morabantur quartumdecimum diem mensis adar conviviorum et gaudii decreverunt ita ut exultent in eo et mittant sibi mutuo partes epularum et ciborum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.020">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:20</verseNum>
+      </reference>
+      <l>scripsit itaque Mardocheus omnia haec et litteris conprehensa misit ad Iudaeos qui in omnibus regis provinciis morabantur tam in vicino positis quam procul</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.021">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:21</verseNum>
+      </reference>
+      <l>ut quartamdecimam et quintamdecimam diem mensis adar pro festis susciperent et revertente semper anno sollemni honore celebrarent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.022">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:22</verseNum>
+      </reference>
+      <l>quia in ipsis diebus se ulti sunt Iudaei de inimicis suis et luctus atque tristitia in hilaritatem gaudiumque conversa sint essentque istae dies epularum atque laetitiae et mitterent sibi invicem ciborum partes et pauperibus munuscula largirentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.023">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:23</verseNum>
+      </reference>
+      <l>susceperuntque Iudaei in sollemnem ritum cuncta quae eo tempore facere coeperant et quae Mardocheus litteris facienda mandaverat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.024">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:24</verseNum>
+      </reference>
+      <l>Aman enim filius Amadathi stirpis Agag hostis et adversarius Iudaeorum cogitavit contra eos malum ut occideret illos atque deleret et misit phur quod nostra lingua vertitur in sortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.025">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:25</verseNum>
+      </reference>
+      <l>et postea ingressa est Hester ad regem obsecrans ut conatus eius litteris regis irriti fierent et malum quod contra Iudaeos cogitaverat reverteretur in caput eius denique et ipsum et filios eius adfixerunt cruci</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.026">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:26</verseNum>
+      </reference>
+      <l>atque ex illo tempore dies isti appellati sunt Phurim id est Sortium eo quod phur id est sors in urnam missa fuerit et cuncta quae gesta sunt epistulae id est libri huius volumine continentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.027">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:27</verseNum>
+      </reference>
+      <l>quaeque sustinuerint et quae deinceps inmutata sint suscepere Iudaei super se et semen suum et super cunctos qui religioni eorum voluerint copulari ut nulli liceat duos hos dies absque sollemnitate transigere quam scriptura testatur et certa expetunt tempora annis sibi iugiter succedentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.028">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:28</verseNum>
+      </reference>
+      <l>isti sunt dies quos nulla umquam delebit oblivio et per singulas generationes cunctae in toto orbe provinciae celebrabunt nec est ulla civitas in qua dies Phurim id est Sortium non observentur a Iudaeis et ab eorum progenie quae his caerimoniis obligata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.029">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:29</verseNum>
+      </reference>
+      <l>scripseruntque Hester regina filia Abiahil et Mardocheus Iudaeus etiam secundam epistulam ut omni studio dies ista sollemnis sanciretur in posterum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.030">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:30</verseNum>
+      </reference>
+      <l>et miserunt ad omnes Iudaeos qui in centum viginti septem regis Asueri provinciis versabantur ut haberent pacem et susciperent veritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.031">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:31</verseNum>
+      </reference>
+      <l>observantes dies Sortium et suo tempore cum gaudio celebrarent sicut constituerat Mardocheus et Hester et illi observanda susceperant a se et a semine suo ieiunia atque clamores et Sortium dies</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.009.032">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>9:32</verseNum>
+      </reference>
+      <l>et omnia quae libri huius qui vocatur Hester historia continentur</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.Esther.010.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>rex vero Asuerus omnem terram et cunctas maris insulas fecit tributarias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>cuius fortitudo et imperium et dignitas atque sublimitas qua exaltavit Mardocheum scripta sunt in libris Medorum atque Persarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>et quomodo Mardocheus iudaici generis secundus a rege Asuero fuerit et magnus inter Iudaeos et acceptabilis plebi fratrum suorum quaerens bona populo suo et loquens ea quae ad pacem sui seminis pertinerent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.004Preface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:4Preface</verseNum>
+      </reference>
+      <l>quae habentur in Hebraeo plena fide expressi haec autem quae sequuntur scripta repperi in editione vulgata quae Graecorum lingua et litteris continentur et interim post finem libri hoc capitulum ferebatur quod iuxta consuetudinem nostram obelo id est veru praenotavimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>dixitque Mardocheus a Deo facta sunt ista</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>recordatus sum somnii quod videram haec eadem significantis nec eorum quicquam irritum fuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>parvus fons qui crevit in fluvium et in lucem solemque conversus est et in aquas plurimas redundavit Hester est quam rex accepit uxorem et voluit esse reginam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>duo autem dracones ego sum et Aman</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>gentes quae convenerant hii sunt qui delere nomen conati sunt Iudaeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>gens autem mea Israhel est qui clamavit ad Deum et salvum fecit Dominus populum suum liberavitque nos de omnibus malis et fecit signa magna atque portenta inter gentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>et duas sortes esse praecepit unam populo Dei et alteram cunctarum gentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>venitque utraque sors in statutum ex illo iam tempore diem coram Deo universis gentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>et recordatus est Dominus populi sui ac misertus hereditati suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.010.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>et observabuntur dies isti in mense adar quartadecima et quintadecima die eiusdem mensis cum omni studio et gaudio in unum coetum populi congregati in cunctas deinceps generationes populi Israhel</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.Esther.011.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>anno quarto regnantibus Ptolomeo et Cleopatra adtulerunt Dositheus qui se sacerdotem et levitici generis ferebat et Ptolomeus filius eius hanc epistulam Phurim quam dixerunt interpretatum esse Lysimachum Ptolomei filium in Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.002Preface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:2Preface</verseNum>
+      </reference>
+      <l>hoc quoque principium erat in editione vulgata quod nec in Hebraeo nec apud ullum fertur interpretum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>anno secundo regnante Artarxerse maximo prima die mensis nisan vidit somnium Mardocheus filius Iahiri filii Semei filii Cis de tribu Beniamin</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>homo iudaeus qui habitabat in urbe Susis vir magnus et inter primos aulae regiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>erat autem de eo numero captivorum quos transtulerat Nabuchodonosor rex Babylonis de Hierusalem cum Iechonia rege Iudaeae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>et hoc eius somnium fuit apparuerunt voces et tumultus et tonitrua et terraemotus et conturbatio super terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>et ecce duo dracones magni paratique contra se in proelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>ad quorum clamorem cunctae concitatae sunt nationes ut pugnarent contra gentem iustorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>fuitque dies illa tenebrarum et discriminis tribulationis et angustiae et ingens formido super terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>conturbataque est gens iustorum timentium mala sua et praeparata ad mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>clamaveruntque ad Deum et illis vociferantibus fons parvus crevit in fluvium maximum et in aquas plurimas redundavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>lux et sol ortus est et humiles exaltati sunt et devoraverunt inclitos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.011.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>quod cum vidisset Mardocheus et surrexisset de stratu cogitabat quid Deus facere vellet et fixum habebat in animo scire cupiens quid significaret somnium</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.Esther.012.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>morabatur autem eo tempore in aula regis cum Gabatha et Thara eunuchis regis qui ianitores erant palatii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.012.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>cumque intellexisset cogitationes eorum et curas diligentius pervidisset didicit quod conarentur in regem Artarxersen manus mittere et nuntiavit super eo regi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.012.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>qui de utroque habita quaestione confessos duci iussit ad mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.012.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>rex autem quod gestum erat scripsit in commentariis sed et Mardocheus rei memoriam litteris tradidit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.012.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>praecepitque ei rex ut in aula palatii moraretur datis ei pro delatione muneribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.012.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>Aman vero filius Amadathi Bugeus erat gloriosissimus coram rege et voluit nocere Mardocheo et populo eius pro duobus regis eunuchis qui fuerant interfecti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.012.006Postface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>12:6Postface</verseNum>
+      </reference>
+      <l>hucusque proemium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.Preface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:Preface</verseNum>
+      </reference>
+      <l>quae sequuntur in eo loco posita erant ubi scriptum est in volumine et diripuerunt bona vel substantias eorum quae in sola vulgata editione repperimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.Title">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:Title</verseNum>
+      </reference>
+      <l>epistulae autem hoc exemplar fuit</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.Esther.013.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>rex maximus Artarxerses ab India usque Aethiopiam centum viginti septem provinciarum principibus et ducibus qui eius imperio subiecti sunt salutem dicit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>cum plurimis gentibus imperarem et universum orbem meae dicioni subiugassem volui nequaquam abuti potentiae magnitudine sed clementia et lenitate gubernare subiectos ut absque ullo terrore vitam silentio transigentes optata cunctis mortalibus pace fruerentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>quaerente autem me a consiliariis meis quomodo hoc posset impleri unus qui sapientia et fide ceteros praecellebat et erat post regem secundus Aman nomine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>indicavit mihi in toto orbe terrarum populum esse dispersum qui novis uteretur legibus et contra omnium gentium faciens consuetudinem regum iussa contemneret et universarum concordiam nationum sua dissensione violaret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>quod cum didicissemus videntes unam gentem rebellem adversum omne hominum genus perversis uti legibus nostrisque iussionibus contraire et turbare subiectarum nobis provinciarum pacem atque concordiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>iussimus ut quoscumque Aman qui omnibus provinciis praepositus est et secundus a rege et quem patris loco colimus monstraverit cum coniugibus ac liberis deleantur ab inimicis suis nullusque eorum misereatur quartadecima die duodecimi mensis adar anni praesentis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>ut nefarii homines uno die ad inferos descendentes reddant imperio nostro pacem quam turbaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.007Postface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:7Postface</verseNum>
+      </reference>
+      <l>hucusque exemplar epistulae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.008Preface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:8Preface</verseNum>
+      </reference>
+      <l>quae sequuntur post eum locum scripta repperi ubi legitur pergensque Mardocheus fecit omnia quae ei mandaverat Hester nec tamen habentur in Hebraico et apud nullum penitus feruntur interpretum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>Mardocheus autem deprecatus est Dominum memor omnium operum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>et dixit Domine Domine rex omnipotens in dicione enim tua cuncta sunt posita et non est qui possit tuae resistere voluntati si decreveris salvare Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>tu fecisti caelum et terram et quicquid caeli ambitu continetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>Dominus omnium es nec est qui resistat maiestati tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>cuncta nosti et scis quia non pro superbia et contumelia et aliqua gloriae cupiditate fecerim hoc ut non adorarem Aman superbissimum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>libenter enim pro salute Israhel etiam vestigia pedum eius deosculari paratus essem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>sed timui ne honorem Dei mei transferrem ad hominem et ne quemquam adorarem excepto Domino meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:15</verseNum>
+      </reference>
+      <l>et nunc Domine rex Deus Abraham miserere populi tui quia volunt nos inimici perdere et hereditatem tuam delere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:16</verseNum>
+      </reference>
+      <l>ne despicias partem tuam quam redemisti tibi de Aegypto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:17</verseNum>
+      </reference>
+      <l>exaudi deprecationem meam et propitius esto sorti et funiculo tuo et converte luctum nostrum in gaudium ut viventes laudemus nomen tuum Domine et non claudas ora te canentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.013.018">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>13:18</verseNum>
+      </reference>
+      <l>omnis quoque Israhel pari mente et obsecratione clamavit ad Dominum eo quod eis certa mors inpenderet</l>
+    </verse>
+  </chapter>
+  <chapter num="14">
+    <verse type="bible-verse" id="B.Esther.014.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:1</verseNum>
+      </reference>
+      <l>Hester quoque regina confugit ad Dominum pavens periculum quod inminebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:2</verseNum>
+      </reference>
+      <l>cumque deposuisset vestes regias fletibus et luctui apta indumenta suscepit et pro unguentis variis cinere et stercore implevit caput et corpus suum humiliavit ieiuniis omniaque loca in quibus laetari ante consueverat crinium laceratione conplevit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:3</verseNum>
+      </reference>
+      <l>et deprecabatur Dominum Deum Israhel dicens Domine mi qui rex noster es solus adiuva me solitariam et cuius praeter te nullus auxiliator est alius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:4</verseNum>
+      </reference>
+      <l>periculum meum in manibus meis est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:5</verseNum>
+      </reference>
+      <l>audivi a patre meo quod tu Domine tulisses Israhel de cunctis gentibus et patres nostros ex omnibus retro maioribus suis ut possideres hereditatem sempiternam fecistique eis sicut locutus es</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:6</verseNum>
+      </reference>
+      <l>peccavimus in conspectu tuo et idcirco tradidisti nos in manibus inimicorum nostrorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:7</verseNum>
+      </reference>
+      <l>coluimus enim deos eorum iustus es Domine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:8</verseNum>
+      </reference>
+      <l>et nunc non eis sufficit quod durissima nos opprimunt servitute sed robur manuum suarum idolorum potentiae deputantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:9</verseNum>
+      </reference>
+      <l>volunt tua mutare promissa et delere hereditatem tuam et claudere ora te laudantium atque extinguere gloriam templi et altaris tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:10</verseNum>
+      </reference>
+      <l>ut aperiant ora gentium et laudent idolorum fortitudinem et praedicent carnalem regem in sempiternum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:11</verseNum>
+      </reference>
+      <l>ne tradas Domine sceptrum tuum his qui non sunt ne rideant ad ruinam nostram sed converte consilium eorum super eos et eum qui in nos coepit saevire disperde</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:12</verseNum>
+      </reference>
+      <l>memento Domine et ostende te nobis in tempore tribulationis nostrae et mihi da fiduciam rex deorum et universae Domine potestatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:13</verseNum>
+      </reference>
+      <l>tribue sermonem conpositum in ore meo in conspectu leonis et transfer cor illius in odium hostis nostri ut et ipse pereat et ceteri qui ei consentiunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:14</verseNum>
+      </reference>
+      <l>nos autem libera manu tua et adiuva me nullum alium habentem auxilium nisi te Domine habes omnium scientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:15</verseNum>
+      </reference>
+      <l>et nosti quia oderim gloriam iniquorum et detester cubile incircumcisorum et omnis alienigenae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:16</verseNum>
+      </reference>
+      <l>tu scis necessitatem meam quod abominer signum superbiae et gloriae meae quod est super caput meum in diebus ostentationis meae et detester illud quasi pannum menstruatae et non portem in diebus silentii mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:17</verseNum>
+      </reference>
+      <l>et quod non comederim in mensa Aman nec mihi placuerit convivium regis et non biberim vinum libaminum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.018">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:18</verseNum>
+      </reference>
+      <l>et numquam laetata sit ancilla tua ex quo huc translata sum usque in praesentem diem nisi in te Domine Deus Abraham</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.014.019">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>14:19</verseNum>
+      </reference>
+      <l>Deus fortis super omnes exaudi vocem eorum qui nullam aliam spem habent et libera nos de manu iniquorum et erue me a timore meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.Preface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:Preface</verseNum>
+      </reference>
+      <l>haec quoque addita repperi in editione vulgata</l>
+    </verse>
+  </chapter>
+  <chapter num="15">
+    <verse type="bible-verse" id="B.Esther.015.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:1</verseNum>
+      </reference>
+      <l>et mandavit ei haut dubium quin Hesteri Mardocheus ut ingrederetur ad regem et rogaret pro populo suo et pro patria sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:2</verseNum>
+      </reference>
+      <l>memor inquit dierum humilitatis tuae quomodo nutrita sis in manu mea quia Aman secundus a rege locutus est contra nos in mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:3</verseNum>
+      </reference>
+      <l>et tu invoca Dominum et loquere regi pro nobis et libera nos de morte</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.004Preface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:4Preface</verseNum>
+      </reference>
+      <l>necnon et ista quae subdita sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:4</verseNum>
+      </reference>
+      <l>die autem tertio deposuit vestimenta ornatus sui et circumdata est gloria sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:5</verseNum>
+      </reference>
+      <l>cumque regio fulgeret habitu et invocasset omnium rectorem et salvatorem Deum adsumpsit duas famulas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:6</verseNum>
+      </reference>
+      <l>et super unam quidem innitebatur quasi prae deliciis et nimia teneritudine corpus suum ferre non sustinens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:7</verseNum>
+      </reference>
+      <l>altera autem famularum sequebatur dominam defluentia in humum indumenta sustentans</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:8</verseNum>
+      </reference>
+      <l>ipsa autem roseo vultu colore perfusa et gratis ac nitentibus oculis tristem celabat animum et nimio timore contractum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:9</verseNum>
+      </reference>
+      <l>ingressa igitur cuncta per ordinem ostia stetit contra regem ubi ille residebat super solium regni sui indutus vestibus regiis auroque fulgens et pretiosis lapidibus eratque terribilis aspectu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:10</verseNum>
+      </reference>
+      <l>cumque elevasset faciem et ardentibus oculis furorem pectoris indicasset regina corruit et in pallorem colore mutato lassum super ancillulam reclinavit caput</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:11</verseNum>
+      </reference>
+      <l>convertitque Deus spiritum regis in mansuetudinem et festinus ac metuens exilivit de solio et sustentans eam ulnis suis donec rediret ad se his verbis blandiebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:12</verseNum>
+      </reference>
+      <l>quid habes Hester ego sum frater tuus noli metuere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:13</verseNum>
+      </reference>
+      <l>non morieris non enim pro te sed pro omnibus haec lex constituta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:14</verseNum>
+      </reference>
+      <l>accede igitur et tange sceptrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:15</verseNum>
+      </reference>
+      <l>cumque illa reticeret tulit auream virgam et posuit super collum eius et osculatus est eam et ait cur mihi non loqueris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:16</verseNum>
+      </reference>
+      <l>quae respondit vidi te domine quasi angelum Dei et conturbatum est cor meum prae timore gloriae tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:17</verseNum>
+      </reference>
+      <l>valde enim mirabilis es domine et facies tua plena est gratiarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.018">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:18</verseNum>
+      </reference>
+      <l>cumque loqueretur rursum corruit et paene exanimata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.015.019">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>15:19</verseNum>
+      </reference>
+      <l>rex autem turbabatur et omnes ministri eius consolabantur eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.Preface">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:Preface</verseNum>
+      </reference>
+      <l>exemplar epistulae regis Artarxersis quam pro Iudaeis ad totas regni sui provincias misit quod et ipsum in hebraico volumine non habetur</l>
+    </verse>
+  </chapter>
+  <chapter num="16">
+    <verse type="bible-verse" id="B.Esther.016.001">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:1</verseNum>
+      </reference>
+      <l>rex magnus Artarxerses ab India usque Aethiopiam centum viginti septem provinciarum ducibus ac principibus qui nostrae oboediunt iussioni salutem dicit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.002">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:2</verseNum>
+      </reference>
+      <l>multi bonitate principum et honore qui in eos conlatus est abusi sunt in superbiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.003">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:3</verseNum>
+      </reference>
+      <l>et non solum subiectos regibus nituntur opprimere sed datam sibi gloriam non ferentes in ipsos qui dederunt moliuntur insidias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.004">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:4</verseNum>
+      </reference>
+      <l>nec contenti sunt gratias non agere beneficiis et humanitatis in se iura violare sed Dei quoque cuncta cernentis arbitrantur se fugere posse sententiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.005">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:5</verseNum>
+      </reference>
+      <l>et in tantum vesaniae proruperunt ut eos qui credita sibi officia diligenter observant et ita cuncta agunt ut omnium laude sint digni mendaciorum cuniculis conentur subvertere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.006">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:6</verseNum>
+      </reference>
+      <l>dum aures principum simplices et ex sua natura alios aestimantes callida fraude decipiunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.007">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:7</verseNum>
+      </reference>
+      <l>quae res et ex veteribus probatur historiis et ex his quae geruntur cotidie quomodo malis quorundam suggestionibus regum studia depraventur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.008">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:8</verseNum>
+      </reference>
+      <l>unde providendum est paci omnium provinciarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.009">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:9</verseNum>
+      </reference>
+      <l>nec putare debetis si diversa iubeamus ex animi nostri venire levitate sed pro qualitate et necessitate temporum ut reipublicae poscit utilitas ferre sententiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.010">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:10</verseNum>
+      </reference>
+      <l>et ut manifestius quod dicimus intellegatis Aman filius Amadathi et animo et gente Macedo alienusque a Persarum sanguine et pietatem nostram sua crudelitate commaculans peregrinus susceptus a nobis est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.011">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:11</verseNum>
+      </reference>
+      <l>et tantam in se expertus humanitatem ut pater noster vocaretur et adoraretur ab omnibus post regem secundus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.012">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:12</verseNum>
+      </reference>
+      <l>qui in tantum arrogantiae tumore sublatus est ut regno nos privare niteretur et spiritu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.013">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:13</verseNum>
+      </reference>
+      <l>nam Mardocheum cuius fide et beneficiis vivimus et consortem regni nostri Hester cum omni gente sua novis quibusdam atque inauditis machinis expetivit in mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.014">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:14</verseNum>
+      </reference>
+      <l>hoc cogitans ut illis interfectis insidiaretur nostrae solitudini et regnum Persarum transferret in Macedonas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.015">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:15</verseNum>
+      </reference>
+      <l>nos autem a pessimo mortalium Iudaeos neci destinatos in nulla penitus culpa repperimus sed e contrario iustis utentes legibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.016">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:16</verseNum>
+      </reference>
+      <l>et filios altissimi et maximi semperque viventis Dei cuius beneficio et patribus nostris et nobis regnum est traditum et usque hodie custoditur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.017">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:17</verseNum>
+      </reference>
+      <l>unde eas litteras quas sub nomine nostro ille direxerat sciatis esse irritas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.018">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:18</verseNum>
+      </reference>
+      <l>pro quo scelere ante portas huius urbis id est Susis et ipse qui machinatus est et omnis cognatio eius pendet in patibulis non nobis sed Deo ei reddente quod meruit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.019">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:19</verseNum>
+      </reference>
+      <l>hoc autem edictum quod nunc mittimus in cunctis urbibus proponatur ut liceat Iudaeis uti legibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.020">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:20</verseNum>
+      </reference>
+      <l>quibus debetis esse adminiculo ut eos qui se ad necem eorum paraverant possint interficere tertiadecima die mensis duodecimi qui vocatur adar</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.021">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:21</verseNum>
+      </reference>
+      <l>hanc enim diem omnipotens Deus maeroris et luctus eis vertit in gaudium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.022">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:22</verseNum>
+      </reference>
+      <l>unde et vos inter ceteros festos dies hanc habetote diem et celebrate eam cum omni laetitia ut et in posterum cognoscatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.023">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:23</verseNum>
+      </reference>
+      <l>omnes qui fideliter Persis oboediunt dignam pro fide recipere mercedem qui autem insidiantur regno eorum perire pro scelere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Esther.016.024">
+      <reference>
+        <bookName>Esther</bookName>
+        <verseNum>16:24</verseNum>
+      </reference>
+      <l>omnis autem provincia et civitas quae noluerit sollemnitatis huius esse particeps gladio et igne pereat et sic deleatur ut non solum hominibus sed etiam bestiis invia sit in sempiternum pro exemplo contemptus et inoboedientiae</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Esther.colophon.001">
+    <reference>
+      <bookName>Esther</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT LIBER HESTER</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

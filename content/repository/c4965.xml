@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4964" nextid="c4966" id="c4965">
+   <header>
+      <usage ms="Cht" code="07062000">[57r] lauds</usage>
+      <usage ms="Evm" code="07062000">[145r] lauds</usage>
+      <usage ms="Glo" code="07062000">[77v] lauds</usage>
+      <usage ms="Hyd" code="07063000">[93r] vesp2</usage>
+      <usage ms="Pet" code="07062000">[86v] prime</usage>
+      <usage ms="Wcb" code="07062000">[113v] lauds</usage>
+   </header>
+   <aBody wit="CAO-L Cht Hyd Pet Evm Wcb">
+      <app>
+         <rdg wit="CAO-L"> Sinite mulierem bonum enim opus operata est in me</rdg>
+         <rdg wit="Cht Hyd Pet Evm Wcb"> Sinite mulierem opus enim bonum operata est in me</rdg>
+      </app> ut in die sepulturae meae servet illud
+     <app>
+         <rdg wit="CAO-L Cht Hyd Wcb"> nam pauperes semper habebitis vobiscum</rdg>
+         <rdg wit="Evm"> nam pauperes semper <corr sic="habetis" resp="DC">habebitis</corr> vobiscum</rdg>
+         <rdg wit="Pet"> nam pauperes semper habetis vobiscum</rdg>
+      </app> me autem non semper habebitis</aBody>
+   <aBody wit="Glo" type="incipit">Sinite mulierem</aBody>
+</ant>

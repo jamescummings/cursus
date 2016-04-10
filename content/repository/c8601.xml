@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8600" nextid="c8602" id="c8601">
+   <header>
+      <usage ms="Evm" code="02122600">[42r] nones</usage>
+      <usage ms="Wcb" code="02122600">[60r] nones</usage>
+   </header>
+   <aBody wit="Evm Wcb"> Vidit beatus Stephanus caelos apertos vidit et introivit beatus homo
+     <app>
+         <rdg wit="Evm"> cui caeli patebant</rdg>
+         <rdg wit="Wcb"> cui caeli patebant alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

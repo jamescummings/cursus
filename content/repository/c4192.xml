@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4191" nextid="c4193" id="c4192">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Oremus omnes ad dominum Jesum Christum</rdg>
+         <rdg wit="CAO-C"> Oremus ad dominum</rdg>
+         <rdg wit="CAO-D"> Oremus omnes ad dominum <del type="partially erased and without neumes" status="unremarkable">Jesum Christum</del>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D"> ut ostendat nobis martyris sui corpus</rdg>
+         <rdg wit="CAO-V"> ut ostendas nobis martyri sui corpus</rdg>
+         <rdg wit="CAO-L"> ut ostendas nobis martyris sui corpus</rdg>
+         <rdg wit="CAO-F CAO-S"> ut ostendat nobis martyri sui corpus</rdg>
+      </app>
+   </aBody>
+</ant>

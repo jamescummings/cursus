@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7035" nextid="c7036b" id="c7036">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Joannes baptista</rdg>
+         <rdg wit="CAO-V"> Joannes baptistam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> arguebat Herodem</rdg>
+         <rdg wit="CAO-L"> arguebat Herodes</rdg>
+      </app> propter Herodiadem quam tulerat fratri suo
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> viventi</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="vivente">viventi</corr>
+         </rdg>
+         <rdg wit="CAO-C CAO-F CAO-S"> Philippo</rdg>
+         <rdg wit="CAO-B">
+            <corr sic="Philippo">viventi</corr>
+         </rdg>
+      </app> uxorem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-H CAO-R CAO-D CAO-F"> Misso Herodes spiculatore</rdg>
+            <rdg wit="CAO-C CAO-B CAO-V CAO-S"> Misso Herode spiculatore</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-D CAO-F CAO-S"> praecepit amputari</rdg>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R"> praecepit amputare</rdg>
+         </app> caput Joannis
+       <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F"> in carcere</rdg>
+            <rdg wit="CAO-C CAO-D CAO-S"> In carcerem</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E CAO-L"> Herodes enim tenuit
+       <app>
+            <rdg wit="CAO-E"> et ligavit Joannem</rdg>
+            <rdg wit="CAO-L"> et ligavit eum</rdg>
+         </app> et posuit in carcerem</vBody>
+      <vBody type="r" wit="CAO-M"> Arguebat Herodem Joannes propter Herodiadem</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Propter</rep>
+      <rep type="r" wit="CAO-M">Quam</rep>
+   </verses>
+</res>

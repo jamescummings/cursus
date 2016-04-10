@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4174" nextid="c4176" id="c4175">
+   <aBody wit="CAO-D CAO-F"> Oramus te beatissime confessor dei
+     <app>
+         <rdg wit="CAO-D"> et dux gloriose agminis monastici Benedicte</rdg>
+         <rdg wit="CAO-F"> et dux gloriose agmini monastici Benedicte</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> ut pro gregis eius</rdg>
+         <rdg wit="CAO-F"> ut pro gregis huius</rdg>
+      </app> aeterna salute perpetuus intercessor digneris exsistere</aBody>
+</ant>

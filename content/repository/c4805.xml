@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4804" nextid="c4806" id="c4805">
+   <aBody wit="CAO-C CAO-V">
+      <app>
+         <rdg wit="CAO-C"> Beatus vir Quintinus ad Rictiovarum dixit</rdg>
+         <rdg wit="CAO-V"> Sanctus vir Quintinus ad Rictiovarum dixit</rdg>
+      </app> christianus sum et Christum confiteor
+     <app>
+         <rdg wit="CAO-C"> et tamen si certissime scire vis nomen meum</rdg>
+         <rdg wit="CAO-V"> et tamen si certissime vis nomen meum scire</rdg>
+      </app> Quintinus vocor</aBody>
+</ant>

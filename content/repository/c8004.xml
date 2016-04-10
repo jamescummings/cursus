@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8003" nextid="c8005" id="c8004">
+   <header>
+      <usage ms="Hyd" code="06031000"/>
+      <usage ms="Cht" code="06031000"/>
+   </header>
+   <aBody wit="Hyd Cht Alb2">
+      <app>
+         <rdg wit="Hyd Cht">Averte faciem tuam domine a peccatis meis</rdg>
+         <rdg wit="Alb2">Averte domine faciem tuam a peccatis meis</rdg>
+      </app> et omnes iniquitates meas dele</aBody>
+</ant>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6318" nextid="c6320" id="c6319">
+   <header>
+      <usage ms="Hyd" code="10500000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Conforta me rex sanctorum principatum tenens et da
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> sermonem rectum et benesonantem in os meum</rdg>
+         <rdg wit="CAO-C"> sermonem rectum in ore meo</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Da nobis domine locum paenitentiae
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Hyd"> et ne claudas</rdg>
+            <rdg wit="CAO-F"> et ne <corr sic="claudes">claudas</corr>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> ora canentium</rdg>
+            <rdg wit="CAO-V"> ora clamantium</rdg>
+            <rdg wit="CAO-M"> ora laudantium</rdg>
+         </app> te domine</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">Et da</rep>
+      <rep type="r" wit="CAO-E CAO-V"> In os</rep>
+   </verses>
+</res>

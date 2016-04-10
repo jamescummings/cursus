@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1054" nextid="c1056" id="c1055">
+   <header>
+      <usage ms="Alb2" code="02010100">[45r] matins inv</usage>
+      <usage ms="Alb2" code="02122500">[24r] matins inv</usage>
+      <usage ms="Bat" code="02122500">[15r] matins inv</usage>
+      <usage ms="Bat" code="02123000">[25r] matins inv</usage>
+      <usage ms="Cdm" code="02122500">[21v] matins inv</usage>
+      <usage ms="Ely" code="02122500">[17v] matins inv</usage>
+      <usage ms="Evm" code="02122500">[32v] matins inv</usage>
+      <usage ms="Hyd" code="02122500">[17v] matins inv</usage>
+      <usage ms="Pet" code="02010100">[34r] matins inv</usage>
+      <usage ms="Pet" code="02122500">[15r] matins inv</usage>
+      <usage ms="Wcb" code="02122500">[53r] matins inv</usage>
+      <usage ms="Wor" code="02122500">[13v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Christus natus est nobis venite adoremus</aBody>
+</ant>

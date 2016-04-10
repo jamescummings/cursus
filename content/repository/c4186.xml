@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4185b" nextid="c4187" id="c4186">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-S"> Oravit sanctus Hippolytus voce magna et dixit</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> Oravit sanctus Hippolytus voce magna clamavit et dixit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R"> gratias tibi ago domine meus Jesu Christe</rdg>
+         <rdg wit="CAO-S"> gratias tibi ago domine Jesu Christe</rdg>
+         <rdg wit="CAO-D CAO-F"> gratias tibi ago domine mi Jesu Christe</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-D"> quia famulos meos in conspectu tuo pati video</rdg>
+         <rdg wit="CAO-R CAO-F CAO-S"> quia famulos meos in conspectu meo pati video</rdg>
+      </app>
+   </aBody>
+</ant>

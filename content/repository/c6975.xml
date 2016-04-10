@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6974" nextid="c6976" id="c6975">
+   <rBody wit="CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-D"> Intempesta noctis hora</rdg>
+         <rdg wit="CAO-F"> Intempestae noctis hora</rdg>
+      </app> vir Dei instans vigiliis assiduae
+      <app>
+         <rdg wit="CAO-F"> orationi<del status="unremarkable">s</del>
+         </rdg>
+         <rdg wit="CAO-D"> orationis</rdg>
+      </app> velut sub uno solis radio omnem mundum
+      <app>
+         <rdg wit="CAO-F"> collectum</rdg>
+         <rdg wit="CAO-D"> collectam</rdg>
+      </app> conspexit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-D"> Animae enim videnti creatorem</rdg>
+            <rdg wit="CAO-F">
+               <del status="unremarkable">Videnti enim creatorem</del>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F"> angusta</rdg>
+            <rdg wit="CAO-D"> angust<del status="unremarkable">i</del>a</rdg>
+         </app> est omnis creatura</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Omnem</rep>
+   </verses>
+</res>

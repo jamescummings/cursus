@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5514" nextid="c5516" id="c5515">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> Zachaee festinans descende quia hodie in domo tua oportet me manere
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> at ille festinans descendit</rdg>
+         <rdg wit="CAO-L"> et festinans descendit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-L"> et suscepit illum</rdg>
+         <rdg wit="CAO-H CAO-F"> et excepit illum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-F"> gaudens in domum suam</rdg>
+         <rdg wit="CAO-C CAO-E"> gaudens in domo sua</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R"> gaudens in domum suam alleluia</rdg>
+         <rdg wit="CAO-L"> gaudens alleluia</rdg>
+      </app> hodie huic domui salus a deo facta est alleluia</aBody>
+   <aBody wit="CAO-S">Zazee festinans descende quia hodie in domo tua oportet me manere at ille festinans descendit et suscepit illum gaudens alleluia</aBody>
+</ant>

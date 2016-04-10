@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3873" nextid="c3875" id="c3874">
+   <header>
+      <usage ms="Alb2" code="07063000">[106v] lauds</usage>
+      <usage ms="Cdm" code="07063000">[76v] lauds gosp</usage>
+      <usage ms="Cht" code="07064000">[59v] prime</usage>
+      <usage ms="Ely" code="07063000">[87v] sext-a1</usage>
+      <usage ms="Evm" code="07064000">[147r] prime</usage>
+      <usage ms="Glo" code="07064000">[78v] prime</usage>
+      <usage ms="Hyd" code="07063000">[92v] lauds</usage>
+      <usage ms="Mch" code="07063000">[156v] lauds gosp</usage>
+      <usage ms="Pet" code="07063000">[87r] lauds</usage>
+      <usage ms="Wcb" code="07064000">[114v] prime</usage>
+      <usage ms="Wor" code="07063000">[57v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S Wor Hyd Pet Evm Cdm">Nemo tollit a me animam meam</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-L Ely Wcb Glo Alb2 Mch">Nemo tollet a me animam meam</rdg>
+         <rdg wit="Cht"> Nemo <sic resp="DC">tellet</sic> a me animam meam</rdg>
+         <rdg wit="CAO-C">Nemo tollet animam meam</rdg>
+         <rdg wit="CAO-V">Nemo tollit ad me animam meam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">sed ego pono eam</rdg>
+         <rdg wit="CAO-V">sed ego pono ea</rdg>
+      </app> et iterum sumo eam</aBody>
+</ant>

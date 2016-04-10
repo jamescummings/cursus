@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5472" nextid="c5474" id="c5473">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D"> Visitavit et fecit redemptionem dominus
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D"> plebis suae</rdg>
+         <rdg wit="CAO-H"> plebi suae</rdg>
+      </app>
+   </aBody>
+</ant>

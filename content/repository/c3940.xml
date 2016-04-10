@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3939" nextid="c3941" id="c3940">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-S CAO-L"> Non vos me elegistis
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-S"> sed ego elegi vos et posui vos</rdg>
+         <rdg wit="CAO-L"> sed ego elegi vos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-S"> ut eatis et fructum afferatis</rdg>
+         <rdg wit="CAO-L"> ut fructum afferatis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-L"> et fructus vester maneat</rdg>
+         <rdg wit="CAO-S"> et <corr sic="fructum">fructum</corr> vester maneat</rdg>
+         <rdg wit="CAO-H"> et fructus vester maneat alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

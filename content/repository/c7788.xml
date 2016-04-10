@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7787" nextid="c7789" id="c7788">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tu es Petrus et super hanc petram aedificabo ecclesiam meam et portae inferi non praevalebunt adversus eam et tibi dabo claves regni caelorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-F CAO-S CAO-L"> Quodcumque ligaveris super terram erit ligatum et in caelis et quodcumque solveris super terram erit solutum et in caelis</vBody>
+      <vBody type="r" wit="CAO-B CAO-M"> Quodcumque</vBody>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-D"> Quodcumque ligaveris</vBody>
+      <vBody type="r" wit="CAO-V"> Quodcumque ligaveris super terram</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L">Et tibi</rep>
+      <rep type="r" wit="CAO-B CAO-S">Et portae</rep>
+   </verses>
+</res>

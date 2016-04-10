@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4459" nextid="c4461" id="c4460">
+   <header>
+      <usage ms="Hyd" code="10900000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Qui caelorum contines thronos et abyssos intueris</rdg>
+         <rdg wit="CAO-M"> Qui caelorum contines thronum et abyssos intueri</rdg>
+      </app> domine rex regum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> montes ponderas</rdg>
+         <rdg wit="CAO-V CAO-S"> montes pondera</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L Hyd"> terram palmo concludis</rdg>
+         <rdg wit="CAO-M CAO-F CAO-S"> terra palmo concludis</rdg>
+         <rdg wit="CAO-V"> terram palmo concludit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-S Hyd"> exaudi nos domine</rdg>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-F CAO-L"> exaudi nos deus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> in gemitibus nostris</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> in gemitibus nostris alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

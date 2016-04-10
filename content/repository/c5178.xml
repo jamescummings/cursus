@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5177" nextid="c5179" id="c5178">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D"> Tres pueri in camino trinitatem figurantes et ignis minas conculcantes
+     <app>
+         <rdg wit="CAO-H"> te laudantes canebant</rdg>
+         <rdg wit="CAO-C"> haec laudantes cantabant</rdg>
+         <rdg wit="CAO-E"> collaudantes dicebant</rdg>
+         <rdg wit="CAO-D"> canebant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H"> benedictus es deus patrum nostrorum alleluia</rdg>
+         <rdg wit="CAO-D"> benedictus es deus patrum nostrorum</rdg>
+      </app>
+   </aBody>
+</ant>

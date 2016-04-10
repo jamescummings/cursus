@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3031" nextid="c3033" id="c3032">
+   <header>
+      <usage ms="Alb2" code="02122800">[39v] lauds-a1</usage>
+      <usage ms="Bat" code="02122800">[24r] lauds-a1</usage>
+      <usage ms="Cdm" code="02122800">[29v] lauds-a1</usage>
+      <usage ms="Evm" code="02122800">[49r] lauds-a1</usage>
+      <usage ms="Hyd" code="02122800">[27v] lauds-a1</usage>
+      <usage ms="Pet" code="02122800">[31v] lauds-a1</usage>
+      <usage ms="Wcb" code="02122800">[64v] lauds-a1</usage>
+      <usage ms="Wor" code="02122800">[23r] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Herodes iratus</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-L"> Herodes iratus est</rdg>
+      </app> occidit multos pueros
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> in Bethleem Judae</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> in Bethleem Juda</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> civitate David</rdg>
+         <rdg wit="CAO-C CAO-M"> civitatem David</rdg>
+      </app>
+   </aBody>
+</ant>

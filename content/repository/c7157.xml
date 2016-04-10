@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7156" nextid="c7158" id="c7157">
+   <rBody wit="CAO-H CAO-R"> Mirabilis deus in sanctis suis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-H"> Deus Israel ipse dabit virtutem</rdg>
+            <rdg wit="CAO-R"> Ipse dabit virtutem</rdg>
+         </app> et fortitudinem plebis suae</vBody>
+   </verses>
+</res>

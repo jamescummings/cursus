@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7593" nextid="c7595" id="c7594">
+   <header>
+      <usage ms="Alb2" code="02122400">[22v] matins-n1-r1</usage>
+      <usage ms="Bat" code="02122400">[14r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="02122400">[20v] matins-n1-r1</usage>
+      <usage ms="Ely" code="02122400">[16v] matins-n1-r1</usage>
+      <usage ms="Evm" code="02122400">[30v] matins-n1-r1</usage>
+      <usage ms="Hyd" code="02122400">[16v] matins-n1-r1</usage>
+      <usage ms="Mch" code="02122400">[21v] matins-n1-r1</usage>
+      <usage ms="Pet" code="02122400">[13v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="02122400">[52r] matins-r1</usage>
+      <usage ms="Wor" code="02122400">[12v] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Sanctificamini hodie et estote parati
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> quia die crastina</rdg>
+         <rdg wit="CAO-V"> quia dies crastina</rdg>
+      </app> videbitis maiestatem dei in vobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Hodie scietis quia veniet dominus
+      <app>
+            <rdg wit="Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> et mane videbitis</rdg>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Mch"> et mane videbitis gloriam eius</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Pet"> Maiestatem</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R">Quia</rep>
+   </verses>
+</res>

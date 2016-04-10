@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4865" nextid="c4867" id="c4866">
+   <header>
+      <usage ms="Cdm" code="02122600">[24v] matins-n2-a12</usage>
+      <usage ms="Evm" code="02010100">[61v] lauds commemoratio</usage>
+      <usage ms="Pet" code="02122608">[24v] </usage>
+      <usage ms="Wcb" code="02122600">[58v] matins-n2-a12</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Evm Wcb Cdm Pet"> Sepelierunt Stephanum viri timorati
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Evm Wcb Cdm Pet"> et fecerunt planctum magnum super eum</rdg>
+         <rdg wit="CAO-D"> et fecerunt planctum magnum super eum alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

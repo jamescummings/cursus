@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1756" nextid="c1758" id="c1757">
+   <header>
+      <usage ms="Alb2" code="01041000">[20r] lauds-a1</usage>
+      <usage ms="Bat" code="01041000">[13r] lauds-a1</usage>
+      <usage ms="Cdm" code="01041000">[19r] lauds-a1</usage>
+      <usage ms="Ely" code="01041000">[14v] lauds-a1</usage>
+      <usage ms="Evm" code="01041000">[24v] lauds-a1</usage>
+      <usage ms="Hyd" code="01041000">[14r] lauds-a1</usage>
+      <usage ms="Mch" code="01041000">[19r] lauds-a1</usage>
+      <usage ms="Pet" code="01041000">[11v] lauds-a1</usage>
+      <usage ms="Wcb" code="01041000">[49v] lauds-a1</usage>
+      <usage ms="Wor" code="01041000">[12r] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Canite tuba in Sion quia prope est dies domini ecce veniet
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Wor Wcb Pet Bat"> ad salvandum nos alleluia alleluia</rdg>
+         <rdg wit="Hyd Ely"> ad salvandum nos alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

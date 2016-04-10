@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2800" nextid="c2802" id="c2801">
+   <header>
+      <usage ms="Hyd" code="01012000">[4v] matins-n1-a2</usage>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-S CAO-L"> Expugna impugnantes me</rdg>
+         <rdg wit="Hyd"> Expugna impugnantes me domine</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1578" nextid="o1580" id="o1579">
+   <header>
+      <usage ms="Bat" code="07014000">[49v] lauds</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Evm" code="07012000"/>
+      <usage ms="Wcb" code="07012000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.943</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Evm Wcb Bat"> Vox nostra te domine semper deprecetur et ad aures tuae pietatis ascendat
+     <app>
+         <rdg wit="Cht Evm Bat"> et ad beneficia</rdg>
+         <rdg wit="Wcb Bat"> et ad beneficia recolenda quibus nos instaurare dignatus es tribue venire gaudentes</rdg>
+      </app>
+   </pBody>
+</prayer>

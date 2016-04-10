@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4065" nextid="c4067" id="c4066">
+   <aBody wit="CAO-E CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E"> O quam multiplicibus Bartholomaee fulgens egregie miraculis</rdg>
+         <rdg wit="CAO-S"> O quam multiplicibus Bartholomaee fulges egregie miraculis</rdg>
+         <rdg wit="CAO-L"> O quam multiplicibus Bartholomaee fulget egregie miraculis</rdg>
+      </app> qui pro Jesu nomine tanta sustinuisti pericula
+     <app>
+         <rdg wit="CAO-E CAO-L"> nos tuis semper sacris tuere precibus</rdg>
+         <rdg wit="CAO-S"> nos quoque tuis tuere precibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> ut mereamur ad superam ovantes pervenire patriam</rdg>
+         <rdg wit="CAO-S"> ut mereamur ad supera ovantes pervenire gratia agni</rdg>
+         <rdg wit="CAO-L"> ut mereamur ad superam ovanter pervenire patriam</rdg>
+      </app>
+   </aBody>
+</ant>

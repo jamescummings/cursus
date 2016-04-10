@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1361" nextid="c1363" id="c1362">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-L"> Ambulabant in camino ignis pueri tres et inter illos deus erat rex
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R"> et dicebant</rdg>
+         <rdg wit="CAO-L"> et dicebant nos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-L"> deum regem habemus</rdg>
+         <rdg wit="CAO-H CAO-R"> deum regem habemus alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

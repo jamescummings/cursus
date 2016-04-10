@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6514a" nextid="c6516" id="c6515">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Domine si tu es iube me venire ad te super aquas et extendens
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> manum</rdg>
+         <rdg wit="CAO-M"> manus</rdg>
+      </app> apprehendit eum
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et dixit Jesus</rdg>
+         <rdg wit="CAO-C"> et dixit ad eum</rdg>
+      </app> modicae fidei quare dubitasti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cumque vidisset ventum validum venientem
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> timuit</rdg>
+            <rdg wit="CAO-L"> timui</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-V CAO-R CAO-S CAO-L"> et cum coepisset</rdg>
+            <rdg wit="CAO-E CAO-M CAO-H CAO-D CAO-F"> et cum coepisset</rdg>
+         </app> mergi
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S CAO-L"> clamavit</rdg>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> clamabat</rdg>
+         </app> dicens
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> domine salvum me fac</rdg>
+            <rdg wit="CAO-E CAO-L"> domine adiuva me</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> Et extendens</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-D CAO-S"> Et dixit</rep>
+   </verses>
+</res>

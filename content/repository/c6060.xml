@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6059" nextid="c6061" id="c6060">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Afflicti pro peccatis nostris quotidie cum lacrimis
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-D CAO-F CAO-S Alb2"> exspectemus</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-L Hyd"> exspectamus</rdg>
+      </app> finem nostrum dolor cordis nostri ascendat ad te domine
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> ut eruas nos</rdg>
+         <rdg wit="CAO-V"> ut eruat nos</rdg>
+      </app> a malis quae innovantur in nobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd">Domine deus Israel exaudi preces nostras auribus percipe dolorem cordis nostri</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Ut eruas</rep>
+      <rep type="r" wit="CAO-V"> Ut eruat</rep>
+   </verses>
+</res>

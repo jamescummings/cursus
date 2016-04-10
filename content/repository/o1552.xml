@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1551" nextid="o1553" id="o1552">
+   <header>
+      <usage ms="Alb2" code="07045000">[96v] vesp2</usage>
+      <usage ms="Cdm" code="07045000">[69v] vesp2</usage>
+      <usage ms="Cht" code="07045000">[45r] vesp2</usage>
+      <usage ms="Ely" code="07045000">[79v] vesp2</usage>
+      <usage ms="Evm" code="07045000">[132r] vesp2</usage>
+      <usage ms="Hyd" code="07045000">[84v] vesp2</usage>
+      <usage ms="Mch" code="07045000">[142r] vesp2</usage>
+      <usage ms="Wcb" code="07045000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.276</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Ely Cht Hyd Evm Wcb Alb2 Cdm">Populi tui deus institutor et rector</rdg>
+         <rdg wit="Mch">Populi tui deus institutor</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Cht Hyd Evm Wcb Cdm"> peccata quibus inpugnantur expelle</rdg>
+         <rdg wit="Mch"> peccata quibus inpugnatur expelle</rdg>
+         <rdg wit="Alb2"> peccata quibus inpugnantur repelle</rdg>
+      </app>
+      <app>
+         <rdg wit="Hyd Ely Evm Wcb Alb2"> ut semper tibi placatus</rdg>
+         <rdg wit="Mch"> ut semper tibi sit placitus</rdg>
+         <rdg wit="Cdm"> ut tibi semper placatus</rdg>
+         <rdg wit="Cht"> ut semper et placitus</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Hyd Evm Wcb Alb2 Cdm Mch"> et tuo munimine sit securus</rdg>
+         <rdg wit="Cht"> et tuae munimine sit securus</rdg>
+      </app>
+   </pBody>
+</prayer>

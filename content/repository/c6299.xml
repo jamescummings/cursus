@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6298" nextid="c6300" id="c6299">
+   <rBody wit="CAO-D CAO-F CAO-S"> Coepit Hippolytus tristis plorare cui beatus Laurentius ita dixit noli flere sed magis gaude et post dum clamavero
+      <app>
+         <rdg wit="CAO-D CAO-F"> audi et veni quia vado ad gloriam</rdg>
+         <rdg wit="CAO-S"> veni et audi quia ego vado ad <sic resp="Hesbert"> gloria</sic>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-D"> Respondens Hippolytus</rdg>
+            <rdg wit="CAO-F"> Respondens Hippolytus dixit</rdg>
+         </app> quare ego non venio et vociferor quia christianus sum ut tecum occumbam</vBody>
+      <vBody type="r" wit="CAO-S"> Ego me obtuli sacrificium Deo</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Noli</rep>
+   </verses>
+</res>

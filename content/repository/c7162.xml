@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7161" nextid="c7163" id="c7162">
+   <header>
+      <usage ms="Hyd" code="05027000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Misericordiam et iudicium cantabo tibi domine psallam et intelligam in via immaculata quando venies ad me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D Hyd"> Perambulabam in innocentia</rdg>
+            <rdg wit="CAO-B"> Perambulabam innocentia</rdg>
+            <rdg wit="CAO-V CAO-F CAO-S"> Perambulabam in innocentiam</rdg>
+         </app> cordis mei in medio domus meae</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F">In via</rep>
+      <rep type="r" wit="CAO-S Hyd">Psallam</rep>
+   </verses>
+</res>

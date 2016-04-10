@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4821" nextid="c4823" id="c4822">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-L"> Saule quid persequeris martyrem meum Stephanum</rdg>
+         <rdg wit="CAO-C"> Dicit dominus Saule Saule quid persequeris <del status="unremarkable">me</del> martyrem meum Stephanum</rdg>
+         <rdg wit="CAO-E"> Saule <add>Saule</add> quid persequeris martyrem meum Stephanum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-L"> ego te faciam servum meum</rdg>
+         <rdg wit="CAO-C"> ego te faciam servo meo</rdg>
+      </app>
+   </aBody>
+</ant>

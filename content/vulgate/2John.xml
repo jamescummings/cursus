@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="2John">
+<body>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.2John.001.001">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>senior electae dominae et natis eius quos ego diligo in veritate et non ego solus sed et omnes qui cognoverunt veritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.002">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>propter veritatem quae permanet in nobis et nobiscum erit in aeternum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.003">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>sit nobiscum gratia misericordia pax a Deo Patre et a Christo Iesu Filio Patris in veritate et caritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.004">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>gavisus sum valde quoniam inveni de filiis tuis ambulantes in veritate sicut mandatum accepimus a Patre</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.005">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>et nunc rogo te domina non tamquam mandatum novum scribens tibi sed quod habuimus ab initio ut diligamus alterutrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.006">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et haec est caritas ut ambulemus secundum mandata eius hoc mandatum est ut quemadmodum audistis ab initio in eo ambuletis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.007">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>quoniam multi seductores exierunt in mundum qui non confitentur Iesum Christum venientem in carne hic est seductor et antichristus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.008">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>videte vosmet ipsos ne perdatis quae operati estis sed ut mercedem plenam accipiatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.009">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>omnis qui praecedit et non manet in doctrina Christi Deum non habet qui permanet in doctrina hic et Filium et Patrem habet</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.010">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>si quis venit ad vos et hanc doctrinam non adfert nolite recipere eum in domum nec have ei dixeritis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.011">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>qui enim dicit illi have communicat operibus illius malignis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.012">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>plura habens vobis scribere nolui per cartam et atramentum spero enim me futurum apud vos et os ad os loqui ut gaudium vestrum plenum sit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2John.001.013">
+      <reference>
+        <bookName>2John</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>salutant te filii sororis tuae electae</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.2John.001.colophon">
+    <reference>
+      <bookName>2John</bookName>
+      <verseNum>1:colophon</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA IOHANNIS</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

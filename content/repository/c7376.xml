@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7375" nextid="c7377" id="c7376">
+   <rBody wit="CAO-E CAO-S CAO-L"> Per os
+     <app>
+         <rdg wit="CAO-L"> Seustii</rdg>
+         <rdg wit="CAO-E"> Seusti</rdg>
+         <rdg wit="CAO-S"> Seuustii</rdg>
+      </app> clamabat daemon Bartholomaee apostole incendunt me orationes tuae cui dicente
+     <app>
+         <rdg wit="CAO-E CAO-S"> apostolo</rdg>
+         <rdg wit="CAO-L"> apostole</rdg>
+      </app> obmutesce et exi ab eo
+     <app>
+         <rdg wit="CAO-E CAO-S"> statim</rdg>
+         <rdg wit="CAO-L"> statim quod</rdg>
+      </app> a daemonio est liberatus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-E CAO-L"> Per multos enim annos</rdg>
+            <rdg wit="CAO-S"> Per multis enim annis</rdg>
+         </app> fuerat
+      <app>
+            <rdg wit="CAO-E CAO-L"> Seustius</rdg>
+            <rdg wit="CAO-S"> Seuustius</rdg>
+         </app> a daemonio fatigatus</vBody>
+      <rep type="r" wit="CAO-E CAO-L">Cui</rep>
+      <rep type="r" wit="CAO-S">Statim</rep>
+   </verses>
+</res>

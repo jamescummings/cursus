@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6553" nextid="c6555" id="c6554">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Dum perambularet dominus</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> Dum deambularet dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-D CAO-F CAO-L"> supra mare</rdg>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-S"> iuxta mare</rdg>
+      </app> secus littus
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Galilaeae</rdg>
+         <rdg wit="CAO-L"> Galile</rdg>
+      </app> vidit Petrum et Andream
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> retia mittentes</rdg>
+         <rdg wit="CAO-L"> retiam mittentes</rdg>
+         <rdg wit="CAO-C"> retia mittentes et</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in mare</rdg>
+         <rdg wit="CAO-C"> in mari</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> vocavit eos</rdg>
+         <rdg wit="CAO-S"> vocabit eos</rdg>
+      </app> dicens venite post me faciam vos
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> piscatores hominum</rdg>
+         <rdg wit="CAO-L"> fieri piscatores hominum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> Erant enim piscatores
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D"> et ait illis</rdg>
+            <rdg wit="CAO-S"> et vocabit eos</rdg>
+            <rdg wit="CAO-F"> et vocavit eos dicens</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-M CAO-V"> Exaudi deus deprecationem meam intende orationi meae a finibus terrae</vBody>
+      <vBody type="r" wit="CAO-L"> Et relictis retibus et navi secuti sunt dominum vocantem se ac dicentem</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Venite</rep>
+      <rep type="r" wit="CAO-C CAO-M CAO-V"> Vocavit</rep>
+   </verses>
+</res>

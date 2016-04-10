@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7426" nextid="c7428" id="c7427">
+   <header>
+      <usage ms="Hyd" code="10100000">matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-F CAO-S Hyd"> Praevaluit David in Philistaeo in funda
+     <app>
+         <rdg wit="CAO-F CAO-S Hyd"> et lapide</rdg>
+         <rdg wit="CAO-C"> et lapidem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F Hyd"> in nomine domini agminum</rdg>
+         <rdg wit="CAO-S"> in nomine domini</rdg>
+      </app> dei Israel</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-F CAO-S"> Ut sciat omnis terra quia est deus in Israel
+      <app>
+            <rdg wit="CAO-F"> quia neque in arcu neque in hasta salvat dominus</rdg>
+            <rdg wit="CAO-C"> quia non in gladio nec in hasta salvet dominus</rdg>
+            <rdg wit="CAO-S"> deus magnus super omnes deos</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="Hyd"> Abstulit ergo opprobrium a filiis Israel</vBody>
+      <rep type="r" wit="CAO-C CAO-F">Agminum</rep>
+      <rep type="r" wit="CAO-S">In nomine</rep>
+      <rep type="r" wit="Hyd"> In funda</rep>
+   </verses>
+</res>

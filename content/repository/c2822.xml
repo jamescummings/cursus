@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2821" nextid="c2823" id="c2822">
+   <aBody wit="CAO-M CAO-D CAO-F"> Exsurge domine adiuva nos et libera nos
+     <app>
+         <rdg wit="CAO-M CAO-F"> propter nomen tuum</rdg>
+         <rdg wit="CAO-D"> propter nomen tuum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7711" nextid="c7713" id="c7712">
+   <rBody wit="CAO-C CAO-E CAO-D CAO-S"> Suadens Decius Hippolyto dixit
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-S"> numquid tu non es cultor deorum</rdg>
+         <rdg wit="CAO-C"> numquid tu cultor deorum fuisti</rdg>
+      </app> sacrifica diis
+     <app>
+         <rdg wit="CAO-D CAO-S"> et fruere palma militiae</rdg>
+         <rdg wit="CAO-C"> fruere palma militiae</rdg>
+         <rdg wit="CAO-E"> et frueris palmam militiae</rdg>
+      </app> respondens Hippolytus dixit
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-S"> miles Christi ego sum</rdg>
+         <rdg wit="CAO-C"> christianus ego sum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> et militiam martyrum</rdg>
+         <rdg wit="CAO-D"> et vestigia martyrum</rdg>
+         <rdg wit="CAO-C"> et vestigium <gap extent="one word"/>
+         </rdg>
+         <rdg wit="CAO-S"> et militiam martyris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-S"> adipisci cupio</rdg>
+         <rdg wit="CAO-E"> adipisci merui</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Caeco illuminato a sancto Laurentio Hippolytus credidit</vBody>
+      <vBody type="r" wit="CAO-D"> Iussit Decius militibus dicens exuite Hippolytum veste et fustibus caedite et cum caederetur dixit</vBody>
+      <vBody type="r" wit="CAO-S"> Iussit Valerianus in conspectu Hippolyti ut omnis familia eius capite truncaretur</vBody>
+      <vBody type="r" wit="CAO-C"> Tunc beatus Hippolytus voce clara dicebat militia mea fides christiana</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-S"> Miles</rep>
+   </verses>
+</res>

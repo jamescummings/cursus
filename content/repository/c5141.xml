@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5140" nextid="c5142" id="c5141">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Tetradius cognita dei virtute</rdg>
+         <rdg wit="CAO-V CAO-L"> Tetradius cognita dei virtutem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-R CAO-D CAO-S"> ad baptismi gratiam pervenit</rdg>
+         <rdg wit="CAO-M CAO-H"> a beatissimo gratiam percepit</rdg>
+         <rdg wit="CAO-V CAO-L"> ad beatissimam gratiam pervenit</rdg>
+         <rdg wit="CAO-F"> ad baptismi gratiam <corr sic="percepit">pervenit</corr>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

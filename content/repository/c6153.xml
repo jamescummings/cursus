@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6152" nextid="c6153b" id="c6153">
+   <header>
+      <usage ms="Hyd" code="08031000">matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd"> Audivi vocem in caelo</rdg>
+         <rdg wit="CAO-B CAO-R"> Audivi vocem de caelo</rdg>
+      </app> tamquam vocem tonitrui magni alleluia
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F Hyd"> regnabit</rdg>
+         <rdg wit="CAO-C CAO-R CAO-S CAO-L"> regnavit</rdg>
+      </app> deus noster in aeternum alleluia quia facta est salus et virtus et potestas Christi eius alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-D Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-D Hyd"> Vidi angelum dei</rdg>
+            <rdg wit="CAO-B"> Vidi angelum dei fortem</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-D Hyd"> volantem per medium caeli</rdg>
+            <rdg wit="CAO-C CAO-M CAO-V"> volantem per medium caelum</rdg>
+         </app> voce magna clamantem et dicentem</vBody>
+      <vBody type="r" wit="CAO-R"> Vidi angelum</vBody>
+      <vBody type="r" wit="CAO-E"> Vidi angelum dei</vBody>
+      <vBody id="c6153-2" type="r" wit="CAO-F"> Vidi angelum dei volantem per medium caeli voce magnam clamentem et dicentem</vBody>
+      <rep corresp="c6153-2" type="r" wit="CAO-F"> Regnabit</rep>
+      <vBody type="r" wit="CAO-S CAO-L"> Et vox de throno exivit dicens laudem dicite deo nostro omnes servi eius et qui timetis deum pusilli et magni</vBody>
+      <vBody id="c6153-1" type="r" num="2" wit="CAO-F"> Et vox de throno exivit dicens laudem dicite deo nostro omnes servi eius et qui timetis deum pusilli et magni</vBody>
+      <rep corresp="c6153-1" type="r" wit="CAO-F"> Quia</rep>
+      <rep type="r" wit="CAO-G CAO-M CAO-V CAO-H CAO-D Hyd">Regnabit</rep>
+      <rep type="r" wit="CAO-C CAO-R"> Regnavit</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-S CAO-L"> Quia</rep>
+   </verses>
+</res>

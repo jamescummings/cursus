@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1344b" nextid="c1346" id="c1345">
+   <aBody wit="CAO-B CAO-E CAO-H CAO-R CAO-D">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> Alleluia lapis revolutus est</rdg>
+         <rdg wit="CAO-E"> Alleluia lapis revolutus est alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R"> ab ostio monumenti</rdg>
+         <rdg wit="CAO-D"> ab ore monumenti alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> quia surrexit dominus alleluia alleluia</rdg>
+         <rdg wit="CAO-D"> quia surrexit dominus alleluia</rdg>
+         <rdg wit="CAO-E"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

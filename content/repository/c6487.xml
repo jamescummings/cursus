@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6486" nextid="c6488" id="c6487">
+   <rBody wit="CAO-E CAO-V CAO-D CAO-L"> Doleo super te frater mi
+      <app>
+         <rdg wit="CAO-D CAO-L"> Jonatha</rdg>
+         <rdg wit="CAO-E"> Jonathas</rdg>
+         <rdg wit="CAO-V"> Jonathe</rdg>
+      </app> amabilis valde super
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-L"> amorem</rdg>
+         <rdg wit="CAO-V"> amore</rdg>
+      </app> mulierum
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-L"> fortior leonibus velocior aquilis</rdg>
+         <rdg wit="CAO-E" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> sagitta Jonathae numquam
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-D"> abiit</rdg>
+         <rdg wit="CAO-L"> rediit</rdg>
+      </app> retrorsum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> Filiae Israel super Saul flete qui vestiebat vos coccino in deliciis vestris</vBody>
+      <vBody type="r" wit="CAO-L"> Montes Gelboe nec ros nec pluvia veniant super vos ubi ceciderunt fortes Israel</vBody>
+      <vBody type="r" wit="CAO-E"> Nec declinavit clipeus eius de bello et hasta eius non est adversa</vBody>
+      <vBody type="r" wit="CAO-D"> Saul et Jonathas amabiles et decori in vita sua in morte quoque non sunt divisi</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-D CAO-L"> Sagitta</rep>
+   </verses>
+</res>

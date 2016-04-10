@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4160" nextid="c4162" id="c4161">
+   <header>
+      <usage ms="Alb2" code="07035000"/>
+      <usage ms="Bat" code="07035000">[55v] lauds gosp</usage>
+      <usage ms="Cdm" code="07035000">[66v] lauds gosp</usage>
+      <usage ms="Cht" code="07035000"/>
+      <usage ms="Ely" code="07035000"/>
+      <usage ms="Evm" code="07035000"/>
+      <usage ms="Glo" code="07035000"/>
+      <usage ms="Mch" code="07035000">[134v] lauds gosp</usage>
+      <usage ms="Pet" code="07035000"/>
+      <usage ms="Wcb" code="07035000"/>
+      <usage ms="Wor" code="07035000"/>
+   </header>
+   <aBody wit="CAO-F Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch Bat"> Operamini non cibum qui perit sed qui permanet in vitam aeternam</aBody>
+   <aBody wit="Glo" type="incipit"> Operamini non cibum qui perit</aBody>
+</ant>

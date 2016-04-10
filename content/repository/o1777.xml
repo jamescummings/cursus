@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1776" nextid="o1778" id="o1777">
+   <header>
+      <usage ms="Mch" code="07031000">[132v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Fulda no.452</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Mch"> Tuis quaesumus domine adesto supplicibus et inter mundanae pravitatis insidias fragilitatem nostram sempiterna pietate prosequere</pBody>
+</prayer>

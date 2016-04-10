@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3923" nextid="c3925" id="c3924">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Non meis meritis ad vos me misit dominus
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-L"> ad vestras coronas</rdg>
+         <rdg wit="CAO-E CAO-F CAO-S"> vestris coronis</rdg>
+         <rdg wit="CAO-B CAO-H"> sed vestrae coronae</rdg>
+         <rdg wit="CAO-R"> sed ut vestrae coronae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> participem me fieri</rdg>
+         <rdg wit="CAO-L"> participem fieri</rdg>
+      </app>
+   </aBody>
+</ant>

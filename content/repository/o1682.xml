@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1681" nextid="o1683" id="o1682">
+   <header>
+      <usage ms="Hyd" code="08016000">[104v] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.423</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Omnipotens sempiterne deus qui paschale sacramentum in reconciliatione humanae foedere contulisti da mentibus nostris ut quod professione celebramus imitemur effectu</pBody>
+</prayer>

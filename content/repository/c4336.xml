@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4335" nextid="c4337" id="c4336">
+   <header>
+      <usage ms="Glo" code="14120600">[14r] vesp2-a4</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Glo">
+      <app>
+         <rdg wit="CAO-D CAO-F Glo"> Postquam domi puerilem decurrit aetatem</rdg>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-L"> Postquam domi puerilem decursat aetatem</rdg>
+         <rdg wit="CAO-S"> Postquam domi puerilem decursa aetatem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Glo"> cunctis mundi huius spretis oblectationibus</rdg>
+         <rdg wit="CAO-L"> cunctis mundi huius spletis oblectationibus</rdg>
+      </app> Christi se iugo subiciens
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-D CAO-F CAO-S Glo"> documentis sanctis suum praebuit auditum</rdg>
+         <rdg wit="CAO-L"> documentis sacris suum praebuit auditum</rdg>
+         <rdg wit="CAO-R"> documentis sanctis suis praebuit auditum</rdg>
+      </app>
+   </aBody>
+</ant>

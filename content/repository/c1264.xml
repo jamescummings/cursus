@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1263" nextid="c1265" id="c1264">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Adest namque beati <name reg="Dionysius" type="saint">Dionysii</name>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S"> sacratissima dies</rdg>
+         <rdg wit="CAO-D"> sanctissima dies</rdg>
+      </app> in qua triumphans agonem explevit et
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-R CAO-D CAO-S"> coronam victoriae</rdg>
+         <rdg wit="CAO-B CAO-H CAO-F"> coronam martyrii</rdg>
+      </app> accipere meruit de manu domini</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Ac testis domini Jesus pretiosus senatum possedit sidereum</vBody>
+   </verses>
+</ant>

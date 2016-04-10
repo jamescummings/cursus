@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7089" nextid="c7091" id="c7090">
+   <rBody wit="CAO-E CAO-M CAO-D CAO-F"> Levita Vincentius dixit beato Valerio si iubes pater sancte responsis
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> iudicem</rdg>
+         <rdg wit="CAO-M"> iudicis</rdg>
+      </app> aggrediar iam tibi fili carissime
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> divini verbi</rdg>
+         <rdg wit="CAO-M"> divinis verbis</rdg>
+      </app> curam commiseram nunc quoque pro fide qua
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> adstamus</rdg>
+         <rdg wit="CAO-M"> stamus</rdg>
+      </app> responsa committo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-D CAO-F"> Tibi enim gemina scientia pollenti ac superni amoris igne ferventi caelestis olim doctrinae ministerium delegavi</vBody>
+      <vBody type="r" wit="CAO-E"> Sanctitate quoque insignis diaconii arce suscepta</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-D CAO-F">Nunc</rep>
+   </verses>
+</res>

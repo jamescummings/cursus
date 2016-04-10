@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4106" nextid="c4108" id="c4107">
+   <header>
+      <usage ms="Cdm" code="07061000">[75v] vesp2</usage>
+      <usage ms="Cht" code="07061000">[55v] lauds</usage>
+      <usage ms="Ely" code="07061000">[86r] terce</usage>
+      <usage ms="Evm" code="07061000">[144r] lauds</usage>
+      <usage ms="Glo" code="07061000">[73v] procession-a1</usage>
+      <usage ms="Hyd" code="07061000">[91v] terce</usage>
+      <usage ms="Mch" code="07061000">[155r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07061000">[86r] sext</usage>
+      <usage ms="Wcb" code="07061000">[113r] lauds</usage>
+      <usage ms="Wor" code="07061000">[57r] vesp2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch"> Occurrunt turbae cum floribus et palmis
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch">redemptori obviam</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R">redemptori domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch">et victori</rdg>
+         <rdg wit="CAO-S">et potenti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm">triumphanti</rdg>
+         <rdg wit="Mch">triumphantes</rdg>
+         <rdg wit="CAO-M">triumphantis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch">digna dant obsequia</rdg>
+         <rdg wit="CAO-B CAO-R CAO-F">digne dant obsequia</rdg>
+         <rdg wit="CAO-H">dignum dant obsequium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Glo Cdm">filium dei</rdg>
+         <rdg wit="CAO-D CAO-F Pet">filio dei</rdg>
+         <rdg wit="Mch">
+            <corr rend="overwrite" sic="filium">filio</corr> dei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch">ore gentes praedicant</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R">olim gentes praedicant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch">et in laudem Christi</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-L">et in laude Christi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch"> voces</rdg>
+         <rdg wit="CAO-H CAO-R"> voce</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L Evm Glo Mch">tonant per nubila hosanna</rdg>
+         <rdg wit="CAO-C Ely Wor Cht Hyd Pet Wcb Cdm">sonant per nubila hosanna</rdg>
+         <rdg wit="CAO-H">tonantes iubilant hosanna</rdg>
+      </app>
+   </aBody>
+</ant>

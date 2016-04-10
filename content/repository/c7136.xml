@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7135" nextid="c7137" id="c7136">
+   <rBody wit="CAO-E CAO-F"> Martyres Thebaei beati nobiles virtute nobiliores fide evangelici praecepti sub armis nequaquam immemores reddebant quae Dei erant Deo et quae Caesaris Caesari restituebant</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F">
+         <app>
+            <rdg wit="CAO-E"> Erat in eodem loco exercitus</rdg>
+            <rdg wit="CAO-F"> Erant eodem tempore in exercitu</rdg>
+         </app> legio militum qui Thebaei appellabantur</vBody>
+      <rep type="r" wit="CAO-E">Evangelici</rep>
+      <rep type="r" wit="CAO-F">Reddebant</rep>
+   </verses>
+</res>

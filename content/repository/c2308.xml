@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2307" nextid="c2309" id="c2308">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dixit Romanus ad beatum Laurentium
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-D"> video in te iuvenem pulcherrimum</rdg>
+         <rdg wit="CAO-E CAO-F CAO-S"> video ante te iuvenem pulcherrimum</rdg>
+         <rdg wit="CAO-H CAO-R"> video ante te hominem pulcherrimum</rdg>
+         <rdg wit="CAO-L"> video in te hominem pulcherrimum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> festina me baptizare</rdg>
+         <rdg wit="CAO-F"> festina me baptizari</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Afferens autem urceum cum aqua</rdg>
+            <rdg wit="CAO-B"> Afferens urceum cum aqua</rdg>
+         </app> misit se ad pedes eius</vBody>
+   </verses>
+</ant>

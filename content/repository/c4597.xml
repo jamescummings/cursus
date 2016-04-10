@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4596" nextid="c4598" id="c4597">
+   <aBody wit="CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Regina caeli laetare alleluia</l>
+         <l part="N"> quia quem meruisti portare alleluia</l>
+         <l part="N"> resurrexit sicut dixit alleluia</l>
+         <l part="N"> ora pro nobis ad deum alleluia</l>
+      </lg>
+   </aBody>
+</ant>

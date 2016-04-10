@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1290" nextid="c1292" id="c1291">
+   <header>
+      <usage ms="Evm" code="02010100">[61v] lauds commemoratio</usage>
+      <usage ms="Wcb" code="02122800">[63v] matins-n2-a9</usage>
+   </header>
+   <aBody wit="CAO-E Evm Wcb"> Adoraverunt viventem in saecula saeculorum mittentes coronas suas ante thronum domini dei sui</aBody>
+</ant>

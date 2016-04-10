@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1706" nextid="o1708" id="o1707">
+   <header>
+      <usage ms="Cdm" code="07012000">[58v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Esto domine quaesumus propitius plebi tuae et temporali consolatione non deseras quamvis ad aeterna conscendere</pBody>
+</prayer>

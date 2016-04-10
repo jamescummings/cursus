@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Judith">
+<body>
+  <rubric type="bible-incipit" id="B.Judith.incipit.001">
+    <reference>
+      <bookName>Judith</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT LIBER IUDITH</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Judith.001.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Arfaxat itaque rex Medorum subiugaverat multas gentes imperio suo et ipse aedificavit civitatem potentissimam quam appellavit Igbathanis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>ex lapidibus quadratis et sectis fecit muros eius in altitudine cubitorum septuaginta et in latitudine cubitorum triginta turres vero eius posuit in altitudinem cubitorum centum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>per quadrum vero earum latus utrumque vicenorum pedum spatio tendebatur posuitque portas eius in altitudine turrium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>et gloriabatur quasi potens in potentia exercitus sui et in gloria quadrigarum suarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>anno igitur duodecimo regni sui Nabuchodonosor rex Assyriorum qui regnabat in Nineven civitatem magnam pugnavit contra Arfaxat et obtinuit eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>in campo magno qui appellatur Ragau circa Eufraten et Tigrin et Hyadas in campo Erioch regis Elicorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>tunc exaltatum est regnum Nabuchodonosor et cor eius elatum est et misit ad omnes qui habitabant in Cilicia et Damasco et Libano</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>et ad gentes quae sunt in Carmelo et Cedar et inhabitantes Galileam in campo magno Hesdraelon</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et ad omnes qui erant in Samaria et trans flumen Iordanem usque Hierusalem et omnem terram Iesse quousque perveniatur ad montes Aethiopiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>ad hos omnes misit nuntios Nabuchodonosor rex Assyriorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>qui omnes uno animo contradixerunt et remiserunt eos vacuos ac sine honore abiecerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.001.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>tunc indignatus est Nabuchodonosor rex ad omnem terram illam et iuravit per regnum et thronum suum quod defenderet se de omnibus regionibus his</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Judith.002.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>anno tertiodecimo Nabuchodonosor regis vicesima et secunda die mensis primi factum est verbum in domo Nabuchodonosor regis Assyriorum ut defenderet se</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>vocavitque omnes maiores omnesque duces bellatores suos et habuit cum eis mysterium consilii sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>dixitque cogitationem suam in eo esse ut omnem terram suo subiugaret imperio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>quod dictum cum placuisset omnibus vocavit Nabuchodonosor rex Holofernem principem militiae suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>et dixit egredere adversum omne regnum occidentis et contra eos praecipue qui contempserunt imperium meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>non parcet oculus meus ulli regno omnemque urbem munitam subiugabis mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>tunc Holofernis vocavit duces et magistratus virtutis Assyriorum et dinumeravit viros in expeditione sicut praecepit ei rex centum viginti milia peditum pugnatorum et equites sagittarios duodecim milia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>omnemque expeditionem suam fecit praeire multitudinem innumerabilium camelorum cum his quae exercitibus sufficerent copiose boum quoque armenta gregesque ovium quorum non erat numerus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>frumentum ex omni Syria in transitu suo parari constituit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>aurum vero et argentum de domo regis adsumpsit multum nimis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>et profectus est ipse et omnis exercitus cum quadrigis et equitibus et sagittariis qui cooperuerunt faciem terrae sicut lucustae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>cumque pertransisset fines Assyriorum venit ad magnos montes Angae qui sunt a sinistro Ciliciae ascenditque omnia castella eorum et obtinuit omnem munitionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>effregit autem civitatem opinatissimam Meluthi praedavitque omnes filios Tharsis et filios Ismahel qui erant contra faciem deserti et ad austrum terrae Celeon</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>et transiit Eufraten et venit ad Mesopotamiam et fregit omnes civitates excelsas quae erant ibi a torrente Mambre usquequo perveniatur ad mare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>et occupavit terminos eius a Cilicia usque ad fines Iafeth qui sunt ad austrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>abduxitque omnes filios Madian ac praedavit omnem locupletationem eorum omnesque resistentes sibi occidit in ore gladii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>et post haec descendit in campos Damasci in diebus messis et succendit omnia sata omnesque arbores ac vineas fecit incidi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.002.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>et cecidit timor illius super omnes inhabitantes terram</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Judith.003.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>tunc miserunt legatos suos universarum urbium et provinciarum reges ac principes Syriae scilicet Mesopotamiae et Syriae Sobal et Lybiae atque Ciliciae qui venientes ad Holofernem dixerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>desinat indignatio tua circa nos melius est enim ut viventes serviamus Nabuchodonosor regi magno et subditi simus tibi quam morientes cum interitu nostro ipsi servitutis nostrae damna patiamini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>omnis civitas nostra omnisque possessio omnes colles et montes et campi armenta boum greges ovium caprarumque equorum camelorumque et universae facultates nostrae atque familiae in conspectu tuo sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>sint omnia sub lege tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>nos iam et filii nostri servi tui sumus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>veni nobis pacificus dominus et utere servitia nostra sicut placuerit tibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>tunc descendit de montibus cum equitibus in virtute magna et obtinuit omnem civitatem et omnem inhabitantem terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>de universis autem urbibus adsumpsit sibi auxiliarios viros fortes et electos ad bellum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>tantusque metus provinciis illius incubuit ut universarum urbium habitatores principes et honorati simul cum populis exirent in obviam venienti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>excipientes eum cum coronis et lampadibus ducentes choros in tibiis et tympanis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>nec ista tamen facientes ferocitatem eius pectoris mitigare potuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>nam et civitates eorum destruxit et lucos eorum excidit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>praeceperat enim illi Nabuchodonosor rex ut omnes deos terrae exterminaret videlicet ut ipse solus diceretur deus ab his nationibus quae potuissent Holofernis potentia subiugari</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>pertransiens autem Syriam Subal et omnem Apamiam omnemque Mesopotamiam venit ad Idumeos in terra Gabaa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.003.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>accepitque civitates eorum et sedit ibi per triginta dies in quibus diebus adunari praecepit universum exercitum virtutis suae</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Judith.004.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>tunc audientes haec filii Israhel qui habitabant in terra Iudaeae timuerunt valde a facie eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>tremor etiam et horror invasit sensus eorum ne hoc faceret Hierusalem et templo Domini quod fecerat ceteris civitatibus et templis earum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>et miserunt in omnem Samariam per circuitum usque Hiericho et praeoccupaverunt omnes vertices montium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>et muris circumdederunt vicos suos et congregaverunt frumenta in praeparatione pugnae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>sacerdos etiam Heliachim scripsit ad universos qui erant contra Hesdraelon quae est contra faciem campi magni iuxta Dothain et universis per quos transitus esse poterat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>ut obtinerent ascensus montium per quos via esse poterat ad Hierusalem ut illic custodirent ubi angustum iter esse poterat inter montes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>et fecerunt filii Israhel secundum quod constituerat eis sacerdos Domini Heliachim</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>et clamavit omnis populus ad Dominum instantia magna et humiliaverunt animas suas in ieiuniis ipsi et mulieres eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>et induerunt se sacerdotes ciliciis et infantes prostraverunt contra faciem templi Domini et altare Domini operuerunt cilicio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>et clamaverunt ad Deum Israhel unianimiter ne darentur in praedam infantes eorum et uxores eorum in divisionem et civitates eorum in exterminium et sancta eorum in pollutionibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>tunc Heliachim sacerdos Domini magnus circuivit omnem Israhel adlocutusque est eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>dicens scitote quoniam exaudivit Dominus preces vestras si manentes permanseritis in ieiuniis et orationibus in conspectu Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>memores estote Mosi servi Domini qui Amalech confidentem in virtute sua et in potentia sua et in exercitu suo et in clypeis suis et in curribus suis et in equitibus suis non ferro pugnando sed precibus sanctis orando deiecit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>sic erunt universi hostes Israhel si perseveraveritis in hoc opere quo coepistis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>ad hanc igitur exhortationem eius deprecantes Dominum permanebant in conspectu Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>ita ut etiam hii qui holocausta Domino offerebant praecincti ciliciis offerrent sacrificia Domino et erat cinis super capita eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.004.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>et ex toto corde suo omnes orabant Deum ut visitaret populum suum Israhel</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Judith.005.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>nuntiatumque est Holoferni principi militiae Assyriorum quod filii Israhel praepararent se ad resistendum ac montium itinera conclusissent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>et furore nimio exarsit iracundia magna vocavitque omnes principes Moab et duces Ammon</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>et dixit eis dicite mihi quid sit populus iste qui montana obsidet aut quae et quales et quantae sint civitates eorum quae etiam sit virtus eorum aut quae sit multitudo eorum vel quis rex militiae illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>quare prae omnibus qui habitant in oriente isti contempserunt et non exierunt in obviam nobis ut susciperent nos cum pace</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>tunc Achior dux omnium filiorum Ammon respondens ait si digneris audire domine meus dicam veritatem in conspectu tuo de populo isto qui in montanis habitat et non egredietur verbum falsum ex ore meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>populus iste ex progenie Chaldeorum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>hic primum in Mesopotamiam habitavit quoniam noluerunt sequi deos patrum suorum qui erant in terra Chaldeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>deserentes itaque caerimonias patrum suorum quae in multitudine deorum erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>unum Deum caeli coluerunt qui et praecepit eis ut exirent inde et habitarent in Charam cumque cooperuisset omnem terram fames descenderunt in Aegyptum illicque per quadringentos annos sic multiplicati sunt ut dinumerari eorum non possit exercitus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>cumque gravaret eos rex Aegypti atque in aedificationibus urbium suarum in luto et latere subiugasset eos clamaverunt ad Deum suum et percussit totam terram Aegypti plagis variis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>cumque eiecissent eos a se Aegyptii et cessasset plaga ab eis et iterum eos vellent capere et ad suum servitium revocare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>fugientibus his Deus caeli mare aperuit ita ut hinc inde aquae quasi murus solidarentur et isti pede sicco fundum maris perambulando transirent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>in quo loco dum innumerabilis exercitus Aegyptiorum eos persequeretur ita aquis coopertus est ut non remaneret vel unus qui factum posteris nuntiaret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>egressis etiam mare Rubrum deserta Sina montis occurrerunt in quibus numquam homo habitare potuit vel filius hominis requievit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>illic fontes amari obdulcati sunt eis ad bibendum et per annos quadraginta annonam de caelo consecuti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>ubicumque ingressi sunt sine arcu et sagitta et absque scuta et gladio Deus eorum pro eis pugnavit et vicit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>et non fuit qui insultaret populo isti nisi quando recessit a cultura Domini Dei sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>quotienscumque autem praeter ipsum Deum suum alterum coluerunt dati sunt in praedam et in gladium et in obprobrium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>quotienscumque autem paenituerunt se recessisse a cultura Dei sui dedit eis Deus caeli virtutem resistendi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>denique Chananeum regem et Iebuseum et Ferezeum et Hettheum et Eveum et Amorreum et omnes potentes in Esebon prostraverunt et terras eorum et civitates eorum ipsi possederunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.021">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>et usque dum non peccarent in conspectu Dei sui erant cum illis bona Deus enim illorum odit iniquitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.022">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>nam et ante hos annos cum recessissent a via quam dederat illis Deus ut ambularent in eam exterminati sunt proeliis multis nationibus et plurimi eorum captivi abducti sunt in terram non suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.023">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>nuper autem reversi ad Deum suum ex dispersione qua dispersi fuerant adunati sunt et ascenderunt montana haec omnia et iterum possident Hierusalem ubi sunt sancta eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.024">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>nunc ergo meus domine perquire si est aliqua iniquitas eorum in conspectu Dei eorum ascendamus ad illos quoniam tradens tradet illos Deus eorum tibi et subiugati erunt sub iugo potentiae tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.025">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:25</verseNum>
+      </reference>
+      <l>si autem non est offensio populi huius coram Deo suo non poterimus resistere illis quoniam Deus eorum defendet illos et erimus in obprobrium universae terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.026">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:26</verseNum>
+      </reference>
+      <l>et factum est cum cessasset loqui Achior verba irati sunt omnes magnates Holofernis et cogitabant interficere eum dicentes ad alterutrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.027">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:27</verseNum>
+      </reference>
+      <l>quis iste est qui filios Israhel posse dicat resistere regi Nabuchodonosor et exercitibus eius homines inermes et sine virtute et sine peritia artis pugnae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.028">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:28</verseNum>
+      </reference>
+      <l>ut ergo agnoscat Achior quoniam fallit nos ascendemus in montana et cum capti fuerint potentes eorum tunc cum eisdem gladio transverberabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.005.029">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>5:29</verseNum>
+      </reference>
+      <l>ut sciat omnis gens quoniam Nabuchodonosor deus terrae est et praeter ipsum alius non est</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Judith.006.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>factum est autem cum cessassent loqui indignatus Holofernis vehementer dixit ad Achior</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>quoniam prophetasti nobis dicens quod gens Israhel defendatur a Deo suo ut ostendam tibi quia non est deus nisi Nabuchodonosor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>cum percusserimus eos omnes sicut hominem unum tunc et ipse cum illis Assyriorum gladio interibis et omnis Israhel tecum perditione disperiet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>et probabis quoniam Nabuchodonosor dominus sit universae terrae tuncque gladius militiae meae transiet per latera tua et confixus cades inter vulneratos Israhel et non respirabis ultra donec extermineris cum illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>porro autem si prophetiam tuam veram existimas non concidat vultus tuus et pallor qui faciem tuam obtinuit abscedat a te si verba mea haec putas impleri non posse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>ut autem noveris quia simul cum illis haec experieris ecce ex hac hora illorum populo sociaberis ut dum dignas mei gladii poenas exceperint ipse simul ultioni subiaceas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>tunc Holofernis praecepit servis suis ut conprehenderent Achior ut ducerent eum in Bethuliam et traderent eum in manu filiorum Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>et accipientes eum servi Holofernis profecti sunt per campestria sed cum adpropinquassent ad montana exierunt contra eos fundibalarii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>illi autem divertentes a latere montis ligaverunt Achior ad arborem manibus et pedibus et sic vinctum de restibus dimiserunt eum et reversi sunt ad dominum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>porro filii Israhel descendentes de Bethulia venerunt ad eum quem solventes duxerunt ad Bethuliam atque in medio populi illum statuentes percontati sunt quid rerum esset quod illum vinctum Assyrii reliquissent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>in diebus illis erant illic principes Ozias filius Micha de tribu Symeon et Carmi qui et Gothonihel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>in medio itaque seniorum et in conspectu omnium Achior dixit omnia quae locutus ipse fuerat ab Holoferne interrogatus et qualiter populus Holofernis voluisset propter hoc verbum interficere eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>quemadmodum ipse Holofernis iratus iusserit eum Israhelitis hac de causa tradi ut dum vinceret filios Israhel tunc etiam ipsum Achior diversis iubeat suppliciis interire propter hoc quod dixisset Deus caeli defensor eorum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>cumque universa Achior exposuisset omnis populus cecidit in faciem adorantes Dominum et communi lamentatione et fletu unianimes preces suas Deo effuderunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>dicentes Domine Deus caeli et terrae intuere superbiam illorum et respice ad nostram humilitatem et faciem tuorum sanctorum adtende et ostende quia non derelinquis praesumentes de te et praesumentes de se et de sua virtute gloriantes humilias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>finito itaque fletu et per totum diem populorum oratione conpleta consolati sunt Achior</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>dicentes Deus patrum nostrorum cuius tu virtutem praedicasti ipse tibi hanc dabit vicissitudinem ut eorum magis tu interitum videas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>cum vero Dominus Deus noster dederit hanc libertatem servis suis sit et tecum Deus in medio nostri ut sicut placuerit tibi ita cum tuis omnibus converseris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>tunc Ozias finito consilio suscepit eum in domum suam et fecit cenam magnam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>et vocatis omnibus presbyteris simul expleto ieiunio refecerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.006.021">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>postea vero convocatus omnis populus et per totam noctem intra ecclesiam oraverunt petentes auxilium a Deo Israhel</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Judith.007.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>Holofernis autem altera die praecepit exercitibus suis ut ascenderent contra Bethuliam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>erant autem pedites bellatorum centum viginti milia et equites viginti duo milia praeter praeparationes virorum illorum quos occupaverat captivitas et adducti fuerant de provinciis et urbibus universae iuventutis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>omnes pariter paraverunt se ad pugnam contra filios Israhel et venerunt per crepidinem montis usque ad apicem qui respicit super Dothain a loco qui dicitur Belma usque Chelmo qui est contra Hesdraelon</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>filii autem Israhel ut viderunt multitudinem illorum prostraverunt se super terram mittentes cinerem super capita sua unianimes orantes ut Deus Israhel misericordiam suam ostenderet super populum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>et adsumentes arma sua bellica sederunt per loca quae angusti itineris tramitem dirigunt inter montuosa et erant custodientes ea tota die et nocte</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>porro Holofernis dum circuit per gyrum repperit quod fons qui influebat aquaeductum illorum a parte australi extra civitatem dirigeret incidi praecepit aquaeductum eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>erant tamen non longe a muris fontes ex quibus furtim videbantur haurire aquam ad refocilandum potius quam ad potandum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>sed filii Ammon et Moab accesserunt ad Holofernem dicentes filii Israhel non in lancea nec in sagitta confidunt sed montes defendunt illos et muniunt illos colles in praecipitio constituti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>ut ergo sine congressione pugnae possis superare eos pone custodes fontium ut non hauriant ex eis et sine gladio interficies eos vel certe fatigati tradent civitatem suam quam putant civitatem montibus positam superari non posse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>et placuerunt verba haec coram Holoferne et coram omnibus satellitibus eius et constituit per gyrum centenarios per singulos fontes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>cumque ista custodia per dies viginti fuisset expleta defecerunt cisternae et collectiones aquarum omnibus inhabitantibus in Bethuliam ita ut non esset intra civitatem unde satiarentur vel una die quoniam ad mensuram dabatur populis aqua cotidie</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>tunc ad Oziam congregati omnes viri feminaeque iuvenes et parvuli simul omnes una voce</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>dixerunt iudicet Deus inter nos et te quoniam fecisti in nos mala nolentes loqui pacifice cum Assyriis et propter hoc vendidit nos Deus in manibus eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>et ideo non est qui adiuvet cum prosternamur ante oculos eorum in siti et perditione magna</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>et nunc congregate universos qui in civitate sunt ut sponte nos tradamus omnes populo Holofernis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>melius est enim ut captivi benedicamus Deum viventes quam moriamur et simus obprobrium omni carni cum videamus uxores nostras et infantes nostros mori ante oculos nostros</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>contestamur hodie caelum et terram et Deum patrum nostrorum qui ulciscitur nos secundum peccata nostra ut iam tradatis civitatem in manu militiae Holofernis et sit finis noster brevis in ore gladii qui longior efficitur in ariditate sitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:18</verseNum>
+      </reference>
+      <l>et cum haec dixissent factus est fletus et ululatus magnus in ecclesia omnibus et per multas horas una voce clamaverunt ad Deum dicentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:19</verseNum>
+      </reference>
+      <l>peccavimus cum patribus nostris iniuste egimus iniquitatem fecimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:20</verseNum>
+      </reference>
+      <l>tu quia pius es miserere nostri aut in tuo flagello vindica iniquitates nostras et noli tradere confitentes te populo qui ignorat te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.021">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:21</verseNum>
+      </reference>
+      <l>ut non dicant inter gentes ubi est Deus eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.022">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:22</verseNum>
+      </reference>
+      <l>et cum fatigati his clamoribus et his fletibus lassati siluissent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.023">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:23</verseNum>
+      </reference>
+      <l>exsurgens Ozias infusus lacrimis dixit aequo animo estote fratres et hos quinque dies expectemus a Domino misericordiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.024">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:24</verseNum>
+      </reference>
+      <l>forsitan enim indignationem suam abscidet et dat gloriam nomini suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.007.025">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>7:25</verseNum>
+      </reference>
+      <l>si autem transactis quinque diebus non venerit adiutorium faciemus haec verba quae locuti estis</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Judith.008.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>et factum est cum audisset haec Iudith vidua quae erat filia Merari filii Idox filii Ioseph filii Oziae filii Elai filii Iamnor filii Gedeon filii Rafoin filii Acitob filii Melchiae filii Enam filii Nathaniae filii Salathihel filii Symeon filii Ruben</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>et vir eius fuit Manasses qui mortuus est in diebus messis hordiariae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>instabat enim super alligantes manipulos in campo et venit aestus super caput eius et mortuus est in Bethuliam civitatem suam et sepultus est illic cum patribus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>erat autem Iudith relicta eius vidua iam annis tribus et mensibus sex</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>et in superioribus domus suae fecit sibi secretum cubiculum in quo cum puellis suis clausa morabatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>et habens super lumbos suos cilicium ieiunabat omnibus diebus vitae suae praeter sabbata et neomenia et festa domus Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>erat autem eleganti aspectu nimis cui vir suus reliquerat divitias multas et familiam copiosam ac possessiones armentis boum et gregibus ovium plenas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>et erat haec in eo omnibus famosissima quoniam timebat Dominum valde nec erat qui loqueretur de illa verbum malum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>haec itaque cum audisset quoniam Ozias promisisset quod transacto quinto die traderet civitatem misit ad presbyteros Chabri et Carmin</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>et venerunt ad illam et dixit illis quod est hoc verbum in quo consensit Ozias ut tradat civitatem Assyriis si intra quinque dies non venerit vobis adiutorium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>et qui estis vos qui temptatis Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>non est iste sermo qui misericordiam provocet sed potius qui iram excitet et furorem accendat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>posuistis vos tempus miserationis Domini et in arbitrium vestrum diem constituistis ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>sed quia patiens est Dominus in hoc ipso paeniteamur et indulgentiam eius lacrimis postulemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>non enim quasi homo Deus sic comminabitur neque sicut filius hominis ad iracundiam inflammabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>et ideo humiliemus illi animas nostras et in spiritu constituti humiliato servientes illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>dicamus flentes Domino ut secundum voluntatem suam sic faciat nobiscum misericordiam suam ut sicut conturbatum est cor nostrum in superbia eorum ita etiam de nostra humilitate gloriemur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:18</verseNum>
+      </reference>
+      <l>quoniam non sumus secuti peccata patrum nostrorum qui dereliquerunt Deum suum et adoraverunt deos alienos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:19</verseNum>
+      </reference>
+      <l>pro scelere quo dati sunt in gladium et in rapinam et in confusionem inimicis suis nos autem alterum deum nescimus praeter ipsum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:20</verseNum>
+      </reference>
+      <l>expectemus humiles consolationem eius et exquiret sanguinem nostrum de adflictionibus inimicorum nostrorum et humiliabit omnes gentes quaecumque insurgunt contra nos et faciet illas sine honore Dominus Deus noster</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.021">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:21</verseNum>
+      </reference>
+      <l>et nunc fratres quoniam vos qui estis presbyteri in populo Dei ex vobis pendet anima illorum adloquio vestro corda eorum erigite ut memores sint quia temptati sunt patres nostri ut probarentur si vere colerent Deum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.022">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:22</verseNum>
+      </reference>
+      <l>memores esse debent quomodo pater noster Abraham temptatus est et per multas tribulationes probatus Dei amicus effectus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.023">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:23</verseNum>
+      </reference>
+      <l>sic Isaac sic Iacob sic Moses et omnes qui placuerunt Deo per multas tribulationes transierunt fideles</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.024">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:24</verseNum>
+      </reference>
+      <l>illi autem qui temptationes non susceperunt cum timore Domini et patientia sua inproperium murmurationis suae contra Dominum protulerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.025">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:25</verseNum>
+      </reference>
+      <l>exterminati sunt ab exterminatore et a serpentibus perierunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.026">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:26</verseNum>
+      </reference>
+      <l>et nos ergo non ulciscamur nos pro his quae patimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.027">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:27</verseNum>
+      </reference>
+      <l>sed reputantes peccatis nostris haec ipsa minora esse supplicia flagella Domini quasi servi qui corripimur ad emendationem non ad perditionem nostram evenisse credamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.028">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:28</verseNum>
+      </reference>
+      <l>et dixerunt illi Ozias et presbyteri omnia quae locuta es vera sunt et non est in sermonibus tuis ulla reprehensio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.029">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:29</verseNum>
+      </reference>
+      <l>nunc ergo ora pro nobis quoniam mulier sancta es et timens Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.030">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:30</verseNum>
+      </reference>
+      <l>et dixit illis Iudith sicut quod loqui potui Dei esse cognoscitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.031">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:31</verseNum>
+      </reference>
+      <l>ita quod facere disposui probate si ex Deo est et orate ut firmum faciat consilium meum Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.032">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:32</verseNum>
+      </reference>
+      <l>stabitis vos ad portam nocte ista et ego exeam cum abra mea et orate ut sicut dixistis in diebus quinque respiciat Dominus populum suum Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.033">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:33</verseNum>
+      </reference>
+      <l>vos autem nolo scrutemini actum meum et usque dum renuntiem vobis nihil aliud fiat nisi oratio pro me ad Dominum Deum nostrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.008.034">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>8:34</verseNum>
+      </reference>
+      <l>et dixit ad eam Ozias princeps Iudaeae vade in pace et Dominus sit tecum in ultione inimicorum nostrorum et revertentes abierunt</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Judith.009.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>quibus abscedentibus Iudith ingressa est oratorium suum et induens se cilicio posuit cinerem super caput suum et prosternens se Domino clamavit ad Dominum dicens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>Domine Deus patris mei Symeon qui dedisti illi gladium in defensione alienigenarum qui violatores extiterunt in coinquinatione sua et denudaverunt femur virginis in confusionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>et dedisti mulieres eorum in praedam et filias eorum in captivitatem et omnem praedam in divisionem servis tuis qui zelaverunt zelum tuum subveni quaeso te Domine Deus meus mihi viduae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>tu enim fecisti priora et illa post illa cogitasti et hoc factum est quod ipse voluisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>omnes enim viae tuae paratae sunt et tua iudicia in providentia tua posuisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>respice castra Assyriorum nunc sicut tunc castra videre Aegyptiorum dignatus es quando post servos tuos armati currebant confidentes in quadrigis et in equitatu suo et in multitudine bellatorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>sed aspexisti super castra eorum et tenebrae fatigaverunt eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>tenuit pedes eorum abyssus et aquae operuerunt eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>sic fiant et isti Domine qui confidunt in multitudine sua et in curribus suis et in contis et in sagittis suis et in lanceis gloriantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>et nesciunt quia tu ipse es Deus noster qui conteris bella ab initio et Dominus nomen est tibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>erige brachium tuum sicut ab initio et adlide virtutem eorum in virtute tua cadat virtus eorum in iracundiam tuam qui promittunt se violare sancta tua et polluere tabernaculum honoris tui et deicere gladio suo cornu altaris tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>fac Domine ut gladio proprio eius superbia amputetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>capiatur laqueo oculorum suorum in me et percuties eum ex labiis caritatis meae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>da mihi in animo constantiam ut contemnam illum et virtutem ut evertam illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>erit enim memoriale nominis tui cum manus feminea deiecerit eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>non enim in multitudine est virtus tua Domine neque in equorum viribus voluntas tua nec superbi ab initio placuerunt tibi sed humilium et mansuetorum tibi semper placuit deprecatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>Deus caelorum creator aquarum et dominus totius creaturae exaudi me miseram deprecantem et de tua misericordia praesumentem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:18</verseNum>
+      </reference>
+      <l>memento Domine testamenti tui et da verbum in ore meo et in corde meo consilium corrobora ut domus tua in tua sanctificatione permaneat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.009.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>9:19</verseNum>
+      </reference>
+      <l>et omnes gentes agnoscant quoniam tu es Deus et non est alius praeter te</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.Judith.010.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>factum est autem cum cessasset clamare ad Dominum surrexit de loco quo iacuerat prostrata Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>vocavitque abram suam et descendens in domum suam abstulit a se cilicium et exuit se vestimentis viduitatis suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>et lavit corpus suum et unxit se myrro optimo et discriminavit crinem capitis sui et inposuit mitram super caput suum et induit se vestimentis iucunditatis suae induitque sandalia pedibus suis adsumpsitque dextraliola et lilia et inaures et anulos et omnibus ornamentis suis ornavit se</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>cui etiam Dominus contulit splendorem quoniam omnis ista conpositio non ex libidine sed ex virtute pendebat et ideo Dominus hanc in illam pulchritudinem ampliavit ut inconparabili decore omnium oculis appareret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>inposuit itaque abrae suae ascopam vini et vas olei et pulenta et palatas et panes et caseum et profecta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>cumque venisset ad portas civitatis invenerunt expectantem Oziam et presbyteros civitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>qui cum vidissent eam stupentes mirati sunt nimis pulchritudinem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>nihil tamen interrogantes eam dimiserunt transire dicentes Deus patrum nostrorum det tibi gratiam et omne consilium tui cordis sua virtute corroboret ut glorietur super te Hierusalem et sit nomen tuum in numero sanctorum et iustorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>et dixerunt hii qui illic erant omnes una voce fiat fiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>Iudith vero orans Dominum transiit portas ipsa et abra eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>factum est autem cum descenderet montem circa ortum diei occurrerunt ei exploratores Assyriorum et tenuerunt illam dicentes unde venis aut quo vadis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>quae respondit filia sum Hebraeorum ideo ego fugi a facie eorum quoniam futurum agnovi quod dentur vobis in depraedationem pro eo quod contemnentes vos noluerunt ultro tradere se ipsos ut invenirent misericordiam in conspectu vestro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>hac de causa cogitavi mecum dicens vadam ad faciem principis Holofernis ut indicem illi secreta illorum et ostendam illi quo aditu possit obtinere eos ita ut non cadat unus vir de exercitu eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:14</verseNum>
+      </reference>
+      <l>et cum audissent viri verba eius considerabant faciem eius et erat in oculis eorum stupor quoniam mirabantur pulchritudinem eius nimis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:15</verseNum>
+      </reference>
+      <l>et dixerunt ad eam conservasti animam tuam eo quod tale repperisti consilium ut descenderes ad dominum nostrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:16</verseNum>
+      </reference>
+      <l>hoc autem scias quoniam cum steteris in conspectu eius bene tibi faciet et eris gratissima in corde eius duxeruntque illam ad tabernaculum Holofernis et nuntiantes eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:17</verseNum>
+      </reference>
+      <l>cumque intrasset ante faciem eius statim captus est in suis oculis Holofernis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:18</verseNum>
+      </reference>
+      <l>dixeruntque ad eum satellites eius quis contemnat populum Hebraeorum qui tam decoras mulieres habent ut non pro his merito pugnare contra eos debeamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:19</verseNum>
+      </reference>
+      <l>videns itaque Holofernem Iudith sedentem in conopeo quod erat ex purpura et auro et zmaragdo et lapidibus pretiosis intextum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.010.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>10:20</verseNum>
+      </reference>
+      <l>et cum in faciem eius intendisset adoravit eum prosternens se super terram et levaverunt illam servi Holofernis iubente domino suo</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.Judith.011.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>tunc Holofernis dixit ei aequo animo esto et noli pavere in corde tuo quoniam ego numquam nocui virum qui voluit servire Nabuchodonosor regi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>populus autem tuus si non contempsisset me non adlevassem lanceam meam super illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>nunc autem dic mihi qua ex causa recessisti ab illis et placuit tibi ut venires ad nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>et dixit illi Iudith sume verba ancillae tuae quoniam si secutus fueris verba ancillae tuae perfectam rem faciet Dominus tecum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>vivit enim Nabuchodonosor rex terrae et vivit virtus eius quae est in te ad correptionem omnium animarum errantium quoniam non solum homines serviunt illi per te sed et bestiae agri obtemperant illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>nuntiatur enim industria animi tui universis gentibus et indicatum est omni saeculo quoniam tu solus bonus et potens es in omni regno eius et disciplina tua omnibus provinciis praedicatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>nec hoc latet quod locutus est Achior nec illud ignoratur quod ei iusseris evenire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>constat enim Deum nostrum sic peccatis offensum ut mandaverit per prophetas suos ad populum quod tradat eos pro peccatis suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>et quoniam sciunt se offendisse Deum suum filii Israhel tremor tuus super ipsos est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>insuper etiam fames invasit eos et ab ariditate aquae iam inter mortuos conputantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>denique hoc ordinant ut interficiant pecora sua et sanguinem eorum bibant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>et sancta Domini sui quae praecepit Deus non contingi in frumento vino et oleo haec cogitaverunt inpendere et volunt consumere quae nec manibus deberent contingere ergo quoniam haec faciunt certum est quod in perditione dabuntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:13</verseNum>
+      </reference>
+      <l>quod ego ancilla tua cognoscens fugi ab illis et misit me Dominus haec ipsa nuntiare tibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:14</verseNum>
+      </reference>
+      <l>ego enim ancilla tua Deum colo etiam nunc apud te et exiet ancilla tua et orabo Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:15</verseNum>
+      </reference>
+      <l>et dicet mihi quando eis reddat peccatum suum et veniens nuntiabo tibi ita ut ego adducam te per mediam Hierusalem et habebis omnem populum Israhel sicut oves quibus non est pastor et non latrabit vel unus contra te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:16</verseNum>
+      </reference>
+      <l>quoniam haec mihi dicta sunt per providentiam Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:17</verseNum>
+      </reference>
+      <l>et quoniam iratus est illis Deus hoc ipsa missa sum nuntiare tibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:18</verseNum>
+      </reference>
+      <l>placuerunt autem omnia verba haec coram Holoferne et coram pueris eius et mirabantur ad sapientiam eius et dicebant alter ad alterum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:19</verseNum>
+      </reference>
+      <l>non est talis mulier super terram in aspectu in pulchritudine et in sensu verborum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:20</verseNum>
+      </reference>
+      <l>et dixit ad illam Holofernis bene fecit Deus qui misit te ante populum ut des illum tu in manibus nostris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.011.021">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>11:21</verseNum>
+      </reference>
+      <l>et quoniam bona est promissio tua si fecerit mihi hoc Deus tuus erit et meus Deus et tu in domo Nabuchodonosor magna eris et nomen tuum nominabitur in universa terra</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.Judith.012.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>tunc iussit eam introire ubi repositi erant thesauri eius et iussit illic manere eam et constituit quid daretur illi de convivio suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>cui respondens Iudith dixit nunc non potero manducare ex his quae mihi praecipis tribui ne veniat super me offensio ex his autem quae mihi detuli manducabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>cui Holofernis ait si defecerint tibi ista quae tecum detulisti quid faciemus tibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>et dixit Iudith vivit anima tua domine meus quoniam non expendet omnia haec ancilla tua donec faciat Deus in manu mea haec quae cogitavi et induxerunt illam servi eius in tabernaculo quo praeceperat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>et petiit dum introiret ut daretur ei copia nocte et ante lucem egrediendi foras ad orationem et deprecandi Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>et praecepit cubiculariis suis ut sicut placeret illi exiret et introiret ad orandum Deum suum per triduum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>et exiebat noctibus in vallem Bethuliae et baptizabat se in fontem aquae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>et ut ascendebat orabat Dominum Deum Israhel ut dirigeret viam eius ad liberationem populi sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>et introiens munda manebat in tabernaculum usque dum acciperet escam suam in vesperam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>et factum est quarto die Holofernis fecit cenam servis suis et dixit ad Bagao eunuchum vade et suade Hebraeam illam ut sponte consentiat habitare mecum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>foedum est enim apud Assyrios si femina inrideat virum agendo ut inmunis transeat ab eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>tunc introivit Bagao ad Iudith et dixit non vereatur bona puella introire ad dominum meum ut honorificetur ante faciem eius et manducet cum eo et bibat vinum in iucunditate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>cui Iudith respondit quae ego sum ut contradicam domino meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>omne quod erit ante oculos eius bonum et optimum faciam quicquid autem illi placuerit hoc mihi erit optimum omnibus diebus vitae meae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:15</verseNum>
+      </reference>
+      <l>et surrexit et ornavit se vestimento suo et ingressa stetit ante faciem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:16</verseNum>
+      </reference>
+      <l>cor autem Holofernis concussum est erat enim ardens in concupiscentia eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:17</verseNum>
+      </reference>
+      <l>et dixit ad eam Holofernis bibe nunc et accumbe in iucunditate quoniam gratiam invenisti coram me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:18</verseNum>
+      </reference>
+      <l>et dixit Iudith bibam domine quoniam magnificata est anima mea hodie prae omnibus diebus meis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:19</verseNum>
+      </reference>
+      <l>et accepit et manducavit et bibit coram ipso ea quae paraverat illi ancilla eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.012.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>12:20</verseNum>
+      </reference>
+      <l>et iucundus factus est Holofernis ad illam bibitque vinum nimis multum quantum numquam biberat in vita sua</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.Judith.013.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>ut autem sero factum est festinaverunt servi illius ad hospitia sua et conclusit Bagao ostia cubiculi et abiit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>erant autem omnes fatigati a vino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>eratque Iudith sola in cubiculo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>porro Holofernis iacebat in lecto nimia ebrietate sopitus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>dixitque Iudith puellae suae ut staret foras ante cubiculum et observaret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>stetitque Iudith ante lectum orans cum lacrimis et labiorum motu in silentio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>dicens confirma me Domine Deus Israhel et respice in hac hora ad opera manuum mearum ut sicut promisisti Hierusalem civitatem tuam erigas et hoc quod credens per te posse fieri cogitavi perficiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>et haec cum dixisset accessit ad columnam quae erat ad caput lectuli eius et pugionem eius qui in ea ligatus pendebat exsolvit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>cumque evaginasset illud adprehendit comam capitis eius et ait confirma me Domine Deus Israhel in hac hora</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>et percussit bis in cervicem eius et abscidit caput eius et abstulit conopeum eius a columnis et evolvit corpus eius truncum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>et post pusillum exivit et tradidit caput Holofernis ancillae suae et iussit ut mitteret illud in peram suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>et exierunt duae secundum consuetudinem suam quasi ad orationem et transierunt castra et gyrantes vallem venerunt ad portam civitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>et dixit Iudith a longe custodibus murorum aperite portas quoniam nobiscum est Deus qui fecit virtutem in Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>et factum est cum audissent viri vocem eius vocaverunt presbyteros civitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:15</verseNum>
+      </reference>
+      <l>et concurrerunt ad eam omnes a minimo usque ad maximum quoniam speraverunt eam iam non esse venturam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:16</verseNum>
+      </reference>
+      <l>et accendentes luminaria congyraverunt circa eam universi illa autem ascendens in eminentiori loco iussit fieri silentium cumque omnes tacuissent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:17</verseNum>
+      </reference>
+      <l>dixit Iudith laudate Dominum Deum nostrum qui non deseruit sperantes in se</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:18</verseNum>
+      </reference>
+      <l>et in me ancillam suam adimplevit misericordiam suam quam promisit domui Israhel et interfecit in manu mea hostem populi sui in hac nocte</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:19</verseNum>
+      </reference>
+      <l>et proferens de pera caput Holofernis ostendit illis dicens ecce caput Holofernis principis militiae Assyriorum et ecce conopeum illius in quo recumbebat in ebrietate sua ubi et per manum feminae percussit illum Dominus Deus noster</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:20</verseNum>
+      </reference>
+      <l>vivit autem ipse Dominus quoniam custodivit me angelus eius et hinc euntem et ibi commorantem et inde huc revertentem et non permisit me ancillam suam Dominus coinquinari sed sine pollutione peccati revocavit me vobis gaudentem in victoria sua in evasione mea in liberatione vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.021">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:21</verseNum>
+      </reference>
+      <l>confiteamur illi omnes quoniam bonus quoniam in saeculum misericordia eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.022">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:22</verseNum>
+      </reference>
+      <l>universi autem adorantes Dominum dixerunt ad eam benedixit te Dominus in virtute sua quia per te ad nihilum redegit inimicos nostros</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.023">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:23</verseNum>
+      </reference>
+      <l>porro Ozias princeps populi Israhel dixit ad eam benedicta es tu filia a Domino Deo excelso prae omnibus mulieribus super terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.024">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:24</verseNum>
+      </reference>
+      <l>benedictus Dominus qui creavit caelum et terram qui te direxit in vulnere capitis principis inimicorum nostrorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.025">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:25</verseNum>
+      </reference>
+      <l>quia hodie nomen tuum ita magnificavit ut non recedat laus tua de ore hominum qui memores fuerint virtutis Domini in aeternum pro quibus non pepercisti animae tuae propter angustias et tribulationem generis tui sed subvenisti ruinae ante conspectum Dei nostri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.026">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:26</verseNum>
+      </reference>
+      <l>et dixit omnis populus fiat fiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.027">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:27</verseNum>
+      </reference>
+      <l>porro Achior vocatus venit et dixit ei Deus Israhel cui tu testimonium dedisti quod ulciscatur de inimicis suis ipse caput omnium incredulorum incidit in hac nocte in manu mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.028">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:28</verseNum>
+      </reference>
+      <l>ut probes quia ita est ecce caput Holofernis qui in contemptu superbiae suae Deum Israhel contempsit et tibi interitum minabatur dicens cum captus fuerit populus Israhel gladio perforari praecipiam latera tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.029">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:29</verseNum>
+      </reference>
+      <l>videns autem Achior caput Holofernis angustiatus prae pavore cecidit in faciem suam super terram et aestuavit anima eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.030">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:30</verseNum>
+      </reference>
+      <l>postea vero quam resumpto spiritu recreatus est procidit ad pedes eius et adoravit eam et dixit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.013.031">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>13:31</verseNum>
+      </reference>
+      <l>benedicta tu Deo tuo in omni tabernaculo Iacob quoniam in omni gente quae audierit nomen tuum magnificabit Deum Israhel super te</l>
+    </verse>
+  </chapter>
+  <chapter num="14">
+    <verse type="bible-verse" id="B.Judith.014.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:1</verseNum>
+      </reference>
+      <l>dixit autem Iudith ad omnem populum audite me fratres suspendite caput hoc super muros nostros</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:2</verseNum>
+      </reference>
+      <l>et erit cum exierit sol accipiat unusquisque arma sua et exite cum impetu non ut descendatis deorsum sed quasi impetum facientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:3</verseNum>
+      </reference>
+      <l>tunc exploratores necesse erit ut fugiant ad principem suum excitandum ad pugnam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:4</verseNum>
+      </reference>
+      <l>cumque duces eorum cucurrerint ad tabernaculum Holofernis et invenerint eum truncum in suo sanguine volutatum decidet super eos timor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:5</verseNum>
+      </reference>
+      <l>cumque cognoveritis fugere illos ite post illos securi quoniam Dominus conteret eos sub pedibus vestris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:6</verseNum>
+      </reference>
+      <l>tunc Achior videns virtutem quam fecit Deus Israhel relicto gentilitatis ritu credidit Deo et circumcidit carnem praeputii sui et adpositus est ad populum Israhel et omnis successio generis eius usque in hodiernum diem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:7</verseNum>
+      </reference>
+      <l>mox autem ut ortus est dies suspenderunt super muros caput Holofernis accepitque unusquisque vir arma sua et egressi sunt cum grandi strepitu et ululatu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:8</verseNum>
+      </reference>
+      <l>quod videntes exploratores ad tabernaculum cucurrerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:9</verseNum>
+      </reference>
+      <l>porro hii qui in tabernaculo erant venientes et ante ingressum cubiculi perstrepentes excitandi gratia inquietudinem arte moliebantur ut non ab excitantibus sed a sonantibus Holofernis evigilaret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:10</verseNum>
+      </reference>
+      <l>nullus enim audebat cubiculum virtutis Assyriorum pulsando aut intrando aperire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:11</verseNum>
+      </reference>
+      <l>sed cum venissent duces eius et tribuni et universi maiores exercitus Assyriorum dixerunt cubiculariis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:12</verseNum>
+      </reference>
+      <l>intrate et excitate illum quoniam egressi mures de cavernis suis ausi sunt provocare ad proelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:13</verseNum>
+      </reference>
+      <l>tunc ingressus Bagao cubiculum eius stetit ante cortinam et plausum fecit manibus suis suspicabatur enim illum cum Iudith dormire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:14</verseNum>
+      </reference>
+      <l>sed cum nullum motum iacentis sensu aurium caperet accessit proximans ad cortinam et elevans eam videns iacens cadaver absque capite Holofernis in suo sanguine tabefactum iacere super terram et clamavit voce magna cum fletu et scidit vestimenta sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:15</verseNum>
+      </reference>
+      <l>et ingressus tabernaculum Iudith non invenit eam et exilivit foras ad populum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:16</verseNum>
+      </reference>
+      <l>et dixit una mulier hebraea fecit confusionem in domo regis Nabuchodonosor ecce enim Holofernis iacet in terra et caput ipsius non est in illo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:17</verseNum>
+      </reference>
+      <l>quod cum audissent principes virtutis Assyriorum sciderunt omnes vestimenta sua et intolerabilis timor et tremor cecidit super eos et turbati sunt animi eorum valde</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.014.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>14:18</verseNum>
+      </reference>
+      <l>et factus est clamor inconparabilis in media castra eorum</l>
+    </verse>
+  </chapter>
+  <chapter num="15">
+    <verse type="bible-verse" id="B.Judith.015.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:1</verseNum>
+      </reference>
+      <l>cumque omnis exercitus decollatum Holofernem audisset fugit mens et consilium ab eis et solo tremore et metu agitati fugae praesidium sumunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:2</verseNum>
+      </reference>
+      <l>ita ut nullus loqueretur cum proximo suo sed inclinato capite relictis omnibus evadere Hebraeos quos armatos venire super se audierant fugientes per vias camporum et semitas collium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:3</verseNum>
+      </reference>
+      <l>videntes itaque filii Israhel fugientes illos descenderunt clangentes tubis et ululantes post ipsos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:4</verseNum>
+      </reference>
+      <l>et quoniam Assyrii non adunati in fuga ibant praecipites filii autem Israhel uno agmine persequentes debilitabant omnes quos invenire potuissent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:5</verseNum>
+      </reference>
+      <l>misitque Ozias nuntios per omnes civitates et regiones Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:6</verseNum>
+      </reference>
+      <l>omnis itaque regio omnisque urbs electam iuventutem misit armatam post eos et persecuti sunt eos in ore gladii quousque pervenirent ad extremitatem finium suarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:7</verseNum>
+      </reference>
+      <l>reliqui autem qui erant in Bethulia ingressi sunt castra Assyriorum et praedam quam fugientes Assyrii reliquerant abstulerunt et honestati sunt valde</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:8</verseNum>
+      </reference>
+      <l>hii vero qui victores reversi sunt ad Bethuliam omnia quaeque erant illorum abstulerunt secum ita ut non esset numerus in pecoribus in iumentis et universis mobilibus eorum ut a minimo usque ad magnum omnes divites fierent de praedationibus eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:9</verseNum>
+      </reference>
+      <l>Ioachim autem summus pontifex de Hierusalem venit in Bethuliam cum universis presbyteris suis ut videret Iudith</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:10</verseNum>
+      </reference>
+      <l>quae cum exisset ad illum benedixerunt illam omnes una voce dicentes tu gloria Hierusalem tu laetitia Israhel tu honorificentia populi nostri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:11</verseNum>
+      </reference>
+      <l>quia fecisti viriliter et confortatum est cor tuum eo quod castitatem amaveris et post virum tuum alterum non scieris ideo et manus Domini confortavit te et ideo eris benedicta in aeternum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:12</verseNum>
+      </reference>
+      <l>et dixit omnis populus fiat fiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:13</verseNum>
+      </reference>
+      <l>per dies autem triginta vix collecta est spolia Assyriorum a populo Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:14</verseNum>
+      </reference>
+      <l>porro autem universa quae Holofernis peculiaria fuisse probata sunt dederunt Iudith in auro et argento et vestibus et gemmis et omni supellectile et tradita sunt illi omnia a populo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.015.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>15:15</verseNum>
+      </reference>
+      <l>et omnes populi gaudebant cum mulieribus et virginibus et iuvenibus in organis et citharis</l>
+    </verse>
+  </chapter>
+  <chapter num="16">
+    <verse type="bible-verse" id="B.Judith.016.001">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:1</verseNum>
+      </reference>
+      <l>tunc cantavit canticum hoc Domino Iudith dicens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.002">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:2</verseNum>
+      </reference>
+      <l>incipite Domino in tympanis cantate Deo in cymbalis modulamini illi psalmum novum exaltate et invocate nomen eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.003">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:3</verseNum>
+      </reference>
+      <l>Dominus conterens bella Dominus nomen est illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.004">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:4</verseNum>
+      </reference>
+      <l>qui posuit castra sua in medio populi sui ut eriperet nos de manu omnium inimicorum nostrorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.005">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:5</verseNum>
+      </reference>
+      <l>venit Assur ex montibus ab aquilone in multitudine fortitudinis suae cuius multitudo obturavit torrentes et equi eorum cooperuerunt valles</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.006">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:6</verseNum>
+      </reference>
+      <l>dixit se incensurum fines meos et iuvenes meos occisurum gladio infantes meos dare in praedam et virgines in captivitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.007">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:7</verseNum>
+      </reference>
+      <l>Dominus autem omnipotens nocuit eum et tradidit eum in manus feminae et confudit eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.008">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:8</verseNum>
+      </reference>
+      <l>non enim cecidit potens eorum a iuvenibus nec filii Titan percusserunt eum nec excelsi gigantes inposuerunt se illi sed Iudith filia Merari in specie faciei suae dissolvit eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.009">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:9</verseNum>
+      </reference>
+      <l>exuit enim se vestimenta viduitatis et induit se vestimenta laetitiae in exultatione filiorum Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.010">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:10</verseNum>
+      </reference>
+      <l>unxit faciem suam unguento conligavit cincinnos suos mitra ad decipiendum illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.011">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:11</verseNum>
+      </reference>
+      <l>sandalia eius rapuerunt oculos eius pulchritudo eius captivam fecit animam eius amputavit pugione cervicem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.012">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:12</verseNum>
+      </reference>
+      <l>horruerunt Persae constantiam eius et Medi audaciam eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.013">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:13</verseNum>
+      </reference>
+      <l>tunc ululaverunt castra Assyriorum quando apparuerunt humiles mei arescentes in siti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.014">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:14</verseNum>
+      </reference>
+      <l>filii puellarum conpunxerunt eos et sicut pueros fugientes occiderunt eos perierunt in proelio a facie Domini mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.015">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:15</verseNum>
+      </reference>
+      <l>hymnum cantemus Domino hymnum novum cantemus Deo nostro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.016">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:16</verseNum>
+      </reference>
+      <l>Adonai Domine magnus es tu et praeclarus in virtute et quem superare nemo potest</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.017">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:17</verseNum>
+      </reference>
+      <l>tibi serviat omnis creatura tua quia dixisti et facta sunt misisti spiritum tuum et creata sunt et non est qui resistat voci tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.018">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:18</verseNum>
+      </reference>
+      <l>montes a fundamentis movebuntur cum aquis petrae sicut cera liquescent ante faciem tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.019">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:19</verseNum>
+      </reference>
+      <l>qui autem timent te magni erunt apud te prae omnia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.020">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:20</verseNum>
+      </reference>
+      <l>vae genti insurgenti super genus meum Dominus enim omnipotens vindicabit in eis in die iudicii visitabit illos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.021">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:21</verseNum>
+      </reference>
+      <l>dabit enim ignem et vermes in carnes eorum ut urantur et sentiant usque in sempiternum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.022">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:22</verseNum>
+      </reference>
+      <l>et factum est post haec omnis populus post victoriam venit ad Hierusalem adorare Dominum et mox ut purificati sunt obtulerunt omnes holocausta et vota et repromissiones suas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.023">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:23</verseNum>
+      </reference>
+      <l>porro Iudith universa vasa bellica Holofernis quae dedit illi populus et conopeum quod ipsa sustulerat in anathema oblivionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.024">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:24</verseNum>
+      </reference>
+      <l>erat autem populus iucundus secundum faciem sanctorum et per tres menses gaudium huius victoriae celebratum est cum Iudith</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.025">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:25</verseNum>
+      </reference>
+      <l>post dies autem illos unusquisque rediit in sua et Iudith magna facta est in Bethulia et praeclarior erat universae terrae Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.026">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:26</verseNum>
+      </reference>
+      <l>erat etiam virtuti castitatis adiuncta ita ut non cognosceret virum omnibus diebus vitae suae ex quo defunctus est Manasses vir eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.027">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:27</verseNum>
+      </reference>
+      <l>erat autem diebus festis procedens cum gloria magna</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.028">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:28</verseNum>
+      </reference>
+      <l>mansit autem in domo viri sui annos centum quinque et dimisit abram suam liberam et defuncta est ac sepulta cum viro suo in Bethuliam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.029">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:29</verseNum>
+      </reference>
+      <l>luxitque illam omnis populus diebus septem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.030">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:30</verseNum>
+      </reference>
+      <l>in omni autem spatio vitae eius non fuit qui perturbaret Israhel et post mortem eius annis multis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Judith.016.031">
+      <reference>
+        <bookName>Judith</bookName>
+        <verseNum>16:31</verseNum>
+      </reference>
+      <l>dies autem victoriae huius festivitatem ab Hebraeis in numero dierum sanctorum accepit et colitur a Iudaeis ex illo tempore usque in praesentem diem</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Judith.colophon.001">
+    <reference>
+      <bookName>Judith</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT LIBER IUDITH</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

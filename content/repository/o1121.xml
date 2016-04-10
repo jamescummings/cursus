@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1120" nextid="o1122" id="o1121">
+   <header>
+      <usage ms="Bat" code="07011000">[47r] vesp1</usage>
+      <usage ms="Cdm" code="07011000">[56v] vesp1</usage>
+      <usage ms="Cht" code="07011000">[21v] vesp1</usage>
+      <usage ms="Evm" code="07011000">[104v] vesp1</usage>
+      <usage ms="Hyd" code="07011000">[68v] vesp1</usage>
+      <usage ms="Mch" code="07011000">[112r] vesp1</usage>
+   </header>
+   <pBody wit="Hyd Cht Evm Cdm Bat Mch"> Deus qui ecclesiam tuam
+     <app>
+         <rdg wit="Hyd Cht Evm Mch"> annua quadragesimali</rdg>
+         <rdg wit="Cdm Bat"> annua quadragesimae</rdg>
+      </app> observatione purificas praesta familiae tuae ut quod a te obtinere abstinendo nititur hoc bonis operibus exequatur</pBody>
+</prayer>

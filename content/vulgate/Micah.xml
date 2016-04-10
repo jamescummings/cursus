@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Micah">
+<body>
+  <rubric type="bible-incipit" id="B.Micah.incipit.001">
+    <reference>
+      <bookName>Micah</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT MICHA PROPHETA</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Micah.001.001">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>verbum Domini quod factum est ad Micham Morasthiten in diebus Ioatham Ahaz Ezechiae regum Iuda quod vidit super Samariam et Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.002">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>audite populi omnes et adtendat terra et plenitudo eius et sit Dominus Deus vobis in testem Dominus de templo sancto suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.003">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>quia ecce Dominus egreditur de loco suo et descendet et calcabit super excelsa terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.004">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>et consumentur montes subtus eum et valles scindentur sicut cera a facie ignis sicut aquae quae decurrunt in praeceps</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.005">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>in scelere Iacob omne istud et in peccatis domus Israhel quod scelus Iacob nonne Samaria et quae excelsa Iudae nonne Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.006">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et ponam Samariam quasi acervum lapidum in agro cum plantatur vinea et detraham in vallem lapides eius et fundamenta eius revelabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.007">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>et omnia sculptilia eius concidentur et omnes mercedes eius conburentur igni et omnia idola eius ponam in perditionem quia de mercedibus meretricis congregata sunt et usque ad mercedem meretricis revertentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.008">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>super hoc plangam et ululabo vadam spoliatus et nudus faciam planctum velut draconum et luctum quasi strutionum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.009">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>quia desperata est plaga eius quia venit usque ad Iudam tetigit portam populi mei usque ad Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.010">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>in Geth nolite adnuntiare lacrimis ne ploretis in domo Pulveris pulvere vos conspergite</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.011">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>et transite vobis habitatio Pulchra confusa ignominia non est egressa quae habitat in Exitu planctum domus Vicinae accipiet ex vobis quae stetit sibimet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.012">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>quia infirmata est in bonum quae habitat in Amaritudinibus quia descendit malum a Domino in portam Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.013">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>tumultus quadrigae stuporis habitanti Lachis principium peccati est filiae Sion quia in te inventa sunt scelera Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.014">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>propterea dabit emissarios super hereditatem Geth domus Mendacii in deceptionem regibus Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.015">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>adhuc heredem adducam tibi quae habitas in Maresa usque Adollam veniet gloria Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.001.016">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>decalvare et tondere super filios deliciarum tuarum dilata calvitium tuum sicut aquila quoniam captivi ducti sunt ex te</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Micah.002.001">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>vae qui cogitatis inutile et operamini malum in cubilibus vestris in luce matutina faciunt illud quoniam contra Deum est manus eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.002">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>et concupierunt agros et violenter tulerunt et domos rapuerunt et calumniabantur virum et domum eius virum et hereditatem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.003">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>idcirco haec dicit Dominus ecce ego cogito super familiam istam malum unde non auferetis colla vestra et non ambulabitis superbi quoniam tempus pessimum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.004">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>in die illa sumetur super vos parabola et cantabitur canticum cum suavitate dicentium depopulatione vastati sumus pars populi mei commutata est quomodo recedet a me cum revertatur qui regiones nostras dividat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.005">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>propter hoc non erit tibi mittens funiculum sortis in coetu Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.006">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>ne loquamini loquentes non stillabit super istos non conprehendet confusio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.007">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>dicit domus Iacob numquid adbreviatus est spiritus Domini aut tales sunt cogitationes eius nonne verba mea bona sunt cum eo qui recte graditur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.008">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>et e contrario populus meus in adversarium consurrexit desuper tunica pallium sustulistis eos qui transiebant simpliciter convertistis in bellum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.009">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>mulieres populi mei eiecistis de domo deliciarum suarum a parvulis earum tulistis laudem meam in perpetuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.010">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>surgite et ite quia non habetis hic requiem propter inmunditiam eius corrumpetur putredine pessima</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.011">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>utinam non essem vir habens spiritum et mendacium potius loquerer stillabo tibi in vinum et in ebrietatem et erit super quem stillatur populus iste</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.012">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>congregatione congregabo Iacob totum te in unum conducam reliquias Israhel pariter ponam illum quasi gregem in ovili quasi pecus in medio caularum tumultuabuntur a multitudine hominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.002.013">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>ascendet enim pandens iter ante eos divident et transibunt portam et egredientur per eam et transibit rex eorum coram eis et Dominus in capite eorum</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Micah.003.001">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>et dixi audite principes Iacob et duces domus Israhel numquid non vestrum est scire iudicium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.002">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>qui odio habetis bonum et diligitis malum qui violenter tollitis pelles eorum desuper eos et carnem eorum desuper ossibus eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.003">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>qui comederunt carnem populi mei et pellem eorum desuper excoriaverunt et ossa eorum confregerunt et conciderunt sicut in lebete et quasi carnem in medio ollae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.004">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>tunc clamabunt ad Dominum et non exaudiet eos et abscondet faciem suam ab eis in tempore illo sicut nequiter egerunt in adinventionibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.005">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>haec dicit Dominus super prophetas qui seducunt populum meum qui mordent dentibus suis et praedicant pacem et si quis non dederit in ore eorum quippiam sanctificant super eum proelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.006">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>propterea nox vobis pro visione erit et tenebrae vobis pro divinatione et occumbet sol super prophetas et obtenebrabitur super eos dies</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.007">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>et confundentur qui vident visiones et confundentur divini et operient vultus suos omnes quia non est responsum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.008">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>verumtamen ego repletus sum fortitudine spiritus Domini iudicio et virtute ut adnuntiem Iacob scelus suum et Israhel peccatum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.009">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>audite haec principes domus Iacob et iudices domus Israhel qui abominamini iudicium et omnia recta pervertitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.010">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>qui aedificatis Sion in sanguinibus et Hierusalem in iniquitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.011">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>principes eius in muneribus iudicabant et sacerdotes eius in mercede docebant et prophetae eius in pecunia divinabant et super Dominum requiescebant dicentes numquid non Dominus in medio nostrum non venient super nos mala</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.003.012">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>propter hoc causa vestri Sion quasi ager arabitur et Hierusalem quasi acervus lapidum erit et mons templi in excelsa silvarum</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Micah.004.001">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>et in novissimo dierum erit mons domus Domini praeparatus in vertice montium et sublimis super colles et fluent ad eum populi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.002">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>et properabunt gentes multae et dicent venite ascendamus ad montem Domini et ad domum Dei Iacob et docebit nos de viis suis et ibimus in semitis eius quia de Sion egredietur lex et verbum Domini de Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.003">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>et iudicabit inter populos multos et corripiet gentes fortes usque in longinquum et concident gladios suos in vomeres et hastas suas in ligones non sumet gens adversus gentem gladium et non discent ultra belligerare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.004">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>et sedebit vir subtus vineam suam et subtus ficum suam et non erit qui deterreat quia os Domini exercituum locutum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.005">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>quia omnes populi ambulabunt unusquisque in nomine dei sui nos autem ambulabimus in nomine Domini Dei nostri in aeternum et ultra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.006">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>in die illa dicit Dominus congregabo claudicantem et eam quam eieceram colligam et quam adflixeram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.007">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>et ponam claudicantem in reliquias et eam quae laboraverat in gentem robustam et regnabit Dominus super eos in monte Sion ex hoc nunc et usque in aeternum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.008">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>et tu turris Gregis nebulosa filiae Sion usque ad te veniet et veniet potestas prima regnum filiae Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.009">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>nunc quare maerore contraheris numquid rex non est tibi aut consiliarius tuus periit quia conprehendit te dolor sicut parturientem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.010">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>dole et satage filia Sion quasi parturiens quia nunc egredieris de civitate et habitabis in regione et venies usque ad Babylonem ibi liberaberis ibi redimet te Dominus de manu inimicorum tuorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.011">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>et nunc congregatae sunt super te gentes multae quae dicunt lapidetur et aspiciat in Sion oculus noster</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.012">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>ipsi autem non cognoverunt cogitationes Domini et non intellexerunt consilium eius quia congregavit eos quasi faenum areae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.004.013">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>surge et tritura filia Sion quia cornu tuum ponam ferreum et ungulas tuas ponam aereas et comminues populos multos et interficiam Domino rapinas eorum et fortitudinem eorum Domino universae terrae</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Micah.005.001">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>nunc vastaberis filia latronis obsidionem posuerunt super nos in virga percutient maxillam iudicis Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.002">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>et tu Bethleem Ephrata parvulus es in milibus Iuda ex te mihi egredietur qui sit dominator in Israhel et egressus eius ab initio a diebus aeternitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.003">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>propter hoc dabit eos usque ad tempus in quo parturiens pariet reliquiae fratrum eius convertentur ad filios Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.004">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>et stabit et pascet in fortitudine Domini in sublimitate nominis Domini Dei sui et convertentur quia nunc magnificabitur usque ad terminos terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.005">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>et erit iste pax Assyrius cum venerit in terram nostram et quando calcaverit in domibus nostris et suscitabimus super eum septem pastores et octo primates homines</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.006">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>et pascent terram Assur in gladio et terram Nemrod in lanceis eius et liberabit ab Assur cum venerit in terram nostram et cum calcaverit in finibus nostris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.007">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>et erunt reliquiae Iacob in medio populorum multorum quasi ros a Domino et quasi stillae super herbam quae non expectat virum et non praestolatur filios hominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.008">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>et erunt reliquiae Iacob in gentibus in medio populorum multorum quasi leo in iumentis silvarum et quasi catulus leonis in gregibus pecorum qui cum transierit et conculcaverit et ceperit non est qui eruat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.009">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>exaltabitur manus tua super hostes tuos et omnes inimici tui interibunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.010">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>et erit in die illa dicit Dominus auferam equos tuos de medio tui et disperdam quadrigas tuas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.011">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>et perdam civitates terrae tuae et destruam omnes munitiones tuas et auferam maleficia de manu tua et divinationes non erunt in te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.012">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>et perire faciam sculptilia tua et statuas tuas de medio tui et non adorabis ultra opera manuum tuarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.013">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>et evellam lucos tuos de medio tui et conteram civitates tuas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.005.014">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>et faciam in furore et in indignatione ultionem in omnibus gentibus quae non audierunt</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Micah.006.001">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>audite quae Dominus loquitur surge contende iudicio adversum montes et audiant colles vocem tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.002">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>audiant montes iudicium Domini et fortia fundamenta terrae quia iudicium Domini cum populo suo et cum Israhel diiudicabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.003">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>populus meus quid feci tibi et quid molestus fui tibi responde mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.004">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>quia eduxi te de terra Aegypti et de domo servientium liberavi te et misi ante faciem tuam Mosen et Aaron et Mariam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.005">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>populus meus memento quaeso quid cogitaverit Balac rex Moab et quid responderit ei Balaam filius Beor de Setthim usque ad Galgalam ut cognosceret iustitias Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.006">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>quid dignum offeram Domino curvem genu Deo excelso numquid offeram ei holocaustomata et vitulos anniculos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.007">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>numquid placari potest Dominus in milibus arietum aut in multis milibus hircorum pinguium numquid dabo primogenitum meum pro scelere meo fructum ventris mei pro peccato animae meae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.008">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>indicabo tibi o homo quid sit bonum et quid Dominus quaerat a te utique facere iudicium et diligere misericordiam et sollicitum ambulare cum Deo tuo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.009">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>vox Domini ad civitatem clamat et salus erit timentibus nomen tuum audite tribus et quis adprobabit illud</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.010">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>adhuc ignis in domo impii thesauri iniquitatis et mensura minor irae plena</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.011">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>numquid iustificabo stateram impiam et saccelli pondera dolosa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.012">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>in quibus divites eius repleti sunt iniquitate et habitantes in ea loquebantur mendacium et lingua eorum fraudulenta in ore eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.013">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>et ego ergo coepi percutere te perditione super peccatis tuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.014">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>tu comedes et non saturaberis et humiliatio tua in medio tui et adprehendes et non salvabis et quos salvaveris in gladium dabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.015">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>tu seminabis et non metes tu calcabis olivam et non ungueris oleo et mustum et non bibes vinum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.006.016">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>et custodisti praecepta Omri et omne opus domus Achab et ambulasti in voluntatibus eorum ut darem te in perditionem et habitantes in ea in sibilum et obprobrium populi mei portabitis</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Micah.007.001">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>vae mihi quia factus sum sicut qui colligit in autumno racemos vindemiae non est botrus ad comedendum praecoquas ficus desideravit anima mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.002">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>periit sanctus de terra et rectus in hominibus non est omnes in sanguine insidiantur vir fratrem suum venatur ad mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.003">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>malum manuum suarum dicunt bonum princeps postulat et iudex in reddendo est et magnus locutus est desiderium animae suae et conturbaverunt eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.004">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>qui optimus in eis est quasi paliurus et qui rectus quasi spina de sepe dies speculationis tuae visitatio tua venit nunc erit vastitas eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.005">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>nolite credere amico et nolite confidere in duce ab ea quae dormit in sinu tuo custodi claustra oris tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.006">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>quia filius contumeliam facit patri filia consurgit adversus matrem suam nurus contra socrum suam inimici hominis domestici eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.007">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>ego autem ad Dominum aspiciam expectabo Deum salvatorem meum audiet me Deus meus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.008">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>ne laeteris inimica mea super me quia cecidi consurgam cum sedero in tenebris Dominus lux mea est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.009">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>iram Domini portabo quoniam peccavi ei donec iudicet causam meam et faciat iudicium meum educet me in lucem videbo in iustitiam eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.010">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>et aspiciet inimica mea et operietur confusione quae dicit ad me ubi est Dominus Deus tuus oculi mei videbunt in eam nunc erit in conculcationem ut lutum platearum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.011">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>dies ut aedificentur maceriae tuae in die illa longe fiet lex</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.012">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>in die illa et usque ad te veniet Assur et usque ad civitates munitas et a civitatibus munitis usque ad flumen et ad mare de mari et ad montem de monte</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.013">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>et erit terra in desolationem propter habitatores suos et propter fructum cogitationum eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.014">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>pasce populum tuum in virga tua gregem hereditatis tuae habitantes solos in saltu in medio Carmeli pascentur Basan et Galaad iuxta dies antiquos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.015">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>secundum dies egressionis tuae de terra Aegypti ostendam ei mirabilia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.016">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>videbunt gentes et confundentur super omni fortitudine sua ponent manus super os aures eorum surdae erunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.017">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>lingent pulverem sicut serpens velut reptilia terrae proturbabuntur de aedibus suis Dominum Deum nostrum desiderabunt et timebunt te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.018">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:18</verseNum>
+      </reference>
+      <l>quis Deus similis tui qui aufers iniquitatem et transis peccatum reliquiarum hereditatis tuae non inmittet ultra furorem suum quoniam volens misericordiam est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.019">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:19</verseNum>
+      </reference>
+      <l>revertetur et miserebitur nostri deponet iniquitates nostras et proiciet in profundum maris omnia peccata nostra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Micah.007.020">
+      <reference>
+        <bookName>Micah</bookName>
+        <verseNum>7:20</verseNum>
+      </reference>
+      <l>dabis veritatem Iacob misericordiam Abraham quae iurasti patribus nostris a diebus antiquis</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Micah.colophon.001">
+    <reference>
+      <bookName>Micah</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT MICHA PROPHETA</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

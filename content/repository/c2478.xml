@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2477b" nextid="c2478b" id="c2478">
+   <header>
+      <usage ms="Hyd" code="08051000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-L"> Dum venerit paraclitus</rdg>
+         <rdg wit="CAO-G Hyd"> Cum venerit paraclitus</rdg>
+      </app> spiritus veritatis ille arguet mundum de peccato
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-F Hyd"> et de iustitia et de iudicio alleluia</rdg>
+         <rdg wit="CAO-L"> et de iustitia et de iudicio</rdg>
+      </app>
+   </aBody>
+</ant>

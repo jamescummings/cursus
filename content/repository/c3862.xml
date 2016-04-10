@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3861" nextid="c3863" id="c3862">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ne timeas a facie eorum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> quia ego tecum sum</rdg>
+         <rdg wit="CAO-D CAO-L"> quia ego sum tecum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> dicit dominus</rdg>
+         <rdg wit="CAO-D CAO-L"> dicit dominus ut eruam te</rdg>
+      </app>
+   </aBody>
+</ant>

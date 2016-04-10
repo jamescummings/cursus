@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9506" nextid="c9508" id="c9507">
+   <header>
+      <usage ms="Evm" code="06021000">[96v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="Evm"> Locutus est dominus ad Noe dicens egredere de arca tu et uxor tua et filii tui cunctaque animantia quae sunt apud te ex omni carne</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Ingredemini denique super terram crescite et multiplicamini super eam</vBody>
+      <rep type="r" wit="Evm">Cunctaque</rep>
+   </verses>
+</res>

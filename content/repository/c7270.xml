@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7269" nextid="c7271" id="c7270">
+   <rBody wit="CAO-E CAO-L">
+      <app>
+         <rdg wit="CAO-E"> O gloriosa femina</rdg>
+         <rdg wit="CAO-L"> O gloriosa domina</rdg>
+      </app> excelsa super sidera quae nec primam similem visa est nec habere sequentem sola sine exemplo placuit Virgo Christo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-L">Sola fuit mulier paruit qua ianua laeto et qua vita reddidit</vBody>
+      <rep type="r" wit="CAO-E CAO-L">Sola <supplied resp="DC">sine</supplied>
+      </rep>
+   </verses>
+</res>

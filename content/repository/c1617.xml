@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1616" nextid="c1618" id="c1617">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F"> Beatus <name reg="Callistus" type="saint">Callistus</name> dedit orationem dicens</rdg>
+         <rdg wit="CAO-C CAO-M"> Beatus <name reg="Valentinus" type="saint">Valentinus</name> dedit orationem dicens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-F"> deus qui dispersa congregas</rdg>
+         <rdg wit="CAO-R"> deus qui dispersa congregans</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-F"> et congregata conservas</rdg>
+         <rdg wit="CAO-C"> et congregata seperas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-F"> auge fidem et fiduciam servis tuis</rdg>
+         <rdg wit="CAO-E"> auge fidem et da fiduciam servis</rdg>
+      </app> per Christum dominum nostrum</aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1567" nextid="o1569" id="o1568">
+   <header>
+      <usage ms="Alb2" code="07056000">[103r] lauds</usage>
+      <usage ms="Cdm" code="07056000">[73r] lauds</usage>
+      <usage ms="Cht" code="07056000">[52v] lauds</usage>
+      <usage ms="Ely" code="07056000">[84r] lauds</usage>
+      <usage ms="Evm" code="07056000">[140r] lauds</usage>
+      <usage ms="Hyd" code="07056000">[89r] lauds</usage>
+      <usage ms="Mch" code="07056000">[150v] lauds</usage>
+      <usage ms="Wcb" code="07056000">[110v] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.304</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">Cordibus nostris quaesumus domine
+     <app>
+         <rdg wit="Ely Cht Hyd Wcb Alb2 Mch"> gratiam tuam benignus infunde</rdg>
+         <rdg wit="Cdm"> spiritum sanctum clementer infunde</rdg>
+         <rdg wit="Evm"> benignus infunde</rdg>
+      </app> ut peccata nostra castigatione voluntaria cohibentes temporaliter potius maceremur quam suppliciis deputemur aeternis</pBody>
+</prayer>

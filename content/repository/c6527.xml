@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6526" nextid="c6528" id="c6527">
+   <rBody wit="CAO-E CAO-R CAO-D CAO-F CAO-S"> Domus mea domus orationis vocabitur dicit Dominus in ea omnis qui petit accipit et qui quaerit invenit et pulsanti aperietur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-D CAO-F"> Petite et accipietis</rdg>
+            <rdg wit="CAO-R"> Petite et dabitur vobis</rdg>
+         </app> quaerite et invenietis</vBody>
+      <vBody type="r" wit="CAO-E CAO-S"> Domum tuam domine decet sanctitudo in longitudinem dierum</vBody>
+      <rep type="r" wit="CAO-E CAO-R CAO-D CAO-F CAO-S"> Et pulsanti</rep>
+   </verses>
+</res>

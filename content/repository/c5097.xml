@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5096" nextid="c5098" id="c5097">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-S"> Tali namque ad dominum</rdg>
+         <rdg wit="CAO-B CAO-R"> Tali namque apud dominum</rdg>
+         <rdg wit="CAO-V CAO-D CAO-F"> Tali namque a domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F"> meruerunt professione migrare</rdg>
+         <rdg wit="CAO-S"> meruerunt professione migrari</rdg>
+      </app> ut amputatis capitibus adhuc putaretur lingua palpitans
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> dominum confiteri</rdg>
+         <rdg wit="CAO-V"> domino confiteri</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Et unde mentibus inerat amor sermonibus aestuabat ardor</vBody>
+   </verses>
+</ant>

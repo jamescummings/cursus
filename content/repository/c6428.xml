@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6427" nextid="c6429" id="c6428">
+   <header>
+      <usage ms="Alb2" code="07051000">[98v] matins-n2-r5</usage>
+      <usage ms="Bat" code="07051000">[58v] matins-n1-r4</usage>
+      <usage ms="Cdm" code="07051000">[70v] matins-n1-r4</usage>
+      <usage ms="Cht" code="07051000">[46r] matins-n1-r4</usage>
+      <usage ms="Ely" code="07051000">[81r] matins-n1-r4</usage>
+      <usage ms="Evm" code="07051000">[134r] matins-n2-r5</usage>
+      <usage ms="Hyd" code="07051000">[85v] matins-n2-r5</usage>
+      <usage ms="Mch" code="07051000">[144v] matins-n1-r4</usage>
+      <usage ms="Pet" code="07051000">[79v] matins-r4</usage>
+      <usage ms="Wor" code="07051000">[53r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch Bat"> Deus meus es tu ne discedas a me quoniam tribulatio proxima est et non est qui adiuvet</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch Bat"> Deus deus meus respice in me
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Evm Alb2 Mch"> quare me dereliquisti longe a salute mea</rdg>
+            <rdg wit="CAO-D Ely Wor Cht Hyd Pet Cdm Bat"> quare me dereliquisti </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-S">Deus ne longeris a me</rdg>
+            <rdg wit="CAO-L">Deus ne elonges a me</rdg>
+         </app> deus meus in auxilium meum respice</vBody>
+      <vBody type="r" wit="CAO-F"> Tu autem domine ne elongaveris auxilium tuum a me ad defensionem meam conspice</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Pet Evm Alb2 Cdm">Quoniam</rep>
+      <rep type="r" wit="Hyd">
+         <supplied resp="Tolhurst">Quoniam</supplied>
+      </rep>
+      <rep type="r" wit="CAO-M Wor Bat">Et non</rep>
+      <rep type="r" num="2" wit="Hyd Wor Cht Pet">Deus meus</rep>
+   </verses>
+</res>

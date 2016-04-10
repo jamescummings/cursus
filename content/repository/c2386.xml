@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2385" nextid="c2387" id="c2386">
+   <header>
+      <usage ms="Cdm" code="07033000">[66r] vesp2</usage>
+      <usage ms="Hyd" code="07033000"/>
+   </header>
+   <aBody wit="CAO-E CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-L Hyd"> Domine si peccaverit in me frater meus</rdg>
+         <rdg wit="Cdm"> Ascendens Petrus ad Jesum dixit domine si peccaverit in me frater meus</rdg>
+         <rdg wit="CAO-E"> Domine quoniam peccaverit in me frater meus</rdg>
+      </app> dimittam ei usque septies
+     <app>
+         <rdg wit="CAO-L Hyd"> ait illi Jesus</rdg>
+         <rdg wit="Cdm"> dixit illi Jesus</rdg>
+         <rdg wit="CAO-E"> et ait Jesus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L Hyd"> non dico tibi septies</rdg>
+         <rdg wit="CAO-E Cdm"> non dico tibi usque septies</rdg>
+      </app> sed usque septuagies septies</aBody>
+</ant>

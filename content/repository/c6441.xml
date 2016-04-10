@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6440" nextid="c6442" id="c6441">
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> Diem festum praecelsae genitricis Dei virginis Mariae solemniter celebremus quo inchoata est
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> eius felix nativitas</rdg>
+         <rdg wit="CAO-E"> felix eius nativitas</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R"> Nativitatem hodiernam perpetuae virginis solemniter celebremus</vBody>
+      <vBody type="r" wit="CAO-E"> Cum iucunditate nativitatem beatae Mariae celebremus</vBody>
+      <vBody type="r" wit="CAO-L"> Gloriosae virginis Mariae ortum dignissimum recolimus</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> Quo</rep>
+   </verses>
+</res>

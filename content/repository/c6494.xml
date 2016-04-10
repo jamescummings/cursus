@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6493" nextid="c6495" id="c6494">
+   <header>
+      <usage ms="Hyd" code="05027000"/>
+   </header>
+   <rBody wit="CAO-H CAO-L Hyd"> Domine exaudi orationem meam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-L Hyd"> Et clamor meus ad te
+       <app>
+            <rdg wit="CAO-H Hyd"> veniat</rdg>
+            <rdg wit="CAO-L"> perveniat</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-L"> Orationem</rep>
+      <dox type="r" wit="Hyd">Gloria</dox>
+   </verses>
+</res>

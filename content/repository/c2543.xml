@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2542" nextid="c2544" id="c2543">
+   <header>
+      <usage ms="Alb2" code="01022000">[10v] vesp2 gosp</usage>
+      <usage ms="Bat" code="01022000">[7v] vesp2 gosp</usage>
+      <usage ms="Bat" code="01037000">[11v] lauds-a1</usage>
+      <usage ms="Cdm" code="01022000">[13v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01037000">[17v] lauds-a1</usage>
+      <usage ms="Ely" code="01022000">[8v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01022000">[15v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01037009">[22r] lauds-a4</usage>
+      <usage ms="Glo" code="01022000">[13r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01022000">[9r] vesp2 gosp</usage>
+      <usage ms="Mch" code="01022000">[9r] vesp2 gosp</usage>
+      <usage ms="Mch" code="01034000">[13v] lauds-a1</usage>
+      <usage ms="Mch" code="01036000">[15r] lauds-a2</usage>
+      <usage ms="Wcb" code="01022000">[45v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01022000">[6r] vesp2 gosp</usage>
+      <usage ms="Wor" code="01036000">[9v] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-F Evm Mch Cdm Ely Wor Wcb Glo Bat"> Ecce rex venit</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-L Hyd Alb2"> Ecce rex veniet</rdg>
+      </app> dominus terrae
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat"> et ipse auferet</rdg>
+         <rdg wit="CAO-F"> et ipse conteret</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Evm Mch Ely Wor Wcb Glo Bat"> iugum captivitatis nostrae</rdg>
+         <rdg wit="Alb2 Cdm"> iugum captivitatis vestrae</rdg>
+      </app>
+   </aBody>
+</ant>

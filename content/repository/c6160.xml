@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6159" nextid="c6161" id="c6160">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D"> Beata Agathes</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-F CAO-S"> Beata Agatha</rdg>
+         <rdg wit="CAO-L"> Beata Agathe</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> ingressa carcerem</rdg>
+         <rdg wit="CAO-E CAO-S"> ingressa carcere</rdg>
+         <rdg wit="CAO-V"> ingressa carceres</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> expandit manus</rdg>
+         <rdg wit="CAO-G CAO-F"> expandens manus</rdg>
+         <rdg wit="CAO-D"> expandi manus</rdg>
+      </app> suas ad Deum et dixit domine qui me fecisti vincere tormenta carnificum jube me domine ad tuam misericordiam pervenire</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F">
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> Agathes</rdg>
+            <rdg wit="CAO-G CAO-E CAO-M CAO-F"> Agatha</rdg>
+         </app> ingressa carcerem benedicebat
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R"> dominum Jesum Christum</rdg>
+            <rdg wit="CAO-M"> dominum</rdg>
+            <rdg wit="CAO-F"> dominum Jesum Christum et dicebat</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Domine qui me creasti et tulisti a me amorem saeculi qui corpus meum a pollutione separasti</vBody>
+      <vBody type="r" wit="CAO-V"> Agathes laetissima et glorianter ibat ad carcerem et quasi ad epulas invitata</vBody>
+      <vBody type="r" wit="CAO-D"> Gratias tibi ago domine Jesu Christe qui me fecisti vincere ferrum ignem et vincula</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-H CAO-F">Domine</rep>
+      <rep type="r" wit="CAO-B CAO-V CAO-R CAO-D CAO-S CAO-L">Jube me</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3301" nextid="c3303" id="c3302">
+   <header>
+      <usage ms="Alb2" code="01008000">[5v] none</usage>
+      <usage ms="Cdm" code="01012000">[10v] none</usage>
+      <usage ms="Ely" code="01012000">[5v] none</usage>
+      <usage ms="Evm" code="01012000">[8v] none</usage>
+      <usage ms="Hyd" code="01012000">[5r] none</usage>
+      <usage ms="Mch" code="01012000">[5v] none</usage>
+      <usage ms="Wor" code="01012000">[4r] none</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-H CAO-R CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor"> In tuo adventu erue nos domine</aBody>
+</ant>

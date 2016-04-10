@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7919" nextid="c7921" id="c7920">
+   <header>
+      <usage ms="Cdm" code="02122800">[29r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="02122800">[27r] matins-n3-r9</usage>
+      <usage ms="Pet" code="02122800">[29v] matins-n1-r4</usage>
+      <usage ms="Wor" code="02122800">[23r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-D Hyd Cdm Wor Pet"> Vox in Rama audita est ploratus et ululatus Rachel plorans filios suos
+     <app>
+         <rdg wit="Hyd Cdm"> et noluit</rdg>
+         <rdg wit="CAO-D Wor Pet"> noluit</rdg>
+      </app> consolari quia non sunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D Hyd Cdm Wor Pet"> Iratus Herodes iussit
+      <app>
+            <rdg wit="CAO-D Cdm Pet"> omnes pueros occidi a bimatu et infra</rdg>
+            <rdg wit="Hyd"> occidi omnes pueros</rdg>
+            <rdg wit="Wor"> omnes pueros occidi</rdg>
+         </app> in Bethleem Judae</vBody>
+      <rep type="r" wit="CAO-D Hyd Cdm Wor Pet">Rachel</rep>
+   </verses>
+</res>

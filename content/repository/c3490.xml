@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3489" nextid="c3491" id="c3490">
+   <header>
+      <usage ms="Alb2" code="06021000">[69v] nones-a1</usage>
+      <usage ms="Bat" code="06021000">[44v] terce</usage>
+      <usage ms="Cdm" code="06021000">[52v] terce-a1</usage>
+      <usage ms="Cht" code="06021000">[15v] prime-a1</usage>
+      <usage ms="Ely" code="06021000">[62v] nones-a1</usage>
+      <usage ms="Evm" code="06028000"/>
+      <usage ms="Glo" code="06028000"/>
+      <usage ms="Hyd" code="06021000">[64v] sext</usage>
+      <usage ms="Mch" code="06021000">[105v] prime</usage>
+      <usage ms="Pet" code="06021000">[59v] nones</usage>
+      <usage ms="Wor" code="06028000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Evm Glo Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Evm Glo Cdm Mch Bat"> Jesus haec dicens clamabat</rdg>
+         <rdg wit="CAO-D"> Jesus haec clamabat dicens</rdg>
+      </app> qui habet aures audiendi audiat</aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5011" nextid="c5012b" id="c5012">
+   <aBody wit="CAO-B CAO-E CAO-H CAO-R CAO-D"> Stabunt iusti in magna constantia adversus eos qui se angustiaverunt
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et qui abstulerunt labores eorum alleluia</rdg>
+         <rdg wit="CAO-E"> et qui abstulerunt labores illorum alleluia</rdg>
+         <rdg wit="CAO-D"> et qui abstulerunt labores illorum</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-L"> Stabunt iusti in magna constantia adversus eos qui se angustiaverunt alleluia</aBody>
+</ant>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7638" nextid="c7640" id="c7639">
+   <header>
+      <usage ms="Alb2" code="07032000"/>
+      <usage ms="Bat" code="07032000">[55r] vesp2</usage>
+      <usage ms="Cdm" code="07031000">[65v] vesp2</usage>
+      <usage ms="Cht" code="07032000"/>
+      <usage ms="Ely" code="07032000"/>
+      <usage ms="Evm" code="07031000">[123v] vesp2</usage>
+      <usage ms="Glo" code="07031000">[65r] vesp2</usage>
+      <usage ms="Hyd" code="07032000"/>
+      <usage ms="Mch" code="07021000">[124r] lauds</usage>
+      <usage ms="Pet" code="07031000">[74r] vesp2</usage>
+      <usage ms="Wcb" code="07031000"/>
+      <usage ms="Wor" code="07032000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Septies in die</rdg>
+         <rdg wit="Cht">
+            <sic resp="DC">Species</sic> in die</rdg>
+      </app> laudem dixi tibi domine deus meus ne perdas me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Erravi sicut ovis quae perierat require servum tuum domine quia mandata tua non sum oblitus</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Ne perdas</rep>
+      <dox type="r" wit="Evm Glo Alb2">Gloria</dox>
+      <rep type="r" num="2" wit="Evm Alb2">Septies</rep>
+      <rep type="r" num="2" wit="Glo">Ne</rep>
+   </verses>
+</res>

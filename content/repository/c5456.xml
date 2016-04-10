@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5455" nextid="c5457" id="c5456">
+   <header>
+      <usage ms="Bat" code="14122900">[24r] matins-n3</usage>
+      <usage ms="Cdm" code="02122500">[23v] lauds commemoratio</usage>
+      <usage ms="Cdm" code="02123000">[31v] matins-n3</usage>
+      <usage ms="Pet" code="02122508">[20r] </usage>
+      <usage ms="Wcb" code="02122500">[58r] vesp2 commemoratio</usage>
+      <usage ms="Wor" code="02122800">[23v] commemoration</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.157</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wcb Bat Cdm Wor Pet"> Virgo verbo concepit</rdg>
+         <rdg wit="CAO-M"> Virgo verbum concepit</rdg>
+      </app> virgo permansit virgo peperit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Wcb Cdm Bat Wor Pet"> regem omnium regum</rdg>
+         <rdg wit="CAO-L"> regem omnium rerum</rdg>
+      </app>
+   </aBody>
+</ant>

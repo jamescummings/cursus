@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7502" nextid="c7504" id="c7503">
+   <header>
+      <usage ms="Glo" code="14022200"/>
+   </header>
+   <rBody wit="CAO-D CAO-F Glo"> Quodcumque ligaveris super terram
+     <app>
+         <rdg wit="CAO-D CAO-F"> erit ligatum et caelis</rdg>
+         <rdg wit="Glo"> erit ligatum et in caelis</rdg>
+      </app> et quodcumque solveris super terram erit solutum et in caelis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F"> Et claves regni caelorum tibi Petre dabo</vBody>
+      <vBody type="r" wit="CAO-D"> Et ego dico tibi quia tu es Petrus et super hanc petram aedificabo ecclesiam meam</vBody>
+      <vBody type="r" wit="Glo">Tu es Petrus et super hanc petram aedificabo ecclesiam meam </vBody>
+      <rep type="r" wit="CAO-D CAO-F Glo">Et quodcumque</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

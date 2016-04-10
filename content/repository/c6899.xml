@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6898" nextid="c6900" id="c6899">
+   <header>
+      <usage ms="Alb2" code="07061000">[103v] matins-n1-r1</usage>
+      <usage ms="Bat" code="07061000">[62r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="07061000">[74r] matins-r1</usage>
+      <usage ms="Cht" code="07061000">[53r] matins-n1-r1</usage>
+      <usage ms="Ely" code="07061000">[85r] matins-n1-r1</usage>
+      <usage ms="Evm" code="07061000">[141r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="07061000">[90r] matins-n1-r1</usage>
+      <usage ms="Mch" code="07061000">[151v] matins-n1-r1</usage>
+      <usage ms="Pet" code="07061000">[83v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="07061000">[111r] matins-n1-r1</usage>
+      <usage ms="Wor" code="07061000">[55r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> In die qua invocavi te domine</rdg>
+         <rdg wit="CAO-S"> In die qua invocabi te domine</rdg>
+      </app> dixisti noli timere iudicasti causam meam et liberasti me deus meus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E"> Deus deus meus respice in me quare me dereliquisti longe a salute mea</vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-R"> Deus meus eripe me de manu peccatoris et de manu contra legem agentis et iniqui</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> In die tribulationis meae clamavi ad te quia exaudisti me</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat">Iudicasti</rep>
+      <rep type="r" wit="CAO-G CAO-D CAO-F CAO-S Hyd Mch">Et liberasti</rep>
+   </verses>
+</res>

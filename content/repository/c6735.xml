@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6734" nextid="c6736" id="c6735">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Filiae Jerusalem venite et videte
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> martyres</rdg>
+         <rdg wit="CAO-B CAO-M CAO-D"> martyrem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F CAO-S CAO-L"> cum coronis quibus</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> cum corona qua</rdg>
+         <rdg wit="CAO-E"> cum coronis quas</rdg>
+         <rdg wit="CAO-D"> cum <corr sic="coronis">corona</corr> quibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L"> coronavit eos</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-D"> coronavit eum</rdg>
+      </app> dominus in die solemnitatis et laetitiae alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quoniam confortavit seras portarum tuarum benedixit
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> filiis tuis</rdg>
+            <rdg wit="CAO-L"> filios tuos</rdg>
+         </app> in te</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> In die</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+   </verses>
+</res>

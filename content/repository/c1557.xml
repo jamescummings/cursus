@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1556" nextid="c1558" id="c1557">
+   <aBody wit="CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-H CAO-R"> Beata <name reg="Agatha" type="saint">Agathes</name> ingressa carcerem</rdg>
+         <rdg wit="CAO-D">
+            <name reg="Agatha" type="saint">Agathes</name> ingressa carcerem</rdg>
+         <rdg wit="CAO-F">
+            <name reg="Agatha" type="saint">Agatha</name> ingressa carcerem</rdg>
+      </app> benedicebat dominum Jesum Christum</aBody>
+</ant>

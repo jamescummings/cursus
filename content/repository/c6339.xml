@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6338" nextid="c6340" id="c6339">
+   <rBody wit="CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L"> Corde et animo Christo canamus gloriam
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S CAO-L"> in hac sacra solemnitate</rdg>
+         <rdg wit="CAO-F"> in has sacris solemniis</rdg>
+      </app> praecelsae genitricis Dei
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-L"> virginis Mariae</rdg>
+         <rdg wit="CAO-S"> Mariae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L">
+            <app>
+               <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-S"> ut ipsa intercedat</rdg>
+               <rdg wit="CAO-L"> ut intercedat</rdg>
+            </app> pro nobis ad dominum</rdg>
+         <rdg wit="CAO-F CAO-S" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> Cum iucunditate nativitatem sanctae Mariae</rdg>
+            <rdg wit="CAO-L"> Cum iucunditatem nativitatem beatae Mariae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> solemniter celebremus</rdg>
+            <rdg wit="CAO-L"> celebremus</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-L"> Ut</rep>
+      <vBody type="r" wit="CAO-S"> Gaudeamus et exsultemus in domino omnes recti corde in unitate fidei congregati</vBody>
+      <vBody type="r" wit="CAO-F"> Omnes pariter congregati Christo canamus gloriam</vBody>
+      <rep type="r" wit="CAO-S CAO-F"> In</rep>
+   </verses>
+</res>

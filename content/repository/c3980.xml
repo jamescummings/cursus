@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3979" nextid="c3981" id="c3980">
+   <aBody wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Nuptiae quidem paratae sunt sed qui invitati erant non fuerunt digni
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R"> ite ad exitus viarum</rdg>
+         <rdg wit="CAO-M CAO-D CAO-F"> ite ergo ad exitus viarum</rdg>
+      </app> et quoscumque inveneritis
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> vocate ad nuptias dicit dominus</rdg>
+         <rdg wit="CAO-D CAO-F"> vocate ad nuptias alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

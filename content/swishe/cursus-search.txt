@@ -1,0 +1,110 @@
+CURSUS Search Facility
+======================
+
+----------------------------------------------------------------------------------------------------
+Author: Richard Lewis <richardlewis@fastmail.co.uk>
+Modified: 2006-08-01 12:33
+----------------------------------------------------------------------------------------------------
+
+The CURSUS  search facility is  powered by the  Swish-e HTML/XML indexer  <http://swish-e.org>. This
+tool  allows full text  indexes to  be generated  from collections  of marked  up documents  and for
+keyword searches to be performed against those indexes.
+
+Swish-e's optimum method is to index HTML documents  and to return one hit per document. In order to
+fit this  model, the CURSUS  data is  filtered into HTML  formatted document fragments  (or "virtual
+documents") using  the Python  scripts in this  directory. These  scripts return the  HTML documents
+sequentially in the form required by the Swish-e indexer.
+
+The HTML document fragments consist of the  unformatted text of the document fragment (see below for
+what  constitutes a  "fragment" for  each collection)  inside the  <body> element,  a title  for the
+fragment inside the <title> element and  additional "fields" encoded using <meta> tags which Swish-e
+can index automatically (all of the indexes include a <meta> for their id value).
+
+----------------------------------------------------------------------------------------------------
+Usage
+~~~~~
+
+The shell script "index-all.sh" performs the complete indexing process.
+
+To execute it:
+
+cursus@musariada:/var/webapps/cursus/content/swishe$ ./index-all.sh
+
+It is  advisable, though, to run  each of the  Python scripts first to  make sure that they  are not
+going to return any errors.  This takes a little time, but it is probably worth it!
+
+To execute them:
+
+cursus@musariada:/var/webapps/cursus/content/swishe$ ./get-vulgate-fragments.py >/dev/null
+cursus@musariada:/var/webapps/cursus/content/swishe$ ./get-incipit-fragments.py >/dev/null
+cursus@musariada:/var/webapps/cursus/content/swishe$ ./get-mss-fragments.py >/dev/null
+
+(redirecting the output to /dev/null means that it doesn't fill your screen with 42MB of text data!)
+Any error messages will cause  the script to stop and the error will be  printed on the screen, even
+with the redirection used above.
+
+----------------------------------------------------------------------------------------------------
+Index Descriptions:
+ ~~~~~~~~~~~~~~~~~~~
+
+The Vulgate Index
+-----------------
+Python script: get-vulgate-fragments.py
+
++--------------------+---------------------------------------------------------------+
+|  Content part      |  Format / data used                                           |
++--------------------+---------------------------------------------------------------+
+| path/id            | The same "id" values as used in both the Vulgate XML and HTML |
+|                    | "B.BookName.ccc.vvv"                                          |
++--------------------+---------------------------------------------------------------+
+| title              | In the form "Book Name v:v                                    |
++--------------------+---------------------------------------------------------------+
+| meta: book         | The name of the book                                          |
++--------------------+---------------------------------------------------------------+
+| meta: verse        | The verse number as "c:v"                                     |
++--------------------+---------------------------------------------------------------+
+| content            | The verse text with no additional markup                      |
++--------------------+---------------------------------------------------------------+
+
+The Incipits Index
+------------------
+Python script: get-incipit-fragments.py
+
++--------------------+---------------------------------------------------------------+
+|  Content part      |  Format / data used                                           |
++--------------------+---------------------------------------------------------------+
+| path/id            | The incipit id "[c|o]nnnn"                                    |
++--------------------+---------------------------------------------------------------+
+| title              | In the form: "Antiphon|Respond|Prayer: {first 30 characters   |
+|                    | of the incipit text}"                                         |
++--------------------+---------------------------------------------------------------+
+| meta: type         | [ant|res|prayer]                                              |
++--------------------+---------------------------------------------------------------+
+| conent             | The complete text of the incipit including all the possible   |
+|                    | readings with no additional markup                            |
++--------------------+---------------------------------------------------------------+
+
+The Manuscripts Index
+---------------------
+Python script: get-mss-fragments.py
+
++--------------------+---------------------------------------------------------------+
+|  Content part      |  Format / data used                                           |
++--------------------+---------------------------------------------------------------+
+| path/id            | The same "id" values used in the manuscipts HTML view:        |
+|                    | "msid.feast-code-service-code"                                |
++--------------------+---------------------------------------------------------------+
+| meta: ms-id        | The manuscript id                                             |
++--------------------+---------------------------------------------------------------+
+| meta: feast-code   | The feast code (see cantus/feast.xml)                         |
++--------------------+---------------------------------------------------------------+
+| meta: day-num      | The day number as used in the manuscript XML files            |
++--------------------+---------------------------------------------------------------+
+| meta: service-name | The service short/code name, e.g. "vesp1"                     |
++--------------------+---------------------------------------------------------------+
+| content            | Each document contains a whole *service*. All the text from   |
+|                    | the source document is included and all the bible and incipit |
+|                    | references' text is interpolated as well.                     |
++--------------------+---------------------------------------------------------------+
+
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6897" nextid="c6899" id="c6898">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> In diademate capitis Aaron lapides pretiosi
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> fulgebant</rdg>
+         <rdg wit="CAO-M CAO-S"> fulgebunt</rdg>
+      </app> dum perficeretur opus Dei alleluia alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Corona aurea</rdg>
+            <rdg wit="CAO-E"> Coronam auream</rdg>
+         </app> super caput eius
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> expressa</rdg>
+            <rdg wit="CAO-E"> expressam</rdg>
+         </app> signo sanctitatis</vBody>
+      <vBody type="r" wit="CAO-G"> Corona aurea super caput eius</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> In veste enim
+       <app>
+            <rdg wit="CAO-S CAO-L"> poderis</rdg>
+            <rdg wit="CAO-S"> pudoris</rdg>
+         </app> quam habebat totus erat orbis terrarum et parentum magnalia in quatuor ordinibus lapidum erant
+       <app>
+            <rdg wit="CAO-L"> sculpta</rdg>
+            <rdg wit="CAO-S"> sculpti</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Dum</rep>
+   </verses>
+</res>

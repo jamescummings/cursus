@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1736" nextid="o1738" id="o1737">
+   <header>
+      <usage ms="Ely" code="01000000">[5v] </usage>
+      <usage ms="Hyd" code="01000000">[4v] </usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Ely"> Porrige nobis domine quaesumus dexteram tuaae visitationis et veni et peccata nostra propitius absolve</pBody>
+</prayer>

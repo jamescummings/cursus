@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3453" nextid="c3455" id="c3454">
+   <aBody wit="CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Ita per Mauri meritum</l>
+         <l part="N"> vini redundat vasculum</l>
+         <l part="N"> ut uni quod via satis est</l>
+         <l part="N"> tot sitientes satiet</l>
+      </lg>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7117" nextid="c7119" id="c7118">
+   <header>
+      <usage ms="Cht" code="05031000">[3r] vesp1</usage>
+   </header>
+   <rBody wit="CAO-H CAO-S CAO-L Cht"> Magnus dominus noster et magna virtus eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-S CAO-L Cht">Et sapientiae eius non est numerus</vBody>
+      <rep type="r" wit="CAO-S CAO-L">Et magna</rep>
+   </verses>
+</res>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2771" nextid="c2773" id="c2772">
+   <header>
+      <usage ms="Hyd" code="10800000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-D CAO-L Hyd"> Exaudiat dominus orationes vestras et reconcilietur vobis
+     <app>
+         <rdg wit="CAO-L Hyd"> nec vos deserat in tempore malo</rdg>
+         <rdg wit="CAO-D"> ne vos deserat in tempore malo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-L"> dominus deus noster</rdg>
+         <rdg wit="Hyd"> dominus deus noster alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

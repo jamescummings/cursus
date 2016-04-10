@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6747" nextid="c6749" id="c6748">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Fuerunt sine querela ante dominum et ab invicem
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> non sunt separati</rdg>
+         <rdg wit="CAO-V"> non separati sunt</rdg>
+      </app> calicem domini biberunt et amici Dei facti sunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tradiderunt corpora sua
+       <app>
+            <rdg wit="CAO-E CAO-H CAO-R CAO-F CAO-L"> propter Deum</rdg>
+            <rdg wit="CAO-C CAO-V CAO-D CAO-S" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ad supplicia</rdg>
+            <rdg wit="CAO-V"> ad supplicium et</rdg>
+         </app> ideo coronantur et accipiunt
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> palmam</rdg>
+            <rdg wit="CAO-V CAO-L"> palmas</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-M"> Tradiderunt corpora sua propter Deum ad supplicia et meruerunt habere coronas perpetuas</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Calicem</rep>
+   </verses>
+</res>

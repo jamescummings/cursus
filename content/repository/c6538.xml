@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6537b" nextid="c6539" id="c6538">
+   <rBody wit="CAO-M CAO-V CAO-L"> Dum dormiret Jacob vidit scalam positam super terram et cacumen eius
+      <app>
+         <rdg wit="CAO-L"> tangens caelum</rdg>
+         <rdg wit="CAO-M"> tanget caelum</rdg>
+         <rdg wit="CAO-V"> tangens coelos</rdg>
+      </app> et angelos ascendentes et descendentes et evigilans a somno dixit Vere domus Dei hic est</rBody>
+   <verses>
+      <vBody id="c6538-1" type="r" wit="CAO-M CAO-V"> Hic domus Dei est
+       <app>
+            <rdg wit="CAO-M"> et porta caeli</rdg>
+            <rdg wit="CAO-V"> et portas caeli</rdg>
+         </app> et ego nesciebam</vBody>
+      <rep corresp="c6538-1" type="r" wit="CAO-M CAO-V"> Et angelos</rep>
+      <vBody id="c6538-2" type="r" wit="CAO-V"> Hic domus Dei est et porta caeli et ego nesciebam</vBody>
+      <rep corresp="c6538-2" type="r" wit="CAO-V">Et evigilans</rep>
+      <vBody id="c6538-3" type="r" wit="CAO-L"> Tollens ergo Jacob lapidem ccsupposuit capiti suo cumque obdormisset vidit in somnis scalam erectam</vBody>
+      <rep corresp="c6538-3" type="r" wit="CAO-L">Et angelos</rep>
+      <vBody id="c6538-4" type="r" wit="CAO-V"> Tollens ergo Jacob lapidem supposuit capiti suo cumque obdormisset vidit in somnis scalam erectam</vBody>
+      <rep corresp="c6538-4" type="r" wit="CAO-V"> Et evigilans</rep>
+   </verses>
+</res>

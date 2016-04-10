@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1464" nextid="c1466" id="c1465">
+   <header>
+      <usage ms="Alb2" code="07057000">[103r] lauds</usage>
+      <usage ms="Cdm" code="07057000">[73v] lauds-a1</usage>
+      <usage ms="Cht" code="07056000">[52v] vesp2</usage>
+      <usage ms="Ely" code="07064000">[88r] lauds</usage>
+      <usage ms="Evm" code="07056000">[140r] vesp2</usage>
+      <usage ms="Glo" code="07056000">[72r] vesp2</usage>
+      <usage ms="Hyd" code="07064000">[93r] lauds</usage>
+      <usage ms="Mch" code="07057000">[151r] lauds gosp</usage>
+      <usage ms="Pet" code="07056000">[83r] sext-a1</usage>
+      <usage ms="Wcb" code="07056000">[110v] vesp2</usage>
+      <usage ms="Wor" code="07056000">[55r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Appropinquabat autem dies festus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm"> et quaerebant principes sacerdotum</rdg>
+         <rdg wit="CAO-V"> et quaerebat principes sacerdotum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm"> quomodo Jesum interficerent</rdg>
+         <rdg wit="CAO-V"> quomodo Jesu interficerent</rdg>
+      </app> sed timebant plebem</aBody>
+</ant>

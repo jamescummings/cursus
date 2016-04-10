@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6454" nextid="c6456" id="c6455">
+   <rBody wit="CAO-S CAO-L"> Diligebat
+      <app>
+         <rdg wit="CAO-S CAO-L"> dominus</rdg>
+         <rdg wit="CAO-S">
+            <corr sic="dominum">dominus</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> Mariam et Martham</rdg>
+         <rdg wit="CAO-S"> Maria et Martha</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> et vocavit eam</rdg>
+         <rdg wit="CAO-S"> et vocavit eas</rdg>
+      </app> nomine suo at illa statim surrexit proiecit se ad pedes eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S CAO-L"> Domine si fuisses hic frater meus
+       <app>
+            <rdg wit="CAO-L"> non fuisset mortuus</rdg>
+            <rdg wit="CAO-S"> non esset mortuus</rdg>
+         </app> respondit Jesus et dixit ei resurget frater tuus</vBody>
+      <rep type="r" wit="CAO-S CAO-L"> At illa</rep>
+   </verses>
+</res>

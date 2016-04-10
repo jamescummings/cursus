@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6052" nextid="c6053b" id="c6053">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Advenit ignis divinus non comburens sed illuminans
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-R"> non consumens</rdg>
+         <rdg wit="CAO-D CAO-S CAO-L Hyd"> nec consumens</rdg>
+         <rdg wit="CAO-V"> ne consumens</rdg>
+         <rdg wit="CAO-F"> nec consumans</rdg>
+      </app> sed lucens
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et invenit corda</rdg>
+         <rdg wit="CAO-G CAO-V"> et implevit corda</rdg>
+      </app> discipulorum receptacula munda
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-L Hyd"> et tribuit eis</rdg>
+         <rdg wit="CAO-R CAO-S"> et tribuens eis</rdg>
+      </app> charismatum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> dona</rdg>
+         <rdg wit="CAO-V"> donum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-R CAO-F CAO-S CAO-L"> alleluia alleluia</rdg>
+         <rdg wit="CAO-E CAO-D Hyd"> alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Invenit eos
+      <app>
+            <rdg wit="CAO-R CAO-D CAO-F CAO-L Hyd"> concordes caritate</rdg>
+            <rdg wit="CAO-S"> concordantes caritate</rdg>
+            <rdg wit="CAO-G"> concordes caritatis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S CAO-L"> et illustravit eos</rdg>
+            <rdg wit="CAO-G CAO-R Hyd"> et collustravit eos</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-S CAO-L Hyd"> inundans divinitas deitatis</rdg>
+            <rdg wit="CAO-R"> inundans trinitatis divinitas</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E"> Descendit de caelis spiritus paraclitus apparuitque super eos in igneis linguis et replevit eos amore caritatis</vBody>
+      <vBody type="r" wit="CAO-V"> Invenit eos concordes in fide propterea dedit eis caeleste donum</vBody>
+      <vBody type="r" wit="CAO-C"> Loquebantur variis linguis apostoli magnalia dei</vBody>
+      <rep type="r" wit="CAO-E">Et invenit</rep>
+      <rep type="r" wit="CAO-R CAO-S CAO-V">Et tribuens</rep>
+      <rep type="r" wit="CAO-G CAO-D CAO-F CAO-L CAO-C Hyd">Et tribuit</rep>
+   </verses>
+</res>

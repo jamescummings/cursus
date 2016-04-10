@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6229b" nextid="c6231" id="c6230">
+   <rBody wit="CAO-E CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-F CAO-L"> Beatus vir qui inventus est</rdg>
+         <rdg wit="CAO-E"> Beatus vir qui inventus</rdg>
+      </app> sine macula
+      <app>
+         <rdg wit="CAO-E CAO-L"> et qui post aurum non abiit</rdg>
+         <rdg wit="CAO-F">  qui post aurum non abiit</rdg>
+      </app> nec speravit
+      <app>
+         <rdg wit="CAO-E CAO-F"> in thesauris pecuniae</rdg>
+         <rdg wit="CAO-L">  in pecuniae thesauris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F"> ideo stabilita sunt bona illius in domino</rdg>
+         <rdg wit="CAO-L" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F"> Potuit enim transgredi et non est transgressus facere mala et non fecit</vBody>
+      <vBody type="r" wit="CAO-L"> Quis est hic et laudabimus eum fecit enim mirabilia in vita sua</vBody>
+      <rep type="r" wit="CAO-E CAO-F">Ideo</rep>
+      <rep type="r" wit="CAO-L">Nec</rep>
+   </verses>
+</res>

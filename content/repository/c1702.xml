@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1701" nextid="c1703" id="c1702">
+   <aBody wit="CAO-B" type="incipit">Benedico te pater</aBody>
+   <aBody wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Benedico te pater domini mei Jesu Christi quia per apostolum tuum
+     <app>
+         <rdg wit="CAO-G CAO-S CAO-L"> mamillam meam</rdg>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D"> mamillas meas</rdg>
+         <rdg wit="CAO-V"> mamilla mea</rdg>
+         <rdg wit="CAO-F"> mamillam</rdg>
+      </app> meo pectori restituisti</aBody>
+</ant>

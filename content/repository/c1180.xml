@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1179" nextid="c1181" id="c1180">
+   <header>
+      <usage ms="Cdm" code="07012000">matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-L Cdm"> Venite exsultemus domino
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-L"> iubilemus deo salutari nostro</rdg>
+         <rdg wit="Cdm"> iubilemus</rdg>
+      </app>
+   </aBody>
+</ant>

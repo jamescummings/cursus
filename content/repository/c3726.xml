@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3725" nextid="c3727" id="c3726">
+   <header>
+      <usage ms="Cht" code="07043000">[43v] terce</usage>
+      <usage ms="Evm" code="07043000">[131r] lauds</usage>
+      <usage ms="Glo" code="07043000">[68v] lauds</usage>
+      <usage ms="Wcb" code="07043000"/>
+   </header>
+   <aBody wit="CAO-F Cht Evm Wcb"> Mea doctrina non est mea sed eius qui misit me patris</aBody>
+   <aBody wit="Glo" type="incipit"> Mea doctrina</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1586" nextid="o1588" id="o1587">
+   <header>
+      <usage ms="Hyd" code="07045000">[84v] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.475</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd">Praetende nobis domine misericordiam tuam ut quae votis expetimus conversatione tibi placita consequamur</pBody>
+</prayer>

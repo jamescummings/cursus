@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3693" nextid="c3695" id="c3694">
+   <header>
+      <usage ms="Hyd" code="08014000">[103v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-V CAO-L Hyd"> Manifestavit se Jesus ad mare Tiberiadis
+     <app>
+         <rdg wit="CAO-V CAO-L Hyd"> alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1003" nextid="o1005" id="o1004">
+   <header>
+      <usage ms="Cdm" code="06034000">[55r] matins</usage>
+      <usage ms="Cht" code="06034000"/>
+      <usage ms="Ely" code="06034000">[64v] lauds</usage>
+      <usage ms="Evm" code="06034000">[102v] lauds</usage>
+      <usage ms="Hyd" code="06034000">[67r] lauds</usage>
+      <usage ms="Mch" code="06034000">[109v] lauds</usage>
+      <usage ms="Wcb" code="06034000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.154</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Hyd Ely Evm Wcb Cdm Mch">
+      <app>
+         <rdg wit="Ely Wcb Mch">Praesta domine fidelibus tuis ut ieiuniorum veneranda solemnia</rdg>
+         <rdg wit="Hyd Cht Evm Cdm">Praesta quaesumus domine fidelibus tuis ut ieiuniorum veneranda solemnia</rdg>
+      </app> et congrua pietate suscipiant et secura devotione percurrant</pBody>
+</prayer>

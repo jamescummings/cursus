@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7444" nextid="c7446" id="c7445">
+   <rBody wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-L"> Psallite domino qui ascendit super caelos caelorum ad orientem alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-L">Ecce dabit
+      <app>
+            <rdg wit="CAO-C CAO-M CAO-V"> vocis suae</rdg>
+            <rdg wit="CAO-H CAO-R"> voci suae</rdg>
+            <rdg wit="CAO-L"> vocem suam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R"> vocem virtutis</rdg>
+            <rdg wit="CAO-L"> vocem virtutis suae</rdg>
+         </app> date honorem Deo</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-V CAO-H CAO-R">Qui</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+   </verses>
+</res>

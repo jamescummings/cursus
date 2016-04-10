@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2450" nextid="c2452" id="c2451">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-F"> Dum esset summus pontifex</rdg>
+         <rdg wit="CAO-H CAO-R"> Qui dum esset summus pontifex</rdg>
+      </app> terrena non meruit sed ad caelestia
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-F"> regna gloriosus migravit</rdg>
+         <rdg wit="CAO-H CAO-R"> regna gloriose migravit</rdg>
+      </app>
+   </aBody>
+</ant>

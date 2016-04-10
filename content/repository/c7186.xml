@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7185" nextid="c7187" id="c7186">
+   <rBody wit="CAO-C CAO-M"> Multi caeci et imbecilles venientes ad custodiam
+      <app>
+         <rdg wit="CAO-M"> Laurentii</rdg>
+         <rdg wit="CAO-C"> beati Laurentii</rdg>
+      </app> orando sanctus Hippolytus ponebat manus
+      <app>
+         <rdg wit="CAO-M"> curabat</rdg>
+         <rdg wit="CAO-C"> curavit</rdg>
+      </app> eos propterea a militibus comprehensus ducebatur ad Decium</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M"> Justinus et Hippolytus rapuerunt corpus
+       <app>
+            <rdg wit="CAO-M"> beati Laurentii</rdg>
+            <rdg wit="CAO-C"> Laurentii</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M"> et sepelierunt illud</rdg>
+            <rdg wit="CAO-C"> et sepelierunt</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-M">Propterea</rep>
+   </verses>
+</res>

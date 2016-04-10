@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7181" nextid="c7183" id="c7182">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Mox ut vocem domini praedicantis audivit beatus Andreas relictis retibus
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> quorum</rdg>
+         <rdg wit="CAO-E"> quarum</rdg>
+      </app> usu actuque
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> vivebat</rdg>
+         <rdg wit="CAO-F"> vivebant</rdg>
+      </app> aeternae vitae secutus est
+      <app>
+         <rdg wit="CAO-D"> praemia largitorem</rdg>
+         <rdg wit="CAO-H CAO-S"> praemii largitorem</rdg>
+         <rdg wit="CAO-L"> praemiorum largitorem</rdg>
+         <rdg wit="CAO-B CAO-V CAO-R"> praemia largientem</rdg>
+         <rdg wit="CAO-F"> praemia largiente</rdg>
+         <rdg wit="CAO-E CAO-M"> praemia largitoris</rdg>
+         <rdg wit="CAO-C"> praemia largitori</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Ad unius iussionis vocem Petrus et Andreas relictis retibus
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R"> secuti sunt redemptorem</rdg>
+            <rdg wit="CAO-V"> et navi secuti sunt dominum redemptorem</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-F CAO-S"> Ad unius iussionis vocem</rdg>
+            <rdg wit="CAO-L"> Ad cuius iussionem</rdg>
+         </app> Petrus et Andreas relictis
+       <app>
+            <rdg wit="CAO-S CAO-L"> retibus</rdg>
+            <rdg wit="CAO-F"> retibus suis</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Andreas Christi famulus dignus Deo apostolus germanus Petri et in passione socius</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-F CAO-S CAO-L">Quorum</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-H CAO-R">Praemia</rep>
+      <rep type="r" wit="CAO-V">Aeternae</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5345" nextid="c5347" id="c5346">
+   <header>
+      <usage ms="Hyd" code="08015000">[104r] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Venit Maria nuntians discipulis
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> quia vidi dominum alleluia</rdg>
+         <rdg wit="Hyd">quia vidit dominum alleluia</rdg>
+         <rdg wit="CAO-L"> quia vidi dominum alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

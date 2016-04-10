@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1525" nextid="o1527" id="o1526">
+   <header>
+      <usage ms="Alb2" code="07024000"/>
+      <usage ms="Bat" code="07024000">[53r] lauds</usage>
+      <usage ms="Cdm" code="07024000">[62v] lauds-a2</usage>
+      <usage ms="Cht" code="07024000"/>
+      <usage ms="Ely" code="07024000"/>
+      <usage ms="Evm" code="07024000"/>
+      <usage ms="Hyd" code="07024000"/>
+      <usage ms="Mch" code="07024000">[126v] lauds</usage>
+      <usage ms="Wcb" code="07024000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.213</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="Ely Hyd Cht Evm Wcb Alb2 Bat">Populum tuum quaesumus domine</rdg>
+         <rdg wit="Cdm Mch">Populum tuum domine</rdg>
+      </app> propitius respice et quos ab escis carnalibus praecepis abstinere a noxiis quoque vitiis cessare concede</pBody>
+</prayer>

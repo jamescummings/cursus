@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6658" nextid="c6660" id="c6659">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S"> Eodem vero anno
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F"> quo</rdg>
+         <rdg wit="CAO-C CAO-S"> quod</rdg>
+      </app> de hac vita erat exiturus quibusdam discipulis secum conversantibus quibusdam longe manentibus
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F"> sanctissimi sui obitus denuntiavit diem</rdg>
+         <rdg wit="CAO-S"> sanctissimum sui obitus denuntiabit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-D CAO-F"> Praesentibus indicens ut audita</rdg>
+            <rdg wit="CAO-C"> Ut audita</rdg>
+         </app> per silentium tegerent absentibus
+       <app>
+            <rdg wit="CAO-F"> indicans quod vel</rdg>
+            <rdg wit="CAO-C"> indicens quod vel</rdg>
+            <rdg wit="CAO-D" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F"> quale eis signum</rdg>
+            <rdg wit="CAO-C"> quale ei signum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-F"> fieret</rdg>
+            <rdg wit="CAO-D">
+               <corr sic="fierent">fieret</corr>
+            </rdg>
+         </app> quando eius anima de corpore exiret</vBody>
+      <vBody type="r" wit="CAO-H CAO-R"> Indicans namque discipulis quale eis signum fieret quando
+       <app>
+            <rdg wit="CAO-H"> eius anima</rdg>
+            <rdg wit="CAO-R"> eius sanctissima anima</rdg>
+         </app> de corpore exiret</vBody>
+      <vBody type="r" wit="CAO-S"> Recessit igitur scienter nescius et sapienter indoctus</vBody>
+      <rep type="r" wit="CAO-H"> Quibusdam</rep>
+      <rep type="r" wit="CAO-S"> Sanctissimum</rep>
+      <rep type="r" wit="CAO-C CAO-D CAO-F CAO-R"> Sanctissimi</rep>
+   </verses>
+</res>

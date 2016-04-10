@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7311" nextid="c7313" id="c7312">
+   <rBody wit="CAO-E CAO-F CAO-S"> Offerentur regi virgines domino
+     <app>
+         <rdg wit="CAO-E CAO-F"> post eam</rdg>
+         <rdg wit="CAO-S"> post ea</rdg>
+      </app> proximae eius offerentur tibi in laetitia et exsultatione</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-S"> Prudentes virgines aptate lampades vestras ecce Sponsus venit exite obviam ei</vBody>
+      <vBody type="r" wit="CAO-E"> Propter veritatem et mansuetudinem et iustitiam</vBody>
+      <rep type="r" wit="CAO-E CAO-F">Offerentur</rep>
+      <rep type="r" wit="CAO-S">In laetitia</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4249b" nextid="c4251" id="c4250">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Paulus et Joannes dixerunt ad Terentianum si tuus dominus est Julianus habeto pacem cum illo
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> nobis alius non est</rdg>
+         <rdg wit="CAO-C CAO-F"> nobis aliud non est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> nisi dominus Jesus Christus</rdg>
+         <rdg wit="CAO-C CAO-M"> nisi unus dominus Jesus Christus</rdg>
+      </app>
+   </aBody>
+</ant>

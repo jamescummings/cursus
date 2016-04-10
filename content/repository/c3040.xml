@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3039" nextid="c3041" id="c3040">
+   <header>
+      <usage ms="Bat" code="06018000">[43r] </usage>
+      <usage ms="Glo" code="06018000">[50r] </usage>
+      <usage ms="Mch" code="06018000">[102r] gospel</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Glo Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-D Mch"> Hi novissimi una hora fecerunt</rdg>
+         <rdg wit="CAO-R CAO-F CAO-L Glo Bat"> Hii novissimi una hora fecerunt</rdg>
+      </app> et pares illos nobis fecisti qui portavimus pondus diei et aestus</aBody>
+</ant>

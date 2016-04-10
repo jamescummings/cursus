@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4887" nextid="c4889" id="c4888">
+   <header>
+      <usage ms="Alb2" code="07033000"/>
+      <usage ms="Evm" code="07033000"/>
+      <usage ms="Glo" code="07033000"/>
+      <usage ms="Wcb" code="07033000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-F CAO-S Evm Wcb Alb2">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-S Evm Wcb Alb2"> Si duo ex vobis consenserint super terram</rdg>
+         <rdg wit="CAO-C"> Si duo ex vobis consenserint</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-S Evm Wcb"> de omni re quamcumque petierint</rdg>
+         <rdg wit="CAO-C"> de omni quaecumque petierint</rdg>
+         <rdg wit="CAO-E CAO-V Alb2"> de omni re quodcumque petierint</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-S Evm Wcb"> fiet illis a patre meo dicit dominus</rdg>
+         <rdg wit="Alb2"> fiet illis a patre meo qui in caelis est dicit dominus</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Si duo ex vobis consenserint super terram</aBody>
+</ant>

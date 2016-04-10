@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6861" nextid="c6863" id="c6862">
+   <rBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N"> Hodie praeclarissimus</l>
+         <l part="N">Deo dignus episcopus</l>
+         <l part="N">Et Anglorum apostolus</l>
+         <l part="N">A terrenis separatus</l>
+         <l part="N">Coniunctus est caelestibus</l>
+         <l part="N">Cum gloria Gregorius</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Ecce vere Israelita in quo dolus non est</vBody>
+      <rep type="r" wit="CAO-R"> Coniunctus</rep>
+   </verses>
+</res>

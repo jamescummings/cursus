@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2095" nextid="c2097" id="c2096">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Damasci praepositus gentis Aretae regis voluit me comprehendere a fratribus per murum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-R CAO-F CAO-L"> submissus sum in sporta</rdg>
+         <rdg wit="CAO-V"> submissus in sporta</rdg>
+         <rdg wit="CAO-M CAO-H"> summissus sum in sporta</rdg>
+         <rdg wit="CAO-D"> summissus in sporta</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> et sic evasi manus eius</rdg>
+         <rdg wit="CAO-V"> et sic effugi manus eius</rdg>
+      </app> in nomine domini</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-C CAO-M CAO-F"> Deus et pater domini mei Jesu Christi</rdg>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D"> Deus et pater domini nostri Jesu Christi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-D CAO-F"> scit quia non mentior</rdg>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> scit quod non mentior</rdg>
+            <rdg wit="CAO-V">
+               <sic resp="Hesbert">sit</sic> qui est benedictus in saecula</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="c9546" nextid="o1002" id="o1001">
+   <header>
+      <usage ms="Mch" code="06011000">[99r] vesp1</usage>
+      <usage ms="Alb2" code="06011000">[64v] vesp1</usage>
+      <usage ms="Bat" code="06011000">[41v] vesp1</usage>
+      <usage ms="Cdm" code="06011000">[48v] vesp1</usage>
+      <usage ms="Ely" code="06011000">[59v] vesp1</usage>
+      <usage ms="Evm" code="06011000">[91r] vesp1</usage>
+      <usage ms="Hyd" code="06011000">[60v] vesp1</usage>
+      <usage ms="Wcb" code="06011000">[84v] vesp1</usage>
+   </header>
+   <pBody wit="Hyd Alb2 Ely Wcb Evm Cdm Bat Mch"> Preces populi tui quaesumus domine clementer exaudi ut qui iuste pro peccatis nostris affligimur pro tui nominis gloria misericorditer liberemur</pBody>
+</prayer>

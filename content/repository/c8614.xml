@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8613" nextid="c8615" id="c8614">
+   <header>
+      <usage ms="Ely" code="01041000">[14v] lauds gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">text closely related to antiphon c3781</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Ely"> Miserunt Judaei ab Jerosolimitis ab Jerosolymis sacerdotes et levitas ad Joannem ut interrogarent eum tu quis es quibus ait ego vox clamantis in deserto dirigite vias domini sicut dixit Isaias propheta</aBody>
+</ant>

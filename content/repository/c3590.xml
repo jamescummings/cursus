@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3589" nextid="c3591" id="c3590">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Laudem dicite deo nostro
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> omnes sancti eius</rdg>
+         <rdg wit="CAO-L"> omnes sancti dei</rdg>
+      </app> et qui timetis deum pusilli et magni
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-D CAO-F"> quoniam regnabit dominus</rdg>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-L"> quoniam regnavit dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L"> deus noster omnipotens</rdg>
+         <rdg wit="CAO-B"> deus <add place="margin">deus</add> noster omnipotens</rdg>
+         <rdg wit="CAO-F"> deus <add place="margin">dominus</add> noster omnipotens</rdg>
+      </app> gaudeamus et exsultemus
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F"> et demus gloriam ei</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> et demus gloriam deo</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3677" nextid="c3679" id="c3678">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+      <notesStmt>
+         <note resp="Hesbert" place="unspecified" anchored="yes">the reading of CAO-L represents a fusion of c3678 with c1467, q.v.</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Hyd Pet"> Magnum mysterium declaratur hodie quia creator omnium in Jordane expurgat nostra facinora</aBody>
+   <aBody wit="CAO-L"> Magnum mysterium declaratur hodie apparens liberator et rorat omnem mundum divinitatis opem</aBody>
+</ant>

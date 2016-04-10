@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4954" nextid="c4956" id="c4955">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] lauds gosp</usage>
+      <usage ms="Bat" code="06011000">[43r] lauds gosp</usage>
+      <usage ms="Cdm" code="06011000">[50r] lauds gosp</usage>
+      <usage ms="Cht" code="06011000">[12v] lauds gosp</usage>
+      <usage ms="Ely" code="06011000">[60v] lauds gosp</usage>
+      <usage ms="Evm" code="06011000">[94v] lauds</usage>
+      <usage ms="Hyd" code="06011000">[62r] lauds gosp</usage>
+      <usage ms="Mch" code="06011000">[102r] lauds gosp</usage>
+      <usage ms="Pet" code="06011000">[56v] lauds</usage>
+      <usage ms="Wcb" code="06011000">[86v] lauds</usage>
+      <usage ms="Wor" code="06011000">[37v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch Bat"> Simile est regnum caelorum homini patrifamilias</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> Simile est enim regnum caelorum homini patrifamilias</rdg>
+      </app> qui exiit primo mane conducere operarios
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L Alb2 Wcb Evm Mch"> in vineam suam dicit dominus</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F Hyd Cht Wor Pet Ely Cdm Bat">in vineam suam</rdg>
+      </app>
+   </aBody>
+</ant>

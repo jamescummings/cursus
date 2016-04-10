@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4033" nextid="c4035" id="c4034">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> O Jerusalem civitas dei summi</rdg>
+         <rdg wit="CAO-V"> O Jerusalem civitas sancta dei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> leva in circuitu oculos tuos</rdg>
+         <rdg wit="CAO-V"> leva oculos tuos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> et vide dominum deum tuum</rdg>
+         <rdg wit="CAO-V"> et vide dominum tuum venientem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> quia iam veniet solvere te a vinculis</rdg>
+         <rdg wit="CAO-E"> quia veniet solvere te a vinculis</rdg>
+         <rdg wit="CAO-V"> quia iam veniet solvere te a vinculo</rdg>
+      </app>
+   </aBody>
+</ant>

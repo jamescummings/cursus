@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5110" nextid="c5112" id="c5111">
+   <header>
+      <usage ms="Cdm" code="07064000">[77r] prime</usage>
+      <usage ms="Cht" code="07063000">[58v] vesp2</usage>
+      <usage ms="Ely" code="07064000">[88r] sext-a1</usage>
+      <usage ms="Evm" code="07063000">[146r] vesp2</usage>
+      <usage ms="Glo" code="07063000">[78r] vesp2</usage>
+      <usage ms="Hyd" code="07064000">[93v] nones</usage>
+      <usage ms="Pet" code="07065000">[88r] vesp1</usage>
+      <usage ms="Wcb" code="07063000">[114r] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Cht Hyd Pet Evm Wcb Glo Cdm"> Tanto tempore vobiscum eram
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Cht Hyd Pet Evm Wcb Glo Cdm">docens vos in templo</rdg>
+         <rdg wit="CAO-C CAO-E">docens in templo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Cht Hyd Pet Evm Wcb Glo Cdm">et non me tenuistis</rdg>
+         <rdg wit="CAO-M">non me tenuistis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Cht Hyd Pet Evm Wcb Glo">modo flagellatum</rdg>
+         <rdg wit="Cdm">
+            <add place="interlined">et</add> modo flagellatum</rdg>
+         <rdg wit="CAO-E Ely">et ecce flagellatum</rdg>
+      </app> ducitis ad crucifigendum</aBody>
+</ant>

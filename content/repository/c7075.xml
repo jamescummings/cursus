@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7074" nextid="c7076" id="c7075">
+   <header>
+      <usage ms="Alb2" code="02122600">[32r] matins-n2-r7</usage>
+      <usage ms="Bat" code="02122600">[19v] matins-n2-r7</usage>
+      <usage ms="Cdm" code="02122600">[25r] matins-n2-r7</usage>
+      <usage ms="Evm" code="02122600">[40r] matins-n2-r8</usage>
+      <usage ms="Pet" code="02122600">[23r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="02122600">[59r] matins-n2-r8</usage>
+      <usage ms="Wor" code="02122600">[18r] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-V CAO-R CAO-D CAO-S Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C Alb2 Evm Wcb Bat Cdm Wor Pet"> Lapides torrentes</rdg>
+         <rdg wit="CAO-G CAO-V CAO-R CAO-D CAO-S"> Lapides torrentis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-R CAO-D Alb2 Evm Wcb Bat Cdm Wor Pet"> illi dulces</rdg>
+         <rdg wit="CAO-C CAO-S"> illis dulces</rdg>
+         <rdg wit="CAO-V"> dulces illi</rdg>
+      </app> fuerunt ipsum sequuntur omnes animae iustae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Iustum deduxit dominus per vias rectas et ostendit illi regnum dei</vBody>
+      <vBody type="r" wit="CAO-D Bat Cdm"> Lapidaverunt Stephanum et ipse invocabat dominum dicens ne statuas illis hoc peccatum</vBody>
+      <vBody type="r" wit="CAO-G CAO-D Alb2 Wor Pet"> Mortem enim quam salvator dignatus est pro omnibus pati hanc ille primus reddidit salvatori</vBody>
+      <vBody type="r" wit="CAO-V CAO-R CAO-S Evm Wcb"> Vidit beatus Stephanus caelos apertos vidit et introivit</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-R CAO-D CAO-S Alb2 Evm Wcb Bat Cdm Wor Pet">Ipsum</rep>
+      <rep type="r" wit="CAO-V"> Omnes</rep>
+      <dox type="r" wit="Evm Wor">Gloria</dox>
+      <rep type="r" num="2" wit="Evm Wor">Ipsum</rep>
+   </verses>
+</res>

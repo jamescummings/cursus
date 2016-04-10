@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9534" nextid="c9536" id="c9535">
+   <header>
+      <usage ms="Pet" code="02122500">[16r] matins-n1-r4</usage>
+      <usage ms="Wcb" code="02122400">[52r] matins-r4</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1966, p.428</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Wcb Pet"> Propter nimiam caritatem suam qua dilexit nos deus pater filium suum misit in similitudinem carnis peccati ut omnes salvaret</rBody>
+   <verses>
+      <vBody type="r" wit="Wcb Pet"> Ecce iam venit plenitudo temporis in quo misit deus filium suum in terras natum de virgine factum sub lege</vBody>
+      <rep type="r" wit="Wcb Pet"> Ut omnes</rep>
+   </verses>
+</res>

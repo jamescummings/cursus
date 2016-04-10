@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4300" nextid="c4302" id="c4301">
+   <aBody wit="CAO-E CAO-M CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L"> Polymii regis filiam lunaticam</rdg>
+         <rdg wit="CAO-M">
+            <corr sic="Paulomio regi">Paulimio regis</corr> filiam lunaticam</rdg>
+      </app> Bartholomaeus apostolus solo iussu sanavit citius</aBody>
+</ant>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6149" nextid="c6151" id="c6150">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-D CAO-F"> Auditu auris audivi te domine</rdg>
+         <rdg wit="CAO-E"> Auditu audivi te domine</rdg>
+         <rdg wit="CAO-R"> Auditu auris audivi domine</rdg>
+      </app> nunc autem oculus meus videt te idcirco ipse me reprehendo et ago paenitentiam in favilla et cinere</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Unum locutus sum quod utinam non
+       <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> dixissem</rdg>
+            <rdg wit="CAO-V"> dixisset</rdg>
+            <rdg wit="CAO-E CAO-D CAO-F"> dixissem et alterum</rdg>
+         </app> quibus
+       <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R"> ultra unum non addam</rdg>
+            <rdg wit="CAO-D CAO-F"> ultra nihil addam</rdg>
+            <rdg wit="CAO-E"> ultra non addat</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R"> sed ponam</rdg>
+            <rdg wit="CAO-D CAO-F"> sed superponam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> digitum</rdg>
+            <rdg wit="CAO-V"> digito</rdg>
+         </app> ori meo</vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-D">Et ago</rep>
+      <rep type="r" wit="CAO-E CAO-F"> Idcirco</rep>
+   </verses>
+</res>

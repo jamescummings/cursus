@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5176" nextid="c5178" id="c5177">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Tres in fornace ignis deambulabant
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> et collaudabant dominum regem canentes</rdg>
+         <rdg wit="CAO-L"> et collaudabant dominum regem aeternum</rdg>
+      </app> ex uno ore hymnum dicebant
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> benedictus es deus alleluia</rdg>
+         <rdg wit="CAO-M"> benedictus est deus alleluia</rdg>
+         <rdg wit="CAO-E Hyd"> benedictus es deus in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

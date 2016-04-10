@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7122" nextid="c7124" id="c7123">
+   <rBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Magnus sanctus Paulus vas electionis vere digne est
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> glorificandus</rdg>
+         <rdg wit="CAO-V CAO-L"> glorificatus</rdg>
+      </app> qui et meruit thronum
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> duodecimum</rdg>
+         <rdg wit="CAO-D CAO-F"> duodecimo</rdg>
+      </app> possidere</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> A Christo de caelo vocatus et
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-L"> in terram</rdg>
+            <rdg wit="CAO-V CAO-S"> in terra</rdg>
+         </app> prostratus
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-L"> ex persecutore effectus</rdg>
+            <rdg wit="CAO-S"> ex persecutore factus</rdg>
+            <rdg wit="CAO-V"> ex persecutorem erectus</rdg>
+         </app> est vas
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-L"> electionis</rdg>
+            <rdg wit="CAO-V"> electionem</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Saulus qui et Paulus magnus praedicator a Deo confortatus</vBody>
+      <vBody id="c7123-1" type="r" wit="CAO-F"> A Christo de caelo vocatus et in terram prostratus ex persecutore effectus est vas electionis</vBody>
+      <rep corresp="c7123-1" type="r" wit="CAO-F"> Vere</rep>
+      <vBody id="c7123-2" type="r" num="2" wit="CAO-F">Saulus qui et Paulus magnus praedicator a Deo confortatus</vBody>
+      <vBody corresp="c7123-2" type="r" wit="CAO-F"> Qui</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-R CAO-S">Vere</rep>
+      <rep type="r" wit="CAO-M CAO-V CAO-H CAO-D CAO-L">Qui</rep>
+   </verses>
+</res>

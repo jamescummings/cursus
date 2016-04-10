@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4100" nextid="c4102" id="c4101">
+   <aBody wit="CAO-E CAO-V CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-F"> Observa fili praecepta patris</rdg>
+         <rdg wit="CAO-V CAO-L"> Observa fili mi praecepta patris tui</rdg>
+      </app> et ne dimittas legem matris tuae liga eam in corde tuo iugiter</aBody>
+</ant>

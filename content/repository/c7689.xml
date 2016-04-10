@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7688" nextid="c7690" id="c7689">
+   <header>
+      <usage ms="Hyd" code="08082000">lauds-r1</usage>
+   </header>
+   <rBody wit="CAO-B CAO-V CAO-H CAO-R Hyd"> Spiritus domini replevit orbem terrarum alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R Hyd"> Et hoc quod continet omnia
+      <app>
+            <rdg wit="CAO-B CAO-H CAO-R Hyd"> scientiam</rdg>
+            <rdg wit="CAO-V"> scientia</rdg>
+         </app> habet vocis</vBody>
+      <rep type="r" wit="CAO-B CAO-H Hyd">Alleluia</rep>
+   </verses>
+</res>

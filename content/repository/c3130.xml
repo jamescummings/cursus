@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3129" nextid="c3131" id="c3130">
+   <header>
+      <usage ms="Alb2" code="02010100">[46r] matins-n2-a7</usage>
+      <usage ms="Alb2" code="02010600">[52r] matins-n2-a8</usage>
+      <usage ms="Alb2" code="02122500">[25v] matins-n2-a6</usage>
+      <usage ms="Bat" code="02122500">[15v] matins-n2-a7</usage>
+      <usage ms="Cdm" code="02010100">[33v] matins-n2-a7</usage>
+      <usage ms="Cdm" code="02122500">[22r] matins-n2-a7</usage>
+      <usage ms="Ely" code="02122500">[18v] matins-n2-a8</usage>
+      <usage ms="Evm" code="02122500">[33v] matins-n2-a8</usage>
+      <usage ms="Hyd" code="02122500"/>
+      <usage ms="Pet" code="02122500">[16r] matins-n2-a8</usage>
+      <usage ms="Wcb" code="02122500">[54r] matins-n2-a8</usage>
+      <usage ms="Wor" code="02122500">[14v] matins-n2-a8</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Evm Wcb Bat Cdm Ely Wor Pet"> Homo natus est in ea
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-D CAO-F CAO-S Alb2 Bat Evm Hyd Wcb Cdm Ely Wor Pet"> et ipse fundavit eam altissimus</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-R CAO-L"> ipse fundavit eam altissimus</rdg>
+         <rdg wit="CAO-H">
+            <del rend="erasure" status="unremarkable">et</del> ipse fundavit eam altissimus</rdg>
+      </app>
+   </aBody>
+</ant>

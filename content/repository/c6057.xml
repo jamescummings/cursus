@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6056" nextid="c6058" id="c6057">
+   <header>
+      <usage ms="Alb2" code="07067000">[112v] matins-n3-r7</usage>
+      <usage ms="Cdm" code="07067000">[80v] matins-n3-r7</usage>
+      <usage ms="Cht" code="07066000">[64v] -n3-r3</usage>
+      <usage ms="Ely" code="07067000">[91v] matins-n3-r7</usage>
+      <usage ms="Evm" code="07067000">[154r] matins-n3-r7</usage>
+      <usage ms="Hyd" code="07066000">[96v] matins-n2-r4</usage>
+      <usage ms="Mch" code="07067000">[163v] matins-n3-r7</usage>
+      <usage ms="Pet" code="07067000">[95r] matins-n3-r7</usage>
+      <usage ms="Wcb" code="07067000">[118r] matins-n3-r7</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n3-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Aestimatus sum cum descendentibus in lacum factus sum sicut homo sine adiutorio inter mortuos liber</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S Alb2 Cdm Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S Alb2 Cdm Mch"> Et sicut vulnerati</rdg>
+            <rdg wit="CAO-V"> Sicut vulnerati</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S Alb2 Mch"> dormientes proiecti</rdg>
+            <rdg wit="Cdm"> proiecti</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R Alb2 Cdm Mch"> in monumentis</rdg>
+            <rdg wit="CAO-B"> in monumento</rdg>
+            <rdg wit="CAO-S"> in monumentum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-M CAO-H CAO-R Alb2 Cdm Mch"> quorum non es memor amplius</rdg>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-S"> quorum non est memor amplius</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-V Alb2 Cdm"> et ipsi de manu tua</rdg>
+            <rdg wit="Mch"> et ipsi <del rend="underdot" status="unremarkable">quidem</del> de manu tua</rdg>
+            <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-S"> et ipsi quidem de manu tua</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R Alb2 Cdm"> repulsi sunt</rdg>
+            <rdg wit="CAO-M CAO-H CAO-S Mch"> expulsi sunt</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-F Ely Cht Hyd Pet Evm Wcb"> Posuerunt me in lacu inferiori
+      <app>
+            <rdg wit="CAO-D CAO-F Ely Cht Hyd Pet Wcb"> in tenebrosis</rdg>
+            <rdg wit="Evm"> et in tenebrosis</rdg>
+         </app> et in umbra mortis</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">Factus</rep>
+   </verses>
+</res>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4348" nextid="c4350" id="c4349">
+   <header>
+      <usage ms="Alb2" code="07062000">[106r] vesp2</usage>
+      <usage ms="Cdm" code="07062000">[76r] vesp2</usage>
+      <usage ms="Cht" code="07064000">[59v] terce</usage>
+      <usage ms="Ely" code="07062000">[87r] vesp2</usage>
+      <usage ms="Evm" code="07064000">[147r] terce</usage>
+      <usage ms="Glo" code="07064000">[78v] terce</usage>
+      <usage ms="Hyd" code="07063000">[93r] nones</usage>
+      <usage ms="Mch" code="07063000">[156v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07063000">[87r] vesp2</usage>
+      <usage ms="Wcb" code="07064000">[114v] terce</usage>
+      <usage ms="Wor" code="07063000">[57v] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm"> Potestatem habeo ponendi animam meam</rdg>
+         <rdg wit="Mch"> Potestatem habeo ponendi animam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2"> et iterum sumendi eam</rdg>
+         <rdg wit="CAO-G CAO-M CAO-V Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch"> et iterum assumendi eam</rdg>
+         <rdg wit="CAO-E"> et iterum <corr sic="sumendi">assumendi</corr> eam</rdg>
+         <rdg wit="CAO-C"> et iterum sumo eam</rdg>
+      </app>
+   </aBody>
+</ant>

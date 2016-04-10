@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5342" nextid="c5344" id="c5343">
+   <aBody wit="CAO-M CAO-V CAO-L"> Venit homo ad Jesum nocte ex Pharisaeis nomine Nicodemus
+     <app>
+         <rdg wit="CAO-M CAO-L"> et dixit ei</rdg>
+         <rdg wit="CAO-V"> et dixit eis</rdg>
+      </app> Rabbi scimus quia a deo venisti magister nemo enim potest haec signa facere quae tu facis nisi fuerit dominus cum eo respondens Jesus
+     <app>
+         <rdg wit="CAO-M CAO-V"> et dixit ei</rdg>
+         <rdg wit="CAO-L"> et ait ei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-V"> nisi quis natus fuerit denuo</rdg>
+         <rdg wit="CAO-L"> nisi quis renatus fuerit denuo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-L"> non potest videre regnum dei alleluia</rdg>
+         <rdg wit="CAO-M"> non potes videre regnum dei alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

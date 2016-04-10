@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7106" nextid="c7108" id="c7107">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Lucianus presbyter dixit domine tu quis es
+      <app>
+         <rdg wit="CAO-D CAO-L"> aut</rdg>
+         <rdg wit="CAO-F CAO-S"> et</rdg>
+      </app> qui sunt tecum at ille ego sum Gamaliel Pauli quondam doctor apostoli qui autem
+      <app>
+         <rdg wit="CAO-D CAO-L"> iuxta me</rdg>
+         <rdg wit="CAO-F CAO-S"> iusta me</rdg>
+      </app> quiescit ipse est
+      <app>
+         <rdg wit="CAO-L"> domnus Stephanus</rdg>
+         <rdg wit="CAO-D CAO-F"> dominus Stephanus</rdg>
+         <rdg wit="CAO-S"> dom<del status="unremarkable">i</del>nus Stephanus</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Qui a Judaeis
+       <app>
+            <rdg wit="CAO-D CAO-S CAO-L"> Jerosolymis</rdg>
+            <rdg wit="CAO-F"> ab Jerosolymis</rdg>
+         </app> lapidatus ad lacerandum bestiis et
+       <app>
+            <rdg wit="CAO-D CAO-F CAO-L"> avibus est positus</rdg>
+            <rdg wit="CAO-S"> avibus expositus</rdg>
+         </app> per Dei
+       <app>
+            <rdg wit="CAO-F CAO-L"> providentiam</rdg>
+            <rdg wit="CAO-S"> providentia</rdg>
+            <rdg wit="CAO-D"> providentia<del status="unremarkable">m</del>
+            </rdg>
+         </app> permansit intactus</vBody>
+      <rep type="r" wit="CAO-S CAO-L">Qui autem</rep>
+      <rep type="r" wit="CAO-D CAO-F">Ipse</rep>
+   </verses>
+</res>

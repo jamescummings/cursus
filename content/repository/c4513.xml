@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4512" nextid="c4514" id="c4513">
+   <header>
+      <usage ms="Hyd" code="08021000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Quia vidisti me Thoma credidisti</rdg>
+         <rdg wit="CAO-C CAO-M CAO-L"> Quia vidisti me Thomas credidisti</rdg>
+      </app> beati qui non viderunt et crediderunt alleluia</aBody>
+</ant>

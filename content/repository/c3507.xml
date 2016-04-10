@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3506" nextid="c3508" id="c3507">
+   <header>
+      <usage ms="Alb2" code="01034000">[16r] nones</usage>
+      <usage ms="Cdm" code="02122400">[20r] matins</usage>
+      <usage ms="Ely" code="02122400">[17r] terce</usage>
+      <usage ms="Evm" code="02122500">[32r] vesp1-a2</usage>
+      <usage ms="Hyd" code="02122400">[16v] terce</usage>
+      <usage ms="Pet" code="02122500">[14v] vesp1-a2</usage>
+      <usage ms="Wcb" code="02122400">[53r] vesp2-a2</usage>
+      <usage ms="Wor" code="02122400">[12v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Ely Wor Pet"> Joseph filii David noli timere
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Cdm Ely Pet"> accipere Mariam coniugem tuam</rdg>
+         <rdg wit="CAO-S"> accipere Maria coniugem tuam</rdg>
+      </app> quod enim in ea natum est de spiritu sancto est alleluia</aBody>
+</ant>

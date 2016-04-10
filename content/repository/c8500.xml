@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8019" nextid="c8501" id="c8500">
+   <header>
+      <usage ms="Cht" code="07031000">[35v] matins-n3</usage>
+      <usage ms="Ely" code="07031000">[74v] matins-n3</usage>
+      <usage ms="Evm" code="07031000">[121v] matins-n3</usage>
+      <usage ms="Hyd" code="07031000">[78v] matins-n3</usage>
+      <usage ms="Wcb" code="07031000">[101r] matins-n3</usage>
+      <usage ms="Wor" code="07031000">[49v] nones</usage>
+   </header>
+   <aBody wit="Ely Wor Cht Hyd Evm Wcb"> Beati qui audiunt verbum dei et custodiunt illud</aBody>
+</ant>

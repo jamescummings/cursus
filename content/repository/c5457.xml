@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5456" nextid="c5458" id="c5457">
+   <aBody wit="CAO-E CAO-F"> Viri autem qui comitabantur cum eo stabant stupefacti audientes quidem vocem sed neminem videntes</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-E CAO-F">
+         <app>
+            <rdg wit="CAO-E">Surrexit autem Saulus de terra</rdg>
+            <rdg wit="CAO-F"> Saulus autem cadens in terra</rdg>
+         </app> apertisque oculis nihil videbat</vBody>
+   </verses>
+</ant>

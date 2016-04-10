@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6545" nextid="c6546b" id="c6546">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D"> Dum ingrederetur beata Agathes</rdg>
+         <rdg wit="CAO-L"> Dum torqueretur beata Agathe</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-F CAO-S"> Dum ingrederetur beata Agatha</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> in carcerem</rdg>
+         <rdg wit="CAO-V"> in carcere</rdg>
+         <rdg wit="CAO-L"> acrius</rdg>
+      </app> dixit ad iudicem impie crudelis et
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> dei</rdg>
+         <rdg wit="CAO-G CAO-D CAO-F"> dire</rdg>
+         <rdg wit="CAO-S">
+            <corr sic="Dei">dire</corr>
+         </rdg>
+      </app> tyranne
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F"> non es confusus</rdg>
+         <rdg wit="CAO-V CAO-L"> non est confusus</rdg>
+         <rdg wit="CAO-D CAO-S"> non es<del status="unremarkable">t</del> confusus</rdg>
+      </app> amputare
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> in femina</rdg>
+         <rdg wit="CAO-G CAO-V CAO-D"> in feminam</rdg>
+      </app> quod ipsecc
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in matre suxisti</rdg>
+         <rdg wit="CAO-E"> in matrem suxisti</rdg>
+         <rdg wit="CAO-F"> in matre <sic resp="Hesbert">subsisti</sic>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Ego habeo mamillas integras</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R"> Ego autem habeo mamillas integras</rdg>
+         </app> intus in anima mea
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-R CAO-F"> quas ab infantia domino consecravi</rdg>
+            <rdg wit="CAO-M CAO-V CAO-H CAO-D"> quas domino consecravi</rdg>
+            <rdg wit="CAO-G"> quas domino <corr sic="consecravit">consecravi</corr>
+            </rdg>
+            <rdg wit="CAO-S"> quas ab infantia domino <corr sic="consecrabit">consecrabi</corr>
+            </rdg>
+            <rdg wit="CAO-L"> quas domino consecravi ab infantia</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Impie</rep>
+      <rep type="r" wit="CAO-M"> Ipse</rep>
+   </verses>
+</res>

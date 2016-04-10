@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3158" nextid="c3160" id="c3159">
+   <aBody wit="CAO-D CAO-F CAO-S CAO-L"> Ibi olim positi fuimus exsequiarum tempore planctus nunc quaere nos
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> in illo loco</rdg>
+         <rdg wit="CAO-L"> in loco illo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> qui dicitur bonorum virorum possessio</rdg>
+         <rdg wit="CAO-S"> qui dicitur virorum bonorum possessio</rdg>
+      </app>
+   </aBody>
+</ant>

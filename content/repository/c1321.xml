@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1320" nextid="c1322" id="c1321">
+   <header>
+      <usage ms="Alb2" code="07066000">[110r] matins-n2-a6</usage>
+      <usage ms="Cdm" code="07066000">[79r] matins-n2</usage>
+      <usage ms="Cht" code="07066000">[62r] matins-n2</usage>
+      <usage ms="Ely" code="07066000">[90r] matins-n2</usage>
+      <usage ms="Evm" code="07066000">[151r] matins-n2</usage>
+      <usage ms="Hyd" code="07066000">[96v] matins-n2</usage>
+      <usage ms="Mch" code="07066000">[160v] matins-n2-a6</usage>
+      <usage ms="Pet" code="07066000">[91v] matins-n2</usage>
+      <usage ms="Wcb" code="07066000">[116r] matins-n2</usage>
+      <usage ms="Wor" code="07066000">[61r] matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Alieni insurrexerunt in me
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> et fortes quaesierunt animam meam</rdg>
+         <rdg wit="Ely"> et fortes quaesierunt animam</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Evm" num="2"> Alieni insurrexerunt in me</aBody>
+</ant>

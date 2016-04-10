@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6716" nextid="c6718" id="c6717">
+   <rBody wit="CAO-B CAO-M CAO-H CAO-R CAO-L"> Factus est repente de caelo sonus advenientis spiritus vehementis ubi erant sedentes alleluia et repleti sunt omnes spiritu sancto loquentes magnalia Dei alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-L"> Et apparuerunt
+       <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> illis</rdg>
+            <rdg wit="CAO-L"> illi</rdg>
+         </app> dispertitae linguae tamquam ignis seditque supra singulos eorum</vBody>
+      <vBody type="r" wit="CAO-M"> Non vos relinquam</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R"> Et repleti</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+      <rep type="r" wit="CAO-M"> Magnalia</rep>
+   </verses>
+</res>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6578" nextid="c6580" id="c6579">
+   <rBody wit="CAO-G CAO-V CAO-F CAO-S"> Ecce concipies et paries filium et vocabitur nomen eius
+      <app>
+         <rdg wit="CAO-F CAO-S"> Jesus</rdg>
+         <rdg wit="CAO-G CAO-V"> Jesum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-F CAO-S"> Hic erit magnus et filius altissimi vocabitur et dabit illi dominus Deus sedem David
+       <app>
+            <rdg wit="CAO-G CAO-F"> patris eius</rdg>
+            <rdg wit="CAO-S"> patris sui</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V"> Dabit illi dominus Deus sedem David patris sui</vBody>
+      <rep type="r" wit="CAO-G CAO-V CAO-F CAO-S"> Et vocabitur</rep>
+   </verses>
+</res>

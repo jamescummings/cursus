@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3481" nextid="c3482b" id="c3482">
+   <aBody wit="CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-D CAO-F"> Jesu Christi domini gratia credentibus populis</rdg>
+         <rdg wit="CAO-S"> Jesu Christi domini gratia fidelibus populis</rdg>
+      </app> doctores et evangelistae
+     <app>
+         <rdg wit="CAO-F CAO-S"> sunt in ministerio fidei missi</rdg>
+         <rdg wit="CAO-D"> sunt in ministerium fidei missi</rdg>
+      </app>
+   </aBody>
+</ant>

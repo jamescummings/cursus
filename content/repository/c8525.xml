@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8524" nextid="c8526" id="c8525">
+   <header>
+      <usage ms="Evm" code="07024000"/>
+      <usage ms="Glo" code="07024000"/>
+      <usage ms="Wcb" code="07024000"/>
+   </header>
+   <aBody wit="Evm Wcb Glo">Quicumque voluerit inter vos maior fieri sit vester minister et qui voluerit inter vos primus esse erit vester servus dicit dominus</aBody>
+</ant>

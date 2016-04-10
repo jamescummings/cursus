@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4817" nextid="c4819" id="c4818">
+   <header>
+      <usage ms="Alb2" code="07041000">[95r] terce</usage>
+      <usage ms="Cdm" code="07041000">[68v] sext</usage>
+      <usage ms="Cht" code="07041000">[41r] matins-n3</usage>
+      <usage ms="Ely" code="07041000">[78v] nones</usage>
+      <usage ms="Evm" code="07041000">[128v] matins-n3</usage>
+      <usage ms="Mch" code="07041000">[139v] sext</usage>
+      <usage ms="Wcb" code="07041000">[104r] matins-n3</usage>
+      <usage ms="Wor" code="07041000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Cht Evm Wcb Alb2 Cdm Mch"> Satiavit dominus quinque millia hominum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Cht Evm Wcb Alb2 Mch"> de quinque panibus</rdg>
+         <rdg wit="Cdm">ex quinque panibus</rdg>
+      </app> et duobus piscibus</aBody>
+</ant>

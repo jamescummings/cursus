@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2265" nextid="c2267" id="c2266">
+   <header>
+      <usage ms="Cht" code="07044000">[44v] sext</usage>
+      <usage ms="Ely" code="70044000">[79v] terce</usage>
+      <usage ms="Hyd" code="07044000">[84r] sext</usage>
+      <usage ms="Pet" code="07044000"/>
+      <usage ms="Wor" code="07044000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd"> Dixi vobis iam et audistis</rdg>
+         <rdg wit="Pet"> Dixi vobis iam et audisti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet"> lutum mihi posuit ille</rdg>
+         <rdg wit="CAO-F"> lutum mihi imposuit ille</rdg>
+      </app> qui dicitur Jesus</aBody>
+</ant>

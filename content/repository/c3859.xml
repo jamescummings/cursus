@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3858" nextid="c3860" id="c3859">
+   <header>
+      <usage ms="Hyd" code="01012000">[4v] matins-n1-a4</usage>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-H CAO-S CAO-L Hyd"> Ne in ira tua arguas me domine</aBody>
+</ant>

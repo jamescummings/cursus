@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4488" nextid="c4490" id="c4489">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-S CAO-L"> Qui operatus est Petro in apostolatum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F"> Qui operatus est Petro in apostolatu</rdg>
+      </app> operatus est et mihi inter gentes
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et cognoverunt gratiam</rdg>
+         <rdg wit="CAO-V"> et cognoverunt gratia</rdg>
+      </app> quae data est mihi a Christo domino</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Qui me segregavit ex utero matris meae et vocavit Per gratiam suam</vBody>
+   </verses>
+</ant>

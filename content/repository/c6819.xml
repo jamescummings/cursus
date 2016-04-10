@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6818" nextid="c6820" id="c6819">
+   <header>
+      <usage ms="Alb2" code="02122700">[36r] matins-n3-r10</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n2-r5</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n2-r5</usage>
+      <usage ms="Evm" code="02122700">[44v] matins-n3-r9</usage>
+      <usage ms="Hyd" code="02122700">[23v] matins-n1-r4</usage>
+      <usage ms="Pet" code="02122700">[26v] matins-n2-r5</usage>
+      <usage ms="Wcb" code="02122700">[62r] matins-n3-r9</usage>
+      <usage ms="Wor" code="02122700">[20r] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Hic est beatissimus
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wcb Bat Cdm Wor Pet"> evangelista et apostolus Joannes</rdg>
+         <rdg wit="Evm"> Joannes evangelista et apostolus</rdg>
+      </app> qui privilegio amoris
+      <app>
+         <rdg wit="CAO-G CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> praecipui</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> praecipue</rdg>
+         <rdg wit="CAO-S"> praecipuus</rdg>
+      </app> ceteris
+      <app>
+         <rdg wit="CAO-G CAO-V CAO-D CAO-S Alb2 Evm Wcb"> altius</rdg>
+         <rdg wit="CAO-F CAO-L Hyd Bat Cdm Wor Pet"> amplius</rdg>
+         <rdg wit="CAO-M"> altior</rdg>
+         <rdg wit="CAO-E"> omnibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Wor Pet"> a domino meruit honorari</rdg>
+         <rdg wit="Cdm"> meruit a domino honorari</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M"> Hic est beatissimus evangelista et apostolus Joannes</vBody>
+      <vBody type="r" wit="CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Hic est discipulus ille quem diligebat Jesus
+       <app>
+            <rdg wit="CAO-D CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> qui supra pectus eius in cena recubuit</rdg>
+            <rdg wit="CAO-E CAO-V CAO-S"> qui supra pectus domini in cena recubuit</rdg>
+            <rdg wit="CAO-F"> qui et recubuit in cena super pectus eius</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G">
+         <corr sic="Spiritu" resp="Hesbert">Spiritus</corr> sancti gratia debriatus ceteris altius divinitatis patefecit arcanum</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Qui</rep>
+      <rep type="r" wit="CAO-S CAO-L"> Ceteris</rep>
+   </verses>
+</res>

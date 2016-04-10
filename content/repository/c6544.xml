@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6543" nextid="c6545" id="c6544">
+   <rBody wit="CAO-C CAO-D"> Dum Hippolytus in domum suam
+      <app>
+         <rdg wit="CAO-D"> convivus cibum sumeret</rdg>
+         <rdg wit="CAO-C"> convivia cibus poneret</rdg>
+      </app> missi a Decio milites tenuerunt eum
+      <app>
+         <rdg wit="CAO-C"> et adduxerunt ad Decium</rdg>
+         <rdg wit="CAO-D"> et perduxerunt ad Decium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> quem videns Decius Caesar</rdg>
+         <rdg wit="CAO-C"> quem videns Caesar</rdg>
+      </app> subridens dixit numquid tu magus effectus es qui
+      <app>
+         <rdg wit="CAO-D"> corpus Laurentii</rdg>
+         <rdg wit="CAO-C"> corpus Laurenti</rdg>
+      </app> abstulisti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Decius dixit fruere mihi licite esto noster amicus Hippolytus dicit miles Christi ego sum et eius praecepta custodire desidero</vBody>
+      <vBody type="r" wit="CAO-D"> Regressus itaque Hippolytus in domum suam dedit pacem omnibus etiam servis suis et a militibus comprehensus ducebatur ad Decium</vBody>
+      <rep type="r" wit="CAO-C CAO-D"> Quem</rep>
+   </verses>
+</res>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7665" nextid="c7667" id="c7666">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Simeon iustus et timoratus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> exspectans redemptionem Israel</rdg>
+         <rdg wit="CAO-E"> exspectat redemptionem Israel</rdg>
+         <rdg wit="CAO-M"> exspectabat redemptionem Israel</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et spiritus sanctus erat in eo</rdg>
+         <rdg wit="CAO-G"> et spiritus dei erat in eo</rdg>
+         <rdg wit="CAO-C"> et spiritus <sic resp="Hesbert">sancto</sic> erat in eo</rdg>
+         <rdg wit="CAO-M" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-F"> Responsum acceperat Simeon</rdg>
+            <rdg wit="CAO-D CAO-S CAO-L"> Responsum acceperat</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F"> a spiritu sancto</rdg>
+            <rdg wit="CAO-C CAO-S CAO-L"> ab spiritu sancto</rdg>
+         </app> non visurum se mortem
+      <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-S"> nisi prius</rdg>
+            <rdg wit="CAO-C CAO-F CAO-L"> nisi</rdg>
+         </app> videret Christum domini</vBody>
+      <vBody type="r" wit="CAO-G"> Responsum acceperat</vBody>
+      <vBody type="r" wit="CAO-C"> Accipiens Simeon puerum in manibus gratias agens benedixit dominum</vBody>
+      <vBody type="r" wit="CAO-E"> Accipiens Simeon puerum</vBody>
+      <vBody type="r" wit="CAO-M CAO-V"> Accipiens Simeon</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et spiritus</rep>
+      <rep type="r" wit="CAO-M">Exspectabat</rep>
+   </verses>
+</res>

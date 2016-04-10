@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6292" nextid="c6294" id="c6293">
+   <rBody wit="CAO-B CAO-H">
+      <app>
+         <rdg wit="CAO-H"> Clamavi in toto corde</rdg>
+         <rdg wit="CAO-B"> Clamavi in toto corde meo</rdg>
+      </app> exaudi me domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H"> Iustificationes tuas requiram</vBody>
+      <rep type="r" wit="CAO-B"> Exaudi</rep>
+   </verses>
+</res>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1534" nextid="o1536" id="o1535">
+   <header>
+      <usage ms="Cht" code="07033000"/>
+      <usage ms="Ely" code="07033000"/>
+      <usage ms="Evm" code="07033000"/>
+      <usage ms="Hyd" code="07033000"/>
+      <usage ms="Wcb" code="07033000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.236</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb">Exaudi nos omnipotens et misericors deus et continentiae salutaris propitius nobis dona concede</pBody>
+</prayer>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1204" nextid="c1206" id="c1205">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Ab oriente venerunt magi
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> in Bethleem adorare dominum</rdg>
+         <rdg wit="CAO-M"> et in Bethlem adorare</rdg>
+         <rdg wit="CAO-H"> ut in Bethleem adorarent</rdg>
+      </app> et apertis thesauris suis pretiosa munera obtulerunt
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> aurum sicut regi magno</rdg>
+         <rdg wit="CAO-M"> aurum quasi regi magno</rdg>
+         <rdg wit="CAO-C"> aurum sicut regi magnum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> thus sicut deo vero</rdg>
+         <rdg wit="CAO-C"> thus sicut dominum verum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Hyd Pet"> myrrham sepulturae eius</rdg>
+         <rdg wit="CAO-C CAO-S"> myrrha sepultura eius</rdg>
+         <rdg wit="CAO-M"> myrrham sepultura eius</rdg>
+      </app> alleluia</aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3930" nextid="c3932" id="c3931">
+   <aBody wit="CAO-D CAO-F CAO-L"> Non pro his rogo tantum
+     <app>
+         <rdg wit="CAO-D CAO-F"> sed pro eis qui credituri sunt per verbum eorum in me</rdg>
+         <rdg wit="CAO-L"> sed pro eis qui credituri sunt per verbum illorum in me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-L"> sicut tu pater in me</rdg>
+         <rdg wit="CAO-D"> sicut te pater in me</rdg>
+      </app> et ego in te ut et ipsi in nobis unum sint
+     <app>
+         <rdg wit="CAO-D"> ut credat mundus</rdg>
+         <rdg wit="CAO-F"> et mundus credat</rdg>
+         <rdg wit="CAO-L"> ut mundus credat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> quia tu me misisti</rdg>
+         <rdg wit="CAO-F CAO-L"> quia tu me misisti alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

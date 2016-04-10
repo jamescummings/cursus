@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6622" nextid="c6624" id="c6623">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-F CAO-L"> Eduxit dominus Jesus discipulos suos foras in Bethaniam et benedixit eos alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-H CAO-R"> Et factum est dum benediceret eos recessit ab eis et ferebatur in caelum</vBody>
+      <vBody type="r" wit="CAO-F"> Elevatis manibus suis ferebatur in caelum</vBody>
+      <vBody type="r" wit="CAO-L"> Pacem meam</vBody>
+      <rep type="r" wit="CAO-H CAO-R CAO-F CAO-L"> Et benedixit</rep>
+      <rep type="r" wit="CAO-C"> Alleluia</rep>
+   </verses>
+</res>

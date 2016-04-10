@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6511" nextid="c6513" id="c6512">
+   <rBody wit="CAO-H CAO-S CAO-L"> Domine secundum actum meum noli me iudicare nihil dignum in conspectu tuo egi ideo deprecor
+      <app>
+         <rdg wit="CAO-H CAO-L"> maiestatem tuam</rdg>
+         <rdg wit="CAO-S"> maiestate tua</rdg>
+      </app> ut tu Deus deleas
+      <app>
+         <rdg wit="CAO-H CAO-L"> iniquitatem meam</rdg>
+         <rdg wit="CAO-S"> iniquitates meas</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-L"> Amplius lava me ab injustitia mea et a delicto meo munda me</vBody>
+      <rep type="r" wit="CAO-H CAO-L"> Ut tu</rep>
+      <vBody type="r" wit="CAO-S"> Tibi soli peccavi et malum coram te feci</vBody>
+      <rep type="r" wit="CAO-S"> Ideo</rep>
+   </verses>
+</res>

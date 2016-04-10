@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4079" nextid="c4081" id="c4080">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> O rex pacifice tu ante saecula nate
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R"> per auream egredere portam</rdg>
+         <rdg wit="CAO-M"> per clausam egredere portam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> redemptos tuos visita</rdg>
+         <rdg wit="CAO-E"> salvator tuos visita</rdg>
+         <rdg wit="CAO-V"> redemptos tuus visita</rdg>
+      </app> et eos illuc revoca unde ruerunt per culpam</aBody>
+</ant>

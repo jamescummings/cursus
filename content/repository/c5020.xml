@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5019" nextid="c5021" id="c5020">
+   <header>
+      <usage ms="Mch" code="07021000">[124r] lauds-a5</usage>
+      <usage ms="Bat" code="07021000">[52r] lauds-a5</usage>
+      <usage ms="Alb2" code="07021000">[84v] lauds</usage>
+      <usage ms="Cdm" code="07021000">[61v] lauds-a5</usage>
+      <usage ms="Cht" code="07021000">[31r] lauds</usage>
+      <usage ms="Ely" code="07021000">[72r] lauds</usage>
+      <usage ms="Evm" code="07021000">[116v] lauds</usage>
+      <usage ms="Hyd" code="07021000">[75v] lauds-a1</usage>
+      <usage ms="Pet" code="07021000">[69r] lauds-a5</usage>
+      <usage ms="Wcb" code="07021000">[99r] lauds</usage>
+      <usage ms="Wor" code="07021000">[46r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Cht Pet Evm Wcb Alb2 Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Statuit ea in aeternum</rdg>
+         <rdg wit="CAO-L"> Statuit eam in aeternum</rdg>
+      </app> et in saeculum saeculi praeceptum posuit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Hyd Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> et non praeteribit</rdg>
+         <rdg wit="CAO-S"> et non praeterivit</rdg>
+      </app>
+   </aBody>
+</ant>

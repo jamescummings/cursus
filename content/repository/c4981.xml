@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4980" nextid="c4982" id="c4981">
+   <header>
+      <usage ms="Glo" code="14022200"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Glo">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Solve iubente deo terrarum Petre catenas</l>
+         <l part="N"> qui facis ut pateant caelestia regna beatis</l>
+      </lg>
+   </aBody>
+</ant>

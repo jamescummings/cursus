@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7773" nextid="c7775" id="c7774">
+   <rBody wit="CAO-D CAO-F"> Traduntur neci quos ordo reperit numerandi laeti percussoribus cervices praebent solaque inter eos erat de gloriosae mortis acceleratione contentio</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Laniabanturque beata corpora et devotas deo animas fideli mortis professione
+      <app>
+            <rdg wit="CAO-F"> commendabant</rdg>
+            <rdg wit="CAO-D"> commendabat</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-F"> Solaque</rep>
+   </verses>
+</res>

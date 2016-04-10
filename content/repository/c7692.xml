@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7691" nextid="c7693" id="c7692">
+   <rBody wit="CAO-D CAO-F"> Spiritus sanctus patri filioque coaeternus igneis in linguis qui hodie super apostolos descendit illustret pectora
+     <app>
+         <rdg wit="CAO-D"> nostra</rdg>
+         <rdg wit="CAO-F"> nostri</rdg>
+      </app> nosque ab omnibus defendat adversis alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">Paraclitus spiritus nos omnem doceat veritatem</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Nosque</rep>
+   </verses>
+</res>

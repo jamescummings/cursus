@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1213" nextid="c1215" id="c1214">
+   <aBody wit="CAO-C CAO-V">
+      <app>
+         <rdg wit="CAO-C"> Accedentes discipuli sancti <name reg="Joannis bapt" type="saint">Joannis</name> baptistae</rdg>
+         <rdg wit="CAO-V"> Accedentes discipuli beati <name reg="Joannis bapt" type="saint">Joannis</name>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> tulerunt corpus eius</rdg>
+         <rdg wit="CAO-V"> venerunt et tulerunt corpus eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> et sepelierunt illud</rdg>
+         <rdg wit="CAO-V"> et sepelierunt eum</rdg>
+      </app>
+   </aBody>
+</ant>

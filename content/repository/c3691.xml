@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3690" nextid="c3692" id="c3691">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Mane surgens Jacob erigebat lapidem in titulum</rdg>
+         <rdg wit="CAO-L"> Mane surgens erigebat lapidem in titulum</rdg>
+      </app> fundens oleum desuper
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> votum vovit domino</rdg>
+         <rdg wit="CAO-C"> votum vovit deo</rdg>
+      </app> vere locus iste sanctus est et ego nesciebam</aBody>
+</ant>

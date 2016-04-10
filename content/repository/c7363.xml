@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7362" nextid="c7364" id="c7363">
+   <rBody wit="CAO-H CAO-R"> Pater sanctus dum infirmitate gravi per dies quatuordecim laborasset in senectute bona huius vitae liberatus ergastulo animam meritis plenam felicibus bonis reddidit inhaesuram perennibus</rBody>
+   <verses>
+      <vBody id="c7363-1" type="r" wit="CAO-H CAO-R"> Expletis nonaginta quinque annis sanctissimae suae aetatis</vBody>
+      <rep corresp="c7363-1" type="r" wit="CAO-H CAO-R">Animam</rep>
+      <vBody id="c7363-2" type="r" num="2" wit="CAO-H"> Cum iam bonorum omnium Auctor et propagator athletam suum de mundi agone sublatum praemiorum laureis vellet adornare perennibus</vBody>
+      <rep corresp="c7363-2" type="r" wit="CAO-H">In senectute</rep>
+   </verses>
+</res>

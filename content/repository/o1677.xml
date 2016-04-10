@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1676" nextid="o1678" id="o1677">
+   <header>
+      <usage ms="Cdm" code="08011000">[81v] lauds</usage>
+      <usage ms="Hyd" code="08011000">[100r] matins-n3</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.383</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Cdm"> Deus qui hodierna die per unigenitum tuum aeternitatis nobis aditum devicta morte reserasti vota nostra quae perveniendo aspiras etiam adiuvando prosequere</pBody>
+</prayer>

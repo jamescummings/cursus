@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3517" nextid="c3519" id="c3518">
+   <header>
+      <usage ms="Alb2" code="07051000">[100r] lauds</usage>
+      <usage ms="Bat" code="07051000">[59v] lauds-a3</usage>
+      <usage ms="Cdm" code="07051000">[71v] lauds-a3</usage>
+      <usage ms="Cht" code="07051000">[48v] lauds</usage>
+      <usage ms="Ely" code="07051000">[82r] lauds</usage>
+      <usage ms="Evm" code="07051000">[136v] sext</usage>
+      <usage ms="Evm" code="07053000">[138v] prime</usage>
+      <usage ms="Evm" code="07055000">[139v] terce</usage>
+      <usage ms="Glo" code="07053000">[71r] prime</usage>
+      <usage ms="Hyd" code="07051000">[87r] lauds</usage>
+      <usage ms="Mch" code="07051000">[146v] lauds-a3</usage>
+      <usage ms="Pet" code="07051000">[81r] lauds-a2</usage>
+      <usage ms="Wcb" code="07051000">[108v] lauds</usage>
+      <usage ms="Wor" code="07051000">[54r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Iudicasti domine causam animae meae defensor vitae meae domine deus meus</aBody>
+</ant>

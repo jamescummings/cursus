@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1975" nextid="c1976b" id="c1976">
+   <header>
+      <usage ms="Glo" code="07061000">[73r] procession-a1</usage>
+   </header>
+   <aBody wit="CAO-H CAO-D CAO-F Glo"> Cum appropinquaret dominus Jerosolymam misit duos ex discipulis suis dicens ite in castellum quod est contra vos et invenietis pullum asinae alligatum super quem nullus hominum sedit
+     <app>
+         <rdg wit="CAO-H CAO-F Glo"> solvite et adducite mihi</rdg>
+         <rdg wit="CAO-D"> solvite et adducite</rdg>
+      </app> si quis vos interrogaverit dicite opus domino est solventes adduxerunt ad Jesum et imposuerunt illi vestimenta et sedit super eum alii expandebant vestimenta sua in via
+     <app>
+         <rdg wit="CAO-H CAO-D CAO-F"> alii ramos de arboribus prosternebant</rdg>
+         <rdg wit="Glo"> alii ramos de arboribus externebant</rdg>
+      </app> et qui sequebantur clamabant hosanna benedictus qui venit in nomine domini benedictum regnum patris nostri David hosanna in excelsis miserere nobis fili David</aBody>
+</ant>

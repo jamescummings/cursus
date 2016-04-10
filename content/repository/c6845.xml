@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6844" nextid="c6846" id="c6845">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Hoc signum crucis erit in caelo cum dominus ad iudicandum venerit tunc manifesta erunt abscondita
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> cordis nostri</rdg>
+         <rdg wit="CAO-B CAO-R"> cordis vestri</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> alleluia alleluia</rdg>
+         <rdg wit="CAO-C CAO-M CAO-D CAO-S CAO-L" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cum sederit filius hominis in sede maiestatis suae et coeperit iudicare saeculum per ignem</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tunc</rep>
+   </verses>
+</res>

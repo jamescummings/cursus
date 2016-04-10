@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1007" nextid="o1009" id="o1008">
+   <header>
+      <usage ms="Alb2" code="06034000">[72v] matins-n2</usage>
+      <usage ms="Bat" code="06034000">[46r] lauds</usage>
+      <usage ms="Cdm" code="06034000">[55r] lauds</usage>
+      <usage ms="Hyd" code="06034000">[67v] terce</usage>
+      <usage ms="Mch" code="06034000">[109v] matins</usage>
+   </header>
+   <pBody wit="Alb2 Hyd Cdm Mch Bat"> Concede nobis domine praesidia militiae christianae sanctis inchoare ieiuniis ut contra spirituales nequitias pugnaturi continentiae muniamur auxiliis</pBody>
+</prayer>

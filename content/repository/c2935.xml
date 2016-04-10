@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2934" nextid="c2936" id="c2935">
+   <header>
+      <usage ms="Alb2" code="07014000"/>
+      <usage ms="Bat" code="07014000">[50v] lauds gosp</usage>
+      <usage ms="Cdm" code="07014000">[59v] lauds</usage>
+      <usage ms="Cht" code="07014000"/>
+      <usage ms="Ely" code="07014000"/>
+      <usage ms="Hyd" code="07014000"/>
+      <usage ms="Mch" code="07014000">[119v] lauds gosp</usage>
+      <usage ms="Pet" code="07014000"/>
+      <usage ms="Wor" code="07014000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Alb2 Cdm Mch Bat"> Generatio haec prava et perversa signum quaerit et signum non dabitur ei nisi signum Jonae prophetae</aBody>
+</ant>

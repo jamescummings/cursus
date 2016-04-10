@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2728" nextid="c2730" id="c2729">
+   <aBody wit="CAO-B CAO-M CAO-R"> Et videns Jesus fidem illorum dixit paralitico surge tolle lectum tuum
+     <app>
+         <rdg wit="CAO-B CAO-R"> et vade in domum tuam</rdg>
+         <rdg wit="CAO-M"> et vade in domum tuam alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

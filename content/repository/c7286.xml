@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7285a" nextid="c7287" id="c7286">
+   <rBody wit="CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> O quam metuendus est locus iste vere non est hic aliud nisi domus Dei
+     <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F CAO-S"> et porta caeli</rdg>
+         <rdg wit="CAO-L"> et portas caeli</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-D"> Surgens ergo mane Jacob</rdg>
+            <rdg wit="CAO-F"> Surgens mane Jacob</rdg>
+         </app> tulit lapidem quem supposuerat capiti suo et erexit in titulum fundensque oleum desuper dixit</vBody>
+      <vBody type="r" wit="CAO-S"> Vere dominus est in loco isto et ego nesciebam</vBody>
+      <vBody id="c7286-1" type="r" wit="CAO-E"> Vere dominus est in loco isto et ego nesciebam</vBody>
+      <rep corresp="c7286-1" type="r" wit="CAO-E"> Non est</rep>
+      <vBody type="r" wit="CAO-R"> Domum istam protege domine et angeli tui custodiant muros eius</vBody>
+      <vBody type="r" wit="CAO-L"> Mane surgens Jacob erigebat lapidem in titulum fundens oleum desuper votum vovit domino dicens</vBody>
+      <vBody id="c7286-2" type="r" num="2" wit="CAO-E"> Mane surgens Jacob votum vovit domino deo et dixit</vBody>
+      <rep corresp="c7286-2" type="r" wit="CAO-E">Vere</rep>
+      <rep type="r" wit="CAO-R CAO-D CAO-F CAO-L">Vere</rep>
+      <rep type="r" wit="CAO-S">Et porta</rep>
+   </verses>
+</res>

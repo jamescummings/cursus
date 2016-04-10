@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7815" nextid="c7817" id="c7816">
+   <header>
+      <usage ms="Evm" code="07066000">[152r] matins-n3-r9</usage>
+      <usage ms="Wcb" code="07066000">[117r] matins-n3-r9</usage>
+      <usage ms="Wor" code="07066000">[61r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-E Wor Evm Wcb">
+      <app>
+         <rdg wit="CAO-E"> Vadis propitiatus ad immolandum pro omnibus</rdg>
+         <rdg wit="Wor"> Vadis propitiator ad immolandum pro omnibus</rdg>
+         <rdg wit="Evm Wcb"> Agnus Christi in cruce en immolatur pro omnibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E Wor"> non tibi occurrit Petrus</rdg>
+         <rdg wit="Evm Wcb"> non ei adhaesit Petrus</rdg>
+      </app> qui dicebat pro te moriar
+     <app>
+         <rdg wit="CAO-E Wor"> reliquit te Thomas</rdg>
+         <rdg wit="Evm Wcb"> reliquit eum Thomas</rdg>
+      </app> qui clamabat dicens omnes cum eo moriamur
+     <app>
+         <rdg wit="CAO-E"> sed nullus ex ipsis</rdg>
+         <rdg wit="Wor"> et nullus ex hiis</rdg>
+         <rdg wit="Evm Wcb"> et nullus ex illis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> nisi solus duceris</rdg>
+         <rdg wit="Wor"> nisi tu solus duceris</rdg>
+         <rdg wit="Evm Wcb"> sed hic solus moritur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E Wor"> qui castam me conservasti filius et deus meus</rdg>
+         <rdg wit="Evm Wcb"> hi solus nostros dolores tulit et languores solus hic portavit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E Wor Evm Wcb">
+         <app>
+            <rdg wit="CAO-E Wor"> Venite et videte</rdg>
+            <rdg wit="Evm Wcb"> Venite et videte omnes populi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E Wor"> deum et hominem</rdg>
+            <rdg wit="Evm Wcb"> caeli rex</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E Wor"> pendentem in cruce</rdg>
+            <rdg wit="Evm Wcb"> quare pependit in cruce</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E Wor">Qui castam</rep>
+      <rep type="r" wit="Evm Wcb"> Hi solus</rep>
+      <rep type="r" num="2" wit="Evm Wcb">Agnus</rep>
+   </verses>
+</res>

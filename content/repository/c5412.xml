@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5411" nextid="c5413" id="c5412">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Vidisti domine agonem meum quomodo pugnavi in stadio sed quia nolui oboedire mandatis principum
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-L"> iussa sum in mamilla torqueri</rdg>
+         <rdg wit="CAO-F"> iussa sum in mamillam torqueri</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> iussa sum in mamillas torqueri</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6738" nextid="c6740" id="c6739">
+   <header>
+      <usage ms="Alb2" code="06011000">[65r] matins-n1-r3</usage>
+      <usage ms="Bat" code="06011000">[42r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="06011000">[49r] matins-n1-r3</usage>
+      <usage ms="Cht" code="06011000">[11r] matins-n1-r3</usage>
+      <usage ms="Ely" code="06011000">[59v] matins-n1-r3</usage>
+      <usage ms="Evm" code="06011000">[91v] matins-n1-r3</usage>
+      <usage ms="Hyd" code="06011000">[60v] matins-n1-r3</usage>
+      <usage ms="Mch" code="06011000">[99v] matins-n1-r3</usage>
+      <usage ms="Pet" code="06011000">[54v] matins-n1-r3</usage>
+      <usage ms="Wcb" code="06011000">[85r] matins-n1-r3</usage>
+      <usage ms="Wor" code="06011000">[36r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> Formavit igitur dominus hominem de limo terrae</rdg>
+         <rdg wit="Hyd"> Formavit igitur deus hominem de limo terrae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> et inspiravit in faciem eius spiraculum vitae</rdg>
+         <rdg wit="CAO-V"> et insufflavit in faciem eius spiraculum vitae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> et factus est homo in animam viventem</rdg>
+         <rdg wit="CAO-M"> et factus est homo in anima vivente</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat">
+         <app>
+            <rdg wit="CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Bat">In principio fecit deus caelum et terram</rdg>
+            <rdg wit="Cdm"> In principio creavit deus caelum et terram</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Cdm Bat"> et creavit in ea hominem</rdg>
+            <rdg wit="CAO-R CAO-L Wcb Evm"> et plasmavit in ea hominem</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-B CAO-H Mch"> Igitur perfecti sunt caeli et terra et omnis ornatus eorum</vBody>
+      <vBody type="r" wit="CAO-M"> Igitur perfecti sunt</vBody>
+      <vBody type="r" wit="CAO-G CAO-V">
+         <app>
+            <rdg wit="CAO-G"> Creavitque</rdg>
+            <rdg wit="CAO-V"> Et creavit</rdg>
+         </app> deus hominem ad imaginem suam ad imaginem dei creavit illum</vBody>
+      <vBody type="r" wit="CAO-C CAO-E"> Plantaverat autem dominus deus
+      <app>
+            <rdg wit="CAO-E"> paradisum</rdg>
+            <rdg wit="CAO-C"> paradiso</rdg>
+         </app> voluptatis a principio in quo posuit hominem quem
+      <app>
+            <rdg wit="CAO-E"> formaverat</rdg>
+            <rdg wit="CAO-C"> formavit</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Pet Ely Wcb Cdm Bat Mch Cht Wor"> Et factus</rep>
+      <rep type="r" wit="CAO-L Evm"> Et inspiravit</rep>
+   </verses>
+</res>

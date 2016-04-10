@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5226" nextid="c5228" id="c5227">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F"> Tuam crucem adoramus domine tuam gloriosam recolimus passionem
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-F"> miserere nostri</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> miserere nobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-D CAO-F"> qui passus es pro nobis</rdg>
+         <rdg wit="CAO-V"> qui passus est pro nobis</rdg>
+         <rdg wit="CAO-R"> qui passus es pro nobis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

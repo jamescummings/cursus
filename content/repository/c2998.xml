@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2997" nextid="c2999" id="c2998">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Haec est domus domini firmiter aedificata bene fundata est
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> supra firmam petram</rdg>
+         <rdg wit="CAO-C CAO-H CAO-R"> super firmam petram</rdg>
+      </app>
+   </aBody>
+</ant>

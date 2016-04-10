@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6994a" nextid="c6995" id="c6994b">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for the Common of Virgins</note>
+   <rBody wit="CAO-C CAO-R"> Ista est speciosa inter filias Jerusalem sicut vidistis eam
+      <app>
+         <rdg wit="CAO-R"> plenam caritate et dilectione</rdg>
+         <rdg wit="CAO-C"> plenam caritatem et dilectionem</rdg>
+      </app> in cubilibus et in hortis aromatum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Ista est quae ascendit</vBody>
+      <rep type="r" wit="CAO-C">In cubilibus</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7093" nextid="c7095" id="c7094">
+   <rBody wit="CAO-E CAO-L"> Locus iste sanctus est ubi orant sacerdotes pro delictis et pro peccatis
+      <app>
+         <rdg wit="CAO-E CAO-L"> omnium</rdg>
+         <rdg wit="CAO-E"> omnibus</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-L">Terribilis est locus iste hic domus Dei est</vBody>
+      <rep type="r" wit="CAO-E CAO-L">Ubi</rep>
+   </verses>
+</res>

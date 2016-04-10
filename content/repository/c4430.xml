@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4429" nextid="c4430b" id="c4430">
+   <header>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-H CAO-S CAO-L Hyd"> Quaerite dominum
+     <app>
+         <rdg wit="CAO-H CAO-S CAO-L"> et vivet anima vestra</rdg>
+         <rdg wit="Hyd"> et vivet anima mea</rdg>
+      </app>
+   </aBody>
+</ant>

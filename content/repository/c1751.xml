@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1750" nextid="c1752" id="c1751">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Bat" code="06031000">[46r] nones</usage>
+      <usage ms="Cdm" code="06031000">none</usage>
+      <usage ms="Cht" code="06031000"/>
+      <usage ms="Ely" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Glo" code="06031000">[57v] nones</usage>
+      <usage ms="Hyd" code="06031000"/>
+      <usage ms="Mch" code="06031000">[109r] nones</usage>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[90v] nones</usage>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Alb2 Pet Ely Evm Wcb Glo Cdm Mch Bat"> Caecus magis ac magis clamabat ut eum dominus illuminaret</aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1594" nextid="o1596" id="o1595">
+   <header>
+      <usage ms="Cdm" code="07032000">[65v] sext</usage>
+      <usage ms="Evm" code="06034000">[102v] matins</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.868</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Cdm">
+      <app>
+         <rdg wit="Evm">Exaudi domine gemitum populi tui</rdg>
+         <rdg wit="Cdm">Exaudi quaesumus domine gemitum populi supplicantis</rdg>
+      </app> nec plus apud te valeat offensio delinquentium quam misericordia tua indulta fletibus supplicantium</pBody>
+</prayer>

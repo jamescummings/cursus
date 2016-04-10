@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4867" nextid="c4869" id="c4868">
+   <header>
+      <usage ms="Mch" code="07066000">[162v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-L Mch"> Sepulto domino signatum est monumentum ponentes milites
+     <app>
+         <rdg wit="CAO-C Mch"> qui custodirent illud</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-L"> qui custodirent eum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2372" nextid="c2374" id="c2373">
+   <header>
+      <usage ms="Hyd" code="01015000" corresp="c2373-2"/>
+      <usage ms="Hyd" code="05025000" corresp="c2373-1"/>
+   </header>
+   <aBody id="c2373-1" wit="CAO-G CAO-E CAO-V CAO-H CAO-S Hyd"> Domine refugium factus es nobis</aBody>
+   <aBody id="c2373-2" wit="Hyd"> Domine refugium factus es in nobis</aBody>
+   <aBody wit="CAO-L"> Domine refugium factus est nobis</aBody>
+</ant>

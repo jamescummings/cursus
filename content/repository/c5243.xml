@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5242" nextid="c5243b" id="c5243">
+   <header>
+      <usage ms="Cht" code="06036000"/>
+      <usage ms="Ely" code="06035000"/>
+      <usage ms="Hyd" code="06036000"/>
+      <usage ms="Mch" code="06036000">[111v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07012000"/>
+      <usage ms="Wor" code="06036000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Hyd Ely Cht Pet Mch"> Tunc invocabis et dominus exaudiet clamabis et dicet ecce adsum</aBody>
+</ant>

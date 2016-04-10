@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4352" nextid="c4353b" id="c4353">
+   <aBody wit="CAO-B CAO-V CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> Praecepit Jesus turbae discumbere super terram</rdg>
+         <rdg wit="CAO-V"> Praecepit turbae discumbere super terram</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et accipiens septem panes</rdg>
+         <rdg wit="CAO-V"> accipiens septem panes</rdg>
+      </app> gratias agens fregit
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et dabat discipulis suis ut apponerent</rdg>
+         <rdg wit="CAO-V"> et dedit discipulis suis</rdg>
+      </app> et apposuerunt turbae alleluia</aBody>
+</ant>

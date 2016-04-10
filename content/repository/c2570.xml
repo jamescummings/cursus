@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2569" nextid="c2571" id="c2570">
+   <header>
+      <usage ms="Alb2" code="07051000">[100v] prime</usage>
+      <usage ms="Cdm" code="07051000">[71v] prime</usage>
+      <usage ms="Cht" code="07051000">[49r] nones</usage>
+      <usage ms="Ely" code="07051000">[82v] sext</usage>
+      <usage ms="Glo" code="07051000">[70v] sext</usage>
+      <usage ms="Hyd" code="07051000">[86r] matins-n3</usage>
+      <usage ms="Mch" code="07051000">[147r] prime</usage>
+      <usage ms="Pet" code="07051000">[81v] sext</usage>
+      <usage ms="Wor" code="07051000">[54r] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Glo Alb2 Cdm Mch"> Ego daemonium non habeo sed honorifico patrem meum dicit dominus</aBody>
+</ant>

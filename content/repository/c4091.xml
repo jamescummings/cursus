@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4090" nextid="c4092" id="c4091">
+   <header>
+      <usage ms="Alb2" code="01048010">[22r] </usage>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="01048010">[15v] </usage>
+      <usage ms="Evm" code="01048010">[30r] </usage>
+      <usage ms="Hyd" code="02122400">[16r] vesp1 gosp</usage>
+      <usage ms="Pet" code="01048010">[13r] </usage>
+      <usage ms="Wcb" code="01048010">[49v] </usage>
+      <usage ms="Wor" code="01048010">[11r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Pet"> O virgo virginum quomodo fiet istud
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-F Hyd Alb2 Evm Cdm Ely Wor Wcb Pet"> quia nec primam similem visa es</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-D CAO-S"> quia nec primam similem visa est</rdg>
+         <rdg wit="CAO-L"> quia nec prima tui similis visa est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Pet"> nec habere sequentem</rdg>
+         <rdg wit="CAO-L"> nec haberes sequentem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Cdm Ely Wor Wcb Pet"> filiae Jerusalem quid me admiramini</rdg>
+         <rdg wit="CAO-C"> filiae Jerusalem quid admiramini</rdg>
+         <rdg wit="CAO-D Evm"> filiae Jerusalem qui me admiramini</rdg>
+      </app> divinum est mysterium hoc quod cernitis</aBody>
+</ant>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4302" nextid="c4304" id="c4303">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L"> Ponam te signaculum dicit dominus in conspectu meo semper
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> quoniam elegi te</rdg>
+         <rdg wit="CAO-V"> quoniam elegit te</rdg>
+      </app>
+   </aBody>
+</ant>

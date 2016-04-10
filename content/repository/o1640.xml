@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1639" nextid="o1641" id="o1640">
+   <header>
+      <usage ms="Alb2" code="07032000"/>
+      <usage ms="Bat" code="07032000">[55v] vesp2</usage>
+      <usage ms="Cdm" code="07032000">[65v] vesp2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.235</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Cdm Bat">Subveniat nobis domine quaesumus misericordia tua ut ab imminentibus peccatorum nostrorum periculis te mereamur protegente salvari</pBody>
+</prayer>

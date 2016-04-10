@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7170" nextid="c7172" id="c7171">
+   <rBody wit="CAO-C CAO-L"> Modicum et non videbitis me alleluia iterum modicum et videbitis me quia vado ad patrem alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-L"> Ascendo ad patrem meum et patrem vestrum deum meum et deum vestrum</vBody>
+      <rep type="r" wit="CAO-C">Quia</rep>
+      <rep type="r" wit="CAO-L">Alleluia</rep>
+   </verses>
+</res>

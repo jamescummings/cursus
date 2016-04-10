@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4570" nextid="c4572" id="c4571">
+   <header>
+      <usage ms="Alb2" code="07044000">[96r] lauds</usage>
+      <usage ms="Cdm" code="07044000">[69v] lauds gosp</usage>
+      <usage ms="Cht" code="07044000">[44v] lauds</usage>
+      <usage ms="Evm" code="07044000">[131r] lauds</usage>
+      <usage ms="Glo" code="07044000">[68v] lauds</usage>
+      <usage ms="Hyd" code="07044000">[84r] lauds</usage>
+      <usage ms="Mch" code="07044000">[141v] lauds gosp</usage>
+      <usage ms="Pet" code="07044000"/>
+      <usage ms="Wcb" code="07044000"/>
+      <usage ms="Wor" code="07044000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Alb2 Cdm Mch"> Rabbi quis peccavit</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H Pet">Rabbi quid peccavit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Ely Pet Alb2 Mch">homo iste</rdg>
+         <rdg wit="CAO-E CAO-F CAO-L">homo hic aut parentes eius</rdg>
+         <rdg wit="Wor Cht Hyd Evm Wcb Cdm"> hic aut parentes eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-F CAO-S Ely Pet Alb2 Mch">quod</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-L Wor Cht Hyd Evm Wcb Cdm">ut</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Pet Alb2">caecus natus est</rdg>
+         <rdg wit="CAO-L Wor Cht Hyd Evm Wcb Cdm Mch">caecus nasceretur</rdg>
+      </app> respondit Jesus et dixit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> neque hic peccavit</rdg>
+         <rdg wit="Cht" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> neque parentes eius sed ut manifestentur opera dei
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">in illo</rdg>
+         <rdg wit="CAO-C CAO-M">in eo</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Rabbi quis peccavit hic</aBody>
+</ant>

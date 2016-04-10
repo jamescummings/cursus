@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1683" nextid="o1685" id="o1684">
+   <header>
+      <usage ms="Hyd" code="08021000">vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.435</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Praesta quaesumus omnipotens deus ut qui paschalia festa peregimus haec te largiente moribus et vita teneamus</pBody>
+</prayer>

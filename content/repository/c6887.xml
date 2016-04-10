@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6886" nextid="c6888" id="c6887">
+   <header>
+      <usage ms="Alb2" code="02122600">[32v] matins-n3-r11</usage>
+      <usage ms="Bat" code="02122600">[20r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="02122600">[25r] matins-n3-r11</usage>
+      <usage ms="Evm" code="02122600">[40v] matins-n3-r9</usage>
+      <usage ms="Pet" code="02122600">[23r] matins-n3-r9</usage>
+      <usage ms="Wcb" code="02122600">[59r] matins-n3-r9</usage>
+      <usage ms="Wor" code="02122600" corresp="c6887-1">[18v] vesp2</usage>
+      <usage ms="Wor" code="02122600">[17v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> Impii super iustum iacturam fecerunt ut eum morti traderent at ille gaudens
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> suscepit lapides</rdg>
+         <rdg wit="CAO-E CAO-M CAO-D"> suscepit lapidem</rdg>
+      </app> ut mereretur accipere coronam gloriae</rBody>
+   <rBody type="incipit" wit="Wor" num="2" id="c6887-1">Impii</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-B CAO-H"> Captabant in animam iusti</rdg>
+            <rdg wit="CAO-E CAO-R"> Captabunt in animam iusti</rdg>
+         </app> et sanguinem innocentem
+       <app>
+            <rdg wit="CAO-B"> condemnabant</rdg>
+            <rdg wit="CAO-E CAO-H CAO-R"> condemnabunt</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-F Evm Wcb Wor Pet"> Continuerunt aures suas et impetum fecerunt unanimiter in eum et eicientes eum extra civitatem lapidabant</vBody>
+      <vBody type="r" wit="CAO-S CAO-L Alb2"> Continuerunt aures suas et impetum fecerunt unanimiter in eum</vBody>
+      <vBody type="r" wit="Wor" num="2" corresp="c6887-1"> Hebraeorum gens perfida morte Christi sanguinea in Stephanum malivola perfecerunt consilia quae occiderunt nequiter lapidando crudeliter</vBody>
+      <rep type="r" wit="Wor" num="2" corresp="c6887-1"> At ille</rep>
+      <dox type="r" wit="Wor" corresp="c6887-1"> Gloria sit parti summo creatori sempiterno eiusque unigenito Maria matre edito et flammi paraclito ut erat in principio</dox>
+      <rep type="r" wit="Wor" num="3" corresp="c6887-1"> At ille</rep>
+      <vBody type="r" wit="CAO-V"> Impetum fecerunt <corr sic="unianimiter" resp="Hesbert">unanimiter</corr> in eum et eicientes eum extra civitatem lapidabant</vBody>
+      <vBody type="r" wit="CAO-C"> Stephanus autem plenus gratia et fortitudine faciebat prodigia et signa magna in populo</vBody>
+      <vBody type="r" wit="CAO-G Bat Cdm"> Vidit beatus Stephanus caelos apertos vidit et introivit</vBody>
+      <vBody type="r" wit="CAO-M"> Vidit beatus Stephanus</vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Wcb Bat Wor Pet">At ille</rep>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-S Cdm">Ut mereretur</rep>
+      <prosula wit="CAO-D"> Hebraeorum gens perfida morte Christi sanguinea in Stephanum malivola perfecerunt consilia quae occiderunt nequiter lapidando crudeliter <rep type="p" wit="CAO-D">At ille</rep>
+      </prosula>
+      <vBody type="r" wit="Pet" num="2"> Hebraeorum gens perfida morte Christi sanguinea in Stephanum malivola perfecerunt consilia quem occiderunt nequiter lapidando crudeliter</vBody>
+      <rep type="r" wit="Pet" num="2">At ille</rep>
+   </verses>
+</res>

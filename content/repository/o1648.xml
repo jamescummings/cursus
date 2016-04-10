@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1647" nextid="o1649" id="o1648">
+   <header>
+      <usage ms="Hyd" code="02010608"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.92</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd">Deus inluminator omnium gentium da populis tuis perpetua pace gaudere et illud lumen splendidum infunde cordibus nostris quod trium magorum mentibus aspirasti Jesum Christum filium tuum</pBody>
+</prayer>

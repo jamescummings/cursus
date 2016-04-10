@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6505" nextid="c6507" id="c6506">
+   <header>
+      <usage ms="Cdm" code="06035000">[55r] matins-r3</usage>
+      <usage ms="Cht" code="06035000"/>
+      <usage ms="Ely" code="06035000"/>
+      <usage ms="Hyd" code="06035000"/>
+      <usage ms="Wor" code="06035000"/>
+   </header>
+   <rBody wit="CAO-C CAO-V CAO-D CAO-F CAO-L Cht Hyd Ely Cdm"> Domine puer meus iacet
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-F CAO-L Cht Hyd Cdm"> paraliticus in domo</rdg>
+         <rdg wit="Ely"> in domo paraliticus</rdg>
+      </app> et male torquetur amen dico tibi ego veniam et curabo eum</rBody>
+   <rBody wit="Wor">
+      <gap desc="first part of respond" reason="erased line in Ms" resp="DC"/> ego veniam et curabo eum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Accessit ad dominum centurio rogans eum pro puero suo dixitque illi Jesus</vBody>
+      <vBody type="r" wit="CAO-C CAO-V CAO-D CAO-F Cht Wor Hyd Ely Cdm"> Domine non sum dignus ut intres sub tectum meum
+      <app>
+            <rdg wit="Cht"> sed et</rdg>
+            <rdg wit="CAO-C CAO-V CAO-D CAO-F Wor Hyd Ely Cdm"> sed</rdg>
+         </app> tantum dic verbo et sanabitur puer meus</vBody>
+      <rep type="r" wit="CAO-C CAO-D CAO-F Cht Wor Hyd Ely"> Amen</rep>
+      <rep type="r" wit="CAO-V CAO-L"> Ego</rep>
+   </verses>
+</res>

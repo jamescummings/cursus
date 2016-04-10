@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3881" nextid="c3883" id="c3882">
+   <header>
+      <usage ms="Hyd" code="08065008">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Nisi ego abiero paraclitus non veniet
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> dum assumptus fuero</rdg>
+         <rdg wit="CAO-M"> et dum assumptus fuero</rdg>
+      </app> mittam vobis alleluia</aBody>
+</ant>

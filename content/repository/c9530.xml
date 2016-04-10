@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9529" nextid="c9531" id="c9530">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n3-r13</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">for respond cf. verse of respond c7254: for verse cf. verse of respond c6239</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Hyd"> Gloria tibi laus et tibi gratiarum actio in sempiterna saecula</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd"> Benedictus es domine in firmamento caeli et laudabilis et gloriosus</vBody>
+      <rep type="r" wit="Hyd">In sempiterna</rep>
+   </verses>
+</res>

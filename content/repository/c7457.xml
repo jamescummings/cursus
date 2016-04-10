@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7456" nextid="c7458" id="c7457">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quae sunt
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> in corde hominum</rdg>
+         <rdg wit="CAO-H"> in corde hominis</rdg>
+      </app> oculi tui
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> vident domine</rdg>
+         <rdg wit="CAO-V"> videt dominum</rdg>
+      </app> et in libro tuo omnia scribentur homo videt
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-D"> in facie</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-F CAO-S CAO-L"> in faciem</rdg>
+      </app> deus autem in corde</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S"> Imperfectum meum viderunt oculi tui et in libro tuo omnia scribentur</vBody>
+      <vBody type="r" wit="CAO-C"> Imperfectum meum viderunt oculi tui</vBody>
+      <vBody id="c7457-1" type="r" wit="CAO-F"> Imperfectum meum viderunt oculi tui et in libro tuo omnia scribentur</vBody>
+      <rep corresp="c7457-1" type="r" wit="CAO-F">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-F</note>
+      </rep>
+      <vBody type="r" wit="CAO-D CAO-L"> Omnia enim corda scrutatur et universas mentium cogitationes intelligit</vBody>
+      <vBody id="c7457-2" type="r" num="2" wit="CAO-F"> Omnia enim corda scrutatur et universas mentium cogitationes intelligit</vBody>
+      <rep corresp="c7457-2" type="r" wit="CAO-F"> Homo</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L">Homo</rep>
+      <rep type="r" wit="CAO-C">Et in</rep>
+   </verses>
+</res>

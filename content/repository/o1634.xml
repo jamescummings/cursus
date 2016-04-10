@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1633" nextid="o1635" id="o1634">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">cf. Deshusses no.3664</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2">Deus qui venerabilem beatorum confessorum tuorum atque pontificum Hillarii et Remigii festivitatem sollemniter recurrente populo dedicasti te suplliciter votis uberrimis deprecamur ut quod in eorum honore deposcimus eis suffragantibus consequi mereamur</pBody>
+</prayer>

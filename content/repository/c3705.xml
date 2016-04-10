@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3704" nextid="c3706" id="c3705">
+   <header>
+      <usage ms="Hyd" code="08015000">[104r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Maria stabat ad monumentum plorans</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V"> Maria stans ad monumentum plorans</rdg>
+         <rdg wit="CAO-L"> Maria stabat ad monumentum foris plorans</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-R CAO-F CAO-L"> vidit angelos</rdg>
+         <rdg wit="Hyd"> vidit duos angelos</rdg>
+         <rdg wit="CAO-D CAO-S"> et vidit duos angelos</rdg>
+         <rdg wit="CAO-C CAO-E CAO-H"> vidit angelum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">in albis sedentes</rdg>
+         <rdg wit="CAO-E CAO-H">in albis sedentem</rdg>
+      </app> et sudarium quod fuerat
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> super caput Jesu alleluia</rdg>
+         <rdg wit="CAO-V"> super caput Jesus alleluia</rdg>
+         <rdg wit="CAO-C"> super caput Jesum alleluia</rdg>
+         <rdg wit="CAO-D"> super caput eius alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

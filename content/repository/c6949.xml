@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6948" nextid="c6950" id="c6949">
+   <rBody wit="CAO-H">
+      <verse type="stanza">
+         <l part="N">Inclyte confessor fratrum quae fidelis amator</l>
+         <l part="N">instanter precibus nostros relevato reatus</l>
+         <l part="N">namque tuis meritis speramus dona salutis</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H">
+         <verse type="stanza">
+            <l part="N">Virtutum radiis qui clarus in orbe nitescis</l>
+            <l part="N">ora pro famulis o pater alme tuis</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-H">Namque</rep>
+   </verses>
+</res>

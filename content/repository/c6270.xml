@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6269b" nextid="c6271" id="c6270">
+   <header>
+      <usage ms="Alb2" code="07041000">[93r] matins-n1-r3</usage>
+      <usage ms="Bat" code="07041000">[56r] matins-n1-r3</usage>
+      <usage ms="Cdm" code="07041000">[67r] matins-n1-r3</usage>
+      <usage ms="Cht" code="07041000">[40r] matins-n1-r3</usage>
+      <usage ms="Ely" code="07041000">[77v] matins-n1-r3</usage>
+      <usage ms="Evm" code="07041000">[127r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="07041000">[81v] matins-n1-r3</usage>
+      <usage ms="Mch" code="07041000">[137r] matins-n2-r5</usage>
+      <usage ms="Pet" code="07041000">[75r] matins-r3</usage>
+      <usage ms="Wcb" code="07041000">[103v] matins-n1-r3</usage>
+      <usage ms="Wor" code="07041000">[50v] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Cantemus domino gloriose enim
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Mch Bat"> honorificatus est</rdg>
+         <rdg wit="Cdm"> magnificatus est</rdg>
+      </app> equum et ascensorem proiecit in mare adiutor et protector factus est mihi dominus in salutem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Cdm Mch Bat">  Currus Pharaonis et exercitum eius proiecit
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Cdm Mch Bat"> in mare</rdg>
+            <rdg wit="CAO-C"> in mari</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-L Evm Wcb Alb2"> Dominus quasi vir pugnator
+      <app>
+            <rdg wit="CAO-G CAO-L Evm Wcb"> omnipotens nomen eius</rdg>
+            <rdg wit="Alb2"> nomen eius omnipotens</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Bat"> Adiutor</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3569" nextid="c3571" id="c3570">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Laetentur omnes qui sperant in te domine
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> quoniam tu benedixisti iusto</rdg>
+         <rdg wit="CAO-L"> quoniam tu benedixisti iustum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> scuto bonae voluntatis</rdg>
+         <rdg wit="CAO-L"> scuto voluntatis tuae</rdg>
+      </app> coronasti eum</aBody>
+   <aBody wit="CAO-C" num="2"> Laetentur omnes qui sperant in te domine quoniam tu benedices iusto scuto voluntatis tuae coronasti eum</aBody>
+</ant>

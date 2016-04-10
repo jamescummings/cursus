@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7634" nextid="c7636" id="c7635">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Senex puerum portabat</rdg>
+         <rdg wit="CAO-V CAO-S"> Senes puerum portabat</rdg>
+      </app> puer autem senem regebat quem virgo concepit virgo peperit virgo post partum quem genuit adoravit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Accipiens Simeone puerum in manibus gratias agens benedixit dominum</vBody>
+      <vBody type="r" wit="CAO-G CAO-L"> Responsum acceperat a spiritu sancto non visurum se mortem
+      <app>
+            <rdg wit="CAO-G"> nisi videret Christum domini</rdg>
+            <rdg wit="CAO-L"> nisi videret dominum</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L"> Quem</rep>
+      <rep type="r" wit="CAO-E CAO-R">Puer autem</rep>
+   </verses>
+</res>

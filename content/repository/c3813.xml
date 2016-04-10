@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3812" nextid="c3814" id="c3813">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-R"> Mox ut vocem domini praedicantis audivit beatus Andreas relictis retibus quorum usu actuque vivebat
+     <app>
+         <rdg wit="CAO-B CAO-R"> aeternae vitae secutus est praemia largientem</rdg>
+         <rdg wit="CAO-E"> aeternae vitae secutus est praemia largitoris</rdg>
+         <rdg wit="CAO-M"> aeternae vitae secutus est praemia largitorem</rdg>
+      </app>
+   </aBody>
+</ant>

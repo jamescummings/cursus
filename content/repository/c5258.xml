@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5257" nextid="c5259" id="c5258">
+   <header>
+      <usage ms="Alb2" code="07033000"/>
+      <usage ms="Bat" code="07033000">[55v] lauds gosp</usage>
+      <usage ms="Cdm" code="07033000">[66r] lauds gosp</usage>
+      <usage ms="Cht" code="07033000"/>
+      <usage ms="Ely" code="07033000"/>
+      <usage ms="Evm" code="07033000"/>
+      <usage ms="Glo" code="07033000"/>
+      <usage ms="Hyd" code="07033000"/>
+      <usage ms="Mch" code="07033000">[134r] lauds gosp</usage>
+      <usage ms="Pet" code="07033000"/>
+      <usage ms="Wcb" code="07033000"/>
+      <usage ms="Wor" code="07033000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Ubi duo vel tres congregati fuerint in nomine meo in medio eorum sum dicit dominus</aBody>
+</ant>

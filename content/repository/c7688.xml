@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7687" nextid="c7689" id="c7688">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-D Hyd"> Spiritu sancto replevit eos dominus et loquebantur magnalia dei alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D">Repleti sunt omnes</vBody>
+      <vBody type="r" wit="Hyd">Replevit eos dominus spiritu sapientiae et intellectus</vBody>
+      <rep type="r" wit="CAO-D">Magnalia</rep>
+      <rep type="r" wit="Hyd">Et loquebantur</rep>
+   </verses>
+</res>

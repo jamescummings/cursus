@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1620" nextid="o1622" id="o1621">
+   <header>
+      <usage ms="Wcb" code="07031000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.915</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb">Familiam tuam domine dextera tua perpetuo circumdet auxilio ut ab omni pravitate defensa donis caelestibus prosequatur</pBody>
+</prayer>

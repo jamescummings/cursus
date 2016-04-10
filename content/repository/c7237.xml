@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7236b" nextid="c7238" id="c7237">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Nos alium deum nescimus praeter dominum in quo speramus
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-F Hyd"> qui non despiciet nos</rdg>
+         <rdg wit="CAO-C CAO-H CAO-D"> qui non despiciat nos</rdg>
+         <rdg wit="CAO-S CAO-L"> qui non despicit nos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> nec amovet</rdg>
+         <rdg wit="CAO-H Hyd"> nec amovit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> salutem suam</rdg>
+         <rdg wit="CAO-C"> salutem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd"> a genere nostro</rdg>
+         <rdg wit="CAO-F"> a genere <corr sic="suo">nostro</corr>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-M CAO-H CAO-D CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-H CAO-D Hyd"> Indulgentiam eius</rdg>
+            <rdg wit="CAO-F CAO-S"> Indulgentiam illius</rdg>
+            <rdg wit="CAO-M"> Indulgentiam ipsius</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-M CAO-D CAO-F CAO-S Hyd"> fusis lacrimis</rdg>
+            <rdg wit="CAO-H"> profusis lacrimis</rdg>
+         </app> postulemus et humiliemus illi animas nostras</vBody>
+      <vBody type="r" wit="CAO-B CAO-R"> Exspectemus humiles
+       <app>
+            <rdg wit="CAO-B"> consalationem eius</rdg>
+            <rdg wit="CAO-R"> consalationem nostram</rdg>
+         </app> qui non derelinquet nos</vBody>
+      <vBody type="r" wit="CAO-C CAO-V"> Quoniam omnes dii gentium daemonia dominus autem caelos fecit</vBody>
+      <vBody type="r" wit="CAO-L"> Dominus mortificat et vivificat <corr sic="deducis" resp="Hesbert">deducit</corr> ad inferos et <corr sic="reducis" resp="Hesbert">reducit</corr>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd">Qui</rep>
+      <rep type="r" wit="CAO-B CAO-R">Nec amovet</rep>
+   </verses>
+</res>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7549" nextid="c7551" id="c7550">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Rogavi dominum meum Jesum Christum ut ignis iste
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S"> non dominetur mihi</rdg>
+         <rdg wit="CAO-V"> non dominentur mihi</rdg>
+      </app> et impetravi
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D"> a domino</rdg>
+         <rdg wit="CAO-S"> ad domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S"> inducias martyrii mei</rdg>
+         <rdg wit="CAO-V CAO-D"> inducias martyri mei</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Pro eo ut me diligerent detrahebant mihi ego autem orabam</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-S"> Ut credentibus timorem
+      <app>
+            <rdg wit="CAO-G"> auferrem</rdg>
+            <rdg wit="CAO-D" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+            <rdg wit="CAO-S"> auferrent</rdg>
+         </app> passionis et non credentibus vocem insultationis auferrem</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S">Et impetravi</rep>
+   </verses>
+</res>

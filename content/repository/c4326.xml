@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4325" nextid="c4326b" id="c4326">
+   <header>
+      <usage ms="Hyd" code="08021000">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Post dies octo ianuis clausis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> ingressus dominus et dixit eis</rdg>
+         <rdg wit="CAO-C"> ingressus dominus dixit eis</rdg>
+      </app> pax vobis alleluia alleluia</aBody>
+</ant>

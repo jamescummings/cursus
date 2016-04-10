@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7666" nextid="c7668" id="c7667">
+   <rBody wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> Simile est regnum caelorum decem virginibus quae accipientes lampades suas exierunt obviam sponso et sponsae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-D"> Prudentes autem virgines acceperunt oleum in vasis suis cum lampadibus</vBody>
+      <vBody type="r" wit="CAO-E CAO-F"> Quinque autem ex eis erant fatuae et quinque prudentes</vBody>
+      <vBody type="r" wit="CAO-L"> Venientes autem venient cum exsultatione portantes manipulos suos</vBody>
+      <rep type="r" wit="CAO-E">Quae</rep>
+      <rep type="r" wit="CAO-H CAO-D CAO-F CAO-L">Exierunt</rep>
+   </verses>
+</res>

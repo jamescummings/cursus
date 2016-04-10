@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1545" nextid="o1547" id="o1546">
+   <header>
+      <usage ms="Ely" code="07042000">[79r] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.311</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely">Tueatur quaesumus domine dextera tua populum tuum deprecantem et purificatum dignanter erudiat ut consolationem praesentem ad futura bona proficiat</pBody>
+</prayer>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2419" nextid="c2421" id="c2420">
+   <header>
+      <usage ms="Hyd" code="01011000">[1v] matins-n1-a2</usage>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Mch" code="01011000">[1v] matins-n1-a2</usage>
+   </header>
+   <aBody wit="CAO-H CAO-S CAO-L Hyd Mch"> Dominus regit me et nihil mihi deerit in loco pascuae ibi me collocavit</aBody>
+</ant>

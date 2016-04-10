@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7312" nextid="c7314" id="c7313">
+   <header>
+      <usage ms="Alb2" code="07066000">[109v] matins-n1-r1</usage>
+      <usage ms="Cdm" code="07066000">[78v] matins-n1-r1</usage>
+      <usage ms="Cht" code="07066000">[62r] matins-n1-r1</usage>
+      <usage ms="Ely" code="07066000">[89v] matins-n1-r1</usage>
+      <usage ms="Evm" code="07066000">[151v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="07066000">[96r] matins-n1-r1</usage>
+      <usage ms="Mch" code="07066000">[160r] matins-n1-r1</usage>
+      <usage ms="Pet" code="07066000">[91r] matins-n1-r1</usage>
+      <usage ms="Wcb" code="07066000">[116v] matins-n2-r6</usage>
+      <usage ms="Wor" code="07066000">[61r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Omnes amici mei dereliquerunt me
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> et praevaluerunt insidiantes mihi</rdg>
+         <rdg wit="CAO-E CAO-V"> et praevaluerunt insidiantem mihi</rdg>
+      </app> tradidit me quem diligebam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> et terribilibus oculis</rdg>
+         <rdg wit="CAO-L"> et terribilibus hominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> plaga crudeli percutiens</rdg>
+         <rdg wit="CAO-M"> plaga crudelis percutiens</rdg>
+         <rdg wit="CAO-G"> plaga crudeli percutientes</rdg>
+         <rdg wit="CAO-V CAO-L"> plaga crudelis percutientes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Ely Hyd Pet Cdm"> aceto potabant me</rdg>
+         <rdg wit="CAO-B Cht Wcb Alb2 Mch"> aceto potavit me</rdg>
+         <rdg wit="Wor"> aceto potab<gap reason="erasure" resp="DC" extent="one or two letters"/> me</rdg>
+         <rdg wit="Evm"> aceto potavit</rdg>
+         <rdg wit="CAO-H CAO-R"> aceto potabat me</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch"> Et dederunt in escam meam fel</rdg>
+            <rdg wit="Alb2"> Et dederunt in escem meam fel</rdg>
+            <rdg wit="CAO-D"> Et dederunt me escam meam fel</rdg>
+            <rdg wit="CAO-V"> Et dederunt in escam mea fel</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Mch"> et in siti mea</rdg>
+            <rdg wit="Cdm"> et in siti mea potaverunt me</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch">Aceto</rep>
+      <rep type="r" num="2" wit="Evm Wcb">Omnes</rep>
+   </verses>
+</res>

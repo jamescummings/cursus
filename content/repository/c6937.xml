@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6936" nextid="c6938" id="c6937">
+   <header>
+      <usage ms="Alb2" code="06011000">[66r] matins-n2-r11</usage>
+      <usage ms="Bat" code="06011000">[42v] matins-n3-r10</usage>
+      <usage ms="Cdm" code="06011000">[49v] matins-n3-r10</usage>
+      <usage ms="Ely" code="06011000">[60r] matins-n3-r10</usage>
+      <usage ms="Evm" code="06011000">[93r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="06011000">[61v] matins-n3-r10</usage>
+      <usage ms="Mch" code="06011000">[100r] matins-n3-r9</usage>
+      <usage ms="Pet" code="06011000">[56r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="06011000">[86r] matins-n3-r10</usage>
+      <usage ms="Wor" code="06011000">[37r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> In sudore vultus tui
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> vesceris pane tuo dixit dominus</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V"> vesceris panem tuum dixit dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> ad Adam</rdg>
+         <rdg wit="CAO-S"> Adam</rdg>
+      </app> cum operatus fueris
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> terram</rdg>
+         <rdg wit="CAO-V CAO-S"> terra</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> non dabit fructus suos</rdg>
+         <rdg wit="CAO-G CAO-E CAO-V"> non dabit fructum suum</rdg>
+         <rdg wit="CAO-M"> non dabit <corr sic="fructum suum">fructus suos</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> sed spinas et tribulos</rdg>
+         <rdg wit="CAO-M"> sed et spinas et tribulos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> germinabit tibi</rdg>
+         <rdg wit="CAO-V"> germinavit tibi</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Wor Pet Ely Cdm Bat Mch"> Pro eo quod
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Wor Pet Ely Cdm Bat Mch"> oboedisti</rdg>
+            <rdg wit="CAO-D"> obaudisti</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Wor Pet Ely Cdm Bat Mch"> voci uxoris tuae</rdg>
+            <rdg wit="CAO-C CAO-M CAO-V CAO-S"> vocem uxoris tuae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-D CAO-F CAO-S Hyd Alb2 Wor Pet Ely"> plus quam me</rdg>
+            <rdg wit="CAO-G CAO-B CAO-R Cdm Bat Mch"> plus quam meae</rdg>
+            <rdg wit="CAO-V"> plus qua mea</rdg>
+         </app> maledicta terra in opere tuo</vBody>
+      <vBody type="r" wit="CAO-L Wcb Evm"> Quia audisti vocem uxoris tuae et comedisti de ligno ex quo praeceperam tibi ne comederes maledicta terra in opere tuo</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-F CAO-L Mch">Cum operatus</rep>
+      <rep type="r" wit="CAO-G CAO-M CAO-V CAO-S"> Sed spinas</rep>
+      <rep type="r" wit="CAO-C CAO-E CAO-R CAO-D Pet Ely Hyd Wor Alb2 Wcb Evm Cdm Bat">Non dabit</rep>
+   </verses>
+</res>

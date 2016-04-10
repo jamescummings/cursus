@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1728" nextid="c1730" id="c1729">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] lauds-a4</usage>
+      <usage ms="Bat" code="06011000">[43r] lauds-a4</usage>
+      <usage ms="Cdm" code="06011000">[50r] lauds-a4</usage>
+      <usage ms="Cht" code="06011000">[12v] lauds-a4</usage>
+      <usage ms="Ely" code="06011000">[60v] lauds-a4</usage>
+      <usage ms="Evm" code="06011000">[94r] lauds</usage>
+      <usage ms="Hyd" code="06011000">[62r] lauds gosp</usage>
+      <usage ms="Mch" code="06011000">[102r] lauds-a4</usage>
+      <usage ms="Pet" code="06011000">[56v] lauds</usage>
+      <usage ms="Wcb" code="06011000">[86v] lauds</usage>
+      <usage ms="Wor" code="06011000">[37r] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch"> Benedictus es in firmamento caeli</rdg>
+         <rdg wit="CAO-V"> Benedictus est in firmamento caeli</rdg>
+         <rdg wit="Bat"> Benedictus es domine in firmamento caelic</rdg>
+      </app> et laudabilis in saecula deus noster</aBody>
+</ant>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6403a" nextid="c6405" id="c6404">
+   <header>
+      <usage ms="Hyd" code="08051000">matins-n2-r7</usage>
+   </header>
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <rBody wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Delectare in domino et dabit tibi
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> petitiones</rdg>
+         <rdg wit="CAO-L"> petitionem</rdg>
+      </app> cordis tui</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-R"> Spera in domino et fac bonitatem
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-V"> et inhabita</rdg>
+            <rdg wit="CAO-R"> inhabita</rdg>
+         </app> terram et pasceris in divitiis eius</vBody>
+      <vBody type="r" wit="CAO-H CAO-D CAO-F Hyd"> Revela domino viam tuam
+       <app>
+            <rdg wit="CAO-D CAO-F"> et spera in eum</rdg>
+            <rdg wit="CAO-H"> et spera in eum et ipse faciet</rdg>
+            <rdg wit="Hyd"> et spera in eo et ipse faciet</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Spera in domino et fac bonitatem et dabit tibi</vBody>
+      <rep type="r" wit="CAO-D CAO-F Hyd"> Et dabit</rep>
+      <rep type="r" wit="CAO-H"> Petitiones</rep>
+      <rep type="r" wit="CAO-L"> etitionem</rep>
+   </verses>
+</res>

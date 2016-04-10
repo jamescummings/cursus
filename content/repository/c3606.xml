@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3605" nextid="c3607" id="c3606">
+   <header>
+      <usage ms="Alb2" code="01012000">[6v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01012000">[8v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01012000">[11v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01012000">[6r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Glo"> Leva Jerusalem oculos et vide potentiam regis ecce salvator venit solvere te
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-D CAO-F CAO-S Alb2 Evm Mch Glo"> a vinculo</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> a vinculis</rdg>
+      </app>
+   </aBody>
+</ant>

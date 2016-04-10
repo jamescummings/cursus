@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6062" nextid="c6064" id="c6063">
+   <rBody wit="CAO-E CAO-D CAO-F CAO-S"> Agmina sacra angelorum laetamini
+     <app>
+         <rdg wit="CAO-E"> pro concive vestro ill</rdg>
+         <rdg wit="CAO-D"> pro concivi vestro Eugenio</rdg>
+         <rdg wit="CAO-F"> pro concivis vestro Martino</rdg>
+         <rdg wit="CAO-S"> pro praecursore Johanne</rdg>
+      </app> de quo gaudet Christi ecclesia feliciter
+     <app>
+         <rdg wit="CAO-E"> et refulget pollenter</rdg>
+         <rdg wit="CAO-D"> et exsultat gaudenter</rdg>
+         <rdg wit="CAO-F"> et exsultet gaudenter</rdg>
+         <rdg wit="CAO-S"> et exsultant gaudentes</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Laetamini in domino et exsultate iusti et gloriamini
+      <app>
+            <rdg wit="CAO-D"> cum beato Eugenio</rdg>
+            <rdg wit="CAO-F"> cum beato Martino</rdg>
+            <rdg wit="CAO-S"> cum praecursore Johanne</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E"> Omnes virtutes et omnes militiae caelestis merito laetamini cum <sic resp="Hesbert">beatus</sic> ill</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-S">De quo</rep>
+   </verses>
+</res>

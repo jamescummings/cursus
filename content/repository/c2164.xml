@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2163" nextid="c2165" id="c2164">
+   <aBody wit="CAO-E CAO-V CAO-S CAO-L"> Deus Abraham deus Isaac deus Jacob
+     <app>
+         <rdg wit="CAO-V CAO-S CAO-L"> benedici adolescentes istos</rdg>
+         <rdg wit="CAO-E"> benedicat adolescentes istos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-S CAO-L"> et semina semen vitae</rdg>
+         <rdg wit="CAO-E"> et seminet semen vitae</rdg>
+      </app> in mentibus eorum</aBody>
+</ant>

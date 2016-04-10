@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3826" nextid="c3828" id="c3827">
+   <header>
+      <usage ms="Alb2" code="07054000">[102r] vesp2</usage>
+      <usage ms="Cdm" code="07054000">[72v] vesp2</usage>
+      <usage ms="Cht" code="07054000">[51v] vesp2</usage>
+      <usage ms="Ely" code="07054000">[83v] vesp2</usage>
+      <usage ms="Evm" code="07054000">[139r] vesp2</usage>
+      <usage ms="Glo" code="07054000">[71v] vesp2</usage>
+      <usage ms="Hyd" code="07054000">[88v] vesp2</usage>
+      <usage ms="Mch" code="07054000">[149v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07054000">[82v] vesp2-a1</usage>
+      <usage ms="Wcb" code="07054000">[110r] vesp2</usage>
+      <usage ms="Wor" code="07054000">[54v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Multa bona opera operatus sum vobis propter quod opus vultis me occidere</aBody>
+</ant>

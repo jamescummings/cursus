@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4614" nextid="c4616" id="c4615">
+   <header>
+      <usage ms="Cdm" code="07065000">[78v] none</usage>
+      <usage ms="Cht" code="07056000">[52v] prime</usage>
+      <usage ms="Evm" code="07056000">[140r] terce</usage>
+      <usage ms="Glo" code="07056000">[72r] terce</usage>
+      <usage ms="Wcb" code="07056000">[110v] terce</usage>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-R CAO-F Cht Evm Wcb Glo Cdm"> Replevit et inebriavit me amaritudine inimicus meus</aBody>
+   <aBody wit="CAO-C"> Replevit et inebriavit me inimicus meus</aBody>
+</ant>

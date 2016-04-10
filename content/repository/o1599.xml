@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1598" nextid="o1600" id="o1599">
+   <header>
+      <usage ms="Evm" code="07011000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.359*</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm">Praesta quaesumus omnipotens deus ut ieiuniorum placatus devotione indulgentiae nos munere persequeris</pBody>
+</prayer>

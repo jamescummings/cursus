@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7127" nextid="c7129" id="c7128">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="08011000">[99r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="08012000">[102r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Cdm"> Maria Magdalene</rdg>
+         <rdg wit="CAO-B CAO-H Hyd"> Maria Magdalena</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Cdm"> et altera Maria</rdg>
+         <rdg wit="CAO-M CAO-L Hyd"> et alia Maria</rdg>
+      </app> ibant diluculo ad monumentum
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Cdm" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+         <rdg wit="CAO-S"> et dixit eis angelus</rdg>
+         <rdg wit="CAO-L"> aiunt ei angeli</rdg>
+         <rdg wit="Hyd">ait eis angelus</rdg>
+      </app> Jesum quem quaeritis non est hic surrexit sicut locutus est
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L Cdm"> praecedet vos</rdg>
+         <rdg wit="CAO-G CAO-M CAO-D CAO-F CAO-S Hyd"> praecedit vos</rdg>
+      </app> in Galilaeam ibi eum videbitis
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cdm"> alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cdm"> Cito euntes dicite
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Cdm"> discipulis eius</rdg>
+            <rdg wit="CAO-V Hyd"> discipuli eius</rdg>
+            <rdg wit="CAO-G"> discipulis</rdg>
+         </app> et Petro quia surrexit dominus</vBody>
+      <vBody type="r" wit="CAO-L"> Et valde mane una sabbatorum venerunt ad monumentum orto iam sole et introeuntes in monumentum viderunt iuvenem sedentem in dextris qui dicit illis</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R Cdm">Praecedet</rep>
+      <rep type="r" wit="CAO-G CAO-M CAO-D CAO-F CAO-S Hyd">Praecedit</rep>
+      <rep type="r" wit="CAO-L">Jesum</rep>
+   </verses>
+</res>

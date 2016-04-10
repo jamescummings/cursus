@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7620" nextid="c7622" id="c7621">
+   <rBody wit="CAO-E CAO-M CAO-D CAO-F"> Sanctus Vincentius Christi martyr providente superna clementia quae sibi eum praevidebat vas electionis
+     <app>
+         <rdg wit="CAO-M CAO-D CAO-F"> futurum</rdg>
+         <rdg wit="CAO-E"> futurus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-F"> gemina scientia</rdg>
+         <rdg wit="CAO-E"> geminam scientiae</rdg>
+      </app> efficacissime claruit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-D CAO-F"> Sanctitate quoque insignis diaconii arce
+      <app>
+            <rdg wit="CAO-D CAO-F"> suscepta</rdg>
+            <rdg wit="CAO-M"> susceptus</rdg>
+         </app> vices pontificis diligenter exsequebatur</vBody>
+      <vBody type="r" wit="CAO-E"> Tibi enim gemina scientia pollenti et superni amoris igne ferventi caelestis dei doctrinae mysterium denegavit</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-D CAO-F">Gemina</rep>
+   </verses>
+</res>

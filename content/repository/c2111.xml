@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2110" nextid="c2112" id="c2111">
+   <header>
+      <usage ms="Alb2" code="07066000">[111r] vesp2-a1</usage>
+      <usage ms="Cdm" code="07066000">[79v] vesp2</usage>
+      <usage ms="Evm" code="07066000">[152v] vesp2-a4</usage>
+      <usage ms="Hyd" code="07056000">[89v] vesp2</usage>
+      <usage ms="Mch" code="07066000">[162v] vesp2-a5</usage>
+      <usage ms="Pet" code="07056000">[83r] vesp2-a1</usage>
+      <usage ms="Wor" code="07056000">[55r] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-F Wor Hyd Pet Evm Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F Wor Hyd Pet Evm Cdm Mch"> De manu filiorum alienorum</rdg>
+         <rdg wit="Alb2"> De manu alienorum filiorum</rdg>
+      </app> libera me domine</aBody>
+</ant>

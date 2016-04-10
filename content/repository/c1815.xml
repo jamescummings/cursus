@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1814" nextid="c1816" id="c1815">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Hesbert notes that this antiphon sometimes occurs with the incipit 'Plebem istam' or 'Monasterium istud'</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-D"> Civitatem istam tu circumda domine et angeli tui custodiant muros eius exaudi domine populum tuum cum misericordia Deus noster</aBody>
+   <aBody wit="CAO-V CAO-L" num="2"> Civitatem istam tu circumda domine
+     <app>
+         <rdg wit="CAO-L"> et angeli tui custodiant</rdg>
+         <rdg wit="CAO-V"> et angleis tuis custodiat</rdg>
+      </app> muros eius</aBody>
+   <aBody wit="CAO-E" num="3"> Civitatem istam tu circumda domine et angeli tui custodiant muros eius exaudi domine</aBody>
+</ant>

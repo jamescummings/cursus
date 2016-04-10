@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7169" nextid="c7171" id="c7170">
+   <header>
+      <usage ms="Alb2" code="01011000">[2r] matins-n1-r3</usage>
+      <usage ms="Bat" code="01011000">[2r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="01011000">[9r] matins-n1-r3</usage>
+      <usage ms="Ely" code="01011000">[2v] matins-n1-r3</usage>
+      <usage ms="Evm" code="01011000">[5r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="01011000">[1v] matins-n1-r3</usage>
+      <usage ms="Mch" code="01011000">[2r] matins-n1-r3</usage>
+      <usage ms="Wcb" code="01011000">[41v] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely"> Missus est Gabriel angelus ad Mariam virginem desponsatam Joseph nuntians ei verbum
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely"> et expavescit</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M"> et expavescens</rdg>
+      </app> virgo de lumine ne timeas Maria invenisti gratiam apud dominum ecce concipies
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely"> et paries</rdg>
+         <rdg wit="CAO-V"> et pariet</rdg>
+      </app> et vocabitur altissimi filius</rBody>
+   <rBody wit="Bat">
+      <gap desc="first part of respond text" reason="previous folio lost"/>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd Alb2 Evm Mch Cdm Wcb Ely Bat"> Ave Maria gratia plena dominus tecum</vBody>
+      <vBody type="r" wit="CAO-G CAO-F CAO-S"> Dabit ei dominus Deus sedem David patris eius et regnabit in domo Jacob in aeternum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D Hyd Alb2 Evm Mch Cdm Wcb Ely">Ecce</rep>
+      <rep type="r" wit="CAO-M CAO-F CAO-S">Et vocabitur</rep>
+      <rep type="r" wit="CAO-G">Ne timeas</rep>
+   </verses>
+</res>

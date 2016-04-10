@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4794" nextid="c4796" id="c4795">
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Sanctus quidem triticum quod a nautis postulaverat acceptum et sagacitate distribuere
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-S"> et augeri precibus impetravit</rdg>
+         <rdg wit="CAO-D CAO-F"> et augere precibus impetravit</rdg>
+         <rdg wit="CAO-L"> et augeri precibus impetrabat</rdg>
+      </app>
+   </aBody>
+</ant>

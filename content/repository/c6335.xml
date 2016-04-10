@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6334" nextid="c6336" id="c6335">
+   <header>
+      <usage ms="Cdm" code="07064000">[76v] matins-r3</usage>
+      <usage ms="Cht" code="07063000">[58r] matins-r2</usage>
+      <usage ms="Ely" code="07064000">[87v] matins-r3</usage>
+      <usage ms="Evm" code="07063000">[145r] matins-r1</usage>
+      <usage ms="Hyd" code="07061000">[90r] matins-n1-r4</usage>
+      <usage ms="Wcb" code="07061000">[111v] matins-n2-r5</usage>
+      <usage ms="Wor" code="07064000">[58r] matins-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Evm Wcb Cdm"> Contumelias et terrores passus sum ab eis qui erant pacifici mei et custodientes latus meum dicentes decipiamus eum et praevaleamus illi sed tu domine mecum es tamquam bellator fortis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D Wor Evm Wcb"> cadent in opprobrium sempiternum</rdg>
+         <rdg wit="CAO-E CAO-F CAO-L Ely Cht Hyd Cdm">cadant in opprobrium sempiternum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-D CAO-F CAO-L Ely Wor Cht Evm Wcb Cdm"> et videam</rdg>
+         <rdg wit="CAO-G CAO-R Hyd">ut videam</rdg>
+         <rdg wit="CAO-V">ut <corr sic="videant">videam</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Evm Wcb"> vindictam in eis</rdg>
+         <rdg wit="Cdm"> vindictam ab eis</rdg>
+         <rdg wit="CAO-C"> vindictam in eos</rdg>
+      </app> quia tibi revelavi causam meam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Cdm"> Omnes inimici mei adversum me cogitabant mala mihi verbum iniquum mandaverunt
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D"> adversum me</rdg>
+            <rdg wit="CAO-F Cdm">adversum me dicentes</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V"> Omnes inimici mei</vBody>
+      <vBody type="r" wit="CAO-G"> Omnes inimici mei adversum me</vBody>
+      <vBody type="r" wit="CAO-L"> Omnes inimici mei audierunt malum meum domine laetati sunt quoniam tu fecisti</vBody>
+      <vBody type="r" wit="Ely Wor Cht Hyd Evm Wcb">
+         <app>
+            <rdg wit="Ely Cht Hyd Evm Wcb"> Iudica domine causam animae meae</rdg>
+            <rdg wit="Wor"> Iudicasti domine causam animae meae</rdg>
+         </app>
+         <app>
+            <rdg wit="Ely Cht Hyd Evm Wcb"> defensor vitae meae</rdg>
+            <rdg wit="Wor"> redemptor vitae meae</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-V CAO-H CAO-R">Dicentes</rep>
+      <rep type="r" wit="CAO-E CAO-F">Decipiamus</rep>
+      <rep type="r" wit="CAO-D">Sed tu domine</rep>
+      <rep type="r" wit="CAO-B CAO-L">Cadant in opprobrium</rep>
+      <rep type="r" wit="Ely Wor Cht">Quia tibi</rep>
+      <rep type="r" wit="Hyd">Ut videam</rep>
+      <rep type="r" wit="Evm">Et videam</rep>
+   </verses>
+</res>

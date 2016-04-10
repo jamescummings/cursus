@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7154" nextid="c7156" id="c7155">
+   <rBody wit="CAO-D CAO-F">
+      <verse type="stanza">
+         <l part="N">Miles Christi gloriose
+       <app>
+               <rdg wit="CAO-F"> Martine</rdg>
+               <rdg wit="CAO-D"> Eugeni</rdg>
+            </app> sanctissime</l>
+         <l part="N">tuo pio interventu culpas nostras ablue</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">
+         <verse type="stanza">
+            <l part="N">Ut coelestis regni sedem valeamus scandere</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-F">Tuo</rep>
+   </verses>
+</res>

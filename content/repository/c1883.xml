@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1882" nextid="c1884" id="c1883">
+   <header>
+      <usage ms="Alb2" code="07066000">[110r] matins-n2-a5</usage>
+      <usage ms="Cdm" code="07066000">[78v] matins-n2</usage>
+      <usage ms="Cht" code="07066000">[62r] matins-n2</usage>
+      <usage ms="Ely" code="07066000">[90r] matins-n2</usage>
+      <usage ms="Evm" code="07066000">[151r] matins-n2</usage>
+      <usage ms="Hyd" code="07066000">[96r] matins-n2</usage>
+      <usage ms="Mch" code="07066000">[160v] matins-n2-a5</usage>
+      <usage ms="Pet" code="07066000">[91v] matins-n2</usage>
+      <usage ms="Wcb" code="07066000">[116v] matins-n3</usage>
+      <usage ms="Wor" code="07066000">[61r] matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Confundantur et revereantur qui quaerunt animam meam ut auferant eam</aBody>
+</ant>

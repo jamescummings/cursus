@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1532" nextid="c1534" id="c1533">
+   <header>
+      <usage ms="Hyd" code="01013000">[5r] matins-n1-a2</usage>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H Hyd"> Auribus percipite qui habitatis orbem</aBody>
+</ant>

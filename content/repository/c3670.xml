@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3669" nextid="c3671" id="c3670">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] lauds-a5</usage>
+      <usage ms="Alb2" code="02122400">[23v] sext</usage>
+      <usage ms="Bat" code="02122400">[14r] lauds-a5</usage>
+      <usage ms="Cdm" code="02122400">[21r] lauds-a5</usage>
+      <usage ms="Ely" code="02122400">[17r] sext</usage>
+      <usage ms="Evm" code="02122400">[31v] lauds-a5</usage>
+      <usage ms="Hyd" code="02122400">[16v] matins-n2-a4</usage>
+      <usage ms="Mch" code="02122400">[23r] terce</usage>
+      <usage ms="Pet" code="02122400">[14v] nones</usage>
+      <usage ms="Wcb" code="02122400">[52v] lauds-a5</usage>
+      <usage ms="Wor" code="02122400">[13r] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Magnificatus est rex pacificus super omnes reges universae terrae</aBody>
+</ant>

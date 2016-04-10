@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6313" nextid="c6315" id="c6314">
+   <header>
+      <usage ms="Alb2" code="02122500">[28r] matins-n3-r10</usage>
+      <usage ms="Bat" code="02122500">[17r] matins-n3-r10</usage>
+      <usage ms="Cdm" code="02122500">[22v] matins-n3-r10</usage>
+      <usage ms="Ely" code="02122500">[20r] matins-n3-r10</usage>
+      <usage ms="Evm" code="02010100">[59r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="02010100">matins-n3-r12</usage>
+      <usage ms="Pet" code="02010100">[36r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="02010100">[66r] matins-n1-r2</usage>
+      <usage ms="Wor" code="02010100">[24v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Confirmatum est cor virginis in quo divina mysteria
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> angelo narrante</rdg>
+         <rdg wit="CAO-C"> angelo narrantem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S Hyd Alb2 Bat Cdm Ely Wor Pet"> concepit te forma</rdg>
+         <rdg wit="CAO-G Evm Wcb"> concepit quae forma</rdg>
+         <rdg wit="CAO-M CAO-V CAO-H"> concepit te formam</rdg>
+         <rdg wit="CAO-B CAO-R"> concepit et forma</rdg>
+         <rdg wit="CAO-L"> concepit tunc forma</rdg>
+      </app> prae filiis hominum
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> castis</rdg>
+         <rdg wit="CAO-C CAO-L"> casti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F Hyd Evm Wcb Bat Cdm Ely Wor Pet"> concepit</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-S CAO-L Alb2"> suscepit</rdg>
+      </app> visceribus et benedicta in aeternum deum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Ely Wor Pet"> nobis protulit et hominem</rdg>
+         <rdg wit="Alb2"> nobis genuit et hominem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Domus pudici pectoris</rdg>
+            <rdg wit="CAO-M"> Domus pudici</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> templum repente</rdg>
+            <rdg wit="CAO-V"> templum repentem</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> fit dei</rdg>
+            <rdg wit="CAO-S"> fidei</rdg>
+            <rdg wit="CAO-C"> fide</rdg>
+         </app> intacta nesciens virum
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> verbo</rdg>
+            <rdg wit="CAO-C CAO-V"> virgo</rdg>
+         </app> concepit filium</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Wcb Bat Cdm Ely Wor Pet">Et benedicta</rep>
+      <rep type="r" wit="Evm">Quae forma</rep>
+      <rep type="r" wit="CAO-S"> Castis</rep>
+      <rep type="r" wit="CAO-L"> Casti</rep>
+      <rep type="r" wit="CAO-C CAO-V"> Deum</rep>
+   </verses>
+</res>

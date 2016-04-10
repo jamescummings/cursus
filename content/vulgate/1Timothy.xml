@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="1Timothy">
+<body>
+  <rubric type="bible-incipit" id="B.1Timothy.incipit.001">
+    <reference>
+      <bookName>1Timothy</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AD TIMOTHEUM</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.1Timothy.001.001">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus apostolus Christi Iesu secundum imperium Dei salvatoris nostri et Christi Iesu spei nostrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.002">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>Timotheo dilecto filio in fide gratia misericordia pax a Deo Patre et Christo Iesu Domino nostro</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.003">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>sicut rogavi te ut remaneres Ephesi cum irem in Macedoniam ut denuntiares quibusdam ne aliter docerent</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.004">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>neque intenderent fabulis et genealogiis interminatis quae quaestiones praestant magis quam aedificationem Dei quae est in fide</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.005">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>finis autem praecepti est caritas de corde puro et conscientia bona et fide non ficta</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.006">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>a quibus quidam aberrantes conversi sunt in vaniloquium</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.007">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>volentes esse legis doctores non intellegentes neque quae loquuntur neque de quibus adfirmant</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.008">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>scimus autem quia bona est lex si quis ea legitime utatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.009">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>sciens hoc quia iusto lex non est posita sed iniustis et non subditis impiis et peccatoribus sceleratis et contaminatis patricidis et matricidis homicidis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.010">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>fornicariis masculorum concubitoribus plagiariis mendacibus periuris et si quid aliud sanae doctrinae adversatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.011">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>quae est secundum evangelium gloriae beati Dei quod creditum est mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.012">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>gratias ago ei qui me confortavit Christo Iesu Domino nostro quia fidelem me existimavit ponens in ministerio</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.013">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>qui prius fui blasphemus et persecutor et contumeliosus sed misericordiam consecutus sum quia ignorans feci in incredulitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.014">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>superabundavit autem gratia Domini nostri cum fide et dilectione quae est in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.015">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>fidelis sermo et omni acceptione dignus quia Christus Iesus venit in mundum peccatores salvos facere quorum primus ego sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.016">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>sed ideo misericordiam consecutus sum ut in me primo ostenderet Christus Iesus omnem patientiam ad deformationem eorum qui credituri sunt illi in vitam aeternam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.017">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>regi autem saeculorum inmortali invisibili soli Deo honor et gloria in saecula saeculorum amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.018">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>hoc praeceptum commendo tibi fili Timothee secundum praecedentes in te prophetias ut milites in illis bonam militiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.019">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>habens fidem et bonam conscientiam quam quidam repellentes circa fidem naufragaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.001.020">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>ex quibus est Hymeneus et Alexander quos tradidi Satanae ut discant non blasphemare</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.1Timothy.002.001">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>obsecro igitur primo omnium fieri obsecrationes orationes postulationes gratiarum actiones pro omnibus hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.002">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>pro regibus et omnibus qui in sublimitate sunt ut quietam et tranquillam vitam agamus in omni pietate et castitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.003">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>hoc enim bonum est et acceptum coram salutari nostro Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.004">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>qui omnes homines vult salvos fieri et ad agnitionem veritatis venire</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.005">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>unus enim Deus unus et mediator Dei et hominum homo Christus Iesus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.006">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>qui dedit redemptionem semet ipsum pro omnibus testimonium temporibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.007">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>in quo positus sum ego praedicator et apostolus veritatem dico non mentior doctor gentium in fide et veritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.008">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>volo ergo viros orare in omni loco levantes puras manus sine ira et disceptatione</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.009">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>similiter et mulieres in habitu ornato cum verecundia et sobrietate ornantes se non in tortis crinibus aut auro aut margaritis vel veste pretiosa</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.010">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>sed quod decet mulieres promittentes pietatem per opera bona</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.011">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>mulier in silentio discat cum omni subiectione</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.012">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>docere autem mulieri non permitto neque dominari in virum sed esse in silentio</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.013">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>Adam enim primus formatus est deinde Eva</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.014">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>et Adam non est seductus mulier autem seducta in praevaricatione fuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.002.015">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>salvabitur autem per filiorum generationem si permanserint in fide et dilectione et sanctificatione cum sobrietate</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.1Timothy.003.001">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>fidelis sermo si quis episcopatum desiderat bonum opus desiderat</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.002">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>oportet ergo episcopum inreprehensibilem esse unius uxoris virum sobrium prudentem ornatum hospitalem doctorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.003">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>non vinolentum non percussorem sed modestum non litigiosum non cupidum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.004">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>suae domui bene praepositum filios habentem subditos cum omni castitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.005">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>si quis autem domui suae praeesse nescit quomodo ecclesiae Dei diligentiam habebit</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.006">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>non neophytum ne in superbia elatus in iudicium incidat diaboli</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.007">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>oportet autem illum et testimonium habere bonum ab his qui foris sunt ut non in obprobrium incidat et laqueum diaboli</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.008">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>diaconos similiter pudicos non bilingues non multo vino deditos non turpe lucrum sectantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.009">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>habentes mysterium fidei in conscientia pura</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.010">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>et hii autem probentur primum et sic ministrent nullum crimen habentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.011">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>mulieres similiter pudicas non detrahentes sobrias fideles in omnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.012">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>diacones sint unius uxoris viri qui filiis suis bene praesunt et suis domibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.013">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>qui enim bene ministraverint gradum sibi bonum adquirent et multam fiduciam in fide quae est in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.014">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>haec tibi scribo sperans venire ad te cito</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.015">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>si autem tardavero ut scias quomodo oporteat te in domo Dei conversari quae est ecclesia Dei vivi columna et firmamentum veritatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.003.016">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>et manifeste magnum est pietatis sacramentum quod manifestatum est in carne iustificatum est in spiritu apparuit angelis praedicatum est gentibus creditum est in mundo adsumptum est in gloria</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.1Timothy.004.001">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>Spiritus autem manifeste dicit quia in novissimis temporibus discedent quidam a fide adtendentes spiritibus erroris et doctrinis daemoniorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.002">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>in hypocrisi loquentium mendacium et cauteriatam habentium suam conscientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.003">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>prohibentium nubere abstinere a cibis quos Deus creavit ad percipiendum cum gratiarum actione fidelibus et his qui cognoverunt veritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.004">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>quia omnis creatura Dei bona et nihil reiciendum quod cum gratiarum actione percipitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.005">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>sanctificatur enim per verbum Dei et orationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.006">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>haec proponens fratribus bonus eris minister Christi Iesu enutritus verbis fidei et bonae doctrinae quam adsecutus es</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.007">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>ineptas autem et aniles fabulas devita exerce te ipsum ad pietatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.008">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>nam corporalis exercitatio ad modicum utilis est pietas autem ad omnia utilis est promissionem habens vitae quae nunc est et futurae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.009">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>fidelis sermo et omni acceptione dignus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.010">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>in hoc enim laboramus et maledicimur quia speravimus in Deum vivum qui est salvator omnium hominum maxime fidelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.011">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>praecipe haec et doce</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.012">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>nemo adulescentiam tuam contemnat sed exemplum esto fidelium in verbo in conversatione in caritate in fide in castitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.013">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>dum venio adtende lectioni exhortationi doctrinae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.014">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>noli neglegere gratiam quae in te est quae data est tibi per prophetiam cum inpositione manuum presbyterii</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.015">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>haec meditare in his esto ut profectus tuus manifestus sit omnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.004.016">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>adtende tibi et doctrinae insta in illis hoc enim faciens et te ipsum salvum facies et qui te audiunt</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.1Timothy.005.001">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>seniorem ne increpaveris sed obsecra ut patrem iuvenes ut fratres</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.002">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>anus ut matres iuvenculas ut sorores in omni castitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.003">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>viduas honora quae vere viduae sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.004">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>si qua autem vidua filios aut nepotes habet discant primum domum suam regere et mutuam vicem reddere parentibus hoc enim acceptum est coram Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.005">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>quae autem vere vidua est et desolata speravit in Deum et instat obsecrationibus et orationibus nocte ac die</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.006">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>nam quae in deliciis est vivens mortua est</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.007">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>et hoc praecipe ut inreprehensibiles sint</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.008">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>si quis autem suorum et maxime domesticorum curam non habet fidem negavit et est infideli deterior</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.009">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>vidua eligatur non minus sexaginta annorum quae fuerit unius viri uxor</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.010">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>in operibus bonis testimonium habens si filios educavit si hospitio recepit si sanctorum pedes lavit si tribulationem patientibus subministravit si omne opus bonum subsecuta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.011">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>adulescentiores autem viduas devita cum enim luxuriatae fuerint in Christo nubere volunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.012">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>habentes damnationem quia primam fidem irritam fecerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.013">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>simul autem et otiosae discunt circumire domos non solum otiosae sed et verbosae et curiosae loquentes quae non oportet</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.014">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>volo ergo iuveniores nubere filios procreare matres familias esse nullam occasionem dare adversario maledicti gratia</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.015">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>iam enim quaedam conversae sunt retro Satanan</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.016">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>si qua fidelis habet viduas subministret illis et non gravetur ecclesia ut his quae vere viduae sunt sufficiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.017">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>qui bene praesunt presbyteri duplici honore digni habeantur maxime qui laborant in verbo et doctrina</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.018">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>dicit enim scriptura non infrenabis os bovi trituranti et dignus operarius mercede sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.019">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>adversus presbyterum accusationem noli recipere nisi sub duobus et tribus testibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.020">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>peccantes coram omnibus argue ut et ceteri timorem habeant</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.021">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>testor coram Deo et Christo Iesu et electis angelis ut haec custodias sine praeiudicio nihil faciens in aliam partem declinando</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.022">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>manus cito nemini inposueris neque communicaveris peccatis alienis te ipsum castum custodi</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.023">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>noli adhuc aquam bibere sed vino modico utere propter stomachum tuum et frequentes tuas infirmitates</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.024">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>quorundam hominum peccata manifesta sunt praecedentia ad iudicium quosdam autem et subsequuntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.005.025">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>5:25</verseNum>
+      </reference>
+      <l>similiter et facta bona manifesta sunt et quae aliter se habent abscondi non possunt</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.1Timothy.006.001">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>quicumque sunt sub iugo servi dominos suos omni honore dignos arbitrentur ne nomen Domini et doctrina blasphemetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.002">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>qui autem fideles habent dominos non contemnant quia fratres sunt sed magis serviant quia fideles sunt et dilecti qui beneficii participes sunt haec doce et exhortare</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.003">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>si quis aliter docet et non adquiescit sanis sermonibus Domini nostri Iesu Christi et ei quae secundum pietatem est doctrinae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.004">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>superbus nihil sciens sed languens circa quaestiones et pugnas verborum ex quibus oriuntur invidiae contentiones blasphemiae suspiciones malae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.005">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>conflictationes hominum mente corruptorum et qui veritate privati sunt existimantium quaestum esse pietatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.006">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>est autem quaestus magnus pietas cum sufficientia</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.007">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>nihil enim intulimus in mundum haut dubium quia nec auferre quid possumus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.008">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>habentes autem alimenta et quibus tegamur his contenti sumus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.009">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>nam qui volunt divites fieri incidunt in temptationem et laqueum et desideria multa inutilia et nociva quae mergunt homines in interitum et perditionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.010">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>radix enim omnium malorum est cupiditas quam quidam appetentes erraverunt a fide et inseruerunt se doloribus multis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.011">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>tu autem o homo Dei haec fuge sectare vero iustitiam pietatem fidem caritatem patientiam mansuetudinem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.012">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>certa bonum certamen fidei adprehende vitam aeternam in qua vocatus es et confessus bonam confessionem coram multis testibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.013">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>praecipio tibi coram Deo qui vivificat omnia et Christo Iesu qui testimonium reddidit sub Pontio Pilato bonam confessionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.014">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>ut serves mandatum sine macula inreprehensibile usque in adventum Domini nostri Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.015">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>quem suis temporibus ostendet beatus et solus potens rex regum et Dominus dominantium</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.016">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>qui solus habet inmortalitatem lucem habitans inaccessibilem quem vidit nullus hominum sed nec videre potest cui honor et imperium sempiternum amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.017">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>divitibus huius saeculi praecipe non sublime sapere neque sperare in incerto divitiarum sed in Deo qui praestat nobis omnia abunde ad fruendum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.018">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>bene agere divites fieri in operibus bonis facile tribuere communicare</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.019">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>thesaurizare sibi fundamentum bonum in futurum ut adprehendant veram vitam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.020">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>o Timothee depositum custodi devitans profanas vocum novitates et oppositiones falsi nominis scientiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Timothy.006.021">
+      <reference>
+        <bookName>1Timothy</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>quam quidam promittentes circa fidem exciderunt gratia tecum</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.1Timothy.colophon.001">
+    <reference>
+      <bookName>1Timothy</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT AD TIMOTHEUM</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

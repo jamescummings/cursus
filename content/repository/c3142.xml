@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3141" nextid="c3143" id="c3142">
+   <header>
+      <usage ms="Alb2" code="07061000">[104v] matins-n3</usage>
+      <usage ms="Bat" code="07061000">[62v] matins-n3</usage>
+      <usage ms="Cdm" code="07061000">[74v] matins-n3</usage>
+      <usage ms="Cht" code="07061000">[55v] lauds</usage>
+      <usage ms="Ely" code="07061000">[86r] prime</usage>
+      <usage ms="Evm" code="07061000">[143v] lauds</usage>
+      <usage ms="Glo" code="07061000">[76v] sext</usage>
+      <usage ms="Hyd" code="07061000">[91v] prime</usage>
+      <usage ms="Pet" code="07061000">[86r] nones</usage>
+      <usage ms="Wcb" code="07061000">[113r] lauds</usage>
+      <usage ms="Wor" code="07061000">[56r] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Bat"> Hosanna filio David benedictus qui venit in nomine domini rex Israel hosanna in excelsis</aBody>
+</ant>

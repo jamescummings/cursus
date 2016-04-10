@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3657" nextid="c3659" id="c3658">
+   <aBody wit="CAO-R CAO-F"> Magister quid faciendo vitam aeternam possidebo
+     <app>
+         <rdg wit="CAO-R"> ait illi Jesus</rdg>
+         <rdg wit="CAO-F"> at ille dixit ad eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R"> in lege quid scriptum est</rdg>
+         <rdg wit="CAO-F"> in lege quid scriptum est quomodo legis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R"> diliges dominum</rdg>
+         <rdg wit="CAO-F"> diliges dominum deum tuum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R"> ex toto corde tuo</rdg>
+         <rdg wit="CAO-F"> ex toto corde tuo alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

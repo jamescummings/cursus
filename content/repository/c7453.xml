@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7452" nextid="c7454" id="c7453">
+   <rBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Quadam die
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S"> tempestate saevissima quassati</rdg>
+         <rdg wit="CAO-L"> tempestate gravissima quassati</rdg>
+      </app> nautae coeperunt sanctum vocare Nicolaum et statim cessavit tempestas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">Mox illis clamantibus apparuit quidam
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-R CAO-L"> dicens eis</rdg>
+            <rdg wit="CAO-D CAO-F CAO-S"> dicens illis</rdg>
+         </app> ecce adsum quid vocastis me</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">Et statim</rep>
+   </verses>
+</res>

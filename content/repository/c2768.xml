@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2767" nextid="c2769" id="c2768">
+   <aBody wit="CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-D"> Exaudi domine populum <corr sic="tuum">istum</corr>
+         </rdg>
+         <rdg wit="CAO-F"> Exaudi domine populum tuum</rdg>
+      </app> confitentem nomini tuo et dimitte peccata servorum tuorum et populi tui Israel et dona pluviam super terram quam dedisti patribus nostris
+     <app>
+         <rdg wit="CAO-D"> domine deus noster alleluia alleluia</rdg>
+         <rdg wit="CAO-F"> domine deus noster</rdg>
+      </app>
+   </aBody>
+</ant>

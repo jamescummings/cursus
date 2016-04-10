@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3843" nextid="c3845" id="c3844">
+   <header>
+      <usage ms="Hyd" code="10900000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-D CAO-F CAO-L Hyd"> Muro tuo inexpugnabili circumcinge nos domine et armis tuae potentiae
+     <app>
+         <rdg wit="CAO-G CAO-D CAO-F Hyd"> protege nos semper deus noster</rdg>
+         <rdg wit="CAO-C"> protege nos semper libera domine deus Israel clamantes ad te</rdg>
+         <rdg wit="CAO-L"> protege nos semper domine deus noster</rdg>
+      </app>
+   </aBody>
+</ant>

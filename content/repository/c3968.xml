@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3967" nextid="c3969" id="c3968">
+   <header>
+      <usage ms="Evm" code="07021000">[114r] vesp1</usage>
+      <usage ms="Glo" code="07021000"/>
+      <usage ms="Wcb" code="07021000">[96v] vesp1</usage>
+      <usage ms="Wor" code="07017000"/>
+   </header>
+   <aBody wit="CAO-E Wor Evm Wcb Glo">
+      <app>
+         <rdg wit="CAO-E Evm Wcb Glo"> Nubes lucida obumbravit eos</rdg>
+         <rdg wit="Wor">
+            <gap reason="erased verbal text" resp="DC"/>
+         </rdg>
+      </app> et ecce vox de nube dicens hic est filius meus dilectus
+     <app>
+         <rdg wit="CAO-E"> in quo mihi bene <sic corr="complacui" resp="Hesbert">complacuit</sic>
+         </rdg>
+         <rdg wit="Wor"> in quo mihi bene complacui<add place="inline" resp="DC" hand="contemp">t</add>
+         </rdg>
+         <rdg wit="Evm Wcb Glo"> in quo mihi bene complacui</rdg>
+      </app>
+   </aBody>
+</ant>

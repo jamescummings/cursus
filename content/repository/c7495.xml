@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7494" nextid="c7496" id="c7495">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-S"> Quidam rusticus defuncti corpus filii in ulnis ferens
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R"> orbitatis</rdg>
+         <rdg wit="CAO-S"> orbitati</rdg>
+      </app> luctu
+     <app>
+         <rdg wit="CAO-H CAO-R"> aestuans</rdg>
+         <rdg wit="CAO-C"> aestuas</rdg>
+         <rdg wit="CAO-S"> extuans</rdg>
+      </app> ad monasterium venit Benedictum patrem quaesivit
+     <app>
+         <rdg wit="CAO-H CAO-R"> quem mox</rdg>
+         <rdg wit="CAO-C CAO-S"> mox</rdg>
+      </app> ut aspexit clamare coepit redde filium meum redde filium meum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-H CAO-R CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-H CAO-S"> Vir autem domini</rdg>
+            <rdg wit="CAO-R"> Vir autem dei</rdg>
+         </app> in hac voce substitit dicens numquid ego filium tuum abstuli cui ille respondit
+      <app>
+            <rdg wit="CAO-C CAO-S"> mortuus est veni resuscita eum</rdg>
+            <rdg wit="CAO-H CAO-R"> dicens</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-H CAO-R CAO-S">Redde</rep>
+   </verses>
+</res>

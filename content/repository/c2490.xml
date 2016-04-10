@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2489" nextid="c2491" id="c2490">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.142</note>
+         <note resp="DC" place="unspecified" anchored="yes">CAO-R and CAO-D have different melodies</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-R"> Ecce agnus dei ecce qui tollit peccata mundi alleluia</aBody>
+   <aBody wit="CAO-D"> Ecce agnus dei ecce qui tollit peccata mundi ecce de quo dicebam vobis</aBody>
+</ant>

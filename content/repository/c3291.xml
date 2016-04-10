@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3290" nextid="c3292" id="c3291">
+   <aBody wit="CAO-V CAO-R"> In templo domini
+     <app>
+         <rdg wit="CAO-R"> omnes dicent gloriam</rdg>
+         <rdg wit="CAO-V"> omnes dicent gloria</rdg>
+      </app>
+   </aBody>
+</ant>

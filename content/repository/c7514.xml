@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7513" nextid="c7515" id="c7514">
+   <rBody wit="CAO-E CAO-M CAO-F CAO-S"> Redemisti nos
+     <app>
+         <rdg wit="CAO-M CAO-F CAO-S"> domine deus</rdg>
+         <rdg wit="CAO-E"> deus</rdg>
+      </app> in sanguine tuo ex omni tribu
+     <app>
+         <rdg wit="CAO-E CAO-F"> et lingua</rdg>
+         <rdg wit="CAO-M CAO-S"> et linguae</rdg>
+      </app> et populo
+     <app>
+         <rdg wit="CAO-M CAO-F CAO-S"> et natione</rdg>
+         <rdg wit="CAO-E"> et nationem</rdg>
+      </app> et fecisti nos deo nostro regnum et sacerdotes et regnabunt
+     <app>
+         <rdg wit="CAO-E CAO-M"> super terram</rdg>
+         <rdg wit="CAO-F CAO-S"> in aeternum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-F CAO-S"> Et vidi et audivi
+      <app>
+            <rdg wit="CAO-M CAO-F CAO-S"> vocem angelorum multorum</rdg>
+            <rdg wit="CAO-E"> voces angelorum multorum</rdg>
+         </app> in circuitu throni et seniorum et quatuor animalium et erat numerus eorum milia milium dicentium salus deo nostro</vBody>
+      <rep type="r" wit="CAO-M CAO-S">Et fecisti</rep>
+      <rep type="r" wit="CAO-E">Et regnabunt</rep>
+      <rep type="r" wit="CAO-F">
+         <add place="over erasure" resp="Hesbert">Regnum</add>
+      </rep>
+   </verses>
+</res>

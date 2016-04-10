@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4009" nextid="c4011" id="c4010">
+   <header>
+      <usage ms="Alb2" code="01048010">[22r] </usage>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="01048010">[15r] </usage>
+      <usage ms="Evm" code="01048010">[30r] </usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="01048000">[21r] </usage>
+      <usage ms="Pet" code="01048010">[12v] </usage>
+      <usage ms="Wcb" code="01048010">[49v] </usage>
+      <usage ms="Wor" code="01048010">[10v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> O clavis David et sceptrum domus Israel
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> qui aperis et nemo claudit</rdg>
+         <rdg wit="CAO-C CAO-M"> qui aperis et nemo <corr sic="claudis">claudit</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> claudis et nemo aperit</rdg>
+         <rdg wit="CAO-M"> claudis et nemo <corr sic="aperis">aperit</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> veni et educ vinctum de domo carceris</rdg>
+         <rdg wit="CAO-V"> veniet et educ vinctum de domo carceris</rdg>
+         <rdg wit="CAO-M"> veni educ vinctum de domo carceris</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> veni et educ vinctos de domo carceris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-F Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> sedentem in tenebris et umbra mortis</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-L"> sedentes in tenebris et umbra mortis</rdg>
+         <rdg wit="CAO-C"> sedentem in tenebris et umbrae mortis</rdg>
+         <rdg wit="CAO-S"> sedentem in tenebris et <corr sic="umbrae">umbra</corr> mortis</rdg>
+      </app>
+   </aBody>
+</ant>

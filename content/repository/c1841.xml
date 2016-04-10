@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1840" nextid="c1842" id="c1841">
+   <header>
+      <usage ms="Cht" code="05061000">[9v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="05034000"/>
+      <usage ms="Pet" code="05061000"/>
+   </header>
+   <aBody wit="CAO-D Hyd Pet Cht"> Coepit Jesus dicere
+     <app>
+         <rdg wit="CAO-D Hyd Pet"> ad illos</rdg>
+         <rdg wit="Cht"> ad turbas</rdg>
+      </app> quia hodie impleta est haec scriptura in auribus vestris alleluia</aBody>
+</ant>

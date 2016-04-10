@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="2Peter">
+<body>
+  <rubric type="bible-incipit" id="B.2Peter.incipit.001">
+    <reference>
+      <bookName>2Peter</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT EUISDEM</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.2Peter.001.001">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Simon Petrus servus et apostolus Iesu Christi his qui coaequalem nobis sortiti sunt fidem in iustitia Dei nostri et salvatoris Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.002">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>gratia vobis et pax adimpleatur in cognitione Domini nostri</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.003">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>quomodo omnia nobis divinae virtutis suae quae ad vitam et pietatem donata est per cognitionem eius qui vocavit nos propria gloria et virtute</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.004">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>per quae maxima et pretiosa nobis promissa donavit ut per haec efficiamini divinae consortes naturae fugientes eius quae in mundo est concupiscentiae corruptionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.005">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>vos autem curam omnem subinferentes ministrate in fide vestra virtutem in virtute autem scientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.006">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>in scientia autem abstinentiam in abstinentia autem patientiam in patientia autem pietatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.007">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>in pietate autem amorem fraternitatis in amore autem fraternitatis caritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.008">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>haec enim vobis cum adsint et superent non vacuos nec sine fructu vos constituent in Domini nostri Iesu Christi cognitione</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.009">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>cui enim non praesto sunt haec caecus est et manu temptans oblivionem accipiens purgationis veterum suorum delictorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.010">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>quapropter fratres magis satagite ut per bona opera certam vestram vocationem et electionem faciatis haec enim facientes non peccabitis aliquando</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.011">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>sic enim abundanter ministrabitur vobis introitus in aeternum regnum Domini nostri et salvatoris Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.012">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>propter quod incipiam vos semper commonere de his et quidem scientes et confirmatos in praesenti veritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.013">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>iustum autem arbitror quamdiu sum in hoc tabernaculo suscitare vos in commonitione</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.014">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>certus quod velox est depositio tabernaculi mei secundum quod et Dominus noster Iesus Christus significavit mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.015">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>dabo autem operam et frequenter habere vos post obitum meum ut horum memoriam faciatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.016">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>non enim doctas fabulas secuti notam fecimus vobis Domini nostri Iesu Christi virtutem et praesentiam sed speculatores facti illius magnitudinis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.017">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>accipiens enim a Deo Patre honorem et gloriam voce delapsa ad eum huiuscemodi a magnifica gloria hic est Filius meus dilectus in quo mihi conplacui</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.018">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>et hanc vocem nos audivimus de caelo adlatam cum essemus cum ipso in monte sancto</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.019">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>et habemus firmiorem propheticum sermonem cui bene facitis adtendentes quasi lucernae lucenti in caliginoso loco donec dies inlucescat et lucifer oriatur in cordibus vestris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.020">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>hoc primum intellegentes quod omnis prophetia scripturae propria interpretatione non fit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.001.021">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>non enim voluntate humana adlata est aliquando prophetia sed Spiritu Sancto inspirati locuti sunt sancti Dei homines</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.2Peter.002.001">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>fuerunt vero et pseudoprophetae in populo sicut et in vobis erunt magistri mendaces qui introducent sectas perditionis et eum qui emit eos Dominum negant superducentes sibi celerem perditionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.002">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>et multi sequentur eorum luxurias per quos via veritatis blasphemabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.003">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>et in avaritia fictis verbis de vobis negotiabuntur quibus iudicium iam olim non cessat et perditio eorum non dormitat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.004">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>si enim Deus angelis peccantibus non pepercit sed rudentibus inferni detractos in tartarum tradidit in iudicium cruciatos reservari</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.005">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>et originali mundo non pepercit sed octavum Noe iustitiae praeconem custodivit diluvium mundo impiorum inducens</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.006">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>et civitates Sodomorum et Gomorraeorum in cinerem redigens eversione damnavit exemplum eorum qui impie acturi sunt ponens</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.007">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>et iustum Loth oppressum a nefandorum iniuria conversatione eruit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.008">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>aspectu enim et auditu iustus erat habitans apud eos qui diem de die animam iustam iniquis operibus cruciabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.009">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>novit Dominus pios de temptatione eripere iniquos vero in diem iudicii cruciandos reservare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.010">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>magis autem eos qui post carnem in concupiscentia inmunditiae ambulant dominationemque contemnunt audaces sibi placentes sectas non metuunt blasphemantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.011">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>ubi angeli fortitudine et virtute cum sint maiores non portant adversum se execrabile iudicium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.012">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>hii vero velut inrationabilia pecora naturaliter in captionem et in perniciem in his quae ignorant blasphemantes in corruptione sua et peribunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.013">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>percipientes mercedem iniustitiae voluptatem existimantes diei delicias coinquinationes et maculae deliciis affluentes in conviviis suis luxuriantes vobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.014">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>oculos habentes plenos adulterio et incessabiles delicti pellicentes animas instabiles cor exercitatum avaritiae habentes maledictionis filii</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.015">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>derelinquentes rectam viam erraverunt secuti viam Balaam ex Bosor qui mercedem iniquitatis amavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.016">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>correptionem vero habuit suae vesaniae subiugale mutum in hominis voce loquens prohibuit prophetae insipientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.017">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>hii sunt fontes sine aqua et nebulae turbinibus exagitatae quibus caligo tenebrarum reservatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.018">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>superba enim vanitatis loquentes pellicent in desideriis carnis luxuriae eos qui paululum effugiunt qui in errore conversantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.019">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>libertatem illis promittentes cum ipsi servi sint corruptionis a quo enim quis superatus est huius et servus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.020">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>si enim refugientes coinquinationes mundi in cognitione Domini nostri et salvatoris Iesu Christi his rursus inpliciti superantur facta sunt eis posteriora deteriora prioribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.021">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>melius enim erat illis non cognoscere viam iustitiae quam post agnitionem retrorsum converti ab eo quod illis traditum est sancto mandato</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.002.022">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>contigit enim eis illud veri proverbii canis reversus ad suum vomitum et sus lota in volutabro luti</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.2Peter.003.001">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>hanc ecce vobis carissimi secundam scribo epistulam in quibus excito vestram in commonitione sinceram mentem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.002">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>ut memores sitis eorum quae praedixi verborum a sanctis prophetis et apostolorum vestrorum praeceptorum Domini et salvatoris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.003">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>hoc primum scientes quod venient in novissimis diebus in deceptione inlusores iuxta proprias concupiscentias ambulantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.004">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>dicentes ubi est promissio aut adventus eius ex quo enim patres dormierunt omnia sic perseverant ab initio creaturae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.005">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>latet enim eos hoc volentes quod caeli erant prius et terra de aqua et per aquam consistens Dei verbo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.006">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>per quae ille tunc mundus aqua inundatus periit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.007">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>caeli autem qui nunc sunt et terra eodem verbo repositi sunt igni servati in diem iudicii et perditionis impiorum hominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.008">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>unum vero hoc non lateat vos carissimi quia unus dies apud Dominum sicut mille anni et mille anni sicut dies unus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.009">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>non tardat Dominus promissi sed patienter agit propter vos nolens aliquos perire sed omnes ad paenitentiam reverti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.010">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>adveniet autem dies Domini ut fur in qua caeli magno impetu transient elementa vero calore solventur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.011">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>cum haec igitur omnia dissolvenda sint quales oportet esse vos in sanctis conversationibus et pietatibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.012">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>expectantes et properantes in adventum Dei diei per quam caeli ardentes solventur et elementa ignis ardore tabescent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.013">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>novos vero caelos et novam terram et promissa ipsius expectamus in quibus iustitia habitat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.014">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>propter quod carissimi haec expectantes satis agite inmaculati et inviolati ei inveniri in pace</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.015">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>et Domini nostri longanimitatem salutem arbitramini sicut et carissimus frater noster Paulus secundum datam sibi sapientiam scripsit vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.016">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>sicut et in omnibus epistulis loquens in eis de his in quibus sunt quaedam difficilia intellectu quae indocti et instabiles depravant sicut et ceteras scripturas ad suam ipsorum perditionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.017">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>vos igitur fratres praescientes custodite ne insipientium errore transducti excidatis a propria firmitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Peter.003.018">
+      <reference>
+        <bookName>2Peter</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>crescite vero in gratia et in cognitione Domini nostri et salvatoris Iesu Christi ipsi gloria et nunc et in die aeternitatis amen</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.2Peter.colophon.001">
+    <reference>
+      <bookName>2Peter</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA PETRI</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

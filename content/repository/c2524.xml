@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2523" nextid="c2525" id="c2524">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ecce merces sanctorum copiosa est
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> apud deum</rdg>
+         <rdg wit="CAO-S"> apud dominum</rdg>
+      </app> a ipsi vero
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> mortui sunt</rdg>
+         <rdg wit="CAO-L"> mortui</rdg>
+      </app> pro Christo
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F CAO-L"> et vivent in aeternum</rdg>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-S"> et vivunt in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1354" nextid="c1356" id="c1355">
+   <header>
+      <usage ms="Alb2" code="07064000">[107r] lauds-a5</usage>
+      <usage ms="Cdm" code="07064000">[77r] lauds-a5</usage>
+      <usage ms="Cht" code="07064000">[59v] lauds</usage>
+      <usage ms="Evm" code="07064000">[147r] lauds</usage>
+      <usage ms="Hyd" code="07064000">[93r] lauds</usage>
+      <usage ms="Mch" code="07064000">[157v] lauds-a5</usage>
+      <usage ms="Pet" code="07064000">[87v] lauds</usage>
+      <usage ms="Wcb" code="07064000">[114r] lauds</usage>
+      <usage ms="Wor" code="07064000">[58v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Alliga domine in vinculis nationes gentium
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> et reges eorum in compedibus</rdg>
+         <rdg wit="CAO-M"> et reges earum in compedibus</rdg>
+         <rdg wit="CAO-F"> et reges <corr sic="eorum">earum</corr> in compedibus</rdg>
+      </app>
+   </aBody>
+</ant>

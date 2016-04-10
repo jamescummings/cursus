@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8592" nextid="c8594" id="c8593">
+   <header>
+      <usage ms="Evm" code="14123000">[56r] lauds commemoratio</usage>
+      <usage ms="Wcb" code="02122800">[63r] matins-n1-a3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">[Mon Jan 24 11:03:01 2005] Text = rBody of c7021 (and CAO-G verse of c6082)</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Wcb"> Isti sunt sancti qui non inquinaverunt vestimenta sua
+     <app>
+         <rdg wit="Evm"> ambulabunt mecum in albis</rdg>
+         <rdg wit="Wcb"> ambulabunt mecum in albis quia digni sunt</rdg>
+      </app>
+   </aBody>
+</ant>

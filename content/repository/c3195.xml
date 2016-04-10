@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3194" nextid="c3196" id="c3195">
+   <header>
+      <usage ms="Evm" code="14123000">[56r] vesp2 commemoratio</usage>
+      <usage ms="Wcb" code="02122600">[58v] matins-n2-a8</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-F Evm Wcb">
+      <app>
+         <rdg wit="CAO-E CAO-F Evm Wcb"> Impetum fecerunt unanimiter in eum</rdg>
+         <rdg wit="CAO-C"> Impetum fecerunt unanimiter mecum</rdg>
+      </app> et eiicientes eum extra civitatem lapidabant invocantem et dicentem
+     <app>
+         <rdg wit="CAO-F Evm Wcb"> domine accipe spiritum meum</rdg>
+         <rdg wit="CAO-E"> domine Jesu accipe spiritum meum</rdg>
+         <rdg wit="CAO-C"> domine suscipe spiritum meum</rdg>
+      </app>
+   </aBody>
+</ant>

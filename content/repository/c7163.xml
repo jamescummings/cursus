@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7162" nextid="c7164" id="c7163">
+   <header>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <rBody wit="CAO-L Hyd"> Misericordias tuas domine in aeternum cantabo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">In generatione et progenie</vBody>
+      <vBody type="r" wit="Hyd"> in generatione et generationem</vBody>
+   </verses>
+</res>

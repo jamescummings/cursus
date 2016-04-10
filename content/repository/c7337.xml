@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7336" nextid="c7338" id="c7337">
+   <rBody wit="CAO-E CAO-F CAO-L"> Oremus omnes ad dominum Jesum Christum dixit beatus Clemens ut
+     <app>
+         <rdg wit="CAO-E CAO-F"> confessoribus suis</rdg>
+         <rdg wit="CAO-L"> de confessoribus suis</rdg>
+      </app> fontis
+     <app>
+         <rdg wit="CAO-E CAO-L"> venas</rdg>
+         <rdg wit="CAO-F"> venam</rdg>
+      </app> aperiat
+     <app>
+         <rdg wit="CAO-E CAO-F CAO-L"> ut de beneficiis</rdg>
+         <rdg wit="CAO-E"> et de beneficiis</rdg>
+      </app> eius gratulemur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F CAO-L">Qui percussit
+      <app>
+            <rdg wit="CAO-F CAO-L"> in deserto Sina</rdg>
+            <rdg wit="CAO-E"> in deserto</rdg>
+         </app> petram et fluxerunt aquae
+      <app>
+            <rdg wit="CAO-E CAO-F"> in abundantiam</rdg>
+            <rdg wit="CAO-L"> ad abundantiam</rdg>
+         </app> ipse nobis
+      <app>
+            <rdg wit="CAO-F"> laticem</rdg>
+            <rdg wit="CAO-E"> latices</rdg>
+            <rdg wit="CAO-L"> latice</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F CAO-L"> et fluenta</rdg>
+            <rdg wit="CAO-E"> fluenta</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F CAO-L"> imperiatur</rdg>
+            <rdg wit="CAO-E"> imperiat</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-F CAO-L">Ut de</rep>
+      <rep type="r" wit="CAO-E">Et de</rep>
+   </verses>
+</res>

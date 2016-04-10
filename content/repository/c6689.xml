@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6688a" nextid="c6689b" id="c6689">
+   <rBody wit="CAO-M CAO-L">
+      <app>
+         <rdg wit="CAO-M"> Exaudita est deprecatio tua Vite</rdg>
+         <rdg wit="CAO-L"> Exaudita est oratio tua</rdg>
+      </app> dicit dominus et datus sum tibi custos
+      <app>
+         <rdg wit="CAO-M"> ad custodiendum usque in diem</rdg>
+         <rdg wit="CAO-L"> ut custodiam te usque ad diem</rdg>
+      </app> exitus tui</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-L">
+         <app>
+            <rdg wit="CAO-M"> Quodcumque petieris a Deo</rdg>
+            <rdg wit="CAO-L"> Et quodcumque petieritis a domino</rdg>
+         </app> dabit tibi Deus</vBody>
+      <rep type="r" wit="CAO-M"> Et datus</rep>
+      <rep type="r" wit="CAO-L"> Ut custodiam</rep>
+   </verses>
+</res>

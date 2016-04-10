@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4767" nextid="c4769" id="c4768">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Sanctum est verum lumen et admirabile
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S"> ministrans lucem his qui permanserunt in agone certaminis</rdg>
+         <rdg wit="CAO-M CAO-V"> ministrant lucem his qui permanserunt in agone certaminis</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="minstrans">ministrant</corr> lucem his qui permanserunt in agone certaminis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E"> recipiunt a Christo splendorem sempiternum</rdg>
+         <rdg wit="CAO-M CAO-D"> recipiunt ab ipso splendorem sempiternum</rdg>
+         <rdg wit="CAO-V"> recipiunt a Christo splendore sempiternum</rdg>
+         <rdg wit="CAO-H"> accipiunt ab ipso splendorem sempiternum</rdg>
+         <rdg wit="CAO-R"> accipiunt ab illo splendorem sempiternum</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="recipiant">recipient</corr> a Christo splendorem sempiternum</rdg>
+         <rdg wit="CAO-S"> recipient a Christo splendorem sempiternum</rdg>
+      </app> in quo assidue felices laetantur</aBody>
+</ant>

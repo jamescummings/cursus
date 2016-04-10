@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6554" nextid="c6556" id="c6555">
+   <rBody wit="CAO-E CAO-S CAO-L"> Dum precibus apostoli
+      <app>
+         <rdg wit="CAO-E CAO-S"> filia regis</rdg>
+         <rdg wit="CAO-L"> filiam regis</rdg>
+      </app> esset
+      <app>
+         <rdg wit="CAO-S CAO-L"> incolumis</rdg>
+         <rdg wit="CAO-E"> incolomis</rdg>
+      </app> voluit ipsum rex honorare cum auro et argento opibusque plurimis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-S CAO-L"> Terrena quidem cuncta despiciens solisque caelestibus inhians sprevit
+       <app>
+            <rdg wit="CAO-E CAO-S CAO-L"> eadem</rdg>
+            <rdg wit="CAO-S"> eodem</rdg>
+         </app> munera</vBody>
+      <rep type="r" wit="CAO-E CAO-S CAO-L"> Cum auro</rep>
+   </verses>
+</res>

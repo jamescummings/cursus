@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7009" nextid="c7011" id="c7010">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iste sanctus pro lege Dei sui certavit usque ad mortem et
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> a verbis</rdg>
+         <rdg wit="CAO-V"> ad verbis</rdg>
+      </app> impiorum non
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> timuit</rdg>
+         <rdg wit="CAO-V CAO-D"> timui</rdg>
+      </app> fundatus enim erat
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> supra</rdg>
+         <rdg wit="CAO-H"> super</rdg>
+      </app> firmam petram</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Iste est qui contempsit
+       <app>
+            <rdg wit="CAO-M CAO-H CAO-R CAO-D CAO-L"> vitam mundi</rdg>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-F"> vita mundi</rdg>
+         </app> et pervenit ad caelestia regna</vBody>
+      <vBody type="r" wit="CAO-F CAO-S"> Munimine regio septus nullatenus est ab adversariis superatus</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Fundatus</rep>
+   </verses>
+</res>

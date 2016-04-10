@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4269" nextid="c4271" id="c4270">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-D CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-D CAO-S CAO-L"> Per viscera misericordiae dei nostri</rdg>
+         <rdg wit="CAO-C"> Per viscera misericordia dei nostri</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-S CAO-L"> visitavit nos oriens ex alto</rdg>
+         <rdg wit="CAO-G CAO-E CAO-V"> in quibus visitavit nos oriens ex alto</rdg>
+      </app>
+   </aBody>
+</ant>

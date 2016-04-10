@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7220b" nextid="c7222" id="c7221">
+   <rBody wit="CAO-E CAO-V CAO-R CAO-F CAO-S CAO-L"> Nolite timere non separabuntur a vobis sed vadunt
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-L"> in caelum</rdg>
+         <rdg wit="CAO-V"> in caelo</rdg>
+         <rdg wit="CAO-F CAO-S"> in caelis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-F CAO-L"> parare</rdg>
+         <rdg wit="CAO-S"> preparare</rdg>
+      </app> vobis sidereas mansiones</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-L"> In quibus
+       <app>
+            <rdg wit="CAO-L"> una vobiscum et cum filiis vestris</rdg>
+            <rdg wit="CAO-F"> una cum filiis vestris</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L"> in perpetuum mansuri eritis et ideo</rdg>
+            <rdg wit="CAO-F"> in perpetuo maneatis</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E CAO-R"> Quas meruit Christi martyr Sebastianus</vBody>
+      <vBody type="r" wit="CAO-S"> Beatus Sebastianus dixit nolite timere non separabuntur a vobis</vBody>
+      <vBody type="r" wit="CAO-V"> Sanctus Sebastianus dixit uxoribus Marcelliani et Marci nolite timere non separabuntur a vobis</vBody>
+      <rep type="r" wit="CAO-V CAO-F CAO-S">Sed vadunt</rep>
+      <rep type="r" wit="CAO-L">Vadunt</rep>
+      <rep type="r" wit="CAO-E CAO-R">Sidereas</rep>
+   </verses>
+</res>

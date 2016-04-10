@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1579" nextid="o1581" id="o1580">
+   <header>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Evm" code="07012000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.949</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Evm">Deus caeli terraeque dominator auxilium nobis tuae defensionis benignus impende
+     <app>
+         <rdg wit="Evm">Et ad beneficia</rdg>
+         <rdg wit="Cht" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </pBody>
+</prayer>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8015" nextid="c8017" id="c8016">
+   <header>
+      <usage ms="Ely" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[90v] lauds</usage>
+   </header>
+   <aBody wit="Ely Evm Wcb"> Quam melior est misericordia tua domine super vitas ideo labia mea laudabunt te</aBody>
+</ant>

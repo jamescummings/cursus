@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3870" nextid="c3872" id="c3871">
+   <header>
+      <usage ms="Alb2" code="07043000">[96r] vesp2</usage>
+      <usage ms="Cht" code="07043000">[44r] vesp2</usage>
+      <usage ms="Ely" code="07043000">[79v] vesp2</usage>
+      <usage ms="Glo" code="07043000">[68v] vesp2</usage>
+      <usage ms="Hyd" code="07043000">[83v] vesp2</usage>
+      <usage ms="Pet" code="07043000"/>
+      <usage ms="Wcb" code="07043000"/>
+      <usage ms="Wor" code="07043000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Cht Hyd Pet Wcb Glo Alb2"> Nemo in eum misit manum quia nondum venerat hora eius</aBody>
+   <aBody wit="Wor">
+      <gap reason="erasure of verbal text" resp="DC"/> manum quia nondum venerat hora eius</aBody>
+</ant>

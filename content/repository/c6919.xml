@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6918" nextid="c6920" id="c6919">
+   <rBody wit="CAO-C CAO-E CAO-R CAO-F"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-R CAO-F">Non sunt loquelae neque sermones quorum
+       <app>
+            <rdg wit="CAO-E CAO-R"> non audiantur</rdg>
+            <rdg wit="CAO-C CAO-F"> non audientur</rdg>
+         </app> voces eorum</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-R CAO-F">Et in</rep>
+   </verses>
+</res>

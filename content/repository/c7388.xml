@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7387" nextid="c7389" id="c7388">
+   <header>
+      <usage ms="Alb2" code="06011000">[65v] matins-n2-r5</usage>
+      <usage ms="Bat" code="06011000">[42r] matins-n2-r6</usage>
+      <usage ms="Cdm" code="06011000">[49r] matins-n2-r5</usage>
+      <usage ms="Cht" code="06012000">[13v] </usage>
+      <usage ms="Ely" code="06011000">[59v] matins-n2-r5</usage>
+      <usage ms="Evm" code="06011000">[92v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="06011000">[61r] matins-n2-r5</usage>
+      <usage ms="Mch" code="06011000">[99v] matins-n1-r4</usage>
+      <usage ms="Pet" code="06011000">[55r] matins-n2-r5</usage>
+      <usage ms="Wcb" code="06011000">[85r] matins-n2-r5</usage>
+      <usage ms="Wor" code="06011000">[36r] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> Plantaverat autem dominus deus paradisum voluptatis a principio in quo posuit hominem quem formaverat</rBody>
+   <verses>
+      <vBody type="r" wit="Mch">Dixit autem deus ad Adam ex ligno non comedas quod est in medio paradisi</vBody>
+      <vBody type="r" wit="CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat">
+         <app>
+            <rdg wit="CAO-D CAO-F Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat"> Plantaverat autem dominus deus</rdg>
+            <rdg wit="CAO-V CAO-S"> Produxitque dominus deus de humo omne</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-V CAO-D CAO-F CAO-S Hyd Cht Pet Ely Wcb Evm Bat"> lignum</rdg>
+            <rdg wit="Alb2 Cdm">omne lignum</rdg>
+            <rdg wit="Wor">
+               <corr sic="ligum" resp="DC">lignum</corr>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat"> pulchrum visu</rdg>
+            <rdg wit="CAO-V"> pulchrum visum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-V CAO-D CAO-F CAO-S Wcb Evm Cdm Bat"> et ad vescendum suave</rdg>
+            <rdg wit="Hyd Alb2 Cht Pet Ely"> et ad nescendum suave</rdg>
+            <rdg wit="Wor">
+               <corr sic="vescendum"> et ad nescendum suave</corr>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-V CAO-D CAO-F CAO-S Alb2 Wor Pet Hyd Ely Wcb Evm Cdm Bat"> lignum etiam vitae</rdg>
+            <rdg wit="Cht"> etiam lignum vitae</rdg>
+         </app> in medio paradisi</vBody>
+      <rep type="r" wit="CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch">In quo</rep>
+   </verses>
+</res>

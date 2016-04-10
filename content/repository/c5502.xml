@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5501" nextid="c5502b" id="c5502">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> Vos qui secuti estis me
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L"> sedebitis super sedes</rdg>
+         <rdg wit="CAO-C CAO-M"> sedebitis super sedem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-S"> iudicantes duodecim tribus Israel dicit dominus</rdg>
+         <rdg wit="CAO-C CAO-M"> iudicantes duodecim tribus Israel alleluia</rdg>
+         <rdg wit="CAO-D"> iudicantes duodecim tribus dicit dominus</rdg>
+         <rdg wit="CAO-L"> iudicantes duodecim tribus alleluia</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-E CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-E CAO-H CAO-R"> Cum sederit filius hominis</rdg>
+            <rdg wit="CAO-C"> Dum venerit filius hominis</rdg>
+         </app> in sede maiestatis suae</vBody>
+      <vBody type="a" wit="CAO-S"> In regeneratione cum sederit filius hominis in sede maiestatis suae</vBody>
+   </verses>
+</ant>

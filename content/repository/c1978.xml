@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1977" nextid="c1979" id="c1978">
+   <header>
+      <usage ms="Cht" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Glo" code="06031000">[57r] terce</usage>
+      <usage ms="Wcb" code="06031000">[90v] terce</usage>
+   </header>
+   <aBody wit="CAO-C Cht Evm Wcb Glo">
+      <app>
+         <rdg wit="CAO-C"> Cum audiret quod Jesus Nazarenus transiret</rdg>
+         <rdg wit="Cht Evm Wcb Glo"> Cum autem audiret quod Jesus Nazarenus transiret</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C Cht Evm Glo"> clamabat dicens</rdg>
+         <rdg wit="Wcb"> clamavit dicens</rdg>
+      </app> Jesu fili David miserere mei</aBody>
+</ant>

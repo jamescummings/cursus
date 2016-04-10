@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3649" nextid="c3651" id="c3650">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-E CAO-D Hyd"> Lux erat in flammis
+     <app>
+         <rdg wit="CAO-E"> maior quam flamma moveret</rdg>
+         <rdg wit="CAO-D"> maior quam flamma urebat</rdg>
+         <rdg wit="Hyd"> maior quam flamma urgebat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> nam cum tres pueros Babylonius</rdg>
+         <rdg wit="CAO-D"> nam cum tres pueros Babylonia</rdg>
+         <rdg wit="Hyd"> nam cum tres pueros Babylonis</rdg>
+      </app> voluisset perdere rex vidit iunctum quasi quartum
+     <app>
+         <rdg wit="CAO-E"> in quem crederet dignum est</rdg>
+         <rdg wit="CAO-D Hyd"> in quem credere dignum est</rdg>
+      </app> salvator erat quem flamma timebat</aBody>
+</ant>

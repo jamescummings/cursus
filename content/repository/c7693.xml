@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7692" nextid="c7694" id="c7693">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Spiritus sanctus procedens a throno</rdg>
+         <rdg wit="CAO-F CAO-L Hyd"> Spiritus sanctus procedens a patre</rdg>
+      </app> apostolorum pectora invisibiliter penetravit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L Hyd"> novum sanctificationis signum</rdg>
+         <rdg wit="CAO-M CAO-V"> novo sanctificationis signo</rdg>
+         <rdg wit="CAO-F CAO-S"> novo sanctificationis signum</rdg>
+      </app> ut in ore eorum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Hyd"> omnium genera</rdg>
+         <rdg wit="CAO-S"> hominum genera</rdg>
+         <rdg wit="CAO-M CAO-D"> omnia genera</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> nascerentur</rdg>
+         <rdg wit="CAO-V"> nasceretur</rdg>
+      </app> linguarum alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-H CAO-R"> Loquebantur variis linguis apostoli magnalia dei</vBody>
+      <vBody type="r" wit="CAO-B"> Loquebantur variis linguis</vBody>
+      <vBody type="r" wit="CAO-G"> Loquebantur</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L Hyd"> Advenit ignis divinus non comburens sed illuminans
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-L Hyd"> et tribuit eis</rdg>
+            <rdg wit="CAO-S"> et tribuens eis</rdg>
+         </app> charismatum dona</vBody>
+      <vBody type="r" wit="CAO-M"> Repleti sunt omnes</vBody>
+      <vBody type="r" wit="CAO-V"> Repleti sunt</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-L Hyd">Ut in ore</rep>
+      <rep type="r" wit="CAO-F">Novo</rep>
+      <rep type="r" wit="CAO-V CAO-S">Genera</rep>
+   </verses>
+</res>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7660" nextid="c7662" id="c7661">
+   <header>
+      <usage ms="Alb2" code="07067000">[112v] matins-n3-r9</usage>
+      <usage ms="Cdm" code="07067000">[80v] matins-n3-r9</usage>
+      <usage ms="Cht" code="07066000">[64v] -n3-r3</usage>
+      <usage ms="Ely" code="07067000">[91v] matins-n3-r9</usage>
+      <usage ms="Evm" code="07067000">[153v] matins-n2-r5</usage>
+      <usage ms="Hyd" code="07067000">[97v] matins-n1-r2</usage>
+      <usage ms="Mch" code="07067000">[164r] matins-n3-r9</usage>
+      <usage ms="Pet" code="07067000">[95r] matins-n3-r9</usage>
+      <usage ms="Wcb" code="07067000">[118r] matins-n2-r5</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Ely Hyd Pet Evm Wcb Alb2 Cdm Mch"> Sicut ovis ad occisionem ductus est
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Ely Pet Evm Wcb Alb2 Cdm Mch"> et dum male tractaretur</rdg>
+         <rdg wit="Hyd"> et dum tractaretur</rdg>
+      </app> non aperuit os suum traditus est ad mortem ut vivificaret populum suum</rBody>
+   <rBody wit="Cht"> Sicut ovis ad occisionem ductus est et dum male tractaretur non aperuit os suum traditus <gap desc="remainder of respond body and all of the verse" reason="loss of folio in Ms" resp="DC"/>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F Ely Pet"> In pace factus est locus eius et in Sion habitatio eius</vBody>
+      <vBody type="r" wit="CAO-R"> In pace factus est</vBody>
+      <vBody type="r" wit="Hyd Evm Wcb Alb2 Cdm">
+         <app>
+            <rdg wit="Hyd Evm Wcb Alb2">Ipse autem vulneratus est</rdg>
+            <rdg wit="Cdm">Ipse vulneratus est</rdg>
+         </app>
+         <app>
+            <rdg wit="Hyd Evm Wcb Alb2"> propter iniquitates nostras</rdg>
+            <rdg wit="Cdm"> propter delicta nostra</rdg>
+         </app> attritus est propter scelera nostra</vBody>
+      <vBody type="r" wit="CAO-G Mch"> Tradidit in morte
+    <app>
+            <rdg wit="CAO-G">animam</rdg>
+            <rdg wit="Mch"> animam suam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G"> et inter sceleratos</rdg>
+            <rdg wit="Mch"> et cum sceleratis</rdg>
+         </app> reputatus est</vBody>
+      <vBody type="r" wit="CAO-C"> Vadis propitiator ad immolandum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Ely Hyd Pet Alb2 Mch">Traditus</rep>
+      <rep type="r" wit="CAO-G Evm Wcb Cdm">Ut vivificaret</rep>
+      <rep type="r" num="2" wit="Ely Alb2"> Sicut</rep>
+   </verses>
+</res>

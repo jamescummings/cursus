@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6110" nextid="c6112" id="c6111">
+   <rBody wit="CAO-S CAO-L"> Apparuerunt illis duo angeli ad custodiendam benedictionem apostoli ut omnes petitiones eorum domino offerent</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S CAO-L">Tunc sponsum et sponsam
+      <app>
+            <rdg wit="CAO-S"> confirmavit</rdg>
+            <rdg wit="CAO-L"> ut confirmaret</rdg>
+         </app> in omni virtute
+      <app>
+            <rdg wit="CAO-S"> ut nihil de sapientia desit illis</rdg>
+            <rdg wit="CAO-L"> et nihil de sapientia Dei illis deesset</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-S CAO-L">Ut omnes</rep>
+   </verses>
+</res>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6557" nextid="c6559" id="c6558">
+   <rBody wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dum sacramenta offeret beatus Martinus globus igneus apparuit super caput eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-S"> Orante sancto Martino
+       <app>
+            <rdg wit="CAO-C CAO-S"> apparuit ei angelus domini</rdg>
+            <rdg wit="CAO-M CAO-V CAO-H CAO-R" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-F CAO-L"> Oculis ac manibus in caelum semper intentus
+       <app>
+            <rdg wit="CAO-C CAO-F"> invictum ab oratione spiritum</rdg>
+            <rdg wit="CAO-L"> invictu ab oratione spiritu</rdg>
+         </app> non relaxabat</vBody>
+      <vBody type="r" wit="CAO-D"> Ita ut in sublime contendens longum admodum crinem flamma produceret</vBody>
+      <rep type="r" wit="CAO-M CAO-V CAO-H CAO-R CAO-S CAO-F CAO-L"> Globus</rep>
+      <rep type="r" wit="CAO-D"> Super</rep>
+   </verses>
+</res>

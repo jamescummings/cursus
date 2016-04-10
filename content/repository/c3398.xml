@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3397" nextid="c3398b" id="c3398">
+   <header>
+      <usage ms="Alb2" code="07061000">[105v] nones</usage>
+      <usage ms="Cht" code="07054000">[51v] sext</usage>
+      <usage ms="Evm" code="07054000">[139r] sext</usage>
+      <usage ms="Glo" code="07054000">[71v] sext</usage>
+      <usage ms="Wcb" code="07054000">[110r] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L Cht Evm Wcb Glo Alb2"> Invocabo nomen tuum domine
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-R CAO-F"> ne avertas faciem tuam</rdg>
+         <rdg wit="CAO-E CAO-H CAO-L Cht Evm Wcb Glo Alb2"> ne avertas aurem tuam</rdg>
+         <rdg wit="CAO-C"> ne avertas irem tuam</rdg>
+      </app> a clamore meo</aBody>
+</ant>

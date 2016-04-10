@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6042" nextid="c6044" id="c6043">
+   <header>
+      <usage ms="Hyd" code="10500000">matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Adonai domine deus magne et mirabilis qui dedisti salutem in manu feminae exaudi preces servorum tuorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-M CAO-D CAO-F CAO-L Hyd"> Benedictus es domine qui non derelinquis praesumentes de te
+      <app>
+            <rdg wit="CAO-G CAO-E CAO-M CAO-D CAO-F Hyd"> et de sua virtute</rdg>
+            <rdg wit="CAO-L"> et de tua virtute</rdg>
+         </app> gloriantes humilias</vBody>
+      <vBody type="r" wit="CAO-S"> Qui regis Israel intende qui deducis velut ovem Joseph qui sedes super cherubim</vBody>
+      <vBody type="r" wit="CAO-M">  Qui regis</vBody>
+      <vBody type="r" wit="CAO-B CAO-H"> Qui regis Israel</vBody>
+      <vBody type="r" wit="CAO-C CAO-R"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" wit="CAO-V"> Exaudi deus deprecationem nostram et propitius esto sorti et funiculo hereditatis tuae Exaudi</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Exaudi</rep>
+   </verses>
+</res>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1642" nextid="o1644" id="o1643">
+   <header>
+      <usage ms="Alb2" code="05051000"/>
+      <usage ms="Cht" code="05041000">[5r] vesp1</usage>
+      <usage ms="Hyd" code="05051000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.193</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Hyd Cht">Deus qui nos in tantis periculis constitutos pro humana scis fragilitate non posse subsistere da nobis salutem mentis et corporis ut ea quae pro peccatis nostris patimur te adiuvante vincamus</pBody>
+</prayer>

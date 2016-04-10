@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7868" nextid="c7870" id="c7869">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-S CAO-L"> Videte miraculum matris domini</rdg>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R"> Videte miraculum matrem domini</rdg>
+         <rdg wit="CAO-B CAO-D CAO-F"> Videte miraculum mater domini</rdg>
+      </app> concepit virgo
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D"> virile ignorans consortium</rdg>
+         <rdg wit="CAO-C"> virilem ignorans consortium</rdg>
+         <rdg wit="CAO-E"> virilem ignara consortii</rdg>
+         <rdg wit="CAO-V"> virilem ignorans consortium</rdg>
+         <rdg wit="CAO-F CAO-S CAO-L"> virilis ignara consortii</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-L"> stans onerata</rdg>
+         <rdg wit="CAO-H CAO-F CAO-S"> stat onerata</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="statis">stat</corr> onerata</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L"> nobili onere Maria</rdg>
+         <rdg wit="CAO-V"> nobilis honera Maria</rdg>
+         <rdg wit="CAO-S"> nobili<del status="unremarkable">s</del> onere Maria</rdg>
+         <rdg wit="CAO-D"> nobili genere Maria</rdg>
+         <rdg wit="CAO-M"> nobili honore Maria</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F"> et matrem se laetam cognoscit</rdg>
+         <rdg wit="CAO-S CAO-L"> et matrem laeta cognoscit</rdg>
+         <rdg wit="CAO-C"> et matrem se laeta cognoscit</rdg>
+         <rdg wit="CAO-M"> et matre se laeta cognoscens</rdg>
+         <rdg wit="CAO-V"> et matrem scelecta cognoscit</rdg>
+         <rdg wit="CAO-G CAO-E"> et matrem se laetam cognoscens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> quae se nescit uxorem</rdg>
+         <rdg wit="CAO-L"> quem se nescit uxorem</rdg>
+         <rdg wit="CAO-V"> quae se nexit uxorem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-D">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-D"> Casta parentis</rdg>
+            <rdg wit="CAO-H"> Caastae parentis</rdg>
+         </app> viscera caelestis intrat gratia venter puellae baiulat secreta quae non noverat</vBody>
+      <vBody type="r" wit="CAO-M"> Casta parentum</vBody>
+      <vBody type="r" wit="CAO-B CAO-R CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-R CAO-F CAO-L"> Virgo concepit et virgo peperit</rdg>
+            <rdg wit="CAO-S"> Virgo concepit virgo peperit</rdg>
+         </app> et post partum virgo permansit</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-V CAO-H CAO-D CAO-F">Et matrem</rep>
+      <rep type="r" wit="CAO-B CAO-R CAO-L">Quae</rep>
+      <rep type="r" wit="CAO-E CAO-M">Stans</rep>
+      <rep type="r" wit="CAO-S">Stat</rep>
+   </verses>
+</res>

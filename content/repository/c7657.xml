@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7656" nextid="c7658" id="c7657">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Sicut cedrus exaltata sum in Libano et sicut cypressus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-S CAO-L"> in monte Sion</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F"> in montem Sion</rdg>
+      </app> quasi myrrha electa
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> dedi</rdg>
+         <rdg wit="CAO-C CAO-M"> dedit</rdg>
+      </app> suavitatem odoris</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Et sicut cinnamomum</rdg>
+            <rdg wit="CAO-L"> Sicut cinnamomum</rdg>
+         </app> et balsamum aromatizans</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-L">Quasi</rep>
+      <rep type="r" wit="CAO-H CAO-R CAO-F">Dedi</rep>
+      <rep type="r" wit="CAO-S">
+         <sic>Dedit</sic>
+      </rep>
+   </verses>
+</res>

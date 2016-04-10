@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7353" nextid="c7355" id="c7354">
+   <header>
+      <usage ms="Evm" code="02122500">[35v] matins-n3-r9</usage>
+      <usage ms="Pet" code="02122500">[17r] matins-n3-r9</usage>
+      <usage ms="Wcb" code="02122500">[55v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-F Evm Wcb Pet"> Parvulus natus est nobis et filius datus est nobis et factus est principatus super humerum eius et vocabitur admirabilis deus fortis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F Evm Wcb Pet">Multiplicabitur eius imperium et pacis non erit finis</vBody>
+      <rep type="r" wit="CAO-F Evm Wcb">Et vocabitur</rep>
+      <rep type="r" wit="Pet">
+         <note type="editorial" place="unspecified" anchored="yes">regressio not given in Pet</note>
+      </rep>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9504" nextid="c9506" id="c9505">
+   <header>
+      <usage ms="Evm" code="06021000">[96r] matins-n2-r5</usage>
+   </header>
+   <rBody wit="Evm"> Obtinuerunt autem aquae omnem terram centum quadraginta diebus consumptaque est omnis caro quae movebatur super terram</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Remansit autem solus Noe et qui cum eo erant in arca sicut constituerat ei deus</vBody>
+      <rep type="r" wit="Evm">Consumptaque</rep>
+   </verses>
+</res>

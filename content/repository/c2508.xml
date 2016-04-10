@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2507" nextid="c2509" id="c2508">
+   <header>
+      <usage ms="Alb2" code="01021000">[9r] lauds-a5</usage>
+      <usage ms="Alb2" code="01037000">[17v] lauds-a1</usage>
+      <usage ms="Bat" code="01021000">[7r] lauds-a5</usage>
+      <usage ms="Cdm" code="01021000">[13r] lauds-a5</usage>
+      <usage ms="Ely" code="01021000">[8r] lauds-a5</usage>
+      <usage ms="Evm" code="01021000">[15r] lauds-a5</usage>
+      <usage ms="Hyd" code="01021000">[8v] lauds-a5</usage>
+      <usage ms="Mch" code="01021000">[9r] lauds-a5</usage>
+      <usage ms="Wcb" code="01021000">[45v] lauds-a5</usage>
+      <usage ms="Wor" code="01021000">[6r] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Ecce dominus noster cum virtute veniet
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> ut illuminet</rdg>
+         <rdg wit="CAO-B CAO-R"> et illuminat</rdg>
+         <rdg wit="CAO-G"> et illuminabit</rdg>
+      </app> oculos servorum suorum alleluia</aBody>
+</ant>

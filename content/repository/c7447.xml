@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7446" nextid="c7448" id="c7447">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Puellae saltanti imperavit mater nihil aliud
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-S"> petas</rdg>
+         <rdg wit="CAO-L"> petat</rdg>
+         <rdg wit="CAO-M">
+            <corr sic="petat">petas</corr>
+         </rdg>
+      </app> nisi caput
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-D CAO-F CAO-S CAO-L"> Joannis baptistae</rdg>
+         <rdg wit="CAO-E CAO-V"> Joannis</rdg>
+      </app> et contristatus est rex propter iusiurandum et propter simul
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-D CAO-F CAO-L"> discumbentes</rdg>
+         <rdg wit="CAO-C CAO-S"> discumbentibus</rdg>
+         <rdg wit="CAO-E"> discumbentium</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> Quae cum exisset</rdg>
+            <rdg wit="CAO-C CAO-E"> Quae cum exisset puella</rdg>
+         </app> dixit
+      <app>
+            <rdg wit="CAO-E CAO-D CAO-F CAO-S"> matri suae</rdg>
+            <rdg wit="CAO-C"> matris suae</rdg>
+         </app> quid petam
+      <app>
+            <rdg wit="CAO-C CAO-E CAO-D CAO-S"> at illa dixit</rdg>
+            <rdg wit="CAO-F"> at illa inquit</rdg>
+         </app> caput Joannis baptistae</vBody>
+      <vBody type="r" wit="CAO-M CAO-V"> Petiit puella caput Joannis in disco quo accepto dedit
+      <app>
+            <rdg wit="CAO-V"> matri suae</rdg>
+            <rdg wit="CAO-M"> matris suae</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Domine mi rex da mihi in disco caput Joannis baptistae</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L">Et contristatus</rep>
+   </verses>
+</res>

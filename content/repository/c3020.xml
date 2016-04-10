@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3019" nextid="c3021" id="c3020">
+   <header>
+      <usage ms="Alb2" code="01032000">[14v] lauds-a4</usage>
+      <usage ms="Bat" code="01032000">[10r] lauds-a4</usage>
+      <usage ms="Cdm" code="01032000">[16r] lauds-a4</usage>
+      <usage ms="Ely" code="01032000">[11v] lauds-a4</usage>
+      <usage ms="Evm" code="01042000">[25r] lauds-a4</usage>
+      <usage ms="Hyd" code="01042000">[14v] lauds-a4</usage>
+      <usage ms="Mch" code="01032000">[12v] lauds-a4</usage>
+      <usage ms="Wcb" code="01042000">[49v] lauds-a4</usage>
+      <usage ms="Wor" code="01032000">[8v] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Haurietis aquas in gaudio de fontibus salvatoris</aBody>
+</ant>

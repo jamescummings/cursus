@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2315" nextid="c2316b" id="c2316">
+   <header>
+      <usage ms="Evm" code="01026000">[15v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01026000">[13v] vesp2 gosp</usage>
+      <usage ms="Wcb" code="01026000">[45v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C Evm Wcb Glo"> Docebit nos de viis suis dominus
+     <app>
+         <rdg wit="CAO-C"> et ambulabimus</rdg>
+         <rdg wit="Evm Wcb Glo"> et ibimus</rdg>
+      </app> in semitis eius</aBody>
+</ant>

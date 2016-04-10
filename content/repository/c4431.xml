@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4430b" nextid="c4432" id="c4431">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S"> Quaerite primum regnum dei et iustitiam eius</rdg>
+         <rdg wit="CAO-C"> Quaerite ergo primum regnum dei et iustitiam eius</rdg>
+         <rdg wit="CAO-D"> Quaerite autem primum regnum dei et iustitiam eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> et haec omnia adicientur vobis alleluia</rdg>
+         <rdg wit="CAO-C"> et haec omnia adicientur vobis</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7194" nextid="c7195b" id="c7195">
+   <header>
+      <usage ms="Alb2" code="01041000">[20r] matins-n3-r12</usage>
+      <usage ms="Bat" code="01041000">[13r] matins-n3-r12</usage>
+      <usage ms="Cdm" code="01041000">[18v] matins-n3-r12</usage>
+      <usage ms="Ely" code="01041000">[14r] matins-n3-r12</usage>
+      <usage ms="Evm" code="01041000">[24r] matins-n3-r12</usage>
+      <usage ms="Hyd" code="01041000">[14r] matins-n3-r12</usage>
+      <usage ms="Mch" code="01041000">[18v] matins-n3-r12</usage>
+      <usage ms="Pet" code="01041000">[11v] matins-n3-r12</usage>
+      <usage ms="Wcb" code="01041000">[49r] matins-n3-r12</usage>
+      <usage ms="Wor" code="01041000">[12r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm Ely Wor Wcb Pet Bat"> Nascetur nobis parvulus</rdg>
+         <rdg wit="Mch"> Nascetur nobis parvulus <del type="crossed through" status="unremarkable">filius</del>
+         </rdg>
+         <rdg wit="Alb2 Evm"> Nascetur vobis parvulus</rdg>
+         <rdg wit="CAO-E"> Nascetur tibi filius</rdg>
+      </app> et vocabitur deus fortis ipse sedebit
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> super thronum David</rdg>
+         <rdg wit="CAO-G CAO-E"> super sedem David</rdg>
+      </app> patris sui
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> et imperabit</rdg>
+         <rdg wit="CAO-G CAO-S"> et imperavit</rdg>
+      </app> cuius potestas super humerum eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D Hyd Mch Ely"> Ecce advenit dominator dominus et regnum in manu eius et potestas et imperium</vBody>
+      <vBody type="r" wit="CAO-M"> Ecce adveni dominator dominus</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> In ipso benedicentur omnes tribus terrae omnes gentes servient ei</vBody>
+      <vBody type="r" wit="CAO-G"> Et adorabunt eum</vBody>
+      <vBody type="r" wit="CAO-F Alb2 Evm Cdm Wor Wcb Pet Bat"> Multiplicabitur eius imperium et pacis non erit finis</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-R CAO-F Hyd Alb2 Evm Mch Cdm Wor Wcb Bat"> Cuius</rep>
+      <rep type="r" wit="CAO-M CAO-H CAO-D CAO-L Ely Pet"> Et imperabit</rep>
+      <rep type="r" wit="CAO-S">Et imperavit</rep>
+      <dox type="r" wit="Evm Ely Wor">Gloria</dox>
+      <rep type="r" num="2" wit="Evm Ely">Cuius</rep>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2199b" nextid="c2201" id="c2200">
+   <header>
+      <usage ms="Ely" code="01021000">[7v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V Ely"> Dicite filiae Sion ecce rex tuus
+     <app>
+         <rdg wit="CAO-E CAO-V"> veniet tibi mitis</rdg>
+         <rdg wit="Ely">venit</rdg>
+      </app> ut salvet te</aBody>
+</ant>

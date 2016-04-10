@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3762" nextid="c3764" id="c3763">
+   <header>
+      <usage ms="Alb2" code="02010100">[47v] lauds gosp</usage>
+      <usage ms="Bat" code="02010100">[27v] lauds gosp</usage>
+      <usage ms="Cdm" code="02010100">[34r] lauds gosp</usage>
+      <usage ms="Evm" code="02010100">[61r] lauds gosp</usage>
+      <usage ms="Hyd" code="02010100">[34v] lauds gosp</usage>
+      <usage ms="Pet" code="02010100">[37r] lauds gosp</usage>
+      <usage ms="Wcb" code="02010100">[67r] lauds gosp</usage>
+      <usage ms="Wor" code="02010100">[25v] lauds gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.148</note>
+         <note place="unspecified" anchored="yes">See Brou 1944</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Mirabile mysterium declaratur hodie
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Wor Pet"> innovantur naturae</rdg>
+         <rdg wit="Alb2">innovatur natura</rdg>
+         <rdg wit="CAO-B CAO-H"> innovator naturae</rdg>
+      </app> deus homo factus est
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-F CAO-L Hyd Evm Wcb Bat Wor Pet"> in quo fuit permansit</rdg>
+         <rdg wit="Alb2"> et quod fuit permansit</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R Cdm"> id quod fuit permansit</rdg>
+         <rdg wit="CAO-S"> id quo fuit permansit</rdg>
+      </app> et quod non erat assumpsit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> non commixtionem passus</rdg>
+         <rdg wit="CAO-E CAO-V CAO-S CAO-L"> non commixtione passus</rdg>
+         <rdg wit="CAO-M"> non in commixtione passus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> neque divisionem</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-L"> neque divisione</rdg>
+      </app>
+   </aBody>
+</ant>

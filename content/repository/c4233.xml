@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4232" nextid="c4234" id="c4233">
+   <header>
+      <usage ms="Alb2" code="07045000">[96v] lauds</usage>
+      <usage ms="Cdm" code="07045000">[69v] lauds gosp</usage>
+      <usage ms="Cht" code="07045000">[45r] lauds</usage>
+      <usage ms="Ely" code="07045000">[79v] lauds</usage>
+      <usage ms="Evm" code="07045000">[131v] lauds</usage>
+      <usage ms="Glo" code="07045000">[68v] lauds</usage>
+      <usage ms="Hyd" code="07045000">[84v] lauds</usage>
+      <usage ms="Mch" code="07045000">[142r] lauds gosp</usage>
+      <usage ms="Wcb" code="07045000"/>
+      <usage ms="Wor" code="07045000"/>
+   </header>
+   <aBody wit="CAO-F Ely Wor Cht Hyd Evm Wcb Alb2 Cdm Mch"> Pater diligit filium et omnia demonstrat ei quae ipse facit</aBody>
+   <aBody wit="Glo" type="incipit"> Pater diligit filium</aBody>
+</ant>

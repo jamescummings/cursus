@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7912" nextid="c7914" id="c7913">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Vos qui in turribus estis aperite portas dominus omnipotens fecit virtutem et victoriam dedit de inimicis nostris</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Laudate dominum deum nostrum qui non deseruit sperantes in se</vBody>
+      <vBody type="r" wit="CAO-V"> Benedictus dominus qui creavit caelum et terram qui te direxit in vulnera capitis principis inimicorum nostrorum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">Et victoriam</rep>
+   </verses>
+</res>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3300" nextid="c3302" id="c3301">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> In tua patientia possedisti animam tuam
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Lucia sponsa Christi</rdg>
+         <rdg wit="CAO-C"> Lucia martyra Christi</rdg>
+      </app> odisti quae in mundo sunt et coruscas cum angelis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L"> sanguine proprio</rdg>
+         <rdg wit="CAO-C CAO-S"> sanguinem proprium</rdg>
+         <rdg wit="CAO-M">
+            <corr sic=" sanguine proprio">sanguinem proprium</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-R CAO-D CAO-S"> inimicum subisti</rdg>
+         <rdg wit="CAO-C"> inimicis fudisti</rdg>
+         <rdg wit="CAO-M">
+            <corr sic="inimico">inimicum</corr> subisti</rdg>
+         <rdg wit="CAO-H"> inimicum subegisti</rdg>
+         <rdg wit="CAO-L"> inimicum subiciens</rdg>
+         <rdg wit="CAO-E"> inimicum vicisti</rdg>
+      </app>
+   </aBody>
+</ant>

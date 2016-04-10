@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1073" nextid="c1075" id="c1074">
+   <header>
+      <usage ms="Alb2" code="01011000">[1v] matins inv</usage>
+      <usage ms="Bat" code="01031000">[8r] matins inv</usage>
+      <usage ms="Cdm" code="01031000">[14r] matins inv</usage>
+      <usage ms="Ely" code="01011000">[2r] matins inv</usage>
+      <usage ms="Evm" code="01011000">[4v] matins inv</usage>
+      <usage ms="Hyd" code="01031000">[9v] matins inv</usage>
+      <usage ms="Mch" code="01011000">[1r] matins inv</usage>
+      <usage ms="Wcb" code="01011000">[41r] matins inv</usage>
+      <usage ms="Wor" code="01031000">[6v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Ecce venit rex</rdg>
+         <rdg wit="Hyd"> Ecce veniet rex</rdg>
+      </app> occurramus obviam salvatori nostro</aBody>
+</ant>

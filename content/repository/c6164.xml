@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6163" nextid="c6165" id="c6164">
+   <rBody wit="CAO-V CAO-L">
+      <app>
+         <rdg wit="CAO-L">Beata es</rdg>
+         <rdg wit="CAO-V">Beata est</rdg>
+      </app> quae propter Deum
+     <app>
+         <rdg wit="CAO-L">mundum</rdg>
+         <rdg wit="CAO-V">mundo</rdg>
+      </app> odisti propterea datum est tibi regnum caelorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Audi Scholastica virgo et sponsa Christi beata es quae propter Deum mundum odisti</vBody>
+      <vBody type="r" wit="CAO-V"> Dilexisti <corr sic="iustitia">iustitiam</corr> et odisti iniquitatem</vBody>
+      <rep type="r" wit="CAO-V CAO-L">Propterea</rep>
+   </verses>
+</res>

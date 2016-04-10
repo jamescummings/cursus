@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6614" nextid="c6616" id="c6615">
+   <rBody wit="CAO-E CAO-D CAO-F CAO-S"> Ecce vere Israelita in quo dolus non est inventus qui probatus repertus est sacerdos magnus iuxta ordinem Melchisedech</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-D CAO-F"> Statuit ei</rdg>
+            <rdg wit="CAO-E"> Statuit illi</rdg>
+            <rdg wit="CAO-S"> Statuit illi dominus</rdg>
+         </app> testamentum sempiternum et dedit illi sacerdotium magnum</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-S">Juxta</rep>
+   </verses>
+</res>

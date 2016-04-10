@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3853" nextid="c3855" id="c3854">
+   <header>
+      <usage ms="Alb2" code="02010100">[46r] matins-n2-a10</usage>
+      <usage ms="Alb2" code="03026000">[42r] matins-n2-a1</usage>
+      <usage ms="Bat" code="02010100">[27r] matins-n2-a12</usage>
+      <usage ms="Cdm" code="02010100">[33v] matins-n2-a10</usage>
+      <usage ms="Cdm" code="02122800">[29v] lauds commemoratio</usage>
+      <usage ms="Cdm" code="02123000">[30v] lauds gosp</usage>
+      <usage ms="Cdm" code="02123000">[32r] lauds-a1</usage>
+      <usage ms="Ely" code="02122500">[21r] lauds-a5</usage>
+      <usage ms="Pet" code="02010100">[35r] matins-n2-a12</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, 137-138</note>
+         <note place="unspecified" anchored="yes">Cf. c8587 (shorter version)</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Bat Cdm Ely Pet"> Nato domino angelorum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L Alb2 Bat Cdm Ely Pet"> chori canebant dicentes</rdg>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-F"> chorus canebat dicens</rdg>
+      </app> salus deo nostro
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Bat Cdm Ely Pet"> sedenti super thronum</rdg>
+         <rdg wit="CAO-V CAO-L"> sedenti super throno</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Bat Cdm Ely Pet"> et agno</rdg>
+         <rdg wit="CAO-M CAO-S"> et agnum</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-V" num="2"> Nato domino angelorum chorus canebat dicens salus deo nostro qui sedet super throno et agno</aBody>
+</ant>

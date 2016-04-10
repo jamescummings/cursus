@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2633" nextid="c2635" id="c2634">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Elevata est magnificentia tua</rdg>
+         <rdg wit="CAO-G"> Exaltata est magnificentia tua</rdg>
+      </app> super caelos deus alleluia</aBody>
+</ant>

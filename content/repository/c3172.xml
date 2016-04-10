@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3171" nextid="c3173" id="c3172">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F"> Ille me clarificabit</rdg>
+         <rdg wit="CAO-C CAO-S CAO-L"> Ille me clarificavit</rdg>
+      </app> quia de meo accipiet
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-L"> et annuntiabit vobis alleluia</rdg>
+         <rdg wit="CAO-S"> et annuntiavit vobis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

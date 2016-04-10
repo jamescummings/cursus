@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4899" nextid="c4901" id="c4900">
+   <header>
+      <usage ms="Alb2" code="07066000">[111r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07065000">[78v] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-L Alb2 Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-L Alb2 Cdm"> Si male locutus sum perhibe testimonium</rdg>
+         <rdg wit="CAO-F"> Si male locutus sum testimonium perhibe</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-L Alb2"> si autem bene</rdg>
+         <rdg wit="CAO-H CAO-R CAO-F Cdm"> sin autem bene</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-F CAO-L Alb2 Cdm"> quid me caedis</rdg>
+         <rdg wit="CAO-E"> cur me caedis</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8550" nextid="c8552" id="c8551">
+   <header>
+      <usage ms="Bat" code="02122600">[19v] matins-n2-a12</usage>
+      <usage ms="Hyd" code="02122600">[22v] matins-n2-a12</usage>
+   </header>
+   <aBody wit="Hyd Bat"> O beate Stephane protomartyr Christi intercede pro nobis ad dominum deum nostrum ut dimittat nobis delicta nostra</aBody>
+</ant>

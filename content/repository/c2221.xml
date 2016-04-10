@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2220" nextid="c2222" id="c2221">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> Dignum sibi dominus computavit martyrem quem vocavit apostolum dum esset
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-F CAO-L"> in mari alleluia</rdg>
+         <rdg wit="CAO-E CAO-M CAO-S"> in mare alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

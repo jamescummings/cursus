@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1689" nextid="c1691" id="c1690">
+   <header>
+      <usage ms="Alb2" code="07041000">[94v] lauds</usage>
+      <usage ms="Cht" code="07041000">[42r] lauds</usage>
+      <usage ms="Ely" code="07041000">[78v] lauds</usage>
+      <usage ms="Evm" code="07041000">[129v] lauds</usage>
+      <usage ms="Hyd" code="07041000">[83r] lauds</usage>
+      <usage ms="Pet" code="07041000"/>
+      <usage ms="Wcb" code="07041000">[105r] lauds</usage>
+      <usage ms="Wor" code="07041000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Hyd Pet Evm Wcb Alb2"> Benedicat nos deus deus noster benedicat nos deus</aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7115" nextid="c7117" id="c7116">
+   <rBody wit="CAO-E CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S"> Magnificavit eum</rdg>
+         <rdg wit="CAO-L"> Magnificavit eum dominus</rdg>
+      </app> in conspectu regum et dedit illi coronam gloriae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F CAO-S"> Iustum deduxit dominus per vias rectas et ostendit illi regnum Dei</vBody>
+      <vBody type="r" wit="CAO-L"> Honestavit illum in laboribus et complevit labores illius</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-S CAO-L">Et dedit</rep>
+   </verses>
+</res>

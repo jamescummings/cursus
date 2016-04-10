@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4661" nextid="c4662b" id="c4662">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Rogabo patrem meum</rdg>
+         <rdg wit="CAO-C"> Rogavi patrem meum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-D CAO-F Hyd"> et alium paraclitum dabit vobis alleluia</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> et alium paraclitum mittam vobis alleluia</rdg>
+         <rdg wit="CAO-C CAO-L"> et alium paraclitum mittet vobis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7790" nextid="c7792" id="c7791">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tu puer propheta altissimi vocaberis praeibis enim ante faciem domini parare vias eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ad dandam scientiam salutis plebi eius in remissionem
+      <app>
+            <rdg wit="CAO-H CAO-D"> peccatorum eorum</rdg>
+            <rdg wit="CAO-F"> peccatorum</rdg>
+            <rdg wit="CAO-C CAO-R CAO-S CAO-L"> peccatorum meorum</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-H CAO-D CAO-F CAO-S CAO-L">Praeibis</rep>
+      <rep type="r" wit="CAO-C CAO-R">Parare</rep>
+   </verses>
+</res>

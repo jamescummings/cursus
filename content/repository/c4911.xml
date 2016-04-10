@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4910" nextid="c4912" id="c4911">
+   <aBody wit="CAO-C CAO-H CAO-F"> Si quis per me intraverit salvabitur
+     <app>
+         <rdg wit="CAO-C CAO-F"> et pascua inveniet dicit dominus</rdg>
+         <rdg wit="CAO-H"> et pascuam inveniet dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

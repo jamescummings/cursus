@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4080" nextid="c4082" id="c4081">
+   <header>
+      <usage ms="Alb2" code="01048010">[21v] lauds</usage>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="01048010">[15r] </usage>
+      <usage ms="Evm" code="01048010">[30r] </usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="01048000">[21r] </usage>
+      <usage ms="Pet" code="01048010">[12r] </usage>
+      <usage ms="Wcb" code="01048010">[49v] </usage>
+      <usage ms="Wor" code="01048010">[10v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> O sapientia
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> quae ex ore altissimi prodisti</rdg>
+         <rdg wit="Hyd"> quae ex ore altissimi prodidisti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> attingens a fine usque ad finem fortiter</rdg>
+         <rdg wit="CAO-D"> a fine usque ad finem fortiter</rdg>
+         <rdg wit="CAO-L"> attinges ad fine usque ad finem fortiter</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Cdm Ely Wor Wcb Pet"> suaviter disponensque omnia</rdg>
+         <rdg wit="Mch"> suaviter disponens omnia</rdg>
+         <rdg wit="Hyd"> disponensque omnia suaviter</rdg>
+      </app> veni ad docendum nos viam prudentiae</aBody>
+</ant>

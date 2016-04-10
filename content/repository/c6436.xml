@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6435" nextid="c6437" id="c6436">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dextram meam et collum meum
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> cinxit</rdg>
+         <rdg wit="CAO-S"> cinxi</rdg>
+      </app> lapidibus pretiosis tradidit auribus meis inaestimabiles margaritas et circumdedit me vernantibus atque corus cantibus gemmis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D"> Induit me dominus ciclade auro texta et immensis monilibus ornavit me</vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-F CAO-L"> Posuit signum</rdg>
+            <rdg wit="CAO-S"> Posui signum</rdg>
+         </app> in faciem meam ut nullum praeter eum amatorem admittam</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et circumdedit</rep>
+   </verses>
+</res>

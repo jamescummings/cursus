@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="The Prayer of Manasseh">
+<body>
+  <rubric type="bible-incipit" id="B.Manasseh.incipit.001">
+    <reference>
+      <bookName>Manasseh</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT ORATIO MANASSE</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Manasseh.001.001">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Domine Deus omnipotens patrum nostrorum, Abraham , Isaac et Iacob et semini eorum iusto ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.002">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>qui fecisti caelum et terram cum omni ornatu eorum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.003">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>qui signasti mare verbo praecepti tui, qui conclusisti abyssum et signasti terribili et laudabili nomini tuo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.004">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>quod omnes pavent et tremunt a vultu virtutis tuae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.005">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>et insustentabilis ira super peccatores comminationis tuae ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.006">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>inmensa vero et investigabilis misericordia promissionis tuae,</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.007">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>quoniam tu es Dominus altissimus super omnem terram , longanimis et multum misericors et paenitens super malitias hominum. tu autem Domine, secundum bonitatem tuam promisisti paenitentiam remissionis peccatorum ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.008">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>et tu Deus iustorum, non posuisti paenitentiam iustis Abraham , Isaac et Iacob, his qui tibi non peccaverunt .</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.009">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>quoniam peccavi super numerum harenae maris, multiplicatae sunt iniquitates meae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.010">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>incurvatus sum multo vinculo ferri et non est respiratio mihi, quia excitavi iracundiam tuam et malum coram te feci, statuens abominationes et multiplicans offensiones.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.011">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>et nunc flecto genua cordis mei, precans ad te bonitatem, Domine .</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.012">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>peccavi Domine, peccavi et iniquitatem meam agnosco.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.013">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>peto rogans te Domine remitte mihi , remitte mihi, ne simul perdas me cum iniquitatibus meis neque in aeternum reserves mala mihi ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.014">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>quia indignum salvabis me secundum magnam misericordiam tuam.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Manasseh.001.015">
+      <reference>
+        <bookName>Manasseh</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>et laudabo te semper omnibus diebus vitae meae quoniam te laudat omnis virtus caelorum et tibi est gloria in saecula saeculorum, amen .</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Manasseh.colophon.001">
+    <reference>
+      <bookName>Manasseh</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT ORATIO MANASSE</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

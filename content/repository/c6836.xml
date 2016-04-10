@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6835" nextid="c6837" id="c6836">
+   <rBody wit="CAO-C CAO-L"> Hic itaque
+      <app>
+         <rdg wit="CAO-L"> cum iam</rdg>
+         <rdg wit="CAO-C"> cum</rdg>
+      </app> relictis litterarum studiis petere deserta decrevisset nutrix quae hunc
+      <app>
+         <rdg wit="CAO-L">
+            <corr sic="arcius" resp="Hesbert">artius</corr> amabat</rdg>
+         <rdg wit="CAO-C"> amabat</rdg>
+      </app> sola secuta est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Recessit igitur scienter nescius et sapienter indoctus</vBody>
+      <vBody type="r" wit="CAO-L"> Relicta domo rebusque patris soli Deo placere desiderans sanctae conversationis habitum quaesivit</vBody>
+      <rep type="r" wit="CAO-L"> Nutrix</rep>
+   </verses>
+</res>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6320" nextid="c6321b" id="c6321">
+   <header>
+      <usage ms="Alb2" code="01011000">[3r] matins-n2-r8</usage>
+      <usage ms="Bat" code="01011000">[2r] matins-n2-r6</usage>
+      <usage ms="Evm" code="01011000">[6v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="01011000">[43r] matins-n3-r11</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See the congruence of Wcb and Evm readings</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat">
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-S Alb2 Evm Wcb"> Confortamini manus fatigatae</rdg>
+         <rdg wit="CAO-L"> Confortate manus fatigatae</rdg>
+         <rdg wit="CAO-D CAO-F Bat"> Confortate manus fatigatas</rdg>
+         <rdg wit="CAO-E"> Confortamini manus fatigatas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-S Alb2 Evm Wcb"> et genua dissoluta roboramini</rdg>
+         <rdg wit="CAO-L Bat"> et genua debilia roborate</rdg>
+         <rdg wit="CAO-D CAO-F"> et genua dissoluta roborate</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R CAO-D Evm Wcb Bat"> qui pusillanimes estis</rdg>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-S CAO-L Alb2"> qui pusillo animo estis</rdg>
+      </app> mente convalescite
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-D CAO-F CAO-S Alb2 Bat"> me timete dicit dominus quia venio disrumpere iugum captivitatis vestrae</rdg>
+         <rdg wit="CAO-E"> me timete dicit dominus quia venio disrumpere captivitatem vestram</rdg>
+         <rdg wit="CAO-L"> ecce deus noster veniet et salvabit nos</rdg>
+         <rdg wit="Evm Wcb"> ecce dominus veniet ut salvos nos faciat</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S Alb2 Bat"> Civitas Jerusalem noli flere
+       <app>
+            <rdg wit="CAO-E CAO-V CAO-F CAO-S Alb2 Bat"> quia cito</rdg>
+            <rdg wit="CAO-D"> quoniam cito</rdg>
+            <rdg wit="CAO-R"> quia ecce</rdg>
+         </app> veniet salus tua</vBody>
+      <vBody type="r" wit="CAO-L Evm Wcb"> Ecce deus vester ultionem adducet retributionis deus ipse veniet</vBody>
+      <rep type="r" wit="CAO-V CAO-R CAO-F Alb2 Bat"> Disrumpere</rep>
+      <rep type="r" wit="Evm Wcb">Ut salvos</rep>
+      <rep type="r" wit="CAO-E CAO-S"> Quia venio</rep>
+      <rep type="r" wit="CAO-D"> Me timete</rep>
+      <rep type="r" wit="CAO-L">Ecce</rep>
+   </verses>
+</res>

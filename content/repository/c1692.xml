@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1691" nextid="c1693" id="c1692">
+   <header>
+      <usage ms="Cht" code="06031000"/>
+      <usage ms="Hyd" code="06031000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-F CAO-D CAO-S CAO-L Hyd Cht">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-H CAO-F"> Benedicat terra domino et omnia nascentia in ea</rdg>
+         <rdg wit="CAO-V CAO-D CAO-S CAO-L"> Benedicat terra dominum et omnia nascentia in ea</rdg>
+         <rdg wit="CAO-C"> Benedicat terra dominum et omnia nascentia</rdg>
+         <rdg wit="Cht Hyd"> Benedicat terra deo et cuncta nascentia in ea</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-F"> hymnum dicat alleluia alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-C CAO-S"> hymnum dicat alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> hynum dicamus deo nostro in aeternum</rdg>
+         <rdg wit="Hyd Cht"> hymnum dicant ei in saecula</rdg>
+      </app>
+   </aBody>
+</ant>

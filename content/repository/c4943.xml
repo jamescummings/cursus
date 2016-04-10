@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4942" nextid="c4944" id="c4943">
+   <header>
+      <usage ms="Hyd" code="08031000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Sicut novit me pater</rdg>
+         <rdg wit="CAO-C"> Sicut misit me pater</rdg>
+      </app> et ego agnosco patrem et animam meam pono pro ovibus meis alleluia</aBody>
+</ant>

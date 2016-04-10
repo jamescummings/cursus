@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3390" nextid="c3392" id="c3391">
+   <header>
+      <usage ms="Alb2" code="02122400">[23v] nones</usage>
+      <usage ms="Cdm" code="02122400">[21r] nones</usage>
+      <usage ms="Ely" code="01042000">[15r] lauds-a1</usage>
+      <usage ms="Evm" code="01044000">[26v] lauds-a2</usage>
+      <usage ms="Evm" code="01045000">[25v] lauds-a2</usage>
+      <usage ms="Hyd" code="01045000">[15v] lauds-a5</usage>
+      <usage ms="Mch" code="01037000">[16r] lauds-a1</usage>
+      <usage ms="Pet" code="01036009">[9r] lauds-a2</usage>
+      <usage ms="Wcb" code="01046000">[51r] lauds-a2</usage>
+      <usage ms="Wor" code="02122400">[13r] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Cdm Mch Ely Wor Wcb Pet">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Cdm Mch Ely Wcb Pet"> Intuemini quantus sit gloriosus iste</rdg>
+         <rdg wit="CAO-M"> Intuimini quantum sit gloriosus iste</rdg>
+         <rdg wit="CAO-V"> Intuemini quantum sit gloriosus iste</rdg>
+         <rdg wit="CAO-C"> Intuemini quantus sit iste gloriosus</rdg>
+      </app> qui ingreditur ad
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-H CAO-D CAO-F CAO-L Alb2 Evm Wcb"> salvandos populos</rdg>
+         <rdg wit="CAO-R Hyd Cdm Ely Wor Pet"> salvandas gentes</rdg>
+         <rdg wit="CAO-V Mch">
+            <corr sic="salvandas">salvandos</corr> populos</rdg>
+      </app>
+   </aBody>
+</ant>

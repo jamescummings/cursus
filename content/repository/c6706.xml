@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6705" nextid="c6707" id="c6706">
+   <rBody wit="CAO-V CAO-R"> Exsurge domine Deus meus et exaltetur manus tua
+      <app>
+         <rdg wit="CAO-V CAO-R"> ne obliviscaris</rdg>
+         <rdg wit="CAO-V">et ne obliviscaris</rdg>
+      </app> pauperum in finem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-R"> Tibi enim derelictus est pauper</vBody>
+      <rep type="r" wit="CAO-R"> Ne</rep>
+      <rep type="r" wit="CAO-V"> In finem</rep>
+   </verses>
+</res>

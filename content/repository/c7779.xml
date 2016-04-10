@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7778" nextid="c7780" id="c7779">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Tribulationes civitatum audivimus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> quas passae sunt</rdg>
+         <rdg wit="CAO-M"> quae passae sunt</rdg>
+      </app> et defecimus timor
+     <app>
+         <rdg wit="CAO-H"> et hebetudo mentis</rdg>
+         <rdg wit="CAO-G CAO-B CAO-R CAO-D"> et hebitudo mentis</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F Hyd"> et ebitudo mentis</rdg>
+         <rdg wit="CAO-C CAO-L"> et <sic resp="Hesbert">tebitudo</sic> mentis</rdg>
+         <rdg wit="CAO-S"> et ebitudo mortis</rdg>
+      </app> cecidit super nos
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd"> et super liberos nostros</rdg>
+         <rdg wit="CAO-R"> et super filios nostros</rdg>
+         <rdg wit="CAO-G"> et super filios liberos nostros</rdg>
+      </app> ipsi montes nolunt recipere fugam nostram domine miserere</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> Peccavimus cum patribus nostris
+      <app>
+            <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-F"> iniuste egimus</rdg>
+            <rdg wit="CAO-S"> impie egimus</rdg>
+            <rdg wit="CAO-B"> an iuste egimus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> iniquitatem fecimus</rdg>
+            <rdg wit="CAO-S"> iniquitatem fecimus domine</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-M"> Peccavimus cum patribus</vBody>
+      <vBody id="c7779-1" type="r" wit="CAO-C"> Peccavimus cum patribus nostris iniuste egimus iniquitatem fecimus</vBody>
+      <rep corresp="c7779-1" type="r" wit="CAO-C">Domine</rep>
+      <vBody type="r" wit="CAO-G Hyd"> Peccavimus impie gessimus iniquitatem fecimus in omnem iustitiam tuam</vBody>
+      <vBody type="r" wit="CAO-L"> Qui regis Israel intende qui deducis velut ovem Joseph qui sedes super cherubim</vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" wit="CAO-V"> Qui regis Israel intende</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F">Domine</rep>
+      <rep type="r" wit="CAO-S">Miserere</rep>
+      <rep type="r" wit="CAO-L">Et super</rep>
+      <rep type="r" wit="CAO-V">Ipsi</rep>
+   </verses>
+</res>

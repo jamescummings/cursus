@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1601" nextid="o1603" id="o1602">
+   <header>
+      <usage ms="Mch" code="06034000">[110r]</usage>
+      <usage ms="Cdm" code="07031000">[65v] nones</usage>
+      <usage ms="Evm" code="07011000"/>
+      <usage ms="Wcb" code="06034000"/>
+   </header>
+   <pBody wit="Evm Wcb Cdm Mch">
+      <app>
+         <rdg wit="Evm">Exaudi domine quaesumus gemitum populi supplicantis</rdg>
+         <rdg wit="Cdm Mch">Exaudi quaesumus domine gemitum populi supplicantis</rdg>
+         <rdg wit="Wcb">Exaudi <add place="interlined" resp="DC" hand="contemp">quaesumus</add> domine gemitum populi supplicantis</rdg>
+      </app> ut qui de meritorum qualitate
+     <app>
+         <rdg wit="Evm"> definimus</rdg>
+         <rdg wit="Wcb Cdm Mch"> diffidimus</rdg>
+      </app> non iudicium<app>
+         <rdg wit="Evm Wcb"> sed misericordiam consequi mereamur</rdg>
+         <rdg wit="Mch"> sed misericordiam consequamur</rdg>
+         <rdg wit="Cdm"> sed indulgentiam sentiamus</rdg>
+      </app>
+   </pBody>
+</prayer>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1672" nextid="o1674" id="o1673">
+   <header>
+      <usage ms="Alb2" code="02010100">[47v] matins-n3</usage>
+      <usage ms="Evm" code="02010100">[58v] vesp1</usage>
+      <usage ms="Hyd" code="02010100">vesp1</usage>
+      <usage ms="Wcb" code="02010100">[65v] vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.13*</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Wcb"> Deus qui nobis nati salvatoris diem celebrare concedis octavum fac nos quaesumus eius perpetua divinitate muniri cuius sumus carnali commercio reparati</pBody>
+</prayer>

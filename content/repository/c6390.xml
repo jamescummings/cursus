@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6389" nextid="c6391" id="c6390">
+   <rBody wit="CAO-G CAO-V CAO-F CAO-S"> Dabit illi
+      <app>
+         <rdg wit="CAO-G CAO-F CAO-S"> dominus Deus</rdg>
+         <rdg wit="CAO-V"> dominus</rdg>
+      </app> sedem David
+      <app>
+         <rdg wit="CAO-G CAO-V CAO-S"> patris sui</rdg>
+         <rdg wit="CAO-F"> patris eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-V CAO-F"> et regnabit</rdg>
+         <rdg wit="CAO-S"> et regnavit</rdg>
+      </app> in domo Jacob in aeternum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-V CAO-F CAO-S"> Et regni eius non erit finis</vBody>
+      <rep type="r" wit="CAO-V CAO-F CAO-S"> Et regnabit</rep>
+   </verses>
+</res>

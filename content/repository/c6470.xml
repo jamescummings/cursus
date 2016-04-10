@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6469" nextid="c6471" id="c6470">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf c6471, distinguished from this by melody only. The version of this text in insular monastic sources is given as respond c9540.  </note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-E CAO-D CAO-L"> Dixit dominus ad Adam de ligno quod est in medio paradisi ne comedas
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-L"> in qua hora</rdg>
+         <rdg wit="CAO-E"> in quacumque hora</rdg>
+      </app> comederis morte morieris</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D"> Ex omni ligno paradisi comede de ligno autem scientiae boni et mali ne comedas</vBody>
+      <vBody type="r" wit="CAO-E CAO-L">
+         <app>
+            <rdg wit="CAO-E"> Praecepitque ei dominus</rdg>
+            <rdg wit="CAO-L"> Praecepitque ei</rdg>
+         </app> dicens ex omni ligno paradisi comede
+      <app>
+            <rdg wit="CAO-E"> de ligno autem</rdg>
+            <rdg wit="CAO-L"> de ligno</rdg>
+         </app> scientiae boni et mali ne comedas</vBody>
+      <rep type="r" wit="CAO-C CAO-D CAO-L">In qua</rep>
+      <rep type="r" wit="CAO-E">In quacumque</rep>
+   </verses>
+</res>

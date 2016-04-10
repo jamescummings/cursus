@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6929" nextid="c6931" id="c6930">
+   <header>
+      <usage ms="Evm" code="02010100">[61r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-M CAO-F Evm">
+      <app>
+         <rdg wit="Evm"> In propria Christus venit</rdg>
+         <rdg wit="CAO-M CAO-F"> In propria venit</rdg>
+      </app> et sui eum non receperunt quotquot autem receperunt eum dedit eis potestatem filios dei fieri
+     <app>
+         <rdg wit="Evm"> qui non ex sanguinibus</rdg>
+         <rdg wit="CAO-M CAO-F"> his qui credunt in nomine eius qui non ex sanguinibus neque ex voluntate carnis neque ex voluntate viri</rdg>
+      </app> sed ex deo nati sunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M"> Et vidimus gloriam eius gloriam quasi unigeniti a patre</vBody>
+      <vBody type="r" wit="CAO-F Evm"> Si autem filii et heredes heredes quidem dei coheredes autem Christi</vBody>
+      <rep type="r" wit="Evm">Quotquot</rep>
+      <rep type="r" wit="CAO-M">Sed ex deo</rep>
+      <rep type="r" wit="CAO-F">Qui non</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+      <rep type="r" num="2" wit="Evm">Qui non</rep>
+   </verses>
+</res>

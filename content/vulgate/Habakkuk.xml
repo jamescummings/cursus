@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Habakkuk">
+<body>
+  <rubric type="bible-incipit" id="B.Habakkuk.incipit.001">
+    <reference>
+      <bookName>Habakkuk</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT ABACUC PROPHETA</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Habakkuk.001.001">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>onus quod vidit Abacuc propheta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.002">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>usquequo Domine clamabo et non exaudies vociferabor ad te vim patiens et non salvabis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.003">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>quare ostendisti mihi iniquitatem et laborem videre praeda et iniustitia contra me et factum est iudicium et contradictio potentior</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.004">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>propter hoc lacerata est lex et non pervenit usque ad finem iudicium quia impius praevalet adversus iustum propterea egreditur iudicium perversum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.005">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>aspicite in gentibus et videte et admiramini et obstupescite quia opus factum est in diebus vestris quod nemo credet cum narrabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.006">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>quia ecce ego suscitabo Chaldeos gentem amaram et velocem ambulantem super latitudinem terrae ut possideat tabernacula non sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.007">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>horribilis et terribilis est ex semet ipsa iudicium et onus eius egredietur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.008">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>leviores pardis equi eius et velociores lupis vespertinis et diffundentur equites eius equites namque eius de longe venient volabunt quasi aquila festinans ad comedendum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.009">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>omnes ad praedam venient facies eorum ventus urens et congregabit quasi harenam captivitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.010">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>et ipse de regibus triumphabit et tyranni ridiculi eius erunt ipse super omnem munitionem ridebit et conportabit aggerem et capiet eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.011">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>tunc mutabitur spiritus et pertransibit et corruet haec est fortitudo eius dei sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.012">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>numquid non tu a principio Domine Deus meus Sancte meus et non moriemur Domine in iudicium posuisti eum et fortem ut corriperes fundasti eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.013">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>mundi sunt oculi tui ne videas malum et respicere ad iniquitatem non poteris quare non respicis super inique agentes et taces devorante impio iustiorem se</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.014">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>et facies homines quasi pisces maris et quasi reptile non habens principem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.015">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>totum in hamo sublevavit traxit illud in sagena sua et congregavit in rete suo super hoc laetabitur et exultabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.016">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>propterea immolabit sagenae suae et sacrificabit reti suo uia in ipsis incrassata est pars eius et cibus eius electus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.001.017">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>propter hoc ergo expandit sagenam suam et semper interficere gentes non parcet</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Habakkuk.002.001">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>super custodiam meam stabo et figam gradum super munitionem et contemplabor ut videam quid dicatur mihi et quid respondeam ad arguentem me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.002">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>et respondit mihi Dominus et dixit scribe visum et explana eum super tabulas ut percurrat qui legerit eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.003">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>quia adhuc visus procul et apparebit in finem et non mentietur si moram fecerit expecta illum quia veniens veniet et non tardabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.004">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>ecce qui incredulus est non erit recta anima eius in semet ipso iustus autem in fide sua vivet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.005">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>et quomodo vinum potantem decipit sic erit vir superbus et non decorabitur qui dilatavit quasi infernus animam suam et ipse quasi mors et non adimpletur et congregabit ad se omnes gentes et coacervabit ad se omnes populos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.006">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>numquid non omnes isti super eum parabolam sument et loquellam enigmatum eius et dicetur vae ei qui multiplicat non sua usquequo et adgravat contra se densum lutum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.007">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>numquid non repente consurgent qui mordeant te et suscitabuntur lacerantes te et eris in rapinam eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.008">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>quia tu spoliasti gentes multas spoliabunt te omnes qui reliqui fuerint de populis propter sanguinem hominis et iniquitatem terrae civitatis et omnium habitantium in ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.009">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>vae qui congregat avaritiam malam domui suae ut sit in excelso nidus eius et liberari se putat de manu mali</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.010">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>cogitasti confusionem domui tuae concidisti populos multos et peccavit anima tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.011">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>quia lapis de pariete clamabit et lignum quod inter iuncturas aedificiorum est respondebit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.012">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>vae qui aedificat civitatem in sanguinibus et praeparat urbem in iniquitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.013">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>numquid non haec a Domino sunt exercituum laborabunt enim populi in multo igni et gentes in vacuum et deficient</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.014">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>quia replebitur terra ut cognoscat gloriam Domini quasi aquae operientes mare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.015">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>vae qui potum dat amico suo mittens fel suum et inebrians ut aspiciat nuditatem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.016">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>repletus est ignominia pro gloria bibe tu quoque et consopire circumdabit te calix dexterae Domini et vomitus ignominiae super gloriam tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.017">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>quia iniquitas Libani operiet te et vastitas animalium deterrebit eos de sanguinibus hominis et iniquitate terrae et civitatis et omnium habitantium in ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.018">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>quid prodest sculptile quia sculpsit illud fictor suus conflatile et imaginem falsam quia speravit in figmento fictor eius ut faceret simulacra muta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.019">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>vae qui dicit ligno expergiscere surge lapidi tacenti numquid ipse docere poterit ecce iste coopertus est auro et argento et omnis spiritus non est in visceribus eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.002.020">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>Dominus autem in templo sancto suo sileat a facie eius omnis terra</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Habakkuk.003.001">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>oratio Abacuc prophetae pro ignorationibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.002">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>Domine audivi auditionem tuam et timui Domine opus tuum in medio annorum vivifica illud in medio annorum notum facies cum iratus fueris misericordiae recordaberis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.003">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>Deus ab austro veniet et Sanctus de monte Pharan semper operuit caelos gloria eius et laudis eius plena est terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.004">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>splendor eius ut lux erit cornua in manibus eius ibi abscondita est fortitudo eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.005">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>ante faciem eius ibit mors et egredietur diabolus ante pedes eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.006">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>stetit et mensus est terram aspexit et dissolvit gentes et contriti sunt montes saeculi incurvati sunt colles mundi ab itineribus aeternitatis eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.007">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>pro iniquitate vidi tentoria Aethiopiae turbabuntur pelles terrae Madian</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.008">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>numquid in fluminibus iratus es Domine aut in fluminibus furor tuus vel in mari indignatio tua quia ascendes super equos tuos et quadrigae tuae salvatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.009">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>suscitans suscitabis arcum tuum iuramenta tribubus quae locutus es semper fluvios scindes terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.010">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>viderunt te et doluerunt montes gurges aquarum transiit dedit abyssus vocem suam altitudo manus suas levavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.011">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>sol et luna steterunt in habitaculo suo in luce sagittarum tuarum ibunt in splendore fulgurantis hastae tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.012">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>in fremitu conculcabis terram in furore obstupefacies gentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.013">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>egressus es in salutem populi tui in salutem cum christo tuo percussisti caput de domo impii denudasti fundamentum usque ad collum semper</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.014">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>maledixisti sceptris eius capiti bellatorum eius venientibus ut turbo ad dispergendum me exultatio eorum sicut eius qui devorat pauperem in abscondito</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.015">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>viam fecisti in mari equis tuis in luto aquarum multarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.016">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>audivi et conturbatus est venter meus ad vocem contremuerunt labia mea ingrediatur putredo in ossibus meis et subter me scateat ut requiescam in die tribulationis ut ascendam ad populum accinctum nostrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.017">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>ficus enim non florebit et non erit germen in vineis mentietur opus olivae et arva non adferent cibum abscidetur de ovili pecus et non erit armentum in praesepibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.018">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>ego autem in Domino gaudebo exultabo in Deo Iesu meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Habakkuk.003.019">
+      <reference>
+        <bookName>Habakkuk</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>Dominus Deus fortitudo mea et ponet pedes meos quasi cervorum et super excelsa mea deducet me victori in psalmis canentem</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Habakkuk.colophon.001">
+    <reference>
+      <bookName>Habakkuk</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT ABACUC PROPHETA</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

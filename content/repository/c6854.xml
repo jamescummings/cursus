@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6853a" nextid="c6855" id="c6854">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Hodie nata est beata Virgo Maria ex progenie David
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> per quam</rdg>
+         <rdg wit="CAO-C CAO-V CAO-S CAO-L"> per quem</rdg>
+         <rdg wit="CAO-M">
+            <corr sic="per quem">per quam</corr>
+         </rdg>
+      </app> salus mundi credentibus apparuit cuius
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> vita</rdg>
+         <rdg wit="CAO-V"> vitam</rdg>
+      </app> gloriosa lucem dedit saeculo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Beatissimae virginis Mariae nativitatem devotissime celebremus
+       <app>
+            <rdg wit="CAO-V"> ut <sic resp="Hesbert">ipsam</sic> pro nobis intercedat ad dominum Jesum Christum</rdg>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Felix certe et omni laude dignissima quae sine humano semine caelestem saeculo protulit panem</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cuius</rep>
+      <rep type="r" wit="CAO-V"> Per quem</rep>
+   </verses>
+</res>

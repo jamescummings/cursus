@@ -1,0 +1,3958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="2Maccabees">
+<body>
+  <rubric type="bible-incipit" id="B.2Maccabees.incipit.001">
+    <reference>
+      <bookName>2Maccabees</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>MACCHABEORUM INCIPIT LIBER SECUNDUS</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.2Maccabees.001.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>fratribus qui sunt per Aegyptum Iudaeis salutem dicunt fratres qui sunt in Hierosolymis Iudaei et qui in regione Iudaeae et pacem bonam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>benefaciat vobis Deus et meminerit testamenti sui quod est ad Abraham et Isaac et Iacob servorum suorum fidelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>et det vobis cor omnibus ut colatis eum et faciatis eius voluntatem corde magno et animo volente</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>adaperiat cor vestrum in lege sua et in praeceptis eius et faciat pacem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>exaudiat orationes vestras et reconcilietur vobis nec vos deserat in tempore malo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et nunc hic sumus orantes pro vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>regnante Demetrio anno centesimo sexagesimo nono nos Iudaei scripsimus vobis in tribulatione et impetu qui supervenit nobis in istis annis ex quo recessit Iason a sancta terra et a regno</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>portam succenderunt et effuderunt sanguinem innocentem et oravimus ad Dominum et exauditi sumus et obtulimus sacrificium et similaginem et accendimus lucernas et proposuimus panes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et nunc frequentate dies scenophegiae mensis casleu</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>anno centesimo octogesimo octavo populus qui est Hierosolymis et in Iudaea senatusque et Iudas Aristobolo magistro Ptolomei regis qui est de genere christorum sacerdotum et his qui in Aegypto sunt Iudaeis salutem et sanitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>de magnis periculis a Deo liberati magnifice gratias ipsi utpote qui adversus talem regem dimicavimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>ipse enim ebullire fecit de Perside eos qui pugnaverunt contra nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>nam cum in Perside esset dux ipse et cum ipso inmensus exercitus cecidit in templo Naneae consilio deceptus sacerdotis Naneae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>ut enim cum ea habitaturus venit ad locum Antiochus et amici eius et ut acciperet pecunias multas dotis nomine</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>cumque proposuissent eas sacerdotes Naneae et ipse cum paucis ingressus esset intra ambitum fani clauserunt templum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>cum intrasset Antiochus apertoque occulto aditu templi mittentes lapides percusserunt ducem et qui cum eo erant et diviserunt membratim et capitibus amputatis foras proiecerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>per omnia benedictus Deus qui tradidit impios</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>facturi igitur quinta et vicesima mensis casleu purificationem templi necessarium duximus significare vobis ut vos quoque agatis diem scenophegiae et diem ignis qui datus est quando Neemias aedificato templo et altari obtulit sacrificia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>nam cum in Persidem ducerentur patres nostri sacerdotes qui tunc Dei cultores erant acceptum ignem de altario occulte absconderunt in valle ubi erat puteus altus siccus et in eo contutati sunt eum ita ut omnibus ignotus esset locus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>cum praeterissent autem multi anni et placuit Deo ut mitteretur Neemias a rege Persidis nepotes sacerdotum illorum qui absconderant misit ad requirendum ignem et sicut narraverunt nobis non invenerunt ignem sed aquam crassam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>et iussit eos haurire et adferre sibi et sacrificia quae inposita erant iussit sacerdos Neemias aspargi aqua ipsa et ligna et quae erant superposita</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>utque hoc factum est et tempus adfuit quo sol refulsit qui prius erat in nubilo accensus est ignis magnus ita ut omnes mirarentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>orationem autem faciebant omnes sacerdotes dum consummaretur sacrificium Ionatha inchoante ceteris autem respondentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>et Neemiae erat oratio hunc habens modum Domine Deus omnium creator terribilis et fortis iustus et misericors qui solus es rex bonus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>solus praestans solus iustus et omnipotens et aeternus qui liberas Israhel de omni malo qui fecisti patres electos et sanctificasti eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:26</verseNum>
+      </reference>
+      <l>accipe sacrificium pro universo populo tuo Israhel et custodi partem tuam et sanctifica</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:27</verseNum>
+      </reference>
+      <l>congrega dispersionem nostram libera eos qui serviunt gentibus contemptos et abominatos respice ut sciant gentes quod tu es Deus noster</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:28</verseNum>
+      </reference>
+      <l>adflige opprimentes et contumeliam facientes in superbia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:29</verseNum>
+      </reference>
+      <l>constitue populum tuum in loco sancto tuo sicut dixit Moses</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:30</verseNum>
+      </reference>
+      <l>sacerdotes autem psallebant hymnos usquequo consumptum esset sacrificium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:31</verseNum>
+      </reference>
+      <l>cum autem consummatum fuisset sacrificium ex residua aqua Neemias iussit lapides maiores perfundi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:32</verseNum>
+      </reference>
+      <l>quod ut factum est flamma ex eis accensa est sed ex lumine quod refulsit ab altari consumpta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:33</verseNum>
+      </reference>
+      <l>ut vero manifestata essent haec renuntiatum est regi Persarum quod in loco in quo ignem absconderant hii qui translati erant sacerdotes aqua apparuit de qua Neemias et qui cum eo erant purificaverunt sacrificia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:34</verseNum>
+      </reference>
+      <l>considerans autem rex et rem diligenter examinans fecit ei templum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:35</verseNum>
+      </reference>
+      <l>et si quibus donaverat rex multa bona accipiebat ex hoc et tribuebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.001.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>1:36</verseNum>
+      </reference>
+      <l>appellavit autem Neemias hoc Nepthar quod interpretatur purificatio vocatur autem apud plures Nephi</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.2Maccabees.002.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>invenitur autem in descriptionibus Hieremiae prophetae quod iussit accipere ignem eos qui transmigrabantur ut significatum est et ut mandavit transmigratis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>et dedit illis legem ne obliviscerentur praecepta Domini et ut non exerrarent mentibus videntes simulacra aurea et argentea et ornamenta eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>et alia huiuscemodi dicens hortabatur ne legem amoverent a corde suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>erat autem in ipsa scriptura quomodo tabernaculum et arcam iussit propheta divino responso ad se facto comitari secum usquequo exiit in montem in quo Moses ascendit et vidit Dei hereditatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>et veniens ibi Hieremias invenit locum speluncae et tabernaculum et arcam et altare incensi intulit illuc et ostium obstruxit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>et accesserunt quidam simul qui sequebantur ut notarent sibi locum et non potuerunt invenire</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>ut autem cognovit Hieremias culpans illos dixit quod ignotus erit locus donec congreget Deus congregationem populi et propitius fiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>et tunc Dominus ostendet haec et apparebit maiestas Domini et nubes erit sicut et Mosi manifestabatur et sicut cum Salomon petiit ut locus sanctificaretur magno Deo manifestabat haec</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>et ut sapientiam habens obtulit sacrificium dedicationis et consummationis templi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>sicut et Moses orabat ad Dominum et descendit ignis de caelo et consumpsit holocaustum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>et dixit Moses eo quod non sit mundatum quod erat pro peccato et consumptum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>similiter et Salomon octo diebus celebravit dedicationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>inferebantur autem in descriptionibus et commentariis Neemiae haec eadem et ut construens bibliothecam congregavit de regibus libros et prophetarum et David et epistulas regum et de donariis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>similiter autem et Iudas ea quae didicerat per bellum quod nobis acciderat congregavit omnia et sunt apud nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>si ergo desiderastis haec mittite qui perferant vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>acturi itaque purificationem scripsimus vobis bene igitur facietis si egeritis hos dies</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>Deus autem qui liberavit populum suum et reddidit hereditatem omnibus et regnum et sacerdotium et sanctificationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>sicut promisit in lege speramus quod cito nostri miserebitur et congregabit de sub caelo in locum sanctum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>eripuit enim nos de magnis periculis et locum purgavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>de Iuda vero Macchabeo et fratribus eius et de templi magni purificatione et de arae dedicatione</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>sed et de proeliis quae pertinent ad Antiochum Nobilem et filium eius Eupatorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>et de inluminationibus quae de caelo factae sunt ad eos qui pro Iudaeis fortiter fecerunt ita ut universam regionem cum pauci essent vindicarent et barbaram multitudinem fugarent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>et famosissimum in toto orbe templum recuperarent et civitatem liberarent ut leges quae abolendae erant restituerentur Domino cum omni tranquillitate propitio facto illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>itemque ab Iasone Cyreneo quinque libris conprehensa temptavimus nos uno volumine breviare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>considerantes enim multitudinem librorum et difficultatem volentibus adgredi narrationes historiarum propter multitudinem rerum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:26</verseNum>
+      </reference>
+      <l>curavimus volentibus quidem legere ut esset animi oblectatio studiosis vero ut facile possint memoriae commendare omnibus autem legentibus utilitas conferatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:27</verseNum>
+      </reference>
+      <l>et nobis quidem ipsis qui opus hoc breviandi causa suscepimus non facilem laborem immo vero negotium plenum vigiliarum et sudoris adsumpsimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:28</verseNum>
+      </reference>
+      <l>sicut hii qui praeparant convivium et quaerunt aliorum voluntati parere propter multorum gratiam libenter laborem sustinemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:29</verseNum>
+      </reference>
+      <l>veritatem quidem de singulis auctori concedentes ipsi autem secundum datam formam brevitati studentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:30</verseNum>
+      </reference>
+      <l>sicut enim novae domus architecto de universa structura curandum est ei vero qui pingere conatur quae apta sunt ad ornatum exquirenda sunt ita aestimandum est et in nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:31</verseNum>
+      </reference>
+      <l>etenim intellectum colligere et ordinare sermonem et curiosius partes singulas quasque disquaerere historiae congruit auctori</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:32</verseNum>
+      </reference>
+      <l>brevitatem vero dictionis sectari et exsecutiones rerum vitare brevitati concedendum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.002.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>2:33</verseNum>
+      </reference>
+      <l>hinc igitur narrationem incipiemus de praefatione tantum dixisse sufficiat stultum etenim est ante historiam effluere in ipsa autem historia succingi</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.2Maccabees.003.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>igitur cum sancta civitas habitaretur in omni pace leges etiam adhuc optime custodirentur propter Oniae pontificis pietatem et animos odio habentes mala</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>fiebat ut ipsi reges et principes locum summo honore dignum ducerent et templum maximis muneribus inlustrarent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>ita ut Seleucus Asiae rex de reditibus suis praestaret omnes sumptus ad ministerium sacrificiorum pertinentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>Simon autem de tribu Beniamin praepositus templi constitutus contendebat obsistente sibi principe sacerdotum iniquum aliquid in civitate moliri</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>sed cum vincere Onian non posset venit ad Apollonium Tharseae filium qui illo tempore erat dux Coelesyriae et Foenicis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>et nuntiavit ei pecuniis innumerabilibus plenum esse aerarium Hierosolymis et communes copias inmensas esse quae non pertinent ad rationem sacrificiorum esse autem possibile sub potestate regis cadere universa</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>cumque rettulisset Apollonius ad regem de pecuniis quae delatae erant ille accitum Heliodorum qui erat super negotia eius misit cum mandatis ut praedictam pecuniam transportaret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>statimque Heliodorus iter adgressus specie quidem quasi per Coelesyriam et Foenicen civitates esset peragraturus re autem vera regis propositum perfecturus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>sed cum venisset Hierosolymam et benigne a summo sacerdote in civitate esset exceptus narravit de dato indicio pecuniarum et cuius rei gratia adesset apparuit interrogabat autem si vere haec ita essent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>tunc summus sacerdos ostendit deposita esse haec et victualia viduarum ac pupillorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>quaedam vero esse Hircani Tobiae viri valde eminentis in his quae detulerat impius Simon universa autem argenti talenta quadringenta esse et auri ducenta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>decipi vero eos qui credidissent loco et templo quod per universum mundum honoratur pro sui veneratione et sanctitate inpossibile omnino esse</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>at ille pro his quae habebat in mandatis a rege dicebat omni genere regiae deferenda</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>constituta autem die intrabat de his Heliodorus ordinaturus non modica vero per universam civitatem erat trepidatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>sacerdotes autem ante altare cum sacerdotalibus stolis iactaverunt se et invocabant de caelo eum qui de depositis legem posuit ut his qui deposuerant ea salva custodiret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>iam vero qui videret summi sacerdotis vultum mente vulnerabatur facies enim et color inmutatus declarabat internum animi dolorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>circumfusa enim erat viro maestitia quaedam et horror corporis per quae manifestus aspicientibus dolor cordis eius efficiebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>alii etiam congregati de domibus confluebant publica supplicatione obsecrantes pro eo quod in contemptum locus esset venturus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>accinctaeque mulieres ciliciis pectus per plateas confluebant sed et virgines quae conclusae erant procurrebant ad Onian aliae autem ad muros quaedam vero per fenestras aspiciebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>universae autem protendentes manus in caelum deprecabantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>erat enim misera commixtae multitudinis et magni sacerdotis in agone constituti expectatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:22</verseNum>
+      </reference>
+      <l>et hii quidem invocabant omnipotentem Deum ut credita sibi his qui crediderant cum omni integritate conservarentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:23</verseNum>
+      </reference>
+      <l>Heliodorus autem quod decreverat perficiebat eodem loco ipse cum satellitibus circa aerarium praesens</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:24</verseNum>
+      </reference>
+      <l>sed spiritus Omnipotentis magnam fecit suae ostensionis evidentiam ita ut omnes qui ausi fuerant parere ei ruentes Dei virtute in dissolutionem et formidinem converterentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:25</verseNum>
+      </reference>
+      <l>apparuit enim illis quidam equus terribilem habens sessorem optimis operimentis adornatus isque cum impetu Heliodoro priores calces elisit qui autem ei sedebat videbatur arma habere aurea</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:26</verseNum>
+      </reference>
+      <l>alii etiam apparuerunt duo iuvenes virtute decori optimi gloria speciosique amictu qui circumsteterunt eum et ex utraque parte flagellabant sine intermissione multis plagis verberantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:27</verseNum>
+      </reference>
+      <l>subito autem Heliodorus concidit in terram eumque multa caligine circumfusum rapuerunt atque in sella gestatoria positum eiecerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:28</verseNum>
+      </reference>
+      <l>et is qui cum multis cursoribus et satellitibus praedictum ingressus est aerarium portabatur nullo sibi auxilium ferente manifesta cognita Dei virtute</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:29</verseNum>
+      </reference>
+      <l>et ille quidem per divinam virtutem iacebat mutus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:30</verseNum>
+      </reference>
+      <l>hii autem Dominum benedicebant quia magnificavit locum suum et templum quod paulo ante timore ac tumultu erat plenum apparente omnipotente Domino gaudio et laetitia impletum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:31</verseNum>
+      </reference>
+      <l>tunc vero ex amicis Heliodori quidam rogabant confestim Onian ut invocaret Altissimum et vitam donaret ei qui in supremo spiritu erat constitutus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:32</verseNum>
+      </reference>
+      <l>considerans autem summus sacerdos ne forte rex suspicaretur malitiam aliquam ex Iudaeis circa Heliodorum consummatam obtulit pro salute viri hostiam salutarem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:33</verseNum>
+      </reference>
+      <l>cumque summus sacerdos exoraret idem iuvenes eisdem vestibus amicti adstantes Heliodoro dixerunt Oniae sacerdoti gratias age nam propter eum tibi Dominus vitam donavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:34</verseNum>
+      </reference>
+      <l>tu autem ab eo flagellatus nuntia omnibus magnalia Dei et potestatem et his dictis non conparuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:35</verseNum>
+      </reference>
+      <l>Heliodorus autem hostia Deo oblata et votis magnis promisit ei qui vivere illi concessit et Oniae gratias agens recepto exercitu repedabat ad regem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:36</verseNum>
+      </reference>
+      <l>testabatur autem omnibus ea quae sub oculis suis viderat opera magni Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.037">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:37</verseNum>
+      </reference>
+      <l>cum autem rex interrogasset Heliodorum quis est aptus adhuc semel Hierosolymam mitti ait</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.038">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:38</verseNum>
+      </reference>
+      <l>si quem habes hostem aut regni tui insidiatorem mitte illuc et flagellatum eum recipies si tamen evaserit eo quod in loco vere sit Dei quaedam virtus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.039">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:39</verseNum>
+      </reference>
+      <l>nam ipse qui habet in caelis habitationem visitator et adiutor est loci illius et venientes ad malefaciendum percutit ac perdit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.003.040">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>3:40</verseNum>
+      </reference>
+      <l>igitur de Heliodoro et aerarii custodia ita se res habet</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.2Maccabees.004.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>Simon autem praedictus pecuniarum et patriae delator male loquebatur de Onia tamquam ipse Heliodorum instigasset ad haec et ipse fuisset incentor malorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>provisoremque civitatis ac defensorem gentis suae et aemulatorem legis Dei audebat insidiatorem regni dicere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>sed cum inimicitiae in tantum procederent ut etiam per quosdam Simonis necessarios homicidia fierent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>considerans Onias periculum contentionis et Apollonium insanire utpote ducem Coelesyriae et Foenicis ad augendam malitiam Simonis ad regem se contulit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>non ut civium accusator sed communem utilitatem apud semet ipsum universae multitudinis considerans</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>videbat enim sine regali providentia inpossibile esse pacem rebus dari nec Simonem posse cessare ab stultitia sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>sed post Seleuci vitae excessum cum suscepisset regnum Antiochus qui Nobilis appellabatur ambiebat Iason frater Oniae summum sacerdotium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>adito rege promittens ei argenti talenta sexaginta et trecenta et ex reditibus aliis talenta octoginta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>super haec promittebat et alia centum quinquaginta si potestati eius concederetur gymnasium et ephoebian sibi constituere et eos qui in Hierosolymis erant Antiochenos scribere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>quod cum rex agnovisset et obtinuisset principatum statim ad gentilem ritum contribules suos transferre coepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>et amotis his quae humanitatis causa Iudaeis a regibus fuerant constituta per Iohannem patrem Eupolemi qui apud Romanos de amicitia et societate functus est legationem legitimam civium iura destituens prava instituta sancibat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>etenim ausus est sub ipsa arce gymnasium constituere et optimos quosque ephoeborum in lupanaribus ponere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>erat autem hoc non initium sed incrementum quoddam et profectus gentilis et alienigenae conversationis propter impii et non sacerdotis Iasonis nefarium et inauditum scelus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>ita ut sacerdotes iam non circa altaris officia dediti essent sed contempto templo et sacrificiis neglectis festinarent participes fieri palestrae et praebitionis eius iniustae et in exercitiis disci</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>et patrios quidem honores nihil habentes graecas glorias optimas arbitrabantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>quarum gratia periculosa eos contentio habebat et eorum instituta aemulabantur ac per omnia his consimiles esse cupiebant quos hostes et peremptores habuerant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>in leges enim divinas impie agere inpune non cedit sed haec sequens tempus declaravit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>cum autem quinquennalis agon Tyro celebraretur et rex praesens esset</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>misit Iason facinorosus ab Hierosolymis viros peccatores portantes argenti didragmas trecentas in sacrificiis Herculis quas postulaverunt hii qui adportaverant ne in sacrificiis erogarentur quia non oporteret sed in alios sumptus eas deputari</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>sed haec oblata sunt quidem ab eo qui miserat in sacrificium Herculis propter praesentes autem datae sunt in fabricam navium triremis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:21</verseNum>
+      </reference>
+      <l>misso autem in Aegypto Apollonio Mnesthei filio propter primatus Filometoris regis cum cognovisset Antiochus alienum se a negotiis regni effectum propriis utilitatibus consulens profectus inde venit Ioppen et inde Hierosolymam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:22</verseNum>
+      </reference>
+      <l>et magnifice ab Iasone et civitate susceptus cum facularum luminibus et laudibus ingressus est et inde Foenicen exercitum convertit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:23</verseNum>
+      </reference>
+      <l>et post triennii tempus misit Iason Menelaum supradicti Simonis fratrem portantem pecunias regi et de negotiis necessariis responsa perlaturum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:24</verseNum>
+      </reference>
+      <l>at ille commendatus regi cum magnificasset faciem potestatis eius in semet ipsum retorsit summum sacerdotium superponens Iasonem talenta argenti trecenta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:25</verseNum>
+      </reference>
+      <l>acceptisque a rege mandatis venit nihil quidem dignum habens sacerdotio animos vero crudelis tyranni et ferae beluae iram gerens</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:26</verseNum>
+      </reference>
+      <l>et Iason quidem qui proprium fratrem captivaverat ipse deceptus profugus in ammaniten expulsus est regionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:27</verseNum>
+      </reference>
+      <l>Menelaus autem principatum quidem obtinuit de pecuniis vero regi promissis nihil agebat cum exactionem faceret Sostratus qui arce erat praepositus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:28</verseNum>
+      </reference>
+      <l>nam ad hunc exactio vectigalium pertinebat quam ob causam utrique ad regem vocati</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:29</verseNum>
+      </reference>
+      <l>Menelaus motus est sacerdotio succedente Lysimacho fratre suo Sostratus autem praelatus est Cypris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:30</verseNum>
+      </reference>
+      <l>et cum haec agerentur contigit Tarsenses et Mallotas seditionem movere eo quod Antiochidi concubinae regis dono essent dati</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:31</verseNum>
+      </reference>
+      <l>festinanter itaque rex venit sedare illos relicto suffecto uno ex comitibus suis Andronico</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:32</verseNum>
+      </reference>
+      <l>ratus autem Menelaus accepisse se tempus oportunum aurea quaedam vasa templo furatus donavit Andronico et alia vendiderat Tyro et per vicinas civitates</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:33</verseNum>
+      </reference>
+      <l>quod cum certissime cognovisset Onias arguebat eum ipse in loco tuto se continens Antiochiae secus Dafnen</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:34</verseNum>
+      </reference>
+      <l>unde Menelaus accedens ad Andronicum rogabat ut Onian interficeret qui cum venisset ad Onian et datis dextris cum iureiurando quamvis esset ei suspectus suasisset asylo procedere statim eum peremit non veritus iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:35</verseNum>
+      </reference>
+      <l>ob quam causam non solum Iudaei sed et aliae quoque nationes indignabantur et moleste ferebant de nece tanti viri iniusta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:36</verseNum>
+      </reference>
+      <l>sed regressum regem de Ciliciae locis adierunt Iudaei apud Antiochiam simul et Graeci conquerentes de iniqua nece Oniae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.037">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:37</verseNum>
+      </reference>
+      <l>contristatus itaque ad animam Antiochus et flexus ad misericordiam lacrimas fudit recordatus defuncti sobrietatem et modestiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.038">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:38</verseNum>
+      </reference>
+      <l>accensusque animis Andronicum purpura exutum circumduci per totam civitatem iubet et eodem loco quo in Onian impietatem commiserat sacrilegum vita privari Domino illi dignam poenam tribuente</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.039">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:39</verseNum>
+      </reference>
+      <l>multis autem sacrilegiis in templo a Lysimacho commissis Menelai consilio et divulgata fama congregata est multitudo adversus Lysimachum multo iam auro exportato</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.040">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:40</verseNum>
+      </reference>
+      <l>turbis autem insurgentibus et animis ira repletis Lysimachus armatis fere tribus milibus iniquis manibus uti coepit duce quodam Tyranno aetate pariter et dementia provecto</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.041">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:41</verseNum>
+      </reference>
+      <l>sed ut intellexerunt conatum Lysimachi alii lapides alii fustes validos arripere quidam vero cinerem in Lysimachum iacere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.042">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:42</verseNum>
+      </reference>
+      <l>et multi quidem vulnerati quidam autem et prostrati omnes vero in fugam versi sunt ipsum etiam sacrilegum secus aerarium interfecerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.043">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:43</verseNum>
+      </reference>
+      <l>de his ergo coepit iudicium adversus Menelaum agitari</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.044">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:44</verseNum>
+      </reference>
+      <l>et cum venisset rex Tyrum ad ipsum negotium detulerunt missi viri tres a senioribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.045">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:45</verseNum>
+      </reference>
+      <l>et cum superaretur Menelaus promisit Ptolomeo multas pecunias ad suadendum regi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.046">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:46</verseNum>
+      </reference>
+      <l>itaque Ptolomeus in quodam atrio positum quasi refrigerandi gratia regem adiit et a sententia deduxit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.047">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:47</verseNum>
+      </reference>
+      <l>et Menelaum quidem universae malitiae reum criminibus absolvit miseros autem qui etiam si apud Scytas causam dixissent innocentes iudicarentur morte damnavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.048">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:48</verseNum>
+      </reference>
+      <l>cito ergo iniustam poenam dederunt qui pro civitate et populo et sacris vasis causam prosecuti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.049">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:49</verseNum>
+      </reference>
+      <l>quam ob rem Tyri quoque indignati erga sepulturam eorum liberalissimi extiterunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.004.050">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>4:50</verseNum>
+      </reference>
+      <l>Menelaus autem propter eorum qui in potentia erant avaritiam permanebat in potestate crescens in malitia et ad insidias civium</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.2Maccabees.005.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>eodem tempore Antiochus secundam profectionem paravit in Aegyptum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>contigit autem per universam Hierosolymorum civitatem videri diebus quadraginta per aera equites discurrentes auratas stolas habentes et hastis quasi cohortes armatas</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>et cursus equorum per ordines digestos et congressiones fieri comminus et scutorum motus et galeatorum multitudinem gladiis destrictis et telorum iactus et aureorum armorum splendorem omnisque generis loricarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>quapropter omnes rogabant in bonum monstra converti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>sed cum falsus rumor exisset tamquam vita excessisset Antiochus adsumptis Iason non minus mille viris repente adgressus est civitatem et civibus ad murum convolantibus ad ultimum adprehensa civitate Menelaus fugit in arcem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>Iason vero non parcebat in caede civibus suis nec cogitabat prosperitatem adversus cognatos malum esse maximum arbitrans hostium et non civium se tropea capturum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>et principatum quidem non obtinuit finem vero insidiarum suarum confusione cepit et profugus iterum abiit in Ammaniten</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>ad ultimum in exitum sui conclusus ab Areta Arabum tyrannum fugiens de civitate in civitatem omnibus odiosus ut refuga legum et execrabilis ut patriae et civium hostis in Aegyptum extrusus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>et qui multos de patria expulerat peregre periit Lacedemonas profectus quasi pro cognatione ibi refugium habiturus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>et qui insepultos abiecerat multos ipse et inlamentatus et insepultus abicitur sepultura neque peregrina usus neque patrio sepulchro participans</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>his ita gestis suspicatus est rex societatem deserturos Iudaeos et ob hoc profectus ex Aegypto efferatis animis civitatem quidem armis cepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>iussit autem militibus interficere nec parcere occursantibus et per domos ascendentes trucidare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>fiebant ergo caedes iuvenum ac seniorum mulierum et natorum exterminia virginumque et parvulorum neces</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>erant autem toto triduo octoginta milia interfecti quadraginta milia vincti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>sed nec ista sufficiunt ausus est intrare templum universa terra sanctius Menelao ductore qui legum et patriae fuit proditor</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>et scelestis manibus sumens sancta vasa quae ab aliis regibus et civitatibus erant posita ad ornatum loci et gloriam contrectabat indigne et contaminabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>ita alienatus mente Antiochus non considerabat quod propter peccata habitantium civitatem modicum Dominus fuerat iratus propter quod et accidit circa locum despectio</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>alioquin nisi contigisset eos multis peccatis esse involutos sicut Heliodorus qui missus est a Seleuco rege ad expoliandum aerarium etiam hic statim adveniens flagellatus et repulsus utique fuisset ab audacia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>verum non propter locum gentem sed propter gentem locum Dominus elegit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>ideoque et ipse locus particeps factus est populi malorum postea autem fiet socius et bonorum et qui derelictus in ira Dei omnipotentis iterum in magni Domini reconciliatione cum summa gloria exaltabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>igitur Antiochus mille et octingentis ablatis de templo talentis velociter Antiochiam regressus est existimans se prae superbia terram ad navigandum pelagus vero ad iter agendum deducturum propter mentis elationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>reliquit autem et praepositos ad adfligendam gentem Hierosolymis quidem Philippum genere Frigem moribus crudeliorem eo ipso a quo constitutus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>in Garizin autem Andronicum et Menelaum qui gravius quam ceteri inminebant civibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>cumque adpositus esset contra Iudaeos misit odiosum principem Apollonium cum exercitu viginti et duobus milibus praecipiens ei omnes perfectae aetatis interficere mulieres ac iuvenes vendere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:25</verseNum>
+      </reference>
+      <l>qui cum venisset Hierosolymam pacem simulans quievit usque ad sanctum diem sabbati et tunc feriatis Iudaeis arma capere suis praecepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:26</verseNum>
+      </reference>
+      <l>omnesque qui ad spectaculum processerant trucidavit et civitatem cum armatis discurrens ingentem multitudinem peremit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.005.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>5:27</verseNum>
+      </reference>
+      <l>Iudas autem Macchabeus qui decimus fuerat secesserat in desertum locum ibique inter feras vitam in montibus cum suis agebat et faeni cibo vescentes demorabantur ne participes essent coinquinationis</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.2Maccabees.006.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>sed non post multum temporis misit rex senem quendam antiochenum qui conpelleret Iudaeos ut se transferrent a patriis et Dei legibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>contaminare etiam quod in Hierosolymis erat templum et cognominare Iovis Olympii et in Garizin prout erant hii qui locum inhabitabant Iovis Hospitalis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>pessima autem universis et gravis malorum erat incursio</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>nam templum luxuria et comesationibus erat plenum et scortantium cum meretricibus sacratisque aedibus mulieres se ultro ingerebant intro ferentes ea quae non licebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>altare etiam plenum erat inlicitis quae legibus prohibebantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>neque autem sabbata custodiebantur neque dies sollemnes patrii servabantur nec simpliciter se quisquam Iudaeum esse confitebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>ducebantur autem cum amara necessitate in die natalis regis ad sacrificia et cum Liberi sacra celebrarentur cogebantur hedera coronati Libero circumire</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>decretum autem exiit in proximas gentilium civitates suggerentibus Ptolomeis ut pari modo et ipsi adversus Iudaeos agerent ut sacrificarent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>eos autem qui nollent transire ad instituta gentilium interficerent erat ergo videre miseriam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>duae enim mulieres delatae sunt natos suos circumcidisse quas infantibus ad ubera suspensis cum publice per civitatem circumduxissent per muros praecipitaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>alii vero ad proximas coeuntes speluncas et latenter sabbati diem celebrantes cum indicati essent Philippo flammis succensi sunt eo quod verebantur propter religionem et observantiam manu sibimet auxilium ferre</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>obsecro autem eos qui hunc librum lecturi sunt ne abhorrescant propter adversos casus sed reputent ea quae acciderunt non ad interitum sed ad correptionem generis esse nostri</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>etenim multo tempore non sinere peccatoribus ex sententia agere sed statim ultiones adhibere magni beneficii est indicium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>non enim sicut in aliis nationibus Dominus patienter expectat ut eas cum iudicii dies venerit in plenitudine peccatorum puniat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>ita et in nobis statuit ut peccatis nostris in finem devolutis ita demum in nos vindicet</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>propter quod numquam quidem a nobis misericordiam suam amovet corripiens vero in adversis populum suum non derelinquit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>sed haec nobis ad commonitionem legentium dicta sint paucis iam autem veniendum est ad narrationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>igitur Eleazarus de primoribus scribarum vir aetate provectus et vultu decorus aperto ore hians conpellebatur carnem porcinam manducare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>at ille gloriosam mortem magis quam odibilem vitam amplectens voluntarie praeibat ad supplicium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>intuens autem quemadmodum oportet accedere patienter sustinens destinavit non admittere inlicita propter vitae amorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>hii autem qui adstabant iniqua miseratione commoti propter antiquam viri amicitiam tollentes eum secreto rogabant adferri carnes quibus vesci ei licebat et simularetur manducasse sicut rex imperaverat de sacrificii carnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:22</verseNum>
+      </reference>
+      <l>ut hoc facto a morte liberaretur et propter veterem amicitiam hanc in eo facerent humanitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:23</verseNum>
+      </reference>
+      <l>at ille cogitationem cepit aetatis ac senectutis suae eminentiam dignam et ingenuitatem nobilitatis canitiem atque a puero optimae conversationis et secundum sanctae et a Deo conditae legis constituta respondit cito dicens praemitti se velle in infernum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:24</verseNum>
+      </reference>
+      <l>non enim aetatem nostram dignum est inquit fingere ut multi adulescentium arbitrati Eleazarum nonaginta annorum transisse ad vitam alienigenarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:25</verseNum>
+      </reference>
+      <l>et ipsi propter meam simulationem et propter modicum corruptibilis vitae tempus decipiantur et per hoc maculam atque execrationem meae senectuti conquiram</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:26</verseNum>
+      </reference>
+      <l>nam et si in praesenti tempore suppliciis hominum eripiar sed manus Omnipotentis neque vivens neque defunctus effugiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:27</verseNum>
+      </reference>
+      <l>quam ob rem fortiter vitam excedendo senectute quidem dignus apparebo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:28</verseNum>
+      </reference>
+      <l>adulescentibus autem exemplum forte relinquam si prompto animo ac fortiter pro gravissimis et sanctissimis legibus honesta morte perfungar his dictis confestim ad supplicium trahebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:29</verseNum>
+      </reference>
+      <l>hii autem qui eum ducebant et paulo ante fuerant mitiores in iram versi sunt propter sermones ab eo dictos quos illi per arrogantiam prolatos arbitrabantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:30</verseNum>
+      </reference>
+      <l>sed cum plagis perimeretur ingemuit et dixit Domine qui habes sanctam scientiam manifeste scis tu quia cum a morte possim liberari duros corporis sustineo dolores secundum animam vero propter timorem tuum libenter haec patior</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.006.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>6:31</verseNum>
+      </reference>
+      <l>et iste quidem hoc modo vita decessit non solum iuvenibus sed et universae genti memoriam mortis suae ad exemplum virtutis et fortitudinis derelinquens</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.2Maccabees.007.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>contigit autem et septem fratres cum matre adprehensos conpelli a rege contra fas ad carnes porcinas flagris et taureis cruciatos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>unus autem ex illis qui erat primus sic ait quid quaeris et quid vis discere a nobis parati sumus mori magis quam patrias Dei leges praevaricari</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>iratus itaque rex iussit sartagines et ollas aeneas succendi quibus statim succensis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>iussit ei qui prior fuerat locutus amputari linguam et cute capitis abstracta summas quoque manus ei et pedes praecidi ceteris eius fratribus et matre inspicientibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>et cum iam per omnia inutilis factus esset iussit ignem admoveri et adhuc spirantem torreri in sartaginem in qua cum diu cruciaretur ceteri una cum matre invicem se hortabantur mori fortiter</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>dicentes Dominus Deus aspiciat veritatem et consolabitur in nobis quemadmodum protestationem cantici declaravit Moses et in servis suis consolabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>mortuo itaque primo illo hoc modo sequentem deducebant ad inludendum et cute capitis eius cum capillis detracta interrogabant si manducaret priusquam toto corpore per membra singula puniretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>at ille respondens patria voce dixit non faciam propter quod et iste sequenti loco primi tormenta suscepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>et in ultimo spiritu constitutus ait tu quidem scelestissime in praesenti vita nos perdis sed rex mundi defunctos nos pro suis legibus in aeternae vitae resurrectione suscitabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>post hunc tertius inludebatur et linguam postulatus cito protulit et manus constanter extendit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>et cum fiducia ait e caelo ista possideo sed propter Dei leges nunc haec ipsa despicio quoniam ab ipso me ea recepturum spero</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>ita ut rex et qui cum ipso erant mirarentur adulescentis animum quod tamquam nihili duceret cruciatus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>et hoc ita defuncto quartum similiter vexabant torquentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>et cum iam esset ad mortem sic ait potius est ab hominibus morti datos spem expectare a Deo iterum ab ipso resuscitandos tibi enim resurrectio ad vitam non erit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>et cum admovissent quintum vexabant eum at ille respiciens in eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>dixit potestatem inter homines habens cum sis corruptibilis facis quod vis noli autem putare genus nostrum a Deo esse derelictum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>patienter sustine et videbis magna potestas ipsius qualiter te et semen tuum torquebit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:18</verseNum>
+      </reference>
+      <l>post hunc ducebant et sextum et is mori incipiens sic ait noli frustra errare nos enim propter nosmet ipsos haec patimur peccantes in Deum nostrum et digna admiratione facta sunt in nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:19</verseNum>
+      </reference>
+      <l>tu autem ne existimes tibi inpune futurum quod contra Deum pugnare temptaveris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:20</verseNum>
+      </reference>
+      <l>supra modum autem mater mirabilis et bonorum memoria digna quae pereuntes septem filios sub unius diei tempore conspiciens bono animo ferebat propter spem quam in Deum habebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:21</verseNum>
+      </reference>
+      <l>singulos illorum hortabatur patria voce fortiter repleta sapientia et femineae cogitationi masculinum animum inserens</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:22</verseNum>
+      </reference>
+      <l>dixit ad eos nescio qualiter in utero meo apparuistis neque enim ego spiritum et animam donavi vobis et vitam et singulorum membra non ego ipsa conpegi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:23</verseNum>
+      </reference>
+      <l>sed enim mundi creator qui formavit hominis nativitatem quique omnium invenit originem et spiritum vobis iterum cum misericordia reddet et vitam sicut nunc vosmet ipsos despicitis propter leges eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:24</verseNum>
+      </reference>
+      <l>Antiochus autem contemni se arbitratus simul et exprobrantis voce despecta cum adhuc adulescentior superesset non solum verbis hortabatur sed et iuramento adfirmabat divitem se et beatum facturum et translatum a patriis legibus amicum habiturum et res necessarias praebiturum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:25</verseNum>
+      </reference>
+      <l>sed ad ista cum adulescens nequaquam inclinaretur vocavit rex matrem et suadebat ut adulescenti fieret in salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:26</verseNum>
+      </reference>
+      <l>cum autem multis eam verbis esset hortatus promisit suasuram se filio suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:27</verseNum>
+      </reference>
+      <l>itaque inclinata ad illum inridens crudelem tyrannum ait patria voce fili mi miserere mei quae te in utero decem menses portavi et lac triennio dedi et alui et in aetatem istam perduxi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:28</verseNum>
+      </reference>
+      <l>peto nate aspicias in caelum et terram et ad omnia quae in eis sunt et intellegas quia ex nihilo fecit illa Deus et hominum genus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:29</verseNum>
+      </reference>
+      <l>ita fit ut non timeas carnificem istum sed dignus fratribus tuis effectus suscipe mortem ut in illa miseratione cum fratribus tuis te recipiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:30</verseNum>
+      </reference>
+      <l>cum haec illa adhuc diceret ait adulescens quem sustinetis non oboedio praecepto regis sed praecepto legis quae data est nobis per Mosen</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:31</verseNum>
+      </reference>
+      <l>tu vero qui inventor omnis malitiae factus es in Hebraeos non effugies manum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:32</verseNum>
+      </reference>
+      <l>nos enim pro peccatis nostris haec patimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:33</verseNum>
+      </reference>
+      <l>et si nobis propter increpationem et correptionem Dominus noster modicum iratus est sed iterum reconciliabitur servis suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:34</verseNum>
+      </reference>
+      <l>tu autem o sceleste et omnium hominum flagitiosissime noli frustra extolli vanis spebus in servos eius inflammatus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:35</verseNum>
+      </reference>
+      <l>nondum enim omnipotentis Dei et omnia inspicientis iudicium effugisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:36</verseNum>
+      </reference>
+      <l>nam fratres mei modico nunc dolore sustentato sub testamento aeternae vitae effecti sunt tu vero iudicio Dei iustas superbiae poenas solves</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.037">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:37</verseNum>
+      </reference>
+      <l>ego autem sicut fratres mei animam et corpus meum trado pro patriis legibus invocans Deum maturius genti nostrae propitium fieri teque cum tormentis et verberibus confiteri quod ipse est Deus solus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.038">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:38</verseNum>
+      </reference>
+      <l>in me vero et in fratribus meis desinet Omnipotentis ira quae super omne genus nostrum iuste superducta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.039">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:39</verseNum>
+      </reference>
+      <l>tunc rex accensus ira in hunc super omnes crudelius desaeviit indigne ferens derisum se</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.040">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:40</verseNum>
+      </reference>
+      <l>et hic itaque mundus obiit per omnia in Domino confidens</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.041">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:41</verseNum>
+      </reference>
+      <l>novissime autem et mater consummata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.007.042">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>7:42</verseNum>
+      </reference>
+      <l>igitur de sacrificiis et de nimiis crudelitatibus satis dictum</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.2Maccabees.008.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>Iudas vero Macchabeus et qui cum illo erant introibant latenter in castella et convocantes cognatos et eos qui permanserant in iudaismo adsumentes eduxerunt ad sex milia viros</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>et invocabant Dominum ut respiceret in populum qui ab omnibus calcabatur misereretur templo quod contaminabatur ab impiis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>misereretur etiam exterminio civitatis quae esset ilico conplananda et vocem sanguinis ad se clamantis audiret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>memoraretur quoque iniquissimas mortes innocentium parvulorum et blasphemias nomini suo inlatas et indignaretur super his</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>at Macchabeus congregata multitudine intolerabilis gentibus efficiebatur ira enim Domini in misericordiam conversa est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>et superveniens castellis et civitatibus inprovisus succendebat eas et oportuna loca occupans non paucas hostium strages dabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>maxime autem noctibus ad huiuscemodi excursus ferebatur et fama virtutis eius ubique diffundebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>videns autem Philippus paulatim virum ad profectum venire ac frequentius res ei prospere cedere ad Ptolomeum ducem Coelesyriae et Foenicis scripsit ut auxilium ferret regis negotiis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>at ille velociter misit Nicanorem Patrocli de primoribus amicum datis ei permixtis gentibus armatis non minus viginti milibus ut universum Iudaeorum genus deleret adiuncto ei Gorgia viro militari</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>constituit autem Nicanor regi ut tributum Romanis quod erat dandum duo milia talentum de captivitate Iudaeorum suppleret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>statimque ad maritimas misit civitates convocans ad coemptionem iudaeorum mancipiorum promittens se nonaginta mancipia talento distracturum non respiciens ad vindictam quae eum ab Omnipotente esset consecutura</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>Iudas autem ubi conperit indicavit his qui secum erant Iudaeis Nicanoris adventum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>ex quibus quidam formidantes et non credentes Dei iustitiae in fugam vertebantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>alii vero si quid eis supererat vendebant simulque Dominum deprecabantur ut eriperet eos ab impio Nicanore qui eos priusquam in comminus veniret vendiderat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>si non propter eos propter testamentum quod erat ad patres eorum et propter invocationem sancti et magnifici nominis eius super ipsos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>convocatis autem Macchabeus septem milibus qui cum ipso erant rogabat ne hostibus reconciliarentur neque metuerent inique venientium adversum se hostium multitudinem sed fortiter contenderent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>ante oculos habentes contumeliam quae in locum sanctum ab his iniuste esset inlata itemque et ludibria habitae civitatis iniuriam adhuc etiam veterum instituta convulsa</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:18</verseNum>
+      </reference>
+      <l>nam illi quidem armis confidunt ait simul et audacia nos autem in omnipotente Domino qui potest venientes adversus nos et universum mundum uno nutu delere confidimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:19</verseNum>
+      </reference>
+      <l>admonuit autem eos et de auxiliis Dei quae facta sunt erga parentes et sub Sennacherim centum octoginta quinque milia ut perierunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:20</verseNum>
+      </reference>
+      <l>et de proelio quod eis adversus Galatas fuit in Babylonia ut omnes ubi ad rem ventum est Macedonibus sociis haesitantibus ipsi sex milia soli peremerunt centum viginti milia propter auxilium illis datum e caelo et beneficia pro his plurima consecuti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:21</verseNum>
+      </reference>
+      <l>his verbis constantes effecti sunt et pro legibus et patria mori parati</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:22</verseNum>
+      </reference>
+      <l>constituit itaque fratres suos duces utrique ordini Simonem et Iosepphum et Ionathan subiectis unicuique millenis et quingentenis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:23</verseNum>
+      </reference>
+      <l>ad hoc etiam ab Ezra lecto illis sancto libro et dato signo adiutorio Dei in prima acie ipse dux commisit cum Nicanore</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:24</verseNum>
+      </reference>
+      <l>et facto sibi adiutore Omnipotente interfecerunt super novem milia hominum maiorem autem partem exercitus Nicanoris vulneribus debilem factam fugere conpulerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:25</verseNum>
+      </reference>
+      <l>pecuniis vero eorum qui ad emptionem ipsorum venerant sublatis ipsos usquequaque persecuti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:26</verseNum>
+      </reference>
+      <l>sed reverterunt hora conclusi nam erat ante sabbatum quam ob causam non perseveraverunt insequentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:27</verseNum>
+      </reference>
+      <l>arma autem ipsorum et spolia congregantes sabbatum agebant benedicentes Dominum qui liberavit eos in isto die misericordiae initium stillans in eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:28</verseNum>
+      </reference>
+      <l>post sabbatum vero debilibus et orfanis et viduis diviserunt spolia et residua ipsi cum suis habuere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:29</verseNum>
+      </reference>
+      <l>his ita gestis et communiter ab omnibus facta obsecratione misericordem Dominum postulabant ut in finem servis suis reconciliaretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:30</verseNum>
+      </reference>
+      <l>et ex his qui cum Timotheo et Bacchide erant contra se contendentes super viginti milia interfecerunt et munitiones excelsas obtinuerunt et plures praedas diviserunt aequam portionem debilibus pupillis et viduis sed et senioribus facientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:31</verseNum>
+      </reference>
+      <l>et cum arma eorum collegissent diligenter omnia conposuerunt in locis oportunis residua vero spolia Hierosolymam detulerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:32</verseNum>
+      </reference>
+      <l>et phylarchen qui cum Timotheo erat interfecerunt virum scelestum qui in multis Iudaeos adflixerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:33</verseNum>
+      </reference>
+      <l>et cum epicinia agerent in Hierosolymis eos qui sacras ianuas incenderant id est Callistenen cum in quodam domicilio refugisset incenderunt digna ei mercede pro impietatibus suis reddita</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:34</verseNum>
+      </reference>
+      <l>facinorosissimus autem Nicanor qui mille negotiantes ad Iudaeorum venditionem adduxerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:35</verseNum>
+      </reference>
+      <l>humiliatus auxilio Domini ab his quos nullos existimaverat deposita veste gloriae per mediterranea fugiens solus venit Antiochiam summam infelicitatem de interitu sui exercitus consecutus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.008.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>8:36</verseNum>
+      </reference>
+      <l>et qui promiserat Romanis se tributum restituere de captivitate Hierosolymorum praedicabat nunc protectorem Deum habere Iudaeos et ob ipsum invulnerabiles esse eo quod sequerentur leges ab ipso constitutas</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.2Maccabees.009.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>eodem tempore Antiochus inhoneste revertebatur de Perside</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>intraverat enim ea quae dicitur Persipolis et temptavit expoliare templa et civitatem opprimere sed multitudine ad arma concurrente in fugam versi sunt et ita contigit ut Antiochus post fugam turpiter rediret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>et cum venisset circa Ecbatana recognovit quae erga Nicanorem et Timotheum gesta sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>elatus autem ira arbitrabatur se iniuriam illorum qui se fugaverant posse in Iudaeos retorquere ideoque iussit agitari currum sine intermissione agens iter caelesti eum iudicio perurguente quod ita superbe locutus est venturum se Hierosolymam et congeriem sepulchri Iudaeorum eam facturum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>sed qui universa conspicit Dominus Israhel percussit eum insanabili et invisibili plaga ut enim finivit hunc ipsum sermonem adprehendit eum dolor dirus viscerum et amara internorum tormenta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>et quidem satis iuste quippe qui multis et novis cruciatibus aliorum torserat viscera licet ille nullo modo a sua malitia cessaret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>super haec autem superbia repletus ignem spirans animo in Iudaeos et praecipiens adcelerare negotium contigit illum impetu euntem de curru cadere et gravi corporis conlisione membra vexare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>isque qui sibi videbatur etiam fluctibus maris imperare supra humanum modum superbia repletus et montium altitudines in statera adpendere nunc humiliatus ad terram in gestatorio portabatur manifestam Dei virtutem in semet ipso contestans</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>ita ut de corpore impii vermes scaturrirent ac viventes in doloribus carnes eius effluerent odore etiam illius et fetore exercitus gravaretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>et qui paulo ante sidera caeli contingere se arbitrabatur eum nemo poterat propter intolerantiam fetoris portare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>hinc igitur coepit ex gravi superbia deductus ad agnitionem sui venire divina admonitus plaga per momenta singula doloribus suis augmenta capientibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>et cum nec ipse iam fetorem suum ferre posset ita ait iustum est subditum esse Deo et mortalem non paria Deo sentire</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>orabat autem haec scelestus Dominum a quo non esset misericordiam consecuturus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>et civitatem ad quam festinans veniebat ut eam ad solum deduceret et sepulchrum congestorum faceret nunc optat liberam reddere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>et Iudaeos quos nec sepultura quidem se dignos habituros sed avibus ac feris diripiendos traditurum et cum parvulis exterminaturum dixerat aequales nunc Atheniensibus facturum pollicetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>templum etiam sanctum quod prius expoliaverat optimis donis ornaturum et sancta vasa multiplicaturum et pertinentes ad sacrificia sumptus de reditibus suis praestaturum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>super haec et Iudaeum futurum et omnem locum terrae perambulaturum et praedicaturum Dei potestatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:18</verseNum>
+      </reference>
+      <l>sed non cessantibus doloribus supervenerat enim in eum iustum Dei iudicium desperans scripsit ad Iudaeos in modum deprecationis epistulam haec continentem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:19</verseNum>
+      </reference>
+      <l>optimis civibus Iudaeis plurimam salutem et bene valere et esse felices rex et princeps Antiochus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:20</verseNum>
+      </reference>
+      <l>si bene valetis et filii vestri et ex sententia vobis cuncta sunt maximas agimus gratias</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:21</verseNum>
+      </reference>
+      <l>et ego in infirmitate constitutus vestri autem benigne memor regressus de Persidis locis et infirmitate gravi adprehensus necessarium duxi pro communi utilitate curam habere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:22</verseNum>
+      </reference>
+      <l>non desperans memet ipsum sed spem multam habeo effugiendi infirmitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:23</verseNum>
+      </reference>
+      <l>respiciens autem quod et pater quibus temporibus in locis superioribus ducebat exercitum ostendit qui post se susciperet principatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:24</verseNum>
+      </reference>
+      <l>ut si quid contrarium accideret aut difficile nuntiaretur scientes hii qui in regionibus erant cui esset rerum summa derelicta non turbarentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:25</verseNum>
+      </reference>
+      <l>ad haec considerans de proximo potentes quosque et vicinos temporibus insidiantes et eventum expectantes designavi filium meum Antiochum regem quem saepe recurrens in superiora regna multis vestrum commendabam et scripsi ad eum quae subiecta sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:26</verseNum>
+      </reference>
+      <l>orate itaque vos et peto memores beneficiorum publice et privatim ut unusquisque conservet fidem ad me et ad filium meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:27</verseNum>
+      </reference>
+      <l>confido enim eum modeste et humane acturum et sequentem propositum meum communem vobis fore</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:28</verseNum>
+      </reference>
+      <l>igitur homicida et blasphemus pessime percussus et ut ipse alios tractaverat peregre in montibus miserabili obitu vita functus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.009.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>9:29</verseNum>
+      </reference>
+      <l>transferebat autem corpus Philippus conlactaneus eius qui metuens filium Antiochi ad Ptolomeum Filometora in Aegyptum abiit</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.2Maccabees.010.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>Macchabeus autem et qui cum illo erant Domino se protegente templum quidem et civitatem recepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>aras autem quas alienigenae per plateas extruxerant itemque delubra demolitus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>et purgato templo aliud altare fecerunt et de ignitis lapidibus igne concepto obtulerunt sacrificia post biennium et incensum et lucernas et panes propositionis posuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>quibus gestis rogabant Dominum prostrati in terram ne amplius malis talibus inciderent sed et si quando peccassent ut ab ipso mitius corriperentur et non blasphemis ac barbaris hominibus traderentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>qua die autem templum ab alienigenis pollutum fuerat contigit eadem die purgationem fieri vicesima et quinta mensis qui fuit casleu</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>et cum laetitia diebus octo egerunt in modum tabernaculorum recordantes quod ante modicum temporis diem sollemnem tabernaculorum in montibus more bestiarum egerant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>propter quod tyrsos et ramos virides et palmas praeferebant ei qui prosperavit mundari locum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>et decreverunt communi praecepto et decreto universae genti Iudaeorum omnibus annis agere dies istos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>et Antiochi quidem qui appellatus est Nobilis vitae excessus ita se habuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>nunc autem de Eupatore Antiochi filio impii quae gesta sunt narrabimus breviantes mala quae in bellis gesta sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>hic suscepto regno constituit super negotia regni Lysiam quendam Foenicis et Syriae militiae principem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>nam Ptolomeus qui dicebatur Macer iusti tenax erga Iudaeos esse instituit et praecipue propter iniquitatem quae facta erat in eos et pacifice agere cum eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>sed ob hoc accusatus ab amicis apud Eupatorem cum frequenter proditor audiret eo quod Cyprum creditus a Filometore Nobilem translatus etiam ab eo recessisset veneno vitam finivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:14</verseNum>
+      </reference>
+      <l>Gorgias autem cum esset dux locorum adsumptis advenis frequenter Iudaeos debellabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:15</verseNum>
+      </reference>
+      <l>Iudaei vero qui tenebant oportunas munitiones fugatos ab Hierosolymis suscipiebant et bellare temptabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:16</verseNum>
+      </reference>
+      <l>hii vero qui erant cum Macchabeo per orationes Dominum rogantes ut esset sibi adiutor impetum fecerunt in munitiones Idumeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:17</verseNum>
+      </reference>
+      <l>multaque vi insistentes loca obtinuerunt occurrentes interemerunt et omnes simul non minus a viginti milibus trucidaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:18</verseNum>
+      </reference>
+      <l>quidam autem cum confugissent in duas turres valde munitas omnem adparatum ad repugnandum habentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:19</verseNum>
+      </reference>
+      <l>Macchabeus ad eorum expugnationem relicto Simone et Ioseppho item Macchabeo eisque qui cum ipsis erant satis multis ipse ad eas quae amplius perurguebant pugnas conversus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:20</verseNum>
+      </reference>
+      <l>hii vero qui cum Simone erant cupiditate ducti a quibusdam qui in turribus erant suasi sunt pecunia et septuaginta milibus didragmis acceptis dimiserunt quosdam effugere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:21</verseNum>
+      </reference>
+      <l>cum autem Macchabeo nuntiatum esset quod factum est congregatis principibus populi accusavit quod pecunia fratres vendidissent adversariis eorum dimissis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:22</verseNum>
+      </reference>
+      <l>hos igitur proditores factos interfecit et confestim duas turres occupavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:23</verseNum>
+      </reference>
+      <l>armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti milia peremit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:24</verseNum>
+      </reference>
+      <l>Timotheus qui prius a Iudaeis fuerat superatus convocato exercitu peregrinae multitudinis et congregato exercitu asiano advenit quasi armis Iudaeam capturus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:25</verseNum>
+      </reference>
+      <l>Macchabeus autem et qui cum ipso erant adpropiante illo deprecabantur Deum caput terra aspergentes lumbosque ciliciis praecincti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:26</verseNum>
+      </reference>
+      <l>ad altaris crepidinem provoluti ut sibi propitius inimicis autem eorum esset inimicus et adversaretur sicut lex dicit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:27</verseNum>
+      </reference>
+      <l>et ita post orationem sumptis armis longius de civitate procedentes et proximi hostibus effecti resederunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:28</verseNum>
+      </reference>
+      <l>primo autem solis ortu utrique commiserunt isti quidem victoriae et prosperitatis sponsorem cum virtute Dominum habentes illi autem ducem belli animum habebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:29</verseNum>
+      </reference>
+      <l>sed cum vehemens pugna esset apparuerunt adversariis de caelo viri quinque in equis frenis aureis decori ducatum Iudaeis praestantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:30</verseNum>
+      </reference>
+      <l>ex quibus duo Macchabeum medium habentes armis suis circumseptum incolomem conservabant in adversarios autem tela et fulmina iaciebant ex quo et caecitate confusi et repleti perturbatione cadebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:31</verseNum>
+      </reference>
+      <l>interfecti sunt autem viginti milia quingenti et equites sescenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:32</verseNum>
+      </reference>
+      <l>Timotheus autem confugit in Gazara praesidium munitum cui praeerat Caereas</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:33</verseNum>
+      </reference>
+      <l>Macchabeus autem et qui cum eo erant laetantes obsederunt praesidium diebus quattuor</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:34</verseNum>
+      </reference>
+      <l>at hii qui in turres erant loci firmitate confisi super modum maledicebant et sermones nefandos iactabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:35</verseNum>
+      </reference>
+      <l>sed cum dies quinta inlucesceret viginti iuvenes ex his qui cum Macchabeo erant accensi animis propter blasphemiam viriliter accesserunt ad murum et feroci animo incedentes ascendebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:36</verseNum>
+      </reference>
+      <l>sed et alii similiter ascendentes turres portasque succendere adgressi atque ipsos maledicos vivos concremare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.037">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:37</verseNum>
+      </reference>
+      <l>per continuum autem biduum praesidio vastato Timotheum occultantem se in quodam reppertum loco peremerunt et fratrem illius Caerean et Apollofanem occiderunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.010.038">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>10:38</verseNum>
+      </reference>
+      <l>quibus gestis in hymnis et confessionibus benedicebant Dominum qui magna fecit cum Israhel et victoriam illi dedit</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.2Maccabees.011.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>sed parvo post tempore Lysias procurator regis et propinquus ac negotiorum praepositus graviter ferens de his quae acciderant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>congregatis octoginta milibus et equitatu universo veniebat adversus Iudaeos existimans se civitatem quidem captam gentibus habitaculum facturum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>templum vero in pecuniae quaestu sicut cetera delubra gentium habiturum et per singulos annos venale sacerdotium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>nusquam recogitans Dei potestatem sed mente effrenatus in multitudine peditum et in milibus equitum et in octoginta elefantis confidebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>ingressus autem Iudaeam et adpropians Bethsurae quod erat in angusto loco ab Hierosolyma intervallo quinque stadiorum illud praesidium expugnabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>ut autem Macchabeus et qui cum eo erant cognoverunt expugnari praesidia cum fletu et lacrimis rogabant Dominum et omnis turba simul ut bonum angelum mitteret ad salutem Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>et ipse primus Macchabeus sumptis armis ceteros adhortatus est simul secum periculum subire et ferre auxilium fratribus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>cumque pariter prompto animo procederent Hierosolymis apparuit praecedens eos eques in veste candida armis aureis hastam vibrans</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>tum simul omnes benedixerunt misericordem Dominum et convaluerunt animis non solum homines sed et bestias ferocissimas et muros ferreos parati penetrare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>ibant igitur prompti de caelo habentes adiutorem et miserantem eos Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>leonum autem impetu inruentes hostibus prostraverunt ex eis undecim milia peditum et equites mille sescentos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>universos autem in fugam verterunt plures vero ex eis vulnerati nudi evaserunt sed et ipse Lysias turpiter fugiens evasit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:13</verseNum>
+      </reference>
+      <l>et quia non insensatus erat secum ipse reputans factam erga se diminutionem et intellegens invictos esse Hebraeos Dei auxilio nitentes misit ad eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:14</verseNum>
+      </reference>
+      <l>promisitque consensurum se omnibus quae iusta sunt et regem conpulsurum amicum fieri</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:15</verseNum>
+      </reference>
+      <l>annuit autem Macchabeus precibus Lysiae in omnibus utilitati consulens et quaecumque Macchabeus scripsit Lysiae de Iudaeis ea rex concessit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:16</verseNum>
+      </reference>
+      <l>nam erant scriptae Iudaeis epistulae a Lysia quidem hunc modum continentes Lysias populo Iudaeorum salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:17</verseNum>
+      </reference>
+      <l>Iohannes et Abessalom qui missi sunt a vobis tradentes scripta postulabant ut ea quae per illos significabantur implerem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:18</verseNum>
+      </reference>
+      <l>quaecumque igitur regi potuerunt perferri exposui et quae res permittebat concessit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:19</verseNum>
+      </reference>
+      <l>si igitur in negotiis fidem conservaveritis etiam deinceps honorum vobis causa esse temptabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:20</verseNum>
+      </reference>
+      <l>de ceteris autem per singula verbo mandavi et istis et his qui a me missi sunt conloqui vobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:21</verseNum>
+      </reference>
+      <l>bene valete anno centesimo quadragesimo octavo dioscori die mensis vicesima et quarta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:22</verseNum>
+      </reference>
+      <l>regis autem epistula ista continebat rex Antiochus Lysiae fratri salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:23</verseNum>
+      </reference>
+      <l>patre nostro inter deos translato nos volentes eos qui sunt in regno nostro sine tumultu agere et rebus suis adhibere diligentiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:24</verseNum>
+      </reference>
+      <l>audivimus Iudaeos non consensisse patri ut transferrentur ad ritum Graecorum sed tenere velle suum institutum ac propterea postulare concedi sibi legitima sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:25</verseNum>
+      </reference>
+      <l>volentes igitur hanc quoque gentem quietam esse statuentes iudicavimus templum restitui illis ut agerent secundum maiorum suorum consuetudinem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:26</verseNum>
+      </reference>
+      <l>bene igitur feceris si miseris ad eos et dextram dederis ut cognita nostra voluntate bono animo sint et utilitatibus propriis deserviant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:27</verseNum>
+      </reference>
+      <l>ad Iudaeos autem regis epistula talis erat rex Antiochus senatui Iudaeorum et ceteris Iudaeis salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:28</verseNum>
+      </reference>
+      <l>si valetis sic estis ut volumus sed et ipsi bene valemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:29</verseNum>
+      </reference>
+      <l>adiit nos Menelaus dicens velle vos descendere ad vestros qui sunt apud nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:30</verseNum>
+      </reference>
+      <l>his igitur qui commeant usque ad diem tricesimum mensis xandici damus dextras securitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:31</verseNum>
+      </reference>
+      <l>ut Iudaei utantur cibis et legibus suis sicut et prius et nemo eorum ullo modo molestiam patiatur de his quae per ignorantiam gesta sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:32</verseNum>
+      </reference>
+      <l>misi autem et Menelaum qui vos adloquatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:33</verseNum>
+      </reference>
+      <l>valete anno centesimo quadragesimo octavo xandici mensis quintadecima</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:34</verseNum>
+      </reference>
+      <l>miserunt autem etiam Romani epistulam ita se habentem Quintus Memmius et Titus Manilius legati Romanorum populo Iudaeorum salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:35</verseNum>
+      </reference>
+      <l>de his quae Lysias cognatus regis concessit vobis et nos concessimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:36</verseNum>
+      </reference>
+      <l>de quibus autem iudicavit referendum confestim aliquem mittite diligentius inter vos conferentes ut decernamus sicut congruit vobis nos enim Antiochiam accedimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.037">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:37</verseNum>
+      </reference>
+      <l>ideoque festinate scribere ut nos quoque sciamus cuius estis voluntatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.011.038">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>11:38</verseNum>
+      </reference>
+      <l>bene valete anno centesimo quadragesimo octavo quintadecima die mensis xandici</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.2Maccabees.012.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>his factis pactionibus Lysias pergebat ad regem Iudaei autem agriculturae operam dabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>sed hii qui resederant Timotheus et Apollonius gehennae filius sed et Hieronimus et Demofon super hos et Nicanor cypriarches non sinebant eos in silentio agere et quiete</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>Ioppitae vero tale quoddam flagitium perpetrarunt rogaverunt Iudaeos cum quibus habitabant ascendere scaphas quas paraverant cum uxoribus et filiis quasi nullis inimicitiis inter eos subiacentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>secundum communem itaque decretum civitatis et ipsis adquiescentibus pacisque causa nihil suspectum habentibus cum in altum processissent submerserunt non minus ducentos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>quam crudelitatem Iudas in suae gentis homines factam ut cognovit praecepit viris qui erant cum ipso et invocato iusto iudice Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>venit adversus interfectores fratrum et portum quidem noctu succendit scaphas exusit eos autem qui ab igne refugerant gladio peremit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>et cum haec ita egisset discessit quasi iterum reversurus et universos Ioppitas eradicaturus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>sed cum cognovisset et eos qui erant Iamniae velle pari modo facere habitantibus secum Iudaeis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>Iamnitis quoque nocte supervenit et portum cum navibus succendit ita ut lumen ignis pareret Hierosolymis ab stadiis ducentis quadraginta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>inde cum abissent novem stadiis et iter facerent ad Timotheum commiserunt cum eo Arabes quinque milia viri et equites quingenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>cumque pugna valida fieret et auxilio Dei prospere cessisset residui victi Arabes petebant a Iuda dextras sibi dari promittentes pascua daturos et in ceteris profuturos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>Iudas autem arbitratus vere in multis eos utiles promisit pacem dextrisque acceptis discessere ad tabernacula sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>adgressus est autem et civitatem quandam firmam pontibus murisque circumseptam quae a turbis habitabatur gentium promiscuarum cui nomen Caspin</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>hii vero qui intus erant confidentes in stabilitate murorum et adparatu alimoniarum remissius agebant maledictis lacessentes Iudam ac blasphemantes et loquentes quae fas non est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:15</verseNum>
+      </reference>
+      <l>Macchabeus autem invocato magno mundi principe qui sine arietibus et machinis temporibus Iesu praecipitavit Hiericho inruit ferociter muris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:16</verseNum>
+      </reference>
+      <l>et capta civitate per Domini voluntatem inenarrabiles caedes fecit ita ut adiacens stagnum stadiorum duo latitudinis sanguine infectum fluere videretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:17</verseNum>
+      </reference>
+      <l>inde discesserunt stadia septingenta quinquaginta et venerunt in Characa ad eos qui dicuntur Tubianei Iudaeos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:18</verseNum>
+      </reference>
+      <l>et Timotheum quidem in illis locis conprehenderunt nulloque negotio perfecto regressus est relicto in quodam loco firmissimo praesidio</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:19</verseNum>
+      </reference>
+      <l>Dositheus autem et Sosipater qui erant duces cum Macchabeo peremerunt a Timotheo relictos in praesidio decem milia viros</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:20</verseNum>
+      </reference>
+      <l>at Macchabeus ordinatis circum se sex milibus et constitutis per cohortes adversus Timotheum processit habentem secum centum viginti milia peditum equitumque duo milia quingentos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:21</verseNum>
+      </reference>
+      <l>cognito autem Iudae adventu Timotheus praemisit mulieres et filios et reliquum adparatum in praesidium quod Carnion dicitur erat enim inexpugnabile et accessu difficile propter locorum angustias</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:22</verseNum>
+      </reference>
+      <l>cumque cohors Iudae prima apparuisset timor hostibus incussus est ex praesentia Dei qui universa conspicit et in fugam versi sunt alius alio ita ut magis a suis deicerentur et gladiorum suorum ictibus debilitarentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:23</verseNum>
+      </reference>
+      <l>Iudas autem vehementer instabat puniens profanos et prostravit ex eis triginta milia virorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:24</verseNum>
+      </reference>
+      <l>ipse vero Timotheus incidit in partes Dosithei et Sosipatri et multis precibus postulabat ut vivus dimitteretur eo quod multorum ex Iudaeis parentes haberet ac fratres quos morte eius decipi eveniret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:25</verseNum>
+      </reference>
+      <l>et cum fidem dedisset restituturum se eos secundum constitutum inlaesum eum dimiserunt propter fratrum salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:26</verseNum>
+      </reference>
+      <l>Iudas autem egressus est a Carnio interfectis viginti quinque milibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:27</verseNum>
+      </reference>
+      <l>post horum fugam et necem movit exercitum ad Efron civitatem munitam in qua multitudo diversarum gentium habitabat et robusti iuvenes pro muris consistentes fortiter repugnabant in hac autem machinae multae et telorum erat adparatus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:28</verseNum>
+      </reference>
+      <l>sed cum Omnipotentem invocassent qui potestate vires hostium confregit ceperunt civitatem et ex eis qui intus erant viginti quinque milia prostraverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:29</verseNum>
+      </reference>
+      <l>inde ad civitatem Scytarum abierunt quae ab Hierosolymis sescentis stadiis aberat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:30</verseNum>
+      </reference>
+      <l>contestantibus autem his qui apud Scytopolitas erant Iudaeis quod benigne ab eis haberentur etiam temporibus infelicitatis quod modeste secum egerint</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:31</verseNum>
+      </reference>
+      <l>gratias agentes eis exhortati etiam de cetero erga genus suum benignos esse venerunt Hierosolymam die sollemni septimanarum instante</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:32</verseNum>
+      </reference>
+      <l>et post pentecosten abierunt contra Gorgiam praepositum Idumeae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:33</verseNum>
+      </reference>
+      <l>exivit autem cum peditibus tribus milibus et equitibus quadringentis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:34</verseNum>
+      </reference>
+      <l>quibus congressis contigit paucos ruere Iudaeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:35</verseNum>
+      </reference>
+      <l>Dositheus vero quidam de Bachenoris eques vir fortis Gorgiam tenebat et cum vellet illum capere vivum eques quidam de Thracibus inruit in eum umerumque eius amputavit atque ita Gorgias effugit in Marisa</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:36</verseNum>
+      </reference>
+      <l>at illis qui cum Esdrin erant diutius pugnantibus et fatigatis invocavit Dominum Iudas adiutorem et ducem belli fieri</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.037">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:37</verseNum>
+      </reference>
+      <l>incipiens voce patria et cum hymnis clamorem extollens fugam Gorgiae militibus incussit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.038">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:38</verseNum>
+      </reference>
+      <l>Iudas autem collecto exercitu venit in civitatem Odollam et cum septima dies superveniret secundum consuetudinem purificati in eodem loco sabbatum egerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.039">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:39</verseNum>
+      </reference>
+      <l>et sequenti die venit cum suis Iudas ut corpora prostratorum tolleret et cum parentibus poneret in sepulchris paternis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.040">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:40</verseNum>
+      </reference>
+      <l>invenerunt autem sub tunicis interfectorum de donariis idolorum quae apud Iamnian fuerunt a quibus lex prohibet Iudaeos omnibus ergo manifestum factum est ob hanc causam eos corruisse</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.041">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:41</verseNum>
+      </reference>
+      <l>omnes itaque benedixerunt iustum iudicium Domini qui occulta fecerit manifesta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.042">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:42</verseNum>
+      </reference>
+      <l>atque ita ad preces conversi rogaverunt ut id quod factum erat delictum obliteraretur at vero fortissimus Iudas hortabatur populum conservare se sine peccato sub oculis videntes quae facta sint pro peccato eorum qui prostrati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.043">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:43</verseNum>
+      </reference>
+      <l>et facta conlatione duodecim milia dragmas argenti misit Hierosolymam offerri pro peccato sacrificium bene et religiose de resurrectione cogitans</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.044">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:44</verseNum>
+      </reference>
+      <l>nisi enim eos qui ceciderant resurrecturos speraret superfluum videretur et vanum orare pro mortuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.045">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:45</verseNum>
+      </reference>
+      <l>et quia considerabat quod hii qui cum pietate dormitionem acceperant optimam haberent repositam gratiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.012.046">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>12:46</verseNum>
+      </reference>
+      <l>sancta ergo et salubris cogitatio pro defunctis exorare ut a peccato solverentur</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.2Maccabees.013.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>anno centesimo quadragesimo nono cognovit Iudas Antiochum Eupatoris venire cum multitudine adversus Iudaeam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>et cum eo Lysiam procuratorem et praepositum negotiorum secum habentem peditum centum decem milia et equitum quinque milia et elefantos viginti duo currus cum falcibus trecentos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>commiscuit autem se illis et Menelaus et cum multa fallacia deprecabatur Antiochum non pro patriae salute sed sperans se constitui in principatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>sed Rex regum suscitavit animos Antiochi in peccatorem et suggerente Lysia hunc esse causam omnium malorum iussit ut eis est consuetudo conprehensum in eodem loco necari</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>erat autem in eodem loco turris quinquaginta cubitorum aggestum undique habens cineris haec prospectum habebat in praeceps</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>inde in cinerem deici iussit sacrilegum omnibus eum propellentibus ad interitum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>et tali lege praevaricatorem legis contigit mori nec terrae dari Menelaum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>et quidem satis iuste nam quia multa erga aram Dei delicta commisit cuius ignis et cinis erat sanctus ipse in cineris morte damnatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>sed rex mente effrenatus veniebat nequiorem se Iudaeis ostensurus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>quibus Iudas cognitis praecepit populo ut die ac nocte Dominum invocarent quo sicut semper et nunc adiuvaret eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>quippe qui lege et patria sanctoque templo privari vererentur ac populum qui nuper paululum respirasset ne sineret blasphemis rursum nationibus subdi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>omnibus itaque id simul facientibus et petentibus a Domino misericordiam cum fletu et ieiuniis per triduum continuum prostratis hortatus est eos Iudas ut se praepararent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>ipse vero cum senioribus cogitavit priusquam rex admoveret exercitum ad Iudaeam et obtineret civitatem exire et Domini iudicio committere exitum rei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>dans itaque potestatem omnium Deo mundi creatori et hortatus suos ut fortiter dimicarent et usque ad mortem pro legibus templo civitate patria et civibus starent circa Modin exercitum constituit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:15</verseNum>
+      </reference>
+      <l>et dato signo suis Dei victoria iuvenibus fortissimis electis nocte adgressus aulam regiam in castris interfecit viros quattuor milia et maximum elefantorum cum his qui superpositi erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:16</verseNum>
+      </reference>
+      <l>summoque metu ac perturbatione hostium replentes rebus prospere gestis abierunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:17</verseNum>
+      </reference>
+      <l>hoc autem factum est die inlucescente adiuvante eum Domini protectione</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:18</verseNum>
+      </reference>
+      <l>sed rex accepto gustu audaciae Iudaeorum arte difficultates locorum temptabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:19</verseNum>
+      </reference>
+      <l>et Bethsurae quod erat Iudaeorum praesidium munitum castra admovebat sed fugabatur inpingebat minuebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:20</verseNum>
+      </reference>
+      <l>his autem qui intus erant Iudas necessaria mittebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:21</verseNum>
+      </reference>
+      <l>enuntiavit autem mysteria hostibus Rhodocus quidam de iudaico exercitu qui requisitus conprehensus conclusus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:22</verseNum>
+      </reference>
+      <l>iterum rex sermonem habuit ad eos qui erant in Bethsuris dextram dedit accepit abiit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:23</verseNum>
+      </reference>
+      <l>commisit cum Iuda superatus est ut autem cognovit rebellasse Philippum Antiochiae qui relictus erat super negotia mente consternatus Iudaeos deprecans subditusque eis iurat de omnibus quibus iustum visum est et reconciliatus obtulit sacrificium honorificavit templum et munera posuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:24</verseNum>
+      </reference>
+      <l>Macchabeum amplexus est et fecit eum ab Ptolomaide usque Gerrenos ducem et principem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:25</verseNum>
+      </reference>
+      <l>ut autem venit Ptolomaidam graviter ferebant Ptolomenses amicitiae conventionem indignantes ne forte foedus inrumperent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.013.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>13:26</verseNum>
+      </reference>
+      <l>tunc ascendit Lysias tribunal et exposuit rationem et populum sedavit regressusque est Antiochiam et hoc modo regi profectio et reditus processit</l>
+    </verse>
+  </chapter>
+  <chapter num="14">
+    <verse type="bible-verse" id="B.2Maccabees.014.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:1</verseNum>
+      </reference>
+      <l>sed post triennii tempus cognovit Iudas et qui cum eo erant Demetrium Seleuci cum multitudine valida et navibus per portum Tripoli ascendisse ad loca oportuna</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:2</verseNum>
+      </reference>
+      <l>et tenuisse regiones adversus Antiochum et eius ducem Lysiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:3</verseNum>
+      </reference>
+      <l>Alchimus autem quidam qui summus sacerdos fuerat sed voluntarie coinquinatus est temporibus commixtionis considerans nullo modo sibi esse salutem neque accessum ad altare</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:4</verseNum>
+      </reference>
+      <l>venit ad regem Demetrium centesimo quinquagesimo anno offerens ei auream coronam et palmam super haec et tallos qui templi esse videbantur et ipsa quidem die siluit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:5</verseNum>
+      </reference>
+      <l>tempus autem oportunum dementiae suae nanctus convocatus a Demetrio ad consilium et interrogatus quibus rebus et consiliis Iudaei niterentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:6</verseNum>
+      </reference>
+      <l>respondit ipsi qui dicuntur Asidei Iudaeorum quibus praeest Iudas Macchabeus bella nutriunt et seditiones movent nec patiuntur regnum esse quietum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:7</verseNum>
+      </reference>
+      <l>nam et ego defraudatus parentum gloria dico autem summo sacerdotio huc veni</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:8</verseNum>
+      </reference>
+      <l>primo quidem utilitatibus regis fidem servans secundo autem etiam civibus consulens nam illorum pravitate universum genus nostrum non minime vexatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:9</verseNum>
+      </reference>
+      <l>sed his singulis oro rex cognitis et regioni et generi secundum pervulgatam omnibus humanitatem tuam prospice</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:10</verseNum>
+      </reference>
+      <l>nam quamdiu superest Iudas inpossibile est pacem esse negotiis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:11</verseNum>
+      </reference>
+      <l>talibus autem ab hoc dictis et ceteri amici hostiliter habentes adversus Iudam inflammaverunt Demetrium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:12</verseNum>
+      </reference>
+      <l>qui statim Nicanorem praepositum elefantorum ducem misit Iudaeam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:13</verseNum>
+      </reference>
+      <l>datis mandatis ipsum quidem Iudam caperet eos vero qui cum illo erant dispergeret et constitueret Alchimum maximi templi summum sacerdotem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:14</verseNum>
+      </reference>
+      <l>tunc gentes quae de Iudaea fugerant Iudam segregatim se Nicanori miscebant miserias et clades Iudaeorum prosperitates rerum suarum existimantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:15</verseNum>
+      </reference>
+      <l>audito itaque Iudaei Nicanoris adventu et conventu nationum conspersi terra rogabant eum qui populum suum constituit eum in aeternum custodiret quique suam portionem signis evidentibus protegit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:16</verseNum>
+      </reference>
+      <l>imperante autem duce statim inde moverunt et convenerunt ad castellum Dessau</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:17</verseNum>
+      </reference>
+      <l>Simon vero frater Iudae commiserat cum Nicanore sed conterritus est repentino adventu adversariorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:18</verseNum>
+      </reference>
+      <l>Nicanor tamen audiens virtutem comitum Iudae et animi magnitudinem quam pro patriae certaminibus habebant sanguine iudicium facere metuebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:19</verseNum>
+      </reference>
+      <l>quam ob rem misit Possidonium et Theodotum et Matthathiam ut darent dextras atque acciperent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:20</verseNum>
+      </reference>
+      <l>et cum diu de his consilium ageretur et ipse dux ad multitudinem rettulisset omnium una fuit sententia amicitiis annuere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:21</verseNum>
+      </reference>
+      <l>itaque diem constituerunt qua secreto inter se agerent et a singulis sellae prolatae sunt et positae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:22</verseNum>
+      </reference>
+      <l>praecepit autem Iudas armatos esse locis oportunis ne forte ab hostibus repente mali aliquid oriretur et congruum conloquium fecerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:23</verseNum>
+      </reference>
+      <l>morabatur autem Nicanor Hierosolymis et nihil inique agebat gregesque turbarum quae congregatae fuerant dimisit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:24</verseNum>
+      </reference>
+      <l>habebat autem semper Iudam carum ex animo erat vero inclinatus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:25</verseNum>
+      </reference>
+      <l>rogavit eum ducere uxorem filiosque procreare nuptias fecit quiete egit communiterque vivebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:26</verseNum>
+      </reference>
+      <l>Alchimus autem videns caritatem illorum ad invicem et conventiones venit ad Demetrium et dicebat Nicanorem rebus alienis adsentare Iudamque regni insidiatorem successorem sibi destinasse</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:27</verseNum>
+      </reference>
+      <l>itaque rex exasperatus et pessimis huius criminationibus inritatus scripsit Nicanori dicens graviter quidem se ferre de amicitiae conventione iubere tamen Macchabeum citius vinctum mittere Antiochiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:28</verseNum>
+      </reference>
+      <l>quibus cognitis Nicanor consternabatur et graviter ferebat si ea quae convenerant irrita faceret nihil laesus a viro</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:29</verseNum>
+      </reference>
+      <l>sed quia regi resistere non poterat oportunitatem observabat qua praeceptum perficeret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:30</verseNum>
+      </reference>
+      <l>at Macchabeus videns austerius secum agere Nicanorem et consuetum occursum ferocius exhibentem intellegens non ex bono esse austeritatem istam paucis suorum congregatis occultavit se a Nicanore</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:31</verseNum>
+      </reference>
+      <l>quod ut ille cognovit fortiter se a viro praeventum venit ad maximum et sanctissimum templum et sacerdotibus solitas hostias offerentibus iussit sibi tradi virum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:32</verseNum>
+      </reference>
+      <l>quibus cum iuramento dicentibus nescire se ubi esset qui quaerebatur extendens manum ad templum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:33</verseNum>
+      </reference>
+      <l>iuravit nisi mihi vinctum Iudam tradideritis istud Dei fanum in planitiem deducam et altare effodiam et templum hoc Libero patri consecrabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:34</verseNum>
+      </reference>
+      <l>et his dictis abiit sacerdotes autem protendentes manus in caelum invocabant eum qui semper propugnator esset gentis ipsorum haec dicentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:35</verseNum>
+      </reference>
+      <l>tu Domine qui universitatis nullius indiges voluisti templum habitationis tuae fieri in nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:36</verseNum>
+      </reference>
+      <l>et nunc sancte sanctorum omnium Domine conserva in aeternum inpollutam domum istam quae nuper mundata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.037">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:37</verseNum>
+      </reference>
+      <l>Razias autem quidam de senioribus ab Hierosolymis delatus est Nicanori vir amator civitatis et bene audiens qui pro adfectu pater Iudaeorum appellabatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.038">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:38</verseNum>
+      </reference>
+      <l>hic multis temporibus continentiae propositum tenuit in iudaismo corpusque et animam tradere contentus pro perseverantia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.039">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:39</verseNum>
+      </reference>
+      <l>volens autem Nicanor manifestare odium quod habebat in Iudaeos misit milites quingentos ut eum conprehenderent</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.040">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:40</verseNum>
+      </reference>
+      <l>putabat enim si illum decepisset se cladem maximam Iudaeis inlaturum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.041">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:41</verseNum>
+      </reference>
+      <l>turbis autem inruere domum eius et ianuam disrumpere atque ignem admovere cupientibus cum iam conprehenderetur gladio se petit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.042">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:42</verseNum>
+      </reference>
+      <l>eligens nobiliter mori potius quam subditus fieri peccatoribus et contra natales suos indignis iniuriis agi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.043">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:43</verseNum>
+      </reference>
+      <l>sed cum per festinationem non certo ictu plagam dedisset et turbae intra ostia inrumperent recurrens audenter ad murum praecipitavit semet ipsum viriliter in turbas</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.044">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:44</verseNum>
+      </reference>
+      <l>quibus velociter locum dantibus casui eius venit per mediam cervicem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.045">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:45</verseNum>
+      </reference>
+      <l>et cum adhuc spiraret accensis animis surrexit cum et sanguis eius magno fluxu deflueret saucius cursu turbam pertransiit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.014.046">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>14:46</verseNum>
+      </reference>
+      <l>et stans super petram quandam praeruptam et iam exsanguis effectus conplexus intestina sua utrisque manibus proiecit super turbas invocans Dominatorem vitae ac spiritus ut haec illi iterum redderet atque ita vita defunctus est</l>
+    </verse>
+  </chapter>
+  <chapter num="15">
+    <verse type="bible-verse" id="B.2Maccabees.015.001">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:1</verseNum>
+      </reference>
+      <l>Nicanor autem ut conperit Iudam esse in locis Samariae cogitavit die sabbati cum omni impetu committere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.002">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:2</verseNum>
+      </reference>
+      <l>Iudaeis vero qui illum per necessitatem sequebantur dicentibus ne ita ferociter et barbare feceris sed honorem tribue diei sanctificationis et honora eum qui universa conspicit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.003">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:3</verseNum>
+      </reference>
+      <l>at ille infelix interrogavit si est potens in saeculo qui imperavit agi diem sabbatorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.004">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:4</verseNum>
+      </reference>
+      <l>et respondentibus illis est Dominus vivus ipse in caelo potens qui iussit agi septimam diem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.005">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:5</verseNum>
+      </reference>
+      <l>at ille ait et ego potens sum super terram qui impero sumi arma et negotia regis impleri tamen non obtinuit ut consilium perficeret</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.006">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:6</verseNum>
+      </reference>
+      <l>et Nicanor quidem cum summa superbia erectus cogitaverat commune tropeum statuere de Iuda</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.007">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:7</verseNum>
+      </reference>
+      <l>Macchabeus autem confidebat semper cum omni spe auxilium sibi a Domino adfuturum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.008">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:8</verseNum>
+      </reference>
+      <l>et hortabatur suos ne formidarent ad adventum nationum sed in mente haberent adiutoria sibi facta de caelo et nunc sperarent ab Omnipotente adfuturam sibi victoriam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.009">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:9</verseNum>
+      </reference>
+      <l>et adlocutus illos de lege et prophetis admonens etiam certaminum quae fecerant prius promptiores eos constituit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.010">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:10</verseNum>
+      </reference>
+      <l>et ita animis eorum erectis simul ostendens gentium fallaciam et iuramentorum praevaricationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.011">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:11</verseNum>
+      </reference>
+      <l>singulos autem illorum armavit non clypei et hastae munitione sed sermonibus optimis et hortationibus exposito digno fide somnio per quod universos laetificavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.012">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:12</verseNum>
+      </reference>
+      <l>erat autem huiusmodi visus Onian qui fuerat summus sacerdos virum bonum et benignum verecundum visu modestum moribus et eloquio decorum et qui a puero in virtutibus exercitatus sit manus protendentem orare pro omni populo Iudaeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.013">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:13</verseNum>
+      </reference>
+      <l>post haec apparuisse et alium virum aetate et gloria mirabilem et magni decoris habitudine circa illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.014">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:14</verseNum>
+      </reference>
+      <l>respondentem vero Onian dixisse hic est fratrum amator et populi Israhel hic est qui multum orat pro populo et universa sancta civitate Hieremias propheta Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.015">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:15</verseNum>
+      </reference>
+      <l>extendisse autem Hieremiam dexteram et dedisse Iudae gladium aureum dicentem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.016">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:16</verseNum>
+      </reference>
+      <l>accipe sanctum gladium munus a Deo quo deicies adversarios populi mei Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.017">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:17</verseNum>
+      </reference>
+      <l>exhortati itaque Iudae sermonibus bonis valde de quibus extolli possit impetus et animi iuvenum confortari statuerunt dimicare et confligere fortiter ut virtus de negotiis iudicaret eo quod civitas et sancta et templum periclitaretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.018">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:18</verseNum>
+      </reference>
+      <l>erat enim pro uxoribus et filiis itemque pro fratribus et cognatis minor sollicitudo maximus vero et primus pro sanctitate timor erat templi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.019">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:19</verseNum>
+      </reference>
+      <l>sed et eos qui in civitate erant non minima sollicitudo habebat pro his qui congressi erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.020">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:20</verseNum>
+      </reference>
+      <l>et cum iam omnes sperarent iudicium futurum hostisque adesset atque exercitus esset ordinatus bestiae equitesque oportuno in loco conpositi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.021">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:21</verseNum>
+      </reference>
+      <l>considerans Macchabeus adventum multitudinis et adparatum varium armorum ac ferocitatem bestiarum extendens manum in caelum prodigia facientem Dominum invocavit qui non secundum armorum potentiam sed prout ipsi placet dat dignis victoriam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.022">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:22</verseNum>
+      </reference>
+      <l>dixit autem invocans hoc modo tu Domine misisti angelum tuum sub Ezechia rege Iudae et interfecisti de castris Sennacherim centum octoginta quinque milia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.023">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:23</verseNum>
+      </reference>
+      <l>et nunc Dominator caelorum mitte angelum tuum bonum ante nos in timore et tremore magnitudinis brachii tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.024">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:24</verseNum>
+      </reference>
+      <l>ut metuant qui cum blasphemia veniunt adversus sanctum populum tuum et hic quidem ita peroravit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.025">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:25</verseNum>
+      </reference>
+      <l>Nicanor autem et qui cum ipso erant cum tubis et canticis admovebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.026">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:26</verseNum>
+      </reference>
+      <l>Iudas vero et qui cum eo erant invocato Deo per orationes congressi sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.027">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:27</verseNum>
+      </reference>
+      <l>manu quidem pugnantes sed cordibus Dominum orantes prostraverunt non minus triginta milia praesentia Dei magnifice delectati</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.028">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:28</verseNum>
+      </reference>
+      <l>cumque cessassent et cum gaudio redirent cognoverunt Nicanorem ruisse cum armis suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.029">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:29</verseNum>
+      </reference>
+      <l>facto itaque clamore et perturbatione suscitata patria voce omnipotentem Dominum benedicebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.030">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:30</verseNum>
+      </reference>
+      <l>praecepit autem Iudas qui per omnia corpore et animo emori pro civibus paratus erat caput Nicanoris et manum cum umero abscisam Hierosolymam perferri</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.031">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:31</verseNum>
+      </reference>
+      <l>quo cum convenisset convocatis contribulibus et sacerdotibus ad altare arcersiit et eos qui in arce erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.032">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:32</verseNum>
+      </reference>
+      <l>et ostenso capite Nicanoris et manu nefaria quam extendens contra domum sanctam omnipotentis Dei magnifice gloriatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.033">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:33</verseNum>
+      </reference>
+      <l>linguam etiam impii Nicanoris praecisam iussit particulatim avibus dari manum autem dementis contra templum suspendi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.034">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:34</verseNum>
+      </reference>
+      <l>omnes igitur caeli Dominum benedixerunt dicentes benedictus qui locum suum incontaminatum conservavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.035">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:35</verseNum>
+      </reference>
+      <l>suspendit autem Nicanoris caput in summa arce evidens ut esset et manifestum sit auxilii Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.036">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:36</verseNum>
+      </reference>
+      <l>itaque omnes communi consilio decreverunt nullo modo diem istum absque celebritate praeterire</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.037">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:37</verseNum>
+      </reference>
+      <l>habere autem celebritatem tertiadecima die mensis adar quod dicitur voce syriaca pridie Mardochei die</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.038">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:38</verseNum>
+      </reference>
+      <l>igitur his erga Nicanorem gestis et ex illis temporibus ab Hebraeis civitate possessa ego quoque in his finem faciam sermonis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.039">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:39</verseNum>
+      </reference>
+      <l>et siquidem bene et ut historiae conpetit et ipse velim si autem minus digne concedendum est mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Maccabees.015.040">
+      <reference>
+        <bookName>2Maccabees</bookName>
+        <verseNum>15:40</verseNum>
+      </reference>
+      <l>sicut enim vinum semper bibere aut semper aquam contrarium est alternis autem uti delectabile ita legentibus si semper exactus sit sermo non erit gratus hic ergo erit consummatus</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.2Maccabees.colophon.001">
+    <reference>
+      <bookName>2Maccabees</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT LIBER SECUNDUS MACCHABEORUM</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

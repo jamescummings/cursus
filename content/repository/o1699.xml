@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1698" nextid="o1700" id="o1699">
+   <header>
+      <usage ms="Hyd" code="08084000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.538</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Mentes nostras quaesumus domine spiritus sanctus paraclitus qui a te procedit illuminet et inducat in omnem sicut tuus promisit filius veritatem</pBody>
+</prayer>

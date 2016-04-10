@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3544" nextid="c3546" id="c3545">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Iustus dominus et iustitias dilexit</rdg>
+         <rdg wit="CAO-M CAO-L"> Iustus dominus iustitiam dilexit</rdg>
+         <rdg wit="CAO-E"> Iustus dominus et iustitias dilexi</rdg>
+      </app> aequitatem vidit vultus eius</aBody>
+</ant>

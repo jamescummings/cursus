@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4159" nextid="c4161" id="c4160">
+   <header>
+      <usage ms="Alb2" code="07025000"/>
+      <usage ms="Bat" code="07025000">[53r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07025000">[63r] vesp2</usage>
+      <usage ms="Cht" code="07025000"/>
+      <usage ms="Ely" code="07025000"/>
+      <usage ms="Evm" code="07025000"/>
+      <usage ms="Glo" code="07025000"/>
+      <usage ms="Hyd" code="07025000"/>
+      <usage ms="Mch" code="07025000">[127r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07025000"/>
+      <usage ms="Wcb" code="07025000"/>
+      <usage ms="Wor" code="07025000"/>
+   </header>
+   <aBody wit="CAO-F Ely Hyd Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Opera quae ego facio testimonium perhibent de me quia pater me misit</aBody>
+</ant>

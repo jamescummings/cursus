@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2588" nextid="c2590" id="c2589">
+   <aBody wit="CAO-M CAO-D CAO-F CAO-L"> Ego sum alpha et omega primus et novissimus
+     <app>
+         <rdg wit="CAO-M CAO-D CAO-F"> initium et finis</rdg>
+         <rdg wit="CAO-L"> principium et finis</rdg>
+      </app> qui ante mundi principium et in saeculum saeculi vivo in aeternum manus meae quae vos fecerunt clavis confixae sunt propter vos flagellis caesus sum
+     <app>
+         <rdg wit="CAO-M CAO-F CAO-L"> spinis coronatus sum</rdg>
+         <rdg wit="CAO-D"> spinis coronatus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F"> aquam petii pendens</rdg>
+         <rdg wit="CAO-L"> aqua petii pendens</rdg>
+         <rdg wit="CAO-M"> aquam petivi pendens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D"> et acetum porrexerunt</rdg>
+         <rdg wit="CAO-F"> et aceto porrexerunt</rdg>
+         <rdg wit="CAO-L"> et acetum porrigebant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> in escam meam fel dederunt</rdg>
+         <rdg wit="CAO-M"> in esca mea fel dederunt</rdg>
+      </app> et in latus lancea
+     <app>
+         <rdg wit="CAO-F CAO-L"> mortuus et sepultus sum</rdg>
+         <rdg wit="CAO-M CAO-D"> mortuus et sepultus</rdg>
+      </app> resurrexi vobiscum sum videte quia ego ipse sum et non est deus praeter me
+     <app>
+         <rdg wit="CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-D CAO-F"> alleluia alleluia</rdg>
+         <rdg wit="CAO-M"> alleluia alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-G" num="2"> Ego sum alpha et omega primus et novissimus initium et finis qui ante mundi principium et in saeculum saeculi vivo in aeternum manus meae quae vos fecerunt clavis confixae sunt spinis coronatus sum propter vos flagellis caesus sum absque poenis poenae meae vos</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-F"> Te aeternum unum deum omnipotentem in trinitate colimus qui in cruce proprio redemisti nos sanguine et mortis Erebum superando triumphasti alta polorum regna te adoramus et glorificamus et petimus illo tecum cuncti perpetim laeti mereamur vocem audire dulcisonam tuam ita nobis dicentem</vBody>
+      <rep type="a" wit="CAO-F">Videte quia</rep>
+   </verses>
+</ant>

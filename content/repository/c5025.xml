@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5024" nextid="c5026" id="c5025">
+   <header>
+      <usage ms="Evm" code="02122700">[45v] lauds-commemoratio</usage>
+      <usage ms="Wcb" code="02122600">[58r] matins-n1-a1</usage>
+   </header>
+   <aBody wit="CAO-B CAO-H CAO-R Evm Wcb"> Stephanus autem plenus gratia et fortitudine faciebat
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> prodigia et signa magna</rdg>
+         <rdg wit="Evm Wcb"> signa magna</rdg>
+      </app> in populo</aBody>
+</ant>

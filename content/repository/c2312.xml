@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2311" nextid="c2313" id="c2312">
+   <aBody wit="CAO-D CAO-F CAO-S"> Dixit Simon Petrus domine ad quem ibimus verba vitae aeternae habes
+     <app>
+         <rdg wit="CAO-D"> et nos credimus et cognovimus</rdg>
+         <rdg wit="CAO-F"> et nos credidimus et cognovimus</rdg>
+         <rdg wit="CAO-S"> et nos cognovimus et credimus</rdg>
+      </app> quia tu es Christus filius dei alleluia</aBody>
+</ant>

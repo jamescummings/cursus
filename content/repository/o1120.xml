@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1119" nextid="o1121" id="o1120">
+   <header>
+      <usage ms="Mch" code="06037000">[112r] lauds</usage>
+      <usage ms="Cht" code="06037000"/>
+      <usage ms="Hyd" code="06037000"/>
+      <usage ms="Wcb" code="06037000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.71*</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Cht Wcb Mch">
+      <app>
+         <rdg wit="Hyd"> Observationis huius annua celebritate laetantes</rdg>
+         <rdg wit="Cht"> Observationis his annua celebritate laetantes</rdg>
+         <rdg wit="Wcb"> Observationes huius annua celebritate laetantes</rdg>
+      </app> quaesumus domine ut paschalibus actionibus inhaerentes plenis eius effectibus gaudeamus</pBody>
+</prayer>

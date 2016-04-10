@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1260" nextid="c1262" id="c1261">
+   <header>
+      <usage ms="Alb2" code="02122700">[35v] matins-n3</usage>
+      <usage ms="Bat" code="02122700">[21v] matins-n3</usage>
+      <usage ms="Cdm" code="02122700">[27r] matins-n3</usage>
+      <usage ms="Evm" code="02122700">[44r] matins-n3</usage>
+      <usage ms="Hyd" code="02122700">[24v] matins-n3</usage>
+      <usage ms="Pet" code="02122700">[27r] matins-n3</usage>
+      <usage ms="Wcb" code="02122700">[62r] matins-n3</usage>
+      <usage ms="Wor" code="02122700">[20v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Adeptus est sedem apostolici culminis</rdg>
+         <rdg wit="CAO-D"> Adeptus sedem apostolici culminis</rdg>
+      </app> qui
+     <app>
+         <rdg wit="CAO-F Hyd Alb2 Evm Cdm Wor Pet"> retia carnalia</rdg>
+         <rdg wit="Wcb Bat"> retia carnalis</rdg>
+         <rdg wit="CAO-D"> rectia carnalis</rdg>
+      </app> contempserat genitoris</aBody>
+</ant>

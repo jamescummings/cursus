@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6011" nextid="c6013" id="c6012">
+   <header>
+      <usage ms="Alb2" code="07011000">[76r] matins-n2-r6</usage>
+      <usage ms="Bat" code="07011000">[47v] matins-n2-r7</usage>
+      <usage ms="Cdm" code="07011000">[57r] matins-n2-r7</usage>
+      <usage ms="Cht" code="07011000">[22r] matins-n2-r7</usage>
+      <usage ms="Ely" code="07011000">[67r] matins-n2-r7</usage>
+      <usage ms="Hyd" code="07011000">[69v] matins-n2-r8</usage>
+      <usage ms="Mch" code="07011000">[113v] matins-n2-r6</usage>
+      <usage ms="Pet" code="07011000">[64r] matins-n2-r7</usage>
+      <usage ms="Wcb" code="07011000">[92v] matins-n2-r7</usage>
+      <usage ms="Wor" code="07011000">[43r] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Wcb Alb2 Cdm Bat Mch"> Abscondite eleemosynam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Wcb Alb2 Cdm Bat Mch"> in sinu pauperis</rdg>
+         <rdg wit="CAO-D"> in sinu pauperum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Wcb Alb2 Cdm Bat Mch"> et ipsa orat pro vobis</rdg>
+         <rdg wit="CAO-M"> et ipsa orat pro nobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Wcb Alb2 Cdm Bat Mch"> ad dominum</rdg>
+         <rdg wit="CAO-C"> apud dominum</rdg>
+      </app> quia sicut aqua extinguit ignem ita eleemosyna extinguit peccatum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Ely Wor Alb2 Cdm Bat Mch"> Honora dominum de tua substantia et de primitiis frugum tuarum da pauperibus</vBody>
+      <vBody type="r" wit="CAO-G CAO-E CAO-S CAO-L Cht Pet Wcb"> Date eleemosynam dicit dominus
+      <app>
+            <rdg wit="CAO-E Cht Wcb"> et ecce omnia munda sunt vobis</rdg>
+            <rdg wit="CAO-G CAO-S CAO-L Pet"> et omnia munda sunt vobis</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="Hyd CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Pet Wcb Alb2 Cdm Bat Mch"> Quia</rep>
+   </verses>
+</res>

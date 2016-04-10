@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5246" nextid="c5248" id="c5247">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R"> Tunc memorata civitas et conventu Germanorum
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-R"> et nobilitate pollebat</rdg>
+         <rdg wit="CAO-H"> nobilitate pollebat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> quia esset salubris aere</rdg>
+         <rdg wit="CAO-C"> quia era salubris aere</rdg>
+         <rdg wit="CAO-V"> quia esse salubris aere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> iucunda flumine</rdg>
+         <rdg wit="CAO-C"> iucunda fluminibus</rdg>
+         <rdg wit="CAO-V"> iucunda flumina</rdg>
+      </app> fecunda terris arboribus nemorosa
+     <app>
+         <rdg wit="CAO-V CAO-H CAO-R"> et vineis uberrima</rdg>
+         <rdg wit="CAO-C"> uberrima</rdg>
+      </app>
+   </aBody>
+</ant>

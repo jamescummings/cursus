@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1413" nextid="c1414b" id="c1414">
+   <header>
+      <usage ms="Alb2" code="01012000">[6v] lauds gosp</usage>
+      <usage ms="Cdm" code="01012000">[10v] lauds gosp</usage>
+      <usage ms="Evm" code="01012000">[8r] lauds gosp</usage>
+      <usage ms="Evm" code="01012000">[8v] commemoration</usage>
+      <usage ms="Evm" code="01017000">[12r] lauds-a1</usage>
+      <usage ms="Glo" code="14032500"/>
+      <usage ms="Mch" code="01012000">[5v] lauds gosp</usage>
+      <usage ms="Wor" code="01012000">[4r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Wor">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Wor"> Angelus domini nuntiavit Mariae</rdg>
+         <rdg wit="CAO-V"> Angelus domini nuntiavit Maria</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-S CAO-L Alb2 Evm Mch Cdm Wor"> et concepit de spiritu sancto alleluia</rdg>
+         <rdg wit="CAO-R"> et concepit de spiritu sanc<gap reason="lost text"/>
+         </rdg>
+         <rdg wit="CAO-F"> et concepit de spiritu sancto</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Angelus domini nuntiavit Mariae</aBody>
+</ant>

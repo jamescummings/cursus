@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7860" nextid="c7862" id="c7861">
+   <rBody wit="CAO-E CAO-D CAO-S CAO-L"> Videns rex Polymius ex diversis partibus in templo Astaroth congregatos languidos oratione Bartholomaei salvatos
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-L"> credidit Christo</rdg>
+         <rdg wit="CAO-S"> credidit ipse</rdg>
+      </app> et baptizatus est cum omni domo et regno suo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-D CAO-S CAO-L"> Statim quo a daemonio</rdg>
+            <rdg wit="CAO-E"> Statimque quo a <corr sic="daemonia">daemonio</corr>
+            </rdg>
+         </app> confracta conspiceret omnia idola et ipsum daemonem
+      <app>
+            <rdg wit="CAO-E CAO-D CAO-S"> igneis</rdg>
+            <rdg wit="CAO-L"> igneum</rdg>
+         </app> religatum catenis</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-S CAO-L">Credidit</rep>
+   </verses>
+</res>

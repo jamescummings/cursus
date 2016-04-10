@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3044" nextid="c3046" id="c3045">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H"> Hi sunt qui venerunt</rdg>
+         <rdg wit="CAO-E CAO-R"> Hii sunt qui venerunt</rdg>
+      </app> ex magna tribulatione et laverunt stolas suas
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R"> et dealbaverunt eas in sanguine agni</rdg>
+         <rdg wit="CAO-C"> in sanguine agni</rdg>
+      </app>
+   </aBody>
+</ant>

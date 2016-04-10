@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8555" nextid="c8557" id="c8556">
+   <header>
+      <usage ms="Hyd" code="14010520">commemoration</usage>
+      <usage ms="Mch" code="02122400">[23v] vesp2-a2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. first part (Videbunt...inclitum tuum) of respond c.7854</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Hyd Mch"> Videbunt gentes iustum tuum et cuncti reges inclitum tuum et videbit omnis caro salutare <app>
+         <rdg wit="Hyd">dei nostri</rdg>
+         <rdg wit="Mch"> domini dei nostri</rdg>
+      </app>
+   </aBody>
+</ant>

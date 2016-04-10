@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5358" nextid="c5360" id="c5359">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F"> Verba quae locutus sum vobis alleluia</rdg>
+         <rdg wit="CAO-L"> Verba quae locutus sum vobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E"> spiritus et vita sunt</rdg>
+         <rdg wit="CAO-M"> spiritus et vitae sunt</rdg>
+         <rdg wit="CAO-V"> spiritus et vita</rdg>
+         <rdg wit="CAO-H CAO-D CAO-F CAO-L"> spiritus et vita sunt alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

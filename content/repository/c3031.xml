@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3030" nextid="c3032" id="c3031">
+   <aBody wit="CAO-C CAO-V"> Herodes funestus praecepit interficere
+     <app>
+         <rdg wit="CAO-V"> amputare iussit caput Joannis in carcere</rdg>
+         <rdg wit="CAO-C"> et amputare iussit caput Joannis in carcere</rdg>
+      </app>
+   </aBody>
+</ant>

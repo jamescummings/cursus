@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2955" nextid="c2957" id="c2956">
+   <aBody wit="CAO-R">
+      <lg type="verse" org="uniform" sample="complete" part="N">
+         <l part="N"> Gloriosa sanctissimi</l>
+         <l part="N"> solemnia Gregorii</l>
+         <l part="N"> toto corde catholica</l>
+         <l part="N"> suscipiat ecclesia</l>
+         <l part="N"> cuius doctrina aurea</l>
+         <l part="N"> per mundi splendet climata</l>
+         <l part="N"> quam meritis et precibus</l>
+         <l part="N"> Christo commendet quaesumus</l>
+      </lg>
+   </aBody>
+</ant>

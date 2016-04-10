@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4049" nextid="c4051" id="c4050">
+   <header>
+      <usage ms="Alb2" code="01048010">[22r] </usage>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="01048010">[15r] </usage>
+      <usage ms="Evm" code="01048010">[30r] </usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="01048000">[21r] </usage>
+      <usage ms="Pet" code="01048010">[12v] </usage>
+      <usage ms="Wcb" code="01048010">[49v] </usage>
+      <usage ms="Wor" code="01048010">[10v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> O oriens splendor lucis aeternae</rdg>
+         <rdg wit="Hyd"> O oriens splendor lucis</rdg>
+      </app> et sol iustitiae
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R Hyd Alb2 Evm Ely"> veni et illumina sedentes</rdg>
+         <rdg wit="CAO-C CAO-E CAO-F CAO-S Mch Cdm Wor Wcb Pet"> veni et illumina sedentem</rdg>
+         <rdg wit="CAO-D"> veni et numina sedentes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Mch Cdm Ely Wor Wcb Pet"> in tenebris et umbra mortis</rdg>
+         <rdg wit="Hyd Evm"> in tenebris et in umbra mortis</rdg>
+         <rdg wit="CAO-C"> in tenebris et umbrae mortis</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-L"> O oriens splendor lucis aeternae et sol iustitiae veni et illumina <gap desc="remainder of text" reason="lacuna in manuscript" resp="Hesbert"/>
+   </aBody>
+</ant>

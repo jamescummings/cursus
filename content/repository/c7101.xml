@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7100" nextid="c7102" id="c7101">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n2-r6</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">CAO-E, CAO-F and CAO-L have a slightly different melody from the other sources</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-R CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-L Hyd"> Loquebantur variis linguis apostoli alleluia</rdg>
+         <rdg wit="CAO-C CAO-B CAO-R CAO-S"> Loquebantur variis linguis apostoli</rdg>
+      </app> magnalia dei prout spiritus sanctus dabat eloqui illis alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-R CAO-F CAO-S CAO-L Hyd">Repleti sunt omnes spiritu sancto et coeperunt loqui</vBody>
+      <vBody type="r" wit="CAO-E">Repleti sunt omnes</vBody>
+      <rep type="r" wit="CAO-B CAO-R CAO-F CAO-L Hyd">Prout</rep>
+      <rep type="r" wit="CAO-S">Magnalia</rep>
+      <rep type="r" wit="CAO-E">Alleluia</rep>
+   </verses>
+</res>

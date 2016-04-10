@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6789" nextid="c6791" id="c6790">
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gratia Dei sum id quod sum
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L"> et</rdg>
+         <rdg wit="CAO-B CAO-D"> sed</rdg>
+      </app> gratia eius in me vacua non fuit sed semper in me manet</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-L"> Bonum certamen certavi cursum consummavi fidem servavi</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Qui operatus est Petro
+       <app>
+            <rdg wit="CAO-D CAO-S"> in apostolatum</rdg>
+            <rdg wit="CAO-F"> in apostolatu</rdg>
+         </app> operatus est et mihi inter gentes</vBody>
+      <vBody id="c6790-1" type="r" wit="CAO-E"> Qui operatus est Petro in apostolatum operatus est et mihi inter gentes</vBody>
+      <rep corresp="c6790-1" type="r" wit="CAO-E"> Sed <supplied>semper</supplied>
+      </rep>
+      <vBody id="c6790-2" type="r" num="2" wit="CAO-E"> Qui operatus est Petro in apostolatu operatus est et mihi inter gentes</vBody>
+      <rep corresp="c6790-2" type="r" wit="CAO-E"> Et gratia</rep>
+      <rep type="r" wit="CAO-R CAO-F CAO-S CAO-L"> Et gratia</rep>
+      <rep type="r" wit="CAO-H"> Sed <supplied>semper</supplied>
+      </rep>
+      <rep type="r" wit="CAO-B CAO-D"> Sed gratia</rep>
+   </verses>
+</res>

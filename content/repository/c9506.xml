@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9505" nextid="c9507" id="c9506">
+   <header>
+      <usage ms="Evm" code="06021000">[96v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="Evm"> Recordatus est autem dominus Noe et omnium animantium quae erant cum eo in arca et imminutae sunt aquae et arefacta <add place="interlined" resp="DC" hand="later">est</add> terra</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Requievitque arca mense septimo super montes Armeniae</vBody>
+      <rep type="r" wit="Evm">Et imminutae</rep>
+   </verses>
+</res>

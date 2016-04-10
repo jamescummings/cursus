@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4735" nextid="c4737" id="c4736">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Sancti tui domine florebunt sicut lilium alleluia</rdg>
+         <rdg wit="CAO-C"> Sancti tui domine florebunt sicut lilia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> et sicut odor balsami</rdg>
+         <rdg wit="CAO-C"> et sicut odor Libani</rdg>
+         <rdg wit="CAO-E"> et sicut odor basami</rdg>
+      </app> erunt ante te alleluia</aBody>
+</ant>

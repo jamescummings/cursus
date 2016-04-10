@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1753" nextid="o1755" id="o1754">
+   <header>
+      <usage ms="Cdm" code="01021000">[13r] sext</usage>
+      <usage ms="Evm" code="01008000">[11r] </usage>
+      <usage ms="Mch" code="01021000">[9r] nones</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.812</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Mch Cdm"> Mentes nostras quaesumus domine lumine tuae visitationis inlustra ut esse te largiante mereamur et inter prospera humiles et inter adversa securi</pBody>
+</prayer>

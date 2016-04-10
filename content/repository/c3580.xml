@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3579" nextid="c3581" id="c3580">
+   <header>
+      <usage ms="Alb2" code="02122600">[33r] lauds-a2</usage>
+      <usage ms="Bat" code="02122600">[20r] lauds-a2</usage>
+      <usage ms="Cdm" code="02122600">[25v] lauds-a2</usage>
+      <usage ms="Evm" code="02122600">[41v] lauds-a2</usage>
+      <usage ms="Pet" code="02122600">[24r] lauds-a2</usage>
+      <usage ms="Wcb" code="02122600">[60r] lauds-a2</usage>
+      <usage ms="Wor" code="02122600">[18v] lauds-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-F CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> Lapides torrentes illi dulces fuerunt</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-R CAO-S"> Lapides torrentis illi dulces fuerunt</rdg>
+         <rdg wit="CAO-C"> Lapides torrentis illis dulces fuerunt</rdg>
+         <rdg wit="CAO-D"> Lapides torrentis illi duces fuerunt</rdg>
+      </app> ipsum sequuntur omnes animae iustae</aBody>
+</ant>

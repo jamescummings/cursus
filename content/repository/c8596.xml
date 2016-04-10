@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8595" nextid="c8597" id="c8596">
+   <header>
+      <usage ms="Evm" code="02010100">[61v] lauds commemoratio</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">[Thu Jan 27 12:30:45 2005] Text is one verse of respond c7001</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm"> Iste est Joannes cui Christus in cruce matrem virginem virgini commendavit</aBody>
+</ant>

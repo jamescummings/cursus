@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3505" nextid="c3507" id="c3506">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-C CAO-R"> Joseph ab Arimathia petiit corpus Jesu</rdg>
+         <rdg wit="CAO-H"> Joseph ab Arimathia petivit corpus Jesu</rdg>
+         <rdg wit="CAO-E"> Joseph ab Arimathia accepit corpus Jesu</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H"> et sepelivit eum</rdg>
+         <rdg wit="CAO-R"> et sepelivit illud</rdg>
+      </app> in sepulcro suo</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1696" nextid="o1698" id="o1697">
+   <header>
+      <usage ms="Hyd" code="08082000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.532</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus qui apostolis tuis sanctum dedisti spiritum concede plebi tuae pie petitionis effectum ut quibus dedisti fidem largiaris et pacem</pBody>
+</prayer>

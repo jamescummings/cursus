@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6653" nextid="c6655" id="c6654">
+   <rBody wit="CAO-S CAO-L"> Emit Maria pretiosum unguentum et unxit pedes domini repleta est tota domus
+      <app>
+         <rdg wit="CAO-S"> miro odore</rdg>
+         <rdg wit="CAO-L"> mirro odore</rdg>
+      </app> indignati sunt omnes qui videbant eam et dicebant
+      <app>
+         <rdg wit="CAO-L"> ut quid perditio haec</rdg>
+         <rdg wit="CAO-S"> ut qui perditio haec</rdg>
+      </app> potuit hoc venumdari et dari pauperibus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S CAO-L"> Bonum opus operata est in me nam semper pauperes habebitis vobiscum me autem non semper habebitis</vBody>
+      <rep type="r" wit="CAO-S CAO-L"> Indignati</rep>
+   </verses>
+</res>

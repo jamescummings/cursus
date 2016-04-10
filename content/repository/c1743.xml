@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1742" nextid="c1744" id="c1743">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Bonum certamen certavi cursum consummavi fidem servavi</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-M CAO-V CAO-R CAO-D"> De cetero</rdg>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-F CAO-S"> De reliquo</rdg>
+         </app> reposita est mihi corona iustitiae</vBody>
+   </verses>
+</ant>

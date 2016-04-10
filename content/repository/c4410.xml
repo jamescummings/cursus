@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4409" nextid="c4411" id="c4410">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Wcb" code="03021000">[65v] (unascribed)</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.161</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Wcb"> Puer Jesus proficiebat aetate et sapientia
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Alb2"> coram deo et hominibus</rdg>
+         <rdg wit="CAO-F"> apud deum et hominibus</rdg>
+         <rdg wit="CAO-G CAO-S Wcb"> apud deum et homines</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3857" nextid="c3859" id="c3858">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Nazaraeus vocabitur puer iste
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> vinum et siceram non bibet</rdg>
+         <rdg wit="CAO-V"> vinum et sicera non bibet</rdg>
+         <rdg wit="CAO-D"> vinum et siceram non bibit</rdg>
+      </app> et omne immundum
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> non manducabit ex utero matris suae</rdg>
+         <rdg wit="CAO-C CAO-S"> non manducavit ex utero matris suae</rdg>
+         <rdg wit="CAO-E"> non <sic resp="Hesbert">mandubit</sic> ex utero matris suae</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4126" nextid="c4128" id="c4127">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> Omnes intendentes in eum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-L"> aspiciebant vultum eius</rdg>
+         <rdg wit="CAO-V"> aspiciebat vultus eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-L"> tamquam vultum angeli stantis inter illos</rdg>
+         <rdg wit="CAO-V"> tamquam vultu angeli stantis inter illos</rdg>
+      </app>
+   </aBody>
+</ant>

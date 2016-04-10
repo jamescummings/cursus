@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4717" nextid="c4719" id="c4718">
+   <header>
+      <usage ms="Glo" code="14040400">[77v] nones</usage>
+   </header>
+   <aBody wit="CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-F"> Sancte Maure intercede pro nobis</rdg>
+         <rdg wit="CAO-S"> Sancte Martine intercede pro nobis</rdg>
+      </app> ut consortes gloriae sanctorum tecum effici mereamur</aBody>
+   <aBody wit="Glo" type="incipit">Sancte Ambrosi intercede</aBody>
+</ant>

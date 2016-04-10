@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6501" nextid="c6503" id="c6502">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S"> Domine non aspicias peccata mea sed fidem huius hominis
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> qui rogat resuscitari filium suum</rdg>
+         <rdg wit="CAO-H CAO-R"> qui resuscitari filium suum rogat</rdg>
+      </app> et redde
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-S"> in hoc corpusculum</rdg>
+         <rdg wit="CAO-C CAO-F"> in hoc corpusculo</rdg>
+      </app> animam
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> quam tulisti</rdg>
+         <rdg wit="CAO-H CAO-R"> quam abstulisti</rdg>
+      </app> et completa oratione revixit et sanum reddidit patri suo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> Et regrediente anima</rdg>
+            <rdg wit="CAO-C"> Et regrediente anima ita</rdg>
+         </app> corpusculum omne contremuit et sub oculis omnium qui aderant
+       <app>
+            <rdg wit="CAO-C CAO-F CAO-S"> vivus</rdg>
+            <rdg wit="CAO-D">
+               <sic resp="Hesbert">vivis</sic>
+            </rdg>
+         </app> apparuit</vBody>
+      <vBody type="r" wit="CAO-H CAO-R"> Cuius manum cum tenuisset concussione mirifica tremendo palpitare coepit</vBody>
+      <rep type="r" wit="CAO-C CAO-D CAO-F CAO-S CAO-R"> Et sanum</rep>
+      <rep type="r" wit="CAO-H"> Et completa</rep>
+   </verses>
+</res>

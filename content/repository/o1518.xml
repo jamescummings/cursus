@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1507" nextid="o1519" id="o1518">
+   <header>
+      <usage ms="Alb2" code="07016000"/>
+      <usage ms="Bat" code="07016000">[50v] lauds</usage>
+      <usage ms="Cdm" code="07016000">[60r] lauds</usage>
+      <usage ms="Cht" code="07016000"/>
+      <usage ms="Ely" code="07016000"/>
+      <usage ms="Evm" code="07016000"/>
+      <usage ms="Hyd" code="07016000"/>
+      <usage ms="Mch" code="07016000">[120v] lauds</usage>
+      <usage ms="Wcb" code="07016000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.188</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="Ely Hyd Cht Wcb Alb2 Mch Bat">Esto domine propitius plebi tuae</rdg>
+         <rdg wit="Evm Cdm">Esto domine plebi tuae propitius</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Evm Wcb Alb2 Cdm Mch Bat"> et quam tibi facis esse devotam</rdg>
+         <rdg wit="Hyd Cht"> et quam tibi facis esse subiectam</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Bat"> benigno refove</rdg>
+         <rdg wit="Mch"> benigno respice</rdg>
+      </app> miseratus auxilio</pBody>
+</prayer>

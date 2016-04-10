@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="1Peter">
+<body>
+  <rubric type="bible-incipit" id="B.1Peter.incipit.001">
+    <reference>
+      <bookName>1Peter</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT EPISTULA PETRI</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.1Peter.001.001">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Petrus apostolus Iesu Christi electis advenis dispersionis Ponti Galatiae Cappadociae Asiae et Bithyniae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.002">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>secundum praescientiam Dei Patris in sanctificatione Spiritus in oboedientiam et aspersionem sanguinis Iesu Christi gratia vobis et pax multiplicetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.003">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>benedictus Deus et Pater Domini nostri Iesu Christi qui secundum magnam misericordiam suam regeneravit nos in spem vivam per resurrectionem Iesu Christi ex mortuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.004">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>in hereditatem incorruptibilem et incontaminatam et inmarcescibilem conservatam in caelis in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.005">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>qui in virtute Dei custodimini per fidem in salutem paratam revelari in tempore novissimo</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.006">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>in quo exultatis modicum nunc si oportet contristati in variis temptationibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.007">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>ut probatum vestrae fidei multo pretiosius sit auro quod perit per ignem probato inveniatur in laudem et gloriam et honorem in revelatione Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.008">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>quem cum non videritis diligitis in quem nunc quoque non videntes credentes autem exultatis laetitia inenarrabili et glorificata</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.009">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>reportantes finem fidei vestrae salutem animarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.010">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>de qua salute exquisierunt atque scrutati sunt prophetae qui de futura in vobis gratia prophetaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.011">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>scrutantes in quod vel quale tempus significaret in eis Spiritus Christi praenuntians eas quae in Christo sunt passiones et posteriores glorias</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.012">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>quibus revelatum est quia non sibi ipsis vobis autem ministrabant ea quae nunc nuntiata sunt vobis per eos qui evangelizaverunt vos Spiritu Sancto misso de caelo in quae desiderant angeli prospicere</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.013">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>propter quod succincti lumbos mentis vestrae sobrii perfecte sperate in eam quae offertur vobis gratiam in revelatione Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.014">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>quasi filii oboedientiae non configurati prioribus ignorantiae vestrae desideriis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.015">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>sed secundum eum qui vocavit vos sanctum et ipsi sancti in omni conversatione sitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.016">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>quoniam scriptum est sancti eritis quia ego sanctus sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.017">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>et si Patrem invocatis eum qui sine acceptione personarum iudicat secundum uniuscuiusque opus in timore incolatus vestri tempore conversamini</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.018">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>scientes quod non corruptibilibus argento vel auro redempti estis de vana vestra conversatione paternae traditionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.019">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>sed pretioso sanguine quasi agni incontaminati et inmaculati Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.020">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>praecogniti quidem ante constitutionem mundi manifestati autem novissimis temporibus propter vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.021">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>qui per ipsum fideles estis in Deo qui suscitavit eum a mortuis et dedit ei gloriam ut fides vestra et spes esset in Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.022">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>animas vestras castificantes in oboedientia caritatis in fraternitatis amore simplici ex corde invicem diligite adtentius</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.023">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>renati non ex semine corruptibili sed incorruptibili per verbum Dei vivi et permanentis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.024">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>quia omnis caro ut faenum et omnis gloria eius tamquam flos faeni exaruit faenum et flos decidit</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.001.025">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>verbum autem Domini manet in aeternum hoc est autem verbum quod evangelizatum est in vos</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.1Peter.002.001">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>deponentes igitur omnem malitiam et omnem dolum et simulationes et invidias et omnes detractiones</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.002">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>sicut modo geniti infantes rationale sine dolo lac concupiscite ut in eo crescatis in salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.003">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>si gustastis quoniam dulcis Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.004">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>ad quem accedentes lapidem vivum ab hominibus quidem reprobatum a Deo autem electum honorificatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.005">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>et ipsi tamquam lapides vivi superaedificamini domus spiritalis sacerdotium sanctum offerre spiritales hostias acceptabiles Deo per Iesum Christum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.006">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>propter quod continet in scriptura ecce pono in Sion lapidem summum angularem electum pretiosum et qui crediderit in eo non confundetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.007">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>vobis igitur honor credentibus non credentibus autem lapis quem reprobaverunt aedificantes hic factus est in caput anguli</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.008">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>et lapis offensionis et petra scandali qui offendunt verbo nec credunt in quod et positi sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.009">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>vos autem genus electum regale sacerdotium gens sancta populus adquisitionis ut virtutes adnuntietis eius qui de tenebris vos vocavit in admirabile lumen suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.010">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>qui aliquando non populus nunc autem populus Dei qui non consecuti misericordiam nunc autem misericordiam consecuti</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.011">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.012">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>conversationem vestram inter gentes habentes bonam ut in eo quod detractant de vobis tamquam de malefactoribus ex bonis operibus considerantes glorificent Deum in die visitationis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.013">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>subiecti estote omni humanae creaturae propter Dominum sive regi quasi praecellenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.014">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>sive ducibus tamquam ab eo missis ad vindictam malefactorum laudem vero bonorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.015">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>quia sic est voluntas Dei ut benefacientes obmutescere faciatis inprudentium hominum ignorantiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.016">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>quasi liberi et non quasi velamen habentes malitiae libertatem sed sicut servi Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.017">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>omnes honorate fraternitatem diligite Deum timete regem honorificate</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.018">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>servi subditi in omni timore dominis non tantum bonis et modestis sed etiam discolis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.019">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>haec est enim gratia si propter conscientiam Dei sustinet quis tristitias patiens iniuste</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.020">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>quae enim gloria est si peccantes et colaphizati suffertis sed si benefacientes et patientes sustinetis haec est gratia apud Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.021">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>in hoc enim vocati estis quia et Christus passus est pro vobis vobis relinquens exemplum ut sequamini vestigia eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.022">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>qui peccatum non fecit nec inventus est dolus in ore ipsius</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.023">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>qui cum malediceretur non maledicebat cum pateretur non comminabatur tradebat autem iudicanti se iniuste</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.024">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>qui peccata nostra ipse pertulit in corpore suo super lignum ut peccatis mortui iustitiae viveremus cuius livore sanati estis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.002.025">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>eratis enim sicut oves errantes sed conversi estis nunc ad pastorem et episcopum animarum vestrarum</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.1Peter.003.001">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>similiter mulieres subditae suis viris ut et si qui non credunt verbo per mulierum conversationem sine verbo lucri fiant</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.002">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>considerantes in timore castam conversationem vestram</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.003">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>quarum sit non extrinsecus capillaturae aut circumdatio auri aut indumenti vestimentorum cultus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.004">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>sed qui absconditus cordis est homo in incorruptibilitate quieti et modesti spiritus quod est in conspectu Dei locuples</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.005">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>sic enim aliquando et sanctae mulieres sperantes in Deo ornabant se subiectae propriis viris</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.006">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>sicut Sarra oboediebat Abrahae dominum eum vocans cuius estis filiae benefacientes et non timentes ullam perturbationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.007">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>viri similiter cohabitantes secundum scientiam quasi infirmiori vaso muliebri inpertientes honorem tamquam et coheredibus gratiae vitae uti ne inpediantur orationes vestrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.008">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>in fine autem omnes unianimes conpatientes fraternitatis amatores misericordes humiles</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.009">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>non reddentes malum pro malo vel maledictum pro maledicto sed e contrario benedicentes quia in hoc vocati estis ut benedictionem hereditate possideatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.010">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>qui enim vult vitam diligere et videre dies bonos coerceat linguam suam a malo et labia eius ne loquantur dolum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.011">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>declinet autem a malo et faciat bonum inquirat pacem et persequatur eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.012">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>quia oculi Domini super iustos et aures eius in preces eorum vultus autem Domini super facientes mala</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.013">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>et quis est qui vobis noceat si boni aemulatores fueritis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.014">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>sed et si quid patimini propter iustitiam beati timorem autem eorum ne timueritis et non conturbemini</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.015">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>Dominum autem Christum sanctificate in cordibus vestris parati semper ad satisfactionem omni poscenti vos rationem de ea quae in vobis est spe</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.016">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>sed cum modestia et timore conscientiam habentes bonam ut in eo quod detrahunt vobis confundantur qui calumniantur vestram bonam in Christo conversationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.017">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>melius est enim benefacientes si velit voluntas Dei pati quam malefacientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.018">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>quia et Christus semel pro peccatis mortuus est iustus pro iniustis ut nos offerret Deo mortificatus carne vivificatus autem spiritu</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.019">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>in quo et his qui in carcere erant spiritibus veniens praedicavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.020">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>qui increduli fuerant aliquando quando expectabat Dei patientia in diebus Noe cum fabricaretur arca in qua pauci id est octo animae salvae factae sunt per aquam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.021">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>quod et vos nunc similis formae salvos facit baptisma non carnis depositio sordium sed conscientiae bonae interrogatio in Deum per resurrectionem Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.003.022">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>3:22</verseNum>
+      </reference>
+      <l>qui est in dextera Dei profectus in caelum subiectis sibi angelis et potestatibus et virtutibus</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.1Peter.004.001">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>Christo igitur passo in carne et vos eadem cogitatione armamini quia qui passus est carne desiit a peccatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.002">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>ut iam non hominum desideriis sed voluntate Dei quod reliquum est in carne vivat temporis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.003">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>sufficit enim praeteritum tempus ad voluntatem gentium consummandam qui ambulaverunt in luxuriis desideriis vinolentiis comesationibus potationibus et inlicitis idolorum cultibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.004">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>in quo peregrinantur non concurrentibus vobis in eandem luxuriae confusionem blasphemantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.005">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>qui reddent rationem ei qui paratus est iudicare vivos et mortuos</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.006">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>propter hoc enim et mortuis evangelizatum est ut iudicentur quidem secundum homines in carne vivant autem secundum Deum spiritu</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.007">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>omnium autem finis adpropinquavit estote itaque prudentes et vigilate in orationibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.008">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>ante omnia mutuam in vosmet ipsos caritatem continuam habentes quia caritas operit multitudinem peccatorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.009">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>hospitales invicem sine murmuratione</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.010">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>unusquisque sicut accepit gratiam in alterutrum illam administrantes sicut boni dispensatores multiformis gratiae Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.011">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>si quis loquitur quasi sermones Dei si quis ministrat tamquam ex virtute quam administrat Deus ut in omnibus honorificetur Deus per Iesum Christum cui est gloria et imperium in saecula saeculorum amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.012">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>carissimi nolite peregrinari in fervore qui ad temptationem vobis fit quasi novi aliquid vobis contingat</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.013">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>sed communicantes Christi passionibus gaudete ut et in revelatione gloriae eius gaudeatis exultantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.014">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>si exprobramini in nomine Christi beati quoniam gloriae Dei Spiritus in vobis requiescit</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.015">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>nemo enim vestrum patiatur quasi homicida aut fur aut maledicus aut alienorum appetitor</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.016">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>si autem ut Christianus non erubescat glorificet autem Deum in isto nomine</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.017">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>quoniam tempus ut incipiat iudicium de domo Dei si autem primum a nobis qui finis eorum qui non credunt Dei evangelio</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.018">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>et si iustus vix salvatur impius et peccator ubi parebit</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.004.019">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>itaque et hii qui patiuntur secundum voluntatem Dei fideli creatori commendant animas suas in benefactis</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.1Peter.005.001">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>seniores ergo qui in vobis sunt obsecro consenior et testis Christi passionum qui et eius quae in futuro revelanda est gloriae communicator</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.002">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>pascite qui est in vobis gregem Dei providentes non coacto sed spontanee secundum Deum neque turpis lucri gratia sed voluntarie</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.003">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>neque ut dominantes in cleris sed formae facti gregi et ex animo</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.004">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>et cum apparuerit princeps pastorum percipietis inmarcescibilem gloriae coronam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.005">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>similiter adulescentes subditi estote senioribus omnes autem invicem humilitatem insinuate quia Deus superbis resistit humilibus autem dat gratiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.006">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>humiliamini igitur sub potenti manu Dei ut vos exaltet in tempore visitationis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.007">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>omnem sollicitudinem vestram proicientes in eum quoniam ipsi cura est de vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.008">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>sobrii estote vigilate quia adversarius vester diabolus tamquam leo rugiens circuit quaerens quem devoret</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.009">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>cui resistite fortes fide scientes eadem passionum ei quae in mundo est vestrae fraternitati fieri</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.010">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>Deus autem omnis gratiae qui vocavit nos in aeternam suam gloriam in Christo Iesu modicum passos ipse perficiet confirmabit solidabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.011">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>ipsi imperium in saecula saeculorum amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.012">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>per Silvanum vobis fidelem fratrem ut arbitror breviter scripsi obsecrans et contestans hanc esse veram gratiam Dei in qua state</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.013">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>salutat vos quae est in Babylone cumelecta et Marcus filius meus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Peter.005.014">
+      <reference>
+        <bookName>1Peter</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>salutate invicem in osculo sancto gratia vobis omnibus qui estis in Christo</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.1Peter.colophon.001">
+    <reference>
+      <bookName>1Peter</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA PETRI</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

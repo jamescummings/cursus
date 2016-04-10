@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6487" nextid="c6489" id="c6488">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Dominator domine caelorum</rdg>
+         <rdg wit="CAO-S"> Dominator dominus caelorum</rdg>
+      </app> et terrae creator aquarum rex universae creaturae tuae
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> exaudi orationem</rdg>
+         <rdg wit="CAO-L"> exaudi orationes</rdg>
+      </app> servorum tuorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-H CAO-D CAO-F CAO-S Hyd"> Tu domine cui humilium semper et mansuetorum placuit deprecatio</vBody>
+      <vBody type="r" wit="CAO-B CAO-M CAO-R"> Domine deus exercituum magne et mirabilis</vBody>
+      <vBody type="r" wit="CAO-C CAO-L"> Qui regis</vBody>
+      <vBody type="r" wit="CAO-E"> Domine deus rex caeli et terrae respice ad humilitatem nostram</vBody>
+      <vBody type="r" wit="CAO-V"> Exaudi deprecationem nostram</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Exaudi</rep>
+   </verses>
+</res>

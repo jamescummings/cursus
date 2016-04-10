@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1552" nextid="c1554" id="c1553">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+      <notesStmt>
+         <note resp="Hesbert" place="unspecified" anchored="yes"> AnnMus II (1954) 30-33, 41-45: EphLit LXXII (1958) 6, 31-37</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Hyd Pet"> Baptizat miles regem</rdg>
+         <rdg wit="CAO-L"> Baptizans miles regem</rdg>
+      </app> servus dominum suum Joannes salvatorem aqua Jordanis stupuit
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> columba protestatur</rdg>
+         <rdg wit="Alb2"> columna protestatur</rdg>
+         <rdg wit="CAO-G CAO-D Hyd Pet"> columba protestabatur</rdg>
+         <rdg wit="CAO-C CAO-F CAO-S"> columba protestata est</rdg>
+      </app> paterna vox audita est hic est filius meus</aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3591" nextid="c3593" id="c3592">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Laudemus dominum quem laudant angeli
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D"> quem cherubim et seraphim</rdg>
+         <rdg wit="CAO-F CAO-L"> cui cherubim et seraphim</rdg>
+      </app> sanctus sanctus sanctus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> proclamant</rdg>
+         <rdg wit="CAO-E"> proclamat</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-D" num="2"> Laudemus dominum quem laudant angeli cui cherubim et seraphim sanctus sanctus sanctus proclamant</aBody>
+</ant>

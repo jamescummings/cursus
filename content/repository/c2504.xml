@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2503" nextid="c2505" id="c2504">
+   <header>
+      <usage ms="Ely" code="01042000">[15r] lauds-a5</usage>
+      <usage ms="Evm" code="01041000">[25r] nones</usage>
+      <usage ms="Mch" code="01041000">[19r] lauds gosp</usage>
+      <usage ms="Wcb" code="01041000">[49v] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R Evm Mch Ely Wcb"> Ecce deus noster
+     <app>
+         <rdg wit="CAO-G CAO-E Evm Mch Ely Wcb"> exspectavimus eum</rdg>
+         <rdg wit="CAO-R"> et exspectavimus eum</rdg>
+         <rdg wit="CAO-H"> et exspectabimus eum</rdg>
+         <rdg wit="CAO-C"> exspectamus eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R Evm Ely Wcb"> et salvabit nos alleluia</rdg>
+         <rdg wit="Mch"> et salvabit nos in aeternum alleluia</rdg>
+         <rdg wit="CAO-C"> et salvavit nos alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-B" num="2"> Ecce deus meus et expectavimus eum deus patris meus et exaltabo eum</aBody>
+</ant>

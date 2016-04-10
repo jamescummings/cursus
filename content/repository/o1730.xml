@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1729" nextid="o1731" id="o1730">
+   <header>
+      <usage ms="Cdm" code="08013000">[83r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Praesta quaesumus omnipotens deus ut per haec paschalia festa quae colimus devoti in tua semper laude vivamus</pBody>
+</prayer>

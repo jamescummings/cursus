@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3410" nextid="c3412" id="c3411">
+   <header>
+      <usage ms="Hyd" code="10100000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Fec-B2 Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Fec-B2 Hyd"> Iratus rex Saul dixit</rdg>
+         <rdg wit="CAO-L"> Iratus est rex Saul dixit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F CAO-S CAO-L Hyd"> mihi mille dederunt</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R Fec-B2"> mihi dederunt mille</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Fec-B2 Hyd"> et filio Isai</rdg>
+         <rdg wit="CAO-E CAO-L"> et filios Isai</rdg>
+      </app> dederunt decem milia</aBody>
+</ant>

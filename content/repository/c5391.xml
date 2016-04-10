@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5390" nextid="c5391b" id="c5391">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Pet" code="02010608"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Alb2 Pet"> Videntes stellam magi</rdg>
+         <rdg wit="CAO-V CAO-S CAO-L"> Videntes stella magi</rdg>
+      </app> gavisi sunt gaudio magno et intrantes domum obtulerunt domino aurum thus et myrrham</aBody>
+</ant>

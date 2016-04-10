@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3889" nextid="c3891" id="c3890">
+   <aBody wit="CAO-G CAO-E CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-L"> Noctem illam tenebrosus turbo possideat</rdg>
+         <rdg wit="CAO-E"> Nocte illam tenebrosus turbo possideat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G"> non computetur in diebus anni</rdg>
+         <rdg wit="CAO-E CAO-L"> non computetur in diebus annis</rdg>
+      </app> nec numeretur in mensibus sit nox illa solitaria nec laude digna in qua dictum est conceptus est homo</aBody>
+</ant>

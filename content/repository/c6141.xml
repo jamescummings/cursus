@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6140" nextid="c6142" id="c6141">
+   <rBody wit="CAO-H CAO-R"> Audi filia
+      <app>
+         <rdg wit="CAO-H"> et vide et inclina aurem tuam</rdg>
+         <rdg wit="CAO-R" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H">Quia concupivit rex speciem tuam</vBody>
+   </verses>
+</res>

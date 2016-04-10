@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7317" nextid="c7319" id="c7318">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Omnipotens adorande colende tremende benedico te quia per filium tuum unigenitum evasi
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> minas</rdg>
+         <rdg wit="CAO-E"> mina</rdg>
+      </app> hominum impiorum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> et spurcitias</rdg>
+         <rdg wit="CAO-M CAO-V CAO-S"> exspurcitias</rdg>
+      </app> diaboli impolluto calle transivi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-H"> Ingressa Agnes turpitudinis locum angelum domini praeparatum invenit</vBody>
+      <vBody type="r" wit="CAO-M"> Ingressa Agnes</vBody>
+      <vBody type="r" wit="CAO-B"> Ingressa Agnes turpitudinis</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L"> Te confiteor labiis te corde te totis visceribus concupisco</vBody>
+      <vBody type="r" wit="CAO-R"> Benedico te pater domini mei Jesu Christi quia per filium tuum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H"> Et spurcitias</rep>
+      <rep type="r" wit="CAO-M CAO-V"> Exspurcitias</rep>
+      <rep type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L"> Quia</rep>
+      <rep type="r" wit="CAO-S"> Evasi</rep>
+      <rep type="r" wit="CAO-R"> Unigenitum</rep>
+   </verses>
+</res>

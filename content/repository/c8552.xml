@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8551" nextid="c8553" id="c8552">
+   <header>
+      <usage ms="Alb2" code="02122700">[35r] matins-n2-a10</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n2-a10</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n2-a10</usage>
+      <usage ms="Evm" code="02122700">[43v] matins-n2-a10</usage>
+      <usage ms="Hyd" code="02122700">[24r] matins-n2-a9</usage>
+      <usage ms="Pet" code="02122700">[26r] matins-n2-a10</usage>
+      <usage ms="Wcb" code="02122700">[61r] matins-n2-a9</usage>
+      <usage ms="Wor" code="02122700">[20r] matins-n2-a10</usage>
+   </header>
+   <aBody wit="Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Ambiens speciosam eius formam Christo valde carus Johannes dixit
+     <app>
+         <rdg wit="Alb2 Evm Wcb Bat Cdm Wor Pet"> vidi domine faciem tuam</rdg>
+         <rdg wit="Hyd"> vidi faciem tuam</rdg>
+      </app> et quasi de sepulchro suscitatus sum odor tuus concupiscentias in me excitavit aeternas</aBody>
+</ant>

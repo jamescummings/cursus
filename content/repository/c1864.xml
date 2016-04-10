@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1863b" nextid="c1865" id="c1864">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Concussum est mare et contremuit terra
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> ubi archangelus <name reg="Michael archang" type="saint">Michael</name> descendebat de caelo</rdg>
+         <rdg wit="CAO-D"> quo archangelus <name reg="Michael archang" type="saint">Michael</name> descendebat de caelo</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3225" nextid="c3227" id="c3226">
+   <header>
+      <usage ms="Alb2" code="02122600">[31r] matins-n2-a7</usage>
+      <usage ms="Bat" code="02122600">[19r] matins-n2-a7</usage>
+      <usage ms="Cdm" code="02122600">[24v] matins-n2-a7</usage>
+      <usage ms="Evm" code="02122600">[39v] matins-n2-a7</usage>
+      <usage ms="Hyd" code="02122600">[22v] matins-n2-a7</usage>
+      <usage ms="Pet" code="02122600">[21v] matins-n2-a7</usage>
+      <usage ms="Wor" code="02122600">[17r] matins-n2-a7</usage>
+   </header>
+   <aBody wit="CAO-G CAO-S Alb2 Bat Evm Hyd Cdm Wor Pet"> In domino deo suo confisus fortis athleta Stephanus
+     <app>
+         <rdg wit="CAO-G Alb2 Bat Evm Hyd Cdm Wor Pet"> lapidum fortiter sustinuit ictus</rdg>
+         <rdg wit="CAO-S"> fortiter lapidum sustinuit ictus</rdg>
+      </app> et idcirco ad montem virtutum transmigravit victoriosus</aBody>
+</ant>

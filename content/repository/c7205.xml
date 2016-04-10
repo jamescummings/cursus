@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7204" nextid="c7206" id="c7205">
+   <rBody wit="CAO-D CAO-F"> Ne magnitudo revelationum extollat me datus est mihi stimulus carnis meae angelus Satanae qui me colaphizet propter
+      <app>
+         <rdg wit="CAO-F"> quod ter</rdg>
+         <rdg wit="CAO-D">
+            <add place="margin">quod ter</add>
+         </rdg>
+      </app> dominum rogavi ut auferretur a me et dixit mihi dominus sufficit tibi Paule gratia mea</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">Nam virtus
+       <app>
+            <rdg wit="CAO-F"> in infirmitate</rdg>
+            <rdg wit="CAO-D"> infirmitate</rdg>
+         </app> perficitur</vBody>
+      <rep type="r" wit="CAO-F">Et dixit</rep>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9503" nextid="c9505" id="c9504">
+   <header>
+      <usage ms="Evm" code="06021000">[95v] matins-n1-r3</usage>
+   </header>
+   <rBody wit="Evm"> Fecit ergo Noe omnia quaecumque praeceperat illi deus et dixit dominus ad eum ingredere tu et omnis domus tua et de cunctis animantibus terrae tecum in arca</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Te enim vidi iustum coram me in generatione hac</vBody>
+      <rep type="r" wit="Evm"> Ingredere</rep>
+   </verses>
+</res>

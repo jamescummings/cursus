@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6444" nextid="c6445" id="c6444a">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02011300"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">The version for Epiphany in CAO sources</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Hyd"> Dies sanctificatus illuxit nobis venite gentes et adorate dominum
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F Alb2"> quia hodie apparuit</rdg>
+         <rdg wit="CAO-B CAO-H Hyd"> quia hodie descendit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-F Alb2 Hyd"> lux magna in terris</rdg>
+         <rdg wit="CAO-C CAO-M CAO-R"> lux magna in terra</rdg>
+         <rdg wit="CAO-H"> lux magna in terram</rdg>
+         <rdg wit="CAO-B"> lux magna in populo</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Hyd"> Venite adoremus eum</rdg>
+            <rdg wit="CAO-B"> Venite adoremus dominum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Alb2 Hyd"> quia ipse est dominus deus noster</rdg>
+            <rdg wit="CAO-F"> quoniam ipse est dominus deus noster</rdg>
+            <rdg type="silent" wit="CAO-G"/>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Hyd"> Quia</rep>
+   </verses>
+</res>

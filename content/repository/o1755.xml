@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1754" nextid="o1756" id="o1755">
+   <header>
+      <usage ms="Bat" code="01034000">[10v] lauds</usage>
+      <usage ms="Cdm" code="01034000">[16v] lauds</usage>
+      <usage ms="Evm" code="01034009">[19v] lauds</usage>
+      <usage ms="Mch" code="01034000">[14r] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.790</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Mch Cdm Bat"> Praesta quaesumus omnipotens deus ut redemptionis nostrae ventura solemnitas et praesentis nobis vitae subsidia conferat et aeternae beatitudinis praemia largiatur</pBody>
+</prayer>

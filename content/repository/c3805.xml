@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3804" nextid="c3806" id="c3805">
+   <header>
+      <usage ms="Alb2" code="01021000">[9r] lauds-a4</usage>
+      <usage ms="Bat" code="01021000">[7r] lauds-a4</usage>
+      <usage ms="Cdm" code="01021000">[13r] lauds-a4</usage>
+      <usage ms="Ely" code="01021000">[8r] lauds-a4</usage>
+      <usage ms="Evm" code="01021000">[15r] lauds-a4</usage>
+      <usage ms="Hyd" code="01021000">[8v] lauds-a4</usage>
+      <usage ms="Mch" code="01021000">[8v] lauds-a4</usage>
+      <usage ms="Wcb" code="01021000">[45v] lauds-a4</usage>
+      <usage ms="Wor" code="01021000">[6r] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Montes et colles cantabunt coram deo laudem</rdg>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-R Mch"> Montes et colles cantabant coram deo laudem</rdg>
+         <rdg wit="CAO-H"> Montes et colles cantabunt coram deo laudes</rdg>
+      </app> et omnia ligna silvarum plaudent manibus quoniam veniet dominus dominator
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wor Wcb Bat"> in regnum aeternum alleluia alleluia</rdg>
+         <rdg wit="CAO-D Ely"> in regnum aeternum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1952" nextid="c1954" id="c1953">
+   <aBody wit="CAO-C CAO-M CAO-H CAO-D CAO-F"> Crucem tuam adoramus domine et sanctam resurrectionem tuam laudamus et glorificamus ecce enim propter crucem venit gaudium
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-F"> in universo mundo</rdg>
+         <rdg wit="CAO-M"> in universum mundum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1538" nextid="o1540" id="o1539">
+   <header>
+      <usage ms="Alb2" code="07035000"/>
+      <usage ms="Bat" code="07035000">[55v] lauds</usage>
+      <usage ms="Cdm" code="07035000">[66v] lauds</usage>
+      <usage ms="Cht" code="07035000"/>
+      <usage ms="Ely" code="07035000"/>
+      <usage ms="Evm" code="07035000"/>
+      <usage ms="Hyd" code="07035000"/>
+      <usage ms="Mch" code="07035000">[134v] lauds</usage>
+      <usage ms="Wcb" code="07035000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.347*</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="Ely Cht Wcb Mch"> Concede quaesumus omnipotens et misericors deus ut ieiuniorum nobis</rdg>
+         <rdg wit="Evm Alb2 Cdm"> Concede quaesumus omnipotens deus ut ieiuniorum nobis</rdg>
+         <rdg wit="Bat"> Concede quaesumus omnipotens deus ut ieiuniorum nostrorum</rdg>
+         <rdg wit="Hyd"> Concede quaesumus omnipotens deus ut ieiuniorum</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Cht Evm Wcb Alb2 Cdm"> sancta devotio et purificationem tribuat </rdg>
+         <rdg wit="Hyd Mch Bat"> sancta devotio et purificationem nobis tribuat</rdg>
+      </app> et maiestati tuae nos reddat acceptos</pBody>
+</prayer>

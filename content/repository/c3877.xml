@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3876" nextid="c3878" id="c3877">
+   <header>
+      <usage ms="Alb2" code="02122500">[30r] nones</usage>
+      <usage ms="Cdm" code="02122500">[23v] sext</usage>
+      <usage ms="Cdm" code="02122800" corresp="c3877-1">[29v] vesp2 commemoratio</usage>
+      <usage ms="Evm" code="02122600">[41v] commemoration</usage>
+      <usage ms="Pet" code="02122508">[20r] </usage>
+      <usage ms="Wcb" code="02122500">[57v] vesp2 commemoratio</usage>
+      <usage ms="Wor" code="02122500">[16r] nones</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.149</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Cdm Wor Pet"> Nesciens mater virgo virum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Wcb Cdm Wor Pet"> peperit sine dolore</rdg>
+         <rdg wit="CAO-E CAO-V CAO-S"> peperit sine dolorem</rdg>
+      </app> salvatorem saeculorum ipsum regem angelorum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Cdm Wor Pet"> sola virgo lactabat</rdg>
+         <rdg wit="Evm Wcb"> sola virgo lacte dabat</rdg>
+         <rdg wit="CAO-B"> sola virgo lactavit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-F CAO-S Alb2 Evm Wcb Cdm Pet"> ubera de caelo plena</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L Wor"> ubere de caelo pleno</rdg>
+      </app>
+   </aBody>
+   <aBody id="c3877-1" wit="Cdm">
+      <gap reason="original text erased and overwritten with new item"/>ubera de caelo plena</aBody>
+</ant>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6621" nextid="c6623" id="c6622">
+   <header>
+      <usage ms="Alb2" code="07041000">[95r] lauds</usage>
+      <usage ms="Cdm" code="07041000">[68v] lauds-r1</usage>
+      <usage ms="Cht" code="07042000">[43r] vesp2</usage>
+      <usage ms="Ely" code="07042000">[79r] vesp2</usage>
+      <usage ms="Evm" code="07041000">[130r] vesp2</usage>
+      <usage ms="Hyd" code="07042000">[83v] vesp2</usage>
+      <usage ms="Mch" code="07011000">[116v] vesp2</usage>
+      <usage ms="Pet" code="07041000"/>
+      <usage ms="Wcb" code="07041000">[105v] vesp2</usage>
+      <usage ms="Wor" code="07041000"/>
+   </header>
+   <rBody wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Educ de carcere animam meam</rdg>
+         <rdg wit="Cht"> Educ de carcere animam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> ut confiteatur nomini tuo domine</rdg>
+         <rdg wit="CAO-D"> ut confiteantur nomini tuo domine</rdg>
+         <rdg wit="CAO-S Cht"> ut confiteamur nomini tuo domine</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Periit fuga a me et non est qui requirat animam meam</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Ut</rep>
+      <dox type="r" wit="Glo Alb2">Gloria</dox>
+      <rep type="r" num="2" wit="Alb2">Educ</rep>
+   </verses>
+</res>

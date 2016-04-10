@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4102" nextid="c4104" id="c4103">
+   <header>
+      <usage ms="Cdm" code="08013000">[83r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="08013000">[103r] sext-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Obtulerunt discipuli domino partem piscis assi et favum mellis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cdm"> alleluia alleluia</rdg>
+         <rdg wit="Hyd">alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

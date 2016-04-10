@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3808" nextid="c3810" id="c3809">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R"> Mors et vita apposita sunt tibi
+     <app>
+         <rdg wit="CAO-C"> vide ut ostendas mihi crucem Christi</rdg>
+         <rdg wit="CAO-E"> si non ostendas mihi crucem Christi</rdg>
+         <rdg wit="CAO-H CAO-R"> si non ostendas mihi crucem Christi alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

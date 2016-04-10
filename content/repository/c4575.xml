@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4574" nextid="c4576" id="c4575">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Recipe me ab hominibus</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> Accipe me ab hominibus</rdg>
+      </app> et redde me magistro meo ut per te me recipiat
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F"> qui per te redemit me alleluia</rdg>
+         <rdg wit="CAO-C CAO-V CAO-D"> qui per te me redemit alleluia</rdg>
+         <rdg wit="CAO-S"> qui per te redemit me o bona crux</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-C" num="2"> Recipe ab hominibus et redde me magistro meo ut per te me recipiat qui per te me redemit alleluia</aBody>
+</ant>

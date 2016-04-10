@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1055" nextid="c1057" id="c1056">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> Confessorum regem adoremus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-F"> qui caelestis regni</rdg>
+         <rdg wit="CAO-M CAO-D CAO-S"> qui caelesti regni</rdg>
+      </app> meritum et gloriam
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> contulit</rdg>
+         <rdg wit="CAO-B CAO-R"> concessit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F"> sancto suo <name reg="Benedictus" type="saint">Benedicto</name>
+         </rdg>
+         <rdg wit="CAO-B CAO-R CAO-S"> sancto suo <name reg="Nicolaus" type="saint">Nicolao</name>
+         </rdg>
+         <rdg wit="CAO-M"> sancto suo <name reg="Martinus" type="saint">Martino</name>
+         </rdg>
+         <rdg wit="CAO-V"> sancto suo <name reg="Silvester" type="saint">Silvestro</name>
+         </rdg>
+         <rdg wit="CAO-E"> sancto suo <name reg="Syrus" type="saint">Syro</name>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

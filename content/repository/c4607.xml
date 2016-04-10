@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4606" nextid="c4608" id="c4607">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-L"> Relictis retibus suis</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S"> Relictis retibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S"> secuti sunt dominum redemptorem</rdg>
+         <rdg wit="CAO-C CAO-D"> secuti sunt dominum Jesum Christum</rdg>
+         <rdg wit="CAO-V"> secuti sunt dominum salvatorem</rdg>
+         <rdg wit="CAO-L"> secuti sunt dominum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

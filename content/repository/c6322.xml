@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6321b" nextid="c6323" id="c6322">
+   <header>
+      <usage ms="Alb2" code="02010100">[46v] matins-n2-r7</usage>
+      <usage ms="Bat" code="14122900">[24v] matins-n3-r9</usage>
+      <usage ms="Cdm" code="02123000">[31r] matins-n2-r6</usage>
+      <usage ms="Hyd" code="02010100">matins-n1-r1</usage>
+      <usage ms="Pet" code="02010100">[35v] matins-n2-r7</usage>
+      <usage ms="Wor" code="02010100">[24v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet"> Congratulamini mihi omnes qui diligitis dominum quia cum essem
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Bat Cdm Wor Pet"> parvula placui</rdg>
+         <rdg wit="CAO-L"> parvulam placui</rdg>
+         <rdg wit="CAO-V"> parvulam placuit</rdg>
+      </app> altissimo et de meis visceribus
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet"> genui</rdg>
+         <rdg wit="CAO-V"> genuit</rdg>
+      </app> deum et hominem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Bat Cdm Wor"> Beatam me dicent omnes generationes quia ancillam humilem
+      <app>
+            <rdg wit="CAO-G CAO-R CAO-D CAO-F CAO-L Alb2 Bat Cdm Wor"> respexit deus</rdg>
+            <rdg wit="Hyd"> respexit dominus</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-S">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-V"> Casta parentis</rdg>
+            <rdg wit="CAO-H CAO-S"> Castae parentis</rdg>
+            <rdg wit="CAO-M"> Casta parentum</rdg>
+         </app> viscera caelestis intrat gratia venter puellae baiulat secreta quae non noverat</vBody>
+      <vBody id="c6322-1" type="r" wit="CAO-C"> Casta parentis viscera caelestis intrat gratia venter puellae baiulat secreta quem non noverat</vBody>
+      <rep corresp="c6322-1" type="r" wit="CAO-L">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio given in CAO-C after this verse</note>
+      </rep>
+      <vBody type="r" wit="Pet"> Ego autem sicut oliva fructificavi in domo dei mei</vBody>
+      <vBody id="c6322-2" type="r" wit="CAO-C"> Beatam me dicent omnes generationes quia ancillam humilem respexit Deus</vBody>
+      <rep corresp="c6322-2" type="r" wit="CAO-C"> Quia</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet"> Et de</rep>
+   </verses>
+</res>

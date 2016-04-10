@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3038" nextid="c3040" id="c3039">
+   <header>
+      <usage ms="Evm" code="02010100">[58v] vesp1-a7</usage>
+      <usage ms="Wcb" code="02122800">[63r] matins-n1-a6</usage>
+   </header>
+   <aBody wit="CAO-C CAO-L Evm Wcb">
+      <app>
+         <rdg wit="CAO-L Evm"> Hii empti sunt ex omnibus</rdg>
+         <rdg wit="CAO-C Wcb"> Hi empti sunt ex omnibus</rdg>
+      </app> primitiae deo et agno
+     <app>
+         <rdg wit="CAO-L Evm Wcb"> et in ore eorum</rdg>
+         <rdg wit="CAO-C"> et in ore ipsorum</rdg>
+      </app> non est inventum mendacium</aBody>
+</ant>

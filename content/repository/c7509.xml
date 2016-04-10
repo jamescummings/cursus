@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7508" nextid="c7510" id="c7509">
+   <header>
+      <usage ms="Alb2" code="07067000">[112r] matins-n2-r4</usage>
+      <usage ms="Cdm" code="07067000">[80r] matins-n2-r4</usage>
+      <usage ms="Cht" code="07066000">[64r] matins-r1</usage>
+      <usage ms="Ely" code="07067000">[91r] matins-n2-r4</usage>
+      <usage ms="Evm" code="07067000">[154v] matins-n3-r9</usage>
+      <usage ms="Mch" code="07067000">[163r] matins-n2-r4</usage>
+      <usage ms="Pet" code="07067000">[94r] matins-n2-r4</usage>
+      <usage ms="Wcb" code="07067000">[118v] matins-n3-r9</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n2-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Recessit pastor noster fons aquae vivae</rdg>
+         <rdg wit="Cht"> Recessit pastor noster et fons aquae vivae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> ad cuius transitum</rdg>
+         <rdg wit="CAO-L"> ad cuius transitu</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> sol obscuratus est</rdg>
+         <rdg wit="CAO-S"> sol obscuratum est</rdg>
+      </app> nam et ille captus est qui captivum tenebat primum hominem hodie portas mortis et seras pariter
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S Ely Cht Evm Cdm Mch"> salvator noster disrupit</rdg>
+         <rdg wit="CAO-G CAO-M CAO-L Wor Hyd Pet Wcb Alb2"> salvator noster dirupit</rdg>
+         <rdg wit="CAO-R"> salvator noster destruxit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Pet Alb2 Cdm Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S Ely Wor Hyd Pet Alb2 Cdm Mch"> Ante cuius conspectum</rdg>
+            <rdg wit="CAO-D"> Ante cuius conspectu</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Pet Alb2 Cdm Mch"> mors fugit</rdg>
+            <rdg wit="CAO-V"> mors fuit</rdg>
+         </app> ad cuius vocem mortui resurgunt
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Pet Alb2 Cdm Mch"> videntes autem eum</rdg>
+            <rdg wit="CAO-B"> videntes eum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-S Ely Wor Hyd Pet Alb2 Cdm Mch"> portae mortis confractae sunt</rdg>
+            <rdg wit="CAO-R"> mortis portae confractae sunt</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-L Cht Evm Wcb"> Destruxit quidem claustra inferni
+      <app>
+            <rdg wit="CAO-F CAO-L Cht"> et subvertit potentias diaboli</rdg>
+            <rdg wit="Evm Wcb"> et subvertit potentiam diaboli</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Wor Cht Hyd Alb2">Hodie</rep>
+      <rep type="r" wit="CAO-E CAO-V CAO-D Ely Pet Cdm Mch">Et seras</rep>
+      <rep type="r" wit="Evm Wcb">Qui captivum</rep>
+      <rep type="r" num="2" wit="Wcb">Recessit</rep>
+   </verses>
+</res>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7579" nextid="c7581" id="c7580">
+   <rBody wit="CAO-V CAO-D CAO-F CAO-S CAO-L"> Sancte N audi rogantes servulos et impetratam caelitus tu defer indulgentiam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-D CAO-F CAO-S CAO-L"> O sancte N sidus aureum domini gratia servorum gemitus solita suscipe clementia </vBody>
+      <vBody type="r" num="2" wit="CAO-F"> Aperi os tuum in oratione et pro nostris delictis deprecare</vBody>
+      <rep type="r" wit="CAO-V CAO-D CAO-F CAO-S CAO-L">Et impetratam</rep>
+   </verses>
+</res>

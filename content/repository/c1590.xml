@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1589" nextid="c1591" id="c1590">
+   <aBody wit="CAO-E CAO-H CAO-D CAO-S CAO-L"> Beati qui habitant in domo tua domine
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-D"> in saecula saeculorum laudabunt te</rdg>
+         <rdg wit="CAO-L"> in saeculum saeculi laudabunt te</rdg>
+         <rdg wit="CAO-S"> in saeculum saeculi laudabunt te in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

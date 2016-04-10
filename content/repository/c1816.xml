@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1815" nextid="c1817" id="c1816">
+   <header>
+      <usage ms="Alb2" code="07021000"/>
+      <usage ms="Bat" code="07021000">[52v] vesp2-a1</usage>
+      <usage ms="Cdm" code="07021000">[62r] vesp2</usage>
+      <usage ms="Cht" code="07021000">[31v] terce</usage>
+      <usage ms="Ely" code="07021000"/>
+      <usage ms="Evm" code="07021000"/>
+      <usage ms="Hyd" code="07021000"/>
+      <usage ms="Mch" code="07021000">[125r] vesp2 gosp</usage>
+      <usage ms="Wor" code="07021000"/>
+   </header>
+   <aBody wit="CAO-F CAO-S Ely Wor Hyd Cht Evm Alb2 Cdm Mch Bat"> Clamabat autem mulier domine adiuva me qui respondens ait non est bonum sumere panem filiorum et mittere canibus at illa dixit
+     <app>
+         <rdg wit="CAO-F CAO-S Ely Wor Hyd Evm Mch Bat"> utique nam</rdg>
+         <rdg wit="Cht"> utique domine</rdg>
+         <rdg wit="Alb2 Cdm"> utique domine nam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-S Ely Wor Hyd Cht Evm Cdm Mch Bat"> et catelli edunt</rdg>
+         <rdg wit="Alb2"> et catelli edunt de micis quae cadunt</rdg>
+      </app> de mensa dominorum suorum</aBody>
+</ant>

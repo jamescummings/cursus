@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1561" nextid="c1563" id="c1562">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Beata <name reg="Caecilia" type="saint">Caecilia</name> dixit ad <name reg="Tiburtius" type="person">Tiburtium</name>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R"> hodie te fateor esse meum cognatum</rdg>
+         <rdg wit="CAO-M CAO-V CAO-S"> hodie te fateor meum esse cognatum</rdg>
+         <rdg wit="CAO-D CAO-F"> hodie fateor te esse meum</rdg>
+         <rdg wit="CAO-E"> hodie fateor te meum esse</rdg>
+      </app> quia amor dei te fecit esse
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> contemptorem idolorum</rdg>
+         <rdg wit="CAO-C CAO-V"> me contemptum</rdg>
+      </app>
+   </aBody>
+</ant>

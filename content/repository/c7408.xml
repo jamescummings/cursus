@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7407" nextid="c7409" id="c7408">
+   <rBody wit="CAO-E CAO-S CAO-L"> Postquam Licaoniam praedicavit beatus Bartholomaeus ad Indos veniens convertit eos ad Christum et per martyrium penetravit caelos ubi cum Dea perpetue gloriosus exsultat</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-S CAO-L">Ibi lux sine fine manet requies
+      <app>
+            <rdg wit="CAO-S CAO-L"> sine labore</rdg>
+            <rdg wit="CAO-E"> sine labores</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E"> satietas sine fastidio</rdg>
+            <rdg wit="CAO-S"> societas sine fastidio</rdg>
+            <rdg wit="CAO-L"> satietas atque fastidio</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-S CAO-L">Ubi</rep>
+   </verses>
+</res>

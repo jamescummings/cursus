@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1188" nextid="c1190" id="c1189">
+   <header>
+      <usage ms="Ely" code="01042000">[15r] lauds-a3</usage>
+      <usage ms="Evm" code="01044000">[26v] lauds-a5</usage>
+      <usage ms="Evm" code="01045000">[25v] lauds-a5</usage>
+      <usage ms="Pet" code="01036009">[9r] lauds-a5</usage>
+      <usage ms="Wcb" code="01046000">[51r] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-R Evm Ely Wcb Pet"> A finibus terrae laudes audivimus gloriam iusti
+     <app>
+         <rdg wit="CAO-R Ely"> alleluia</rdg>
+         <rdg wit="Evm Wcb Pet"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

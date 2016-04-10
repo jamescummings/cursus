@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7283" nextid="c7285" id="c7284">
+   <rBody wit="CAO-E CAO-M CAO-F CAO-S"> O quam gloriosum est caelestium virtutum
+     <app>
+         <rdg wit="CAO-E CAO-F CAO-S"> contuberniis</rdg>
+         <rdg wit="CAO-M">
+            <sic resp="Hesbert">comtupernis</sic>
+         </rdg>
+      </app> perfrui et intueri agmina sanctorum
+     <app>
+         <rdg wit="CAO-M CAO-S"> splendidius</rdg>
+         <rdg wit="CAO-E"> splendidibus</rdg>
+         <rdg wit="CAO-F">
+            <gap reason="lacuna"/>
+         </rdg>
+      </app> sideribus micantia patriarcharum fide
+     <app>
+         <rdg wit="CAO-M CAO-S"> fulgentia</rdg>
+         <rdg wit="CAO-E"> fulgentium</rdg>
+         <rdg wit="CAO-F">
+            <gap reason="lacuna"/>
+         </rdg>
+      </app> prophetarum
+     <app>
+         <rdg wit="CAO-M CAO-S"> spe laetantia</rdg>
+         <rdg wit="CAO-E"> spes laetantium</rdg>
+         <rdg wit="CAO-F">
+            <gap reason="lacuna"/>
+         </rdg>
+      </app> apostolorum sublimitate
+     <app>
+         <rdg wit="CAO-M CAO-S"> orbem</rdg>
+         <rdg wit="CAO-E"> orbe</rdg>
+         <rdg wit="CAO-F">
+            <gap reason="lacuna"/>
+         </rdg>
+      </app> iudicantia martyrum purpureis
+     <app>
+         <rdg wit="CAO-M"> victoriae</rdg>
+         <rdg wit="CAO-S"> victoria</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="victoria">victoriae</corr>
+         </rdg>
+         <rdg wit="CAO-E"> victorias</rdg>
+      </app> coronis lucentia
+     <app>
+         <rdg wit="CAO-F"> virginum quoque <corr sic="corus candentia">coruscantia</corr> serta</rdg>
+         <rdg wit="CAO-E"> virginum quoque choros candentia certa</rdg>
+         <rdg wit="CAO-M"> virginum quoque choro candentia serta</rdg>
+         <rdg wit="CAO-S"> virginum quoque choros candentia serta</rdg>
+      </app> gestantes
+     <app>
+         <rdg wit="CAO-M CAO-S"> inspicere</rdg>
+         <rdg wit="CAO-E"> inspicerent</rdg>
+         <rdg wit="CAO-F"> inspiceret</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-M CAO-F CAO-S"> Ad eos</rdg>
+            <rdg wit="CAO-E"> Ad hos</rdg>
+         </app> ergo
+      <app>
+            <rdg wit="CAO-M CAO-S"> tota</rdg>
+            <rdg wit="CAO-E">
+               <sic resp="Hesbert">tata</sic>
+            </rdg>
+            <rdg wit="CAO-F"> tota mentis</rdg>
+         </app> aviditate
+      <app>
+            <rdg wit="CAO-E CAO-M CAO-F"> properemus</rdg>
+            <rdg wit="CAO-S"> properemur</rdg>
+         </app> ut cum eis ad Christum pervenire
+      <app>
+            <rdg wit="CAO-M CAO-F CAO-S"> possimus</rdg>
+            <rdg wit="CAO-E"> poscimus</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E">Certa</rep>
+      <rep type="r" wit="CAO-F">
+         <add place="over erasure">Serta</add>
+      </rep>
+      <rep type="r" wit="CAO-S">Virginum</rep>
+      <rep type="r" wit="CAO-M">Et intueri</rep>
+   </verses>
+</res>

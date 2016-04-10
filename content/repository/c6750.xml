@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6749" nextid="c6751" id="c6750">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Fuit homo missus a Deo cui nomen Joannes erat hic venit
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> ut testimonium</rdg>
+         <rdg wit="CAO-L"> in testimonium</rdg>
+      </app> perhiberet de lumine et
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> parare</rdg>
+         <rdg wit="CAO-E CAO-F"> pararet</rdg>
+      </app> domino plebem perfectam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F"> Erat Joannes in deserto</rdg>
+            <rdg wit="CAO-E CAO-V"> Erat Joannes</rdg>
+            <rdg wit="CAO-S"> Erat in deserto</rdg>
+            <rdg wit="CAO-M"> Erat Joannes in desertum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F"> praedicans</rdg>
+            <rdg wit="CAO-E CAO-V"> praedicans in deserto</rdg>
+            <rdg wit="CAO-S"> praedicans et baptizans</rdg>
+         </app> baptismum paenitentiae</vBody>
+      <vBody id="c6750-1" type="r" wit="CAO-C"> Erat Joannes praedicans in deserto baptismum paenitentiae</vBody>
+      <rep corresp="c6750-1" type="r" wit="CAO-C"> Et parare</rep>
+      <vBody type="r" wit="CAO-L"> Fuit in deserto praedicans et baptizans baptismum paenitentiae in remissionem peccatorum</vBody>
+      <vBody type="r" num="2" wit="CAO-F"> Non erat ille lux sed ut testimonium perhiberet de lumine</vBody>
+      <vBody id="c6750-2" type="r" num="2" wit="CAO-C"> Tu puer propheta altissimi vocaberis</vBody>
+      <rep corresp="c6750-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regression given for this verse in CAO-C</note>
+      </rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> Et parare</rep>
+      <rep type="r" wit="CAO-D CAO-F"> Hic</rep>
+   </verses>
+</res>

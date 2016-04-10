@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9006" nextid="c9008" id="c9007">
+   <header>
+      <usage ms="Cht" code="06021000">[14v] matins-n3-r5</usage>
+      <usage ms="Hyd" code="06021000">[64r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="Hyd Cht"> Evigilans Noe ex vino cum dedicisset quod fecerat ei filius suus minor ait maledictus Chanaan servus servorum erit fratribus suis</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Cht">
+         <app>
+            <rdg wit="Hyd">Benedicens</rdg>
+            <rdg wit="Cht">Benedictus</rdg>
+         </app> dominus deus Sem sit Chanaan servus eius</vBody>
+      <rep type="r" wit="Hyd Cht">Maledictus</rep>
+   </verses>
+</res>

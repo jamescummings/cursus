@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4748" nextid="c4750" id="c4749">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-F CAO-L"> Sanctimonialis autem femina
+     <app>
+         <rdg wit="CAO-C CAO-R"> cum negantis verba</rdg>
+         <rdg wit="CAO-H CAO-F CAO-L"> dum negantis verba</rdg>
+      </app> audisset orationem fudit
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-F CAO-L"> et inundatio pluviae erupit</rdg>
+         <rdg wit="CAO-C"> et inundatio pluviarum erupit</rdg>
+      </app>
+   </aBody>
+</ant>

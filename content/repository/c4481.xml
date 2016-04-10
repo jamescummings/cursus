@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4480" nextid="c4482" id="c4481">
+   <aBody wit="CAO-C CAO-E">
+      <app>
+         <rdg wit="CAO-C"> Qui me dignatus es de stercore erigere</rdg>
+         <rdg wit="CAO-E"> Qui me dignatus est de stercore erigere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> miserere mihi servo tuo</rdg>
+         <rdg wit="CAO-E"> miserere mei servo tuo</rdg>
+      </app> et concede mihi gratiam ad regendam plebem tuam</aBody>
+</ant>

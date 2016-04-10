@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6966" nextid="c6968" id="c6967">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Initium sapientiae timor domini intellectus bonus omnibus facientibus eum laudatio eius manet in saeculum saeculi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> Dispersit dedit pauperibus iustitia eius manet in saeculum saeculi</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D"> Dispersit dedit pauperibus</vBody>
+      <vBody type="r" wit="CAO-E CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-F CAO-S Hyd"> Dilectio illius custodia</rdg>
+            <rdg wit="CAO-E"> Dilectus illius custodiet</rdg>
+            <rdg wit="CAO-L"> Dilectio illius custodiam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F CAO-S CAO-L Hyd"> legum est quia omnis sapientia</rdg>
+            <rdg wit="CAO-E"> legem quia omnis sapientiae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-S CAO-L"> timor dei</rdg>
+            <rdg wit="CAO-E CAO-F Hyd"> timor domini</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-F CAO-L Hyd">Laudatio</rep>
+      <rep type="r" wit="CAO-S">Intellectus</rep>
+   </verses>
+</res>

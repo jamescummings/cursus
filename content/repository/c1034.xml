@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1033" nextid="c1035" id="c1034">
+   <header>
+      <usage ms="Hyd" code="08081000">matins</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> Alleluia spiritus domini replevit orbem terrarum venite adoremus alleluia</aBody>
+</ant>

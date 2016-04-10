@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2810" nextid="c2812" id="c2811">
+   <header>
+      <usage ms="Alb2" code="02010100">[46r] matins-n2-a8</usage>
+      <usage ms="Bat" code="02010100">[27r] matins-n2-a8</usage>
+      <usage ms="Cdm" code="02010100">[33v] matins-n2-a8</usage>
+      <usage ms="Ely" code="02122500">[18v] matins-n2-a9</usage>
+      <usage ms="Evm" code="02010100">[59v] matins-n2-a9</usage>
+      <usage ms="Pet" code="02010100">[35r] matins-n2-a9</usage>
+      <usage ms="Wcb" code="02010100">[66r] matins-n2-a9</usage>
+      <usage ms="Wor" code="02122500">[14v] matins-n2-a9</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Exsultabunt omnia ligna silvarum ante faciem domini quoniam venit</aBody>
+</ant>

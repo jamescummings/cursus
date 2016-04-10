@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4761" nextid="c4763" id="c4762">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H"> Sanctorum corpora sacri sanguinis unda perfudit</rdg>
+         <rdg wit="CAO-D CAO-F"> Sanctorum corporum sacer sanguis undas perfudit</rdg>
+         <rdg wit="CAO-M"> Sanctorum corpora sacer sanguis umdas perfudit</rdg>
+         <rdg wit="CAO-V"> Sanctorum corpora sacer sanguis undas perfudit</rdg>
+         <rdg wit="CAO-E"> Sanctorum corpora sacri sanguinis unda perfundit</rdg>
+         <rdg wit="CAO-R"> Sanctorum corpora sacri sanguinis unda refudit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> pretiosorum corpora societas consecravit</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F"> pretiosorum martyrum societas consecravit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> quod novit Rhodanus impugnando refugit</rdg>
+         <rdg wit="CAO-B"> quae nobis Rhodanus inundando refudit</rdg>
+         <rdg wit="CAO-E"> quam novit Rhodanus impugnando refudit</rdg>
+         <rdg wit="CAO-M"> quae novit Rhodanus inundando refucit</rdg>
+         <rdg wit="CAO-V"> quem novit Rhodanus impugnando refudit</rdg>
+         <rdg wit="CAO-H"> quae novit Rhodanus inundando refudit</rdg>
+         <rdg wit="CAO-R"> quae novit Rhodanus inundando perfudit</rdg>
+         <rdg wit="CAO-D"> quae novit Rhodanus inundando perfusus</rdg>
+         <rdg wit="CAO-F"> quem novit Rhodanus inundando perfusus</rdg>
+      </app>
+   </aBody>
+</ant>

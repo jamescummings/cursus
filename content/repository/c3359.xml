@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3358" nextid="c3360" id="c3359">
+   <header>
+      <usage ms="Hyd" code="01012000">[5r] lauds-a2</usage>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V Hyd"> Intellige clamorem meum domine</aBody>
+   <aBody wit="CAO-H CAO-S CAO-L"> Intellege clamorem meum domine</aBody>
+</ant>

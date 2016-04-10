@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6895" nextid="c6897" id="c6896">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> In craticula te Deum non negavi et ad ignem
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> applicatus</rdg>
+         <rdg wit="CAO-V CAO-L"> amplicatus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> te dominum Jesum Christum</rdg>
+         <rdg wit="CAO-D"> te <corr sic="domine" resp="Hesbert">dominum</corr> Jesum Christum</rdg>
+         <rdg wit="CAO-C"> te dominum Jesum</rdg>
+      </app> confessus sum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D"> Probasti domine cor meum et visitasti nocte</vBody>
+      <vBody type="r" wit="CAO-M"> Probasti domine</vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Accusatus non negavi nomen sanctum tuum et interrogatus</vBody>
+      <rep type="r" wit="CAO-F CAO-S CAO-L">Te dominum</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D">Et ad ignem</rep>
+   </verses>
+</res>

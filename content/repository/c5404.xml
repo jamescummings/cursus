@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5403" nextid="c5405" id="c5404">
+   <header>
+      <usage ms="Hyd" code="10900000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Vidi dominum sedentem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> super solium excelsum</rdg>
+         <rdg wit="CAO-V"> super solium excelsum et elevatum</rdg>
+         <rdg wit="CAO-S"> super solium excelsum <add place="marginal" hand="later">et elevatum</add>
+         </rdg>
+      </app> et plena erat omnis terra maiestate eius et ea quae sub ipso erant replebant templum</aBody>
+</ant>

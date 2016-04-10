@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7361" nextid="c7363" id="c7362">
+   <header>
+      <usage ms="Bat" code="07011000">[48v] matins-n3-r10</usage>
+      <usage ms="Cdm" code="07011000">[57r] matins-n3-r10</usage>
+      <usage ms="Cht" code="07027000">[34v] matins-r2</usage>
+      <usage ms="Ely" code="07011000">[67v] matins-n3-r10</usage>
+      <usage ms="Hyd" code="07027000">[77v] unknown-r1</usage>
+      <usage ms="Mch" code="07011000">[115v] matins-n3-r13</usage>
+      <usage ms="Pet" code="07011000">[64v] matins-n3-r10</usage>
+      <usage ms="Wor" code="07011000">[43v] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Cdm Bat Mch"> Pater peccavi in caelum et coram te iam non sum dignus vocari filius tuus fac me
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Pet Cdm Bat Mch"> sicut unum ex mercennariis tuis</rdg>
+         <rdg wit="CAO-L"> sicut unus ex mercennariis tuis</rdg>
+         <rdg wit="CAO-E CAO-M"> sicut unum de mercennariis tuis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Cdm Bat Mch"> Quanti mercennarii
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Pet Cdm Bat Mch"> in domo patris mei</rdg>
+            <rdg wit="CAO-S"> in domum patris mei</rdg>
+         </app> abundant panibus ego autem hic fame pereo surgam et ibo ad patrem meum et dicam ei</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Cdm Bat Mch"> Fac me</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4119" nextid="c4121" id="c4120">
+   <header>
+      <usage ms="Hyd" code="02010608"/>
+      <usage ms="Pet" code="02010608"/>
+   </header>
+   <aBody wit="CAO-H CAO-D Hyd Pet"> Omnes de Saba venient aurum et thus deferentes
+     <app>
+         <rdg wit="CAO-D Hyd Pet"> et laudem domino annuntiantes alleluia</rdg>
+         <rdg wit="CAO-H"> et laudem domino annuntiantes</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5043" nextid="c5045" id="c5044">
+   <header>
+      <usage ms="Alb2" code="07041000">[95r] prime</usage>
+      <usage ms="Cdm" code="07041000">[68v] prime</usage>
+      <usage ms="Ely" code="07041000">[78v] prime</usage>
+      <usage ms="Evm" code="07041000">[129v] prime</usage>
+      <usage ms="Hyd" code="07041000">[83r] prime</usage>
+      <usage ms="Mch" code="07041000">[139v] prime</usage>
+      <usage ms="Wor" code="07041000"/>
+   </header>
+   <aBody wit="CAO-F CAO-L Ely Wor Hyd Evm Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-F Wor Hyd Evm Alb2 Cdm Mch"> Subiit ergo Jesus in montem</rdg>
+         <rdg wit="CAO-L Ely"> Subiit ergo in montem Jesus</rdg>
+      </app> et ibi sedebat cum discipulis suis
+     <app>
+         <rdg wit="CAO-L Ely Wor Hyd Evm Alb2 Cdm">erat autem</rdg>
+         <rdg wit="CAO-F Mch">erat enim</rdg>
+      </app> proximum pascha dies festus Judaeorum</aBody>
+</ant>

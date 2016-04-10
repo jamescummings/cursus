@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5208" nextid="c5210" id="c5209">
+   <header>
+      <usage ms="Alb2" code="01031000">[13v] vesp2 gosp</usage>
+      <usage ms="Bat" code="01031000">[9v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01031000">[15v] vesp2 gosp</usage>
+      <usage ms="Ely" code="01031000">[11r] vesp2 gosp</usage>
+      <usage ms="Evm" code="01031000">[18v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01031000">[16v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01031000">[11v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01031000">[12v] vesp2 gosp</usage>
+      <usage ms="Wcb" code="01031000">[47v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01031000">[8r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Mch Ely Wor Wcb Glo Bat"> Tu es qui venturus es</rdg>
+         <rdg wit="Cdm"> Tu es qui venturus </rdg>
+         <rdg wit="Evm"> Tu qui es qui venturus es</rdg>
+      </app> an alium exspectamus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-F CAO-S Alb2 Evm Mch Cdm Ely Wcb Glo Bat"> dicite Joanni quae vidistis</rdg>
+         <rdg wit="Wor"> dicite Joanni quid vidistis</rdg>
+         <rdg wit="Hyd"> ite dicite Joanni quae vidistis</rdg>
+         <rdg wit="CAO-C CAO-R CAO-D"> dicite Joanni quae vidisti</rdg>
+      </app> ad lumen redeunt caeci mortui resurgunt
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Evm Alb2 Cdm Ely Wor Wcb Glo Bat"> pauperes evangelizantur alleluia</rdg>
+         <rdg wit="Hyd Mch"> pauperes evangelizantur</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1959" nextid="c1961" id="c1960">
+   <aBody wit="CAO-M CAO-H CAO-R CAO-F"> Crux alma fulget
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-R"> per quam salus reddita est mundo</rdg>
+         <rdg wit="CAO-F"> per quem salus reddita est mundo</rdg>
+      </app> crux vincit crux regnat
+     <app>
+         <rdg wit="CAO-R CAO-F"> crux repellit omne crimen alleluia</rdg>
+         <rdg wit="CAO-H"> crux repellit omne crimen</rdg>
+         <rdg wit="CAO-M"> crux redemit omnem mundum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

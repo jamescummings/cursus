@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4299" nextid="c4301" id="c4300">
+   <aBody wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Polycarpus presbyter dixit beato Sebastiano</rdg>
+         <rdg wit="CAO-F"> Polycarpus presbyter dixit turbis credentium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-D CAO-F"> beati estis qui audistis vocem domini Jesu Christi</rdg>
+         <rdg wit="CAO-L"> beati estis que audistis vocem domini Jesu Christi</rdg>
+         <rdg wit="CAO-E"> beati estis qui audistis verbum domini Jesu Christi</rdg>
+         <rdg wit="CAO-R"> beati estis qui audistis vocem domini nostri Jesu Christi</rdg>
+         <rdg wit="CAO-G"> beatus es tu et benedictus sermo oris tui</rdg>
+         <rdg wit="CAO-S"> beatus es tu qui audisti vocem domini mei</rdg>
+      </app>
+   </aBody>
+</ant>

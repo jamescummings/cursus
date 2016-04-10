@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3302" nextid="c3304" id="c3303">
+   <header>
+      <usage ms="Hyd" code="01016000">[6v] lauds-a4</usage>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-H CAO-S Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H Hyd"> In tympano et choro</rdg>
+         <rdg wit="CAO-S"> In timphano et choro</rdg>
+      </app> in chordis et organo
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-S Hyd"> laudate deum</rdg>
+         <rdg wit="CAO-H"> laudate dominum</rdg>
+      </app>
+   </aBody>
+</ant>

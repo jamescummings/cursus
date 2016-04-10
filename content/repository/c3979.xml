@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3978" nextid="c3980" id="c3979">
+   <header>
+      <usage ms="Hyd" code="05031000"/>
+      <usage ms="Pet" code="05031000"/>
+      <usage ms="Alb2" code="05031000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Nuptiae factae sunt in Cana Galileae et erat ibi Jesus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S Alb2 Pet"> cum Maria matre eius</rdg>
+         <rdg wit="CAO-M CAO-V CAO-F CAO-L Hyd"> cum Maria matre sua</rdg>
+         <rdg wit="CAO-D"> et Maria matre eius</rdg>
+      </app>
+   </aBody>
+</ant>

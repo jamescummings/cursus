@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2004b" nextid="c2006" id="c2005">
+   <header>
+      <usage ms="Alb2" code="06036000">[73v] lauds gosp</usage>
+      <usage ms="Bat" code="06036000">[46v] lauds gosp</usage>
+      <usage ms="Cdm" code="06036000">[56r] lauds</usage>
+      <usage ms="Cht" code="06036000"/>
+      <usage ms="Ely" code="06036000"/>
+      <usage ms="Evm" code="06036000"/>
+      <usage ms="Glo" code="06036000">[58r] vesp2</usage>
+      <usage ms="Hyd" code="06036000"/>
+      <usage ms="Mch" code="06037000">[111v] lauds gosp</usage>
+      <usage ms="Pet" code="06036000">[63r] </usage>
+      <usage ms="Wcb" code="06036000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Pet Hyd Ely Cht Evm Wcb Glo Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Pet Hyd Ely Cht Evm Wcb Glo Cdm Bat Mch"> Cum facis eleemosynam</rdg>
+         <rdg wit="CAO-V"> Cum facis eleemosyna</rdg>
+      </app> nesciat sinistra tua quid faciat dextera tua</aBody>
+</ant>

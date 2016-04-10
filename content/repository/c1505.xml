@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1504" nextid="c1506" id="c1505">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R CAO-F CAO-S"> Astiterunt iusti ante dominum</rdg>
+         <rdg wit="CAO-H CAO-D"> Astiterunt isti ante dominum</rdg>
+      </app> et ab invicem
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S"> non separati sunt</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R"> non sunt seperati</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> calicem domini biberunt</rdg>
+         <rdg wit="CAO-C"> gloriam domini viderunt</rdg>
+         <rdg wit="CAO-V"> et gloria domini viderunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-S"> et amici dei appellati sunt</rdg>
+         <rdg wit="CAO-H CAO-R"> et amici dei facti sunt</rdg>
+      </app>
+   </aBody>
+</ant>

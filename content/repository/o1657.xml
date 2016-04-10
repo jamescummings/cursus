@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1656" nextid="o1658" id="o1657">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] matins-n3</usage>
+      <usage ms="Bat" code="02122400">[14v] lauds</usage>
+      <usage ms="Cdm" code="02122400">[20v] matins-n1</usage>
+      <usage ms="Ely" code="02122400">[17r] lauds</usage>
+      <usage ms="Evm" code="02122400">[31v] matins-n3</usage>
+      <usage ms="Hyd" code="02122400"/>
+      <usage ms="Hyd" code="02122500"/>
+      <usage ms="Mch" code="02122400">[23r] lauds</usage>
+      <usage ms="Wcb" code="02122400">[52v] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.33</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Wcb Bat Cdm Mch Ely">Deus qui nos redemptionis nostrae annua expectatione laetificas praesta ut unigenitum tuum quem
+     <app>
+         <rdg wit="Alb2 Evm Wcb Bat Cdm Mch Ely">redemptorem</rdg>
+         <rdg wit="Hyd"> redemptorem nostrum</rdg>
+      </app> laeti suscipimus venientem quoque
+     <app>
+         <rdg wit="Alb2 Evm Wcb Bat Cdm Mch Ely"> iudicem</rdg>
+         <rdg wit="Hyd"> super nos iudicem</rdg>
+      </app>
+      <app>
+         <rdg wit="Hyd Wcb Bat Mch Ely"> securi videamus dominum nostrum Jesu Christum</rdg>
+         <rdg wit="Alb2 Evm Cdm"> securi videamus</rdg>
+      </app>
+   </pBody>
+</prayer>

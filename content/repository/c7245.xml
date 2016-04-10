@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7244" nextid="c7246" id="c7245">
+   <header>
+      <usage ms="Hyd" code="10900000">matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L"> Numquid scis</rdg>
+         <rdg wit="Hyd"> Nuncquid scis</rdg>
+         <rdg wit="CAO-V"> Numquid sis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> quare venerim</rdg>
+         <rdg wit="CAO-V"> quare venerimus</rdg>
+      </app> ad te
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-L"> et nunc</rdg>
+         <rdg wit="CAO-C Hyd"> nunc</rdg>
+         <rdg wit="CAO-D"> nec</rdg>
+      </app> revertar
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F CAO-L Hyd"> ut proelier</rdg>
+         <rdg wit="CAO-D"> ut proeliarer</rdg>
+      </app> adversus principem Persarum contradicentem
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> tuis precibus</rdg>
+         <rdg wit="CAO-L"> precibus tuis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D Hyd"> et meae legationi</rdg>
+         <rdg wit="CAO-L" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+         <rdg wit="CAO-F"> et mee legatione</rdg>
+         <rdg wit="CAO-C"> et mea legationis</rdg>
+      </app> verumtamen Michael archangelus
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> princeps vester</rdg>
+         <rdg wit="CAO-V" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-L"> erit adiutor meus</rdg>
+         <rdg wit="CAO-C"> adiutor meus ad dominum deum tuum</rdg>
+         <rdg wit="CAO-D Hyd"> hic stat pro filiis populi tui</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R"> Daniel vir desideriorum intellige verba quae loquor ad te et sta in gradu tuo</vBody>
+      <vBody type="r" wit="CAO-C CAO-V"> Benedicite dominum omnes angeli eius potentes virtutes qui facitis verbum eius</vBody>
+      <vBody type="r" wit="CAO-D CAO-L Hyd"> Nunc ergo egressus sum ut docerem te tu autem animadverte sermonem et intellige visionem</vBody>
+      <vBody type="r" wit="CAO-F"> Nunc enim missus sum nuntiare tibi princeps Persarum restitit mihi</vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F Hyd">Verumtamen</rep>
+      <rep type="r" wit="CAO-L">Ut</rep>
+   </verses>
+</res>

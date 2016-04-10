@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1642" nextid="c1644" id="c1643">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> orabat dicens</rdg>
+         <rdg wit="CAO-S"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> clamabat dicens</rdg>
+         <rdg wit="CAO-L"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> dixit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> gratias tibi ago domine</rdg>
+         <rdg wit="CAO-S"> gratias tibi domine</rdg>
+      </app> quia ianuas tuas ingredi merui</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-H CAO-R"> Cumque vivus assaretur pulcherrimo vultu iucundus</vBody>
+      <vBody type="a" wit="CAO-F"> In craticula te deum non negavi et ad ignem applicatus te Christum confessus sum</vBody>
+   </verses>
+</ant>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7352" nextid="c7354" id="c7353">
+   <header>
+      <usage ms="Alb2" code="07011000">[78r] lauds</usage>
+      <usage ms="Bat" code="07011000">[49r] lauds</usage>
+      <usage ms="Cdm" code="07011000">[57v] lauds</usage>
+      <usage ms="Cht" code="07011000">[24v] lauds</usage>
+      <usage ms="Ely" code="07011000">[68r] lauds</usage>
+      <usage ms="Evm" code="07011000">[108r] vesp2</usage>
+      <usage ms="Hyd" code="07011000">[70v] lauds</usage>
+      <usage ms="Mch" code="07011000">[116r] lauds</usage>
+      <usage ms="Pet" code="07011000">[65v] lauds</usage>
+      <usage ms="Wcb" code="07011000">[94r] lauds</usage>
+      <usage ms="Wor" code="07011000">[44r] lauds</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Participem me fac deus omnium timentium te et custodientium mandata tua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Ely Wor Cht Pet Evm Wcb Cdm Bat Mch"> Aspice in me</rdg>
+            <rdg wit="Alb2"> Aspice in me domine</rdg>
+         </app> et miserere mei secundum iudicium diligentium nomen tuum</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Ely Wor Cht Pet Evm Wcb Bat Mch"> Et custodientium</rep>
+      <rep type="r" wit="Alb2 Cdm">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">no regressio given</note>
+      </rep>
+      <dox type="r" wit="Ely Wor Cht Pet Alb2"> Gloria</dox>
+      <rep type="r" wit="Ely Wor Cht"> Participem</rep>
+   </verses>
+</res>

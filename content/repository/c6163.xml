@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6162" nextid="c6164" id="c6163">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Beata es Maria</rdg>
+         <rdg wit="CAO-L">Beata es virgo Maria</rdg>
+      </app> quae
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-L"> omnium</rdg>
+         <rdg wit="CAO-E CAO-M CAO-D CAO-F CAO-S">dominum</rdg>
+      </app> portasti
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-L"> creatorem saeculorum</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-S"> creatorem mundi</rdg>
+      </app> genuisti qui te fecit et in aeternum
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L"> permanes</rdg>
+         <rdg wit="CAO-C">permanens</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="permanens">permanes</corr>
+         </rdg>
+         <rdg wit="CAO-M">
+            <corr sic="permanens">permanet</corr>
+         </rdg>
+         <rdg wit="CAO-V">permanet</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="permanet">permanens</corr>
+         </rdg>
+      </app> virgo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Ave Maria gratia plena dominus tecum</vBody>
+      <vBody type="r" wit="CAO-B CAO-V">Virgo Maria ante partum virgo
+       <app>
+            <rdg wit="CAO-B">in partu</rdg>
+            <rdg wit="CAO-V">in partum</rdg>
+         </app> virgo post partum</vBody>
+      <vBody type="r" wit="CAO-S"> Ipsum genuisti et in praesepe posuisti quem adorant multitudo angelorum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L">Genuisti</rep>
+      <rep type="r" wit="CAO-G CAO-H CAO-S">Et in</rep>
+   </verses>
+</res>

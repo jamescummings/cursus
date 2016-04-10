@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7721" nextid="c7723" id="c7722">
+   <rBody wit="CAO-C CAO-E"> Super lapidem monumenti
+     <app>
+         <rdg wit="CAO-E"> stabat angelus et psallebat</rdg>
+         <rdg wit="CAO-C"> sedebant angeli et psallebant</rdg>
+      </app> de resurrectione domini
+     <app>
+         <rdg wit="CAO-E"> et ante sepulcrum Jesu</rdg>
+         <rdg wit="CAO-C"> et ante sepulcrum Jesum</rdg>
+      </app> stabat Maria dicens domine si tu sustulisti eum dic ubi posuisti eum alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E"> At illa existimans
+      <app>
+            <rdg wit="CAO-E"> quia hortulanus esset</rdg>
+            <rdg wit="CAO-C"> quod hortulanus esset</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E"> et dixit ei</rdg>
+            <rdg wit="CAO-C"> dicit ei</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E">Domine</rep>
+   </verses>
+</res>

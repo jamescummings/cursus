@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3354" nextid="c3356" id="c3355">
+   <aBody wit="CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S"> Insignes praeconiis</rdg>
+         <rdg wit="CAO-M"> Insignis praeconiis</rdg>
+         <rdg wit="CAO-L"> Insigne praeconium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S CAO-L"> almae tuae nobilitatis</rdg>
+         <rdg wit="CAO-M"> almae tuae nobilitati</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S"> consonant voces collaudantes</rdg>
+         <rdg wit="CAO-M CAO-L"> consona voce collaudantes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-D CAO-F CAO-S"> verbo supplici</rdg>
+         <rdg wit="CAO-L"> verbo fragili</rdg>
+      </app> prosequamur
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S"> ave inclyte martyre</rdg>
+         <rdg wit="CAO-M"> ave inclyte virgo</rdg>
+         <rdg wit="CAO-L"> ave inclyte martyr Vincenti</rdg>
+      </app> angelorum consors
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-D CAO-F CAO-S"> apostolorum socius</rdg>
+         <rdg wit="CAO-L"> apostolorum socie</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S CAO-L"> prophetarum concivis</rdg>
+         <rdg wit="CAO-M"> prophetarum concives</rdg>
+      </app> et martyrum coheres
+     <app>
+         <rdg wit="CAO-M">  sancte Maria</rdg>
+         <rdg wit="CAO-V CAO-S"> sancte Sebastiane</rdg>
+         <rdg wit="CAO-D"> sancte Dionysi</rdg>
+         <rdg wit="CAO-F"> sancte Dionysi sum sociis tuis</rdg>
+         <rdg wit="CAO-L" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> intercede pro nostra
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S CAO-L"> omniumque salute</rdg>
+         <rdg wit="CAO-M"> omnium salute</rdg>
+      </app>
+   </aBody>
+</ant>

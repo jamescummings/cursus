@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3360" nextid="c3362" id="c3361">
+   <aBody wit="CAO-C CAO-B CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-C"> Intempesta noctis cuncta sub silentio</rdg>
+         <rdg wit="CAO-L"> Intempesta noctis hora cuncta sub silentio</rdg>
+         <rdg wit="CAO-H CAO-R"> Intempesta nocte cum cuncta sunt silentio</rdg>
+         <rdg wit="CAO-B"> Intempesta noctis dum cuncta sunt silentio</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R"> quasi sub solis radio</rdg>
+         <rdg wit="CAO-L"> velut sub uno solis radio</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> totum mundum conspexit</rdg>
+         <rdg wit="CAO-C"> omnem mundum conspexit</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3458" nextid="c3460" id="c3459">
+   <header>
+      <usage ms="Alb2" code="01031000">[12v] matins-n3</usage>
+      <usage ms="Cdm" code="01031000">[15r] matins-n3</usage>
+      <usage ms="Ely" code="01031000">[11r] prime</usage>
+      <usage ms="Evm" code="01031000">[17r] matins-n3</usage>
+      <usage ms="Glo" code="01031000">[15v] prime</usage>
+      <usage ms="Hyd" code="01032000">[11v] lauds gosp</usage>
+      <usage ms="Hyd" code="01042000" corresp="c3459-1">[14v] terce</usage>
+      <usage ms="Mch" code="01031000">[11r] matins-n3</usage>
+      <usage ms="Wcb" code="01031000">[46v] matins-n3</usage>
+      <usage ms="Wor" code="01031000">[7v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo"> Ite dicite Joanni
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo"> caeci vident et surdi audiunt</rdg>
+         <rdg wit="CAO-C"> caeci vident surdi audiunt</rdg>
+      </app> claudi curantur leprosi mundantur</aBody>
+   <aBody id="c3459-1" wit="Hyd" num="2"> Ite dicite Joanni caeci vident surdi audiunt claudi curantur leprosi mundantur</aBody>
+</ant>

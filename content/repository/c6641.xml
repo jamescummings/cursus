@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6640" nextid="c6642" id="c6641">
+   <header>
+      <usage ms="Evm" code="01037009">[21v] matins-r1</usage>
+      <usage ms="Mch" code="01021000">[8v] matins-n3-r12</usage>
+      <usage ms="Wcb" code="01047000">[51r] matins-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F Evm Mch Wcb">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F Evm Mch Wcb"> Egredietur virga de radice Jesse</rdg>
+         <rdg wit="CAO-C"> Egredietur dominus de radice Jesse</rdg>
+      </app> et flos
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F Evm Mch Wcb"> de radice eius</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> de germine eius</rdg>
+      </app> ascendet
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F Evm Mch Wcb">et erit iustitia</rdg>
+         <rdg wit="CAO-V">et erit iustitiam</rdg>
+      </app> cingulum lumborum eius et fides
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F Evm Mch Wcb"> cinctorium renum eius</rdg>
+         <rdg wit="CAO-C"> tentorium renum eius</rdg>
+      </app>
+   </rBody>
+   <rBody wit="CAO-S"> Egredietur virga de radice Jesse et flos de radice eius ascendet</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-V CAO-R CAO-F CAO-S Evm Mch Wcb">
+         <app>
+            <rdg wit="CAO-M CAO-V CAO-R CAO-F CAO-S Mch Wcb"> Et requiescet super eum</rdg>
+            <rdg wit="Evm"> Et requiescet eum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M CAO-R CAO-F CAO-S Evm Mch Wcb"> spiritus domini</rdg>
+            <rdg wit="CAO-V"> dominus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M CAO-V Mch"> spiritus sapientiae et intellectus spiritus consilii et fortitudinis</rdg>
+            <rdg wit="CAO-R CAO-F CAO-S Evm Wcb"> spiritus sapientiae et intellectus</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E"> Ex Sion species decoris eius deus noster manifeste veniet</vBody>
+      <vBody type="r" wit="CAO-H"> Rorate caeli desuper et nubes pluant iustum aperiatur terra et germinet salvatorem</vBody>
+      <rep type="r" wit="CAO-M CAO-V CAO-R CAO-F CAO-C CAO-B CAO-E CAO-H Evm Mch Wcb"> Et erit</rep>
+      <rep type="r" wit="CAO-S"> Et flos</rep>
+   </verses>
+</res>

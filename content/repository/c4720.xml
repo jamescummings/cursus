@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4719b" nextid="c4721" id="c4720">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sancte Paule apostole praedicator veritatis et doctor gentium intercede pro nobis ad deum qui te elegit </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Ut digni efficiamur
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> gratia dei</rdg>
+            <rdg wit="CAO-C"> gratia eius</rdg>
+            <rdg wit="CAO-V"> gratiam dei</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

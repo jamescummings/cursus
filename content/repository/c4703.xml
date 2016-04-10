@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4702" nextid="c4704" id="c4703">
+   <aBody wit="CAO-D CAO-F"> Sancta Maria succurre miseris iuva pusillanimes refove flebiles ora pro populo interveni pro clero intercede pro devoto femineo sexu</aBody>
+   <aBody wit="CAO-B CAO-E CAO-M CAO-H CAO-S CAO-L"> Sancta Maria succurre miseris iuva pusillanimes
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-S"> refove flebiles</rdg>
+         <rdg wit="CAO-L"> refove debiles</rdg>
+      </app> ora pro populo interveni pro clero intercede pro devoto femineo sexu
+     <app>
+         <rdg wit="CAO-E CAO-S"> sentiant omnes tuum levamen quicumque celebrant tuum natale alleluia</rdg>
+         <rdg wit="CAO-B"> sentiant omnes tuum adiuvamen quicumque celebrant tuum nomen alleluia</rdg>
+         <rdg wit="CAO-H"> sentiant omnes tuum levamen quicumque celebrant tuum natale</rdg>
+         <rdg wit="CAO-M"> sentiant omnes tuum levamen quicumque celebrant tuum nomen</rdg>
+         <rdg wit="CAO-L"> sentiant omnes tuum levamen quicumque celebrant tuum assumptionem</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2120" nextid="c2122" id="c2121">
+   <header>
+      <usage ms="Alb2" code="01035000">[16r] lauds-a2</usage>
+      <usage ms="Bat" code="01035000">[11r] lauds-a2</usage>
+      <usage ms="Cdm" code="01035000">[16v] lauds-a2</usage>
+      <usage ms="Ely" code="01035000">[12v] lauds-a2</usage>
+      <usage ms="Evm" code="01035000">[26v] lauds-a2</usage>
+      <usage ms="Evm" code="01036009">[21r] lauds-a3</usage>
+      <usage ms="Hyd" code="01035000">[12v] lauds-a2</usage>
+      <usage ms="Mch" code="01035000">[14r] lauds-a2</usage>
+      <usage ms="Wcb" code="01043000">[50r] lauds-a2</usage>
+      <usage ms="Wor" code="01035000">[9v] lauds-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> De Sion veniet qui regnaturus est dominus Emmanuel magnum nomen eius</aBody>
+</ant>

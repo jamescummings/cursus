@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6086" nextid="c6088" id="c6087">
+   <header>
+      <usage ms="Bat" code="07011000">[48v] matins-n3-r11</usage>
+      <usage ms="Cdm" code="07011000">[57r] matins-n3-r11</usage>
+      <usage ms="Cht" code="07011000">[23v] matins-n3-r11</usage>
+      <usage ms="Ely" code="06011000">[67v] matins-n3-r12</usage>
+      <usage ms="Evm" code="07011000">[107r] matins-n3-r11</usage>
+      <usage ms="Hyd" code="07011000">[70v] matins-n3-r13</usage>
+      <usage ms="Mch" code="07011000">[115v] matins-n3-r11</usage>
+      <usage ms="Pet" code="07011000">[65r] matins-n3-r12</usage>
+      <usage ms="Wcb" code="07011000">[93v] matins-n3-r11</usage>
+      <usage ms="Wor" code="07011000">[43v] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch Ely">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Wor Cht Pet Evm Wcb Cdm Mch Ely"> Angelis suis mandavit de te</rdg>
+         <rdg wit="Bat"> Angelis suis deus mandavit de te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch Ely"> ut custodiant te</rdg>
+         <rdg wit="CAO-M CAO-V"> ut custodiam te</rdg>
+      </app> in omnibus viis tuis in manibus portabunt te ne unquam offendas ad lapidem pedem tuum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch Ely"> Super aspidem et basiliscum ambulabis et conculcabis leonem et draconem</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch Ely"> In manibus</rep>
+      <rep type="r" wit="CAO-S"> Ne unquam</rep>
+   </verses>
+</res>

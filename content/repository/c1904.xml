@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1903" nextid="c1905" id="c1904">
+   <header>
+      <usage ms="Alb2" code="01038000">[14v] lauds</usage>
+      <usage ms="Cdm" code="01044000">[19v] lauds gosp</usage>
+      <usage ms="Ely" code="01032000">[11r] </usage>
+      <usage ms="Evm" code="01033000">[18v] lauds gosp</usage>
+      <usage ms="Evm" code="01036009">[21r] terce</usage>
+      <usage ms="Hyd" code="01043000">[15r] none</usage>
+      <usage ms="Hyd" code="01045000">[15v] prime</usage>
+      <usage ms="Mch" code="01048000">[19r] </usage>
+      <usage ms="Wcb" code="01033000">[47v] lauds gosp</usage>
+      <usage ms="Wor" code="01034000">[9r] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb"> Consurge consurge</rdg>
+         <rdg wit="Hyd"> Consurge Jerusalem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb"> induere fortitudinem</rdg>
+         <rdg wit="CAO-M CAO-H"> induere fortitudine</rdg>
+      </app> brachium domini</aBody>
+</ant>

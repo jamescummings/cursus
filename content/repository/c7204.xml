@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7203" nextid="c7205" id="c7204">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Ne derelinquas me
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> domine</rdg>
+         <rdg wit="CAO-H"> domine domine</rdg>
+      </app> pater et dominator vitae meae ut non corruam in conspectu
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> adversariorum meorum</rdg>
+         <rdg wit="CAO-B"> adversorum meorum</rdg>
+      </app> ne gaudeat de me inimicus meus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd"> Apprehende arma</rdg>
+            <rdg wit="CAO-R"> Apprehende domine arma</rdg>
+         </app> et scutum et exsurge in adiutorium mihi</vBody>
+      <vBody type="r" wit="CAO-C"> Apprehende arma et scutum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Ne gaudeat</rep>
+   </verses>
+</res>

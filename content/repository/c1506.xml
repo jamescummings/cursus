@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1505" nextid="c1507" id="c1506">
+   <header>
+      <usage ms="Alb2" code="07066000">[109v] matins-n1-a1</usage>
+      <usage ms="Cdm" code="07066000">[78v] matins-n1</usage>
+      <usage ms="Cht" code="07066000">[61v] matins-n1</usage>
+      <usage ms="Ely" code="07066000">[89v] matins-n1</usage>
+      <usage ms="Evm" code="07066000">[150r] matins-n1</usage>
+      <usage ms="Hyd" code="07066000">[96r] matins-n1</usage>
+      <usage ms="Mch" code="07066000">[160r] matins-n1-a1</usage>
+      <usage ms="Pet" code="07066000">[91r] matins-n1</usage>
+      <usage ms="Wcb" code="07066000">[116r] matins-n1</usage>
+      <usage ms="Wor" code="07066000">[60v] matins-n1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Astiterunt reges terrae et principes convenerunt in unum adversus dominum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> et adversus Christum eius</rdg>
+         <rdg wit="Ely"> et adversum Christum eius</rdg>
+      </app>
+   </aBody>
+</ant>

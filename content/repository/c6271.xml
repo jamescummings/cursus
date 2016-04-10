@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6270" nextid="c6272" id="c6271">
+   <rBody wit="CAO-E CAO-M CAO-F CAO-S"> Ceciderunt seniores viginti quatuor et quatuor animalia et adoraverunt
+      <app>
+         <rdg wit="CAO-M CAO-F"> Deum sedentem super thronum</rdg>
+         <rdg wit="CAO-E CAO-S"> Deum</rdg>
+      </app> dicentes amen alleluia et vox de throno exivit dicens laudem dicite Deo nostro omnes sancti eius
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-S"> et qui timetis Deum</rdg>
+         <rdg wit="CAO-M"> et qui timetis eum</rdg>
+      </app> pusilli et magni</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-F CAO-S">Et audivi quasi vocem
+       <app>
+            <rdg wit="CAO-E CAO-F CAO-S"> tubae magnae</rdg>
+            <rdg wit="CAO-M"> turbae magnae</rdg>
+         </app> et sicut vocem aquarum multarum et sicut vocem
+       <app>
+            <rdg wit="CAO-M"> tonitruum magnorum</rdg>
+            <rdg wit="CAO-F"> tonitrui magni</rdg>
+            <rdg wit="CAO-S"> tonitruorum magnorum dicentium</rdg>
+            <rdg wit="CAO-E"> throni tui magnorum dicentium</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-F">Dicentes</rep>
+      <rep type="r" wit="CAO-M">Laudem</rep>
+      <rep type="r" wit="CAO-S">Alleluia</rep>
+   </verses>
+</res>

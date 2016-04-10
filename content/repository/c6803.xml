@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6802" nextid="c6804" id="c6803">
+   <header>
+      <usage ms="Hyd" code="08031000">matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Haec est Jerusalem civitas magna caelestis
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> ornata</rdg>
+         <rdg wit="CAO-E"> ornatam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R CAO-F CAO-L"> tamquam sponsam agni</rdg>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-D Hyd"> tamquam sponsa agni</rdg>
+      </app> quoniam tabernaculum
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> facta est</rdg>
+         <rdg wit="CAO-E"> factum est</rdg>
+      </app> alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V CAO-H">
+         <app>
+            <rdg wit="CAO-V"> Vidi sanctam civitatem</rdg>
+            <rdg wit="CAO-H">  Vidi civitatem sanctam</rdg>
+            <rdg wit="CAO-C"> Vidi</rdg>
+         </app> Jerusalem descendentem de caelo ornatam tamquam sponsam viro suo</vBody>
+      <vBody type="r" wit="CAO-B CAO-R"> Vidi sanctam civitatem</vBody>
+      <vBody type="r" wit="CAO-E"> Vidi civitatem sanctam</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-L Hyd"> Portae eius non claudentur per diem nox enim
+       <app>
+            <rdg wit="CAO-D CAO-F CAO-L Hyd"> non erit in ea</rdg>
+            <rdg wit="CAO-G"> in ea non erit</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L Hyd"> Quoniam</rep>
+      <rep type="r" wit="CAO-R"> Alleluia</rep>
+   </verses>
+</res>

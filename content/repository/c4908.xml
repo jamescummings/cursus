@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4907" nextid="c4909" id="c4908">
+   <header>
+      <usage ms="Cht" code="07014000"/>
+      <usage ms="Hyd" code="07014000"/>
+      <usage ms="Pet" code="07014000"/>
+      <usage ms="Wor" code="07014000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-R CAO-D Wor Cht Pet"> Si quis fecerit voluntatem
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D Wor Cht Pet"> patris mei</rdg>
+         <rdg wit="CAO-E"> patris mei qui in caelis est</rdg>
+      </app> ipse meus frater soror et mater est</aBody>
+</ant>

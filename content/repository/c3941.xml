@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3940" nextid="c3942" id="c3941">
+   <header>
+      <usage ms="Hyd" code="08065000">prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Non vos relinquam orphanos alleluia
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-R CAO-D CAO-F Hyd"> vado et venio ad vos alleluia</rdg>
+         <rdg wit="CAO-V"> sed vado et venio ad vos alleluia</rdg>
+         <rdg wit="CAO-H"> vado et veniam ad vos alleluia</rdg>
+         <rdg wit="CAO-L"> vadam et veniam ad vos alleluia</rdg>
+         <rdg wit="CAO-B"> vado et <corr sic="venio">veniam</corr> ad vos alleluia</rdg>
+      </app> et gaudebit cor vestrum alleluia</aBody>
+</ant>

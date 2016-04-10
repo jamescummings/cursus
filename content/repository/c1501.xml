@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1500" nextid="c1502" id="c1501">
+   <header>
+      <usage ms="Alb2" code="07017000"/>
+      <usage ms="Cdm" code="07017000">[60r] lauds</usage>
+      <usage ms="Cht" code="07017000"/>
+      <usage ms="Ely" code="07017000"/>
+      <usage ms="Evm" code="07017000"/>
+      <usage ms="Glo" code="07017000"/>
+      <usage ms="Hyd" code="07017000"/>
+      <usage ms="Pet" code="07017000"/>
+      <usage ms="Wor" code="07017000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Glo Alb2 Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Glo Alb2 Cdm"> Assumpsit Jesus discipulos suos</rdg>
+         <rdg wit="CAO-G"> Assumpsit Jesus discipulis suis</rdg>
+      </app> et ascendit in montem et transfiguratus est ante eos</aBody>
+</ant>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7781" nextid="c7783" id="c7782">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tristitia vestra alleluia convertetur
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in gaudium</rdg>
+         <rdg wit="CAO-M"> in gaudio</rdg>
+      </app> alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L"> Mundus autem gaudebit</rdg>
+            <rdg wit="CAO-M"> Mundus gaudebit</rdg>
+            <rdg wit="CAO-H CAO-R"> Mundus quidem gaudebit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-L"> vos autem contristabimini</rdg>
+            <rdg wit="CAO-F"> vos vero contristabimini</rdg>
+            <rdg wit="CAO-V CAO-D"> et vos plorabitis</rdg>
+            <rdg wit="CAO-C"> vos autem plorabitis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S"> sed tristitia vestra</rdg>
+            <rdg wit="CAO-V"> dicit dominus sed tristitia vestra</rdg>
+            <rdg wit="CAO-C CAO-D"> dicit dominus</rdg>
+            <rdg wit="CAO-L" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Convertetur</rep>
+      <rep type="r" wit="CAO-C CAO-L">Alleluia (c)</rep>
+   </verses>
+</res>

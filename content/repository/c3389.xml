@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3388" nextid="c3390" id="c3389">
+   <aBody wit="CAO-B CAO-E CAO-H CAO-S CAO-L"> Introibo in domum tuam domine
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-S"> et adorabo ad templum sanctum tuum</rdg>
+         <rdg wit="CAO-L"> adorabo ad templum sanctum tuum</rdg>
+      </app>
+   </aBody>
+</ant>

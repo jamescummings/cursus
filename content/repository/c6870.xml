@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6869" nextid="c6871" id="c6870">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Honor virtus et potestas et imperium sit
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> trinitati in unitate unitati in trinitate</rdg>
+         <rdg wit="CAO-V"> trinitatis in unitate unitati in trinitate</rdg>
+         <rdg wit="CAO-G"> trinitati unicae unitati trinae</rdg>
+      </app> in perenni saeculorum
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> tempore</rdg>
+         <rdg wit="CAO-E CAO-M"> tempora</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-D CAO-F CAO-S Hyd"> Trinitati lux perennis</rdg>
+            <rdg wit="CAO-E"> Trinitatis lux perenni</rdg>
+            <rdg wit="CAO-R"> Trinitati laus perennis</rdg>
+            <rdg wit="CAO-G CAO-M CAO-L"> Trinitati lux perenni</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> unitati</rdg>
+            <rdg wit="CAO-V"> unitatis</rdg>
+         </app> sit decus
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> perpetim</rdg>
+            <rdg wit="CAO-G"> perpeti</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> In perenni</rep>
+      <prosula wit="CAO-L"> In perpetuum benedictum est nomen Dei aeterni simulque et Filio et Spiritui Sancto</prosula>
+      <dox type="r" wit="CAO-L"> Gloria</dox>
+      <rep type="r" wit="CAO-L"> In perenni</rep>
+   </verses>
+</res>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6261" nextid="c6263" id="c6262">
+   <rBody wit="CAO-F">
+      <verse type="stanza">
+         <l part="N">Candida virginitas paradisi cara colonis</l>
+         <l part="N">Hortus conclusus florenti cespite vernans</l>
+         <l part="N">Cui merito mundus celebrat praeconia totus</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F">
+         <verse type="stanza">
+            <l part="N">Quae meruit dominum progenerare suum</l>
+            <l part="N">Ipsa suo nato nos reddat florida virgo</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-F">Cui merito</rep>
+      <prosula wit="CAO-F">
+         <verse type="stanza">
+            <l part="N">Praeconia virginis laudum claraque cantica</l>
+            <l part="N">Quae genuit dominum regem regentem omnia</l>
+            <l part="N">Poscimus domina solve miserorum vincula</l>
+            <l part="N">Terge nostra facinora obluendo delicta</l>
+            <l part="N">Virginum virgo exaudi precamina</l>
+            <l part="N">Regina mundi te laudat noster chorus</l>
+            <l part="N">Nunc in tuis laudibus totus</l>
+         </verse>
+      </prosula>
+   </verses>
+</res>

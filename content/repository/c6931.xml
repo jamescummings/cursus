@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6930" nextid="c6932" id="c6931">
+   <header>
+      <usage ms="Bat" code="07051000">[59r] matins-n2-r6</usage>
+      <usage ms="Cdm" code="07051000">[70v] matins-n2-r6</usage>
+      <usage ms="Cht" code="07051000">[46v] matins-n2-r7</usage>
+      <usage ms="Ely" code="07051000">[81r] matins-n2-r6</usage>
+      <usage ms="Evm" code="07051000">[134r] matins-n2-r6</usage>
+      <usage ms="Hyd" code="07051000">[85v] matins-n2-r6</usage>
+      <usage ms="Mch" code="07051000">[145v] matins-n3-r9</usage>
+      <usage ms="Pet" code="07051000">[79v] matins-r6</usage>
+      <usage ms="Wcb" code="07051000">[107r] matins-n2-r5</usage>
+      <usage ms="Wor" code="07051000">[53r] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Cdm Mch Bat"> In proximo est tribulatio mea domine</rdg>
+         <rdg wit="Wcb"> In proximo est tribulatio mea dominus</rdg>
+      </app> et non est qui adiuvet
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-D CAO-S CAO-L Ely Cht Hyd Wcb Bat"> ut fodiant manus meas</rdg>
+         <rdg wit="CAO-E CAO-R CAO-F Wor Pet Evm Cdm Mch">ut fodeant manus meas</rdg>
+      </app> et pedes meos libera me de ore leonis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Cdm Mch"> ut narrem</rdg>
+         <rdg wit="Cht">ut et narrem</rdg>
+         <rdg wit="CAO-L Bat">ut enarrem</rdg>
+         <rdg wit="CAO-V">ut narrent</rdg>
+      </app> nomen tuum fratribus meis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Ely Pet Mch">
+         <app>
+            <rdg wit="CAO-E CAO-V Pet Mch"> Deus deus meus respice in me</rdg>
+            <rdg wit="Ely"> Deus deus meus respice in me quare me dereliquisti</rdg>
+            <rdg wit="CAO-C CAO-H CAO-D"> Deus deus meus respice in me quare me dereliquisti longe a salute mea</rdg>
+            <rdg wit="CAO-R"> Deus deus meus </rdg>
+            <rdg wit="CAO-B CAO-M"> Deus deus meus respice</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-F CAO-S CAO-L Wor Cht Hyd Evm Wcb Cdm Bat"> Erue a framea deus animam meam et de manu canis unicam meam</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-V CAO-H CAO-R CAO-D CAO-S Ely Cht Hyd Pet Evm Wcb Cdm">Libera</rep>
+      <rep type="r" wit="CAO-E CAO-M CAO-F Mch">Ut narrem</rep>
+      <rep type="r" wit="CAO-B">Ut fodiant</rep>
+      <rep type="r" wit="Wor"> Ut fodeant</rep>
+      <rep type="r" wit="CAO-L Bat">Ut enarrem</rep>
+   </verses>
+</res>

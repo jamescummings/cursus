@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6128" nextid="c6130" id="c6129">
+   <header>
+      <usage ms="Alb2" code="01011000">[2r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="01011000">[9r] matins-n1-r1</usage>
+      <usage ms="Evm" code="01011000">[4v] matins-n1-r1</usage>
+      <usage ms="Hyd" code="01011000">[1v] matins-n1-r1</usage>
+      <usage ms="Mch" code="01011000">[1v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="01011000">[41v] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb"> Aspiciens a longe ecce video dei potentiam venientem et nebulam totam terram tegentem ite obviam ei et dicite nuntia nobis si tu es ipse qui regnaturus es in populo Israel</rBody>
+   <verses>
+      <vBody id="c6129-1" type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb"> Quique terrigenae et filii hominum simul in unum dives et pauper</vBody>
+      <rep corresp="c6129-1" type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb">Ite</rep>
+      <vBody id="c6129-2" type="r" wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd Alb2 Evm Cdm"> Qui regis Israel intende qui deducis velut ovem Joseph qui sedes super cherubim</vBody>
+      <rep corresp="c6129-2" type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Cdm">Nuntia</rep>
+      <vBody id="c6129-3" type="r" wit="CAO-B CAO-F Wcb"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <rep corresp="c6129-3" type="r" wit="CAO-B CAO-F Wcb">Nuntia</rep>
+      <vBody id="c6129-4" type="r" wit="CAO-G"> Qui regis Israel intende</vBody>
+      <rep corresp="c6129-4" type="r" wit="CAO-G">Nuntia</rep>
+      <vBody id="c6129-5" type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S Hyd Alb2 Evm Wcb"> Tollite portas principes vestras et elevamini portae aeternales et introibit</vBody>
+      <rep corresp="c6129-5" type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S Hyd Alb2 Evm Wcb">Qui regnaturus</rep>
+      <vBody id="c6129-6" type="r" wit="CAO-D CAO-F Cdm"> Excita domine potentiam tuam et veni ut salvos facias nos</vBody>
+      <rep corresp="c6129-6" type="r" wit="CAO-D CAO-F"> Qui regnaturus</rep>
+      <vBody id="c6129-7" type="r" wit="CAO-G"> Excita domine potentiam tuam et veni ut salvos facias nos</vBody>
+      <rep corresp="c6129-7" type="r" wit="CAO-G"> Et dicite</rep>
+      <vBody id="c6129-8" type="r" wit="CAO-S"> Excita domine potentiam tuam et veni ut salvos facias nos</vBody>
+      <rep corresp="c6129-8" type="r" wit="CAO-S">Nuntia</rep>
+   </verses>
+</res>

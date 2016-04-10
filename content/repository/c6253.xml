@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6252" nextid="c6254" id="c6253">
+   <header>
+      <usage ms="Hyd" code="10500000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Benedixit te dominus in virtute sua qui per te ad nihilum
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> redegit</rdg>
+         <rdg wit="CAO-G"> redigit</rdg>
+      </app> inimicos nostros ut non deficiat laus tua de ore hominum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-D CAO-F Hyd">
+         <app>
+            <rdg wit="CAO-E CAO-V CAO-H CAO-D CAO-F Hyd"> Benedictus dominus</rdg>
+            <rdg wit="CAO-G"> Benedictus deus</rdg>
+         </app> qui
+       <app>
+            <rdg wit="CAO-G CAO-V CAO-H CAO-D CAO-F Hyd"> creavit</rdg>
+            <rdg wit="CAO-E"> fecit</rdg>
+         </app> caelum et terram
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-F Hyd"> quia</rdg>
+            <rdg wit="CAO-H"> qui</rdg>
+         </app> hodie
+       <app>
+            <rdg wit="CAO-E CAO-V CAO-H CAO-D CAO-F Hyd"> nomen tuum</rdg>
+            <rdg wit="CAO-G"> nomen suum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-F Hyd"> ita magnificavit</rdg>
+            <rdg wit="CAO-H"> ita magnificabit</rdg>
+            <rdg wit="CAO-E"> ita magnificasti</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-L"> Benedicta es tu a domino deo excelso prae omnibus mulieribus</vBody>
+      <vBody type="r" wit="CAO-B CAO-R"> Subvenisti angustiae generis tui et non pepercisti animae tuae</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd">Ut non</rep>
+      <rep type="r" wit="CAO-L">Qui</rep>
+   </verses>
+</res>

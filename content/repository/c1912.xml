@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1911" nextid="c1913" id="c1912">
+   <header>
+      <usage ms="Alb2" code="07065000">[109r] lauds-a3</usage>
+      <usage ms="Cdm" code="07065000">[78r] lauds-a3</usage>
+      <usage ms="Cht" code="07065000">[61r] lauds</usage>
+      <usage ms="Ely" code="07065000">[89r] lauds</usage>
+      <usage ms="Evm" code="07065000">[149v] lauds</usage>
+      <usage ms="Hyd" code="07065000">[95v] lauds</usage>
+      <usage ms="Mch" code="07065000">[159v] lauds-a3</usage>
+      <usage ms="Pet" code="07065000">[90r] lauds</usage>
+      <usage ms="Wcb" code="07065000">[115v] lauds</usage>
+      <usage ms="Wor" code="07065000">[60r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Contritum est cor meum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> in medio mei</rdg>
+         <rdg wit="Cht"> in medio et mei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Mch"> contremuerunt omnia ossa mea</rdg>
+         <rdg wit="Cdm">
+            <del rend="erasure" status="unremarkable">et</del> contremuerunt omnia ossa mea</rdg>
+      </app>
+   </aBody>
+</ant>

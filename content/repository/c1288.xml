@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1287b" nextid="c1289" id="c1288">
+   <header>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Pet"> Adorate dominum alleluia in aula sancta eius
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Pet"> alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

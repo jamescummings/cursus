@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2214" nextid="c2216" id="c2215">
+   <header>
+      <usage ms="Alb2" code="01037000">[17v] terce</usage>
+      <usage ms="Cdm" code="01035000">[17r] nones</usage>
+      <usage ms="Ely" code="01025000">[9r] lauds gosp</usage>
+      <usage ms="Evm" code="01037009">[22r] prime</usage>
+      <usage ms="Hyd" code="01033000">[11v] lauds gosp</usage>
+      <usage ms="Mch" code="02122400">[21v] matins-n1-a1</usage>
+      <usage ms="Pet" code="01037009">[9v] terce</usage>
+      <usage ms="Wcb" code="01036000">[47v] lauds gosp</usage>
+      <usage ms="Wor" code="01041000">[12v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> Dies domini sicut fur
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> ita in nocte veniet</rdg>
+         <rdg wit="Hyd"> ita et in nocte veniet</rdg>
+      </app> et vos estote parati quia qua hora non putatis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Ely Wor Wcb Pet"> filius hominis veniet</rdg>
+         <rdg wit="CAO-L Cdm"> filius hominis veniet alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1603" nextid="o1605" id="o1604">
+   <header>
+      <usage ms="Bat" code="07014000">[50r] nones</usage>
+      <usage ms="Evm" code="07012000"/>
+   </header>
+   <pBody wit="Evm Bat">Cunctas domine semper a nobis iniquitatibus repelle et ad viam salutis aeterna secura mente curramus et ad <supplied>beneficia recolenda</supplied>
+   </pBody>
+</prayer>

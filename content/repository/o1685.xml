@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1684" nextid="o1686" id="o1685">
+   <header>
+      <usage ms="Hyd" code="08031000">vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.1114</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus qui in filii tui humilitate iacentem mundum erexisti fidelibus tuis perpetuam concede laetantiam ut quos perpetue mortis eripuisti casibus gaudiis facias sempiternis perfrui</pBody>
+</prayer>

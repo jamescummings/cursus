@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4034" nextid="c4036" id="c4035">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O magnum pietatis opus mors mortua tunc est
+     <app>
+         <rdg wit="CAO-V CAO-L"> quando hoc in ligno mortua vita fuit</rdg>
+         <rdg wit="CAO-C"> quando in hoc ligno mortua vita fuit</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S"> quando in ligno mortua vita fuit</rdg>
+         <rdg wit="CAO-D CAO-F"> cum crucis in ligno mortua vita fuit</rdg>
+         <rdg wit="CAO-M"> quando in ligno mors tua vita fuit</rdg>
+      </app>
+   </aBody>
+</ant>

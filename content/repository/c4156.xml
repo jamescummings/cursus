@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4155" nextid="c4157" id="c4156">
+   <header>
+      <usage ms="Alb2" code="01037000">[17v] lauds gosp</usage>
+      <usage ms="Bat" code="01037000">[11v] lauds gosp</usage>
+      <usage ms="Cdm" code="01037000">[17v] lauds gosp</usage>
+      <usage ms="Ely" code="01037000">[13r] lauds gosp</usage>
+      <usage ms="Evm" code="01034009">[19v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01037000">[16r] lauds gosp</usage>
+      <usage ms="Wcb" code="01034000">[47v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01037000">[10r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Omnis vallis implebitur et omnis mons et collis humiliabitur et videbit omnis caro salutare dei</aBody>
+</ant>

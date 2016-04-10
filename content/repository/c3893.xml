@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3892" nextid="c3894" id="c3893">
+   <header>
+      <usage ms="Cdm" code="08013000">[82v] matins-n1-a1</usage>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Cdm"> Nolite expavescere Jesum Nazarenum quaeritis crucifixum
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F Hyd Cdm"> non est hic surrexit alleluia</rdg>
+         <rdg wit="CAO-E CAO-V"> non est hic sed surrexit alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

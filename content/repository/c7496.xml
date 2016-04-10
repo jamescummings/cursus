@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7495" nextid="c7497" id="c7496">
+   <rBody wit="CAO-H CAO-F"> Quinque prudentes virgines acceperunt oleum in vasis suis cum lampadibus media autem nocte clamor factus est ecce sponsus venit exite obviam Christo domino</rBody>
+   <rBody wit="CAO-C CAO-D" num="2"> Quinque prudentes</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F"> Tunc surrexerunt omnes virgines illae et ornaverunt lampades suas</vBody>
+      <vBody type="r" wit="CAO-C CAO-D"> Tunc surrexerunt</vBody>
+      <vBody type="r" wit="CAO-H"> Audi filia et vide et inclina aurem tuam quia concupivit rex speciem tuam</vBody>
+      <rep type="r" wit="CAO-H CAO-D CAO-F">Media</rep>
+   </verses>
+</res>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2201" nextid="c2203" id="c2202">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Dicite invitatis ecce prandium meum paravi
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S"> venite ad nuptias dicit dominus</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F"> venite ad nuptias alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

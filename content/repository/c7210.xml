@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7209" nextid="c7211" id="c7210">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">Imperfect text in CAO-D, completed by collating Paris BN lat.1072 (Book of Hours from St Denis)</note>
+   <rBody wit="CAO-D"> Ne tradas domine bestiis animas confitentes tibi et animas pauperum tuorum ne obliviscaris in finem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D">Memorare quae sit nostra substantia domine et quia non vane constituisti omnes filios hominum</vBody>
+      <rep type="r" wit="CAO-D">Et animas</rep>
+   </verses>
+</res>

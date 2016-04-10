@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7451" nextid="c7453" id="c7452">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Pulchra facie sed pulchrior fide beata es virgo respuens mundum laetaberis cum angelis intercede pro omnibus nobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Specie tua et pulchritudine tua
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> intende prospere</rdg>
+            <rdg wit="CAO-L"> intende et prospere</rdg>
+         </app> procede et regna</vBody>
+      <vBody type="r" wit="CAO-V"> Sancta et immaculata virginitas quibus te laudibus efferam nescio</vBody>
+      <vBody type="r" wit="CAO-M"> Sancta et immaculata virgo</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Intercede</rep>
+      <rep type="r" wit="CAO-E">Laetaberis</rep>
+   </verses>
+</res>

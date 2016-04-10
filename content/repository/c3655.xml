@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3654" nextid="c3656" id="c3655">
+   <header>
+      <usage ms="Hyd" code="02010608"/>
+      <usage ms="Pet" code="02010608"/>
+   </header>
+   <aBody wit="CAO-C CAO-R CAO-D Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-D Hyd Pet"> Magi viderunt stellam</rdg>
+         <rdg wit="CAO-R"> Magi videntes stellam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R Hyd Pet"> obtulerunt domino</rdg>
+         <rdg wit="CAO-D"> et obtulerunt domino</rdg>
+         <rdg wit="CAO-C"> obtulerunt dominum</rdg>
+      </app> aurum thus et myrrham</aBody>
+</ant>

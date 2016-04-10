@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3484" nextid="c3486" id="c3485">
+   <header>
+      <usage ms="Alb2" code="07011000">[78r] prime</usage>
+      <usage ms="Bat" code="07011000">[49r] prime</usage>
+      <usage ms="Cdm" code="07011000">[57v] prime-a1</usage>
+      <usage ms="Ely" code="07011000">[68r] prime</usage>
+      <usage ms="Evm" code="07011000">[106v] matins-n3</usage>
+      <usage ms="Hyd" code="07011000">[71r] prime</usage>
+      <usage ms="Mch" code="07011000">[117r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="07011000">[92v] matins-n3</usage>
+      <usage ms="Wor" code="07011000">[44r] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Evm Wcb Alb2 Cdm Bat Mch"> Jesus autem cum ieiunasset quadraginta diebus et quadraginta noctibus postea esuriit</aBody>
+</ant>

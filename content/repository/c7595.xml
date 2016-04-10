@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7594" nextid="c7596" id="c7595">
+   <rBody wit="CAO-R CAO-S"> Sanctificavit dominus tabernaculum suum quia haec est domus dei in qua invocetur nomen eius de qua scriptum est et erit nomen meum ibi dicit dominus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Domus mea domus orationis vocabitur</vBody>
+      <vBody type="r" wit="CAO-S"> Haec est domus domini firmiter aedificata bene fundata est supra firmam petram</vBody>
+      <rep type="r" wit="CAO-R CAO-S">Et erit</rep>
+   </verses>
+</res>

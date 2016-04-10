@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7874" nextid="c7876" id="c7875">
+   <header>
+      <usage ms="Hyd" code="10900000">matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Vidi dominum sedentem super solium excelsum et elevatum et plena erat omnis terra maiestate eius et ea quae sub ipso erant replebant templum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> Seraphim stabant super illud</rdg>
+            <rdg wit="CAO-C"> Seraphim quoque stabant iuxta illud</rdg>
+            <rdg wit="CAO-V"> Cherubim et seraphim stabant subter illud</rdg>
+            <rdg wit="CAO-E CAO-D"> Seraphim stabant subter illud</rdg>
+            <rdg wit="CAO-M"> Seraphim stabant super eum</rdg>
+         </app> sex alae uni et sex alae alteri</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et ea</rep>
+      <rep type="r" wit="CAO-C">Et plena</rep>
+   </verses>
+</res>

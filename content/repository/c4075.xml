@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4074" nextid="c4076" id="c4075">
+   <header>
+      <usage ms="Alb2" code="01048010">[22r] </usage>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="01048010">[15r] </usage>
+      <usage ms="Evm" code="01048010">[30r] </usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="01048000">[21r] </usage>
+      <usage ms="Pet" code="01048010">[12v] </usage>
+      <usage ms="Wcb" code="01048010">[49v] </usage>
+      <usage ms="Wor" code="01048010">[10v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> O radix Jesse qui stas in signum populorum</rdg>
+         <rdg wit="CAO-M"> O radix Jesse qui stans in signum populorum</rdg>
+      </app> super quem continebunt reges os suum quem gentes deprecabuntur veni ad liberandum nos iam noli tardare</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5453" nextid="c5455" id="c5454">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L"> Virgo prudentissima quo progrederis
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-L"> quasi aurora valde rutilans</rdg>
+         <rdg wit="CAO-E"> quasi aurora valde rutilat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F"> filia Sion tota formosa et suavis es</rdg>
+         <rdg wit="CAO-V CAO-L"> filia Sion tota formosa et suavis est</rdg>
+      </app> pulchra ut luna electa ut sol</aBody>
+</ant>

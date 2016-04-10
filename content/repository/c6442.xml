@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6441" nextid="c6443" id="c6442">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Diem festum sacratissimae virginis celebremus qualiter passa sit beata Agnes ad memoriam revocemus tertiodecimo aetatis suae
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S CAO-L"> anno</rdg>
+         <rdg wit="CAO-F"> agno</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="agno">anno</corr>
+         </rdg>
+      </app> mortem perdidit et vitam invenit quia solum vitae dilexit auctorem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R"> Ingressa Agnes turpitudinis locum angelum domini praeparatum invenit</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Infantia quidem computabatur in annis sed erat senectus mentis immensa</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quia</rep>
+   </verses>
+</res>

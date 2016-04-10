@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2443" nextid="c2445" id="c2444">
+   <header>
+      <usage ms="Alb2" code="07066000">[111r] lauds-a4</usage>
+      <usage ms="Cdm" code="07066000">[79v] lauds-a4</usage>
+      <usage ms="Cht" code="07066000">[63v] lauds</usage>
+      <usage ms="Ely" code="07066000">[90v] lauds</usage>
+      <usage ms="Evm" code="07066000">[152v] lauds</usage>
+      <usage ms="Hyd" code="07066000">[97r] lauds</usage>
+      <usage ms="Mch" code="07066000">[162r] lauds-a4</usage>
+      <usage ms="Pet" code="07066000">[93r] lauds</usage>
+      <usage ms="Wcb" code="07066000">[117r] lauds</usage>
+      <usage ms="Wor" code="07066000">[62r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Dum conturbata fuerit anima mea domine
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> misericordiae memor eris</rdg>
+         <rdg wit="Cht"> misericordiae tuae memor eris</rdg>
+         <rdg wit="CAO-G CAO-M"> misericordiae memor ero</rdg>
+      </app>
+   </aBody>
+</ant>

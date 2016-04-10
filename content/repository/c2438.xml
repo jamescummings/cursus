@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2437" nextid="c2439" id="c2438">
+   <aBody wit="CAO-G CAO-V CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-V"> Dum autem complerentur dies Pentecostes</rdg>
+         <rdg wit="CAO-L"> Cum autem complerentur dies Pentecostes</rdg>
+      </app> erant omnes pariter discipuli
+     <app>
+         <rdg wit="CAO-G CAO-V"> congregati in unum</rdg>
+         <rdg wit="CAO-L"> congregati</rdg>
+      </app> alleluia alleluia et subito factus est sonus de caelo tamquam advenientis spiritus vehementis alleluia
+     <app>
+         <rdg wit="CAO-G"> et apparuerunt apostolis</rdg>
+         <rdg wit="CAO-V CAO-L"> et apparuerunt apostoli</rdg>
+      </app> dispertitae linguae tamquam ignis seditque supra singulos eorum spiritus sanctus
+     <app>
+         <rdg wit="CAO-G CAO-V"> alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

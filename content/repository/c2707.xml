@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2706" nextid="c2708" id="c2707">
+   <header>
+      <usage ms="Hyd" code="08000000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-D CAO-F Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F Hyd"> Et ingressae</rdg>
+         <rdg wit="CAO-C"> Et ingressi</rdg>
+      </app> non invenerunt
+     <app>
+         <rdg wit="CAO-D CAO-F Hyd"> corpus domini Jesu alleluia</rdg>
+         <rdg wit="CAO-C"> corpus domini Jesus alleluia</rdg>
+         <rdg wit="CAO-E"> corpus domini Jesu alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3896" nextid="c3898" id="c3897">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Nolite timere non separabuntur a vobis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L"> sed vadunt in caelum</rdg>
+         <rdg wit="CAO-F CAO-S"> sed vadunt in caelis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> parare vobis sidereas mansiones</rdg>
+         <rdg wit="CAO-L"> parare vobis syderias mansiones</rdg>
+         <rdg wit="CAO-G CAO-V"> parare vobis desideratas mansiones</rdg>
+      </app>
+   </aBody>
+</ant>

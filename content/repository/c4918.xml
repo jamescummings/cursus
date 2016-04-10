@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4917" nextid="c4919" id="c4918">
+   <header>
+      <usage ms="Alb2" code="07015000"/>
+      <usage ms="Bat" code="07015000">[50v] lauds gosp</usage>
+      <usage ms="Cdm" code="07015000">[59v] lauds</usage>
+      <usage ms="Cht" code="07015000"/>
+      <usage ms="Ely" code="07015000"/>
+      <usage ms="Evm" code="07015000"/>
+      <usage ms="Glo" code="07015000"/>
+      <usage ms="Mch" code="07015000">[120r] lauds gosp</usage>
+      <usage ms="Pet" code="07015000"/>
+      <usage ms="Wcb" code="07015000"/>
+      <usage ms="Wor" code="07015000"/>
+   </header>
+   <aBody wit="CAO-F Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-F Hyd Ely Wor Cht Pet Evm Wcb Alb2 Mch Bat"> Si vos manseritis in sermone meo</rdg>
+         <rdg wit="Cdm"> Si manseritis in sermone meo</rdg>
+      </app> vere discipuli mei eritis et cognoscetis veritatem et veritas liberabit vos</aBody>
+   <aBody wit="Glo" type="incipit"> Si vos manseritis in sermone meo</aBody>
+</ant>

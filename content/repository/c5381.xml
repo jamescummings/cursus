@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5380" nextid="c5382" id="c5381">
+   <header>
+      <usage ms="Evm" code="02122800">[49v] lauds commemoratio</usage>
+      <usage ms="Wcb" code="02122600">[58r] matins-n1-a4</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-R CAO-L Evm Wcb"> Videbant omnes Stephanum qui erant in concilio
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-L Evm Wcb"> et intuebantur vultum eius</rdg>
+         <rdg wit="CAO-V"> et intuebantur vultu eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-L"> tamquam vultum angeli stantis inter illos</rdg>
+         <rdg wit="Evm Wcb"> tamquam vultum angelicum</rdg>
+      </app>
+   </aBody>
+</ant>

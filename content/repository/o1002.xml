@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1001" nextid="o1003" id="o1002">
+   <header>
+      <usage ms="Mch" code="06021000">[102v] vesp1</usage>
+      <usage ms="Alb2" code="06021000">[67r] vesp1</usage>
+      <usage ms="Bat" code="06021000">[43v] vesp1</usage>
+      <usage ms="Cdm" code="06021000">[51r] vesp1</usage>
+      <usage ms="Cht" code="06021000">[14r] matins-n2-r1</usage>
+      <usage ms="Ely" code="06021000">[61r] vesp1</usage>
+      <usage ms="Evm" code="06021000">[95r] vesp1</usage>
+      <usage ms="Hyd" code="06021000">[63r] vesp1</usage>
+      <usage ms="Wcb" code="06021000">[87r] vesp1</usage>
+   </header>
+   <pBody wit="Hyd Alb2 Cht Ely Wcb Evm Cdm Bat Mch"> Deus qui conspicis qui ex nulla nostra actione confidimus concede propitius ut contra adversa omnia
+     <app>
+         <rdg wit="Hyd Alb2 Cht Ely Wcb Mch"> doctoris gentium</rdg>
+         <rdg wit="Evm Cdm Bat"> tua semper</rdg>
+      </app> protectione muniamur</pBody>
+</prayer>

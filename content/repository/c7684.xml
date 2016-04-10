@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7683" nextid="c7685" id="c7684">
+   <header>
+      <usage ms="Hyd" code="10500000">matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-F CAO-L Hyd"> Spem in alium numquam habui</rdg>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-D"> Spem in alio numquam habui</rdg>
+      </app> praeter in te deus Israel qui irasceris et propitius eris et omnia peccata hominum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> in tribulatione</rdg>
+         <rdg wit="CAO-C"> in tribulatione hominum</rdg>
+      </app> dimittis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-H CAO-R CAO-D CAO-F CAO-L"> Domine deus caeli et terrae</rdg>
+            <rdg wit="CAO-M"> Domine deus creator caeli et terrae</rdg>
+            <rdg wit="Hyd"> Domine deus <del status="unremarkable">rex</del> caeli et terrae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> respice ad humilitatem nostram</rdg>
+            <rdg wit="CAO-M"> respice humilitate nostram</rdg>
+            <rdg wit="CAO-G"> respice humilitatem nostram</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <rep type="r" wit="CAO-G CAO-M CAO-H CAO-R CAO-D CAO-F Hyd">Qui irasceris</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-L">Et omnia</rep>
+   </verses>
+</res>

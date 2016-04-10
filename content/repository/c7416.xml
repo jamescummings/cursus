@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7415" nextid="c7417" id="c7416">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Praebe fili cor tuum mihi et oculi tui vias meas custodiant ut addatur
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-S CAO-L Hyd"> gratia</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V"> gratiam</rdg>
+         <rdg wit="CAO-F"> gratia<del status="unremarkable">m</del>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> capiti tuo</rdg>
+         <rdg wit="CAO-E"> capiti suo</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Attende fili mi sapientiam meam et ad eloquium meum inclina aurem tuam</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Ut addatur</rep>
+   </verses>
+</res>

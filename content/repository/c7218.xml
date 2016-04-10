@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7217" nextid="c7219" id="c7218">
+   <header>
+      <usage ms="Evm" code="06021000">[95v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="06021000">[87r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-V CAO-S CAO-L Wcb Evm"> Noe vir iustus atque perfectus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-S Wcb Evm"> cum deo ambulavit</rdg>
+         <rdg wit="CAO-L"> cum domino ambulavit</rdg>
+      </app> et fecit omnia quaecumque praecepit ei deus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-L"> Et fecit sibi arcam Noe
+      <app>
+            <rdg wit="CAO-L"> ut salvaretur</rdg>
+            <rdg wit="CAO-V"> in qua salvaretur</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L"> universum semen</rdg>
+            <rdg wit="CAO-V"> universum genus</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-E Wcb Evm">
+         <app>
+            <rdg wit="CAO-E Wcb Evm"> Noe autem invenit gratiam</rdg>
+            <rdg wit="CAO-G"> Noe invenit gratiam</rdg>
+         </app>
+         <app>
+            <rdg wit="Wcb Evm"> ante dominum deum</rdg>
+            <rdg wit="CAO-G"> coram domino</rdg>
+            <rdg wit="CAO-E"> coram domino deo</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S"> Apparebit arcus meus in nubibus et iurabo per dexteram meam</vBody>
+      <vBody type="r" wit="CAO-C"> Et fecit sibi Noe arcam ut salvaretur cum universo semine</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-V CAO-S CAO-L Wcb Evm">Et fecit</rep>
+   </verses>
+</res>

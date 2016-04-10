@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3499" nextid="c3501" id="c3500">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Joannes et Paulus dixerunt ad Gallicanum</rdg>
+         <rdg wit="CAO-V"> Joannes et Paulus dixerunt ad Julianum</rdg>
+      </app> fac votum deo caeli
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S"> et eris victor melior quam fuisti</rdg>
+         <rdg wit="CAO-M CAO-D CAO-F"> et eris victor melius quam fuisti</rdg>
+      </app>
+   </aBody>
+</ant>

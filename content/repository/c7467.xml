@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7466b" nextid="c7468" id="c7467">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quem dicunt homines esse filium hominis dixit Jesus discipulis suis respondens Petrus dixit tu es Christus filius dei vivi et ego dico tibi quia tu es Petrus et super hanc petram aedificabo ecclesiam meam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus es
+      <app>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Simon Bar Jona</rdg>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-R"> Simon Petre</rdg>
+         </app> quia caro et sanguis non revelavit tibi sed Pater meus qui est in caelis</vBody>
+      <vBody type="r" num="2" wit="CAO-M"> Et portae inferi non praevalebunt adversus eam et tibi dabo claves regni caelorum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et ego</rep>
+   </verses>
+</res>

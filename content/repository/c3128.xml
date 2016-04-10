@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3127" nextid="c3129" id="c3128">
+   <aBody wit="CAO-E CAO-M"> Homo erat plenus daemonio
+     <app>
+         <rdg wit="CAO-E"> clamabat dicens</rdg>
+         <rdg wit="CAO-M"> exclamavit dicens</rdg>
+      </app> apostole Christi incendunt me
+     <app>
+         <rdg wit="CAO-E"> orationes tuae</rdg>
+         <rdg wit="CAO-M"> orationis tuae</rdg>
+      </app> tunc apostolus dixit ei
+     <app>
+         <rdg wit="CAO-E"> ommutesce et exi ab eo</rdg>
+         <rdg wit="CAO-M"> obmutesce et exi ab eo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> statim</rdg>
+         <rdg wit="CAO-M"> et statim</rdg>
+      </app> liberatus est homo</aBody>
+</ant>

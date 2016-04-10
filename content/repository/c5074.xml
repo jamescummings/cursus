@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5073b" nextid="c5075" id="c5074">
+   <header>
+      <usage ms="Cht" code="05041000">[6r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="05051000"/>
+      <usage ms="Pet" code="05051000"/>
+      <usage ms="Alb2" code="05051000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Hyd Pet Cht"> Surgens Jesus imperavit ventis et mari et facta est tranquillitas magna et mirati sunt universi</aBody>
+</ant>

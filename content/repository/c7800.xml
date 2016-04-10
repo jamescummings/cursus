@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7799" nextid="c7801" id="c7800">
+   <rBody wit="CAO-S CAO-L"> Tunc frater regis dixit ad eum iste homo
+     <app>
+         <rdg wit="CAO-L"> quem tu disponebas incendere</rdg>
+         <rdg wit="CAO-S"> quem tu dicis ponere in carcere</rdg>
+      </app> et excoriare amicus dei est
+     <app>
+         <rdg wit="CAO-L"> et angeli dei</rdg>
+         <rdg wit="CAO-S"> et angeli</rdg>
+      </app> famulantur ei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S CAO-L"> Ostensum est mihi palatium quod tibi fecit in caelis
+      <app>
+            <rdg wit="CAO-L"> ex smaragdo hyacintho prasinis et albis</rdg>
+            <rdg wit="CAO-S"> ex smaragdo et iacinto politum ex auro</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-S"> Amicus</rep>
+      <rep type="r" wit="CAO-L">Et angeli</rep>
+   </verses>
+</res>

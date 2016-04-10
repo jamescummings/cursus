@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8539" nextid="c8541" id="c8540">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+   </header>
+   <aBody wit="Hyd Pet">Regem baptizatum dominum venite adoremus</aBody>
+</ant>

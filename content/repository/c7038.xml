@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7037" nextid="c7039" id="c7038">
+   <header>
+      <usage ms="Evm" code="07041000">[128v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="07041000">[104v] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-L Evm Wcb">
+      <app>
+         <rdg wit="CAO-L Wcb"> Josue animadverte</rdg>
+         <rdg wit="Evm"> Josue anima verte</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> in omnibus quae loquor</rdg>
+         <rdg wit="Evm Wcb"> in omnibus quae ego loquor tibi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> quoniam tu transibis Jordanem pro me</rdg>
+         <rdg wit="Evm Wcb"> quia tu transibis Jordanem pro me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> ad terram quam daturus est dominus deus</rdg>
+         <rdg wit="Evm"> in terram quam daturus est dominus nobis</rdg>
+         <rdg wit="Wcb"> in terra quam daturus est dominus nobis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">Audi igitur Israel praecepta domini et ea in corde tuo quasi in libro scribe</vBody>
+      <vBody type="r" wit="Evm Wcb">Si volueritis et audieritis me dicit dominus bona terrae comeditis</vBody>
+      <rep type="r" wit="CAO-L">Quoniam</rep>
+      <rep type="r" wit="Evm">In terram</rep>
+      <rep type="r" wit="Wcb">Quam daturus</rep>
+   </verses>
+</res>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5023" nextid="c5025" id="c5024">
+   <header>
+      <usage ms="Hyd" code="02010608"/>
+      <usage ms="Pet" code="02010608"/>
+   </header>
+   <aBody wit="CAO-C CAO-D CAO-L Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-D Hyd Pet"> Stella quam viderant magi</rdg>
+         <rdg wit="CAO-L"> Stella quam viderunt magi</rdg>
+      </app> antecedebat eos donec veniret supra ubi erat puer</aBody>
+</ant>

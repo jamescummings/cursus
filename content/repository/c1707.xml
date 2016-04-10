@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1706" nextid="c1708" id="c1707">
+   <header>
+      <usage ms="Hyd" code="09011000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> Benedicta sit creatrix et gubernatrix omnium
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S CAO-L Hyd"> sancta et individua trinitas</rdg>
+         <rdg wit="CAO-F"> sancta <del status="unremarkable">et</del> individua trinitas</rdg>
+         <rdg wit="CAO-M"> sanctam et individuam trinitas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> et nunc et semper</rdg>
+         <rdg wit="CAO-M"> nunc et semper</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-F CAO-S Hyd"> et per infinita saeculorum saecula</rdg>
+         <rdg wit="CAO-H"> et per infinita saecula saeculorum</rdg>
+         <rdg wit="CAO-L"> et per infinita saeculorum saecula gaudeamus et exsultemus et demus gloriam ei</rdg>
+      </app>
+   </aBody>
+</ant>

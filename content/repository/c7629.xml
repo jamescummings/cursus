@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7628" nextid="c7630" id="c7629">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L Hyd"> Scio domine quia
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-F CAO-L Hyd"> morti me traditurus es</rdg>
+         <rdg wit="CAO-D"> morte me traditurus es</rdg>
+         <rdg wit="CAO-V"> morti me traditurus est</rdg>
+      </app> ubi constituta est omnis domus viventium spero in te domine quia non ad consumptionem meam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F Hyd"> emittis</rdg>
+         <rdg wit="CAO-L"> emitas</rdg>
+      </app> manum tuam et si
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V Hyd"> in profundum inferni dimersus fuero</rdg>
+         <rdg wit="CAO-C CAO-D"> in profundo inferni dimersus fuero</rdg>
+         <rdg wit="CAO-H CAO-F CAO-L"> in profundum inferni demersus fuero</rdg>
+      </app> inde me liberabis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D Hyd"> Si ascendero in caelum tu illic es
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H"> et si descendero</rdg>
+            <rdg wit="CAO-C CAO-D Hyd"> si descendero</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V"> ad infernum</rdg>
+            <rdg wit="CAO-C CAO-D Hyd"> in infernum</rdg>
+            <rdg wit="CAO-H"> ad infernum ades</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Credo quod redemptor meus vivit et in novissimo die de terra <corr sic="suscitavit" resp="Hesbert">suscitabit</corr> me</vBody>
+      <vBody type="r" wit="CAO-F"> Tu quidem gressus meos dinumerasti sed parces peccatis meis</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D Hyd">Inde</rep>
+      <rep type="r" wit="CAO-L">Spero</rep>
+      <rep type="r" wit="CAO-F">Et si in profundum</rep>
+   </verses>
+</res>

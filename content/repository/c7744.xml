@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7743" nextid="c7745" id="c7744">
+   <header>
+      <usage ms="Alb2" code="01031000">[11v] matins-n1-r4</usage>
+      <usage ms="Bat" code="01021000">[6r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="01021000">[12r] matins-n1-r4</usage>
+      <usage ms="Ely" code="01011000">[3r] matins-n2-r6</usage>
+      <usage ms="Evm" code="01031000">[16v] matins-n1-r4</usage>
+      <usage ms="Hyd" code="01011000">[2r] matins-n2-r6</usage>
+      <usage ms="Mch" code="01031000">[10r] matins-n1-r4</usage>
+      <usage ms="Wcb" code="01031000">[46r] matins-n1-r4</usage>
+      <usage ms="Wor" code="01011000">[2r] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Suscipe verbum virgo Maria quod tibi
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> a domino</rdg>
+         <rdg wit="CAO-S"> ad domino</rdg>
+      </app> per angelum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> transmissum est</rdg>
+         <rdg wit="CAO-V CAO-L"> transmissus est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Alb2 Mch Cdm Ely Wor"> concipies per aurem deum paries et hominem</rdg>
+         <rdg wit="Hyd"> concipiens per aurem et paries deum pariter et hominem</rdg>
+         <rdg wit="CAO-F Evm Wcb Bat"> concipies et paries deum pariter et hominem</rdg>
+         <rdg wit="CAO-E"> concipies per aurem deum pariter et hominem</rdg>
+         <rdg wit="CAO-C"> concipies per aurem deum pariet et hominem</rdg>
+         <rdg wit="CAO-L"> concipe in utero deum paries et hominem</rdg>
+      </app> ut benedicta dicaris inter omnes mulieres</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R Mch"> Ave Maria gratia plena dominus tecum</vBody>
+      <vBody type="r" wit="CAO-M"> Ave Maria</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Paries quidem filium
+      <app>
+            <rdg wit="CAO-G CAO-D CAO-S CAO-L Alb2 Cdm Ely Wor Wcb Bat"> et virginitatis</rdg>
+            <rdg wit="CAO-F Hyd Evm"> sed virginitatis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-S CAO-L Alb2 Evm Cdm Ely Wor Wcb Bat"> non patieris detrimentum</rdg>
+            <rdg wit="Hyd"> non patiens detrimentum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> efficieris gravida</rdg>
+            <rdg wit="CAO-S"> efficieris gravita</rdg>
+         </app> et eris
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> mater semper intacta</rdg>
+            <rdg wit="CAO-G"> mater intacta</rdg>
+            <rdg wit="CAO-L"> mater sempiterna</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">Ut benedicta</rep>
+      <rep type="r" wit="CAO-F">
+         <sic resp="Hesbert">Et</sic> benedicta</rep>
+   </verses>
+</res>

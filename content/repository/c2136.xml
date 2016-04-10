@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2135" nextid="c2137" id="c2136">
+   <header>
+      <usage ms="Alb2" code="07031000">[87v] vesp1</usage>
+      <usage ms="Bat" code="07031000">[53v] vesp1 gosp</usage>
+      <usage ms="Cdm" code="07031000">[63v] vesp1-a1</usage>
+      <usage ms="Ely" code="07031000">[74r] vesp1</usage>
+      <usage ms="Evm" code="07031000">[120r] vesp1</usage>
+      <usage ms="Glo" code="07031000">[65r] vesp1</usage>
+      <usage ms="Hyd" code="07031000">[77v] matins</usage>
+      <usage ms="Mch" code="07032000">[133r] prime</usage>
+      <usage ms="Pet" code="07031000">[71r] vesp1</usage>
+      <usage ms="Wcb" code="07031000">[100r] vesp1</usage>
+      <usage ms="Wor" code="07031000">[47v] vesp1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M Ely Wor Hyd Evm Wcb Glo Alb2 Cdm Mch Bat"> Dedit pater paenitenti filio stolam primam pariter et annulum nam et calceamenta
+     <app>
+         <rdg wit="CAO-E Ely Wor Hyd Evm Wcb Glo Alb2 Cdm Mch"> illi tribuens</rdg>
+         <rdg wit="CAO-M"> eius tribuit</rdg>
+      </app> celebravit magnum convivium habemus stolam primam in lavacro
+     <app>
+         <rdg wit="CAO-E Ely Wor Hyd Evm Wcb Glo Alb2 Cdm Mch"> et annulum fidei signaculum</rdg>
+         <rdg wit="CAO-M"> et annulo fidei signaculum</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Pet"> Dedit pater paenitenti filio stolam <gap reason="top corner of folio missing" resp="DC"/>iter et annulum nam et calceamenta illi tribuens celebravit <gap reason="top corner of folio missing" resp="DC"/> convivium habemus stolam primam in lavacro et et annulum fide<gap reason="top corner of folio missing" resp="DC"/>lum</aBody>
+   <aBody wit="CAO-C"> Dedit pater paenitenti filio stolam primam pariter et annulum nam et calceamenta ei tribuit celebravit magnum convivium</aBody>
+</ant>

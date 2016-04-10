@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8529" nextid="c8531" id="c8530">
+   <header>
+      <usage ms="Glo" code="07061000">[73r] procession-a1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Text derived from Philippians 2, 5-10: cf. c8539</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Glo">Fratres hoc enim sentite in vobis quod in Christo Jesu</aBody>
+   <verses>
+      <vBody type="a" wit="Glo">Qui humiliavit semet ipsum factus oboediens usque ad mortem</vBody>
+      <rep type="a" wit="Glo">Fratres hoc enim sentite</rep>
+   </verses>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3895" nextid="c3897" id="c3896">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D"> Nolite timere eos qui corpus occidunt
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R"> animam autem non possunt occidere dicit dominus</rdg>
+         <rdg wit="CAO-D"> animam autem non possunt occidere alleluia alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-C" num="2"> Nolite timere eos qui occidunt corpus anima autem occidere non possunt dicit dominus </aBody>
+</ant>

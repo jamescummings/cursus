@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7796" nextid="c7798" id="c7797">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="08011000">[99r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="08012000">[102r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Tulerunt dominum meum et nescio ubi posuerunt eum
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-D Hyd Cdm"> ait ei angelus</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-R"> ait illi angelus</rdg>
+         <rdg wit="CAO-S"> ait ei dominus</rdg>
+         <rdg wit="CAO-F CAO-L"> dicunt ei angeli</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cdm"> noli flere Maria</rdg>
+         <rdg wit="CAO-L"> mulier quid ploras</rdg>
+      </app> surrexit sicut dixit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R Cdm"> praecedet vos in Galilaeam</rdg>
+         <rdg wit="CAO-G CAO-M CAO-D CAO-F CAO-S Hyd"> praecedit vos in Galilaeam</rdg>
+         <rdg wit="CAO-L"> praecedet vos in Galilaea</rdg>
+      </app> ibi eum videbitis alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R"> Cito euntes dicite discipulis eius et Petro quia surrexit Dominus</vBody>
+      <vBody type="r" wit="CAO-G CAO-E CAO-M"> Cito euntes</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Dum ergo fleret inclinavit se et prospexit in monumentum et vidit duos angelos in albis sedentes qui dicunt ei</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R">Praecedet</rep>
+      <rep type="r" wit="CAO-D CAO-F">Surrexit</rep>
+      <rep type="r" wit="CAO-L">Mulier</rep>
+      <rep type="r" wit="CAO-S">Praecedit</rep>
+      <rep type="r" wit="Hyd Cdm"> Noli</rep>
+   </verses>
+</res>

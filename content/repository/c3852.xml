@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3851" nextid="c3853" id="c3852">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Also used, with change of first word, for Conception: see c8619</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Nativitas tua dei genitrix virgo
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> gaudium annuntiavit universo mundo</rdg>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-L"> gaudium annuntiavit in universo mundo</rdg>
+      </app> ex te enim ortus est sol iustitiae Christus deus noster
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S"> qui solvens maledictionem</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-L"> exsolvens maledictionem</rdg>
+      </app> dedit benedictionem et confundens mortem
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> donavit nobis vitam sempiternam</rdg>
+         <rdg wit="CAO-L"> condonavit nobis vitam sempiternam</rdg>
+      </app>
+   </aBody>
+</ant>

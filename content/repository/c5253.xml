@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5252" nextid="c5254" id="c5253">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tunc Valerianus perrexit ad antistitem
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> et signo quod acceperat</rdg>
+         <rdg wit="CAO-C"> et signum quod acceperat</rdg>
+         <rdg wit="CAO-E"> et signo quo acceperat</rdg>
+         <rdg wit="CAO-V"> et signo quod acceperit</rdg>
+         <rdg wit="CAO-L"> et signaculum quod acceperat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> invenit sanctum Urbanum</rdg>
+         <rdg wit="CAO-L"> dedit sancto Urbano</rdg>
+      </app>
+   </aBody>
+</ant>

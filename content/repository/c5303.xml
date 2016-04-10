@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5302" nextid="c5304" id="c5303">
+   <header>
+      <usage ms="Alb2" code="07011000">[78r] sext</usage>
+      <usage ms="Bat" code="07011000">[49r] terce</usage>
+      <usage ms="Cdm" code="07011000">[57v] terce-a1</usage>
+      <usage ms="Cht" code="07011000">[24v] sext</usage>
+      <usage ms="Ely" code="07011000">[68r] terce</usage>
+      <usage ms="Evm" code="07011000">[108r] sext</usage>
+      <usage ms="Glo" code="07011000">[59v] sext</usage>
+      <usage ms="Mch" code="07011000">[116v] sext</usage>
+      <usage ms="Pet" code="07011000">[65v] sext</usage>
+      <usage ms="Wcb" code="07011000">[94v] sext</usage>
+      <usage ms="Wor" code="07011000">[44r] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Vade Satanas non temptabis dominum deum tuum</aBody>
+</ant>

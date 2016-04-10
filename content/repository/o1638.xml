@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1637" nextid="o1639" id="o1638">
+   <header>
+      <usage ms="Alb2" code="05041000"/>
+      <usage ms="Cht" code="05031000">[3r] vesp1</usage>
+      <usage ms="Hyd" code="05041000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.1102</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Hyd Cht">Omnipotens sempiterne deus infirmitatem nostram propitius respice atque ad protegendum nos dexteram tuae maiestatis extende</pBody>
+</prayer>

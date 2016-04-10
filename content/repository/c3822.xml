@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3821" nextid="c3823" id="c3822">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Hesbert gives a full text for this antiphon, not otherwise represented in CAO sources, which he derives from "plusieurs autres sources" (not identified):  Mulier quae erat in civitate peccatrix attulit alabastrum unguenti et stans secus pedes Jesu lacrimis coepit rigare pedes eius et capillis capitis sui tergebat</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C" type="incipit"> Mulier quae erat in civitate peccatrix</aBody>
+</ant>

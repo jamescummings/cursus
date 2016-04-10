@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1758" nextid="o1760" id="o1759">
+   <header>
+      <usage ms="Cdm" code="02122800">[29v] nones</usage>
+      <usage ms="Evm" code="02010400">[63r] vesp1</usage>
+      <usage ms="Wcb" code="02122800">[65r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.45</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Wcb Cdm"> Adiuva nos quaesumus domine eorum deprecatione sanctorum qui filium tuum humana necdum voce
+     <app>
+         <rdg wit="Wcb Cdm"> profitentes</rdg>
+         <rdg wit="Evm"> confitentes</rdg>
+      </app> caelesti sunt pro eius nativitate gratia coronasti</pBody>
+</prayer>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7827" nextid="c7829" id="c7828">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Veni sponsa Christi accipe coronam quam tibi Dominus praeparavit
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> pro cuius amore</rdg>
+         <rdg wit="CAO-D"> pro eius amore</rdg>
+      </app> sanguinem tuum fudisti et cum angelis
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> in paradisum introisti</rdg>
+         <rdg wit="CAO-E CAO-S"> in paradiso introisti</rdg>
+         <rdg wit="CAO-C"> in paradisum introibis</rdg>
+      </app>
+   </rBody>
+   <rBody wit="CAO-B"> Veni sponsa Christi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Veni electa mea et ponam in te thronum meum quia concupivit rex speciem tuam</vBody>
+      <vBody id="c7828-1" type="r" wit="CAO-C"> Veni electa mea et ponam in te thronum meum quia concupivit rex speciem tuam</vBody>
+      <rep corresp="c7828-1" type="r" wit="CAO-C"> Et cum</rep>
+      <vBody id="c7828-2" type="r" num="2" wit="CAO-C"> Propter veritatem</vBody>
+      <rep corresp="c7828-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody type="r" wit="CAO-L"> Quoniam concupivit rex speciem tuam quia ipse est dominus deus tuus</vBody>
+      <vBody type="r" wit="CAO-V"> Veniente sponso clamor factus est ecce sponsus venit exite obviam ei</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-F CAO-S">Et cum</rep>
+      <rep type="r" wit="CAO-V CAO-R CAO-D CAO-L">Pro cuius</rep>
+      <rep type="r" wit="CAO-H">Quam</rep>
+   </verses>
+</res>

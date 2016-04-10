@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3394" nextid="c3396" id="c3395">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Invenerunt in modum templi marmorei habitaculum
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D"> a deo paratum</rdg>
+         <rdg wit="CAO-F"> praeparatum a deo</rdg>
+         <rdg wit="CAO-L"> a deo parati</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6646" nextid="c6647a" id="c6647">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Elegit dominus virum de plebe et claritatem visionis aeternae dedit illi celebremus solemnitatem Sebastiani martyris gaudium sit in caelo et in terra pax in hominibus bonae voluntatis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus es et bene tibi erit
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S"> egregie Dei martyr</rdg>
+            <rdg wit="CAO-V CAO-D CAO-L"> egregie martyr</rdg>
+         </app> Sebastiane</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gaudium</rep>
+   </verses>
+</res>

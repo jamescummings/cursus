@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3686" nextid="c3688" id="c3687">
+   <header>
+      <usage ms="Alb2" code="07026000"/>
+      <usage ms="Bat" code="07026000">[53r] lauds gosp</usage>
+      <usage ms="Cdm" code="07026000">[63r] lauds-a1</usage>
+      <usage ms="Ely" code="07026000"/>
+      <usage ms="Evm" code="07026000"/>
+      <usage ms="Glo" code="07026000"/>
+      <usage ms="Hyd" code="07026000"/>
+      <usage ms="Mch" code="07026000">[127v] lauds gosp</usage>
+      <usage ms="Pet" code="07026000"/>
+      <usage ms="Wcb" code="07026000"/>
+      <usage ms="Wor" code="07026000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Ely Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Malos male perdet et vineam suam
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-R CAO-D CAO-F Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat">locabit</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-S CAO-L">locavit</rdg>
+      </app> aliis agricolis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-F CAO-S Wor Hyd Pet Wcb Glo Alb2 Bat">qui reddant ei fructum temporibus suis</rdg>
+         <rdg wit="Cdm"> qui reddent ei fructum temporibus suis</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R CAO-D Ely Evm Mch">qui reddunt ei fructum temporibus suis</rdg>
+         <rdg wit="CAO-L">qui reddant eis fructum temporibus suis</rdg>
+      </app>
+   </aBody>
+</ant>

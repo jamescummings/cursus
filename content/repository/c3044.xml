@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3043" nextid="c3045" id="c3044">
+   <header>
+      <usage ms="Alb2" code="02122800">[39v] lauds gosp</usage>
+      <usage ms="Bat" code="02122800">[24r] lauds gosp</usage>
+      <usage ms="Cdm" code="02122800">[29v] lauds gosp</usage>
+      <usage ms="Evm" code="02122800">[49r] lauds gosp</usage>
+      <usage ms="Hyd" code="02122800">[27v] vesp2 gosp</usage>
+      <usage ms="Pet" code="02122800">[31v] lauds gosp</usage>
+      <usage ms="Wcb" code="02122800">[65r] lauds gosp</usage>
+      <usage ms="Wor" code="02122800">[23v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-R CAO-F CAO-L Hyd Alb2 Evm Bat Cdm Wor Pet"> Hii sunt qui cum mulieribus</rdg>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-D CAO-S Wcb"> Hi sunt qui cum mulieribus</rdg>
+      </app> non sunt coinquinati virgines enim sunt et sequuntur agnum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> quocumque ierit</rdg>
+         <rdg wit="CAO-V"> quodcumque ierit</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7644" nextid="c7646" id="c7645">
+   <header>
+      <usage ms="Alb2" code="07022000"/>
+      <usage ms="Bat" code="07022000">[53r] vesp2</usage>
+      <usage ms="Cdm" code="07021000">[62r] vesp2-r1</usage>
+      <usage ms="Cht" code="07022000"/>
+      <usage ms="Ely" code="07022000"/>
+      <usage ms="Evm" code="07021000"/>
+      <usage ms="Glo" code="07021000"/>
+      <usage ms="Hyd" code="07022000"/>
+      <usage ms="Mch" code="07041000">[140r] vesp2</usage>
+      <usage ms="Pet" code="07021000"/>
+      <usage ms="Wcb" code="07021000"/>
+      <usage ms="Wor" code="07022000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Cht Pet Evm Wcb Glo Alb2 Bat"> Servus tuus ego sum</rdg>
+         <rdg wit="CAO-B Cdm Mch"> Servus tuus sum ego</rdg>
+      </app> da mihi intellectum domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Ut discam mandata tua</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Cht Evm Wcb Alb2 Cdm"> Da mihi</rep>
+      <rep type="r" wit="Pet">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">[Regressio not given, but implied at 'Da mihi' by use of uppercase]</note>
+      </rep>
+      <rep type="r" wit="Glo">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">[Regressio not given]</note>
+      </rep>
+      <dox type="r" wit="Wor Pet Evm Wcb Glo Alb2"> Gloria</dox>
+      <rep type="r" num="2" wit="Wor Evm"> Servus</rep>
+   </verses>
+</res>

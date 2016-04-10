@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2061" nextid="c2063" id="c2062">
+   <aBody wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cumque in specu posito</rdg>
+         <rdg wit="CAO-C"> Cumque in specu positus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> submitti panem diabolus conspiceret</rdg>
+         <rdg wit="CAO-L"> submittit panem diabolus conspiceret</rdg>
+         <rdg wit="CAO-C"> submitti panem diabolus conspicere</rdg>
+      </app> jactavit lapidem et tintinnabulum fregit</aBody>
+</ant>

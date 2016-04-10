@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7282" nextid="c7284" id="c7283">
+   <rBody wit="CAO-E CAO-L">
+      <app>
+         <rdg wit="CAO-E"> O quam bonae domus tuae</rdg>
+         <rdg wit="CAO-L"> O quam bona domus tua</rdg>
+      </app> Jacob tabernacula tua Israel
+     <app>
+         <rdg wit="CAO-E"> sicut paradisus iuxta fluvios rivuli</rdg>
+         <rdg wit="CAO-L"> quasi tabernacula quam fixit dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> et ut tabernacula quae fixit dominus quasi cedri prope aquas</rdg>
+         <rdg wit="CAO-L"> et ut paradisus iuxta fluvios rigui</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Fluet aqua de situla eius et semen eius erit in aquis multis</vBody>
+      <vBody type="r" wit="CAO-E"> Qui benedixerit tibi Jacob erit ipse benedictus</vBody>
+      <rep type="r" wit="CAO-E CAO-L">Quasi</rep>
+   </verses>
+</res>

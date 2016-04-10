@@ -1,0 +1,26 @@
+<div class="sidebar">
+<ul>
+<!-- Home -->
+<li><a href="/">CURSUS Home</a></li>
+
+<!-- About -->
+<li><a href="/about">About CURSUS</a>
+<ul>
+<li><a href="/editorial">Editorial Practices</a></li>
+<li><a href="/technology">Technology</a></li>
+<li><a href="/emacs">EMACS</a></li>
+<li><a href="/downloads">Downloads</a></li>
+</ul>
+</li>
+<!-- Explore -->
+<li><a href="/explore">Explore CURSUS Data</a>:<ul>
+<li><a href="/manuscripts">Manuscripts</a></li>
+<li><a href="/incipits/list">Incipits</a></li>
+<li><a href="/vulgate">Vulgate</a></li>
+<!-- <li><a href="/search">Search</a></li> -->
+</ul></li>
+
+<!-- Help -->
+<li><a href="/help">Help</a></li>
+</ul>
+</div>

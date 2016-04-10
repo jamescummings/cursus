@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4396" nextid="c4398" id="c4397">
+   <header>
+      <usage ms="Alb2" code="02122700">[34r] matins-n1-a5</usage>
+      <usage ms="Bat" code="02122700">[20v] matins-n1-a5</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins-n1-a5</usage>
+      <usage ms="Evm" code="02122700">[42v] matins-n1-a5</usage>
+      <usage ms="Hyd" code="02122700">[23r] matins-n1-a5</usage>
+      <usage ms="Pet" code="02122700">[25r] matins-n1-a5</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins-n1-a5</usage>
+      <usage ms="Wor" code="02122700">[19r] matins-n1-a5</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Propter insuperabilem evangelizandi
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> constantiam</rdg>
+         <rdg wit="CAO-S"> constantia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> exsilio relegatus</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> exsilio religatus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> divinae visionis et allocutionis</rdg>
+         <rdg wit="CAO-B"> divinae iussionis et allocutionis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-D Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> meruit crebra consolatione relevari</rdg>
+         <rdg wit="CAO-V"> meruit crebra consolationis relevari</rdg>
+         <rdg wit="CAO-F"> meruit crebra consolationi<del status="unremarkable">s</del> relevari</rdg>
+         <rdg wit="CAO-S"> meruit crebra consolatione relevare</rdg>
+      </app>
+   </aBody>
+</ant>

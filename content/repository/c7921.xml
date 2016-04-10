@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7920" nextid="c7922" id="c7921">
+   <header>
+      <usage ms="Wor" code="02122700">[20v] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-B Wor"> Vox tonitrui tui deus in rota Joannes est evangelista mundi per ambitum praedicans lumen caelicum qui
+     <app>
+         <rdg wit="Wor">triumphat</rdg>
+         <rdg wit="CAO-B"> triumphans</rdg>
+      </app> Romae lavit in vino stolam suam et in sanguine olivae pallium suum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B Wor">Victo senatu cum Caesare virgineo corpore tripudiat in igne</vBody>
+      <rep type="r" wit="CAO-B">Lavit</rep>
+      <rep type="r" wit="Wor">Qui</rep>
+      <dox type="r" wit="Wor">Gloria</dox>
+      <rep type="r" num="2" wit="Wor">Vox</rep>
+   </verses>
+</res>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3528" nextid="c3529b" id="c3529">
+   <aBody wit="CAO-E CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E"> Iussu regis Astragi</rdg>
+         <rdg wit="CAO-S"> Iussu regis Astrigi</rdg>
+         <rdg wit="CAO-L"> Iussu regi Astrigi</rdg>
+      </app> beatus Bartholomaeus pro Christi nomine vivens decoriatus est
+     <app>
+         <rdg wit="CAO-S"> et amputatum est caput ipsius</rdg>
+         <rdg wit="CAO-E CAO-L"> et amputatus est caput ipsius</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4810" nextid="c4812" id="c4811">
+   <header>
+      <usage ms="Hyd" code="10200000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Sapientia clamitat in plateis si quis diligit sapientiam ad me declinet et eam inveniet
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D Hyd"> et eam dum invenerit</rdg>
+         <rdg wit="CAO-V"> et ea dum invenerit</rdg>
+         <rdg wit="CAO-M CAO-F CAO-S"> et eam cum invenerit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D"> beatus est si tenuerit illam</rdg>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F Hyd"> beatus est si tenuerit eam</rdg>
+         <rdg wit="CAO-M CAO-V CAO-S"> beatus es si tenueris illam</rdg>
+      </app>
+   </aBody>
+</ant>

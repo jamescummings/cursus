@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4093" nextid="c4095" id="c4094">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O virum ineffabilem</rdg>
+         <rdg wit="CAO-V"> O virum ineffabile</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> nec labore victum nec morte vincendum</rdg>
+         <rdg wit="CAO-M CAO-V CAO-S"> nec laborem victum nec morte vincendum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> qui nec mori timuit</rdg>
+         <rdg wit="CAO-V"> qui nec mori timui</rdg>
+      </app> nec vivere recusavit</aBody>
+</ant>

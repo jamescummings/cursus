@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6877" nextid="c6879" id="c6878">
+   <header>
+      <usage ms="Alb2" code="07031000">[87v] vesp1</usage>
+      <usage ms="Bat" code="07031000">[53v] matins-n1-r3</usage>
+      <usage ms="Cdm" code="07031000">[64r] matins-n2-r8</usage>
+      <usage ms="Ely" code="07031000">[73v] vesp1</usage>
+      <usage ms="Evm" code="07031000">[121r] matins-n1-r4</usage>
+      <usage ms="Glo" code="07031000">[64v] vesp1</usage>
+      <usage ms="Hyd" code="07031000">[77v] vesp1</usage>
+      <usage ms="Mch" code="07031000">[128r] vesp1</usage>
+      <usage ms="Pet" code="07031000">[70v] vesp1</usage>
+      <usage ms="Wcb" code="07031000">[100r] vesp1</usage>
+      <usage ms="Wor" code="07031000">[47v] vesp1</usage>
+   </header>
+   <rBody wit="CAO-E Ely Wor Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Igitur Joseph ductus est in Aegyptum fuitque dominus cum eo per quem erat vir in cunctis prospere agens</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E Ely Wor Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Misertus enim est deus illius
+      <app>
+            <rdg wit="CAO-E Ely Wor Pet Wcb Glo Alb2 Cdm Mch Bat"> et omnia eius opera dirigebat</rdg>
+            <rdg wit="Evm"> et omnia opera eius dirigebat</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E Ely Wor Pet Evm Wcb Glo Alb2 Cdm Mch Bat">Per quem</rep>
+      <dox type="r" wit="CAO-E Wor Pet Evm Wcb Glo">Gloria</dox>
+      <rep type="r" num="2" wit="CAO-E">Vir</rep>
+      <rep type="r" num="2" wit="Wor Glo">Per quem</rep>
+   </verses>
+</res>

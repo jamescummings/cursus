@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4753" nextid="c4755" id="c4754">
+   <aBody wit="CAO-F">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Sanctissime pater Maure huic diei festo</l>
+         <l part="N"> et tuis laudibus clementer petimus adesto</l>
+         <l part="N"> tibique famulantium assidue memor esto</l>
+      </lg>
+   </aBody>
+</ant>

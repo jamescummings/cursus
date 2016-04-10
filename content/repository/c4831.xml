@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4830" nextid="c4832" id="c4831">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Scio cui credidi et certus sum quia potens est depositum meum servare
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> in illum diem iustus iudex</rdg>
+         <rdg wit="CAO-C CAO-S"> in illa die iustus iudex</rdg>
+         <rdg wit="CAO-L"> in illo die iustus iudex</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> De reliquo reposita est mihi corona iustitiae</vBody>
+   </verses>
+</ant>

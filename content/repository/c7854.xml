@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7853" nextid="c7855" id="c7854">
+   <header>
+      <usage ms="Alb2" code="01036000">[16v] matins-n1-r3</usage>
+      <usage ms="Bat" code="01041000">[12r] matins-n2-r5</usage>
+      <usage ms="Cdm" code="01036000">[17r] matins-r3</usage>
+      <usage ms="Cdm" code="01041000">[18r] matins-n2-r5</usage>
+      <usage ms="Ely" code="01041000">[13v] matins-n1-r3</usage>
+      <usage ms="Evm" code="01035009">[20r] matins-r3</usage>
+      <usage ms="Hyd" code="01041000">[13r] matins-n2-r5</usage>
+      <usage ms="Mch" code="01036000">[15r] matins-r3</usage>
+      <usage ms="Pet" code="01036009">[9r] matins-r2</usage>
+      <usage ms="Wcb" code="01045000">[50v] matins-r3</usage>
+      <usage ms="Wor" code="01041000">[11v] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Videbunt gentes iustum tuum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> et cuncti reges</rdg>
+         <rdg wit="CAO-S"> et cunctis reges</rdg>
+      </app> inclitum tuum et vocabitur tibi nomen novum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> quod os domini nominavit</rdg>
+         <rdg wit="CAO-S"> quos os domini nominabis</rdg>
+      </app>
+   </rBody>
+   <rBody wit="Pet">
+      <gap desc="whole of respond" reason="lost folios" resp="DC"/>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Et eris corona gloriae</rdg>
+            <rdg wit="Mch"> Et eris corona iustitiae</rdg>
+            <rdg wit="CAO-L"> Et erit corona gloriae</rdg>
+            <rdg wit="Pet">
+               <gap desc="first words of verse" reason="lost folios" resp="DC"/>gloriae</rdg>
+         </app> in manu domini et diadema regni
+      <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Pet Bat"> in manu dei tui</rdg>
+            <rdg wit="Mch"> in manu domini dei tui</rdg>
+            <rdg wit="CAO-L"> in manu dei nostri</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M"> Ecce dominator dominus</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Pet Bat">Et vocabitur</rep>
+      <rep type="r" wit="CAO-C Wcb">Quod os</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+   </verses>
+</res>

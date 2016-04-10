@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4590" nextid="c4592" id="c4591">
+   <header>
+      <usage ms="Glo" code="14120800">[15r] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Glo"> Regali ex progenie Maria exorta
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Glo"> refulget</rdg>
+         <rdg wit="CAO-V"> refulges</rdg>
+         <rdg wit="CAO-C"> refulsit</rdg>
+      </app> cuius precibus nos adiuvari
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Glo"> mente et spiritu devotissime poscimus</rdg>
+         <rdg wit="CAO-S"> mente et spiritum devotissime poscimus</rdg>
+         <rdg wit="CAO-E"> mente et spiritu devotissime <corr sic="possimus">poscimus</corr>
+         </rdg>
+         <rdg wit="CAO-V"> mente et spiritu devotissime possimus</rdg>
+      </app>
+   </aBody>
+</ant>

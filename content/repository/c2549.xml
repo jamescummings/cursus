@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2548" nextid="c2550" id="c2549">
+   <header>
+      <usage ms="Alb2" code="01016000">[7r] lauds gosp</usage>
+      <usage ms="Bat" code="01016000">[5v] lauds gosp</usage>
+      <usage ms="Cdm" code="01016000">[11v] lauds gosp</usage>
+      <usage ms="Ely" code="01016000">[6v] lauds gosp</usage>
+      <usage ms="Evm" code="01016000">[11v] lauds gosp</usage>
+      <usage ms="Glo" code="01016000">[11v] lauds gosp</usage>
+      <usage ms="Hyd" code="01016000">[6v] lauds gosp</usage>
+      <usage ms="Mch" code="01016000">[6r] lauds gosp</usage>
+      <usage ms="Wor" code="01016000">[4v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Glo Bat"> Ecce veniet deus et homo de domo David sedere in throno alleluia</aBody>
+</ant>

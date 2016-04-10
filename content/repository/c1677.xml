@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1676" nextid="c1678" id="c1677">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus vir qui suffert temptationem
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S CAO-L"> quoniam cum probatus fuerit</rdg>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R"> quia cum probatus fuerit</rdg>
+      </app> accipiet coronam vitae
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> quam repromisit deus diligentibus se</rdg>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R"> quam repromisit deus his qui diligunt eum</rdg>
+         <rdg wit="CAO-L"> quam repromisit deus his qui diligunt eum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

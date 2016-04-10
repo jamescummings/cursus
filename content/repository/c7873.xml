@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7872" nextid="c7874" id="c7873">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Vidi coniunctos viros habentes splendidas vestes et angelus domini locutus est ad me dicens isti sunt viri sancti facti amici dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Vidi angelum dei</rdg>
+            <rdg wit="CAO-L"> Vidi angelum fortem</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-L"> volantem per medium caelum</rdg>
+            <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S"> volantem per medium caeli</rdg>
+         </app> voce magna clamantem et dicentem</vBody>
+      <vBody type="r" wit="CAO-M">Vidi angelum domini</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Isti</rep>
+   </verses>
+</res>

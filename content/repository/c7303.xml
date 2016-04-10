@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7302" nextid="c7304" id="c7303">
+   <header>
+      <usage ms="Alb2" code="07067000">[112r] matins-n2-r5</usage>
+      <usage ms="Cdm" code="07067000">[80r] matins-n2-r5</usage>
+      <usage ms="Cht" code="07066000">[64r] matins-r2</usage>
+      <usage ms="Ely" code="07067000">[91v] matins-n2-r5</usage>
+      <usage ms="Hyd" code="07066000">[96v] matins-n2-r6</usage>
+      <usage ms="Mch" code="07067000">[163v] matins-n2-r5</usage>
+      <usage ms="Pet" code="07067000">[94v] matins-n2-r5</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> O vos omnes qui transitis per viam attendite et videte
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> si est dolor similis sicut dolor meus</rdg>
+         <rdg wit="CAO-L"> si est dolor sicut dolor meus</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-G CAO-V CAO-D CAO-F CAO-L Ely Cht Hyd Wor Pet Alb2 Cdm Mch"> Attendite universi populi
+      <app>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-L Ely Cht Hyd Pet Cdm"> et videte</rdg>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-S Wor Alb2 Mch"> et videte dolorem meum</rdg>
+            <rdg wit="CAO-R"> dolorem meum</rdg>
+            <rdg wit="CAO-F"> et contemplamini</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> Si est</rep>
+      <rep type="r" wit="CAO-M"> Sicut</rep>
+   </verses>
+</res>

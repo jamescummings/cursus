@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7342" nextid="c7344" id="c7343">
+   <header>
+      <usage ms="Alb2" code="01021000">[9v] lauds</usage>
+      <usage ms="Ely" code="01031000">[10v] lauds</usage>
+      <usage ms="Evm" code="01031000">[18r] lauds</usage>
+      <usage ms="Glo" code="01034009">[16v] lauds</usage>
+      <usage ms="Hyd" code="01012000">[5r] lauds</usage>
+      <usage ms="Mch" code="01031000">[12r] lauds</usage>
+      <usage ms="Wor" code="01021000">[6r] lauds</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-V CAO-H CAO-D CAO-S Hyd Alb2 Evm Mch Ely Wor Glo"> Ostende nobis domine misericordiam tuam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-V CAO-H CAO-D CAO-S Hyd Alb2 Evm Mch Ely Wor Glo">Et salutare tuum da nobis</vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-S">Misericordiam</rep>
+      <dox type="r" wit="Evm Glo">Gloria</dox>
+   </verses>
+</res>

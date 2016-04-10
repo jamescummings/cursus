@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3702" nextid="c3704" id="c3703">
+   <aBody wit="CAO-C CAO-D"> Maria noli iam flere
+     <app>
+         <rdg wit="CAO-C"> dominum deum quem quaeris</rdg>
+         <rdg wit="CAO-D"> dominum enim quem quaeris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> surrexit a mortuis alleluia alleluia</rdg>
+         <rdg wit="CAO-D"> surrexit a mortuis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

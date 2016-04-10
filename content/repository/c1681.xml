@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1680" nextid="c1682" id="c1681">
+   <aBody wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F"> Bene omnia fecit
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-D"> surdos fecit audire</rdg>
+         <rdg wit="CAO-R CAO-F"> et surdos fecit audire</rdg>
+      </app> et mutos loqui</aBody>
+</ant>

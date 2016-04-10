@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9500" nextid="c9502" id="c9501">
+   <header>
+      <usage ms="Alb2" code="07061000">[105r] matins-n3-r10</usage>
+      <usage ms="Bat" code="07061000">[63r] matins-n3-r10</usage>
+      <usage ms="Cdm" code="07061000">[75r] matins-n3-r10</usage>
+      <usage ms="Cht" code="07061000">[54v] matins-n3-r10</usage>
+      <usage ms="Ely" code="07061000">[85v] matins-n3-r10</usage>
+      <usage ms="Evm" code="07061000">[143r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="07062000">[92r] matins-r2</usage>
+      <usage ms="Pet" code="07061000">[85r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="07061000">[112r] matins-n3-r10</usage>
+      <usage ms="Wor" code="07061000">[56r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="Ely Wor Cht Hyd Evm Wcb Alb2 Pet Cdm Mch Bat"> Cogitaverunt autem principes sacerdotum
+     <app>
+         <rdg wit="Ely Wor Cht Evm Wcb Alb2 Mch Bat"> ut et Lazarum interficerent</rdg>
+         <rdg wit="Cdm"> ut Lazarum interficerent</rdg>
+         <rdg wit="Hyd"> ut Lazarum interficerunt</rdg>
+         <rdg wit="Pet"> et Lazarum interficerent</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Wor Cht Evm Wcb Alb2 Pet Cdm Mch Bat"> propter quem multi veniebant et credebant in Jesum</rdg>
+         <rdg wit="Hyd"> propter quem  multi veniebant et <corr sic="credibant" resp="DC">credebant</corr> in Jesum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="Ely Wor Cht Hyd Evm Wcb Alb2 Pet Cdm Mch Bat"> Testimonium ergo perhibebat turba quae erat cum eo
+      <app>
+            <rdg wit="Ely Wor Cht Hyd Evm Wcb Pet Cdm Mch Bat"> quando Lazarum vocavit de monumento</rdg>
+            <rdg wit="Alb2"> quando Lazarum vocabat de monumento</rdg>
+         </app> et suscitavit eum a mortuis</vBody>
+      <rep type="r" wit="Ely Wor Cht Hyd Evm Wcb Alb2 Pet Cdm Mch Bat">Propter</rep>
+   </verses>
+</res>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4736" nextid="c4738" id="c4737">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-S"> Sancti tui domine sicut palma florebunt
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-S"> alleluia alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-R"> alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

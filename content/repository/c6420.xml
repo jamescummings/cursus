@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6419" nextid="c6421" id="c6420">
+   <header>
+      <usage ms="Cdm" code="06034000">[54v] matins-r1</usage>
+      <usage ms="Cht" code="06034000">[18v] matins-n1-r1</usage>
+      <usage ms="Ely" code="06034000">[64r] matins-n1-r1</usage>
+      <usage ms="Evm" code="06031000">[101r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="06031000">[66r] matins-n3-r9</usage>
+      <usage ms="Mch" code="06034000">[109r] matins-r2</usage>
+      <usage ms="Wor" code="06034000">[41v] matins-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Ely Evm Cdm Mch"> Deus domini mei Abraham
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-L Cht Hyd Wor Ely Cdm Mch"> dirige vias meas</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Evm"> dirige viam meam</rdg>
+      </app> ut cum salute revertar
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Ely Evm Cdm Mch"> in domum domini mei</rdg>
+         <rdg wit="CAO-C"> in domo domini mei</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-S"> Deus in cuius conspectu ambulaverunt
+       <app>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-S"> patres nostri</rdg>
+            <rdg wit="CAO-G CAO-E"> patres mei</rdg>
+         </app> domine qui pascis me
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-S"> a iuventute mea</rdg>
+            <rdg wit="CAO-V"> ad iuventute mea</rdg>
+         </app>
+      </vBody>
+      <vBody id="c6420-1" type="r" wit="CAO-C"> Deus in cuius conspectu ambulaverunt patres mei domine qui <sic resp="Hesbert">pasci</sic> me a iuventute mea</vBody>
+      <rep corresp="c6420-1" type="r" wit="CAO-C"> Ut cum</rep>
+      <vBody type="r" wit="CAO-H CAO-R CAO-L Evm Mch"> Obsecro domine fac misericordiam cum servo tuo</vBody>
+      <vBody id="c6420-2" type="r" wit="CAO-C"> Angelus qui fuit cum Abraham ipse sit et <corr sic="meum" resp="Hesbert">mecum</corr>
+      </vBody>
+      <rep corresp="c6420-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">(no regressio after this verse in CAO-C)</note>
+      </rep>
+      <vBody type="r" wit="CAO-D Hyd Cht Wor Ely Cdm"> Deus qui perduxisti me itinere recto prosperum fac iter meum</vBody>
+      <vBody type="r" wit="CAO-F"> Domine deus domini mei Abraham occurre hodie obsecro mihi et fac misericordiam cum domino meo</vBody>
+      <rep type="r" wit="CAO-E"> Dirige</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Ely Evm Mch"> Ut cum</rep>
+      <rep type="r" wit="Cdm"> In domum</rep>
+   </verses>
+</res>

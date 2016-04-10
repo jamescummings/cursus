@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6390" nextid="c6392" id="c6391">
+   <rBody wit="CAO-C CAO-E CAO-D CAO-F"> Damasci praepositus gentis Aretae regis
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> voluit me comprehendere</rdg>
+         <rdg wit="CAO-C"> voluit comprehendere</rdg>
+      </app> a fratribus per murum
+      <app>
+         <rdg wit="CAO-C CAO-E"> submissus sum</rdg>
+         <rdg wit="CAO-F"> submissus</rdg>
+         <rdg wit="CAO-D"> sum missus</rdg>
+      </app> in sporta et sic
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F"> evasi</rdg>
+         <rdg wit="CAO-E"> effugi</rdg>
+      </app> manus eius in nomine domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-D CAO-F"> Deus et pater
+       <app>
+            <rdg wit="CAO-C CAO-F"> domini mei</rdg>
+            <rdg wit="CAO-E CAO-D"> domini nostri</rdg>
+         </app> Jesu Christi
+       <app>
+            <rdg wit="CAO-C CAO-D CAO-F"> scit</rdg>
+            <rdg wit="CAO-E"> sit</rdg>
+         </app> quia non mentior</vBody>
+      <rep type="r" wit="CAO-E CAO-D">Submissus</rep>
+      <rep type="r" wit="CAO-F"> A fratribus</rep>
+      <rep type="r" wit="CAO-C"> Et sic</rep>
+   </verses>
+</res>

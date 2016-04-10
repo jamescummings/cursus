@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2870b" nextid="c2872" id="c2871">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Hyd" code="05021000"/>
+      <usage ms="Pet" code="05021000"/>
+   </header>
+   <aBody wit="CAO-D Hyd Pet"> Fili quid fecisti nobis
+     <app>
+         <rdg wit="CAO-D"> sic ecce pater tuus et ego</rdg>
+         <rdg wit="Hyd Pet"> sic ego et pater tuus</rdg>
+      </app> dolentes quaerebamus te</aBody>
+</ant>

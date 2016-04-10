@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7589" nextid="c7591" id="c7590">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sancti mei in isto saeculo certamen habuistis mercedem laborum ego reddam vobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-D CAO-F"> Venite benedicti patris mei percipite regnum quod vobis paratum est ab origine mundi</vBody>
+      <vBody type="r" wit="CAO-H CAO-R CAO-S"> Venite benedicti patris mei percipite regnum</vBody>
+      <vBody type="r" wit="CAO-L"> Venite ad me omnes qui laboratis et onerari estis et ego reficiam vos</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Mercedem</rep>
+   </verses>
+</res>

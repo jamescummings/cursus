@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6642" nextid="c6643b" id="c6643">
+   <rBody wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Egregie Dei
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> martyr</rdg>
+         <rdg wit="CAO-H"> martyr beate</rdg>
+         <rdg wit="CAO-B"> martyr <add place="margin">beate</add>
+         </rdg>
+      </app> Sebastiane
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> princeps ac propagator</rdg>
+         <rdg wit="CAO-V">  princeps a propagator</rdg>
+      </app> sanctissimorum praeceptorum ecce nomen tuum in libro vitae caelestis
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> adscriptum est</rdg>
+         <rdg wit="CAO-V"> adscriptus est</rdg>
+      </app> et memoriale tuum non derelinquetur
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> in saecula</rdg>
+         <rdg wit="CAO-F"> in saeculum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Socius enim
+       <app>
+            <rdg wit="CAO-B CAO-H CAO-D CAO-S CAO-L"> factus es</rdg>
+            <rdg wit="CAO-V CAO-R"> factus est</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S"> supernarum virtutum</rdg>
+            <rdg wit="CAO-L"> supernorum virtutum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-S CAO-L"> quae et in caelis</rdg>
+            <rdg wit="CAO-V"> in caelis</rdg>
+         </app> spiritum tuum
+       <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S"> susceperunt</rdg>
+            <rdg wit="CAO-L"> acceperunt</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F"> Socius enim factus es civium supernorum qui te in suum consortium susceperunt</vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-R CAO-D CAO-S CAO-L CAO-F"> Et</rep>
+      <rep type="r" wit="CAO-H"> Ecce nomen</rep>
+   </verses>
+</res>

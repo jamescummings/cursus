@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6074" nextid="c6076" id="c6075">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Alleluia mane apud nos hodie et crastina proficisceris alleluia et dum ortus fuerit dies ambulabis
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-F"> viam tuam</rdg>
+         <rdg wit="CAO-C CAO-M"> via tua</rdg>
+         <rdg wit="CAO-G CAO-S"> vias tuas</rdg>
+      </app> alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D CAO-S"> Angelus domini bonus comitetur tecum et bene disponat iter tuum</vBody>
+      <vBody type="r" wit="CAO-G CAO-F"> Angelus domini bonus</vBody>
+      <vBody type="r" wit="CAO-M CAO-E CAO-V"> Angelus domini</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-D CAO-F">Et dum</rep>
+      <rep type="r" wit="CAO-M CAO-V CAO-S">Ambulabis</rep>
+   </verses>
+</res>

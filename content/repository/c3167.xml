@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3166" nextid="c3168" id="c3167">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Igne me examinasti et non est inventa in me iniquitas</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Probasti domine cor meum</rdg>
+            <rdg wit="CAO-M">Probasti cor meum</rdg>
+         </app> et visitasti nocte</vBody>
+   </verses>
+</ant>

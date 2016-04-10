@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3993" nextid="c3995" id="c3994">
+   <header>
+      <usage ms="Bat" code="02122500">[17v] matins procession</usage>
+      <usage ms="Cdm" code="02122500">[23r] matins commemoratio</usage>
+      <usage ms="Pet" code="02122500">[17v] matins procession</usage>
+      <usage ms="Wor" code="02122500">[14v] matins procession</usage>
+   </header>
+   <aBody wit="CAO-D CAO-F Bat Cdm Wor Pet"> O beata infantia per quam nostri generis reparata est vita
+     <app>
+         <rdg wit="CAO-F Bat Cdm Wor Pet"> o gratissimi delectabilesque vagitus</rdg>
+         <rdg wit="CAO-D"> gratissimi delectabilesque vagitus</rdg>
+      </app> per quos aeternos ploratus evasimus o felices panni quibus peccatorum sordes extersimus o praesepe splendidum in quo non solum iacuit faenum animalium sed cibus inventus est angelorum</aBody>
+</ant>

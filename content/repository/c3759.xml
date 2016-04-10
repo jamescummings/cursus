@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3758" nextid="c3760" id="c3759">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Mihi vivere Christus est et mori lucrum gloriari me oportet
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> in cruce domini mei</rdg>
+         <rdg wit="CAO-D"> in cruce domini nostri</rdg>
+      </app> Jesu Christi</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Per quem mihi mundus crucifixus est et ego mundo</vBody>
+   </verses>
+</ant>

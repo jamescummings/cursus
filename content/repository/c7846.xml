@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7845" nextid="c7847" id="c7846">
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Versa est in luctum</rdg>
+         <rdg wit="CAO-E"> Versa est in luctu</rdg>
+      </app> cithara mea et organum meum
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> in vocem flentium</rdg>
+         <rdg wit="CAO-E CAO-L"> in voce flentium</rdg>
+      </app> parce mihi domine
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R"> nihil enim sunt dies mei</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> quia nihil sunt dies mei</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-L"> O custos hominum quare
+      <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> me posuisti</rdg>
+            <rdg wit="CAO-D CAO-L"> posuisti me</rdg>
+         </app> contrarium tibi et factus sum mihimetipsi gravis</vBody>
+      <vBody type="r" wit="CAO-E CAO-F CAO-S"> Cutis mea denigrata est super me et ossa mea aruerunt</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Parce</rep>
+   </verses>
+</res>

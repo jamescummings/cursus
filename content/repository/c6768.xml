@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6767" nextid="c6769" id="c6768">
+   <rBody wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Genti peccatrici populo
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-F CAO-S"> pleno peccato</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> pleno peccatis</rdg>
+         <rdg wit="CAO-G CAO-L"> pleno peccati</rdg>
+      </app> miserere domine Deus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Esto placabilis super nequitia populi tui</vBody>
+      <vBody type="r" wit="CAO-V"> Peccavimus</vBody>
+      <vBody type="r" wit="CAO-M"> Qui regis</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> Miserere</rep>
+      <rep type="r" wit="CAO-H CAO-L"> Domine</rep>
+   </verses>
+</res>

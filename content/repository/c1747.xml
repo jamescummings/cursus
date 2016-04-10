@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1746" nextid="c1747b" id="c1747">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <name reg="Caecilia" type="saint">Caecilia</name> famula tua domine
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> quasi ovis</rdg>
+         <rdg wit="CAO-E"> quasi apis</rdg>
+         <rdg wit="CAO-F"> quasi <corr sic="ovis">apis</corr>
+         </rdg>
+      </app> tibi argumentosa deservit</aBody>
+</ant>

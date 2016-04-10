@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4308" nextid="c4310" id="c4309">
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F"> Pontifices almi divina revelatione laetificati</rdg>
+         <rdg wit="CAO-B CAO-S"> Pontifices almi divina revelatione glorificati</rdg>
+         <rdg wit="CAO-L"> Pontifices almi divina revelatione glorificatus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-L"> Nicolaum tunc praesulem devotissime consecraverunt</rdg>
+         <rdg wit="CAO-D CAO-F"> Nicolaum praesulem devotissime consecraverunt</rdg>
+         <rdg wit="CAO-S"> Nicolaum tuum praesulem devotissime consecraverunt</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4237" nextid="c4239" id="c4238">
+   <header>
+      <usage ms="Ely" code="07027000"/>
+      <usage ms="Hyd" code="07027000">[77v] sext</usage>
+      <usage ms="Pet" code="07027000"/>
+      <usage ms="Wor" code="07027000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E Ely Hyd Pet"> Pater peccavi in caelum et coram te
+     <app>
+         <rdg wit="CAO-C CAO-E Ely Hyd"> iam non sum</rdg>
+         <rdg wit="Pet"> non sum</rdg>
+      </app> dignus vocari filius tuus</aBody>
+   <aBody wit="Wor">
+      <gap reason="verbal and musical text erased" resp="DC"/> in caelum et coram te non sum <gap reason="verbal and musical text erased" resp="DC"/>
+   </aBody>
+</ant>

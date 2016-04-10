@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7377" nextid="c7379" id="c7378">
+   <rBody wit="CAO-F CAO-S"> Per tuam crucem salva nos Christe redemptor qui mortem nostram moriendo destruxisti et vitam resurgendo reparasti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-S"> Miserere nostri Jesu benigne qui passus es clementer pro nobis</vBody>
+      <rep type="r" wit="CAO-F">Qui mortem</rep>
+      <rep type="r" wit="CAO-S">Et vitam</rep>
+      <dox type="r" wit="CAO-F"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-F"> Et vitam</rep>
+   </verses>
+</res>

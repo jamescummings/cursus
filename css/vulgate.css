@@ -1,0 +1,14 @@
+ body {margin-left: 10px; margin-right: 10px; background-image: url("/images/lightpaper.gif"); font-family: "Times New Roman", Times, serif; color: black; font-weight: normal; font-size: 110%; text-align:left;}     
+.rubric {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+div {padding: 2px;}
+h1 {color:#660066;}
+.vulgate-book {display:block;}
+.vulgate-ref {display:inline;}
+.vulgate-verseNum{display:inline; color:#006600; font-size:50%; font-weight:bold;}
+.vulgate-l {display:inline; color:#330000; font-size:100%; font-weight:normal;}
+.chapter-header{display:block; margin-top:2%; color:#006600; font-weight:bold; font-size:105%;}
+.chapter-text{display:block; margin-left:2%; margin-right:2%;}
+.bible-verse{display:inline;}
+.chapter-footer {display:block; color:#006600; font-size:85%;}
+.vulgate-rubric .vulgate-l {color:#880000; font-size:120%; font-weight:bold;}
+.endbook {display:block; color:#006600; font-size:95%;}

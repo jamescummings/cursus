@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7763" nextid="c7765" id="c7764">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Tibi laus tibi gloria tibi gratiarum actio in saecula sempiterna o beata trinitas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Et benedictum nomen gloriae tuae sanctum
+      <app>
+            <rdg wit="CAO-R CAO-D CAO-F CAO-S Hyd"> et laudabile et superexaltatum</rdg>
+            <rdg wit="CAO-L"> et laudabilis et superexaltatus</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">In saecula</rep>
+   </verses>
+</res>

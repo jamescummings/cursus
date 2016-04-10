@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9502" nextid="c9504" id="c9503">
+   <header>
+      <usage ms="Wor" code="07066000">[61v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="Wor"> Egressus Jesus de praetorio portans spinae coronam tunc Judei omnes clamaverunt tolle tolle crucifigatur</rBody>
+   <verses>
+      <vBody type="r" wit="Wor"> Ait illis Pilatus ecce rex vester at illi clamabant dicentes</vBody>
+      <rep type="r" wit="Wor">Tolle</rep>
+      <rep n="2" type="r" wit="Wor"> Egressus</rep>
+   </verses>
+</res>

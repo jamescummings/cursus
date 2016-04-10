@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4319" nextid="c4321" id="c4320">
+   <header>
+      <usage ms="Alb2" code="02122600">[33v] vesp2 gosp</usage>
+      <usage ms="Bat" code="02122600">[19v] matins-n2-a11</usage>
+      <usage ms="Cdm" code="02122600">[24v] matins-n2-a10</usage>
+      <usage ms="Evm" code="02010100">[58v] vesp1 commemoratio</usage>
+      <usage ms="Hyd" code="02122600">[22v] matins-n2-a11</usage>
+      <usage ms="Pet" code="02122600">[22r] matins-n2-a12</usage>
+      <usage ms="Wcb" code="02122600">[58v] matins-n2-a10</usage>
+      <usage ms="Wor" code="02122600">[17v] matins-n2-a11</usage>
+   </header>
+   <aBody wit="CAO-C CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="Evm Wcb"> Positis autem genibus orabat dicens</rdg>
+         <rdg wit="Hyd Alb2 Bat Cdm Wor Pet"> Positis autem genibus beatus Stephanus orabat dicens</rdg>
+         <rdg wit="CAO-F"> Positis genibus beatus Stephanus orabat dicens</rdg>
+         <rdg wit="CAO-C"> Positis genibus Stephanus orabat</rdg>
+         <rdg wit="CAO-D"> Positis genibus beatus Stephanus oravit et dixit</rdg>
+      </app>
+      <app>
+         <rdg wit="Evm Wcb"> domine ne statuas illis hoc peccatum</rdg>
+         <rdg wit="Hyd"> domine Jesu accipe spiritum meum et cum hoc dixisset obdormivit in domino</rdg>
+         <rdg wit="Alb2 Bat Cdm Wor Pet"> domine Jesu Christe accipe spiritum meum et cum hoc dixisset obdormivit in domino</rdg>
+         <rdg wit="CAO-C CAO-F"> domine Jesu Christe ne statuas illis hoc peccatum</rdg>
+         <rdg wit="CAO-D"> domine Jesu accipe spiritum meum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7386" nextid="c7388" id="c7387">
+   <header>
+      <usage ms="Alb2" code="07067000">[111v] matins-n1-r3</usage>
+      <usage ms="Cdm" code="07067000">[80r] matins-n1-r3</usage>
+      <usage ms="Ely" code="07067000">[91r] matins-n1-r3</usage>
+      <usage ms="Evm" code="07067000">[153v] matins-n1-r3</usage>
+      <usage ms="Hyd" code="07067000">[97v] matins-n2-r6</usage>
+      <usage ms="Mch" code="07067000">[163r] matins-n1-r3</usage>
+      <usage ms="Pet" code="07067000">[94r] matins-n1-r3</usage>
+      <usage ms="Wcb" code="07067000">[117v] matins-n1-r3</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Plange quasi virgo plebs mea ululate pastores in cinere et cilicio
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> quia veniet dies domini</rdg>
+         <rdg wit="CAO-S"> quia venient dies domini</rdg>
+      </app> magna et amara valde</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L Evm Wcb"> Accingite vos sacerdotes
+      <app>
+            <rdg wit="CAO-L"> et plangite ministri altaris</rdg>
+            <rdg wit="Evm"> et plangite ministri altaris aspergite vos cinere</rdg>
+            <rdg wit="Wcb"> et dicite ministri altaris aspergite vos cinere</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R Mch">
+         <app>
+            <rdg wit="Mch"> Plauserunt super te manibus</rdg>
+            <rdg wit="CAO-B CAO-H"> Plauserunt super me manibus</rdg>
+            <rdg wit="CAO-R"> Plauserunt super me manibus suis</rdg>
+         </app> omnes transeuntes per viam sibilaverunt et moverunt caput</vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Ely Wor Hyd Pet Alb2 Cdm"> Ululate pastores et clamate aspergite vos cinere</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">Quia</rep>
+      <rep type="r" num="2" wit="Wor Hyd Evm Alb2"> Plange</rep>
+   </verses>
+</res>

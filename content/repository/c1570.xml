@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1569" nextid="c1570b" id="c1570">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-S CAO-L"> Beata mater et innupta virgo</rdg>
+         <rdg wit="CAO-H CAO-R"> Beata mater et intacta virgo</rdg>
+      </app> gloriosa regina mundi
+     <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-S"> intercede pro nobis ad dominum</rdg>
+         <rdg wit="CAO-C" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+         <rdg wit="CAO-V"> gloriosa genitrix dei <add place="margin" hand="later">Maria</add>
+         </rdg>
+         <rdg wit="CAO-E"> intercede pro nobis ad dominum <note type="editorial" resp="Hesbert" place="unspecified" anchored="yes">without neumes</note>
+         </rdg>
+         <rdg wit="CAO-H">
+            <add hand="later">intercede pro nobis ad dominum</add>
+         </rdg>
+         <rdg wit="CAO-L"> intercede pro nobis</rdg>
+      </app>
+   </aBody>
+</ant>

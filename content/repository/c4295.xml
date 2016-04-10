@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4294" nextid="c4296" id="c4295">
+   <header>
+      <usage ms="Alb2" code="07067000">[112v] lauds-a2</usage>
+      <usage ms="Cdm" code="07067000">[80v] lauds-a2</usage>
+      <usage ms="Ely" code="07067000"/>
+      <usage ms="Evm" code="07067000">[154v] lauds</usage>
+      <usage ms="Hyd" code="07067000">[98r] lauds</usage>
+      <usage ms="Mch" code="07067000">[164r] lauds-a2</usage>
+      <usage ms="Pet" code="07067000">[95v] lauds</usage>
+      <usage ms="Wcb" code="07067000">[118v] lauds</usage>
+      <usage ms="Wor" code="07067000">[63v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Pet Evm Wcb Alb2 Cdm Mch"> Plangent eum quasi unigenitum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Hyd Pet Evm Alb2 Cdm Mch"> quia innocens dominus occisus est</rdg>
+         <rdg wit="Wcb"> quia innocens dominus locutus est</rdg>
+         <rdg wit="CAO-F"> quia dominus innocens occisus est</rdg>
+      </app>
+   </aBody>
+</ant>

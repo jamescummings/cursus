@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7642" nextid="c7644" id="c7643">
+   <rBody wit="CAO-R CAO-D CAO-F CAO-L"> Servus dei Nicolaus auri
+     <app>
+         <rdg wit="CAO-R CAO-D CAO-F"> pondo</rdg>
+         <rdg wit="CAO-L"> pondere</rdg>
+      </app> trium virginum redemit pudorem earumque patris impudicam remenso auro fugavit inopiam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-L"> Affluens itaque misericordiae visceribus metallo duplicato propulsavit earum
+      <app>
+            <rdg wit="CAO-D CAO-F"> infamiam</rdg>
+            <rdg wit="CAO-L"> inopiam</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-L">Earumque</rep>
+   </verses>
+</res>

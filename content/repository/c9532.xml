@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9531" nextid="c9533" id="c9532">
+   <header>
+      <usage ms="Evm" code="02122600">[39v] matins-n2-r5</usage>
+      <usage ms="Wcb" code="02122600">[58v] matins-n2-r5</usage>
+   </header>
+   <rBody wit="Evm Wcb"> Sederunt principes et constituerunt homines qui dicerent adversus Stephanum audivimus eum maledicere dominum et legem et lapidaverunt invocentem inter se</rBody>
+   <verses>
+      <vBody type="r" wit="Evm Wcb">Et eiecentes eum extra civitatem lapidabant et testes miserunt vestes suas secus pedes adolescentis qui vocabatur Saulus </vBody>
+      <rep type="r" wit="Evm Wcb">Et lapidaverunt</rep>
+   </verses>
+</res>

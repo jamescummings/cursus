@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2741" nextid="c2743" id="c2742">
+   <aBody wit="CAO-G CAO-B">
+      <app>
+         <rdg wit="CAO-G"> Evigila super nos aeterne salvator</rdg>
+         <rdg wit="CAO-B"> Vigila super nos aeterne salvator</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B"> ne nos apprehendat callidus temptator</rdg>
+         <rdg wit="CAO-G"> nec nos apprehendat callidus temptator</rdg>
+      </app> quia tu nobis factus es sempiternus adiutor</aBody>
+</ant>

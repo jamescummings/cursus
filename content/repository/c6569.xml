@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6568" nextid="c6570" id="c6569">
+   <rBody wit="CAO-L"> Ecce* </rBody>
+   <verses>
+      <prosula wit="CAO-L"> Ecce virentita lymphae lilia flores rosa convallium et odor agri</prosula>
+      <rep type="p" wit="CAO-L"> Atque</rep>
+      <prosula wit="CAO-L"> Ecce prudentissimae sponsae dulcissimae</prosula>
+      <rep type="p" wit="CAO-L"> Ecce prud</rep>
+      <prosula wit="CAO-L"> Sponsae Christi Filii Dei vivi proles Patris tecum amplectens amor</prosula>
+      <rep type="p" wit="CAO-L"> Atque</rep>
+      <prosula wit="CAO-L"> Laeta mater Ecclesia</prosula>
+      <rep type="p" wit="CAO-L"> Atque</rep>
+      <prosula wit="CAO-L"> Fluenter oleum in vasis suis cum lampadibus recondivit</prosula>
+      <prosula wit="CAO-L"> Intercedatque cum omnibus caelestibus choris virgo Christi et dilecta Deo amabilis beata N quae respuens orbis caduca lucra contemplansque regnum flore florentem ac omnia aromata palmam virginitatis retinens ideo oleum recondivit
+      <vBody type="p" wit="CAO-L"> Ornavit eam dominus ornamento decoris et in caput eius coronam posuit fulgentem</vBody>
+         <rep type="p" wit="CAO-L"> Quae</rep>
+         <vBody type="p" wit="CAO-L"> Non poteris a virginitati palma seduci nec amore Filii Dei separari</vBody>
+      </prosula>
+   </verses>
+</res>

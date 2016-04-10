@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5223" nextid="c5225" id="c5224">
+   <header>
+      <usage ms="Hyd" code="10800000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-L"> Tua est potentia tuum regnum domine</rdg>
+         <rdg wit="CAO-F Hyd"> Tua est potentia et tuum est regnum</rdg>
+      </app> tu es super omnes gentes da pacem domine
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F CAO-L"> in diebus nostris</rdg>
+         <rdg wit="CAO-D Hyd"> in diebus nostris alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

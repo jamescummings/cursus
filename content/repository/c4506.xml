@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4505" nextid="c4507" id="c4506">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-L"> Qui vult venire post me dicit dominus</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-F"> Qui vult venire post me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R CAO-F"> abneget semetipsum et tollat crucem suam</rdg>
+         <rdg wit="CAO-H"> abneget semetipsum tollat crucem suam</rdg>
+         <rdg wit="CAO-L"> tollat crucem suam quotidie</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-L"> et sequatur me</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-F"> et sequatur me dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

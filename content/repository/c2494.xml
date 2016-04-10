@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2493" nextid="c2495" id="c2494">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Cdm" code="06031000">lauds</usage>
+      <usage ms="Cht" code="06031000"/>
+      <usage ms="Ely" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Glo" code="07023000"/>
+      <usage ms="Hyd" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[90v] lauds</usage>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-V CAO-F CAO-L Hyd Cht Wor Alb2 Ely Evm Wcb Cdm"> Ecce ascendimus Jerosolymam et consummabuntur
+     <app>
+         <rdg wit="CAO-M CAO-F CAO-L Hyd Cht Wor Alb2 Ely Wcb Cdm"> omnia quae scripta sunt</rdg>
+         <rdg wit="Evm"> omnia quae dicta sunt</rdg>
+         <rdg wit="CAO-E"> omnia quae scripta sunt per prophetas</rdg>
+         <rdg wit="CAO-V"> omnia quae scripta sunt per prophetam</rdg>
+      </app> de filio hominis tradetur enim gentibus et illudetur et flagellabitur et conspuetur et postquam flagellaverint occident eum
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-L Hyd Cht Wor Ely Evm Wcb Cdm">et die tertia resurget</rdg>
+         <rdg wit="Alb2">et tertia die resurget</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Ecce ascendimus Jerosolymam et consummabuntur</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5119" nextid="c5121" id="c5120">
+   <header>
+      <usage ms="Hyd" code="09011000">lauds</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Te iure laudant te adorant te glorificant omnes creaturae tuae o beata trinitas</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-M CAO-R CAO-D CAO-S CAO-L Hyd"> Tibi laus tibi gloria tibi gratiarum actio</vBody>
+      <vBody type="a" wit="CAO-E"> Tuae namque deitatis miseratione omnis creatura subsisti</vBody>
+      <rep type="a" wit="CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L">Te iure</rep>
+   </verses>
+</ant>

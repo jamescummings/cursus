@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7646" nextid="c7648" id="c7647">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Si bona suscepimus de manu domini mala autem quare
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Hyd"> non sustineamus</rdg>
+         <rdg wit="CAO-G CAO-M CAO-D CAO-L"> non suscipiamus</rdg>
+      </app> dominus dedit dominus abstulit sicut domino placuit ita factum est sit nomen domini benedictum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> In omnibus his non peccavit Job labiis suis neque stultum quid contra deum locutus est</vBody>
+      <vBody type="r" wit="CAO-V CAO-F CAO-S"> Nudus egressus sum de utero matris meae nudus revertar illuc</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Dominus</rep>
+   </verses>
+</res>

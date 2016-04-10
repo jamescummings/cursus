@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1719" nextid="c1721" id="c1720">
+   <header>
+      <usage ms="Hyd" code="01016000">[6v] vesp2-a2</usage>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Benedictus dominus deus meus</aBody>
+</ant>

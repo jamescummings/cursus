@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6139a" nextid="c6141" id="c6140">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Audi fili mi disciplinam patris tui et ne dimittas legem
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L Hyd"> matris tuae</rdg>
+         <rdg wit="CAO-F"> matris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> ut multiplicentur</rdg>
+         <rdg wit="CAO-L"> ut multiplicetur</rdg>
+      </app> tibi
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L Hyd"> anni</rdg>
+         <rdg wit="CAO-V"> annis</rdg>
+         <rdg wit="CAO-D"> agni</rdg>
+      </app> vitae tuae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D"> Honora dominum de tua substantia et de primitiis frugum tuarum da pauperibus</vBody>
+      <vBody type="r" wit="CAO-F"> Fili ne obliviscaris legis meae et praecepta mea custodiat cor tuum</vBody>
+      <vBody type="r" wit="CAO-L Hyd"> Liga eam in corde tuo iugiter et circumda gutturi tuo</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">Ut</rep>
+   </verses>
+</res>

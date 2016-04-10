@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5028b" nextid="c5030" id="c5029">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Stetit angelus iuxta aram templi</rdg>
+         <rdg wit="CAO-C CAO-M"> Stetit angelus super aram templi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L"> habens thuribulum aureum</rdg>
+         <rdg wit="CAO-H"> habens thuribulum areum</rdg>
+      </app> in manu sua</aBody>
+</ant>

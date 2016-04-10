@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1872" nextid="c1874" id="c1873">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Confirma hoc deus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> quod operatus es in nobis</rdg>
+         <rdg wit="CAO-V"> quod operatus est in nobis</rdg>
+      </app> a templo sancto tuo quod est in Jerusalem alleluia alleluia</aBody>
+</ant>

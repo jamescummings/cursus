@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7546" nextid="c7548" id="c7547">
+   <header>
+      <usage ms="Bat" code="01021000">[7r] matins-n3-r12</usage>
+      <usage ms="Cdm" code="01021000">[13r] matins-n3-r12</usage>
+      <usage ms="Ely" code="01021000">[8r] matins-n3-r12</usage>
+      <usage ms="Evm" code="01021000">[14v] matins-n3-r12</usage>
+      <usage ms="Glo" code="01021000">[13r] procession</usage>
+      <usage ms="Hyd" code="01021000">[8r] matins-n3-r12</usage>
+      <usage ms="Hyd" code="02011300" corresp="c7547-1">[44v] matins-n3-r9</usage>
+      <usage ms="Mch" code="01021000">[7v] matins-n2-r8</usage>
+      <usage ms="Wcb" code="01021000">[45r] matins-n3-r12</usage>
+      <usage ms="Wor" code="01021000">[6r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Mch Cdm Ely Wor Wcb Glo Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Mch Cdm Ely Wor Wcb Glo Bat"> Rex noster adveniet</rdg>
+         <rdg wit="CAO-C"> Rex noster adveniens</rdg>
+      </app> Christus quem Joannes
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S Evm Mch Cdm Ely Wor Wcb Glo Bat"> praedicavit</rdg>
+         <rdg wit="Hyd"> praedixit</rdg>
+         <rdg wit="CAO-B CAO-R"> praedicabat</rdg>
+      </app> agnum esse venturum</rBody>
+   <rBody id="c7547-1" wit="Hyd"> Rex noster apparuit Christus quem Joannes praedicavit agnum esse venturum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Evm Mch Cdm Ely Wor Wcb Glo Bat"> Ecce agnus dei ecce
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S Hyd Evm Mch Cdm Ely Wor Wcb Glo Bat"> qui tollit</rdg>
+            <rdg wit="CAO-V"> qui tollis</rdg>
+         </app> peccata mundi</vBody>
+      <vBody type="r" wit="CAO-G CAO-F">
+         <app>
+            <rdg wit="CAO-F"> Super ipsum</rdg>
+            <rdg wit="CAO-G"> Super quem</rdg>
+         </app> continebunt reges os suum ipsum gentes deprecabuntur</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Mch Cdm Ely Wor Wcb Glo Bat">Quem</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+      <rep type="r" num="2" wit="Evm">Quem</rep>
+   </verses>
+</res>

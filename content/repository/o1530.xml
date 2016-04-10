@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1529" nextid="o1531" id="o1530">
+   <header>
+      <usage ms="Alb2" code="07026000"/>
+      <usage ms="Bat" code="07026000">[53r] lauds</usage>
+      <usage ms="Cdm" code="07026000">[63r] lauds</usage>
+      <usage ms="Cdm" code="07036000" corresp="o1530-1">[66v] sext</usage>
+      <usage ms="Cht" code="07026000"/>
+      <usage ms="Ely" code="07026000"/>
+      <usage ms="Evm" code="07026000"/>
+      <usage ms="Hyd" code="07026000"/>
+      <usage ms="Mch" code="07026000">[127v] lauds</usage>
+      <usage ms="Wcb" code="07026000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.221</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">Da quaesumus omnipotens deus ut sacro nos purificante ieiunio sinceris mentibus ad sancta ventura facias pervenire</pBody>
+   <pBody id="o1530-1" wit="Cdm"> Da quaesumus domine rex aeterne cunctorum ut sacro nos purificante ieiunio sinceris quoque mentibus ad sancta ventura facias pervenire</pBody>
+</prayer>

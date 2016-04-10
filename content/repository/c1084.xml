@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1083" nextid="c1085" id="c1084">
+   <header>
+      <usage ms="Alb2" code="02122400">[22r] matins inv</usage>
+      <usage ms="Bat" code="02122400">[13v] matins inv</usage>
+      <usage ms="Cdm" code="02122400">[20r] matins inv</usage>
+      <usage ms="Wor" code="02122400">[12v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Bat Cdm Wor"> Hodie scietis quia veniet dominus et mane videbitis gloriam eius</aBody>
+</ant>

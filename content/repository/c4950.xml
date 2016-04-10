@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4949" nextid="c4951" id="c4950">
+   <aBody wit="CAO-E CAO-V CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-L"> Silvestro autem in carcere orante</rdg>
+         <rdg wit="CAO-V"> Silvestro autem in carcere orantem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> Tarquinium in summa prandente</rdg>
+         <rdg wit="CAO-V"> Tarquinio in summa prandentem</rdg>
+         <rdg wit="CAO-L"> Tarquinio infima prandentem</rdg>
+      </app> ultio divina percussit </aBody>
+</ant>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1576" nextid="o1578" id="o1577">
+   <header>
+      <usage ms="Alb2" code="07064000">[107r] vesp2</usage>
+      <usage ms="Cdm" code="07064000">[77r] vesp2</usage>
+      <usage ms="Cht" code="07064000">[59v] vesp2</usage>
+      <usage ms="Ely" code="07064000">[88r] vesp2</usage>
+      <usage ms="Evm" code="07064000">[147r] vesp2</usage>
+      <usage ms="Hyd" code="07064000">[93v] vesp2</usage>
+      <usage ms="Mch" code="07064000">[157v] vesp2</usage>
+      <usage ms="Wcb" code="07058000">[109v] </usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.327</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">Respice quaesumus domine super hanc familiam tuam pro qua dominus noster Jesus Christus non dubitavit manibus tradi nocentium et crucis subire
+     <app>
+         <rdg wit="Ely Hyd Wcb Alb2 Cdm Mch"> tormentum</rdg>
+         <rdg wit="Evm">tormentorum</rdg>
+         <rdg wit="Cht">
+            <gap reason="loss of folio in manuscript" resp="DC" extent="one word"/>
+         </rdg>
+      </app>
+   </pBody>
+</prayer>

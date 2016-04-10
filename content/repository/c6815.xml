@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6814b" nextid="c6816" id="c6815">
+   <rBody wit="CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-D"> Hi sancti viri</rdg>
+         <rdg wit="CAO-F"> Hii sancti viri</rdg>
+      </app> a beati Dionysii numquam sustinuerunt abesse praesentia quos in unum interrogatio percussoris invenit interrogati unum et verum in trinitate dominum confitentur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Terrore subiuncto multisque afflicti iniuriis et suppliciis macerati</vBody>
+      <rep type="r" wit="CAO-D CAO-F"> Interrogati</rep>
+   </verses>
+</res>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1701" nextid="o1703" id="o1702">
+   <header>
+      <usage ms="Hyd" code="08087000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.545</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Mentibus nostris quaesumus domine spiritium sanctum benignus infunde cuius et sapientia conditi sumus et providentia gubernamur</pBody>
+</prayer>

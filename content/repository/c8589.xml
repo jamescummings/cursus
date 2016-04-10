@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8588" nextid="c8590" id="c8589">
+   <header>
+      <usage ms="Evm" code="02122700">[46r] vesp2 commemoratio</usage>
+      <usage ms="Wcb" code="02122700">[62v] vesp2 commemoratio</usage>
+   </header>
+   <aBody wit="Evm Wcb">
+      <app>
+         <rdg wit="Evm"> Hii sunt qui virgines permanserunt</rdg>
+         <rdg wit="Wcb"> Hi sunt qui virgines permanserunt</rdg>
+      </app> sine macula enim sunt ideo regnant cum deo et agno</aBody>
+</ant>

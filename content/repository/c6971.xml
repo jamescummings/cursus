@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6970" nextid="c6972" id="c6971">
+   <rBody wit="CAO-C CAO-L">
+      <app>
+         <rdg wit="CAO-C"> Inquisivi sapientem et sacerdotem similem sibi</rdg>
+         <rdg wit="CAO-L"> Inquisivi sapientes sacerdotes et similem tui</rdg>
+      </app> non inveni ut video spiritum Dei habes in te ideo
+      <app>
+         <rdg wit="CAO-C"> magnus es</rdg>
+         <rdg wit="CAO-L"> magnus eris</rdg>
+      </app> in domo domini et de ore tuo
+      <app>
+         <rdg wit="CAO-L"> bona audiet cunctus</rdg>
+         <rdg wit="CAO-C"> audiet omnis</rdg>
+      </app> populus qui tibi commissus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Beatum dixerunt populum cui haec sunt beatus populus</vBody>
+      <rep type="r" wit="CAO-C">Qui tibi</rep>
+      <vBody type="r" wit="CAO-L"> Sacerdos et pontifex et virtutum artifex bonus pastor in populo qui placuisti domino</vBody>
+      <rep type="r" wit="CAO-C">Qui tibi</rep>
+      <rep type="r" wit="CAO-L">Ideo</rep>
+   </verses>
+</res>

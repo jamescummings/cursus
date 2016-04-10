@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3485" nextid="c3487" id="c3486">
+   <header>
+      <usage ms="Alb2" code="07032000"/>
+      <usage ms="Cdm" code="07032000">[65v] vesp2 gosp</usage>
+      <usage ms="Cht" code="07032000"/>
+      <usage ms="Ely" code="07032000"/>
+      <usage ms="Hyd" code="07032000"/>
+      <usage ms="Mch" code="07032000">[133v] vesp2 gosp</usage>
+      <usage ms="Mch" code="07034000">[134v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07032000"/>
+      <usage ms="Wor" code="07032000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> Jesus autem transiens
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Alb2 Cdm Mch"> per medium illorum ibat</rdg>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R Pet"> per medium eorum ibat</rdg>
+      </app>
+   </aBody>
+</ant>

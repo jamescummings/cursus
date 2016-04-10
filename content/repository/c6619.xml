@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6618" nextid="c6620" id="c6619">
+   <rBody wit="CAO-E CAO-V CAO-D CAO-F"> Ecce vir prudens qui aedificavit domum suam supra petram in cuius ore non est inventus dolus quia deus elegit eum in sacerdotem sibi</rBody>
+   <verses>
+      <vBody id="c6619-3" type="r" wit="CAO-E CAO-D CAO-F"> Ecce vere Israelita in quo dolus non est</vBody>
+      <rep corresp="c6619-3" type="r" wit="CAO-E CAO-D CAO-F">Quia</rep>
+      <vBody id="c6619-1" type="r" wit="CAO-V"> Ecce vere Israelita in quo dolus non est inventus</vBody>
+      <rep corresp="c6619-1" type="r" wit="CAO-V"> Quia</rep>
+      <vBody id="c6619-2" type="r" num="2" wit="CAO-V"> Ecce sacerdos magnus qui in diebus suis placuit deo et inventus est iustus</vBody>
+      <rep corresp="c6619-2" type="r" wit="CAO-V">In cuius</rep>
+   </verses>
+</res>

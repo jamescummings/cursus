@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8560" nextid="c8562" id="c8561">
+   <header>
+      <usage ms="Hyd" code="08061000">vesp1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">= Exodus 015.011</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Hyd"> Quis similis tui in fortibus domine quis similis tui magnificus in sanctitate terribilis atque laudabilis et faciens mirabilia alleluia</aBody>
+</ant>

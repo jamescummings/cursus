@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4291" nextid="c4293" id="c4292">
+   <header>
+      <usage ms="Cht" code="07064000">[59v] vesp2</usage>
+      <usage ms="Evm" code="07064000">[147r] vesp2</usage>
+      <usage ms="Glo" code="07064000">[78v] vesp2</usage>
+      <usage ms="Pet" code="07064000">[88r] nones</usage>
+      <usage ms="Wcb" code="07064000">[114v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-F CAO-L Cht Pet Evm Wcb Glo"> Pilatus dicebat ego nullam causam mortis invenio
+     <app>
+         <rdg wit="CAO-F CAO-L Cht Pet Evm Glo"> in eum</rdg>
+         <rdg wit="Wcb"> in eo</rdg>
+      </app> populus Judaeorum clamabat crucifigatur</aBody>
+</ant>

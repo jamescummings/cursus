@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4447" nextid="c4449" id="c4448">
+   <aBody wit="CAO-E CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-F CAO-S"> Quare detraxistis sermonibus veritatis</rdg>
+         <rdg wit="CAO-E"> Quare detraxisti sermonibus veritatis</rdg>
+      </app> ad increpandum verba componitis et subvertere nitimini amicum vestrum
+     <app>
+         <rdg wit="CAO-E CAO-F"> verumtamen quae cogitatis explete</rdg>
+         <rdg wit="CAO-S"> verumtamen quae cogistis explete</rdg>
+      </app>
+   </aBody>
+</ant>

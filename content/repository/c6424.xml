@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6423" nextid="c6425" id="c6424">
+   <rBody wit="CAO-D CAO-F"> Deus innocentiae verus amator longe post passionem sacratissimae legionis
+      <app>
+         <rdg wit="CAO-F"> innocentis</rdg>
+         <rdg wit="CAO-D"> innocenti</rdg>
+      </app> unda Rhodani fluminis famulante revelavit martiris sui Innocentii inclita membra</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Quae ideo dominus per aquas manifestavit ut et eas exinde sanctificaret et fidelibus populis patrocinia condonaret</vBody>
+      <rep type="r" wit="CAO-D"> Famulante</rep>
+      <rep type="r" wit="CAO-F"> Revelavit</rep>
+   </verses>
+</res>

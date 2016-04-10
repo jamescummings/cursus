@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5450" nextid="c5452" id="c5451">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Virgo gloriosa semper evangelium Christi gerebat in pectore suo</rdg>
+         <rdg wit="CAO-L"> Virgo Caecilia semper evangelium Christi gerebat in pectore suo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S"> non diebus neque noctibus</rdg>
+         <rdg wit="CAO-M CAO-R CAO-L"> et non diebus neque noctibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> a colloquiis divinis</rdg>
+         <rdg wit="CAO-M"> a colloquiis diurnis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et oratione cessabat</rdg>
+         <rdg wit="CAO-C CAO-V"> et oratione vacabat</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7367" nextid="c7369" id="c7368">
+   <rBody wit="CAO-M CAO-H CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-M CAO-S CAO-L"> Peccante me quotidie</rdg>
+         <rdg wit="CAO-H"> Peccantem me quotidie</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> et non</rdg>
+         <rdg wit="CAO-S"> non</rdg>
+         <rdg wit="CAO-M"> et ne</rdg>
+         <rdg wit="CAO-H"> et nec</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-L"> me paenitentem</rdg>
+         <rdg wit="CAO-M"> me paenitet</rdg>
+         <rdg wit="CAO-S"> repaenitentem</rdg>
+      </app> timor mortis
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-L"> conturbat me</rdg>
+         <rdg wit="CAO-S"> conturbas me</rdg>
+      </app> quia
+     <app>
+         <rdg wit="CAO-H CAO-L"> in inferno</rdg>
+         <rdg wit="CAO-S"> in infernum</rdg>
+         <rdg wit="CAO-M"> in <corr sic="infernum">inferno</corr>
+         </rdg>
+      </app> nulla est redemptio miserere mei Deus et salva me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-H CAO-S"> Deus in nomine tuo salvum me fac et in virtute tua
+      <app>
+            <rdg wit="CAO-M CAO-H"> libera me</rdg>
+            <rdg wit="CAO-S"> iudica me</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Amplius lava me domine ab iniustitia mea et a delicto meo munda me</vBody>
+      <rep type="r" wit="CAO-H CAO-L">Quia</rep>
+      <rep type="r" wit="CAO-S">Miserere</rep>
+   </verses>
+</res>

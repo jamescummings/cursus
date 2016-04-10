@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9511" nextid="c9513" id="c9512">
+   <header>
+      <usage ms="Evm" code="06031000">[99v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="Evm"> Dixit deus ad Abraham Sarra uxor tua pariet tibi filium vocabis nomen eius Isaac et benedicam ei in sempiternum</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Cecidit Abraham in faciem suam et adoravit et dixit ei dominus</vBody>
+      <rep type="r" wit="Evm">Et benedicam</rep>
+   </verses>
+</res>

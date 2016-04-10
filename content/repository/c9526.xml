@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9525" nextid="c9527" id="c9526">
+   <header>
+      <usage ms="Hyd" code="08011000">procession-r1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf antiphon c1796</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Hyd">  Christus resurgens ex mortuis iam non moritur mors illi ultra non dominabitur quod enim vivit vivit deo alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Dicant nunc Judaei quomodo milites custodientes sepulcrum perdiderunt regem ad lapidis positionem quare non servabant Petram iustitiae aut sepultum reddant aut resurgentem adorent nobiscum dicentes</vBody>
+      <rep type="r" wit="Hyd">Alleluia alleluia </rep>
+   </verses>
+</res>

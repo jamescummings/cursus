@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3852" nextid="c3854" id="c3853">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> Nativitatem hodiernam perpetuae virginis genitricis dei Mariae</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-L"> Nativitatem hodiernae perpetuae virginis genitricis dei Mariae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> solemniter celebremus</rdg>
+         <rdg wit="CAO-C"> solemnitatem celebremus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-D CAO-F"> qua celsitudo throni processit alleluia</rdg>
+         <rdg wit="CAO-B CAO-R"> a qua celsitudo throni processit alleluia</rdg>
+         <rdg wit="CAO-C"> quam celsitudo throni suscepit alleluia</rdg>
+         <rdg wit="CAO-L"> quae celsitudinem throni praecellit alleluia</rdg>
+         <rdg wit="CAO-M CAO-S"> quo celsitudo throni processit alleluia</rdg>
+         <rdg wit="CAO-V"> quos celsitudo throni processit alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

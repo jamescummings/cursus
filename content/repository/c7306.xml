@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7305" nextid="c7307" id="c7306">
+   <rBody wit="CAO-E CAO-V"> Obsecro domine ne irascaris servo tuo quia semel coepi loquar ad te ne perdas iustum cum impiis deprecor te domine ne facias
+     <app>
+         <rdg wit="CAO-E"> consummationem</rdg>
+         <rdg wit="CAO-V"> consummatione</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V">
+         <app>
+            <rdg wit="CAO-E"> Quid si inventi fuerint</rdg>
+            <rdg wit="CAO-V"> Et si inventi fuerint</rdg>
+         </app> decem viri iusti in civitate non delebo propter decem</vBody>
+      <rep type="r" wit="CAO-E CAO-V">Deprecor</rep>
+   </verses>
+</res>

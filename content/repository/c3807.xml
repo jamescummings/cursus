@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3806" nextid="c3808" id="c3807">
+   <header>
+      <usage ms="Hyd" code="10100000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Fec-B2 Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-L Fec-B2 Hyd"> Montes Gelboe nec ros nec pluvia veniant super vos</rdg>
+         <rdg wit="CAO-S"> Mons Gelboe nec ros nec pluvia veniat super te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S Fec-B2"> quia in te abiectus est clipeus fortium</rdg>
+         <rdg wit="CAO-E CAO-M"> quia in te abiectus est clipeus fortior</rdg>
+         <rdg wit="CAO-L"> quia in te abiectus est clipeus fortius</rdg>
+         <rdg wit="Hyd"> quia in vobis abiectus est clipeus fortium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Fec-B2 Hyd"> clipeus Saul</rdg>
+         <rdg wit="CAO-M"> clipeus Saulis</rdg>
+      </app> quasi non esset unctus oleo
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S CAO-L Fec-B2 Hyd"> quomodo ceciderunt fortes in praelio</rdg>
+         <rdg wit="CAO-M CAO-V" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-L Fec-B2 Hyd"> Jonathas in excelsis tuis interfectus est</rdg>
+         <rdg wit="CAO-D CAO-F"> Jonatha in excelsis tuis interfectus est</rdg>
+         <rdg wit="CAO-V"> Jonathas in excelsis suis interfectus est</rdg>
+         <rdg wit="CAO-S" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-L Fec-B2 Hyd"> Saul et Jonathas</rdg>
+         <rdg wit="CAO-D CAO-S"> Saul et Jonatha</rdg>
+         <rdg wit="CAO-M"> Saul et Jonathan</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-F CAO-S CAO-L Fec-B2 Hyd"> amabiles et decori valde in vita sua</rdg>
+         <rdg wit="CAO-E"> amabilis et decoris valde in vita sua</rdg>
+         <rdg wit="CAO-V"> amabilis et decori valde in vita sua</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> in morte quoque non sunt separati</rdg>
+         <rdg wit="Fec-B2"> in morte quoque non sunt diversi</rdg>
+      </app>
+   </aBody>
+</ant>

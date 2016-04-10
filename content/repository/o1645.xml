@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1644" nextid="o1646" id="o1645">
+   <header>
+      <usage ms="Hyd" code="02010608"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.97</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd">Praesta quaesumus omnipotens deus ut salvatoris mundi stella duce manifestata nativitas mentibus nostris semper reveletur et crescat</pBody>
+</prayer>

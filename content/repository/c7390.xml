@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7389" nextid="c7391" id="c7390">
+   <header>
+      <usage ms="Hyd" code="08031000">matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L Hyd"> Plateae tuae</rdg>
+         <rdg wit="CAO-F"> Plathe tuae</rdg>
+         <rdg wit="CAO-V"> Plate tuae</rdg>
+      </app> Jerusalem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S Hyd"> sternentur</rdg>
+         <rdg wit="CAO-H"> sternuntur</rdg>
+         <rdg wit="CAO-L"> spernentur</rdg>
+      </app> auro mundo alleluia et cantabitur in te canticum laetitiae alleluia
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> et per omnes vicos tuos</rdg>
+         <rdg wit="CAO-D"> et super omnes vicos tuos</rdg>
+         <rdg wit="CAO-E"> et per vicos tuos</rdg>
+      </app> ab universis dicetur alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Quoniam confortavit seras portarum tuarum benedixit filiis tuis in te</vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L Hyd"> Luce splendida fulgebis et omnes fines terrae<app>
+            <rdg wit="CAO-F CAO-S CAO-L"> adorabunt te</rdg>
+            <rdg wit="Hyd"> te adorabunt</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd">Et per</rep>
+      <rep type="r" wit="CAO-D">Et cantabitur</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6881" nextid="c6883" id="c6882">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Illuminare illuminare Jerusalem venit lux tua et gloria domini super te orta est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Et ambulabunt gentes in lumine tuo et reges in splendore ortus tui</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Et gloria</rep>
+   </verses>
+</res>

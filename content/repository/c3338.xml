@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3337" nextid="c3339" id="c3338">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ingresso Zacharia templum domini</rdg>
+         <rdg wit="CAO-V"> Ingressus Zacharias templum domini</rdg>
+         <rdg wit="CAO-C"> Ingresso Zacharias templum domini</rdg>
+      </app> apparuit ei Gabriel angelus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> stans a dextris altaris incensi</rdg>
+         <rdg wit="CAO-V CAO-F"> stans ad dextris altaris incensi</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1852" nextid="c1854" id="c1853">
+   <header>
+      <usage ms="Alb2" code="05061000"/>
+      <usage ms="Cht" code="05051000">[7v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="05061000"/>
+   </header>
+   <aBody wit="CAO-V CAO-H CAO-D CAO-L Alb2 Hyd Cht"> Colligite primum zizania
+     <app>
+         <rdg wit="CAO-V CAO-H CAO-D Alb2 Hyd Cht"> et alligate ea</rdg>
+         <rdg wit="CAO-L"> et alligate eam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-L Hyd Cht"> fasciculos ad comburendum</rdg>
+         <rdg wit="CAO-H Alb2"> fasciculis ad comburendum</rdg>
+      </app> triticum autem congregate
+     <app>
+         <rdg wit="Alb2 Hyd"> in horreum meum</rdg>
+         <rdg wit="Cht"> in horreum meum alleluia</rdg>
+         <rdg wit="CAO-V CAO-H CAO-L"> in horreum meum dicit dominus</rdg>
+         <rdg wit="CAO-D"> in horreum meum dicit dominus meum alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

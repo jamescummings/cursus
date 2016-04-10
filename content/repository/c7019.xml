@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7018" nextid="c7020" id="c7019">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-S"> Isti sunt qui viventes</rdg>
+         <rdg wit="CAO-D CAO-F CAO-L"> Isti viventes</rdg>
+         <rdg wit="CAO-M CAO-V"> Isti sunt viventes</rdg>
+      </app> in carne
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> plantaverunt ecclesiam</rdg>
+         <rdg wit="CAO-E"> ornaverunt ecclesiam</rdg>
+         <rdg wit="CAO-F CAO-L"> plantaverunt ecclesias</rdg>
+      </app> sanguine suo non sunt
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-D CAO-L"> de terris</rdg>
+         <rdg wit="CAO-M CAO-R CAO-F CAO-S"> de terra</rdg>
+      </app> corpora eorum separata quorum
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-L"> merita sunt</rdg>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-S"> merito sunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> in caelis</rdg>
+         <rdg wit="CAO-L"> in caelo</rdg>
+      </app> animae sanctorum
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> coaequales</rdg>
+         <rdg wit="CAO-E CAO-L"> coaequalia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum Quorum</vBody>
+      <vBody type="r" wit="CAO-C"> In omnem terram exivit sonus eorum</vBody>
+      <vBody type="r" wit="CAO-M"> In omnem terram</vBody>
+      <vBody type="r" wit="CAO-V">
+         <add hand="later">Isti sunt qui venerunt</add>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Sancti per fidem vicerunt regna operati sunt iustitiam adepti sunt promissiones</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Quorum</rep>
+   </verses>
+</res>

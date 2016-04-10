@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8543" nextid="c8545" id="c8544">
+   <header>
+      <usage ms="Hyd" code="01012000">[4v] matins-n1-a3</usage>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="Hyd"> Spera in domino et fac bonitatem</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5251" nextid="c5253" id="c5252">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-S"> Tunc Valerianus in conspectu Hippolyti
+     <app>
+         <rdg wit="CAO-C CAO-S"> famulos illius martyrizare praecepit</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F"> famulos illius martyrizari praecepit</rdg>
+         <rdg wit="CAO-M"> famulis illius martyrizare praecepit</rdg>
+      </app>
+   </aBody>
+</ant>

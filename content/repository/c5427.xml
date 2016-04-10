@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5426" nextid="c5428" id="c5427">
+   <aBody wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> Vindica domine sanguinem sanctorum tuorum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D"> qui effusus est</rdg>
+         <rdg wit="CAO-F CAO-S"> qui effusus est super terram</rdg>
+      </app>
+   </aBody>
+</ant>

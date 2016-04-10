@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1651" nextid="c1653" id="c1652">
+   <aBody wit="CAO-B CAO-E CAO-R CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-S"> Beatus <name reg="Nicolaus" type="saint">Nicolaus</name> pontificatus infulis decoratus</rdg>
+         <rdg wit="CAO-L"> Beatus <name reg="Nicolaus" type="saint">Nicolaus</name> pontificali infula decoratus</rdg>
+         <rdg wit="CAO-E"> Beatus <name reg="Nicolaus" type="saint">Nicolaus</name> pontificatus infula decoratus</rdg>
+      </app> talem se exhibuit
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-S CAO-L"> ut ab omnibus amaretur</rdg>
+         <rdg wit="CAO-E"> ut ab omnibus amabatur</rdg>
+      </app>
+   </aBody>
+</ant>

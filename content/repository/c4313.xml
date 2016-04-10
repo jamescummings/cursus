@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4312" nextid="c4314" id="c4313">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F"> Populis autem non credentibus</rdg>
+         <rdg wit="CAO-V"> Populus autem non credentibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-F"> et ab episcopatu eum proicientibus</rdg>
+         <rdg wit="CAO-M CAO-H"> sed ab episcopatu eum proicientibus</rdg>
+         <rdg wit="CAO-V"> et ad episcopatum eum proicientibus</rdg>
+         <rdg wit="CAO-E"> et ab episcopatum eum proicientibus</rdg>
+         <rdg wit="CAO-C"> et ab episcopatu eum eicientibus</rdg>
+      </app> Romam petiit flens et eiulans atque dicens merito haec patior
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F"> quia peccavi in sanctum dei</rdg>
+         <rdg wit="CAO-E CAO-M"> quia peccavi in sancto dei</rdg>
+      </app>
+   </aBody>
+</ant>

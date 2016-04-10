@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2832" nextid="c2834" id="c2833">
+   <header>
+      <usage ms="Alb2" code="07062000">[106r] lauds</usage>
+      <usage ms="Cdm" code="07062000">[75v] lauds-a1</usage>
+      <usage ms="Cht" code="07062000">[57r] lauds</usage>
+      <usage ms="Ely" code="07062000">[86v] lauds</usage>
+      <usage ms="Evm" code="07062000">[144v] lauds</usage>
+      <usage ms="Hyd" code="07062000">[92r] lauds</usage>
+      <usage ms="Mch" code="07062000">[156r] lauds-a1</usage>
+      <usage ms="Pet" code="07062000">[86v] lauds</usage>
+      <usage ms="Wcb" code="07062000">[113v] lauds</usage>
+      <usage ms="Wor" code="07062000">[57r] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Faciem meam non averti ab increpantibus et conspuentibus in me</aBody>
+</ant>

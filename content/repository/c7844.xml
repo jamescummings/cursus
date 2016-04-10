@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7843" nextid="c7844b" id="c7844">
+   <rBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N">Vere felicem praesulem</l>
+         <l part="N">Verae fidei doctorem</l>
+         <l part="N">Quo petente panis Christi</l>
+         <l part="N">Formam accepit digiti</l>
+         <l part="N">Ad firmandam plebis fidem</l>
+         <l part="N">Versus incruentam carnem</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> A domino factum est istud et est mirabile in oculis nostris</vBody>
+      <rep type="r" wit="CAO-R">Ad firmandam</rep>
+   </verses>
+</res>

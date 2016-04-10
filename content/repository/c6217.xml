@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6216" nextid="c6218" id="c6217">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus Martinus obitum suum longe ante
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> praescivit</rdg>
+         <rdg wit="CAO-V"> presivit</rdg>
+         <rdg wit="CAO-S"> prescibit</rdg>
+      </app> dixitque fratribus dissolutionem sui corporis imminere quia
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> indicavit</rdg>
+         <rdg wit="CAO-C CAO-V CAO-S"> indicabat</rdg>
+      </app> se iam resolvi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Viribus corporis coepit repente
+       <app>
+            <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S"> destitui</rdg>
+            <rdg wit="CAO-C CAO-V"> distitui</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-F CAO-S"> convocatisque discipulis</rdg>
+            <rdg wit="CAO-M"> convocatisque discipuli</rdg>
+            <rdg wit="CAO-V"> convocatisque fratribus</rdg>
+         </app> in unum dixit</vBody>
+      <vBody type="r" wit="CAO-E CAO-D"> Dixerunt discipuli ad beatum Martinum cur nos pater deseris aut cui nos desolatos relinquis? </vBody>
+      <vBody type="r" wit="CAO-C"> Dixerunt discipuli</vBody>
+      <vBody type="r" wit="CAO-L"> Respondentes discipuli ab beatum Martinum dixerunt cur nos pater deseris aut cui nos desolatos relinquis?</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S">Dissolutionem</rep>
+      <rep type="r" wit="CAO-E CAO-D CAO-L">Quia</rep>
+   </verses>
+</res>

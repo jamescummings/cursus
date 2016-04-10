@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6809" nextid="c6811" id="c6810">
+   <header>
+      <usage ms="Alb2" code="02122600">[31v] matins-n2-r6</usage>
+      <usage ms="Cdm" code="02010200">[35r] matins-r1</usage>
+      <usage ms="Evm" code="02122600">[41r] matins-n3-r11</usage>
+      <usage ms="Pet" code="02122600">[23v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="02122600">[59v] matins-n3-r11</usage>
+      <usage ms="Wor" code="02122600">[18r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Cdm Wor Pet"> Hesterna die dominus natus est in terris ut Stephanus nasceretur
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Wcb Cdm Wor Pet"> in caelis</rdg>
+         <rdg wit="CAO-S"> in caelum</rdg>
+         <rdg wit="CAO-G"> in <sic resp="Hesbert">terris</sic>
+         </rdg>
+      </app> ingressus est dominus mundum ut Stephanus ingrederetur
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Wcb Cdm Wor Pet"> in caelum</rdg>
+         <rdg wit="CAO-C CAO-M CAO-L"> in caelis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Pet"> Heri enim rex noster trabea carnis indutus
+      <app>
+            <rdg wit="CAO-G CAO-F CAO-S Alb2 Evm Pet"> de aula uteri virginalis egrediens</rdg>
+            <rdg wit="Wcb"> e caula uteri virginalis egrediens</rdg>
+            <rdg wit="CAO-L"> de aula uteri virginali egrediens</rdg>
+            <rdg wit="CAO-D"> ex utero virginali homo factus egrediens</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-L Alb2 Evm Wcb Pet"> visitare dignatus est mundum</rdg>
+            <rdg wit="CAO-S"> visitare dignatus est</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R Wor">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R Wor"> Stephanus vidit caelos apertos</rdg>
+            <rdg wit="CAO-V"> Vidit beatus Stephanus caelos apertos</rdg>
+         </app> vidit et introivit</vBody>
+      <vBody type="r" wit="CAO-M Cdm"> Stephanus vidit caelos</vBody>
+      <rep type="r" wit="CAO-G CAO-D CAO-F Alb2 Evm Wcb Pet">Ut Stephanus</rep>
+      <rep type="r" wit="CAO-S">Mundum</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L Cdm Wor">Ingressus</rep>
+   </verses>
+</res>

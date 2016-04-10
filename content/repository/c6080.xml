@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6079" nextid="c6081" id="c6080">
+   <rBody wit="CAO-H CAO-D CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-H CAO-D CAO-L"> Amavit eum dominus</rdg>
+         <rdg wit="CAO-S"> Amabit eum dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-D CAO-S CAO-L"> et ornavit eum</rdg>
+         <rdg wit="CAO-D" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-D CAO-S CAO-L">Stola gloriae induit eum</vBody>
+      <rep type="r" wit="CAO-S CAO-L">Et ornavit</rep>
+   </verses>
+</res>

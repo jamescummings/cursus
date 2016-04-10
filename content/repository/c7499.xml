@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7498" nextid="c7500" id="c7499">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quis es tu qui venisti
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> ad me</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="a">ad</corr> me</rdg>
+      </app> curare vulnera mea ego sum apostolus Christi nihil in me dubites filia ipse me misit ad te quem dilexisti mente et puro corde</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Nam et ego apostolus eius sum
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> et novi medicinam</rdg>
+            <rdg wit="CAO-D"> et <corr sic="non">novi</corr> medicinam</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-L"> Nam et ego apostolus eius sum et in nomine eius scias te esse salvandam</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Ipse</rep>
+      <rep type="r" wit="CAO-L">Quem</rep>
+   </verses>
+</res>

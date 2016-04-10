@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3901" nextid="c3903" id="c3902">
+   <header>
+      <usage ms="Alb2" code="01041000">[20v] lauds gosp</usage>
+      <usage ms="Bat" code="01031000">[8r] vesp1 gosp</usage>
+      <usage ms="Cdm" code="01031000">[14r] vesp1 gosp</usage>
+      <usage ms="Ely" code="01031000">[9v] vesp1 gosp</usage>
+      <usage ms="Evm" code="01041000">[24v] lauds gosp</usage>
+      <usage ms="Hyd" code="01031000">[9v] vesp1 gosp</usage>
+      <usage ms="Hyd" code="02122500">[17r] vesp1-a1</usage>
+      <usage ms="Wcb" code="01041000">[49v] lauds gosp</usage>
+      <usage ms="Wor" code="01031000">[6v] vesp1 gosp</usage>
+   </header>
+   <aBody wit="CAO-D CAO-F CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Non auferetur sceptrum de Juda et dux de femore eius donec veniat qui mittendus est et ipse erit exspectatio gentium</aBody>
+</ant>

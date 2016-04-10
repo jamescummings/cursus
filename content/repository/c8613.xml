@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8612" nextid="c8614" id="c8613">
+   <header>
+      <usage ms="Ely" code="01041000">[14r] matins-n3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf text of respond c7542</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Ely"> Revelabitur gloria domini et videbit omnis caro salvatorem mundi</aBody>
+</ant>

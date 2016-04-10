@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1434" nextid="c1436" id="c1435">
+   <header>
+      <usage ms="Wcb" code="02010100">[67r] lauds-a1</usage>
+      <usage ms="Wor" code="02122500">[14v] matins-n2-a10</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S Wcb Wor"> Ante luciferum genitus et ante saecula dominus salvator noster hodie nasci dignatus est</aBody>
+</ant>

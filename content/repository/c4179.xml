@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4178" nextid="c4180" id="c4179">
+   <aBody wit="CAO-E CAO-S CAO-L"> Orante sancto Bartholomaeo omnes in templo Astaroth diversis languoribus vexati
+     <app>
+         <rdg wit="CAO-E CAO-S"> gratia Christi salvati sunt</rdg>
+         <rdg wit="CAO-L"> gratias Christi salvati sunt</rdg>
+      </app>
+   </aBody>
+</ant>

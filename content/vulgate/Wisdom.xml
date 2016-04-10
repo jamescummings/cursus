@@ -1,0 +1,3134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Wisdom">
+<body>
+  <rubric type="bible-incipit" id="B.Wisdom.incipit.001">
+    <reference>
+      <bookName>Wisdom</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT LIBER SAPIENTIAE SOLOMONIS</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Wisdom.001.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>diligite iustitiam qui iudicatis terram sentite de Domino in bonitate et in simplicitate cordis quaerite illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>quoniam invenitur ab his qui non temptant illum apparet autem eis qui fidem habent in illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>perversae enim cogitationes separant a Deo probata autem virtus corripit insipientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>quoniam in malivolam animam non intrabit sapientia nec habitabit in corpore subdito peccatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>sanctus enim spiritus disciplinae effugiet fictum et auferet se a cogitationibus quae sunt sine intellectu et corripietur superveniente iniquitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>benignus est enim spiritus sapientiae et non liberabit maledictum a labiis suis quoniam renum illius testis est Deus et cordis eius scrutator est verus et linguae illius auditor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>quoniam spiritus Domini replevit orbem terrarum et hoc quod continet omnia scientiam habet vocis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>propter hoc qui loquitur iniqua non potest latere nec praeteriet illum corripiens iudicium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>in cogitationibus enim impii interrogatio erit sermonum autem illius auditio ad Dominum veniet ad correptionem iniquitatum illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>quoniam auris zeli audit omnia et tumultus murmurationum non abscondetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>custodite ergo vos a murmuratione quae nihil prodest et a detractione parcite linguae quoniam responsum obscurum in vacuum non ibit os autem quod mentitur occidit animam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>nolite zelare mortem in errore vitae vestrae neque adquiratis perditionem in operibus manuum vestrarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>quoniam Deus mortem non fecit nec laetatur in perditione vivorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>creavit enim ut essent omnia et sanabiles nationes orbis terrarum et non est in illis medicamentum exterminii nec inferorum regnum in terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>iustitia enim inmortalis est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.001.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>impii autem manibus et verbis arcessierunt illam et aestimantes illam amicam defluxerunt et sponsionem posuerunt ad illam quoniam digni sunt qui sunt ex parte illius</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Wisdom.002.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>dixerunt enim apud se cogitantes non recte exiguum et cum taedio est tempus vitae nostrae et non est refrigerium in fine hominis et non est qui agnitus sit reversus ab inferis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>quia ex nihilo nati sumus et post hoc erimus tamquam non fuerimus quoniam fumus afflatus est in naribus nostris et sermo scintillae ad commovendum cor nostrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>quia extincta cinis erit corpus et spiritus diffundetur tamquam mollis aer et transiet vita nostra tamquam vestigium nubis et sicut nebula dissolvetur quae fugata est a radiis solis et a calore illius adgravata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>et nomen nostrum oblivionem accipiet per tempus et nemo memoriam habebit operum nostrorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>umbrae enim transitus est tempus nostrum et non est reversio finis nostri quoniam consignata est et nemo revertetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>venite ergo et fruamur bonis quae sunt et utamur creaturam tamquam in iuventute celeriter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>vino pretioso et unguentis nos impleamus et non praetereat nos flos temporis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>coronemus nos rosis antequam marcescant nullum pratum sit quod non pertranseat luxuria nostra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>ubique relinquamus signa laetitiae quoniam haec est pars nostra et haec est sors</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>opprimamus pauperem iustum et non parcamus viduae nec veterani revereamur canos multi temporis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>sit autem fortitudo nostra lex iniustitiae quod infirmum est enim inutile invenitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>circumveniamus ergo iustum quoniam inutilis est nobis et contrarius est operibus nostris et inproperat nobis peccata legis et diffamat in nos peccata disciplinae nostrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>promittit scientiam Dei se habere et filium Dei se nominat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>factus est nobis in traductionem cogitationum nostrarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>gravis est nobis etiam ad videndum quoniam dissimilis est aliis vita illius et inmutatae sunt viae eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>tamquam nugaces aestimati sumus ab illo et abstinet se a viis nostris tamquam ab inmunditiis et praefert novissima iustorum et gloriatur patrem Deum se habere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>videamus ergo si sermones illius veri sunt et temptemus quae ventura sunt illi et sciemus quae erunt novissima illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>si enim est verus filius Dei suscipiet illum et liberabit eum de manu contrariorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>contumelia et tormento interrogemus eum ut sciamus reverentiam illius et probemus patientiam ipsius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>morte turpissima condemnemus illum erit enim ei respectus ex sermonibus illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>haec cogitaverunt et erraverunt excaecavit enim illos malitia eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>et nescierunt sacramenta Dei neque mercedem speraverunt iustitiae nec iudicaverunt honorem animarum sanctarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>quoniam Deus creavit hominem inexterminabilem et ad imaginem suae similitudinis fecit illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>invidia autem diaboli mors introivit in orbem terrarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.002.025">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>imitantur autem illum qui sunt ex parte illius</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Wisdom.003.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>iustorum autem animae in manu Dei sunt et non tanget illos tormentum mortis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>visi sunt in oculis insipientium mori et aestimata est adflictio exitus illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>et quod a nobis est iter exterminii illi autem sunt in pace</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>et si coram hominibus tormenta passi sunt spes illorum inmortalitate plena est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>et in paucis vexati in multis bene disponentur quoniam Deus tentavit illos et invenit illos dignos se</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>tamquam aurum in fornace probavit illos et quasi holocausta hostiam accepit illos et in tempore erit respectus illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>fulgebunt et tamquam scintillae in harundineto discurrent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>iudicabunt nationes et dominabuntur populis et regnabit Dominus illorum in perpetuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>qui confidunt in illum intellegent veritatem et fideles in dilectione adquiescent illi quoniam donum et pax est electis illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>impii autem secundum quae cogitaverunt correptionem habebunt qui neglexerunt iustum et a Domino recesserunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>sapientiam enim et disciplinam qui abicit infelix est et vacua est spes illorum et labores sine fructu et inhabitabilia opera illorum sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>mulieres eorum insensatae sunt et nequissimi filii eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>maledicta creatura illorum quoniam felix sterilis incoinquinata quae non scivit torum in delicto habebit fructum in respectione animarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>et spado qui non operatus est per manus suas iniquitatem nec cogitavit adversus Deum nequissima dabitur enim illi fidei donum electum et sors in templo Domini acceptissima</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>bonorum enim laborum gloriosus est fructus et quae non concidat radix sapientiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>filii autem adulterorum inconsummati erunt et ab iniquo toro semen exterminabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>et si quidem longae vitae erunt in nihilum conputabuntur et sine honore erit novissima senectus illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>et si celerius defuncti fuerint non habebunt spem nec in die agnitionis adlocutionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.003.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>nationis enim iniquae dirae sunt consummationes</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Wisdom.004.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>melior est generatio cum claritate inmortalitas est enim in memoria illius quoniam et apud Deum nota est et apud homines</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>cum praesens est imitantur illam et desiderant eam cum se duxerit et in perpetuum coronata triumphat incoinquinatorum certaminum praemium vincens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>multigena autem impiorum multitudo non erit utilis et spuria vitulamina non dabunt radices altas nec stabile firmamentum conlocabunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>et si in ramis in tempore germinaverint infirmiter posita a vento commovebuntur et a nimietate ventorum eradicabuntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>confringentur rami inconsummati et fructus illorum inutilis et acerbi ad manducandum et ad nihilum apti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>ex iniquis enim omnes filii qui nascuntur testes sunt nequitiae adversus parentes in interrogatione sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>iustus autem si morte praeoccupatus fuerit in refrigerio erit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>senectus enim venerabilis est non diuturna neque numero annorum conputata cani sunt autem sensus hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>et aetas senectutis vita inmaculata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>placens Deo factus dilectus et vivens inter peccatores translatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>raptus est ne malitia mutaret intellectum illius aut fictio decipiat animam illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>fascinatio enim nugacitatis obscurat bona et inconstantia concupiscentiae transvertit sensum sine malitia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>consummatus in brevi explevit tempora multa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>placita enim erat Deo anima illius propter hoc properavit educere illum de medio iniquitatum populi autem videntes et non intellegentes nec ponentes in praecordiis talia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>quoniam gratia Dei et misericordia in sanctos illius et respectus in electos illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>condemnat autem iustus mortuus vivos impios et iuventus celerius consummata longam vitam iniusti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>videbunt enim finem sapientis et non intellegent quid cogitaverit de illo Deus et quare munierit illum Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>videbunt enim et contemnent illos autem Dominus inridebit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>et erunt post haec decidentes sine honore et in contumelia inter mortuos in perpetuum quoniam disrumpet illos inflatos sine voce et commovebit illos a fundamentis et usque ad supremum desolabuntur et erunt gementes et memoria illorum periet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.004.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>venient in cogitatione peccatorum suorum timidi et traducent illos ex adverso iniquitates ipsorum</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Wisdom.005.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>tunc stabunt iusti in magna constantia adversus eos qui se angustaverunt et qui abstulerunt labores illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>videntes turbabuntur timore horribili et mirabuntur in subitatione insperatae salutis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>dicent inter se paenitentiam agentes et per angustiam spiritus gementes hi sunt quos habuimus aliquando in risu et in similitudine inproperii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>nos insensati vitam illorum aestimabamus insaniam et finem illorum sine honore</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>quomodo conputati sunt inter filios Dei et inter sanctos sors illorum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>ergo erravimus a via veritatis et iustitiae lumen non luxit nobis et sol non est ortus nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>lassati sumus in via iniquitatis et perditionis et ambulavimus vias difficiles viam autem Domini ignoravimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>quid nobis profuit superbia aut quid divitiarum iactatio contulit nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>transierunt omnia illa tamquam umbra et tamquam nuntius percurrens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>et tamquam navis quae pertransit fluctuantem aquam cuius cum praeterierit non est vestigium invenire neque semitam carinae illius in fluctibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>aut avis quae transvolat in aere nullum invenitur argumentum itineris illius sed tantum sonitus est alarum verberans levem ventum et scindens per vim itineris aerem commotis alis transvolavit et post hoc nullum signum invenitur itineris illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>aut tamquam sagittae emissae in locum destinatum divisus aer continuo in se reclusus est ut ignoretur transitus illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>sic et nos nati continuo desivimus esse et virtutis quidem signum nullum valuimus ostendere in malignitate autem nostra consumpti sumus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>talia dixerunt et peccaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>quoniam spes impii tamquam lanugo est quae a vento tollitur et tamquam spuma gracilis quae a procella dispergitur et tamquam fumus qui a vento diffusus est et tamquam memoria hospitis unius diei praetereuntis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>iusti autem in perpetuum vivent et apud Dominum est merces eorum et cogitatio illorum apud Altissimum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>ideo accipient regnum decoris et diadema speciei de manu Domini quoniam dextera sua teget eos et brachio suo defendet illos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>accipiet armaturam zelus illius et armabit creaturam ad ultionem inimicorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>induet pro torace iustitiam et accipiet pro galea iudicium certum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>sumet scutum inexpugnabilem aequitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>acuet autem duram iram in lanceam et pugnabit cum illo orbis terrarum contra insensatos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>ibunt directae emissiones fulgorum et tamquam a bene curvato arcu nubium exterminabuntur et ad certum locum insilient</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>et a petrosa ira plenae mittentur grandines et scandescet in illos aqua maris et flumina concurrent duriter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.005.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>contra illos stabit spiritus virtutis et tamquam turbedo venti dividet illos et ad heremiam perducet omnem terram iniquitatis et malignitas evertet sedes potentium</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Wisdom.006.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>melior est sapientia quam vires et vir prudens magis quam fortis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>audite ergo reges et intellegite discite iudices finium terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>praebete aures vos qui continetis multitudines et placetis vobis in turbis nationum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>quoniam data est a Domino potestas vobis et virtus ab Altissimo qui interrogabit opera vestra et cogitationes scrutabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>quoniam cum essetis ministri regni illius non recte iudicastis neque custodistis legem iustitiae neque secundum voluntatem Dei ambulastis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>horrende et cito apparebit vobis quoniam iudicium durissimum in his qui praesunt fiet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>exiguo enim conceditur misericordia potentes autem potenter tormenta patientur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>non enim subtrahet personam cuiusquam Dominus nec reverebitur magnitudinem cuiusquam quoniam pusillum et magnum ipse fecit et aequaliter cura est illi pro omnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>fortioribus autem fortior instat cruciatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>ad vos ergo reges sunt hi sermones mei ut discatis sapientiam et non excidatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>qui enim custodierint iusta iuste iustificabuntur et qui didicerint ista invenient quid respondeant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>concupiscite ergo sermones meos diligite illos et habebitis disciplinam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>clara est et quae numquam marcescat sapientia et facile videtur ab his qui diligunt eam et invenietur ab his qui quaerunt illam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>praeoccupat qui se concupiscunt ut illis se prior ostendat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>qui de luce vigilaverit ad illam non laborabit adsidentem enim illam foribus suis inveniet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>cogitare ergo de illa sensus est consummatus et qui vigilaverit propter illam cito erit securus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>quoniam dignos se ipsa circuit quaerens et in viis ostendit se illis hilariter et in omni providentia occurrit illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>initium enim illius verissima est disciplinae concupiscentia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>cura ergo disciplinae dilectio est et dilectio custoditio legum illius est custoditio autem legum consummatio incorruptionis est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>incorruptio autem facit esse proximum Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>concupiscentia itaque sapientiae deducet ad regnum perpetuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:22</verseNum>
+      </reference>
+      <l>si ergo delectamini sedibus et stemmatibus reges populi diligite sapientiam ut in perpetuum regnetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:23</verseNum>
+      </reference>
+      <l/>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:24</verseNum>
+      </reference>
+      <l>quid est autem sapientia et quemadmodum facta sit referam et non abscondam a vobis sacramenta Dei sed ab initio nativitatis investigabo et ponam in lucem scientiam illius et non praeteribo veritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.025">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:25</verseNum>
+      </reference>
+      <l>neque cum invidia tabescente iter habebo quoniam ista non erit particeps sapientiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.026">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:26</verseNum>
+      </reference>
+      <l>multitudo autem sapientium sanitas est orbis terrarum et rex sapiens populi stabilimentum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.006.027">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>6:27</verseNum>
+      </reference>
+      <l>ergo accipite disciplinam per sermones meos et proderit vobis</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Wisdom.007.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>sum quidem et ego mortalis homo similis omnibus et ex genere terreno illius qui prior finctus est et in ventre matris figuratus sum caro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>decem mensuum tempore coagulatus in sanguine ex semine hominis et delectamento somni conveniente</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>et ego natus accepi communem aerem et in similiter factam decidi terram primam vocem similem omnibus emisi plorans</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>in involumentis nutritus sum et curis magnis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>nemo enim ex regibus aliud habuit nativitatis initium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>unus ergo introitus est omnibus ad vitam et similis exitus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>propter hoc optavi et datus est mihi sensus et invocavi et venit in me spiritus sapientiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>et praeposui illam regnis et sedibus et divitias nihil esse duxi in conparatione illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>nec conparavi illi lapidem pretiosum quoniam omne aurum in conparatione illius harena est exigua et tamquam lutum aestimabitur argentum in conspectu illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>super salutem et speciem dilexi illam et proposui pro luce habere illam quoniam inextinguibile est lumen illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>venerunt autem mihi omnia bona pariter cum illa et innumerabilis honestas per manus illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>et laetatus sum in omnibus quoniam antecedebat ista sapientia et ignorabam quoniam horum omnium mater est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>quam sine fictione didici et sine invidia communico et honestatem illius non abscondo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>infinitus enim thesaurus est hominibus quod qui usi sunt participes facti sunt amicitiae Dei propter disciplinae dona commendati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>mihi autem det Deus dicere ex sententia et praesumere digna horum quae dantur quoniam ipse et sapientiae dux est et sapientium emendator</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>in manu enim illius et nos et sermones nostri et omnis sapientia et operum scientiae disciplina</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>ipse enim mihi dedit horum quae sunt scientiam veram ut sciam dispositionem orbis terrarum et virtutes elementorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:18</verseNum>
+      </reference>
+      <l>initium et consummationem et medietatem temporum et meditationem omnium morum mutationes et divisiones temporum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:19</verseNum>
+      </reference>
+      <l>anni cursus et stellarum dispositiones</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:20</verseNum>
+      </reference>
+      <l>naturas animalium et iras bestiarum vim ventorum et cogitationes hominum differentias arborum et virtutes radicum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:21</verseNum>
+      </reference>
+      <l>et quaecumque sunt absconsa et inprovisa didici omnium enim artifex docuit me sapientia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:22</verseNum>
+      </reference>
+      <l>est enim in illa spiritus intellectus sanctus unicus multiplex subtilis mobilis dissertus incoinquinatus certus suavis amans bonum acutus qui nihil vetat benefacere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:23</verseNum>
+      </reference>
+      <l>humanus stabilis certus securus omnem habens virtutem omnia prospiciens et qui capiat omnes spiritus intellegibiles mundos subtiles</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:24</verseNum>
+      </reference>
+      <l>omnibus enim mobilibus mobilior est sapientia adtingit autem ubique et capit propter suam munditiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.025">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:25</verseNum>
+      </reference>
+      <l>vapor est enim virtutis Dei et emanatio quaedam est claritatis omnipotentis Dei sincera et ideo nihil inquinatum in illa incurrit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.026">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:26</verseNum>
+      </reference>
+      <l>candor est enim lucis aeternae et speculum sine macula Dei maiestatis et imago bonitatis illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.027">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:27</verseNum>
+      </reference>
+      <l>et cum sit una omnia potest et permanens in se omnia innovat et per nationes in animas sanctas se transfert amicos Dei et prophetas constituit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.028">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:28</verseNum>
+      </reference>
+      <l>neminem enim diligit Deus nisi eum qui cum sapientia inhabitat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.029">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:29</verseNum>
+      </reference>
+      <l>est enim haec speciosior sole et super omnem stellarum dispositionem luci conparata invenitur prior</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.007.030">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>7:30</verseNum>
+      </reference>
+      <l>illi enim succedit nox sapientiam autem non vincit malitia</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Wisdom.008.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>adtingit enim a fine usque ad finem fortiter et disponit omnia suaviter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>hanc amavi et exquisivi a iuventute mea et quaesivi sponsam mihi adsumere et amator factus sum formae illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>generositatem glorificat contubernium habens Dei sed et omnium Dominus dilexit illam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>doctrix est enim disciplinae Dei et electrix operum illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>et si divitiae appetuntur in vita quid sapientiae locupletius quae omnia operatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>si autem sensus operatur quis horum quae sunt magis quam illa est artifex</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>et si iustitiam quis diligit labores huius magnas habent virtutes sobrietatem enim et sapientiam docet et iustitiam et virtutem quibus utilius nihil est in vita hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>et si multitudinem scientiae desiderat quis scit praeterita et de futuris aestimat scit versutias sermonum et dissolutiones argumentorum signa et monstra scit antequam fiant et eventus temporum et saeculorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>proposui ergo hanc adducere mihi ad convivendum sciens quoniam communicabit mecum de bonis et erit adlocutio cogitationis et taedii mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>habebo propter hanc claritatem ad turbas et honorem apud seniores iuvenis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>acutus inveniar in iudicio et in conspectu potentium admirabilis ero et facies principum mirabuntur me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>tacentem me sustinebunt et loquentem me respicient et sermocinante plura manus ori suo inponent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>propterea habebo per hanc inmortalitatem et memoriam aeternam his qui post me futuri sunt relinquam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>disponam populos et nationes mihi erunt subiectae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>timebunt me audientes reges horrendi in multitudine videbor bonus et in bello fortis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>intrans in domum meam conquiescam cum illa non enim habet amaritudinem conversatio illius nec taedium convictus ipsius sed laetitiam et gaudium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>haec cogitans apud me et commemorans in corde meo quoniam inmortalitas est in cogitatione sapientiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:18</verseNum>
+      </reference>
+      <l>et in amicitia illius delectatio bona et in operibus manuum illius honestas sine defectione et in certamine loquellae illius sapientia et praeclaritas in communicatione sermonum ipsius circuibam quaerens ut mihi illam adsumerem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:19</verseNum>
+      </reference>
+      <l>puer autem eram ingeniosus et sortitus sum animam bonam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:20</verseNum>
+      </reference>
+      <l>et cum essem magis bonus veni ad corpus incoinquinatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.008.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>8:21</verseNum>
+      </reference>
+      <l>et ut scivi quoniam aliter non possum esse continens nisi Deus det et hoc ipsum erat sapientiae scire cuius esset hoc donum adii Dominum et deprecatus sum illum et dixi ex totis praecordiis meis</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Wisdom.009.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>Deus parentum et Domine misericordiae tuae qui fecisti omnia verbo tuo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>et sapientia tua constituisti hominem ut dominetur creaturae quae a te facta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>ut disponat orbem terrarum in aequitate et iustitia et in directione cordis iudicium iudicet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>da mihi sedium tuarum adsistricem sapientiam et noli me reprobare a pueris tuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>quoniam ego servus tuus et filius ancillae tuae sum homo infirmus et exigui temporis et minor ad intellectum iudicii et legum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>et si quis erit consummatus inter filios hominum si afuerit ab illo sapientia tua in nihilum conputabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>tu me elegisti regem populo tuo et iudicem filiorum tuorum et filiarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>dixisti aedificare templum in monte sancto tuo et in civitate habitationis tuae aram similitudinem tabernaculi sancti tui quod praeparasti ab initio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>et tecum sapientia quae novit opera tua quae et adfuit tunc cum orbem terrarum faceres et sciebat quid placitum esset oculis tuis et quid directum in praeceptis tuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>mitte illam de sanctis caelis tuis et mitte illam a sede magnitudinis tuae ut mecum sit et mecum laboret et sciam quid acceptum sit apud te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>scit enim illa omnia et intellegit et deducet me in operibus meis sobrie et custodiet me in sua potentia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>et erunt accepta opera mea et disponam populum tuum iuste et ero dignus sedium patris mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>quis enim hominum poterit scire consilium Dei aut quis poterit cogitare quid velit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>cogitationes enim mortalium timidae et incertae providentiae nostrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>corpus enim quod corrumpitur adgravat animam et deprimit terrena inhabitatio sensum multa cogitantem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>et difficile aestimamus quae in terra sunt et quae in prospectu sunt invenimus cum labore quae in caelis sunt autem quis investigavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>sensum autem tuum quis scivit nisi tu dederis sapientiam et miseris sanctum spiritum tuum de altissimis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:18</verseNum>
+      </reference>
+      <l>et sic correctae sunt semitae eorum qui in terris sunt et quae tibi placent didicerunt homines</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.009.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>9:19</verseNum>
+      </reference>
+      <l>et per sapientiam sanati sunt</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.Wisdom.010.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>haec illum qui primus finctus est patrem orbis terrarum cum solus esset creatus custodivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>et eduxit illum a delicto suo et dedit illi virtutem continendi omnia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>ab hac ut recessit iniustus in ira sua per iram homicidii fraternitatis deperiit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>propter quem cum aqua deleret terram iterum sanavit sapientia per contemptibile lignum iustum gubernans</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>haec et in consensu nequitiae cum se nationes contulissent scivit iustum et servavit sine querella Deo et in filii misericordia fortem custodivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>haec iustum a pereuntibus impiis liberavit fugientem descendentem ignem in Pentapoli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>cuius in testimonium nequitiae fumigabunda constat deserta terra et incerto tempore fructus habentes arbores et incredibilis animae memoria stans figmentum salis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>sapientiam enim praetereuntes non tantum in hoc lapsi sunt ut ignorarent bona sed et insipientiae suae reliquerunt hominibus memoriam ut in his quae peccaverunt nec latere potuissent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>sapientia autem hos qui se observant a doloribus liberavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>haec profugum irae fratris iustum deduxit per vias rectas et ostendit illi regnum Dei et dedit illi scientiam sanctorum honestavit illum in laboribus et conplevit labores illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>in fraude circumvenientium illum adfuit et honestum illum fecit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>custodivit illum ab inimicis et a seductoribus tutavit eum et certamen forte dedit illi ut vinceret ut sciret quoniam omnium potentior est sapientia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>haec venditum iustum non dereliquit sed a peccatoribus liberavit illum descendit cum illo in foveam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:14</verseNum>
+      </reference>
+      <l>et in vinculis non dereliquit illum donec adferret illi sceptrum regni et potentiam adversus eos qui eum deprimebant et mendaces ostendit qui maculaverunt ipsum et dedit illi claritatem aeternam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:15</verseNum>
+      </reference>
+      <l>haec populum iustum et semen sine querella liberavit a nationibus quae illum conprimebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:16</verseNum>
+      </reference>
+      <l>intravit in animam servi Domini et stetit contra reges horrendos in portentis et signis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:17</verseNum>
+      </reference>
+      <l>et reddidit iustis mercedem laborum suorum et deduxit illos in via mirabili et fuit illis in velamento diei et in luce stellarum nocte</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:18</verseNum>
+      </reference>
+      <l>transtulit illos mare Rubrum et transvexit illos per aquam nimiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:19</verseNum>
+      </reference>
+      <l>inimicos autem illorum demersit in mare et ab altitudine inferorum eduxit illos ideo iusti tulerunt spolia impiorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:20</verseNum>
+      </reference>
+      <l>et decantaverunt Domine nomen sanctum tuum et victricem manum tuam laudaverunt pariter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.010.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>10:21</verseNum>
+      </reference>
+      <l>quoniam sapientia aperuit os mutorum et linguas infantium fecit dissertas</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.Wisdom.011.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>direxit opera illorum in manibus prophetae sancti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>iter fecerunt per deserta quae non inhabitabantur et in locis secretis fixerunt casas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>steterunt contra hostes et de inimicis se vindicaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>sitierunt et invocaverunt te et data est illis de petra altissima aqua et requies sitis de lapide duro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>per quae enim poenas passi sunt inimici illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>per haec cum illis deesset bene cum illis actum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>nam pro fonte quidem sempiterni fluminis humanum sanguinem dedisti iniustis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>qui comminuerentur in traductione infantum occisorum dedisti illis abundantem aquam insperate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>ostendens per sitim quae tunc fuit quemadmodum tuos exaltares et adversarios illorum necares</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>cum enim temptati sunt et quidem cum misericordia disciplinam accipientes scierunt quemadmodum cum ira iudicati impii tormenta paterentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>hos quidem tamquam pater monens probasti illos autem tamquam durus rex interrogans condemnasti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>absentes enim et praesentes similiter torquebantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:13</verseNum>
+      </reference>
+      <l>duplex enim illos acceperat taedium et gemitus cum memoria praeteritorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:14</verseNum>
+      </reference>
+      <l>cum enim audirent per sua tormenta bene secum agi commemorati sunt Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:15</verseNum>
+      </reference>
+      <l>quem enim in expositione prava proiectum deriserunt in finem eventus mirati sunt non similiter iustis faciens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:16</verseNum>
+      </reference>
+      <l>pro cogitationibus autem insensatis iniquitates illorum quod quidam errantes colebant mutos serpentes et bestias supervacuas inmisisti illis multitudinem mutorum animalium in vindictam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:17</verseNum>
+      </reference>
+      <l>ut scirent quia per quae peccat quis per haec et torquetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:18</verseNum>
+      </reference>
+      <l>non enim inpossibilis erat omnipotens manus tua quae creavit orbem terrarum ex materia invisa inmittere illis multitudinem ursorum aut audaces leones</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:19</verseNum>
+      </reference>
+      <l>aut novi generis ira plenas et ignotas bestias aut vaporem igneum spirantes aut odorem fumi proferentes aut horrendas ab oculis scintillas emittentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:20</verseNum>
+      </reference>
+      <l>quarum non solum laesura poterat illos exterminare sed et aspectus per timorem occidere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:21</verseNum>
+      </reference>
+      <l>sed et sine his uno spiritu occidi poterant persecutionem passi ab ipsis factis suis et dispersi per spiritum virtutis tuae sed omnia mensura et numero et pondere disposuisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:22</verseNum>
+      </reference>
+      <l>multum enim valere tibi soli superat semper et virtuti brachii tui quis resistet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:23</verseNum>
+      </reference>
+      <l>quoniam tamquam momentum staterae sic ante te est orbis terrarum et tamquam gutta roris antelucani quae descendit in terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:24</verseNum>
+      </reference>
+      <l>sed misereris omnium quoniam omnia potes et dissimulas peccata hominum propter paenitentiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.025">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:25</verseNum>
+      </reference>
+      <l>diligis enim omnia quae sunt et nihil odisti horum quae fecisti nec enim odiens aliquid constituisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.026">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:26</verseNum>
+      </reference>
+      <l>quomodo autem posset aliquid permanere nisi tu voluisses aut quod a te vocatum non esset conservaretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.011.027">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>11:27</verseNum>
+      </reference>
+      <l>parcis autem omnibus quoniam tua sunt Domine qui animas amas</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.Wisdom.012.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>bonus enim spiritus tuus est in omnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>propter quod hos qui exerrant partibus corripis et de quibus peccant admonens adloqueris ut relicta malitia credant in te Domine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>et illos enim antiquos inhabitatores sanctae tuae terrae odiens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>quoniam odibilia tibi opera faciebant per medicamina et sacrificia iniusta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>et filiorum necatores sine misericordia et comestores viscerum hominum devorationem et sanguinis a medio sacramento tuo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>et auctores parentes animarum inauxiliatarum voluisti perdere per manus parentum nostrorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>ut dignam perciperent peregrinationem puerorum Dei quae tibi omnium carior est terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>sed et his tamquam hominibus pepercisti et misisti antecessores exercitus tui vespas ut illos paulatim exterminarent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>non quia inpotens eras in bello subicere impios iustis aut bestiis saevis aut verbo duro simul exterminare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>sed partibus iudicans dabas locum paenitentiae non ignorans quoniam nequa est natio illorum et naturalis malitia ipsorum et quoniam non poterat mutari cogitatio illorum in perpetuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>semen enim erat maledictum ab initio nec timens aliquem veniam dabas peccatis illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>quis enim dicet tibi quid fecisti aut quis stabit contra iudicium tuum aut quis in conspectum tuum veniet vindex iniquorum hominum aut quis tibi inputabit si nationes perierint quas tu fecisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>nec enim est alius Deus quam tu cuius cura est de omnibus ut ostendas quoniam non iniuste iudicasti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>neque rex neque tyrannus in conspectu tuo inquirent de his quos perdidisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:15</verseNum>
+      </reference>
+      <l>cum sis ergo iustus iuste omnia disponis ipsum quoque qui non debet puniri condemnas exterum aestimas a tua virtute</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:16</verseNum>
+      </reference>
+      <l>virtus enim tua iustitiae initium est et ob hoc quod omnium Dominus es omnibus te parcere facis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:17</verseNum>
+      </reference>
+      <l>virtutem enim ostendis tu qui non crederis esse in virtute consummatus et hos qui sciunt audaciam traducis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:18</verseNum>
+      </reference>
+      <l>tu autem dominator virtutis cum tranquillitate iudicas et cum magna reverentia disponis nos subest enim tibi cum voles posse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:19</verseNum>
+      </reference>
+      <l>docuisti autem populum tuum per talia opera quoniam oportet iustum esse et humanum et bonae spei fecisti filios tuos quoniam das locum in peccatis paenitentiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:20</verseNum>
+      </reference>
+      <l>si enim inimicos servorum tuorum et debitos morti cum tanta cruciasti adtentione et liberasti dans tempus et locum per quae possint mutari a malitia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:21</verseNum>
+      </reference>
+      <l>cum quanta diligentia iudicasti filios tuos quorum parentibus iuramenta et conventiones dedisti bonarum promissionum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:22</verseNum>
+      </reference>
+      <l>cum ergo nobis disciplinam das inimicos nostros multipliciter flagellas ut bonitatem tuam cogitemus iudicantes et cum de nobis iudicatur speremus misericordiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:23</verseNum>
+      </reference>
+      <l>unde et illis qui in vita sua insensate et iniuste vixerunt per haec quae coluerunt dedisti summa tormenta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:24</verseNum>
+      </reference>
+      <l>etenim in erroris via diutius erraverunt deos aestimantes haec quae in animalibus sunt supervacua infantum insensatorum more viventes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.025">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:25</verseNum>
+      </reference>
+      <l>propter hoc tamquam pueris insensatis iudicium in derisum dedisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.026">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:26</verseNum>
+      </reference>
+      <l>qui autem ludibriis increpationis non correpti sunt dignum Dei iudicium experti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.012.027">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>12:27</verseNum>
+      </reference>
+      <l>in his enim quae patiebantur moleste ferebant in quibus patientes indignabantur per haec quos putabant deos in ipsis cum exterminarentur videntes illum quem olim negabant se nosse Deum verum agnoverunt propter quod et finis condemnationis illis veniet</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.Wisdom.013.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>vani sunt autem omnes homines quibus non subest scientia Dei et de his quae videntur bona non potuerunt intellegere eum qui est neque operibus adtendentes agnoverunt quis esset artifex</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>sed aut ignem aut spiritum aut citatum aerem aut gyrum stellarum aut nimiam aquam aut solem et lunam rectores orbis terrarum deos putaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>quorum si specie delectati deos putaverunt sciant quanto dominator eorum speciosior est speciei enim generator haec omnia constituit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>aut si virtutem et opera eorum mirati sunt intellegant ab ipsis quoniam qui haec constituit fortior est illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>a magnitudine enim speciei et creaturae cognoscibiliter poterit horum creator videri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>sed tamen adhuc in his minor est querella et hii enim fortassis errant Deum quaerentes et volentes invenire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>etenim cum in operibus illius conversentur inquirunt et persuasum habent quoniam bona sunt quae videntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>iterum autem nec his debet ignosci</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>si enim tantum potuerunt scire ut possent aestimare saeculum quomodo huius Dominum non facilius invenerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>infelices autem sunt et inter mortuos spes illorum est qui appellaverunt deos opera manuum hominum aurum et argentum artis inventionem similitudines animalium aut lapidem inutilem opus manus antiquae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:11</verseNum>
+
+      </reference>
+      <l>aut si quis artifex faber de silva lignum rectum secaverit et huius docte eradat omnem corticem et arte sua usus diligenter fabricet vas utile in conversatione vitae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>reliquias autem eius operis ad praeparationem escae abutatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>et reliquum horum quod ad nullos usus facit lignum curvum et verticibus plenum sculpat diligenter per vacuitatem suam et per scientiam artis suae figuret illud et adsimilet illud imagini hominis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>aut alicui ex animalibus illud conparet perliniens lubrica et rubicundum faciens fuco colorem illius et omnem maculam quae in illo est perliniens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:15</verseNum>
+      </reference>
+      <l>et faciat ei dignam habitationem in pariete ponens illud confirmans ferro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:16</verseNum>
+      </reference>
+      <l>ne forte cadat prospiciens illi sciens quoniam non potest se adiuvare imago enim est et opus est illi adiutorio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:17</verseNum>
+      </reference>
+      <l>et de substantia sua et filiis suis et nuptiis votum faciens inquirit non erubescit loqui cum illo qui sine anima est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:18</verseNum>
+      </reference>
+      <l>et pro sanitate quidem infirmum deprecatur et pro vita mortuum rogat et in adiutorium inutilem invocat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.013.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>13:19</verseNum>
+      </reference>
+      <l>et pro itinere petit ab hoc qui ambulare non potest et de adquirendo et de operando et de omnium rerum eventu petit ab eo qui in omnibus est inutilis</l>
+    </verse>
+  </chapter>
+  <chapter num="14">
+    <verse type="bible-verse" id="B.Wisdom.014.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:1</verseNum>
+      </reference>
+      <l>iterum alius navigare cogitans et per feros fluctus incipiens iter facere ligno portante se fragilius lignum invocat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:2</verseNum>
+      </reference>
+      <l>illud enim cupiditas adquirendi excogitavit et artifex sapientia fabricavit sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:3</verseNum>
+      </reference>
+      <l>tua autem pater gubernat providentia quoniam dedisti et in mari viam et inter fluctus semitam firmissimam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:4</verseNum>
+      </reference>
+      <l>ostendens quoniam potes ex omnibus sanare etiam si sine rate aliquis adeat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:5</verseNum>
+      </reference>
+      <l>sed ut non esset vacua sapientiae tuae opera propter hoc etiam exiguo ligno credunt homines animas suas et transeuntes mare per ratem liberati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:6</verseNum>
+      </reference>
+      <l>sed ab initio cum perirent superbi gigantes spes orbis terrarum ad ratem confugiens remisit saeculo semen nativitatis quae manu tua erat gubernata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:7</verseNum>
+      </reference>
+      <l>benedictum est enim lignum per quod fit iustitia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:8</verseNum>
+      </reference>
+      <l>per manus autem quod fit maledictum et ipsum et qui fecit illud quia ille quidem operatus est illud autem cum esset fragile Deus cognominatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:9</verseNum>
+      </reference>
+      <l>similiter autem odio sunt Deo impius et impietas eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:10</verseNum>
+      </reference>
+      <l>etenim quod factum est cum illo qui fecit tormenta patietur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:11</verseNum>
+      </reference>
+      <l>propter hoc et idolis nationum non erit respectus quoniam creaturae Dei in odium factae sunt et in temptationem animis hominum et in muscipulum pedibus insipientium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:12</verseNum>
+      </reference>
+      <l>initium enim fornicationis est exquisitio idolorum et adinventio illorum corruptio vitae est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:13</verseNum>
+      </reference>
+      <l>neque erant ab initio neque erunt in perpetuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:14</verseNum>
+      </reference>
+      <l>supervacuitas enim hominum venit in orbem terrarum et ideo brevis illorum finis inventus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:15</verseNum>
+      </reference>
+      <l>acerbo enim luctu dolens pater cito sibi filii rapti faciens imaginem illum qui tunc homo mortuus fuerat nunc tamquam deum colere coepit et constituit inter servos suos sacra et sacrificia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:16</verseNum>
+      </reference>
+      <l>deinde interveniente tempore convalescente iniqua consuetudine hic error tamquam lex custodita est et tyrannorum imperio colebantur figmenta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:17</verseNum>
+      </reference>
+      <l>hos quos in palam honorare non poterant homines propter quod longe essent e longinquo figura illorum adlata evidentem imaginem regis quem honorare volebant fecerunt ut illum qui aberat tamquam praesentem colerent sua sollicitudine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:18</verseNum>
+      </reference>
+      <l>provexit autem ad horum culturam et hos qui ignorabant artificis eximia diligentia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:19</verseNum>
+      </reference>
+      <l>ille enim volens placere illi qui se adsumpsit elaboravit arte sua ut similitudinem in melius figuraret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:20</verseNum>
+      </reference>
+      <l>multitudo autem adducta per speciem operis eum qui ante tempus tamquam homo honoratus fuerat nunc deum existimaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:21</verseNum>
+      </reference>
+      <l>et haec fuit vitae humanae deceptio quoniam aut adfectui aut regibus deservientes homines incommunicabile nomen lapidibus et lignis inposuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:22</verseNum>
+      </reference>
+      <l>et non sufficerat errasse eos circa Dei scientiam sed et in magno viventes inscientiae bello tot et tam magna mala pacem appellant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:23</verseNum>
+      </reference>
+      <l>aut enim filios suos sacrificantes aut obscura sacrificia facientes aut insaniae plenas vigilias habentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:24</verseNum>
+      </reference>
+      <l>neque vitam neque nuptias mundas iam custodiunt sed alius alium per invidiam occidit aut adulterans contristat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.025">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:25</verseNum>
+      </reference>
+      <l>et omnia commixta sunt sanguis homicidium furtum et fictio corruptio infidelitas turbatio et periurium tumultus bonorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.026">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:26</verseNum>
+      </reference>
+      <l>Domini inmemoratio animarum inquinatio nativitatis inmutatio nuptiarum inconstantia moechiae et inpudicitia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.027">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:27</verseNum>
+      </reference>
+      <l>infandorum enim idolorum cultura omnis mali causa est et initium et finis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.028">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:28</verseNum>
+      </reference>
+      <l>aut enim dum laetantur insaniunt aut vaticinantur falsa aut vivunt iniuste aut periurant cito</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.029">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:29</verseNum>
+      </reference>
+      <l>dum enim confidunt in idolis quae sunt sine anima male iurantes renoceri se non sperant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.030">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:30</verseNum>
+      </reference>
+      <l>utraque ergo illis evenient digne quoniam male senserunt de Deo adtendentes idolis et iniuste iuraverunt in dolo contemnentes iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.014.031">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>14:31</verseNum>
+      </reference>
+      <l>non enim iurantium est virtus sed peccantium poena perambulat semper in iniustorum praevaricationem</l>
+    </verse>
+  </chapter>
+  <chapter num="15">
+    <verse type="bible-verse" id="B.Wisdom.015.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:1</verseNum>
+      </reference>
+      <l>tu autem Deus noster suavis et verus es patiens et misericordia disponens omnia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:2</verseNum>
+      </reference>
+      <l>etenim si peccaverimus tui sumus scientes magnitudinem tuam et si non peccaverimus scimus quoniam apud te sumus conputati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:3</verseNum>
+      </reference>
+      <l>nosse enim te consummata iustitia est et scire iustitiam et virtutem tuam radix est inmortalitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:4</verseNum>
+      </reference>
+      <l>non enim in errorem induxit nos hominum malae artis excogitatio nec umbra picturae labor sine fructu effigies sculpta per varios colores</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:5</verseNum>
+      </reference>
+      <l>cuius aspectus insensato dat concupiscentiam et diligit mortuae imaginis effigiem sine anima</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:6</verseNum>
+      </reference>
+      <l>malorum amatores digni qui spem in talibus habent et qui faciunt illos et qui diligunt et qui colunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:7</verseNum>
+      </reference>
+      <l>sed et figulus mollem terram premens laboriose fingit ad usus nostros unumquodque vas et de eodem luto fingit quae munda sunt in usum vasa similiter et quae his sunt contraria horum autem vasorum qui sit usus iudex est figulus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:8</verseNum>
+      </reference>
+      <l>et cum labore vanum deum de eodem fingit luto ille qui paulo ante de terra factus fuerat et post pusillum se ducit unde acceptus est repetitus debitum animae quem habebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:9</verseNum>
+      </reference>
+      <l>sed est illi cura non quia laboraturus est nec quoniam brevis illi vita est sed concertatur aurificibus et argentariis sed et aerarios imitatur et gloriam praefert quoniam res supervacuas fingit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:10</verseNum>
+      </reference>
+      <l>cinis est cor eius et terra supervacua spes illius et luto vilior vita illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:11</verseNum>
+      </reference>
+      <l>quoniam ignoravit qui se finxit et qui inspiravit illi animam quae operatur et qui insuflavit spiritum vitalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:12</verseNum>
+      </reference>
+      <l>sed aestimaverunt ludum esse vitam nostram et conversationem vitae conpositam ad lucrum et oportere undecumque etiam ex malo adquirere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:13</verseNum>
+      </reference>
+      <l>hic enim super omnes scit se delinquere qui ex terrae materia fragilia vasa et sculptilia fingit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:14</verseNum>
+      </reference>
+      <l>omnes enim insipientes et infelices supra modum animae superbi sunt inimici populi tui et imperantes illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:15</verseNum>
+      </reference>
+      <l>quoniam omnia idola nationum aestimaverunt deos quibus neque oculorum visus est ad videndum neque nares ad percipiendum spiritum neque aures ad audiendum nec digiti manuum ad tractandum sed et pedes eorum pigri ad ambulandum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:16</verseNum>
+      </reference>
+      <l>homo enim fecit illos et qui spiritum mutuatus est is finxit illos nemo enim sibi similem homo poterit deum fingere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:17</verseNum>
+      </reference>
+      <l>cum sit enim mortalis mortuum fingit manibus iniquis melior est enim ipse his quos colit quia ipse quidem vixit cum esset mortalis illi autem numquam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:18</verseNum>
+      </reference>
+      <l>sed et animalia miserrima colunt insensate enim conparata his aliis sunt deteriora</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.015.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>15:19</verseNum>
+      </reference>
+      <l>sed nec aspectu aliquis ex his animalibus bona potest conspicere effugit autem Dei laudem et benedictionem eius</l>
+    </verse>
+  </chapter>
+  <chapter num="16">
+    <verse type="bible-verse" id="B.Wisdom.016.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:1</verseNum>
+      </reference>
+      <l>propter hoc per his similia passi sunt digne tormenta et per multitudinem bestiarum exterminati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:2</verseNum>
+      </reference>
+      <l>pro quibus tormentis bene disposuisti populum tuum quibus dedisti concupiscentiam delectamenti sui novum saporem escam parans eis ortygometram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:3</verseNum>
+      </reference>
+      <l>ut illi quidem concupiscentes escam propter ea quae illis ostensa et missa sunt etiam a necessaria concupiscentia averterentur hi autem in brevi inopes facti novam gustaverunt escam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:4</verseNum>
+      </reference>
+      <l>oportebat enim illis quidem sine excusatione supervenire interitum exercentibus tyrannidem his autem tantum ostendere quemadmodum inimici illorum exterminabantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:5</verseNum>
+      </reference>
+      <l>etenim cum supervenit illis saeva bestiarum ira morsibus perversarum colubrarum exterminabantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:6</verseNum>
+      </reference>
+      <l>non in perpetuum permansit ira tua sed ad correptionem in brevi turbati sunt signum habentes salutis ad commemorationem mandati legis tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:7</verseNum>
+      </reference>
+      <l>qui enim conversus est non per hoc quod videbat sanabatur sed per te omnium salvatorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:8</verseNum>
+      </reference>
+      <l>et in hoc autem ostendisti inimicis nostris quia tu es qui liberas ab omni malo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:9</verseNum>
+      </reference>
+      <l>illos enim lucustarum et muscarum occiderunt morsus et non est inventa sanitas animae illorum quia digni erant ab huiusmodi exterminari</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:10</verseNum>
+      </reference>
+      <l>filios autem tuos nec draconum venenatorum vicerunt dentes misericordia enim tua adveniens sanabat illos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:11</verseNum>
+      </reference>
+      <l>in memoria enim sermonum tuorum examinabantur et salvabantur ne in altam incidentes oblivionem non possent tuo uti adiutorio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:12</verseNum>
+      </reference>
+      <l>etenim neque herba neque malagma sanavit illos sed tuus Domine sermo qui sanat omnia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:13</verseNum>
+      </reference>
+      <l>tu enim vitae et mortis habes potestatem et deducis ad portas mortis et reducis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:14</verseNum>
+      </reference>
+      <l>homo autem occidit quidem per malitiam animam suam et cum exibit spiritus non revertetur nec revocabit animam quae recepta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:15</verseNum>
+      </reference>
+      <l>sed tuam manum effugere inpossibile est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:16</verseNum>
+      </reference>
+      <l>negantes enim nosse te impii per fortitudinem brachii tui flagellati sunt novis aquis et grandinibus et pluviis persecutionem passi et per ignem consummati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:17</verseNum>
+      </reference>
+      <l>quod enim mirabile erat in aqua quae omnia extinguit plus ignis valebat vindex est enim orbis iustorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:18</verseNum>
+      </reference>
+      <l>quodam enim tempore mansuetabatur ignis ne conburerentur quae ad impios missa erant animalia sed ut ipsi videntes scirent quoniam Dei iudicio patiuntur persecutionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:19</verseNum>
+      </reference>
+      <l>et quodam tempore in aqua super virtutem ignis ardebat ut iniquae terrae nationem exterminaret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:20</verseNum>
+      </reference>
+      <l>pro quibus angelorum esca nutristi populum tuum et paratum panem e caelo praestitisti illis sine labore omne delectamentum in se habentem et omnis saporis suavitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:21</verseNum>
+      </reference>
+      <l>substantia enim tua dulcedinem tuam quam in filios habes ostendebat et serviens uniuscuiusque voluntati ad quod quis volebat convertebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:22</verseNum>
+      </reference>
+      <l>nix autem et glacies sustinebant vim ignis et non tabescebant ut scirent quoniam fructus inimicorum exterminabat ignis ardens in grandine et pluvia coruscans</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:23</verseNum>
+      </reference>
+      <l>hoc autem iterum ut nutrirentur iusti etiam suae virtutis oblitus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:24</verseNum>
+      </reference>
+      <l>creatura enim tibi factori deserviens excandescit in tormentum adversus iniustos et lenior fit ad benefaciendum pro his qui in te confidunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.025">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:25</verseNum>
+      </reference>
+      <l>propter hoc et tunc in omnia transfigurata omnium nutrici gratiae tuae deserviebant ad voluntatem horum qui a te desiderati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.026">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:26</verseNum>
+      </reference>
+      <l>ut scirent filii tui quos dilexisti Domine quoniam non nativitatis fructus pascunt homines sed sermo tuus hos qui in te crediderint conservat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.027">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:27</verseNum>
+      </reference>
+      <l>quod enim ab igni non poterat exterminari statim ab exiguo radio solis calefactum tabescebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.028">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:28</verseNum>
+      </reference>
+      <l>ut notum omnibus esset quoniam oportet praevenire solem ad benedictionem tuam et ad orientem lucis tibi adorare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.016.029">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>16:29</verseNum>
+      </reference>
+      <l>ingrati enim fides tamquam hibernalis glacies tabescit et disperiet tamquam aqua supervacua</l>
+    </verse>
+  </chapter>
+  <chapter num="17">
+    <verse type="bible-verse" id="B.Wisdom.017.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:1</verseNum>
+      </reference>
+      <l>magna enim sunt iudicia tua et inenarrabilia verba tua propter hoc indisciplinatae animae erraverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:2</verseNum>
+      </reference>
+      <l>dum enim persuasum habent iniqui posse dominari nationi sanctae vinculis tenebrarum et longae noctis conpediti inclusi sub tectis fugitivi perpetuae providentiae iacuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:3</verseNum>
+      </reference>
+      <l>et dum putant se latere in obscuris peccatis tenebroso oblivionis velamento dispersi sunt paventes horrende et cum admiratione nimia perturbati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:4</verseNum>
+      </reference>
+      <l>neque enim quae continebat illos spelunca sine timore custodiebat quoniam sonitus descendens perturbabat illos et personae tristes apparentes pavorem illis praestabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:5</verseNum>
+      </reference>
+      <l>et ignis quidem nulla vis poterat illis lumen praebere nec siderum limpidae flammae inluminare poterant illam noctem horrendam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:6</verseNum>
+      </reference>
+      <l>apparebat autem illis subitaneus ignis timore plenus et timore percussi illius quae non videbatur faciei aestimabant deteriora esse quae videbantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:7</verseNum>
+      </reference>
+      <l>et magicae artis adpositi erant derisus et sapientiae gloriae correptio cum contumelia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:8</verseNum>
+      </reference>
+      <l>illi enim qui promittebant timores turbationes expellere se ab anima languente hi cum derisu pleni timore languebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:9</verseNum>
+      </reference>
+      <l>nam et si nihil illos ex monstris perturbabat transitu animalium et serpentium sibilatione commoti tremebundi peribant et aerem quem nulla ratione quis effugere posset negantes se videre</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:10</verseNum>
+      </reference>
+      <l>cum sit enim timida nequitia dat testimonium condemnata semper enim praesumit saeva conturbata conscientia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:11</verseNum>
+      </reference>
+      <l>nihil enim est timor nisi praesumptionis adiutorium proditio cogitationis auxiliorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:12</verseNum>
+      </reference>
+      <l>et dum ab intro minor est expectatio maiorem putat scientiam eius causae de qua tormentum praestat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:13</verseNum>
+      </reference>
+      <l>illi autem qui inpotentem vere noctem et ab infimis et ab altissimis inferis supervenientem eundem somnum dormientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:14</verseNum>
+      </reference>
+      <l>aliquando monstrorum exagitabantur timore aliquando animae deficiebant traductione subitaneus enim illis et insperatus timor supervenerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:15</verseNum>
+      </reference>
+      <l>deinde si quicumque ex illis decidisset custodiebatur in carcere sine ferro reclusus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:16</verseNum>
+      </reference>
+      <l>si enim rusticus quis erat aut pastor aut agri laborum operarius praeoccupatus esset ineffugibilem sustinebat necessitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:17</verseNum>
+      </reference>
+      <l>una enim catena tenebrarum omnes erant conligati sive spiritus sibilans aut inter spissos ramos avium sonus suavis aut vis aquae decurrentis nimium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:18</verseNum>
+      </reference>
+      <l>aut sonus validus praecipitarum petrarum aut ludentium animalium cursus invisus aut mugientium valida bestiarum vox aut resonans de altissimis montibus echo deficientes faciebat illos prae timore</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:19</verseNum>
+      </reference>
+      <l>omnis enim orbis terrarum limpido luminabatur lumine et non inpeditis operibus continebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.017.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>17:20</verseNum>
+      </reference>
+      <l>solis autem illis superposita erat gravis nox imago tenebrarum quae superventura illis erat ipsi ergo sibi erant graviores tenebris</l>
+    </verse>
+  </chapter>
+  <chapter num="18">
+    <verse type="bible-verse" id="B.Wisdom.018.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:1</verseNum>
+      </reference>
+      <l>sanctis autem tuis maxima erat lux et horum quidem vocem audiebant sed figuram non videbant et quia non et ipsi per eadem passi erant magnificabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:2</verseNum>
+      </reference>
+      <l>et qui ante laesi erant quoniam non laedebantur gratias agebant et ut esset differentia donum petebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:3</verseNum>
+      </reference>
+      <l>propter quod igni ardentem columnam ducem habuerunt ignotae viae et solem sine laesura boni hospitii praestitisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:4</verseNum>
+      </reference>
+      <l>digni quidem illi carere luce et pati carcerem tenebrarum qui inclusos custodiebant filios tuos per quos incipiebat incorruptum legis lumen saeculo dari</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:5</verseNum>
+      </reference>
+      <l>cum cogitarent iustorum occidere infantes et uno exposito filio et liberato in traductionem illorum multitudinem filiorum abstulisti et pariter illos perdidisti in aquam validam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:6</verseNum>
+      </reference>
+      <l>illa nox ante cognita est a parentibus nostris ut vere scientes quibus iuramentis crediderunt animaequiores essent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:7</verseNum>
+      </reference>
+      <l>suscepta est autem a populo tuo sanitas quidem iustorum iniustorum autem exterminatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:8</verseNum>
+      </reference>
+      <l>sicut enim laesisti adversarios sic nos provocans magnificasti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:9</verseNum>
+      </reference>
+      <l>absconse enim sacrificabant iusti pueri bonorum et iustitiae legem in concordia disposuerunt similiter bona et mala percepturos iustos patri iam decantantes laudes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:10</verseNum>
+      </reference>
+      <l>resonabat autem inconveniens inimicorum vox et flebilis audiebatur planctus ploratorum infantium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:11</verseNum>
+      </reference>
+      <l>simili autem poena servus cum domino adflictus et popularis homo regi similia passus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:12</verseNum>
+      </reference>
+      <l>similiter ergo omnes uno nomine mortis mortuos habebant innumerabiles nec enim ad sepeliendum vivi sufficiebant quoniam uno momento quae erat praeclarior natio illorum exterminata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:13</verseNum>
+      </reference>
+      <l>de omnibus enim non credentes propter veneficia tunc cum fuit exterminium primogenitorum spoponderunt populum Dei se esse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:14</verseNum>
+      </reference>
+      <l>cum enim quietum silentium contineret omnia et nox in suo cursu medium iter haberet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:15</verseNum>
+      </reference>
+      <l>omnipotens sermo tuus de caelo a regalibus sedibus durus debellator in mediam exterminii terram prosilivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:16</verseNum>
+      </reference>
+      <l>gladius acutus insimulatum imperium tuum portans et stans replevit omnia morte et usque ad caelum adtingebat stans in terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:17</verseNum>
+      </reference>
+      <l>tum continuo visus somniorum malorum turbaverunt illos et timores supervenerunt insperati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:18</verseNum>
+      </reference>
+      <l>et alius alibi proiectus semivivus propter quam moriebatur causam demonstrabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:19</verseNum>
+      </reference>
+      <l>visiones enim quae illos turbaverunt haec praemonebant ne inscii quare mala patiebantur perirent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:20</verseNum>
+      </reference>
+      <l>tetigit autem tunc et iustos temptatio mortis et commotio in heremo facta est multitudinis sed non diu permansit ira</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.021">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:21</verseNum>
+      </reference>
+      <l>properans enim homo sine querella propugnavit proferens servitutis suae scutum orationem et per incensum deprecationem allegans restitit irae et finem inposuit necessitati ostendens quoniam tuus est famulus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.022">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:22</verseNum>
+      </reference>
+      <l>vicit autem turbas non virtute corporis nec armatura potentiae sed verbo vexatorem subiecit iuramenta parentum et testamentum commemorans</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.023">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:23</verseNum>
+      </reference>
+      <l>cum enim iam acervatim cecidissent super alterutrum mortui interstetit et amputavit impetum et divisit illam quae ad vivos ducebat viam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.024">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:24</verseNum>
+      </reference>
+      <l>in veste enim poderis quam habebat totus erat orbis terrarum et parentum magnalia in quattuor ordinibus lapidum erant sculpta et magnificentia tua in diademate capitis illius erat scripta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.018.025">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>18:25</verseNum>
+      </reference>
+      <l>haec autem his cessit qui exterminabat et haec extimuit erat enim sola temptatio irae sufficiens</l>
+    </verse>
+  </chapter>
+  <chapter num="19">
+    <verse type="bible-verse" id="B.Wisdom.019.001">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:1</verseNum>
+      </reference>
+      <l>impiis autem usque in novissimum sine misericordia ira supervenit praesciebat enim et futura illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.002">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:2</verseNum>
+      </reference>
+      <l>quoniam ipsi cum reversi essent ut se ducerent et cum magna sollicitudine praemisissent illos consequebantur illos paenitentia acti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.003">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:3</verseNum>
+      </reference>
+      <l>adhuc enim inter manus habentes luctus et deplorantes ad monumenta mortuorum aliam sibi adsumpserunt cogitationem inscientiae et quos rogantes proiecerunt hos tamquam fugitivos persequebantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.004">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:4</verseNum>
+      </reference>
+      <l>ducebat enim illos ad hunc finem digna necessitas et horum quae acciderant memorationem amittebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.005">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:5</verseNum>
+      </reference>
+      <l>ut eam quae deerat tormentis replerent punitionem et populus quidem tuus mirabiliter transiret illi autem novam mortem invenirent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.006">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:6</verseNum>
+      </reference>
+      <l>omnis enim creatura ad suum genus ab initio refigurabatur deserviens tuis praeceptis ut pueri tui custodirentur inlaesi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.007">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:7</verseNum>
+      </reference>
+      <l>nam nubis castra eorum adumbrabat et ex aqua quae ante erat terra arida apparuit et ex mari Rubro via sine inpedimento et campus germinans de profundo nimio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.008">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:8</verseNum>
+      </reference>
+      <l>per quem omnis natio transivit quae tegebatur tua manu videntes mirabilia monstra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.009">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:9</verseNum>
+      </reference>
+      <l>tamquam equi enim depaverunt et tamquam agni exultaverunt magnificantes te Domine qui liberasti illos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.010">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:10</verseNum>
+      </reference>
+      <l>memores enim erant adhuc eorum quae in incolatu illorum facta fuerant quemadmodum pro natione animalium eduxit terra muscas et pro piscibus eructavit fluvius multitudinem ranarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.011">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:11</verseNum>
+      </reference>
+      <l>novissime autem viderunt novam creaturam avium cum abducti concupiscentia postulaverunt escam epulationis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.012">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:12</verseNum>
+      </reference>
+      <l>in adlocutione enim desiderii ascendit illis de mari ortygometra et vexationes peccatoribus supervenerunt non sine illis quae ante facta erant argumentis per vim fluminum iuste enim patiebantur secundum suas nequitias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.013">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:13</verseNum>
+      </reference>
+      <l>etenim detestabiliorem inhospitalitatem instituerunt alii quidem ignotos non recipiebant advenas alii autem bonos hospites in servitutem accipiebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.014">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:14</verseNum>
+      </reference>
+      <l>et non solum hoc sed et alius quis respectus erit illorum quoniam inviti recipiebant extraneos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.015">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:15</verseNum>
+      </reference>
+      <l>qui autem cum laetitia receperunt hos qui eisdem usi erant iustitiis saevissimis adflixerunt doloribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.016">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:16</verseNum>
+      </reference>
+      <l>percussi sunt autem caecitate sicut illi in foribus iusti cum subitaneis cooperti essent tenebris unusquisque ostii sui transitum quaerebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.017">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:17</verseNum>
+      </reference>
+      <l>in se enim elementa dum convertuntur sicut in organo qualitatis sonus inmutatur et omnia suum sonum custodiunt unde est aestimare et ex ipso certo visu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.018">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:18</verseNum>
+      </reference>
+      <l>agrestia enim in aquatica convertebantur et quaecumque erant natantia in terram transiebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.019">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:19</verseNum>
+      </reference>
+      <l>ignis in aqua valebat supra suam virtutem et aqua extinguentis naturae obliviscebatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Wisdom.019.020">
+      <reference>
+        <bookName>Wisdom</bookName>
+        <verseNum>19:20</verseNum>
+      </reference>
+      <l>flammae e contrario corruptibilium animalium non vexaverunt carnes coambulantium nec dissolvebant illam quae facile dissolvitur sicut glacies bonam escam in omnibus enim Domine magnificasti populum tuum et honorasti et non despexisti in omni tempore et in omni loco adsistens eis</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Wisdom.colophon.001">
+    <reference>
+      <bookName>Wisdom</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT LIBER SAPIENTIAE SOLOMONIS</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

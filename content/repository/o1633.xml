@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1632" nextid="o1634" id="o1633">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="05011000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.93</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Hyd">Deus cuius unigenitus in substantia nostrae carnis apparuit praesta quaesumus ut per eum quem similem nobis foras agnovimus intus reformari mereamur</pBody>
+</prayer>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2781" nextid="c2783" id="c2782">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Exemplum merear fieri
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S CAO-L"> Laurentii beatissimi martyris</rdg>
+         <rdg wit="CAO-B CAO-E CAO-M"> consortium beatorum martyrum</rdg>
+         <rdg wit="CAO-H CAO-R"> consortii beatorum martyrum</rdg>
+      </app>
+   </aBody>
+</ant>

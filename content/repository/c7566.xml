@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7565" nextid="c7567" id="c7566">
+   <header>
+      <usage ms="Alb2" code="07061000">[104r] matins-n1-r4</usage>
+      <usage ms="Bat" code="07061000">[62v] matins-n1-r4</usage>
+      <usage ms="Cdm" code="07061000">[74r] matins-r4</usage>
+      <usage ms="Cht" code="07061000">[53r] matins-n1-r4</usage>
+      <usage ms="Ely" code="07061000">[85r] matins-n2-r5</usage>
+      <usage ms="Evm" code="07061000">[141v] matins-n1-r4</usage>
+      <usage ms="Hyd" code="07061000">[91r] matins-n3-r10</usage>
+      <usage ms="Mch" code="07061000">[152v] matins-n2-r5</usage>
+      <usage ms="Pet" code="07061000">[84r] matins-n1-r4</usage>
+      <usage ms="Wcb" code="07061000">[111v] matins-n1-r4</usage>
+      <usage ms="Wor" code="07061000">[55v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Salvum me fac deus quoniam intraverunt aquae usque ad animam meam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S Ely Wcb Alb2 Bat"> ne avertas faciem tuam a me</rdg>
+         <rdg wit="CAO-E CAO-M CAO-F Wor Cht Hyd Pet Evm Cdm Mch">non avertas faciem tuam a me</rdg>
+      </app> quoniam tribulor exaudi me deus meus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">Intende animae meae et libera eam propter inimicos meos
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch Bat"> eripe me</rdg>
+            <rdg wit="Alb2"> eripe me domine</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Bat">Quoniam</rep>
+      <rep type="r" wit="Mch">Deus</rep>
+      <rep type="r" wit="CAO-F">Non avertas</rep>
+      <rep type="r" num="2" wit="Evm Alb2">Salvum</rep>
+   </verses>
+</res>

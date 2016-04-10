@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5270" nextid="c5272" id="c5271">
+   <header>
+      <usage ms="Hyd" code="08016000">[104v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Undecim discipuli in Galilaea</rdg>
+         <rdg wit="Hyd"> Undecim discipuli ibant in Galilaea</rdg>
+      </app> videntes dominum adoraverunt alleluia</aBody>
+</ant>

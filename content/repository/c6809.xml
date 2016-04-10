@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6808" nextid="c6810" id="c6809">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Haec est virgo sapiens
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> quam</rdg>
+         <rdg wit="CAO-C CAO-S"> quem</rdg>
+      </app> dominus vigilantem invenit
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> quae</rdg>
+         <rdg wit="CAO-V"> quem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> acceptis lampadibus</rdg>
+         <rdg wit="CAO-C"> accipiens lampadibus</rdg>
+         <rdg wit="CAO-D"> accepta lampada</rdg>
+      </app> sumpsit secum
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> oleum</rdg>
+         <rdg wit="CAO-V"> oleo</rdg>
+      </app> et veniente domino
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> introivit</rdg>
+         <rdg wit="CAO-S"> introibit</rdg>
+      </app> cum eo
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ad nuptias</rdg>
+         <rdg wit="CAO-E CAO-V"> ad nuptiis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Media autem nocte clamor factus est ecce sponsus venit exite obviam ei</vBody>
+      <vBody type="r" wit="CAO-L"> Ante armatos reges et praesides stetit feriente robustior iudicante sublimior</vBody>
+      <vBody type="r" wit="CAO-D"> Inventa bona margarita dedit omnia sua et comparavit eam</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Et veniente</rep>
+   </verses>
+</res>

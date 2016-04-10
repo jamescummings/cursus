@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1657" nextid="o1659" id="o1658">
+   <header>
+      <usage ms="Alb2" code="02122500">[29r] matins-n3</usage>
+      <usage ms="Bat" code="02122500">[17v] matins-n3</usage>
+      <usage ms="Cdm" code="02122500">[23r] matins-n3</usage>
+      <usage ms="Ely" code="02122500">[20v] matins-n3</usage>
+      <usage ms="Evm" code="02122500">[37r] matins-n3</usage>
+      <usage ms="Hyd" code="02122500"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.36</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Bat Cdm Ely"> Deus qui hanc sacratissimam noctem veri luminis fecisti illustratione clarescere da quaesumus ut cuius lucis mysteria in terra cognovimus eius quoque gaudiis in caelo perfruamur</pBody>
+</prayer>

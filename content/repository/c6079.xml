@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6078" nextid="c6080" id="c6079">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Alleluia sola tenes principatum in conspectu domini propterea revertere in thesauros tuos te benedicent angeli quia placuisti domino alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Angelus domini
+      <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F CAO-S"> bonus</rdg>
+            <rdg wit="CAO-D"> bonis</rdg>
+         </app> comitetur tecum et bene
+      <app>
+            <rdg wit="CAO-E CAO-V CAO-D CAO-F CAO-S"> disponat</rdg>
+            <rdg wit="CAO-C CAO-M"> disponet</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-D CAO-F"> iter tuum</rdg>
+            <rdg wit="CAO-V CAO-S"> itinera tua</rdg>
+            <rdg wit="CAO-C"> itinere tuo</rdg>
+            <rdg wit="CAO-M"> itineri tuo</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G"> Speciosa facta es et suavis in deliciis tuis</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-V CAO-S">Quia</rep>
+      <rep type="r" wit="CAO-M CAO-D CAO-F">Te benedicent</rep>
+   </verses>
+</res>

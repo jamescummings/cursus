@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2379" nextid="c2381" id="c2380">
+   <header>
+      <usage ms="Alb2" code="05051000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Alb2">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Alb2"> Domine salva nos perimus impera</rdg>
+         <rdg wit="CAO-M"> Domine salva nos perimus et impera</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F Alb2"> et fac deus tranquillitatem</rdg>
+         <rdg wit="CAO-H CAO-R"> et fac deus tranquillitatem magnam</rdg>
+         <rdg wit="CAO-L"> et fac nobis tranquillitatem magnam</rdg>
+      </app>
+   </aBody>
+</ant>

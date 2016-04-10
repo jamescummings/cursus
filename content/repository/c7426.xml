@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7425" nextid="c7427" id="c7426">
+   <rBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">Praesul amande deum precibus placere tonantem</l>
+         <l part="N">Protege clare tuos policis coniunge supernis</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <verse type="stanza">
+            <l part="N">Aufer ab incursu celebrant qui festa sacrata</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-L"> Protege</rep>
+   </verses>
+</res>

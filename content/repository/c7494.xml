@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7493" nextid="c7495" id="c7494">
+   <rBody wit="CAO-H CAO-R"> Quidam mendicus qui inter ceteras infirmitatis molestias incessu pedum carebat ut viri dei caligas cum calceamentis induit per omnes artuum compages solutus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R">Et exsiliens gratias egit deo ac beato Gallo ob cuius
+      <app>
+            <rdg wit="CAO-R"> merita</rdg>
+            <rdg wit="CAO-H"> meritum</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-H CAO-R">Per omnes</rep>
+   </verses>
+</res>

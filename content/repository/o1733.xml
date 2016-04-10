@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1732" nextid="o1734" id="o1733">
+   <header>
+      <usage ms="Hyd" code="01000000">[4v] </usage>
+      <usage ms="Mch" code="01031000">[12v] nones</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Mch"> Deus qui conspicis quia in tua pietate confidimus concede propitius ut de caelesti visitatione gaudeamus</pBody>
+</prayer>

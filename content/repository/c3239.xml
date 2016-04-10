@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3238" nextid="c3240" id="c3239">
+   <aBody wit="CAO-C CAO-H CAO-F CAO-L"> In hoc cognoscent omnes quia mei estis discipuli si dilectionem habueritis
+     <app>
+         <rdg wit="CAO-F CAO-L"> ad invicem</rdg>
+         <rdg wit="CAO-C CAO-H"> in invicem</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-F"> Pacem meam do vobis</vBody>
+   </verses>
+</ant>

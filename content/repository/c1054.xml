@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1053" nextid="c1055" id="c1054">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Alb2" code="02010608"/>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Christus apparuit nobis venite adoremus</aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9518" nextid="c9520" id="c9519">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+   </header>
+   <rBody wit="Hyd">Fontes aquarum sanctificati sunt apparente domino Christo in gloria dei patris</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Descendit spiritus sanctus corporali specie sicut columba in eum et vox de caelis facta est</vBody>
+      <rep type="r" wit="Hyd">In gloria dei</rep>
+   </verses>
+</res>

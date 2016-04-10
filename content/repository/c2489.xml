@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2488" nextid="c2490" id="c2489">
+   <header>
+      <usage ms="Bat" code="02010400">[28r] vesp1 gosp</usage>
+      <usage ms="Pet" code="02122508">[19v] </usage>
+      <usage ms="Wcb" code="02122500">[57r] lauds-a7</usage>
+      <usage ms="Wor" code="02122800">[23v] commemoration</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.142</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-L Wcb Bat Wor Pet">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-L Wcb Bat Wor Pet"> Ecce advenit dominator deus</rdg>
+         <rdg wit="CAO-C"> Ecce advenit dominator dominus</rdg>
+      </app> et regnum in manu eius et potestas
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-L Wcb Bat Wor Pet"> et imperium in aeternum alleluia</rdg>
+         <rdg wit="CAO-C"> et imperium alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

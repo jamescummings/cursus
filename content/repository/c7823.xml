@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7822" nextid="c7824" id="c7823">
+   <header>
+      <usage ms="Alb2" code="01011000">[4v] lauds</usage>
+      <usage ms="Bat" code="01011000">[4r] lauds</usage>
+      <usage ms="Cdm" code="01011000">[10v] vesp2</usage>
+      <usage ms="Ely" code="01011000">[5r] vesp2</usage>
+      <usage ms="Evm" code="01011000">[8r] vesp2</usage>
+      <usage ms="Glo" code="01011000">[8r] vesp2</usage>
+      <usage ms="Glo" code="01012000">[11v] vesp2</usage>
+      <usage ms="Glo" code="01021000">[13r] vesp2</usage>
+      <usage ms="Hyd" code="01011000">[4r] vesp2</usage>
+      <usage ms="Mch" code="01011000">[4v] lauds</usage>
+      <usage ms="Wor" code="01011000">[3v] lauds</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Glo Bat"> Veni ad liberandum nos domine deus virtutum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Glo Bat">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Bat"> Et ostende faciem tuam</rdg>
+            <rdg wit="CAO-V Glo"> Ostende faciem tuam</rdg>
+         </app> et salvi erimus</vBody>
+      <dox type="r" wit="Alb2 Evm Wor Glo">Gloria</dox>
+      <rep type="r" wit="CAO-G CAO-B CAO-V CAO-S"> Domine</rep>
+   </verses>
+</res>

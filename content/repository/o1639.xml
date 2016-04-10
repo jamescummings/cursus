@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1638" nextid="o1640" id="o1639">
+   <header>
+      <usage ms="Alb2" code="07032000"/>
+      <usage ms="Bat" code="07032000">[55r] lauds</usage>
+      <usage ms="Cdm" code="07032000">[65v] lauds</usage>
+      <usage ms="Mch" code="07032000">[133r] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.232</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="Alb2 Cdm">Cordibus nostris quaesumus domine gratiam tuam</rdg>
+         <rdg wit="Bat">Cordibus nostris quaesumus domine</rdg>
+         <rdg wit="Mch">Gratiam tuam cordibus nostris quaesumus domine</rdg>
+      </app> benignus infunde ut sicut ab escis corporalibus abstinemus<app>
+         <rdg wit="Alb2 Mch"> ita sensus quoque nostros</rdg>
+         <rdg wit="Bat"> ita quoque sensus nostros</rdg>
+         <rdg wit="Cdm"> itaque sensus nostros</rdg>
+      </app> a noxiis retrahamus excessibus</pBody>
+</prayer>

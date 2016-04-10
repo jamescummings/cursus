@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4150" nextid="c4152" id="c4151">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-D CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-D CAO-S CAO-L"> Omnis qui petit accipit</rdg>
+         <rdg wit="CAO-C CAO-B"> Omnis enim qui petit accipit</rdg>
+      </app> et qui quaerit invenit
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-S"> pulsanti aperietur alleluia</rdg>
+         <rdg wit="CAO-B"> et pulsanti aperietur alleluia</rdg>
+         <rdg wit="CAO-E CAO-L"> pulsanti aperietur</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-C" num="2"> Omnis qui petit accipit et qui quaerit invenit pulsanti aperitur</aBody>
+</ant>

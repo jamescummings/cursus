@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7689" nextid="c7690b" id="c7690">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-G CAO-V CAO-R CAO-F CAO-S Hyd"> Spiritus domini replevit orbem terrarum et hoc quod continet omnia
+     <app>
+         <rdg wit="CAO-G CAO-R CAO-F CAO-S Hyd"> scientiam</rdg>
+         <rdg wit="CAO-V"> scientia</rdg>
+      </app> habet vocis alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-R CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-F CAO-S Hyd"> Omnium est enim artifex</rdg>
+            <rdg wit="CAO-R"> Omnium enim est artifex</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-F CAO-S Hyd"> omnem habens virtutem</rdg>
+            <rdg wit="CAO-R"> omnem habet virtutem</rdg>
+         </app> omnia prospiciens</vBody>
+      <vBody type="r" wit="CAO-V"> Spiritus enim omnia scrutatur etiam profunda dei</vBody>
+      <rep type="r" wit="CAO-G CAO-V CAO-R CAO-F CAO-S Hyd">Et hoc</rep>
+   </verses>
+</res>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5125" nextid="c5127" id="c5126">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd"> Te unum in substantia</rdg>
+         <rdg wit="CAO-M"> Te unum in substantis</rdg>
+         <rdg wit="CAO-F"> Te unum in substantiam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-F CAO-S CAO-L Hyd"> trinitatem in personis confitemur</rdg>
+         <rdg wit="CAO-G"> trinitate in personis confitemur</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> trinum in personis confitemur</rdg>
+         <rdg wit="CAO-E"> trinitatem in personis profitemur</rdg>
+         <rdg wit="CAO-D"> trinitatem in personis confiteri</rdg>
+      </app>
+   </aBody>
+</ant>

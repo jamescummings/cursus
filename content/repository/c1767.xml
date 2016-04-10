@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1766" nextid="c1768" id="c1767">
+   <header>
+      <usage ms="Alb2" code="07066000">[110v] matins-n3-a9</usage>
+      <usage ms="Cdm" code="07066000">[79r] matins-n3</usage>
+      <usage ms="Cht" code="07066000">[63r] matins-n3</usage>
+      <usage ms="Ely" code="07066000">[90r] matins-n3</usage>
+      <usage ms="Evm" code="07066000">[151v] matins-n3</usage>
+      <usage ms="Hyd" code="07066000">[96v] matins-n3</usage>
+      <usage ms="Mch" code="07066000">[161v] matins-n3-a9</usage>
+      <usage ms="Pet" code="07066000">[92v] matins-n3</usage>
+      <usage ms="Wor" code="07066000">[61v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-D CAO-L Hyd Pet Evm Wcb Alb2"> Captabunt in animam iusti</rdg>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-F CAO-S Ely Wor Cht Cdm Mch"> Captabant in animam iusti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> et sanguinem innocentem condemnabunt</rdg>
+         <rdg wit="CAO-B Cht"> et sanguinem innocentem condemnabant</rdg>
+      </app>
+   </aBody>
+</ant>

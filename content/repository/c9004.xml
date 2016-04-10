@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9003" nextid="c9005" id="c9004">
+   <header>
+      <usage ms="Alb2" code="06021000">[68r] matins-n2-r7</usage>
+      <usage ms="Bat" code="06021000">[44r] matins-n2-r7</usage>
+      <usage ms="Cdm" code="06021000">[51v] matins-n2-r7</usage>
+      <usage ms="Ely" code="06021000">[61v] matins-n2-r7</usage>
+      <usage ms="Hyd" code="06021000">[63v] matins-n2-r6</usage>
+      <usage ms="Mch" code="06021000">[103v] matins-n2-r7</usage>
+      <usage ms="Pet" code="06021000">[58v] matins-n2-r7</usage>
+      <usage ms="Wcb" code="06021000">[87v] matins-n2-r8</usage>
+      <usage ms="Wor" code="06021000">[38v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch"> Requievit archa mense septimo super montes Armeniae et aquae ibant et decrescebant usque ad decimum mensem</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch">
+         <app>
+            <rdg wit="Hyd Alb2 Wor Ely Wcb Cdm Bat Mch">Decimo enim mense primo die mensis</rdg>
+            <rdg wit="Pet">Decimo autem mense prima die mensis</rdg>
+         </app> cacumina montium apparuerunt</vBody>
+      <rep type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch">Et aquae</rep>
+   </verses>
+</res>

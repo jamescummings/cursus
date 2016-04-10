@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7663" nextid="c7665" id="c7664">
+   <rBody wit="CAO-E CAO-V">
+      <app>
+         <rdg wit="CAO-E"> Signata est in thesauris meis</rdg>
+         <rdg wit="CAO-V"> Signata es in thesauris dei</rdg>
+      </app> alleluia dicit dominus in illa die cum surrexero restituam vobis
+     <app>
+         <rdg wit="CAO-E"> alleluia</rdg>
+         <rdg wit="CAO-V"> alleluia alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> Sola namque tenens principatum in conspectu domini propterea revertere in thesauros tuos</vBody>
+      <vBody type="r" wit="CAO-V"> Sola namque</vBody>
+      <rep type="r" wit="CAO-E">In illa</rep>
+      <rep type="r" wit="CAO-V">Alleluia</rep>
+   </verses>
+</res>

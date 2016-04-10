@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7144" nextid="c7146" id="c7145">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Memor esto fili quoniam pauperem vitam gerimus habebis multa bona si timueris Deum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Fiducia magna
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> erit</rdg>
+            <rdg wit="CAO-C"> est</rdg>
+         </app> coram summo Deo
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> eleemosyna</rdg>
+            <rdg wit="CAO-M"> et eleemosyna</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R"> omnibus qui faciunt eam</rdg>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D"> omnibus qui faciunt ea</rdg>
+            <rdg wit="CAO-F"> omnibus facientibus eam</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> In mente habeto eum et cave nequando praetermittas praecepta eius</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Habebis</rep>
+   </verses>
+</res>

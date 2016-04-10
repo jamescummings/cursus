@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1744" nextid="o1746" id="o1745">
+   <header>
+      <usage ms="Alb2" code="01034000">[16r] matins-n2</usage>
+      <usage ms="Cdm" code="01034000">[16v] sext</usage>
+      <usage ms="Hyd" code="01034009">[12r] lauds</usage>
+      <usage ms="Mch" code="01034000">[14r] sext</usage>
+      <usage ms="Wcb" code="01044000">[50v] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Mch Cdm Wcb"> Festina quaesumus ne tardaveris domine et auxilium nobis supernae virtutis impende ut adventus tui consolationibus
+    <app>
+         <rdg wit="Hyd Alb2 Mch Wcb"> subleventur qui in tua pietate confidunt</rdg>
+         <rdg wit="Cdm"> sublevemur</rdg>
+      </app>
+   </pBody>
+</prayer>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3431" nextid="c3433" id="c3432">
+   <aBody wit="CAO-H CAO-R CAO-S">
+      <app>
+         <rdg wit="CAO-H CAO-R"> Iste sanctus digne in memoriam</rdg>
+         <rdg wit="CAO-S"> Iste sanctus digne in memoria</rdg>
+      </app> vertitur hominum
+     <app>
+         <rdg wit="CAO-H"> qui ad gaudium transiit angelorum</rdg>
+         <rdg wit="CAO-R"> qui ad gaudium transit angelorum</rdg>
+         <rdg wit="CAO-S"> quia ad gaudium transit angelorum</rdg>
+      </app> quia in hac peregrinatione solo corpore constitutus cogitatione et aviditate
+     <app>
+         <rdg wit="CAO-H CAO-R"> in illa aeterna patria</rdg>
+         <rdg wit="CAO-S"> in illa aeterna patriam</rdg>
+      </app> conversatus est</aBody>
+</ant>

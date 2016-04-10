@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2158" nextid="c2160" id="c2159">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+   </header>
+   <aBody wit="CAO-F CAO-L Hyd"> Descendit spiritus sanctus
+     <app>
+         <rdg wit="CAO-L Hyd"> corporali specie</rdg>
+         <rdg wit="CAO-F"> corporalis specie</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> sicut columba in ipso</rdg>
+         <rdg wit="CAO-L"> sicut columba in eum</rdg>
+         <rdg wit="Hyd"> sicut columba in Jesum</rdg>
+      </app> et vox de caelo facta est hic est filius meus dilectus alleluia</aBody>
+</ant>

@@ -1,0 +1,1840 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="2Corinthians">
+<body>
+  <rubric type="bible-incipit" id="B.2Corinthians.incipit.001">
+    <reference>
+      <bookName>2Corinthians</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AD EOSDEM</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.2Corinthians.001.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus apostolus Iesu Christi per voluntatem Dei et Timotheus frater ecclesiae Dei quae est Corinthi cum sanctis omnibus qui sunt in universa Achaia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>benedictus Deus et Pater Domini nostri Iesu Christi Pater misericordiarum et Deus totius consolationis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>qui consolatur nos in omni tribulatione nostra ut possimus et ipsi consolari eos qui in omni pressura sunt per exhortationem qua exhortamur et ipsi a Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>quoniam sicut abundant passiones Christi in nobis ita et per Christum abundat consolatio nostra</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>sive autem tribulamur pro vestra exhortatione et salute sive exhortamur pro vestra exhortatione quae operatur in tolerantia earundem passionum quas et nos patimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>et spes nostra firma pro vobis scientes quoniam sicut socii passionum estis sic eritis et consolationis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>non enim volumus ignorare vos fratres de tribulatione nostra quae facta est in Asia quoniam supra modum gravati sumus supra virtutem ita ut taederet nos etiam vivere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>sed ipsi in nobis ipsis responsum mortis habuimus ut non simus fidentes in nobis sed in Deo qui suscitat mortuos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>qui de tantis periculis eripuit nos et eruet in quem speramus quoniam et adhuc eripiet</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>adiuvantibus et vobis in oratione pro nobis ut ex multis personis eius quae in nobis est donationis per multos gratiae agantur pro nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>nam gloria nostra haec est testimonium conscientiae nostrae quod in simplicitate et sinceritate Dei et non in sapientia carnali sed in gratia Dei conversati sumus in mundo abundantius autem ad vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>non enim alia scribimus vobis quam quae legistis et cognoscitis spero autem quod usque in finem cognoscetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>sicut et cognovistis nos ex parte quia gloria vestra sumus sicut et vos nostra in die Domini nostri Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>et hac confidentia volui prius venire ad vos ut secundam gratiam haberetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>et per vos transire in Macedoniam et iterum a Macedonia venire ad vos et a vobis deduci in Iudaeam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>cum hoc ergo voluissem numquid levitate usus sum aut quae cogito secundum carnem cogito ut sit apud me est et non</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>fidelis autem Deus quia sermo noster qui fit apud vos non est in illo est et non</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.019">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>Dei enim Filius Iesus Christus qui in vobis per nos praedicatus est per me et Silvanum et Timotheum non fuit est et non sed est in illo fuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.020">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>quotquot enim promissiones Dei sunt in illo est ideo et per ipsum amen Deo ad gloriam nostram</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.021">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>qui autem confirmat nos vobiscum in Christum et qui unxit nos Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.022">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>et qui signavit nos et dedit pignus Spiritus in cordibus nostris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.023">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>ego autem testem Deum invoco in animam meam quod parcens vobis non veni ultra Corinthum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.001.024">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>non quia dominamur fidei vestrae sed adiutores sumus gaudii vestri nam fide stetistis</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.2Corinthians.002.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>statui autem hoc ipse apud me ne iterum in tristitia venirem ad vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>si enim ego contristo vos et quis est qui me laetificet nisi qui contristatur ex me</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>et hoc ipsum scripsi ut non cum venero tristitiam super tristitiam habeam de quibus oportuerat me gaudere confidens in omnibus vobis quia meum gaudium omnium vestrum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>nam ex multa tribulatione et angustia cordis scripsi vobis per multas lacrimas non ut contristemini sed ut sciatis quam caritatem habeo abundantius in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>si quis autem contristavit non me contristavit sed ex parte ut non onerem omnes vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>sufficit illi qui eiusmodi est obiurgatio haec quae fit a pluribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>ita ut e contra magis donetis et consolemini ne forte abundantiori tristitia absorbeatur qui eiusmodi est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>propter quod obsecro vos ut confirmetis in illum caritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>ideo enim et scripsi ut cognoscam experimentum vestrum an in omnibus oboedientes sitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>cui autem aliquid donatis et ego nam et ego quod donavi si quid donavi propter vos in persona Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>ut non circumveniamur a Satana non enim ignoramus cogitationes eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>cum venissem autem Troadem propter evangelium Christi et ostium mihi apertum esset in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>non habui requiem spiritui meo eo quod non invenerim Titum fratrem meum sed valefaciens eis profectus sum in Macedoniam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>Deo autem gratias qui semper triumphat nos in Christo Iesu et odorem notitiae suae manifestat per nos in omni loco</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>quia Christi bonus odor sumus Deo in his qui salvi fiunt et in his qui pereunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>aliis quidem odor mortis in mortem aliis autem odor vitae in vitam et ad haec quis tam idoneus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.002.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>non enim sumus sicut plurimi adulterantes verbum Dei sed ex sinceritate sed sicut ex Deo coram Deo in Christo loquimur</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.2Corinthians.003.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>incipimus iterum nosmet ipsos commendare aut numquid egemus sicut quidam commendaticiis epistulis ad vos aut ex vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>epistula nostra vos estis scripta in cordibus nostris quae scitur et legitur ab omnibus hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>manifestati quoniam epistula estis Christi ministrata a nobis et scripta non atramento sed Spiritu Dei vivi non in tabulis lapideis sed in tabulis cordis carnalibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>fiduciam autem talem habemus per Christum ad Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>non quod sufficientes simus cogitare aliquid a nobis quasi ex nobis sed sufficientia nostra ex Deo est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>qui et idoneos nos fecit ministros novi testamenti non litterae sed Spiritus littera enim occidit Spiritus autem vivificat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>quod si ministratio mortis litteris deformata in lapidibus fuit in gloria ita ut non possent intendere filii Israhel in faciem Mosi propter gloriam vultus eius quae evacuatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>quomodo non magis ministratio Spiritus erit in gloria</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>nam si ministratio damnationis gloria est multo magis abundat ministerium iustitiae in gloria</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>nam nec glorificatum est quod claruit in hac parte propter excellentem gloriam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>si enim quod evacuatur per gloriam est multo magis quod manet in gloria est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>habentes igitur talem spem multa fiducia utimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>et non sicut Moses ponebat velamen super faciem suam ut non intenderent filii Israhel in faciem eius quod evacuatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>sed obtusi sunt sensus eorum usque in hodiernum enim diem id ipsum velamen in lectione veteris testamenti manet non revelatum quoniam in Christo evacuatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>sed usque in hodiernum diem cum legitur Moses velamen est positum super cor eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>cum autem conversus fuerit ad Deum aufertur velamen</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>Dominus autem Spiritus est ubi autem Spiritus Domini ibi libertas</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.003.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>nos vero omnes revelata facie gloriam Domini speculantes in eandem imaginem transformamur a claritate in claritatem tamquam a Domini Spiritu</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.2Corinthians.004.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>ideo habentes hanc ministrationem iuxta quod misericordiam consecuti sumus non deficimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>sed abdicamus occulta dedecoris non ambulantes in astutia neque adulterantes verbum Dei sed in manifestatione veritatis commendantes nosmet ipsos ad omnem conscientiam hominum coram Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>quod si etiam opertum est evangelium nostrum in his qui pereunt est opertum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>in quibus deus huius saeculi excaecavit mentes infidelium ut non fulgeat inluminatio evangelii gloriae Christi qui est imago Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>non enim nosmet ipsos praedicamus sed Iesum Christum Dominum nos autem servos vestros per Iesum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>quoniam Deus qui dixit de tenebris lucem splendescere qui inluxit in cordibus nostris ad inluminationem scientiae claritatis Dei in facie Christi Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>habemus autem thesaurum istum in vasis fictilibus ut sublimitas sit virtutis Dei et non ex nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>in omnibus tribulationem patimur sed non angustiamur aporiamur sed non destituimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>persecutionem patimur sed non derelinquimur deicimur sed non perimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>semper mortificationem Iesu in corpore nostro circumferentes ut et vita Iesu in corporibus nostris manifestetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>semper enim nos qui vivimus in mortem tradimur propter Iesum ut et vita Iesu manifestetur in carne nostra mortali</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>ergo mors in nobis operatur vita autem in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>habentes autem eundem spiritum fidei sicut scriptum est credidi propter quod locutus sum et nos credimus propter quod et loquimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>scientes quoniam qui suscitavit Iesum et nos cum Iesu suscitabit et constituet vobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>omnia enim propter vos ut gratia abundans per multos gratiarum actione abundet in gloriam Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>propter quod non deficimus sed licet is qui foris est noster homo corrumpitur tamen is qui intus est renovatur de die in diem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>id enim quod in praesenti est momentaneum et leve tribulationis nostrae supra modum in sublimitatem aeternum gloriae pondus operatur nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.004.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>non contemplantibus nobis quae videntur sed quae non videntur quae enim videntur temporalia sunt quae autem non videntur aeterna sunt</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.2Corinthians.005.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>scimus enim quoniam si terrestris domus nostra huius habitationis dissolvatur quod aedificationem ex Deo habeamus domum non manufactam aeternam in caelis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>nam et in hoc ingemescimus habitationem nostram quae de caelo est superindui cupientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>si tamen vestiti non nudi inveniamur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>nam et qui sumus in tabernaculo ingemescimus gravati eo quod nolumus expoliari sed supervestiri ut absorbeatur quod mortale est a vita</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>qui autem efficit nos in hoc ipsum Deus qui dedit nobis pignus Spiritus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>audentes igitur semper et scientes quoniam dum sumus in corpore peregrinamur a Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>per fidem enim ambulamus et non per speciem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>audemus autem et bonam voluntatem habemus magis peregrinari a corpore et praesentes esse ad Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>et ideo contendimus sive absentes sive praesentes placere illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>omnes enim nos manifestari oportet ante tribunal Christi ut referat unusquisque propria corporis prout gessit sive bonum sive malum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>scientes ergo timorem Domini hominibus suademus Deo autem manifesti sumus spero autem et in conscientiis vestris manifestos nos esse</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>non iterum nos commendamus vobis sed occasionem damus vobis gloriandi pro nobis ut habeatis ad eos qui in facie gloriantur et non in corde</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>sive enim mente excedimus Deo sive sobrii sumus vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>caritas enim Christi urget nos aestimantes hoc quoniam si unus pro omnibus mortuus est ergo omnes mortui sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>et pro omnibus mortuus est ut et qui vivunt iam non sibi vivant sed ei qui pro ipsis mortuus est et resurrexit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>itaque nos ex hoc neminem novimus secundum carnem et si cognovimus secundum carnem Christum sed nunc iam non novimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>si qua ergo in Christo nova creatura vetera transierunt ecce facta sunt nova</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>omnia autem ex Deo qui reconciliavit nos sibi per Christum et dedit nobis ministerium reconciliationis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.019">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>quoniam quidem Deus erat in Christo mundum reconcilians sibi non reputans illis delicta ipsorum et posuit in nobis verbum reconciliationis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.020">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>pro Christo ergo legationem fungimur tamquam Deo exhortante per nos obsecramus pro Christo reconciliamini Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.005.021">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>eum qui non noverat peccatum pro nobis peccatum fecit ut nos efficeremur iustitia Dei in ipso</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.2Corinthians.006.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>adiuvantes autem et exhortamur ne in vacuum gratiam Dei recipiatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>ait enim tempore accepto exaudivi te et in die salutis adiuvi te ecce nunc tempus acceptabile ecce nunc dies salutis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>nemini dantes ullam offensionem ut non vituperetur ministerium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>sed in omnibus exhibeamus nosmet ipsos sicut Dei ministros in multa patientia in tribulationibus in necessitatibus in angustiis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>in plagis in carceribus in seditionibus in laboribus in vigiliis in ieiuniis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>in castitate in scientia in longanimitate in suavitate in Spiritu Sancto in caritate non ficta</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>in verbo veritatis in virtute Dei per arma iustitiae a dextris et sinistris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>per gloriam et ignobilitatem per infamiam et bonam famam ut seductores et veraces sicut qui ignoti et cogniti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>quasi morientes et ecce vivimus ut castigati et non mortificati</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>quasi tristes semper autem gaudentes sicut egentes multos autem locupletantes tamquam nihil habentes et omnia possidentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>os nostrum patet ad vos o Corinthii cor nostrum dilatatum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>non angustiamini in nobis angustiamini autem in visceribus vestris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>eandem autem habentes remunerationem tamquam filiis dico dilatamini et vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>nolite iugum ducere cum infidelibus quae enim participatio iustitiae cum iniquitate aut quae societas luci ad tenebras</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>quae autem conventio Christi ad Belial aut quae pars fideli cum infidele</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>qui autem consensus templo Dei cum idolis vos enim estis templum Dei vivi sicut dicit Deus quoniam inhabitabo in illis et inambulabo et ero illorum Deus et ipsi erunt mihi populus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>propter quod exite de medio eorum et separamini dicit Dominus et inmundum ne tetigeritis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.006.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>et ego recipiam vos et ero vobis in patrem et vos eritis mihi in filios et filias dicit Dominus omnipotens</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.2Corinthians.007.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>has igitur habentes promissiones carissimi mundemus nos ab omni inquinamento carnis et spiritus perficientes sanctificationem in timore Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>capite nos neminem laesimus neminem corrupimus neminem circumvenimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>non ad condemnationem dico praedixi enim quod in cordibus nostris estis ad conmoriendum et ad convivendum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>multa mihi fiducia est apud vos multa mihi gloriatio pro vobis repletus sum consolatione superabundo gaudio in omni tribulatione nostra</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>nam et cum venissemus Macedoniam nullam requiem habuit caro nostra sed omnem tribulationem passi foris pugnae intus timores</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>sed qui consolatur humiles consolatus est nos Deus in adventu Titi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>non solum autem in adventu eius sed etiam in solacio quo consolatus est in vobis referens nobis vestrum desiderium vestrum fletum vestram aemulationem pro me ita ut magis gauderem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>quoniam et si contristavi vos in epistula non me paenitet et si paeniteret videns quod epistula illa et si ad horam vos contristavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>nunc gaudeo non quia contristati estis sed quia contristati estis ad paenitentiam contristati enim estis secundum Deum ut in nullo detrimentum patiamini ex nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>quae enim secundum Deum tristitia est paenitentiam in salutem stabilem operatur saeculi autem tristitia mortem operatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>ecce enim hoc ipsum secundum Deum contristari vos quantam in vobis operatur sollicitudinem sed defensionem sed indignationem sed timorem sed desiderium sed aemulationem sed vindictam in omnibus exhibuistis vos incontaminatos esse negotio</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>igitur et si scripsi vobis non propter eum qui fecit iniuriam nec propter eum qui passus est sed ad manifestandam sollicitudinem nostram quam pro vobis habemus ad vos coram Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>ideo consolati sumus in consolatione autem nostra abundantius magis gavisi sumus super gaudium Titi quia refectus est spiritus eius ab omnibus vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>et si quid apud illum de vobis gloriatus sum non sum confusus sed sicut omnia vobis in veritate locuti sumus ita et gloriatio nostra quae fuit ad Titum veritas facta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>et viscera eius abundantius in vos sunt reminiscentis omnium vestrum oboedientiam quomodo cum timore et tremore excepistis eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.007.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>gaudeo quod in omnibus confido in vobis</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.2Corinthians.008.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>notam autem facimus vobis fratres gratiam Dei quae data est in ecclesiis Macedoniae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>quod in multo experimento tribulationis abundantia gaudii ipsorum et altissima paupertas eorum abundavit in divitias simplicitatis eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>quia secundum virtutem testimonium illis reddo et supra virtutem voluntarii fuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>cum multa exhortatione obsecrantes nos gratiam et communicationem ministerii quod fit in sanctos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>et non sicut speravimus sed semet ipsos dederunt primum Domino deinde nobis per voluntatem Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>ita ut rogaremus Titum ut quemadmodum coepit ita et perficiat in vos etiam gratiam istam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>sed sicut in omnibus abundatis fide et sermone et scientia et omni sollicitudine et caritate vestra in nos ut et in hac gratia abundetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>non quasi imperans dico sed per aliorum sollicitudinem etiam vestrae caritatis ingenitum bonum conprobans</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>scitis enim gratiam Domini nostri Iesu Christi quoniam propter vos egenus factus est cum esset dives ut illius inopia vos divites essetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>et consilium in hoc do hoc enim vobis utile est qui non solum facere sed et velle coepistis ab anno priore</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>nunc vero et facto perficite ut quemadmodum promptus est animus voluntatis ita sit et perficiendi ex eo quod habetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>si enim voluntas prompta est secundum id quod habet accepta est non secundum quod non habet</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>non enim ut aliis sit remissio vobis autem tribulatio sed ex aequalitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>in praesenti tempore vestra abundantia illorum inopiam suppleat ut et illorum abundantia vestrae inopiae sit supplementum ut fiat aequalitas sicut scriptum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>qui multum non abundavit et qui modicum non minoravit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>gratias autem Deo qui dedit eandem sollicitudinem pro vobis in corde Titi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>quoniam exhortationem quidem suscepit sed cum sollicitior esset sua voluntate profectus est ad vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:18</verseNum>
+      </reference>
+      <l>misimus etiam cum illo fratrem cuius laus est in evangelio per omnes ecclesias</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.019">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:19</verseNum>
+      </reference>
+      <l>non solum autem sed et ordinatus ab ecclesiis comes peregrinationis nostrae in hac gratia quae ministratur a nobis ad Domini gloriam et destinatam voluntatem nostram</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.020">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:20</verseNum>
+      </reference>
+      <l>devitantes hoc ne quis nos vituperet in hac plenitudine quae ministratur a nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.021">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:21</verseNum>
+      </reference>
+      <l>providemus enim bona non solum coram Deo sed etiam coram hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.022">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:22</verseNum>
+      </reference>
+      <l>misimus autem cum illis et fratrem nostrum quem probavimus in multis saepe sollicitum esse nunc autem multo sollicitiorem confidentia multa in vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.023">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:23</verseNum>
+      </reference>
+      <l>sive pro Tito qui est socius meus et in vos adiutor sive fratres nostri apostoli ecclesiarum gloriae Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.008.024">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>8:24</verseNum>
+      </reference>
+      <l>ostensionem ergo quae est caritatis vestrae et nostrae gloriae pro vobis in illos ostendite in faciem ecclesiarum</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.2Corinthians.009.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>nam de ministerio quod fit in sanctos ex abundanti est mihi scribere vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>scio enim promptum animum vestrum pro quo de vobis glorior apud Macedonas quoniam Achaia parata est ab anno praeterito et vestra aemulatio provocavit plurimos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>misi autem fratres ut ne quod gloriamur de vobis evacuetur in hac parte ut quemadmodum dixi parati sitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>ne cum venerint mecum Macedones et invenerint vos inparatos erubescamus nos ut non dicamus vos in hac substantia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>necessarium ergo existimavi rogare fratres ut praeveniant ad vos et praeparent repromissam benedictionem hanc paratam esse sic quasi benedictionem non quasi avaritiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>hoc autem qui parce seminat parce et metet et qui seminat in benedictionibus de benedictionibus et metet</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>unusquisque prout destinavit corde suo non ex tristitia aut ex necessitate hilarem enim datorem diligit Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>potens est autem Deus omnem gratiam abundare facere in vobis ut in omnibus semper omnem sufficientiam habentes abundetis in omne opus bonum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>sicut scriptum est dispersit dedit pauperibus iustitia eius manet in aeternum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>qui autem administrat semen seminanti et panem ad manducandum praestabit et multiplicabit semen vestrum et augebit incrementa frugum iustitiae vestrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>ut in omnibus locupletati abundetis in omnem simplicitatem quae operatur per nos gratiarum actionem Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>quoniam ministerium huius officii non solum supplet ea quae desunt sanctis sed etiam abundat per multas gratiarum actiones in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>per probationem ministerii huius glorificantes Deum in oboedientia confessionis vestrae in evangelium Christi et simplicitate communicationis in illos et in omnes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>et ipsorum obsecratione pro vobis desiderantium vos propter eminentem gratiam Dei in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.009.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>gratias Deo super inenarrabili dono eius</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.2Corinthians.010.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>ipse autem ego Paulus obsecro vos per mansuetudinem et modestiam Christi qui in facie quidem humilis inter vos absens autem confido in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>rogo autem ne praesens audeam per eam confidentiam qua existimo audere in quosdam qui arbitrantur nos tamquam secundum carnem ambulemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>in carne enim ambulantes non secundum carnem militamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>nam arma militiae nostrae non carnalia sed potentia Deo ad destructionem munitionum consilia destruentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>et omnem altitudinem extollentem se adversus scientiam Dei et in captivitatem redigentes omnem intellectum in obsequium Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>et in promptu habentes ulcisci omnem inoboedientiam cum impleta fuerit vestra oboedientia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>quae secundum faciem sunt videte si quis confidit sibi Christi se esse hoc cogitet iterum apud se quia sicut ipse Christi est ita et nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>nam et si amplius aliquid gloriatus fuero de potestate nostra quam dedit Dominus in aedificationem et non in destructionem vestram non erubescam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>ut autem non existimer tamquam terrere vos per epistulas</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>quoniam quidem epistulae inquiunt graves sunt et fortes praesentia autem corporis infirma et sermo contemptibilis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>hoc cogitet qui eiusmodi est quia quales sumus verbo per epistulas absentes tales et praesentes in facto</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>non enim audemus inserere aut conparare nos quibusdam qui se ipsos commendant sed ipsi in nobis nosmet ipsos metientes et conparantes nosmet ipsos nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>nos autem non in inmensum gloriabimur sed secundum mensuram regulae quam mensus est nobis Deus mensuram pertingendi usque ad vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:14</verseNum>
+      </reference>
+      <l>non enim quasi non pertingentes ad vos superextendimus nos usque ad vos enim pervenimus in evangelio Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:15</verseNum>
+      </reference>
+      <l>non in inmensum gloriantes in alienis laboribus spem autem habentes crescentis fidei vestrae in vobis magnificari secundum regulam nostram in abundantiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:16</verseNum>
+      </reference>
+      <l>etiam in illa quae ultra vos sunt evangelizare non in aliena regula in his quae praeparata sunt gloriari</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:17</verseNum>
+      </reference>
+      <l>qui autem gloriatur in Domino glorietur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.010.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>10:18</verseNum>
+      </reference>
+      <l>non enim qui se ipsum commendat ille probatus est sed quem Dominus commendat</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.2Corinthians.011.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>utinam sustineretis modicum quid insipientiae meae sed et subportate me</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>aemulor enim vos Dei aemulatione despondi enim vos uni viro virginem castam exhibere Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>timeo autem ne sicut serpens Evam seduxit astutia sua ita corrumpantur sensus vestri et excidant a simplicitate quae est in Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>nam si is qui venit alium Christum praedicat quem non praedicavimus aut alium spiritum accipitis quem non accepistis aut aliud evangelium quod non recepistis recte pateremini</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>existimo enim nihil me minus fecisse magnis apostolis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>et si inperitus sermone sed non scientia in omnibus autem manifestatus sum vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>aut numquid peccatum feci me ipsum humilians ut vos exaltemini quoniam gratis evangelium Dei evangelizavi vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>alias ecclesias expoliavi accipiens stipendium ad ministerium vestrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>et cum essem apud vos et egerem nulli onerosus fui nam quod mihi deerat suppleverunt fratres qui venerunt a Macedonia et in omnibus sine onere me vobis servavi et servabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>est veritas Christi in me quoniam haec gloria non infringetur in me in regionibus Achaiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>quare quia non diligo vos Deus scit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>quod autem facio et faciam ut amputem occasionem eorum qui volunt occasionem ut in quo gloriantur inveniantur sicut et nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:13</verseNum>
+      </reference>
+      <l>nam eiusmodi pseudoapostoli operarii subdoli transfigurantes se in apostolos Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:14</verseNum>
+      </reference>
+      <l>et non mirum ipse enim Satanas transfigurat se in angelum lucis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:15</verseNum>
+      </reference>
+      <l>non est ergo magnum si ministri eius transfigurentur velut ministri iustitiae quorum finis erit secundum opera ipsorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:16</verseNum>
+      </reference>
+      <l>iterum dico ne quis me putet insipientem alioquin velut insipientem accipite me ut et ego modicum quid glorier</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:17</verseNum>
+      </reference>
+      <l>quod loquor non loquor secundum Dominum sed quasi in insipientia in hac substantia gloriae</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:18</verseNum>
+      </reference>
+      <l>quoniam multi gloriantur secundum carnem et ego gloriabor</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.019">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:19</verseNum>
+      </reference>
+      <l>libenter enim suffertis insipientes cum sitis ipsi sapientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.020">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:20</verseNum>
+      </reference>
+      <l>sustinetis enim si quis vos in servitutem redigit si quis devorat si quis accipit si quis extollitur si quis in faciem vos caedit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.021">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:21</verseNum>
+      </reference>
+      <l>secundum ignobilitatem dico quasi nos infirmi fuerimus in quo quis audet in insipientia dico audeo et ego</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.022">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:22</verseNum>
+      </reference>
+      <l>Hebraei sunt et ego Israhelitae sunt et ego semen Abrahae sunt et ego</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.023">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:23</verseNum>
+      </reference>
+      <l>ministri Christi sunt minus sapiens dico plus ego in laboribus plurimis in carceribus abundantius in plagis supra modum in mortibus frequenter</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.024">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:24</verseNum>
+      </reference>
+      <l>a Iudaeis quinquies quadragenas una minus accepi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.025">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:25</verseNum>
+      </reference>
+      <l>ter virgis caesus sum semel lapidatus sum ter naufragium feci nocte et die in profundo maris fui</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.026">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:26</verseNum>
+      </reference>
+      <l>in itineribus saepe periculis fluminum periculis latronum periculis ex genere periculis ex gentibus periculis in civitate periculis in solitudine periculis in mari periculis in falsis fratribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.027">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:27</verseNum>
+      </reference>
+      <l>in labore et aerumna in vigiliis multis in fame et siti in ieiuniis multis in frigore et nuditate</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.028">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:28</verseNum>
+      </reference>
+      <l>praeter illa quae extrinsecus sunt instantia mea cotidiana sollicitudo omnium ecclesiarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.029">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:29</verseNum>
+      </reference>
+      <l>quis infirmatur et non infirmor quis scandalizatur et ego non uror</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.030">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:30</verseNum>
+      </reference>
+      <l>si gloriari oportet quae infirmitatis meae sunt gloriabor</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.031">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:31</verseNum>
+      </reference>
+      <l>Deus et Pater Domini Iesu scit qui est benedictus in saecula quod non mentior</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.032">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:32</verseNum>
+      </reference>
+      <l>Damasci praepositus gentis Aretae regis custodiebat civitatem Damascenorum ut me conprehenderet</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.011.033">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>11:33</verseNum>
+      </reference>
+      <l>et per fenestram in sporta dimissus sum per murum et effugi manus eius</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.2Corinthians.012.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>si gloriari oportet non expedit quidem veniam autem ad visiones et revelationes Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>scio hominem in Christo ante annos quattuordecim sive in corpore nescio sive extra corpus nescio Deus scit raptum eiusmodi usque ad tertium caelum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>et scio huiusmodi hominem sive in corpore sive extra corpus nescio Deus scit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>quoniam raptus est in paradisum et audivit arcana verba quae non licet homini loqui</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>pro eiusmodi gloriabor pro me autem nihil gloriabor nisi in infirmitatibus meis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>nam et si voluero gloriari non ero insipiens veritatem enim dicam parco autem ne quis in me existimet supra id quod videt me aut audit ex me</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>et ne magnitudo revelationum extollat me datus est mihi stimulus carnis meae angelus Satanae ut me colaphizet</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>propter quod ter Dominum rogavi ut discederet a me</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>et dixit mihi sufficit tibi gratia mea nam virtus in infirmitate perficitur libenter igitur gloriabor in infirmitatibus meis ut inhabitet in me virtus Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>propter quod placeo mihi in infirmitatibus in contumeliis in necessitatibus in persecutionibus in angustiis pro Christo cum enim infirmor tunc potens sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>factus sum insipiens vos me coegistis ego enim debui a vobis commendari nihil enim minus fui ab his qui sunt supra modum apostoli tametsi nihil sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>signa tamen apostoli facta sunt super vos in omni patientia signis et prodigiis et virtutibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>quid est enim quod minus habuistis prae ceteris ecclesiis nisi quod ego ipse non gravavi vos donate mihi hanc iniuriam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.014">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>ecce tertio hoc paratus sum venire ad vos et non ero gravis vobis non enim quaero quae vestra sunt sed vos nec enim debent filii parentibus thesaurizare sed parentes filiis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.015">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:15</verseNum>
+      </reference>
+      <l>ego autem libentissime inpendam et superinpendar ipse pro animabus vestris licet plus vos diligens minus diligar</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.016">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:16</verseNum>
+      </reference>
+      <l>sed esto ego vos non gravavi sed cum essem astutus dolo vos cepi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.017">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:17</verseNum>
+      </reference>
+      <l>numquid per aliquem eorum quos misi ad vos circumveni vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.018">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:18</verseNum>
+      </reference>
+      <l>rogavi Titum et misi cum illo fratrem numquid Titus vos circumvenit nonne eodem spiritu ambulavimus nonne hisdem vestigiis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.019">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:19</verseNum>
+      </reference>
+      <l>olim putatis quod excusemus nos apud vos coram Deo in Christo loquimur omnia autem carissimi propter vestram aedificationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.020">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:20</verseNum>
+      </reference>
+      <l>timeo enim ne forte cum venero non quales volo inveniam vos et ego inveniar a vobis qualem non vultis ne forte contentiones aemulationes animositates dissensiones detractiones susurrationes inflationes seditiones sint inter vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.012.021">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>12:21</verseNum>
+      </reference>
+      <l>ne iterum cum venero humiliet me Deus apud vos et lugeam multos ex his qui ante peccaverunt et non egerunt paenitentiam super inmunditia et fornicatione et inpudicitia quam gesserunt</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.2Corinthians.013.001">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>ecce tertio hoc venio ad vos in ore duorum vel trium testium stabit omne verbum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.002">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>praedixi et praedico ut praesens bis et nunc absens his qui ante peccaverunt et ceteris omnibus quoniam si venero iterum non parcam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.003">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>an experimentum quaeritis eius qui in me loquitur Christi qui in vos non infirmatur sed potens est in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.004">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>nam et si crucifixus est ex infirmitate sed vivit ex virtute Dei nam et nos infirmi sumus in illo sed vivemus cum eo ex virtute Dei in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.005">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>vosmet ipsos temptate si estis in fide ipsi vos probate an non cognoscitis vos ipsos quia Christus Iesus in vobis est nisi forte reprobi estis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.006">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>spero autem quod cognoscetis quia nos non sumus reprobi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.007">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>oramus autem Deum ut nihil mali faciatis non ut nos probati pareamus sed ut vos quod bonum est faciatis nos autem ut reprobi simus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.008">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>non enim possumus aliquid adversus veritatem sed pro veritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.009">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>gaudemus enim quando nos infirmi sumus vos autem potentes estis hoc et oramus vestram consummationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.010">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>ideo haec absens scribo ut non praesens durius agam secundum potestatem quam Dominus dedit mihi in aedificationem et non in destructionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.011">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>de cetero fratres gaudete perfecti estote exhortamini idem sapite pacem habete et Deus dilectionis et pacis erit vobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.012">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>salutate invicem in osculo sancto salutant vos sancti omnes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Corinthians.013.013">
+      <reference>
+        <bookName>2Corinthians</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>gratia Domini nostri Iesu Christi et caritas Dei et communicatio Sancti Spiritus cum omnibus vobis amen</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.2Corinthians.colophon.001">
+    <reference>
+      <bookName>2Corinthians</bookName>
+      <verseNum>colophon:1TEXT&gt;</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA AD CORINTHIOS</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

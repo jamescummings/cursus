@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7434" nextid="c7436" id="c7435">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Priusquam te formarem in utero novi te et antequam exires de ventre sanctificavi te et prophetam in gentibus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> dedi te</rdg>
+         <rdg wit="CAO-V"> dedit te</rdg>
+         <rdg wit="CAO-M">
+            <sic resp="Hesbert">deditdi</sic> te</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-L">
+         <app>
+            <rdg wit="CAO-D CAO-F"> Ecce dedi verba mea</rdg>
+            <rdg wit="CAO-L"> Posui verba mea</rdg>
+         </app> in ore tuo ecce constitui te super gentes et regna</vBody>
+      <vBody type="r" wit="CAO-S"> Posui verba mea in ore</vBody>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> Vir dilectus a deo</rdg>
+            <rdg wit="CAO-V"> Vit electus a deo</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> et ab hominibus</rdg>
+            <rdg wit="CAO-V"> et hominibus</rdg>
+         </app> honorificatus est</vBody>
+      <vBody type="r" wit="CAO-C CAO-E"> Ad omnia quae mittam te ibis et universa quae mandavero tibi loqueris</vBody>
+      <vBody type="r" wit="CAO-M"> Ne timeas a facie eorum quia ego tecum sum dicit dominus</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et prophetam</rep>
+   </verses>
+</res>

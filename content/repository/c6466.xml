@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6465" nextid="c6467" id="c6466">
+   <rBody wit="CAO-G CAO-V CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-F CAO-S"> Dixit angelus ad Mariam</rdg>
+         <rdg wit="CAO-G CAO-V"> Dixit autem angelus ad Mariam</rdg>
+      </app> ne timeas Maria invenisti gratiam apud deum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-V CAO-F CAO-S">Ecce concipies et paries filium
+      <app>
+            <rdg wit="CAO-G CAO-V CAO-F"> et vocabis</rdg>
+            <rdg wit="CAO-S"> et vocabitur</rdg>
+         </app> nomen eius Jesum</vBody>
+      <rep type="r" wit="CAO-V CAO-F CAO-S">Invenisti</rep>
+   </verses>
+</res>

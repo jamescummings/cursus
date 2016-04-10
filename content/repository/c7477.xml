@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7476b" nextid="c7478" id="c7477">
+   <rBody wit="CAO-M CAO-H CAO-S CAO-L"> Qui Lazarum resuscitasti
+     <app>
+         <rdg wit="CAO-M CAO-L"> ad monumentum foetidum</rdg>
+         <rdg wit="CAO-H"> a monumento foetidum</rdg>
+         <rdg wit="CAO-S"> ad monumento foetidum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-L"> tu ei domine</rdg>
+         <rdg wit="CAO-H CAO-S"> tu eis domine</rdg>
+      </app> dona requiem et locum indulgentiae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-H CAO-S"> Requiem aeternam
+      <app>
+            <rdg wit="CAO-M"> dona ei domine</rdg>
+            <rdg wit="CAO-H CAO-S"> dona eis domine</rdg>
+         </app> et lux perpetua
+      <app>
+            <rdg wit="CAO-M"> luceat ei</rdg>
+            <rdg wit="CAO-H CAO-S"> luceat eis</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Qui venturus est iudicare vivos et mortuos et saeculum per ignem</vBody>
+      <rep type="r" wit="CAO-H CAO-S CAO-L">Tu</rep>
+      <rep type="r" wit="CAO-M">Et locum</rep>
+   </verses>
+</res>

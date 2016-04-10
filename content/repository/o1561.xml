@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1560" nextid="o1562" id="o1561">
+   <header>
+      <usage ms="Alb2" code="07052000">[101v] vesp2</usage>
+      <usage ms="Ely" code="07052000">[83v] vesp2</usage>
+      <usage ms="Hyd" code="07052000">[88v] vesp2</usage>
+   </header>
+   <pBody wit="Ely Hyd Alb2">
+      <app>
+         <rdg wit="Ely">Da quaesumus domine populo tuo</rdg>
+         <rdg wit="Hyd">Da quaesumus domine populo <add place="interlined" hand="scribe">tuo</add>
+         </rdg>
+      </app> spiritum veritatis et pacis ut te tota mente cognoscat et quae tibi sunt placita
+     <app>
+         <rdg wit="Ely"> tota devotione exerceat</rdg>
+         <rdg wit="Hyd Alb2"> pia devotione exerceat</rdg>
+      </app>
+   </pBody>
+</prayer>

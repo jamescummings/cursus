@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2412" nextid="c2413b" id="c2413">
+   <header>
+      <usage ms="Glo" code="07066000">[80r] mandatum</usage>
+   </header>
+   <aBody wit="CAO-C CAO-M CAO-H CAO-F Glo"> Dominus Jesus postquam cenavit cum discipulis suis lavit pedes eorum et ait illis scitis quid fecerim vobis ego dominus et magister exemplum dedi vobis ut et vos ita faciatis</aBody>
+   <verses>
+      <vBody type="a" wit="Glo">Surgit Jesus a cena et ponit vestimenta sua et cum recubuisset iterum dixit eis</vBody>
+      <rep type="a" wit="Glo">Scitis</rep>
+   </verses>
+</ant>

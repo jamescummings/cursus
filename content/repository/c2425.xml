@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2424" nextid="c2426" id="c2425">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Domum tuam domine decet sanctitudo</rdg>
+         <rdg wit="CAO-M CAO-L"> Domui tui domine decet sanctitudo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-L"> in longitudinem dierum</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D"> in longitudine dierum</rdg>
+      </app>
+   </aBody>
+</ant>

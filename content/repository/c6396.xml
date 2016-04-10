@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6395" nextid="c6397" id="c6396">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> De ore prudentis
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L"> procedit</rdg>
+         <rdg wit="CAO-R"> procedet</rdg>
+      </app> mel alleluia dulcedo mellis est lingua eius
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-E CAO-V CAO-S"> alleluia alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> favus</rdg>
+         <rdg wit="CAO-V"> favum</rdg>
+      </app> distillans labia eius
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> alleluia alleluia</rdg>
+         <rdg wit="CAO-V"> alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> Quam dulcia faucibus meis eloquia tua domine super mel et favum ori meo</vBody>
+      <vBody type="r" wit="CAO-D CAO-S CAO-L"> Sapientia
+       <app>
+            <rdg wit="CAO-D CAO-L"> requiescit</rdg>
+            <rdg wit="CAO-S"> requiescet</rdg>
+         </app> in corde eius et prudentia in sermone oris illius</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Favus</rep>
+   </verses>
+</res>

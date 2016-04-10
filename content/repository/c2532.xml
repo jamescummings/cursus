@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2531" nextid="c2533" id="c2532">
+   <header>
+      <usage ms="Alb2" code="07011000">[74v] vesp1</usage>
+      <usage ms="Bat" code="07011000">[47r] vesp1-a1</usage>
+      <usage ms="Cdm" code="07011000">[56v] vesp1-a1</usage>
+      <usage ms="Cht" code="07011000">[21v] vesp1</usage>
+      <usage ms="Ely" code="07011000">[66r] vesp1</usage>
+      <usage ms="Evm" code="07011000">[104v] vesp1</usage>
+      <usage ms="Glo" code="07011000">[59v] vesp2</usage>
+      <usage ms="Hyd" code="07011000">[68v] vesp1</usage>
+      <usage ms="Mch" code="07011000">[112r] vesp1 gosp</usage>
+      <usage ms="Pet" code="07011000">[63r] vesp1</usage>
+      <usage ms="Wcb" code="07011000">[94v] vesp2</usage>
+      <usage ms="Wor" code="07011000">[42v] vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Bat Mch"> Ecce nunc tempus acceptabile
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L Hyd Ely Wor Evm Wcb Cdm Bat"> ecce nunc dies salutis</rdg>
+         <rdg wit="Mch"> ecce <del type="underdot" status="unremarkable">nunc</del> dies salutis</rdg>
+         <rdg wit="CAO-H CAO-S Cht Pet Glo Alb2"> ecce dies salutis </rdg>
+      </app> in his ergo diebus exhibeamus nos sicut dei ministros in multa patientia
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> in vigiliis in ieiuniis</rdg>
+         <rdg wit="CAO-G CAO-D CAO-F CAO-S CAO-L Ely Glo"> in ieiuniis in vigiliis</rdg>
+         <rdg wit="CAO-C"> in ieiuniis et vigiliis</rdg>
+      </app> et in caritate non ficta</aBody>
+</ant>

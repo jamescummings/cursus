@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2266" nextid="c2268" id="c2267">
+   <aBody wit="CAO-C CAO-L">
+      <app>
+         <rdg wit="CAO-C"> Dixit Andreas Simoni fratri suo</rdg>
+         <rdg wit="CAO-L"> Dicit Andreas Simoni fratri suo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> invenies messiam</rdg>
+         <rdg wit="CAO-L"> invenimus messiam</rdg>
+      </app> qui dicitur Christus</aBody>
+</ant>

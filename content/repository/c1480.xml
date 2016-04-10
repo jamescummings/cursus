@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1479" nextid="c1481" id="c1480">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> Argentum et aurum non est mihi</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V"> Argentum et aurum non est mecum</rdg>
+      </app> quod autem habeo
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L"> hoc tibi do</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V"> hoc tibi dabo</rdg>
+      </app>
+   </aBody>
+</ant>

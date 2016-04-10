@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1011" nextid="o1013" id="o1012">
+   <header>
+      <usage ms="Alb2" code="06037000">[74r] lauds</usage>
+      <usage ms="Bat" code="06037000">[46v] lauds</usage>
+      <usage ms="Cdm" code="06037000">[56r] lauds</usage>
+      <usage ms="Ely" code="06037000"/>
+      <usage ms="Evm" code="06037000"/>
+      <usage ms="Hyd" code="06034000">[67v] terce</usage>
+   </header>
+   <pBody wit="Alb2 Hyd Ely Evm Cdm Bat"> Adesto domine supplicationibus nostris et praesta ut hoc sollemne ieiunium quod animis corporibusque curandis salubriter institutum est devoto servitio celebremus</pBody>
+</prayer>

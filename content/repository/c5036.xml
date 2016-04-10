@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5035" nextid="c5037" id="c5036">
+   <aBody wit="CAO-R">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Studiis liberalibus</l>
+         <l part="N"> nulli secundus habitus</l>
+         <l part="N"> praetor urbanus exstitit</l>
+         <l part="N"> adolescens spectabilis</l>
+      </lg>
+   </aBody>
+</ant>

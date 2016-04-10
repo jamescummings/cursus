@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2926" nextid="c2928" id="c2927">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L"> Gaudent in caelis animae sanctorum qui Christi vestigia sunt secuti et quia pro eius amore sanguinem suum fuderunt ideo cum Christo
+     <app>
+         <rdg wit="CAO-V CAO-S"> regnabunt in aeternum</rdg>
+         <rdg wit="CAO-E"> regnant sine fine</rdg>
+         <rdg wit="CAO-D"> gaudebunt in aeternum</rdg>
+         <rdg wit="CAO-F"> gaudent in aeternum</rdg>
+         <rdg wit="CAO-B CAO-L"> exsultant sine fine</rdg>
+         <rdg wit="CAO-C"> exsultent sine fine</rdg>
+      </app>
+   </aBody>
+</ant>

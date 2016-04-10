@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6495" nextid="c6497" id="c6496">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <rBody wit="CAO-H CAO-S Hyd"> Domine in caelo misericordia tua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-S Hyd"> Et veritas tua usque ad nubes</vBody>
+      <rep type="r" wit="CAO-S"> Misericordia</rep>
+      <dox type="r" wit="Hyd">Gloria patri</dox>
+   </verses>
+</res>

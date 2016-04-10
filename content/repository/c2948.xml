@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2947" nextid="c2949" id="c2948">
+   <header>
+      <usage ms="Hyd" code="09011000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+      <verse type="stanza">
+         <l part="N">Gloria tibi trinitas</l>
+         <l part="N">aequalis una deitas</l>
+         <l part="N">et ante omnia saecula</l>
+         <l part="N">et nunc et in perpetuum</l>
+      </verse>
+   </aBody>
+</ant>

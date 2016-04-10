@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2105" nextid="c2107" id="c2106">
+   <header>
+      <usage ms="Hyd" code="02010500">vesp1</usage>
+      <usage ms="Pet" code="02010600"/>
+      <usage ms="Wcb" code="02122500">[57v] vesp2-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Pet Hyd Wcb"> De fructu ventris tui ponam
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-L"> super sedem meam</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D Pet Hyd Wcb"> super sedem tuam</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-S" num="2">De fructu ventris tui</aBody>
+</ant>

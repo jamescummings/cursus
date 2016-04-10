@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2526" nextid="c2528" id="c2527">
+   <header>
+      <usage ms="Alb2" code="01011000">[1v] vesp1 gosp</usage>
+      <usage ms="Cdm" code="01011000">[9r] vesp1 gosp</usage>
+      <usage ms="Ely" code="01011000">[2r] vesp1 gosp</usage>
+      <usage ms="Evm" code="01011000">[4r] vesp1 gosp</usage>
+      <usage ms="Glo" code="01011000">[7v] vesp1 gosp</usage>
+      <usage ms="Hyd" code="01011000">[1r] vesp1 gosp</usage>
+      <usage ms="Mch" code="01011000">[1r] vesp1 gosp</usage>
+      <usage ms="Wcb" code="01011000">[41r] vesp1 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Glo"> Ecce nomen domini venit de longinquo et claritas eius replet orbem terrarum</aBody>
+</ant>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4502" nextid="c4504" id="c4503">
+   <header>
+      <usage ms="Alb2" code="06021000">[69v] prime-a1</usage>
+      <usage ms="Bat" code="06028000">[44v] </usage>
+      <usage ms="Cdm" code="06028000"/>
+      <usage ms="Cht" code="06028000"/>
+      <usage ms="Glo" code="06031000">[57r] vesp1</usage>
+      <usage ms="Hyd" code="06028000"/>
+      <usage ms="Mch" code="06021000">[105v] nones</usage>
+      <usage ms="Pet" code="06021000">[60r] vesp2</usage>
+      <usage ms="Wcb" code="06031000">[88v] vesp1</usage>
+      <usage ms="Wor" code="06028000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Wcb Glo Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-D CAO-F CAO-S Cht Wor Pet Wcb Glo Cdm Mch Bat"> Qui verbum dei retinent</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-L Hyd Alb2"> Qui verbum dei retinet</rdg>
+      </app> corde perfecto et optimo
+     <app>
+         <rdg wit="CAO-D CAO-F Hyd Cht Wor Pet Wcb Glo Cdm Mch Bat"> fructum afferunt in patientia</rdg>
+         <rdg wit="CAO-G CAO-E CAO-S Alb2"> fructum affert in patientia</rdg>
+         <rdg wit="CAO-C CAO-H CAO-L"> fructum afferet in patientia</rdg>
+         <rdg wit="CAO-B CAO-V CAO-R"> fructum afferent in patientia</rdg>
+      </app>
+   </aBody>
+</ant>

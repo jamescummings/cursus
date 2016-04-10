@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1352" nextid="c1354" id="c1353">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-D CAO-F CAO-S"> Alleluia sola tenes principatum</rdg>
+         <rdg wit="CAO-M CAO-L"> Alleluia sola tenens principatum</rdg>
+      </app> in conspectu domini propterea revertere
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-D CAO-F CAO-S"> in thesauros tuos</rdg>
+         <rdg wit="CAO-L"> in thesauris tuis</rdg>
+      </app> te benedicent angeli alleluia alleluia</aBody>
+</ant>

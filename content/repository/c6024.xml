@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6023" nextid="c6025" id="c6024">
+   <header>
+      <usage ms="Glo" code="14120800">[14v] vesp1</usage>
+   </header>
+   <rBody wit="CAO-R CAO-D CAO-F Glo"> Ad nutum domini nostrum
+     <app>
+         <rdg wit="CAO-D CAO-F Glo"> dictantis</rdg>
+         <rdg wit="CAO-R"> ditantis</rdg>
+      </app> honorem sicut spina rosam genuit Judaea Mariam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F Glo">Ut vitium virtus
+      <app>
+            <rdg wit="CAO-D Glo"> operiret</rdg>
+            <rdg wit="CAO-R"> operiet</rdg>
+            <rdg wit="CAO-F"> operire</rdg>
+         </app> gratia culpam</vBody>
+      <rep type="r" wit="CAO-R CAO-D CAO-F Glo"> Sicut</rep>
+      <dox type="r" wit="CAO-D Glo">Gloria</dox>
+      <rep type="r" num="2" wit="CAO-D"> Mariam</rep>
+      <rep type="r" num="2" wit="Glo"> Sicut</rep>
+   </verses>
+</res>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7226" nextid="c7228" id="c7227">
+   <header>
+      <usage ms="Alb2" code="01041000">[19r] matins-n2-r8</usage>
+      <usage ms="Bat" code="01041000">[12v] matins-n3-r10</usage>
+      <usage ms="Cdm" code="01041000">[18v] matins-n3-r10</usage>
+      <usage ms="Ely" code="01041000">[14r] matins-n3-r10</usage>
+      <usage ms="Evm" code="01041000">[23v] matins-n2-r8</usage>
+      <usage ms="Hyd" code="01041000">[13v] matins-n3-r10</usage>
+      <usage ms="Mch" code="01041000">[18r] matins-n2-r8</usage>
+      <usage ms="Pet" code="01041000">[11r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="01041000">[48v] matins-n2-r8</usage>
+      <usage ms="Wor" code="01041000">[12r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Non discedimus
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> a te</rdg>
+         <rdg wit="CAO-C CAO-F CAO-S"> ad te</rdg>
+      </app> vivificabis nos
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> domine</rdg>
+         <rdg wit="CAO-L"> dominus</rdg>
+      </app> et nomen tuum invocabimus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Ely Wor Wcb Pet Bat"> ostende nobis</rdg>
+         <rdg wit="Cdm"> ostende nobis domine</rdg>
+      </app> faciem tuam et salvi erimus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Domine deus virtutum converte nos</vBody>
+      <vBody type="r" wit="CAO-F CAO-L"> Memento nostri domine in beneplacito populi tui visita nos in salutari tuo</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat">Ostende</rep>
+      <rep type="r" wit="CAO-F">Et salvi</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2695" nextid="c2696b" id="c2696">
+   <header>
+      <usage ms="Cht" code="05061000">[9v] lauds gosp</usage>
+      <usage ms="Hyd" code="05034000"/>
+      <usage ms="Pet" code="05061000"/>
+   </header>
+   <aBody wit="CAO-D Hyd Pet Cht">
+      <app>
+         <rdg wit="CAO-D Hyd Pet"> Et cum plicuisset Jesus</rdg>
+         <rdg wit="Cht"> Cum plicuisset Jesus</rdg>
+      </app> librum reddidit ministro et sedit et omnium in synagoga oculi erant intendentes in eum</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2410" nextid="c2412" id="c2411">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Dominus Jesus Christus non se inquit</rdg>
+         <rdg wit="CAO-L"> Dominus Jesus Christus non inquit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> purpuratum nec diademate renitentem</rdg>
+         <rdg wit="CAO-H"> purpuratum nec diademate nitentem</rdg>
+      </app> se venturum esse praedixit</aBody>
+</ant>

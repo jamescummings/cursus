@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1010" nextid="o1012" id="o1011">
+   <header>
+      <usage ms="Alb2" code="06036000">[74r] vesp2</usage>
+      <usage ms="Wcb" code="06036000"/>
+   </header>
+   <pBody wit="Alb2 Wcb"> Tuere domine populum tuum et ab omnibus peccatis clementer emunda quia nulla ei nocebit adversitas si nulla dominetur iniquitas</pBody>
+</prayer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8538" nextid="c8540" id="c8539">
+   <header>
+      <usage ms="Glo" code="07061000">[73r] procession-a1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Text derived from Philippians 2, 5-10: cf. c8530</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Glo">In nomine enim Jesu omne genu flectatur caelestium terrestrium et infernorum et omnis lingua confiteatur quia dominus Jesus Christus in gloria est dei patris</aBody>
+   <verses>
+      <vBody type="a" wit="Glo">Propter quod et deus exaltavit illum et dedit illi nomen quod est super omnem nomen</vBody>
+      <rep type="a" wit="Glo">In nomine</rep>
+   </verses>
+</ant>

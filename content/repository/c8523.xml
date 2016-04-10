@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8522" nextid="c8524" id="c8523">
+   <header>
+      <usage ms="Alb2" code="07021000"/>
+      <usage ms="Evm" code="07021000"/>
+      <usage ms="Glo" code="07021000"/>
+      <usage ms="Wcb" code="07021000"/>
+   </header>
+   <aBody wit="Evm Wcb Glo Alb2">Non sum missus nisi ad oves
+     <app>
+         <rdg wit="Evm Wcb Glo"> quae perierant domus Israel dicit dominus</rdg>
+         <rdg wit="Alb2"> quae perierunt domus Israel</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2613" nextid="c2615" id="c2614">
+   <aBody wit="CAO-B CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> Egregie dei martyr Sebastiane</rdg>
+         <rdg wit="CAO-F"> Egregie Christi martyr Sebastiane</rdg>
+      </app> princeps ac propagator sanctissimorum praeceptorum ecce nomen tuum in libro vitae caelestis adscriptum est et memoriale tuum non derelinquetur
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> in saecula</rdg>
+         <rdg wit="CAO-F"> in saeculum</rdg>
+      </app>
+   </aBody>
+</ant>

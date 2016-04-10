@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4220" nextid="c4222" id="c4221">
+   <header>
+      <usage ms="Alb2" code="02122500">[29r] lauds-a5</usage>
+      <usage ms="Bat" code="02122500">[18r] lauds-a5</usage>
+      <usage ms="Cdm" code="02122500">[23v] lauds-a5</usage>
+      <usage ms="Ely" code="02122500">[19r] matins-n3</usage>
+      <usage ms="Evm" code="02010100">[60r] matins-n3</usage>
+      <usage ms="Evm" code="02122500">[37r] lauds-a5</usage>
+      <usage ms="Hyd" code="02122500">[19v] matins-n3</usage>
+      <usage ms="Pet" code="02122500">[18r] lauds-a5</usage>
+      <usage ms="Wcb" code="02010100">[66v] matins-n3</usage>
+      <usage ms="Wcb" code="02122500">[57r] lauds-a6</usage>
+      <usage ms="Wor" code="02122500">[16r] lauds-a5</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.150-151</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Parvulus filius hodie natus est nobis et vocabitur deus fortis alleluia alleluia</aBody>
+</ant>

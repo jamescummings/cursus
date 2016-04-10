@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1215" nextid="c1217" id="c1216">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Accepit autem omnes timor</rdg>
+         <rdg wit="CAO-C CAO-V"> Accepit autem omnis timor</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S"> et magnificabant deum</rdg>
+         <rdg wit="CAO-R"> et magnificabant eum</rdg>
+      </app> dicentes quia propheta magnus surrexit in nobis et
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> quia deus visitavit plebem suam</rdg>
+         <rdg wit="CAO-S"> quia deus visitabit plebem suam</rdg>
+      </app>
+   </aBody>
+</ant>

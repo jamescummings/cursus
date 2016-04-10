@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7166" nextid="c7168" id="c7167">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Misit Herodes rex manus ac tenuit Joannem et vinxit eum
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> in carcerem</rdg>
+         <rdg wit="CAO-M CAO-V"> in carcere</rdg>
+      </app> quia metuebat eum propter Herodiadem quam tulerat
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S"> fratri suo</rdg>
+         <rdg wit="CAO-C"> fratris suo</rdg>
+         <rdg wit="CAO-R"> fratris sui</rdg>
+      </app> Philippo uxorem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S"> Arguebat Herodem Joannes propter Herodiadem</vBody>
+      <vBody type="r" wit="CAO-C CAO-V"> Herodes enim tenuit et ligavit Joannem et posuit
+       <app>
+            <rdg wit="CAO-C"> in carcerem</rdg>
+            <rdg wit="CAO-V"> in carcere propter Herodiadem</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Dicebat enim illi Joannes non licet tibi accipere uxorem</vBody>
+      <vBody type="r" wit="CAO-D"> Joannes autem baptista arguebat Herodem</vBody>
+      <vBody type="r" wit="CAO-M"> Joannes baptista arguebat Herodem propter Herodiadem</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S">Quam</rep>
+      <rep type="r" wit="CAO-C">Quia</rep>
+      <rep type="r" wit="CAO-D">Propter</rep>
+   </verses>
+</res>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7298" nextid="c7300" id="c7299">
+   <rBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">O una ante omnes felix pulcherrima virgo</l>
+         <l part="N">quae lapsorum castros reparasti viscere mundum</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <verse type="stanza">
+            <l part="N">Posce Deum natum piis quem continens ulnis</l>
+            <l part="N">salvet ut hanc proprio quaesitam sanguine plebem</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-L"> Quae</rep>
+   </verses>
+</res>

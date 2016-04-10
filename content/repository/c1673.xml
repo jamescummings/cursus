@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1672" nextid="c1674" id="c1673">
+   <header>
+      <usage ms="Glo" code="14032100"/>
+   </header>
+   <aBody wit="CAO-D CAO-F CAO-S Glo"> Beatus vir Benedictus plus appetiit mala mundi
+     <app>
+         <rdg wit="CAO-D CAO-F Glo"> perpeti</rdg>
+         <rdg wit="CAO-S"> perpetim</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-S"> quam laudes</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="quem">quam</corr> laudes</rdg>
+         <rdg wit="Glo"> quam laudis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-S"> pro deo laboribus fatigari</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="pre">pro</corr> deo laboribus fatigari</rdg>
+         <rdg wit="Glo"> humane favoribus agitari</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7482b" nextid="c7484" id="c7483">
+   <rBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <verse type="stanza">
+         <l part="N">
+            <app>
+               <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Qui regni claves</rdg>
+               <rdg wit="CAO-L"> Cui regni claves</rdg>
+            </app> et curam
+       <app>
+               <rdg wit="CAO-C"> tradit ovilis</rdg>
+               <rdg wit="CAO-R CAO-F CAO-S"> tradidit ovili</rdg>
+               <rdg wit="CAO-V CAO-H"> tradidit ovilis</rdg>
+               <rdg wit="CAO-E CAO-L"> tradit ovili</rdg>
+               <rdg wit="CAO-D"> tra<add>did</add>dit ovili</rdg>
+            </app>
+         </l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Qui</rdg>
+               <rdg wit="CAO-L"> Huic</rdg>
+            </app> caeli terraeque Petro commisit
+       <app>
+               <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> habenas</rdg>
+               <rdg wit="CAO-L"> avenas</rdg>
+            </app>
+         </l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S">Ut reseret</rdg>
+               <rdg wit="CAO-L"> Ut reserat</rdg>
+               <rdg wit="CAO-D"> Ut <corr sic="reseret">reserat</corr>
+               </rdg>
+            </app> clausis et solvat
+       <app>
+               <rdg wit="CAO-C CAO-E CAO-H CAO-D CAO-F CAO-S CAO-L"> vincla</rdg>
+               <rdg wit="CAO-V CAO-R"> vincula</rdg>
+            </app> ligatis
+      </l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-H CAO-R CAO-L">
+         <verse type="stanza">
+            <l part="N">Ipse tua Petre
+        <app>
+                  <rdg wit="CAO-H CAO-R CAO-L"> iussit vincula solvi</rdg>
+                  <rdg wit="CAO-V"> dissipare vincula iussit</rdg>
+               </app>
+            </l>
+            <l part="N">
+        Qui te
+        <app>
+                  <rdg wit="CAO-V CAO-H CAO-R"> mundanos</rdg>
+                  <rdg wit="CAO-L"> mundanas</rdg>
+               </app> constituit solvere
+        <app>
+                  <rdg wit="CAO-V CAO-H CAO-R"> nexus</rdg>
+                  <rdg wit="CAO-L"> nexos</rdg>
+               </app>
+            </l>
+         </verse>
+      </vBody>
+      <vBody id="c7483-1" type="r" wit="CAO-C">
+         <verse type="stanza">
+            <l part="N">Ipsa tua Petre dissipare vincula iussit</l>
+            <l part="N">Qui te mundanos iussit dissolvere nexus</l>
+         </verse>
+      </vBody>
+      <rep corresp="c7483-1" type="r" wit="CAO-C"> Ut reseret</rep>
+      <vBody type="r" wit="CAO-F CAO-D">
+         <verse type="stanza">
+            <l part="N">Ipse per hunc nostros dignetur solvere nexus</l>
+         </verse>
+      </vBody>
+      <vBody type="r" wit="CAO-S"> Quocumque ligaveris super terram erit ligatum et in caelis et quodcumque solveris super terram erit solutum et in caelis</vBody>
+      <vBody id="c7483-2" type="r" num="2" wit="CAO-C"> Quodcumque ligaveris super terram erit ligatum et in caelis et quodcumque solveris super terram erit solutum et in caelis</vBody>
+      <rep corresp="c7483-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody type="r" wit="CAO-E"> Ipse praebit ante illum in spiritu et virtute Eliae</vBody>
+      <rep type="r" wit="CAO-V CAO-H CAO-R CAO-D CAO-F">Qui caeli</rep>
+      <rep type="r" wit="CAO-E"> Habenas</rep>
+      <rep type="r" wit="CAO-L"> Avenas</rep>
+      <rep type="r" wit="CAO-S"> Ut reseret</rep>
+   </verses>
+</res>

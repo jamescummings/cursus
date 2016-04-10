@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7345" nextid="c7347" id="c7346">
+   <header>
+      <usage ms="Alb2" code="07051000">[99r] matins-n3-r10</usage>
+      <usage ms="Bat" code="07051000">[59r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="07051000">[71r] matins-n3-r11</usage>
+      <usage ms="Cht" code="07052000">[49v] matins-n1-r2</usage>
+      <usage ms="Ely" code="07052000">[83r] matins-r1</usage>
+      <usage ms="Hyd" code="07051000">[86r] matins-n2-r7</usage>
+      <usage ms="Mch" code="07051000">[146r] matins-n3-r12</usage>
+      <usage ms="Pet" code="07051000">[80v] matins-r13</usage>
+      <usage ms="Wor" code="07051000">[53v] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch Bat"> Pacifice loquebantur mihi inimici mei et in ira molesti erant mihi vidisti domine ne sileas ne discedas a me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Pet Mch"> Omnes inimici mei adversum me cogitabant mala mihi verbum iniquum mandaverunt adversum me</vBody>
+      <vBody type="r" wit="CAO-F CAO-L Ely Wor Cht Hyd Alb2 Cdm Bat">
+         <app>
+            <rdg wit="CAO-F CAO-L Wor Alb2 Cdm Bat"> Ego autem dum mihi molesti essent</rdg>
+            <rdg wit="Ely Cht Hyd"> Ego autem cum mihi molesti essent</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F CAO-L Ely Wor Cht Hyd"> induebam me cilicio et humiliabam in ieiunio animam meam</rdg>
+            <rdg wit="Alb2 Cdm Bat"> induebam me cilicio</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Alb2 Cdm Mch Bat">Vidisti</rep>
+   </verses>
+</res>

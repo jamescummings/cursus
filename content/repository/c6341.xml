@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6340" nextid="c6341a" id="c6341">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L"> Corona aurea</rdg>
+         <rdg wit="CAO-C CAO-E CAO-R"> Coronam auream</rdg>
+      </app> super caput eius
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> expressa signo sanctitatis</rdg>
+         <rdg wit="CAO-L"> expressa signum sanctitatis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-F CAO-L"> gloria honoris</rdg>
+         <rdg wit="CAO-M"> gloria et honoris</rdg>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-S"> gloriae honoris</rdg>
+         <rdg wit="CAO-R"> gloriam honoris</rdg>
+      </app> et opus fortitudinis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L"> Quoniam praevenisti eum in benedictionibus dulcedinis posuisti in capite eius coronam de lapide pretioso</vBody>
+      <vBody type="r" wit="CAO-M"> Quoniam praevenisti eum</vBody>
+      <vBody type="r" wit="CAO-R"> Quoniam praevenisti eum in benedictionibus dulcedinis posuiti in capite</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-L"> Expressa</rep>
+      <rep type="r" wit="CAO-M CAO-V CAO-H"> Gloria</rep>
+   </verses>
+</res>

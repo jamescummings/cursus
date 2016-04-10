@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4532" nextid="c4534" id="c4533">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Quid vobis videtur de Christo cuius filius est
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> dicunt ei omnes David</rdg>
+         <rdg wit="CAO-C"> dicunt omnes David</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F"> respondens Jesus dixit</rdg>
+         <rdg wit="CAO-H CAO-S"> dicit eis Jesus</rdg>
+         <rdg wit="CAO-B CAO-M"> dicit ei Jesus</rdg>
+         <rdg wit="CAO-R"> dicit Jesus</rdg>
+      </app> quomodo David in spiritu vocat eum dominum dicens dixit dominus domino meo sede a dextris meis</aBody>
+</ant>

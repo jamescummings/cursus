@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2133" nextid="c2135" id="c2134">
+   <aBody wit="CAO-B CAO-V CAO-H CAO-R CAO-L"> Dedit illi dominus claritatem aeteram
+     <app>
+         <rdg wit="CAO-R"> et nomine aeterno haereditabit illum</rdg>
+         <rdg wit="CAO-V"> in nomine aeterno haereditabit illum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-L"> et nomine aeterno hereditavit illum</rdg>
+      </app>
+   </aBody>
+</ant>

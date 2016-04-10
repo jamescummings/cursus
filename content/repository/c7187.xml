@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7186" nextid="c7188" id="c7187">
+   <header>
+      <usage ms="Alb2" code="07051000">[98r] matins-n1-r2</usage>
+      <usage ms="Bat" code="07051000">[58v] matins-n1-r2</usage>
+      <usage ms="Cdm" code="07051000">[70v] matins-n1-r2</usage>
+      <usage ms="Cht" code="07051000">[46r] matins-n1-r2</usage>
+      <usage ms="Ely" code="07051000">[81r] matins-n1-r2</usage>
+      <usage ms="Evm" code="07051000">[133v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="07051000">[85v] matins-n1-r2</usage>
+      <usage ms="Mch" code="07051000">[144r] matins-n1-r2</usage>
+      <usage ms="Wcb" code="07051000">[107r] matins-n1-r2</usage>
+      <usage ms="Wor" code="07051000">[52v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Multiplicati sunt qui tribulant me</rdg>
+         <rdg wit="Cht"> Multiplicati sunt tribulant me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> et dicunt non est salus illi in deo eius</rdg>
+         <rdg wit="CAO-D Ely"> et dicunt non est salus ipsi in deo eius</rdg>
+      </app> exsurge domine salvum me fac
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> deus meus</rdg>
+         <rdg wit="Evm"> deus <add place="interlined">meus</add>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Nequando dicat inimicus meus praevalui adversus eum</vBody>
+      <vBody type="r" wit="CAO-E CAO-V CAO-S CAO-L"> Qui tribulant me exsultabunt si motus fuero ego autem <app>
+            <rdg wit="CAO-E CAO-V CAO-S">in misericordia tua speravi</rdg>
+            <rdg wit="CAO-L">in tua misericordia sperabo</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Mch Bat">Exsurge</rep>
+   </verses>
+</res>

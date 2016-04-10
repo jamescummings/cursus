@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1835" nextid="c1837" id="c1836">
+   <header>
+      <usage ms="Hyd" code="01013000">[5v] lauds-a5</usage>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Caeli caelorum laudate deum</aBody>
+</ant>

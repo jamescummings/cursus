@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3051b" nextid="c3053" id="c3052">
+   <header>
+      <usage ms="Alb2" code="02122700">[36v] lauds-a2</usage>
+      <usage ms="Bat" code="02122700">[22r] lauds-a2</usage>
+      <usage ms="Cdm" code="02122700">[27v] lauds-a2</usage>
+      <usage ms="Evm" code="02122700">[45r] lauds-a1</usage>
+      <usage ms="Hyd" code="02122700">[25v] lauds-a3</usage>
+      <usage ms="Pet" code="02122700">[28r] lauds-a2</usage>
+      <usage ms="Wcb" code="02122700">[62v] lauds-a1</usage>
+      <usage ms="Wor" code="02122700">[21r] lauds-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Hic est discipulus meus sic eum volo manere donec veniam</aBody>
+</ant>

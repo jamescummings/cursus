@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4120" nextid="c4122" id="c4121">
+   <header>
+      <usage ms="Evm" code="07023000"/>
+      <usage ms="Glo" code="07023000"/>
+      <usage ms="Mch" code="07023000">[125v] lauds gosp</usage>
+      <usage ms="Wcb" code="07023000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-L Evm Wcb Mch">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R Evm Wcb Mch"> Omnes enim vos fratres estis</rdg>
+         <rdg wit="CAO-E"> Omnes vos fratres estis</rdg>
+         <rdg wit="CAO-F CAO-L"> Omnes autem vos fratres estis</rdg>
+      </app> et patrem nolite vocare vobis super terram
+     <app>
+         <rdg wit="CAO-F CAO-L Evm Wcb Mch"> est enim pater vester</rdg>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R"> unus est enim pater vester</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-L Evm Wcb"> qui in caelis est</rdg>
+         <rdg wit="Mch"> qui in caelis est Christus dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-F CAO-L Evm Wcb Mch"> nec vocemini magistri</rdg>
+         <rdg wit="CAO-E"> ne vocemini magistri</rdg>
+      </app> quia magister vester unus est Christus</aBody>
+   <aBody wit="Glo" type="incipit"> Omnes enim vos fratres estis</aBody>
+</ant>

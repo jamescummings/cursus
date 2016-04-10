@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2457" nextid="c2458b" id="c2458">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-V CAO-S"> Dum ingrederetur Jesus quoddam castellum</rdg>
+         <rdg wit="CAO-D"> Cum ingrederetur Jesus quoddam castellum</rdg>
+         <rdg wit="CAO-B CAO-R CAO-F"> Dum intraret Jesus quoddam castellum</rdg>
+         <rdg wit="CAO-H"> Dum intrasset Jesus quoddam castellum</rdg>
+         <rdg wit="CAO-C"> Dum transisset Jesus quoddam castellum</rdg>
+         <rdg wit="CAO-M CAO-L"> Dum transiret Jesus quoddam castellum</rdg>
+      </app> occurrerunt ei decem viri leprosi qui steterunt a longe
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> et levaverunt vocem</rdg>
+         <rdg wit="CAO-C"> levaverunt vocem</rdg>
+         <rdg wit="CAO-D"> et laverunt vocem</rdg>
+      </app> dicentes Jesu praeceptor
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> miserere nostri</rdg>
+         <rdg wit="CAO-D"> miserere nobis</rdg>
+      </app>
+   </aBody>
+</ant>

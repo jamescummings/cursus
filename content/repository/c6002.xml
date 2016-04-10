@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6001" nextid="c6003" id="c6002">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L Alb2 Hyd"> A dextris est mihi dominus</rdg>
+         <rdg wit="CAO-V CAO-F"> Ad dextris est mihi dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Hyd"> ne commovear</rdg>
+         <rdg wit="CAO-G CAO-L"> nec commovear</rdg>
+      </app> propter hoc
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S Alb2 Hyd"> dilatatum est</rdg>
+         <rdg wit="CAO-H CAO-D CAO-L"> delectatum est</rdg>
+      </app> cor meum
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Alb2"> et exsultavit</rdg>
+         <rdg wit="CAO-B CAO-D Hyd"> et exsultabit</rdg>
+      </app> lingua mea</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Hyd"> Conserva me domine quoniam in te speravi dixi domino deus meus es tu</vBody>
+      <vBody type="r" wit="CAO-G"> Dominus pars hereditatis meae et calicis mei</vBody>
+      <vBody type="r" wit="CAO-L"> Dominus pars hereditatis meae et calicis meis tu es qui restitues hereditatem meam mihi</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Propter</rep>
+   </verses>
+</res>

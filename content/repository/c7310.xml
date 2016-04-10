@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7309b" nextid="c7311" id="c7310">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Oculis ac manibus in caelum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D"> semper intentus</rdg>
+         <rdg wit="CAO-C CAO-F CAO-S CAO-L"> semper intentis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> invictum</rdg>
+         <rdg wit="CAO-C CAO-V"> invictus</rdg>
+         <rdg wit="CAO-M CAO-L"> invictu</rdg>
+      </app> ab oratione
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> spiritum</rdg>
+         <rdg wit="CAO-M"> spiritus</rdg>
+      </app> non relaxabat</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Dum sacramenta offerret beatus Martinus globus igneus apparuit super caput eius</vBody>
+      <vBody id="c7310-1" type="r" wit="CAO-C"> Dum sacramenta offerret beatus Martinus globus igneus apparuit super caput eius</vBody>
+      <rep corresp="c7310-1" type="r" wit="CAO-C"> Spiritum</rep>
+      <vBody type="r" wit="CAO-D"> O virum ineffabilem nec labore victum nec morte vincendum qui nec mori timuit nec vivere recusavit</vBody>
+      <vBody id="c7310-2" type="r" num="2" wit="CAO-C"> O virum ineffabilem nec labore victum nec morte vincendum qui nec mori timuit nec vivere recusavit</vBody>
+      <rep corresp="c7310-2" type="r" wit="CAO-C"> Invictum</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Invictum</rep>
+   </verses>
+</res>

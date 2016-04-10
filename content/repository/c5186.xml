@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5185" nextid="c5187" id="c5186">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Trigesimo ordinationis suae anno oritur contra eum lamentabile crimen nam quaedam mulier quae cubiculariis vestimenta abluebat concepit et peperit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F"> et omne crimen</rdg>
+         <rdg wit="CAO-V"> et omnem crimen</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F"> episcopo obiciunt</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> super episcopum obiciunt</rdg>
+         <rdg wit="CAO-E"> super episcopo obiciunt</rdg>
+         <rdg wit="CAO-M"> super episcopum obitiens</rdg>
+         <rdg wit="CAO-V"> super episcopum obiecit</rdg>
+      </app>
+   </aBody>
+</ant>

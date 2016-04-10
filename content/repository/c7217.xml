@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7216" nextid="c7218" id="c7217">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Nocte os meum perforatur doloribus et qui me comedunt non dormiunt a multitudine eorum consumitur
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> vestimentum meum</rdg>
+         <rdg wit="CAO-C"> vestimentum</rdg>
+         <rdg wit="CAO-S"> vestimenta mea</rdg>
+      </app> comparatus sum luto et assimilatus sum favillae
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> et cineri</rdg>
+         <rdg wit="CAO-S"> et cinere</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> O custos hominum quare
+       <app>
+            <rdg wit="CAO-M CAO-V CAO-D CAO-F CAO-S Hyd"> posuisti me</rdg>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R"> me posuisti</rdg>
+            <rdg wit="CAO-C CAO-G"> posuisti</rdg>
+         </app> contrarium tibi et factus sum
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> mihimetipsi</rdg>
+            <rdg wit="CAO-E"> mihimetipsis</rdg>
+         </app> gravis
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D Hyd"> parce mihi domine</rdg>
+            <rdg wit="CAO-M CAO-V CAO-F CAO-S"> parce mihi</rdg>
+         </app> nihil enim sunt dies mei</vBody>
+      <vBody type="r" wit="CAO-L"> Elevasti me et quasi super ventum ponens elisisti me valide</vBody>
+      <vBody type="r" num="2" wit="CAO-F"> Nunc autem in memetipso marcescit anima mea et possident me dies afflictionis</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Comparatus</rep>
+   </verses>
+</res>

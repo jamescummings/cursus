@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7756" nextid="c7758" id="c7757">
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> Te sanctum dominum in excelsis laudant omnes angeli dicentes te decet laus et honor domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> Cherubim quoque
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F"> et seraphim</rdg>
+            <rdg wit="CAO-D"> ac seraphim</rdg>
+         </app> sanctus proclamant et omnis caelicus ordo dicens</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F">Te decet</rep>
+   </verses>
+</res>

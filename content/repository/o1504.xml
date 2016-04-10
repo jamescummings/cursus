@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1503" nextid="o1505" id="o1504">
+   <header>
+      <usage ms="Alb2" code="07013000"/>
+      <usage ms="Cht" code="07013000"/>
+      <usage ms="Ely" code="07013000"/>
+      <usage ms="Ely" code="07014000"/>
+      <usage ms="Evm" code="07013000"/>
+      <usage ms="Hyd" code="07013000"/>
+      <usage ms="Wcb" code="07013000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.178</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2">Ascendant ad te domine preces nostrae
+     <app>
+         <rdg wit="Ely Hyd Evm Wcb Alb2"> et ab ecclesia tua cunctam</rdg>
+         <rdg wit="Cht"> et ab ecclesia tuam <sic corr="cuncta" resp="DC">cunta</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Evm Hyd Wcb Alb2"> repelle nequitiam</rdg>
+         <rdg wit="Cht"> per dominum</rdg>
+      </app>
+   </pBody>
+</prayer>

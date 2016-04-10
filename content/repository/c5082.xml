@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5081" nextid="c5083" id="c5082">
+   <header>
+      <usage ms="Hyd" code="08011000">sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F"> Surrexit enim sicut dixit dominus</rdg>
+         <rdg wit="Hyd"> Surrexit vere sicut dixit dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R Hyd"> et praecedet vos in Galilaeam alleluia</rdg>
+         <rdg wit="CAO-G"> praecedam vos in Galilaeam alleluia</rdg>
+         <rdg wit="CAO-B"> praecedet vos in Galilaeam alleluia</rdg>
+         <rdg wit="CAO-D CAO-F"> et praecedit vos in Galilaeam alleluia</rdg>
+      </app> ibi eum videbitis alleluia alleluia alleluia</aBody>
+</ant>

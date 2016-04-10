@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6714" nextid="c6716" id="c6715">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Factum est silentium in caelo
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> dum</rdg>
+         <rdg wit="CAO-C"> cum</rdg>
+      </app> committeret bellum draco
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L"> cum Michael archangelo</rdg>
+         <rdg wit="CAO-M CAO-D CAO-F"> cum Michaele archangelo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> et audita</rdg>
+         <rdg wit="CAO-D CAO-F"> audita</rdg>
+      </app> est vox milia milium dicentium Salus honor et virtus omnipotenti Deo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Milia milium ministrabant ei
+       <app>
+            <rdg wit="CAO-M CAO-V CAO-D CAO-F"> et decies centena milia</rdg>
+            <rdg wit="CAO-E"> et decies centena milium</rdg>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-R"> et decies milies centena milia</rdg>
+         </app> assistebant ei</vBody>
+      <vBody type="r" wit="CAO-F CAO-L">
+         <app>
+            <rdg wit="CAO-F"> Proiectus est</rdg>
+            <rdg wit="CAO-L"> Et proiectus est</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L"> draco ille</rdg>
+            <rdg wit="CAO-F"> ille draco</rdg>
+         </app> magnus qui seducit universum orbem
+       <app>
+            <rdg wit="CAO-F"> et auditae sunt voces in caelo dicentes</rdg>
+            <rdg wit="CAO-L"> et factae sunt voces magnae in caelo <sic resp="Hesbert">dicentem</sic>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-M CAO-H CAO-R"> Et audita</rep>
+      <rep type="r" wit="CAO-E CAO-V CAO-F CAO-L"> Salus</rep>
+   </verses>
+</res>

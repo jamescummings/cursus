@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2417" nextid="c2418b" id="c2418">
+   <header>
+      <usage ms="Hyd" code="10200000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Dominus possedit me initio viarum suarum</rdg>
+         <rdg wit="CAO-M"> Dominus possedit me initium viarum tuarum</rdg>
+         <rdg wit="CAO-L Hyd"> Dominus possedit me in initio viarum suarum</rdg>
+      </app> antequam quidquam faceret a principio
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> necdum erant abyssi</rdg>
+         <rdg wit="CAO-M"> necdum erat abyssi</rdg>
+      </app> et ego parturiebar
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> quando praeparabat caelos</rdg>
+         <rdg wit="CAO-M"> quando praeparabam caelos</rdg>
+      </app> aderam cum eo
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> componens omnia</rdg>
+         <rdg wit="CAO-D"> disponens omnia</rdg>
+         <rdg wit="CAO-C"> componens omni tempore</rdg>
+      </app>
+   </aBody>
+</ant>

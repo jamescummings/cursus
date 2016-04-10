@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2674" nextid="c2676" id="c2675">
+   <header>
+      <usage ms="Alb2" code="01013000">[6v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01037000">[17v] nones</usage>
+      <usage ms="Ely" code="01012000">[5v] lauds gosp</usage>
+      <usage ms="Evm" code="01013000">[11v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01013000">[11v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01015000">[6r] lauds gosp</usage>
+      <usage ms="Hyd" code="01043000">[15r] sext</usage>
+      <usage ms="Mch" code="01013000">[6r] vesp2 gosp</usage>
+      <usage ms="Wor" code="01034000">[9r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Glo">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Glo"> Erumpant montes iucunditatem</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> Erumpent montes iucunditatem</rdg>
+      </app> et colles iustitiam quia lux mundi dominus cum potentia venit</aBody>
+</ant>

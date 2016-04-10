@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1746" nextid="o1748" id="o1747">
+   <header>
+      <usage ms="Alb2" code="01011000">[1v] commemoration</usage>
+      <usage ms="Ely" code="01011000">[2r] commemoration</usage>
+      <usage ms="Evm" code="01011000">[4r] commemoration</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Evm Ely"> Deus qui de beatae Mariae virginis utero verbum tuum angelo nunciante carnem suscipere voluisti praesta supplicibus tuis ut qui vere
+     <app>
+         <rdg wit="Alb2"> eam genetricem dei</rdg>
+         <rdg wit="Evm Ely"> eam dei genetricem</rdg>
+      </app> credimus eius apud te intercessionibus adiuvemur</pBody>
+</prayer>

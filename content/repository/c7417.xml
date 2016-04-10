@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7416" nextid="c7418" id="c7417">
+   <rBody wit="CAO-E CAO-S CAO-L"> Praecepto apostoli destructis a daemone
+     <app>
+         <rdg wit="CAO-E CAO-S"> simulacris</rdg>
+         <rdg wit="CAO-L"> simulacri</rdg>
+      </app> regi dixit beatus Bartholomaeus ego iussi
+     <app>
+         <rdg wit="CAO-E CAO-L"> daemonibus</rdg>
+         <rdg wit="CAO-S"> daemonia</rdg>
+      </app> quassare idola ut gentes verum credant deum qui regnat in caelis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-S CAO-L"> Propterea profanas imagines
+      <app>
+            <rdg wit="CAO-E CAO-L"> comminui</rdg>
+            <rdg wit="CAO-S"> comminui<del status="unremarkable">t</del>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-S CAO-L"> et ipsum daemonem</rdg>
+            <rdg wit="CAO-E"> et daemonem</rdg>
+         </app> ire in desertum
+      <app>
+            <rdg wit="CAO-E"> praecepi</rdg>
+            <rdg wit="CAO-L"> praecepit</rdg>
+            <rdg wit="CAO-S"> praecepi<del status="unremarkable">t</del>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-S CAO-L">Ut gentes</rep>
+   </verses>
+</res>

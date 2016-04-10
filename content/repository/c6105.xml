@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6104" nextid="c6106" id="c6105">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-D CAO-S"> Ante sextum vero
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-S"> exitus sui</rdg>
+         <rdg wit="CAO-C"> sui exitus</rdg>
+      </app> diem
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-S"> aperire</rdg>
+         <rdg wit="CAO-D"> aperiri</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-S"> sibi sepulturam</rdg>
+         <rdg wit="CAO-C"> sepulturam sibi</rdg>
+      </app> iubet qui mox
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-S"> correptus</rdg>
+         <rdg wit="CAO-C"> correptis</rdg>
+         <rdg wit="CAO-D"> correctus</rdg>
+      </app> febribus
+     <app>
+         <rdg wit="CAO-C CAO-D"> acri</rdg>
+         <rdg wit="CAO-H CAO-R"> acro</rdg>
+         <rdg wit="CAO-S"> agri</rdg>
+      </app> coepit dolore fatigari usque ad mortem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-C CAO-R"> Cumque per singulos dies</rdg>
+            <rdg wit="CAO-H"> Cumque per dies singulos</rdg>
+         </app> languor ingravesceret sexto die
+      <app>
+            <rdg wit="CAO-H CAO-R"> portari</rdg>
+            <rdg wit="CAO-C"> portare</rdg>
+         </app> se in oratorium a discipulis fecit</vBody>
+      <vBody type="r" wit="CAO-D CAO-S"> Cumque
+      <app>
+            <rdg wit="CAO-S"> per singulos dies</rdg>
+            <rdg wit="CAO-D"> per dies</rdg>
+         </app> languor ingravesceret</vBody>
+      <rep type="r" wit="CAO-C CAO-H"> Qui mox</rep>
+      <rep type="r" wit="CAO-R"> Acro</rep>
+      <rep type="r" wit="CAO-S"> Agri</rep>
+      <rep type="r" wit="CAO-D"> Acri</rep>
+   </verses>
+</res>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4747" nextid="c4749" id="c4748">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-S"> Sanctificavit dominus tabernaculum suum
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-S"> haec est domus dei</rdg>
+         <rdg wit="CAO-C"> quia haec est domus dei</rdg>
+         <rdg wit="CAO-D"> et haec est domus dei</rdg>
+         <rdg wit="CAO-R">
+            <gap reason="erasure" resp="Hesbert" extent="one word"/> haec est domus dei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-S"> in qua invocetur nomen eius</rdg>
+         <rdg wit="CAO-H"> in qua invocatur nomen eius</rdg>
+         <rdg wit="CAO-E"> in quam vocitur nomen eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-S"> de qua scriptum est</rdg>
+         <rdg wit="CAO-C CAO-H"> de quo scriptum est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-S"> erit nomen meum ibi dicit dominus</rdg>
+         <rdg wit="CAO-C"> et erit nomen meum ibi dicit dominus</rdg>
+         <rdg wit="CAO-E"> erit nomen ibi dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

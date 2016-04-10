@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2327" nextid="c2329" id="c2328">
+   <header>
+      <usage ms="Hyd" code="01015000">[6v] vesp2-a3</usage>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-S CAO-L Hyd"> Domine clamavi ad te
+     <app>
+         <rdg wit="CAO-H CAO-L Hyd"> exaudi me</rdg>
+         <rdg wit="CAO-E CAO-S"> et exaudi me</rdg>
+      </app>
+   </aBody>
+</ant>

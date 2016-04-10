@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7155" nextid="c7157" id="c7156">
+   <header>
+      <usage ms="Alb2" code="07021000">[84r] matins-r12</usage>
+      <usage ms="Bat" code="07021000">[52r] matins-n3-r10</usage>
+      <usage ms="Cdm" code="07021000">[61r] matins-n3-r10</usage>
+      <usage ms="Cht" code="07021000">[30v] matins-n3-r10</usage>
+      <usage ms="Ely" code="07021000">[71v] matins-n3-r10</usage>
+      <usage ms="Evm" code="07021000">[116r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="07021000">[75r] matins-n3-r10</usage>
+      <usage ms="Mch" code="07021000">[123v] matins-n3-r12</usage>
+      <usage ms="Pet" code="07021000">[68v] matins-n3-r10</usage>
+      <usage ms="Wcb" code="07021000">[98r] matins-n3-r10</usage>
+      <usage ms="Wor" code="07021000">[46r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Minor sum cunctis miserationibus tuis domine Abraham in baculo meo transivi Jordanem istum et nunc cum duabus turmis 
+       <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat"> regredior</rdg>
+         <rdg wit="Mch">regrediar</rdg>
+      </app> libera me domine
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> de manibus Esau</rdg>
+         <rdg wit="CAO-C"> de manu Esau</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Evm Wcb Alb2 Cdm Bat Mch"> quia valde contremit cor meum</rdg>
+         <rdg wit="CAO-C CAO-E"> quia valde contremens cor meum</rdg>
+         <rdg wit="Pet"> quia valde <gap desc="erasure, with subscript dots still visible, without notes on the stave above it" reason="erasure" resp="DC" extent="one (?) word"/> contremit cor meum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> illum timens</rdg>
+         <rdg wit="CAO-C"> illum timet</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-L Alb2 Mch"> Deus in cuius conspectu ambulaverunt 
+        <app>
+            <rdg wit="CAO-E CAO-V CAO-L Alb2"> patres mei</rdg>
+            <rdg wit="Mch"> patres nostri</rdg>
+         </app> domine qui pascis me a iuventute mea</vBody>
+      <vBody type="r" wit="CAO-R CAO-D Ely Hyd Wor Cht Pet Cdm Bat"> Tu locutus es
+       <app>
+            <rdg wit="CAO-R CAO-D Ely Hyd Wor Cht Pet Bat"> quod mihi bene faceres</rdg>
+            <rdg wit="Cdm"> quod bene mihi faceres</rdg>
+         </app> et dilatares semen meum sicut arenam maris</vBody>
+      <vBody type="r" wit="CAO-S"> Deus patris mei Abraham domine qui pascis me a iuventute mea</vBody>
+      <vBody type="r" wit="CAO-F Evm Wcb">
+         <app>
+            <rdg wit="CAO-F"> Domine tu dixisti mihi</rdg>
+            <rdg wit="Evm Wcb"> Domine qui dixisti mihi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F"> revertere in terram tuam et in locum nativitatis tuae</rdg>
+            <rdg wit="Evm Wcb"> revertere in locum nativitatis tuae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F"> et benefaciam tibi</rdg>
+            <rdg wit="Evm Wcb"> et multiplicabo te</rdg>
+         </app>
+      </vBody>
+      <vBody id="c7156-1" type="r" wit="CAO-C"> Ne forte veniens percutiat matrem cum filiis tu locutus es quo mihi bene feceris</vBody>
+      <rep corresp="c7156-1" type="r" wit="CAO-C"> Libera</rep>
+      <vBody id="c7156-2" type="r" wit="CAO-C"> Eripe me domine ab homine malo a viro iniquo eripe me</vBody>
+      <rep corresp="c7156-2" type="r" wit="CAO-C"> Quia</rep>
+      <rep type="r" wit="CAO-E CAO-V CAO-L CAO-R CAO-D CAO-S CAO-F Ely Hyd Wor Cht Pet Evm Alb2 Cdm Bat Mch"> Libera</rep>
+   </verses>
+</res>

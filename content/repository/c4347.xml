@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4346" nextid="c4348" id="c4347">
+   <header>
+      <usage ms="Alb2" code="07041000">[95r] lauds</usage>
+      <usage ms="Cdm" code="07041000">[68v] lauds-a4</usage>
+      <usage ms="Cht" code="07041000">[42r] lauds</usage>
+      <usage ms="Ely" code="07041000">[78v] lauds</usage>
+      <usage ms="Evm" code="07041000">[129v] lauds</usage>
+      <usage ms="Hyd" code="07041000">[83r] lauds</usage>
+      <usage ms="Mch" code="07041000">[139r] lauds-a4</usage>
+      <usage ms="Pet" code="07041000"/>
+      <usage ms="Wcb" code="07041000">[105r] lauds</usage>
+      <usage ms="Wor" code="07041000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Potens es domine
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Pet Alb2 Cdm Mch"> eripere nos</rdg>
+         <rdg wit="CAO-C"> eripere nos te</rdg>
+         <rdg wit="Ely Cht Evm Wcb"> eripere nos et</rdg>
+         <rdg wit="Wor"> eripere nos <add place="over erasure" resp="DC" hand="contemp">et</add>
+         </rdg>
+         <rdg wit="Hyd"> eripere nos <add place="interlined" resp="DC" hand="contemp">et</add>
+         </rdg>
+      </app> de manu mortis liberare nos deus noster</aBody>
+</ant>

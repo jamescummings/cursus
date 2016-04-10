@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7636" nextid="c7638" id="c7637">
+   <rBody wit="CAO-E CAO-F"> Sepelierunt Stephanum viri timorati et fecerunt planctum magnum super eum facta est autem et persecutio magna adversus
+     <app>
+         <rdg wit="CAO-E"> ecclesiam quae erat Jerosolymis</rdg>
+         <rdg wit="CAO-F"> ecclesias quae erant Jerosolymis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F"> Saulus autem consentiens neci eius devastabat ecclesias</vBody>
+      <vBody type="r" wit="CAO-E"> Saulus autem devastabat ecclesiam trahens viros ac mulieres mittensque in custodia</vBody>
+      <rep type="r" wit="CAO-E">Facta est</rep>
+      <rep type="r" wit="CAO-F"> Quae erant</rep>
+   </verses>
+</res>

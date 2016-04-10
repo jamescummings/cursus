@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7718b" nextid="c7720" id="c7719">
+   <rBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-S CAO-L"> Summe dei praesul Nicolae</rdg>
+         <rdg wit="CAO-D CAO-F"> Summe dei confessor Nicolae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-S CAO-L"> tuam catervam protege</rdg>
+         <rdg wit="CAO-D CAO-F"> te venerantes protege</rdg>
+      </app> namque credimus tuis precibus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-S CAO-L"> nos semper esse salvandos</rdg>
+         <rdg wit="CAO-D CAO-F"> nos posse salvari</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Qui tres pueros morti
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-R CAO-S CAO-L"> deditos</rdg>
+            <rdg wit="CAO-D CAO-F"> addictos</rdg>
+         </app> illaesos abire
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-R CAO-F CAO-S CAO-L"> fecisti</rdg>
+            <rdg wit="CAO-D"> fecistis</rdg>
+         </app> tuis laudibus
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-L"> instantem</rdg>
+            <rdg wit="CAO-S"> instanter</rdg>
+         </app> conserva plebem</vBody>
+      <rep type="r" wit="CAO-E CAO-R CAO-D CAO-F CAO-L">Namque</rep>
+      <rep type="r" wit="CAO-B CAO-S">Salvandos</rep>
+   </verses>
+</res>

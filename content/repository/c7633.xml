@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7632" nextid="c7634" id="c7633">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sebastianus vir christianissimus quem occultabat militaris habitus et chlamydis suae obumbrabit
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> aspectus</rdg>
+         <rdg wit="CAO-V"> aspectu</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Quem perfuderat deus gratia ab omnibus amabatur</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Hunc milites ac si patrem
+      <app>
+            <rdg wit="CAO-S CAO-L"> carissimo</rdg>
+            <rdg wit="CAO-S"> carissimum</rdg>
+         </app> venerabantur affectu erat enim verus dei cultor</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Et chlamydis</rep>
+      <rep type="r" wit="CAO-V">Quem</rep>
+   </verses>
+</res>

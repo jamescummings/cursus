@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3998" nextid="c4000" id="c3999">
+   <aBody wit="CAO-D CAO-F CAO-S"> O beate Dionysi magna est fides tua intercede pro nobis ad dominum deum nostrum
+     <app>
+         <rdg wit="CAO-F CAO-S"> ut qui qualitate tibi sumus dissimiles</rdg>
+         <rdg wit="CAO-D"> ut qui caritate tibi sumus dissimiles</rdg>
+      </app> sua gratia largiente faciat esse consortes</aBody>
+   <aBody wit="CAO-D" num="2"> O beate Dionysi magna est merces tua intercede pro nobis ad dominum deum nostrum ut qui caritate tibi sumus dissimiles sua gratia largiente faciat esse consortes</aBody>
+   <aBody wit="CAO-C"> O beate Dionysi magna est fides tua intercede pro nobis ad dominum deum tuum</aBody>
+</ant>

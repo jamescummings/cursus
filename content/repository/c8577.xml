@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8576" nextid="c8578" id="c8577">
+   <header>
+      <usage ms="Hyd" code="01021000">[6v] matins inv</usage>
+      <usage ms="Mch" code="01021000">[6r] matins inv</usage>
+   </header>
+   <aBody wit="Hyd Mch"> Surge vigilemus quia prope est dominus</aBody>
+</ant>

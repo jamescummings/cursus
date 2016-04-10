@@ -1,0 +1,2137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Tobit">
+<body>
+  <rubric type="bible-incipit" id="B.Tobit.incipit.001">
+    <reference>
+      <bookName>Tobit</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT LIBER TOBIAE</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Tobit.001.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Tobias ex tribu et civitate Nepthalim quae est in superioribus Galileae supra Naasson post viam quae ducit ad occidentem in sinistro habens civitatem Sephet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>cum captus esset in diebus Salmanassar regis Assyriorum in captivitate tamen positus viam veritatis non deseruit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>ita ut omnia quae habere poterat cotidie concaptivis fratribus qui erant ex genere inpertiret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>cumque esset iunior omnibus in tribu Nepthalim nihil tamen puerile gessit in opere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>denique cum irent omnes ad vitulos aureos quos Hieroboam fecerat rex Israhel hic solus fugiebat consortia omnium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et pergebat ad Hierusalem ad templum Domini et ibi adorabat Dominum Deum suum Israhel omnia primitiva sua et decimas suas fideliter offerens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>ita ut in tertio anno proselytis et advenis ministraret omnem decimationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>haec et his similia secundum legem Dei puerulus observabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>cum vero factus esset vir accepit uxorem Annam ex tribu sua genuitque ex ea filium nomen suum inponens ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>ab infantia timere Deum docuit et abstinere ab omni peccato</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>igitur cum per captivitatem devenisset cum uxore sua et filio in civitatem Nineve cum omni tribu sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>et omnes ederent ex cibis gentilium iste custodivit animam suam et numquam contaminatus est in escis eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>et quoniam memor fuit Domini in toto corde suo dedit illi Dominus gratiam in conspectu Salmanassar regis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>et dedit ei potestatem quocumque vellet ire habens libertatem quaecumque facere voluisset</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>pergebat ergo per omnes qui erant in captivitate et monita salutis dabat eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>cum autem venisset in Rages civitatem Medorum et ex his quibus honoratus fuerat a rege habuisset decem talenta argenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>et cum multa turba generis sui Gabelum egentem videret qui erat ex tribu eius sub chirografo dedit illi memoratum pondus argenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>post multum vero temporis mortuo Salmanassar rege cum regnaret Sennacherim filius eius pro eo et filios Israhel exosos haberet in conspectu suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>Tobias pergebat per omnem cognationem suam et consolabatur eos dividebatque unicuique prout poterat de facultatibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>esurientes alebat nudis vestimenta praebebat et mortuis atque occisis sepulturam sollicitus exhibebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>denique cum reversus esset rex Sennacherim fugiens a Iudaea plagam quam circa eum Deus fecerat propter blasphemiam suam et iratus multos occideret ex filiis Israhel Tobias sepeliebat corpora eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>at ubi nuntiatum est regi iussit eum occidi et tulit ei omnem substantiam eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.023">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>Tobias vero cum filio suo et cum uxore fugiens nudus latuit quia multi diligebant eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.024">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>post dies vero quadraginta et quinque occiderunt regem filii ipsius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.001.025">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>et reversus est Tobias ad domum suam omnisque facultas eius restituta est ei</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Tobit.002.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>post haec vero cum esset dies festus Domini et factum esset prandium bonum in domo Tobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>dixit filio suo vade et adduc aliquos ex tribu nostra timentes Deum et epulentur nobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>cumque abisset reversus nuntiat unum ex filiis Israhel iugulatum iacere in platea statimque exiliens de accubitu suo relinquens prandium ieiunus pervenit ad corpus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>tollensque illud portavit ad domum suam occulte ut dum sol occubuisset caute sepeliret eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>cumque occultasset corpus manducavit panem cum luctu et tremore</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>memorans illum sermonem quem dixit Dominus per Amos prophetam dies festi vestri convertentur in lamentationem et luctum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>cum vero sol occubuisset abiit et sepelivit eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>arguebant autem illum omnes proximi sui dicentes iam huius rei causa interfici iussus es et vix effugisti mortis imperium et iterum sepelis mortuos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>sed Tobias plus timens Deum quam regem rapiebat corpora occisorum et occultabat in domo sua et mediis noctibus sepeliebat ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>contigit autem ut quadam die fatigatus a sepultura veniens domum iactasset se iuxta parietem et obdormisset</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>ex nido hirundinum dormienti illi calida stercora insiderent super oculos eius fieretque caecus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>hanc autem temptationem ideo permisit Dominus evenire illi ut posteris daretur exemplum patientiae eius sicut et sancti Iob</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>nam cum ab infantia sua semper Deum timuerit et mandata eius custodierit non est contristatus contra Deum quod plaga caecitatis evenerit ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>sed inmobilis in Dei timore permansit agens gratias Deo omnibus diebus vitae suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>nam sicut beato Iob insultabant reges ita isti parentes et cognati eius et inridebant vitam eius dicentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>ubi est spes tua pro qua elemosynas et sepulturas faciebas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>Tobias vero increpabat eos dicens nolite ita loqui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>quoniam filii sanctorum sumus et vitam illam expectamus quam Deus daturus est his qui fidem suam numquam mutant ab eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>Anna vero uxor eius ibat ad textrinum opus cotidie et de labore manuum suarum victum quem consequi poterat deferebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>unde factum est ut hedum caprarum accipiens detulisset domi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>cuius cum vocem balantis vir eius audisset dixit videte ne forte furtivus sit reddite eum dominis suis quia non licet nobis ex furto aliquid aut edere aut contingere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>ad haec uxor eius irata respondit manifeste vana facta est spes tua et elemosynae tuae modo paruerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.002.023">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>atque his et aliis huiusmodi verbis exprobrabat ei</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Tobit.003.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>tunc Tobias ingemuit et coepit orare cum lacrimis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>dicens iustus es Domine et omnia iudicia tua iusta sunt et omnes viae tuae misericordia et veritas et iudicium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>et nunc Domine memor esto mei ne vindictam sumas de peccatis meis neque reminiscaris delicta mea vel parentum meorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>quoniam non oboedivimus praeceptis tuis et traditi sumus in direptionem et captivitatem et mortem et in fabulam et in inproperium omnibus nationibus in quibus dispersisti nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>et nunc Domine magna iudicia tua quia non egimus secundum praecepta tua et non ambulavimus sinceriter coram te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>et nunc Domine secundum voluntatem tuam fac mecum et praecipe in pace recipi spiritum meum expedit enim mihi mori magis quam vivere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>eadem itaque die contigit ut Sarra filia Raguhel in civitate Medorum ut et ipsa audiret inproperium ab una ex ancillis patris sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>quoniam tradita fuerat septem viris et daemonium nomine Asmodeus occiderat eos mox ut ingressi fuissent ad eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>ergo cum pro culpa sua increparet puellam respondit ei dicens amplius ex te non videamus filium aut filiam super terram interfectrix virorum tuorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>numquid et me occidere vis sicut et iam septem occidisti ad hanc vocem perrexit in superiori cubiculo domus suae et tribus diebus et tribus noctibus non manducavit neque bibit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>sed in oratione persistens lacrimis deprecabatur Dominum ut ab isto inproperio liberaret eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>factum est autem tertia die dum conpleret orationem benedicens Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>dixit benedictum est nomen tuum Deus patrum nostrorum qui cum iratus fueris misericordiam facies et in tempore tribulationis peccata dimittis his qui invocant te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>ad te Domine faciem meam converto ad te oculos meos converto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>peto Domine ut de vinculo inproperii huius absolvas me aut certe desuper terra eripias me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>tu scis Domine quia numquam concupivi virum et mundam servavi animam meam ab omni concupiscentia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>numquam cum ludentibus miscui me neque cum his qui in levitate ambulant participem me praebui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>virum autem cum timore tuo non libidine mea consensi suscipere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>et aut ego indigna fui illis aut illi mihi forsitan digni non fuerunt quia forsitan viro alio conservasti me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>non est enim in hominis potestate consilium tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>hoc autem certum habet omnis qui colit te quia vita eius si in probatione fuerit coronabitur si autem in tribulatione fuerit liberabitur et si in correptione fuerit ad misericordiam tuam pervenire licebit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:22</verseNum>
+      </reference>
+      <l>non enim delectaris in perditionibus nostris quia post tempestatem tranquillum facis et post lacrimationem et fletum exultationem infundis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.023">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:23</verseNum>
+      </reference>
+      <l>sit nomen tuum Deus Israhel benedictum in saecula</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.024">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:24</verseNum>
+      </reference>
+      <l>in illo tempore exauditae sunt preces amborum in conspectu gloriae summi Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.003.025">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>3:25</verseNum>
+      </reference>
+      <l>et missus est angelus Domini sanctus Rafahel ut curaret ambos quorum uno tempore fuerat oratio in conspectu Domini recitata</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Tobit.004.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>igitur cum Tobias putaret orationem suam exaudiri ut mori potuisset vocavit ad se Tobiam filium suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>dixitque ei audi fili mi verba oris mei et ea in corde tuo quasi fundamentum construe</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>cum acceperit Deus animam meam corpus meum sepeli et honorem habebis matri tuae omnibus diebus vitae eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>memor enim esse debes quae et quanta pericula passa sit propter te in utero suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>cum autem et ipsa conpleverit tempus vitae suae sepelies eam circa me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>omnibus autem diebus vitae tuae Deum in mente habe et cave ne aliquando peccato consentias et praetermittas praecepta Dei nostri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>ex substantia tua fac elemosynam et noli avertere faciem tuam ab ullo paupere ita enim fiet ut nec a te avertatur facies Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>quomodo potueris ita esto misericors</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>si multum tibi fuerit abundanter tribue si exiguum fuerit etiam exiguum libenter inpertire stude</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>praemium enim tibi bonum thesaurizas in die necessitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>quoniam elemosyna ab omni peccato et a morte liberat et non patietur animam ire in tenebras</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>fiducia magna erit coram summo Deo elemosyna omnibus qui faciunt eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>adtende tibi fili mi ab omni fornicatione et praeter uxorem tuam numquam patiaris crimen scire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>superbiam numquam in tuo sensu aut in tuo verbo dominari permittas in ipsa enim initium sumpsit omnis perditio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>quicumque aliquid tibi operatus fuerit statim mercedem ei restitue et merces mercennarii apud te omnino non maneat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>quod ab alio odis fieri tibi vide ne alteri tu aliquando facias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>panem tuum cum esurientibus et egenis comede et de vestimentis tuis nudos tege</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>panem tuum et vinum super sepulturam iusti constitue et noli ex eo manducare et bibere cum peccatoribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>consilium semper a sapiente perquire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>omni tempore benedic Deum et pete ab eo ut vias tuas dirigat et omnia consilia tua in ipso permaneant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:21</verseNum>
+      </reference>
+      <l>indico etiam tibi fili mi dedisse me decem talenta argenti dum infantulus esses Gabelo in Rages civitate Medorum et chirografum eius apud me habeo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:22</verseNum>
+      </reference>
+      <l>et ideo perquire quomodo ad eum pervenias et recipias ab eo supra memoratum pondus argenti et restituas ei chirografum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.004.023">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>4:23</verseNum>
+      </reference>
+      <l>noli timere fili mi pauperem quidem vitam gerimus sed multa bona habemus si timuerimus Deum et recesserimus ab omni peccato et fecerimus bene</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Tobit.005.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>tunc Tobias respondit patri suo et dixit omnia quaecumque praecepisti mihi faciam pater</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>quomodo autem hanc pecuniam inquiram ignoro ille me nescit neque ego illum quod signum dabo illi sed neque viam qua pergatur illuc aliquando cognovi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>tunc pater suus respondit illi et dixit chirografum quidem eius penes me habeo quem dum illi ostenderis statim restituet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>sed perge nunc et inquire tibi aliquem fidelem virum qui eat tecum salva mercede sua dum adhuc vivo ut recipias ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>tunc egressus Tobias invenit iuvenem splendidum stantem praecinctum et quasi paratum ad ambulandum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>et ignorans quod angelus Dei esset salutavit eum et dixit unde te habemus bone iuvenis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>at ille respondit ex filiis Israhel et Tobias dixit ei nosti viam quae ducit in regionem Medorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>cui respondit novi et omnia itinera eius frequenter ambulavi et mansi apud Gabelum fratrem nostrum qui moratur in Rages civitate Medorum quae posita est in monte Exbathanis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>cui Tobias ait sustine me obsecro donec haec ipsa nuntiem patri meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>tunc ingressus indicavit universa haec patri suo super quae admiratus pater rogat ut introiret ad eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>ingressus itaque salutavit eum et dixit gaudium tibi semper sit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>et Tobias ait quale mihi gaudium erit qui in tenebris sedeo et lumen caeli non video</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>cui ait iuvenis forti animo esto in proximo est ut a Deo cureris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>dixit itaque illi Tobias numquid poteris perducere filium meum ad Gabelum in Rages Medorum et cum redieris restituam tibi mercedem tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>et dixit ei angelus ego eum ducam et reducam ad te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>cui Tobias respondit rogo te indica mihi de qua domo aut de qua tribu es tu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>cui Rafahel angelus dixit genus quaeris mercennarii an ipsum mercennarium qui cum filio tuo eat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>sed ne forte sollicitum te reddam ego sum Azarias Ananiae magni filius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>et Tobias respondit ex magno genere es tu sed peto ne irascaris quod voluerim cognoscere genus tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>dixit autem illi angelus ego sanum ducam et sanum tibi reducam filium tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>respondens autem Tobias dixit bene ambuletis et sit Deus in itinere vestro et angelus eius comitetur vobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>tunc paratis omnibus quae erant in via portanda fecit Tobias vale patri et matri suae et ambulaverunt ambo simul</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.023">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>cumque profecti essent coepit flere mater eius et dicere baculum senectutis nostrae tulisti et transmisisti a nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.024">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>numquam esset ipsa pecunia pro qua misisti eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.025">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:25</verseNum>
+      </reference>
+      <l>sufficiebat enim nobis paupertas nostra ut divitias conputaremus hoc quod videbamus filium nostrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.026">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:26</verseNum>
+      </reference>
+      <l>dixitque ei Tobias noli flere salvus perveniet filius noster et salvus revertetur ad nos et oculi tui videbunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.027">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:27</verseNum>
+      </reference>
+      <l>credo enim quoniam angelus Dei bonus comitetur ei et bene disponat omnia quae circa ipsum geruntur ita ut cum gaudio revertatur ad nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.005.028">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>5:28</verseNum>
+      </reference>
+      <l>ad hanc vocem cessavit mater eius flere et tacuit</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Tobit.006.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>profectusque est Tobias et canis secutus est eum et mansit prima mansione iuxta fluvium Tigris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>et exivit ut lavaret pedes suos et ecce piscis inmanis exivit ad devorandum eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>quem expavescens clamavit voce magna dicens Domine invadet me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>et dixit ei angelus adprehende brancia eius et trahe eum ad te quod cum fecisset adtraxit eum in sicco et palpitare coepit ante pedes eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>tunc dixit ei angelus extentera hunc piscem et cor eius et fel eius et iecur repone tibi sunt enim haec necessaria ad medicamenta utiliter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>quod cum fecisset assavit carnes eius et secum sustulerunt in via cetera salierunt quae sufficerent eis quousque pervenirent in Rages civitatem Medorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>tunc interrogavit Tobias angelum et dixit ei obsecro te Azarias frater ut dicas mihi quod remedium habebunt ista quae de pisce servare iussisti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>respondensque dixit ei cordis eius particulam si super carbones ponas fumus eius extricat omne daemonium sive a viro sive a muliere ita ut ultra non accedat ad eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l/>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>et dixit ei ubi vis ut maneamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>respondensque angelus ait est hic Raguhel nomine propinquus vir de tribu tua et hic habet filiam nomine Sarram sed neque masculum neque feminam ullum habet alium praeter eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>tibi debetur omnis substantia eius et oportet te eam accipere coniugem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>pete ergo eam a patre eius et dabit tibi eam uxorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>tunc respondit Tobias et dixit audio quia tradita est viris septem et mortui sunt sed et haec audivi quia daemonium illos occidit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>timeo ergo ne forte mihi haec eveniant et cum sim unicus parentibus meis deponam senectutem illorum cum tristitia ad infernum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>tunc angelus Rafahel dixit ei audi me et ostendam tibi qui sunt quibus praevalere potest daemonium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>hii namque qui coniugium ita suscipiunt ut Deum a se sua mente excludant et suae libidini ita vacent sicut equus et mulus in quibus non est intellectus habet potestatem daemonium super eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>tu autem cum acceperis eam ingressus cubiculum per tres dies continens esto ab ea et nihil aliud nisi orationibus vacabis cum ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>ipsa autem nocte incenso iecore piscis fugabitur daemonium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>secunda vero nocte in copulatione sanctorum patriarcharum admitteris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>tertia autem nocte benedictione consequeris ut filii ex vobis incolomes procreentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.006.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>6:22</verseNum>
+      </reference>
+      <l>transacta autem tertia nocte accipies virginem cum timore Domini amore filiorum magis quam libidinis ductus ut in semine Abrahae benedictionem in filiis consequaris</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Tobit.007.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>ingressi sunt autem ad Raguhelem et suscepit eos Raguhel cum gaudio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>intuensque Tobiam Raguhel dixit Annae uxori suae quam similis est iuvenis iste consobrino meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>et cum haec dixisset ait unde estis iuvenes fratres nostri at illi dixerunt ex tribu Nepthalim sumus ex captivitate Nineven</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>dixit illis Raguhel nostis Tobiam fratrem meum qui dixerunt novimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>cumque multa bona loquerentur de eo dixit angelus ad Raguhel Tobias de quo interrogas pater huius est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>et misit se Raguhel et cum lacrimis osculatus est eum et plorans super collum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>dixit benedictio sit tibi fili mi quia boni et optimi viri filius es</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>et Anna uxor eius et Sarra filia ipsorum lacrimatae sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>postquam autem locuti sunt praecepit Raguhel occidi arietem et parari convivium cumque hortaretur eos discumbere ad prandendum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>Tobias dixit hic ego hodie non manducabo neque bibam nisi prius petitionem meam confirmes et promittas mihi dare Sarram filiam tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>quo audito verbo Raguhel expavit sciens quid evenerit illis septem viris et timere coepit ne forte et huic similiter accideret et cum nutaret et non daret ullum petenti responsum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>dixit ei angelus noli timere dare illam isti quoniam huic timenti Deum debetur coniux filia tua propterea alius non potuit habere illam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>tunc dixit Raguhel non dubito quod Deus preces et lacrimas meas in conspectu suo admiserit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>et credo quoniam ideo vos fecit ad me venire ut ista coniungeretur cognationi suae secundum legem Mosi et nunc noli dubium gerere quod tibi eam non tradam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>et adprehendens dexteram filiae suae dexterae Tobiae tradidit dicens Deus Abraham et Deus Isaac et Deus Iacob sit vobiscum et ipse coniungat vos impleatque benedictionem suam in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>et accepta carta fecerunt conscriptionem coniugii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>et post haec epulati sunt benedicentes Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:18</verseNum>
+      </reference>
+      <l>vocavitque ad se Raguhel Annam uxorem suam et praecepit ei ut praepararet alterum cubiculum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:19</verseNum>
+      </reference>
+      <l>et introduxit in eum Sarram filiam suam et lacrimata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.007.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>7:20</verseNum>
+      </reference>
+      <l>dixitque ei forti animo esto filia mi Dominus caeli det tibi gaudium pro taedio quo perpessa es</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Tobit.008.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>postquam vero cenaverunt introduxerunt iuvenem ad eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>recordatus itaque Tobias sermonem angeli protulit de cassidile suo partem iecoris posuitque eam super carbones vivos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>tunc Rafahel angelus adprehendit daemonium et religavit eum in deserto superioris Aegypti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>tunc hortatus est virginem Tobias dixitque ei Sarra exsurge deprecemus Deum hodie et cras et secundum cras quia istis tribus noctibus Deo iungimur tertia autem transacta nocte in nostro erimus coniugio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>filii quippe sanctorum sumus et non possumus ita coniungi sicut et gentes quae ignorant Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>surgentes autem pariter instanter orabant ambo ut sanitas daretur eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+
+      <l>dixitque Tobias Domine Deus patrum nostrorum benedicant te caeli et terra et mare fontes et flumina et omnis creatura tua quae in eis sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>tu fecisti Adam de limo terrae dedistique ei adiutorium Evam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>et nunc Domine tu scis quia non luxuriae causa accipio sororem meam sed sola posteritatis dilectione in qua benedicatur nomen tuum in saecula saeculorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>dixit itaque Sarra miserere nobis Domine miserere nobis et consenescamus ambo pariter sani</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>et factum est circa pullorum cantum accersiri iussit Raguhel servos suos et abierunt pariter ut foderent sepulchrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>dicebat enim ne simili modo evenerit ei quod et ceteris illis septem qui sunt ingressi ad eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>cumque parassent fossam reversus ad uxorem suam Raguhel dixit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>mitte unam ex ancillis tuis et videat si mortuus est ut sepeliam illum antequam inlucescat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>at illa mittens unam ex ancillis suis ingressa cubiculum repperitque eos incolomes secum pariter dormientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>reversa nuntiavit bonum nuntium et benedixerunt Deum Raguhel videlicet et Anna uxor eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>et dixerunt benedicimus te Domine Deus Israhel quia non contigit nobis quemadmodum putabamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:18</verseNum>
+      </reference>
+      <l>fecisti enim nobiscum misericordiam tuam et exclusisti a nobis inimicum persequentem nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:19</verseNum>
+      </reference>
+      <l>misertus es autem duobus unicis fac eos Domine in plenius benedicere te et sacrificium tibi laudis tuae et suae sanitatis offerre ut cognoscat universitas gentium quia tu es Deus solus in universa terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:20</verseNum>
+      </reference>
+      <l>statimque praecepit servis suis Raguhel ut replerent fossam quam fecerant priusquam lucesceret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:21</verseNum>
+      </reference>
+      <l>uxori autem suae dixit ut instrueret convivium et praepararet omnia quae in cibos erant iter agentibus necessaria</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:22</verseNum>
+      </reference>
+      <l>duas quoque vaccas pingues et quattuor arietes occidi fecit et parari epulas omnibus vicinis suis et cunctis amicis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.023">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:23</verseNum>
+      </reference>
+      <l>et adiuravit Raguhel Tobiam ut duas ebdomadas moraretur apud eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.008.024">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>8:24</verseNum>
+      </reference>
+      <l>de omnibus autem quae possidebat Raguhel dimidiam partem dedit Tobiae et fecit hanc scripturam ut pars dimidia quae supererat post obitum eorum Tobis dominio deveniret</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Tobit.009.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>tunc vocavit ad se Tobias angelum quem quidem hominem aestimabat et dixit ei Azarias frater peto ut auscultes verba mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>si me ipsum tradam tibi servum non ero condignus providentiae tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>tamen obsecro ut adsumas tibi animalia sive servitia et vadas ad Gabelum in Rages Medorum reddasque ei chirografum suum et recipias ab eo pecuniam et roges eum venire ad nuptias meas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>scis enim ipse quoniam numerat dies pater meus et si tardavero una die plus contristatur anima eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>et certe vides quomodo Raguhel coniuraverit me cuius adiuramentum spernere non possum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>tunc Rafahel adsumens quattuor ex servis Raguhelis et duos camelos in Rages Medorum perrexit et inveniens Gabelum dedit ei chirografum suum et recepit omnem pecuniam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>indicavitque ei de Tobia filio Tobiae omnia quae gesta sunt fecitque eum secum venire ad nuptias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>cumque ingressus esset domum Raguhelis invenit Tobiam discumbentem et exiliens osculati sunt se alterutrum flevit itaque Gabelus et benedixit Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>et dixit benedicat te Dominus Deus Israhel quia filius es viri optimi et iusti et timentis Deum et elemosynas facientis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>et dicatur benedictio super uxorem tuam et super parentes vestros</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>et videatis filios vestros et filios filiorum vestrorum usque in tertiam et quartam generationem et sit semen vestrum benedictum a Deo Israhel qui regnat in saecula saeculorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.009.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>cumque omnes dixissent amen accesserunt ad convivium sed et cum timore Domini nuptiarum convivium exercebant</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.Tobit.010.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>cum vero moras faceret Tobias causa nuptiarum sollicitus erat pater eius Tobias dicens putas quare moratur filius meus aut quare detentus est ibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>putasne Gabelus mortuus est et nemo illi reddet pecuniam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>coepit autem contristari nimis ipse et Anna uxor eius cum eo et coeperunt ambo simul flere eo quod die statuto minime reverteretur filius eorum ad eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>flebat igitur mater eius inremediabilibus lacrimis atque dicebat heu heu me fili mi ut quid te misimus peregrinari lumen oculorum nostrorum baculum senectutis nostrae solacium vitae nostrae spem posteritatis nostrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>omnia in te uno habentes te non debuimus dimittere ire a nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>cui dicebat Tobias tace et noli turbari sanus est filius noster satis fidelis est vir ille cum quo misimus eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>illa autem nullo modo consolari poterat sed cotidie exiliens circumspiciebat et circuibat vias omnes per quas spes remeandi videbatur ut procul videret eum si fieri possit venientem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>at vero Raguhel dicebat ad generum suum mane hic et ego mittam nuntium salutis de te ad Tobiam patrem tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>cui Tobias dixit ego novi quia pater meus et mater mea modo dies conputant et cruciatur spiritus eorum in ipsis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>cumque verbis multis rogaret Raguhel Tobiam et ille eum nulla ratione vellet audire tradidit ei Sarram et dimidiam partem omnis substantiae suae in pueris et in puellis et in pecudibus et in camelis et in pecunia multa et salvum atque gaudentem dimisit eum a se</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>dicens angelus Domini sanctus sit in itinere vestro perducatque vos incolomes et inveniatis omnia recte circa conparentes vestros et videant oculi mei filios vestros priusquam moriar</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>et adprehendentes parentes filiam suam osculati sunt eam et dimiserunt ire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.010.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>monentes eam honorare soceros diligere maritum regere familiam gubernare domum et se ipsam inreprehensibilem exhibere</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.Tobit.011.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>cumque reverterentur pervenerunt ad Charram quae est in medio itinere contra Nineven undecimo die</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>dixit angelus Tobias frater scis quemadmodum reliquisti patrem tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>si placet itaque tibi praecedamus et lento gradu insequentur iter nostrum familiae simul cum coniuge tua et cum animalibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>cumque hoc placuisset ut irent dixit Rafahel ad Tobiam tolle tecum ex felle piscis erit enim necessarium tulit itaque Tobias ex felle illo et abierunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>Anna vero sedebat secus viam in supercilio montis unde respicere poterat de longinquo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>et dum ex eodem loco specularetur adventum eius vidit a longe et ilico agnovit venientem filium suum et currens nuntiavit viro suo dicens ecce venit filius tuus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>dixitque Rafahel ad Tobiam adubi introieris domum tuam statim adora Dominum Deum tuum et gratias agens ei accede ad patrem tuum et osculare eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>statimque lini super oculos eius ex felle isto piscis quod portas tecum scias enim quoniam mox aperientur oculi eius et videbit pater tuus lumen caeli et in aspectu tuo gaudebit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>tunc praecucurrit canis qui simul fuerat in via et quasi nuntius adveniens blandimento suae caudae gaudebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>unde contigit ut exsurgens caecus pater coepit offendens pedibus currere et data manu puero occurrit in obviam filio suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>et suscipiens osculatus est eum cum uxore sua et coeperunt flere prae gaudio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>cumque adorassent Dominum et gratias egissent consederunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:13</verseNum>
+      </reference>
+      <l>tunc sumens Tobias de felle piscis linivit oculos patri suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:14</verseNum>
+      </reference>
+      <l>et sustinens quasi dimidiam fere horam coepit albugo ex oculis eius quasi membrana ovi egredi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:15</verseNum>
+      </reference>
+      <l>quem adprehendens Tobias traxit ab oculis eius statimque visum recepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:16</verseNum>
+      </reference>
+      <l>et glorificabant Deum ipse videlicet et uxor eius et omnes qui sciebant eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:17</verseNum>
+      </reference>
+      <l>dicebatque Tobias benedico te Domine Deus Israhel quoniam tu castigasti me et tu sanasti me et ecce video Tobiam filium meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:18</verseNum>
+      </reference>
+      <l>ingressa est etiam post septem dies Sarra uxor filii eius et omnes familiae et pecora sana et cameli et pecunia multa uxoris sed et alia pecunia quam receperat a Gabelo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:19</verseNum>
+      </reference>
+      <l>et narravit parentibus suis omnia beneficia Dei quae fecisset circa eum per hominem qui eum duxerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:20</verseNum>
+      </reference>
+      <l>veneruntque Achior et Nabath consobrini Tobiae gaudentes ad Tobin congratulantes ei de omnibus bonis quae circa illum ostenderat Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.011.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>11:21</verseNum>
+      </reference>
+      <l>et per septem dies epulantes omnes gaudio magno gavisi sunt</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.Tobit.012.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>tunc vocavit ad se Tobias filium suum dixitque ei quid possumus dare viro isti sancto qui venit tecum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>respondens Tobias dixit pater quam mercedem dabimus ei aut quid dignum poterit esse beneficiis eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>me duxit et reduxit sanum pecuniam a Gabelo ipse suscepit uxorem ipse me habere fecit et daemonium ab ea conpescuit gaudium parentibus eius fecit me ipsum a devoratione piscis eripuit te quoque fecit videre lumen caeli et bonis omnibus per eum repleti sumus quid illi ad haec dignum poterimus dare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>sed peto te pater mi ut roges eum si forte dignabitur medietatem de omnibus quae adlata sunt sibi adsumere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>et vocantes eum pater scilicet et filius tulerunt eum in partem et rogare coeperunt ut dignaretur dimidiam partem omnium quae adtulerant acceptam habere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>tunc dixit eis occulte benedicite Deum caeli et coram omnibus viventibus confitemini illi quoniam fecit vobiscum misericordiam suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>etenim sacramentum regis abscondere bonum est opera autem Dei revelare et confiteri honorificum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>bona est oratio cum ieiunio et elemosyna magis quam thesauros auri condere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>quoniam elemosyna a morte liberat et ipsa est quae purgat peccata et faciet invenire vitam aeternam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>qui autem faciunt peccatum et iniquitatem hostes sunt animae suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>manifesto ergo vobis veritatem et non abscondam a vobis sermonem occultum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>quando orabas cum lacrimis et sepeliebas mortuos et derelinquebas prandium et mortuos abscondebas per diem in domo tua et nocte sepeliebas ego obtuli orationem tuam Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>et quia acceptus eras Deo necesse fuit ut temptatio probaret te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>et nunc misit me Dominus ut curarem te et Sarram uxorem filii tui a daemonio liberarem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:15</verseNum>
+      </reference>
+      <l>ego enim sum Rafahel angelus unus ex septem qui adstamus ante Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:16</verseNum>
+      </reference>
+      <l>cumque haec audissent turbati sunt et trementes ceciderunt super faciem suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:17</verseNum>
+      </reference>
+      <l>dixitque eis angelus pax vobis nolite timere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:18</verseNum>
+      </reference>
+      <l>etenim cum essem vobiscum per voluntatem Dei ipsum benedicite et cantate illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:19</verseNum>
+      </reference>
+      <l>videbar quidem vobiscum manducare et bibere sed ego cibo invisibili et potu qui ab hominibus videri non potest utor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:20</verseNum>
+      </reference>
+      <l>tempus est ergo ut revertar ad eum qui me misit vos autem benedicite Deum et narrate omnia mirabilia eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:21</verseNum>
+      </reference>
+      <l>et cum haec dixisset ab aspectu eorum ablatus est et ultra eum videre non potuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.012.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>12:22</verseNum>
+      </reference>
+      <l>tunc prostrati per horas tres in faciem benedixerunt Deum et exsurgentes narraverunt omnia mirabilia eius</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.Tobit.013.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>aperiens autem Tobias senior os suum benedixit Dominum et dixit magnus es Domine in aeternum et in omnia saecula regnum tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>quoniam tu flagellas et salvas deducis ad infernum et reducis et non est qui effugiat manum tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>confitemini Domino filii Israhel et in conspectu gentium laudate eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>quoniam ideo dispersit vos inter gentes quae ignorant eum ut vos narretis mirabilia eius et faciatis scire eos quia non est alius Deus omnipotens praeter eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>ipse castigavit nos propter iniquitates nostras et ipse salvabit nos propter misericordiam suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>aspicite ergo quae fecit vobiscum et cum timore et tremore confitemini illi regemque saeculorum exaltate in operibus vestris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>ego autem in terra captivitatis meae confitebor illi quoniam ostendit maiestatem suam in gentem peccatricem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>convertimini itaque peccatores et facite iustitiam coram Deo credentes quod faciat vobiscum misericordiam suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>ego autem et anima mea in eo laetabimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>benedicite Dominum omnes electi eius agite dies laetitiae et confitemini illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>Hierusalem civitas Dei castigavit te Dominus in operibus manuum tuarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>confitere Domino in bonis et benedic Deum saeculorum ut reaedificet in te tabernaculum suum et revocet ad te omnes captivos et gaudeas in omnia saecula saeculorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>luce splendida fulgebis et omnes fines terrae adorabunt te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>nationes ex longinquo ad te venient et munera deferentes adorabunt Dominum in te et terram tuam in sanctificatione habebunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:15</verseNum>
+      </reference>
+      <l>nomen magnum invocabunt in te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:16</verseNum>
+      </reference>
+      <l>maledicti erunt qui contempserint te et condemnati erunt omnes qui blasphemaverint te benedictique erunt qui aedificaverint te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:17</verseNum>
+      </reference>
+      <l>tu autem laetaberis in filiis tuis quoniam omnes benedicentur et congregabuntur ad Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.018">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:18</verseNum>
+      </reference>
+      <l>beati omnes qui diligunt te et qui gaudent super pace tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.019">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:19</verseNum>
+      </reference>
+      <l>anima mea benedic Dominum quoniam liberavit Hierusalem civitatem suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.020">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:20</verseNum>
+      </reference>
+      <l>beatus ero si fuerint reliquiae seminis mei ad videndam claritatem Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.021">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:21</verseNum>
+      </reference>
+      <l>portae Hierusalem ex sapphyro et zmaragdo aedificabuntur et ex lapide pretioso omnis circuitus murorum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.022">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:22</verseNum>
+      </reference>
+      <l>ex lapide candido et mundo omnes plateae eius sternentur et per vicos eius alleluia cantabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.013.023">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>13:23</verseNum>
+      </reference>
+      <l>benedictus Dominus qui excitavit eam ut sit regnum eius in saecula saeculorum super eam amen</l>
+    </verse>
+  </chapter>
+  <chapter num="14">
+    <verse type="bible-verse" id="B.Tobit.014.001">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:1</verseNum>
+      </reference>
+      <l>et consummati sunt sermones Tobi et posteaquam inluminatus est vixit annis quadraginta duobus et vidit filios nepotum suorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.002">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:2</verseNum>
+      </reference>
+      <l>conpletis itaque annis centum duobus sepultus est honorifice in Nineven</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.003">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:3</verseNum>
+      </reference>
+      <l>quinquaginta namque et sex annorum oculorum lumen amisit sexagenarius vero recepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.004">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:4</verseNum>
+      </reference>
+      <l>reliquum vero vitae suae in gaudio fuit et cum bono profectu timoris Dei perrexit in pace</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.005">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:5</verseNum>
+      </reference>
+      <l>in hora autem mortis suae vocavit ad se Tobiam filium suum et septem iuvenes filios eius nepotes suos dixitque eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.006">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:6</verseNum>
+      </reference>
+      <l>prope erit interitus Nineven non enim excidit verbum Dei et fratres nostri qui dispersi sunt a terra Israhel revertentur ad eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.007">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:7</verseNum>
+      </reference>
+      <l>omnis autem deserta terra eius replebitur et domus Dei quae in ea incensa est iterum reaedificabitur ibique revertentur omnes timentes Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.008">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:8</verseNum>
+      </reference>
+      <l>et relinquent gentes idola sua et venient in Hierusalem et inhabitabunt in ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.009">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:9</verseNum>
+      </reference>
+      <l>et gaudebunt in ea omnes adorantes regem Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.010">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:10</verseNum>
+      </reference>
+      <l>audite ergo filii mei patrem vestrum servite Domino in veritate et inquirite ut faciatis quae sunt placita illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.011">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:11</verseNum>
+      </reference>
+      <l>et filiis vestris mandate ut faciant iustitias et elemosynas ut sint memores Dei et benedicant eum in omni tempore in veritate et in tota virtute sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.012">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:12</verseNum>
+      </reference>
+      <l>nunc ergo filii audite me et nolite manere hic sed quacumque die sepelieritis matrem vestram circa me in uno sepulchro ex eo dirigite gressus vestros ut exeatis hinc</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.013">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:13</verseNum>
+      </reference>
+      <l>video enim quoniam iniquitas eius finem dabit ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.014">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:14</verseNum>
+      </reference>
+      <l>factum est autem post obitum matris suae Tobias abscessit ex Nineven cum uxore sua et filiis et reversus est ad soceros suos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.015">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:15</verseNum>
+      </reference>
+      <l>invenitque eos incolomes in senectute bona et curam eorum gessit et ipse clausit oculos eorum et omnem hereditatem domus Raguhel ipse percepit viditque quintam generationem filios filiorum suorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.016">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:16</verseNum>
+      </reference>
+      <l>et conpletis annis nonaginta et novem in timore Domini cum gaudio sepelierunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Tobit.014.017">
+      <reference>
+        <bookName>Tobit</bookName>
+        <verseNum>14:17</verseNum>
+      </reference>
+      <l>omnis cognatio eius et omnis generatio eius in bona vita et sancta conversatione permansit ita ut accepti essent tam Deo quam hominibus et cunctis habitatoribus terrae</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Tobit.colophon.001">
+    <reference>
+      <bookName>Tobit</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT LIBER TOBIAE</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

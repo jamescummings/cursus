@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6201" nextid="c6203" id="c6202">
+   <rBody wit="CAO-C CAO-F"> Beatus Dionysius Rusticus et Eleutherius in hac ergo fidei
+      <app>
+         <rdg wit="CAO-F"> constantia</rdg>
+         <rdg wit="CAO-C"> pertinacia</rdg>
+      </app> permanentes reddentes terrae corpora
+      <app>
+         <rdg wit="CAO-F"> beatas animas</rdg>
+         <rdg wit="CAO-C"> animas</rdg>
+      </app> caelo cum gaudio intulerunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Tali namque ad dominum meruerunt professione migrare ut amputatis capitibus adhuc putaretur lingua palpitans dominum confiteri</vBody>
+      <vBody type="r" wit="CAO-F"> Beatae animae sanctorum Dionysii Rustici et Eleutherii relictis glebis <corr sic="secuti">secutae</corr> sunt redemptorem</vBody>
+      <rep type="r" wit="CAO-F">Beatas</rep>
+   </verses>
+</res>

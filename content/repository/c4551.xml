@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4550" nextid="c4552" id="c4551">
+   <aBody wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Quis tibi videtur proximus fuisse illi qui incidit in latrones
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F"> et ait ille</rdg>
+         <rdg wit="CAO-C CAO-M CAO-S"> et ait illi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S"> qui fecit misericordiam in illum</rdg>
+         <rdg wit="CAO-M"> qui fecit misericordiam in illo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-D CAO-F CAO-S"> vade et tu fac similiter alleluia</rdg>
+         <rdg wit="CAO-R"> vade et tu fac similiter</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3093" nextid="c3095" id="c3094">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.146 (only otherwise at Melk and Norcia)</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Hodie caelestes cives nuntiant pastoribus</l>
+         <l part="N"> salvatorem incarnatum mundum ut redimeret</l>
+         <l part="N"> grates ei referamus pro nobis qui natus est</l>
+      </lg>
+     `</aBody>
+</ant>

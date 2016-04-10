@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6939" nextid="c6941" id="c6940">
+   <header>
+      <usage ms="Bat" code="07011000">[48r] matins-n3-r9</usage>
+      <usage ms="Cdm" code="07011000">[57r] matins-n3-r9</usage>
+      <usage ms="Cht" code="07011000">[22r] matins-n2-r8</usage>
+      <usage ms="Ely" code="07011000">[67r] matins-n2-r8</usage>
+      <usage ms="Hyd" code="07011000">[69v] matins-n2-r9</usage>
+      <usage ms="Pet" code="07011000">[64r] matins-n2-r8</usage>
+      <usage ms="Wor" code="07011000">[43r] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-E CAO-V CAO-D CAO-L Hyd Ely Wor Cht Pet Cdm Bat"> In te domine sperent omnes animae dicentes
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-L Hyd Ely Wor Pet Cdm Bat"> cito deus</rdg>
+         <rdg wit="Cht"> scito deus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D Hyd Ely Wor Cht Pet Cdm Bat"> miserebitur nostri</rdg>
+         <rdg wit="CAO-L"> miserebitur deus miserere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-D Hyd Ely Wor Cht Pet Cdm Bat"> quia tu domine locutus es</rdg>
+         <rdg wit="CAO-V CAO-L"> quia tu domine locutus est</rdg>
+      </app> dicens gaudeo super
+      <app>
+         <rdg wit="CAO-D Hyd Ely Wor Cht Pet Cdm Bat"> uno paenitente</rdg>
+         <rdg wit="CAO-C"> unum paenitentem</rdg>
+         <rdg wit="CAO-V CAO-L"> uno paenitentem</rdg>
+         <rdg wit="CAO-E"> uno peccatore</rdg>
+      </app> quam supra nonaginta novem
+      <app>
+         <rdg wit="CAO-V CAO-L Hyd Ely Wor Pet Cdm Bat"> iustos non indigentes</rdg>
+         <rdg wit="CAO-E Cht"> iustis qui non indigent</rdg>
+         <rdg wit="CAO-D"> iustis non indigentes</rdg>
+         <rdg wit="CAO-C"> iustos qui non indigent</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-L Hyd Ely Wor Pet"> paenitentiam</rdg>
+         <rdg wit="Cht Cdm Bat"> paenitentia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> In die tribulationis tuae eripiam te et magnificabis me peccatori autem dixi deus</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-D CAO-L Hyd Ely Wor Cht Pet Cdm Bat"> Invoca me in die tribulationis tuae eripiam te et
+      <app>
+            <rdg wit="CAO-C CAO-L Hyd Ely Wor Cht Pet Cdm Bat"> magnificabis me</rdg>
+            <rdg wit="CAO-E"> glorificabis me</rdg>
+            <rdg wit="CAO-D"> honorificabis me</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E"> peccatori autem dicit deus</rdg>
+            <rdg wit="CAO-L"> peccatori autem dixit deus</rdg>
+            <rdg wit="CAO-C"> peccatori autem dixi deus</rdg>
+            <rdg wit="CAO-D Hyd Ely Wor Cht Pet Cdm Bat" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E"> Non veni vocare iustos sed peccatores in paenitentiam</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-V CAO-D Hyd Ely Wor Cht Pet Bat"> Gaudeo</rep>
+      <rep type="r" wit="CAO-L"> Quia</rep>
+   </verses>
+</res>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4961" nextid="c4963" id="c4962">
+   <header>
+      <usage ms="Alb2" code="02122600">[31v] matins-n2-a8</usage>
+      <usage ms="Bat" code="02122600">[19r] matins-n2-a8</usage>
+      <usage ms="Cdm" code="02122600">[24v] matins-n2-a8</usage>
+      <usage ms="Evm" code="02122600">[39v] matins-n2-a8</usage>
+      <usage ms="Hyd" code="02122600">[22v] matins-n2-a8</usage>
+      <usage ms="Pet" code="02122600">[21v] matins-n2-a8</usage>
+      <usage ms="Wor" code="02122600">[17r] matins-n2-a8</usage>
+   </header>
+   <aBody wit="CAO-G CAO-S Alb2 Bat Evm Hyd Cdm Wor Pet"> Sine macula beatus Stephanus ingressus est domine
+     <app>
+         <rdg wit="CAO-G Alb2 Bat Hyd Cdm Wor"> in tabernaculum tuum</rdg>
+         <rdg wit="CAO-S Evm Pet"> in tabernaculo tuo</rdg>
+      </app> et quia operatus est iustitiam
+     <app>
+         <rdg wit="CAO-S Alb2 Evm Hyd Wor"> requiescet in monte sancto tuo</rdg>
+         <rdg wit="Cdm Pet"> requiescit in monte sancto tuo</rdg>
+         <rdg wit="Bat"> requiescit in monte sancto eius</rdg>
+         <rdg wit="CAO-G"> requies in monte sancto tuo</rdg>
+      </app>
+   </aBody>
+</ant>

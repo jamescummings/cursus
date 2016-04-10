@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7732" nextid="c7734" id="c7733">
+   <header>
+      <usage ms="Alb2" code="07021000">[84r] matins-r11</usage>
+      <usage ms="Mch" code="07021000">[122r] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-E CAO-D CAO-F Alb2 Mch">
+      <app>
+         <rdg wit="CAO-E CAO-D Alb2"> Surgens ergo mane Jacob</rdg>
+         <rdg wit="Mch"> Surgens mane Jacob</rdg>
+         <rdg wit="CAO-F"> Surgens <del status="unremarkable">ergo</del> mane Jacob</rdg>
+      </app> tulit lapidem quem supposuerat capiti suo et erexit in titulum fundensque oleum desuper votum vovit domino et dixit vere locus iste sanctus est et ego nesciebam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F Alb2 Mch">
+         <app>
+            <rdg wit="Alb2 Mch"> Cumque obdormisset Jacob vidit scalam</rdg>
+            <rdg wit="CAO-E CAO-D CAO-F"> Cumque obdormisset vidit scalam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F Alb2"> cuius cacumen caelos tangebat</rdg>
+            <rdg wit="CAO-E Mch"> cuius cacumen caelum tangebat</rdg>
+         </app> et dominum innixum scalae et dixit</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F Alb2 Mch">Vere</rep>
+   </verses>
+</res>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1579" nextid="c1581" id="c1580">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beati eritis cum vos oderint homines
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> et cum separaverint vos et exprobraverint</rdg>
+         <rdg wit="CAO-H"> et cum seperaverit vos et exprobraverint</rdg>
+         <rdg wit="CAO-L"> et exprobraverint</rdg>
+      </app> et eiecerint nomen vestrum tamquam malum propter Filium hominis gaudete et exsultate ecce enim merces vestra
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-F CAO-S CAO-L"> multa est in caelis</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R CAO-D"> multa est in caelo</rdg>
+      </app>
+   </aBody>
+</ant>

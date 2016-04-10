@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1804" nextid="c1806" id="c1805">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F"> Cinctus ergo fide</rdg>
+         <rdg wit="CAO-V"> Accinctus ergo fide</rdg>
+      </app> et misericordiam anteponens paulatim sociabat deo quos diabolo subtrahebat</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Praedicans in trinitate perfecta unum et verum deum omnipotentem</vBody>
+   </verses>
+</ant>

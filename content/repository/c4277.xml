@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4276" nextid="c4278" id="c4277">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-L"> Petiit puella caput Joannis in disco</rdg>
+         <rdg wit="CAO-B CAO-V CAO-R CAO-F"> Petiit puella caput Joannis baptistae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F"> quo accepto dedit matri suae</rdg>
+         <rdg wit="CAO-C"> quo accepto dedit matri<del status="unremarkable">s</del> suae</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> quo allato dedit matri suae</rdg>
+         <rdg wit="CAO-V"> quo ablato dedit matris suae</rdg>
+         <rdg wit="CAO-L"> quo ablato dedit matri suae</rdg>
+      </app>
+   </aBody>
+</ant>

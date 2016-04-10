@@ -1,0 +1,73 @@
+ body {margin-left: 10pt;   margin-right: 10pt;  background-image: url("paper.jpg");  font-family: "Times New Roman", Times, serif; color: black;   font-size: 110%; text-align:left;}     
+.aBody {display: block;margin-left:2%; }
+.aBodywits {display: inline; font-size: 70%;} 
+.antglyph {display: inline; font-size: 120%;}
+.app {display: block; margin-left:2%; }
+.cap {font-size: 110%;}
+.chapter {display:block;}
+.corr{display:inline; color:#000099;}
+.code{display:block;}
+.Day{display:block; padding:10px;}
+.DayHeader{display:block; background-color:#FFFFDD;}
+.del {display:inline; color:#009900;}
+.description{display:block;}
+.dox {display: block;}
+.doxwits {display: inline; font-size: 70%;}
+.headerTitle {display:inline; font-weight:bold;}
+.feast{display:block;}
+.gap {display:inline; color:#990000;}
+.incipit {display:block;}
+.l {display:block; margin-left:30%;}
+.lection{display:block; margin-left:20px; padding:2px;}
+.note {color:red; font-size:120%;}
+.nocturn {display:block; padding:2px;}
+.pageNumber {display:block; text-align:right; font-size:90%;}
+.pBody {display: block;margin-left:2%; }
+.pBodywits {display: inline; font-size: 70%;}
+.prayerglyph {display: inline; font-size: 120%;}
+.prosulawits{display: inline; font-size: 70%;}
+.prosula{display: block; margin-left:5%;}
+.rBody {display: block;margin-left:20px; }
+.rBodywits {display: inline; font-size: 70%;}
+.rdgwits {display: inline; font-size: 70%;}
+.rdg{display: block;}
+.ref {dislay:inline}
+.rep {display: block;}
+.repwits {display: inline; font-size: 70%;}
+.resglyph {display: inline; font-size: 120%;}
+.respond {display:block; margin-left:30px; padding:2px;}
+.rubric-antiphon   {color:#660000; font-size:110%; display:inline;}
+.rubric-bible-incipit    {color:#660000; font-size:110%; display:block;}
+.rubric-bible-colophon    {color:#660000; font-size:110%; display:block;}
+.rubric-biblicalTitle    {color:#660000; font-size:110%;display:block;}
+.rubric-cantica    {color:#660000; font-size:110%; display:inline;}
+.rubric-evangelio    {color:#660000; font-size:110%; display:inline;}
+.rubric-evovae    {color:#660000; font-size:110%; display:inline;}
+.rubric-general    {color:#660000; font-size:110%; display:inline;}
+.rubric-chapterTitle    {color:#660000; font-size:110%;display:inline;}
+.rubric-cant    {color:#660000; font-size:110%; display:inline;}
+.rubric-dayTitle    {color:#990000; font-size:120%; display:block; font-weight:bold;}
+.rubric-feriaTitle   {color:#660000; font-size:110%; display:block;}
+.rubric-hymn   {color:#660000; font-size:110%; display:inline;}
+.rubric-invitatory   {color:#660000; font-size:110%; display:inline;}
+.rubric-lectionTitle   {color:#660000; font-size:110%; display:block;}
+.rubric-levis   {color:#660000; font-size:110%; display:inline;}
+.rubric-nocturnTitle   {color:#660000; font-size:110%; display:block;}
+.rubric-oratio   {color:#660000; font-size:110%; display:inline;}
+.rubric-preces   {color:#660000; font-size:110%; display:inline;}
+.rubric-psalm   {color:#660000; font-size:110%; display:inline;}
+.rubric-psalmumIpsum   {color:#660000; font-size:110%; display:inline;}
+.rubric-respond   {color:#660000; font-size:110%; display:inline;}
+.rubric-serviceTitle   {color:#990000; font-size:120%; display:block;font-weight:bold;}
+.rubric-unknown   {color:#660000; font-size:110%; display:inline;}
+.rubric-verse   {color:#660000; font-size:110%; display:inline;}
+.service{display:block; margin:10px;}
+ .sic {display:inline; color:#000990;}
+.supplied {display: inline;color:#008877; }
+.unclear {display:inline; color:#009900;}
+.vBody {display: block}
+.vBodywits {display: inline; font-size: 70%;}
+.verse {display:block; }
+.verseglyph {display: inline; font-size: 120%;}
+.verses {display:block; margin-left:10%;}
+.Week{display:block; padding:10px;}

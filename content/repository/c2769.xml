@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2768" nextid="c2770" id="c2769">
+   <aBody wit="CAO-M CAO-D CAO-F"> Exaudi nos domine qui exaudisti Jonam de ventre ceti
+     <app>
+         <rdg wit="CAO-M CAO-F"> exaudi nos clamantes</rdg>
+         <rdg wit="CAO-D"> exaudi nos domine</rdg>
+      </app> qui exaudisti David prostratum et iacentem in cilicio
+     <app>
+         <rdg wit="CAO-F"> clamantem et dicentem</rdg>
+         <rdg wit="CAO-M"> clamantes et dicentem</rdg>
+         <rdg wit="CAO-D"> clamantes et dicentes</rdg>
+      </app> parce parce
+     <app>
+         <rdg wit="CAO-D CAO-F"> et defende plasma tuum</rdg>
+         <rdg wit="CAO-M"> et defende plasmatum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-F"> deus noster</rdg>
+         <rdg wit="CAO-D"> deus noster alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

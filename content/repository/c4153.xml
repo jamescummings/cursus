@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4152" nextid="c4154" id="c4153">
+   <header>
+      <usage ms="Hyd" code="10200000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Omnis sapientia a domino deo est</rdg>
+         <rdg wit="CAO-E"> Omnis sapientiam a domino deo est</rdg>
+      </app> et cum illo fuit semper
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-L Hyd"> et est ante aevum</rdg>
+         <rdg wit="CAO-S"> et est ante eum</rdg>
+         <rdg wit="CAO-R"> et est ante eum alleluia</rdg>
+         <rdg wit="CAO-B CAO-H"> et est ante aevum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

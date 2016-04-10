@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2687" nextid="c2689" id="c2688">
+   <header>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">CAO-H has a different melody from the group [CAO-C CAO-E CAO-D]</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D">
+      <app>
+         <rdg wit="CAO-D"> Esurientes humiles replevit bonis dominus</rdg>
+         <rdg wit="CAO-H"> Esurientes replevit bonis dominus</rdg>
+         <rdg wit="CAO-E"> Esurientes humiles replebit bonis dominus</rdg>
+         <rdg wit="CAO-C"> Esurientes humiles implevit bonis dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-D"> et potentes divites dimisit inanes</rdg>
+         <rdg wit="CAO-E"> et divites dimisit inanes</rdg>
+      </app>
+   </aBody>
+</ant>

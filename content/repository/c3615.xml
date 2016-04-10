@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3614" nextid="c3616" id="c3615">
+   <aBody wit="CAO-M CAO-D CAO-F"> Libera domine populum tuum de manu mortis et plebem istam protegat dextera tua ut viventes benedicamus te
+     <app>
+         <rdg wit="CAO-M CAO-F"> domine deus noster</rdg>
+         <rdg wit="CAO-D"> domine deus noster alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

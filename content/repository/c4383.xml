@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4382" nextid="c4384" id="c4383">
+   <aBody wit="CAO-E">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Pro fidei meritis vocitatur iure beatus</l>
+         <l part="N"> lege qui in domini meditatur nocte dieque</l>
+      </lg>
+   </aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3831" nextid="c3833" id="c3832">
+   <header>
+      <usage ms="Cht" code="05031000">[4v] vesp2 gosp</usage>
+      <usage ms="Cht" code="06035000"/>
+      <usage ms="Pet" code="05041000"/>
+   </header>
+   <aBody wit="CAO-C CAO-V Cht Pet">
+      <app>
+         <rdg wit="CAO-C Cht Pet"> Multi ab oriente et occidente venient</rdg>
+         <rdg wit="CAO-V"> Multi enim ab oriente et occidente venient</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C Cht Pet"> et recumbent cum Abraham Isaac et Jacob</rdg>
+         <rdg wit="CAO-V"> et recumbent cum Abraham et Isaac et Jacob</rdg>
+      </app> in regno caelorum</aBody>
+</ant>

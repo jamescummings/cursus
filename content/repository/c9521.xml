@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9520" nextid="c9522" id="c9521">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Shortened version of c6892</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Hyd"> In columbae specie spiritus sanctus visus est</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd"> Paterna vox audita est hic est filius meus</vBody>
+   </verses>
+</res>

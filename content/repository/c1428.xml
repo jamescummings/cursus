@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1427" nextid="c1429" id="c1428">
+   <header>
+      <usage ms="Alb2" code="01034000">[16r] lauds-a3</usage>
+      <usage ms="Bat" code="01034000">[10v] lauds-a3</usage>
+      <usage ms="Cdm" code="01034000">[16v] lauds-a3</usage>
+      <usage ms="Ely" code="01035000">[12v] lauds gosp</usage>
+      <usage ms="Evm" code="01034009">[19v] lauds-a5</usage>
+      <usage ms="Mch" code="01034000">[14r] lauds-a5</usage>
+      <usage ms="Wcb" code="01044000">[50v] lauds-a3</usage>
+      <usage ms="Wor" code="01034000">[9r] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Annuntiate populis et dicite ecce deus salvator noster veniet</aBody>
+</ant>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7031" nextid="c7033" id="c7032">
+   <header>
+      <usage ms="Alb2" code="07067000">[111v] matins-n1-r2</usage>
+      <usage ms="Cdm" code="07067000">[80r] matins-n1-r2</usage>
+      <usage ms="Ely" code="07067000">[91r] matins-n1-r2</usage>
+      <usage ms="Evm" code="07067000">[153r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="07067000">[97v] matins-n2-r5</usage>
+      <usage ms="Mch" code="07067000">[162v] matins-n1-r2</usage>
+      <usage ms="Pet" code="07067000">[94r] matins-n1-r2</usage>
+      <usage ms="Wcb" code="07067000">[117v] matins-n1-r2</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Alb2 Cdm Mch"> Jerusalem luge et exue te</rdg>
+         <rdg wit="Wcb"> Jerusalem exue et luge <add place="interlined" resp="DC" hand="contemp">te</add>
+         </rdg>
+         <rdg wit="CAO-C"> Jerusalem luge et excute te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> vestibus iucunditatis</rdg>
+         <rdg wit="CAO-V CAO-L"> vestibus iucunditatem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> induere cinere et cilicio</rdg>
+         <rdg wit="CAO-C"> induere cinere cum cilicio</rdg>
+      </app> quia in te
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm"> est occisus</rdg>
+         <rdg wit="Mch"> occisus est</rdg>
+      </app> salvator Israel</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Deduc quasi torrentem</rdg>
+            <rdg wit="CAO-G"> Deduc quasi torrens</rdg>
+         </app> lacrimas per diem et noctem
+      <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-S Ely Wor Hyd Pet Cdm"> et non taceat pupilla oculi tui</rdg>
+            <rdg wit="CAO-L Mch"> et non taceat pupillam oculi tui</rdg>
+            <rdg wit="Evm"> et non taceant</rdg>
+            <rdg wit="Wcb Alb2"> et non taceas</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-E"> Montes Gelboe nec ros nec pluvia super vos descendat</vBody>
+      <vBody type="r" wit="CAO-M"> Plange quasi virgo plebs mea ululate pastores in cinere et cilicio</vBody>
+      <vBody type="r" wit="CAO-V"> Plauserunt super te manibus omnes transeuntes per viam sibilaverunt et moverunt capita sua</vBody>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R"> Ululate pastores et clamate aspergite vos cinere</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">Quia</rep>
+      <rep type="r" wit="CAO-F"> Induere</rep>
+   </verses>
+</res>

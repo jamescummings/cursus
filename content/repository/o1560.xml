@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1559" nextid="o1561" id="o1560">
+   <header>
+      <usage ms="Alb2" code="07052000">[101r] lauds</usage>
+      <usage ms="Cdm" code="07052000">[72r] lauds-a2</usage>
+      <usage ms="Cht" code="07052000">[50v] vesp2</usage>
+      <usage ms="Ely" code="07052000">[83r] lauds</usage>
+      <usage ms="Evm" code="07052000">[137v] lauds</usage>
+      <usage ms="Hyd" code="07052000">[88r] lauds</usage>
+      <usage ms="Mch" code="07052000">[148v] lauds</usage>
+      <usage ms="Wcb" code="07052000">[109v] lauds</usage>
+      <notesStmt>
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">Deshusses no.288</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch"> Sanctifica quaesumus domine nostra ieiunia et cunctarum nobis propitius indulgentiam largire culparum</pBody>
+</prayer>

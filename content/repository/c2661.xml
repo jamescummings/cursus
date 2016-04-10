@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2660" nextid="c2662" id="c2661">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Erat quidam regulus cuius filius infirmabatur Capharnaum hic cum audisset
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D"> quia Jesus veniret in Galilaeam</rdg>
+         <rdg wit="CAO-F CAO-S CAO-L"> quia Jesus adveniret in Galilaeam</rdg>
+         <rdg wit="CAO-C"> quia Jesus veniret in Galilaea</rdg>
+      </app> rogabat eum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L"> ut sanaret filium eius</rdg>
+         <rdg wit="CAO-S"> ut descenderet et sanaret filium eius</rdg>
+         <rdg wit="CAO-V"> ut sanaret filium eius alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

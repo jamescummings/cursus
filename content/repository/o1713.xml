@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1712" nextid="o1714" id="o1713">
+   <header>
+      <usage ms="Cdm" code="07017000">[60r] none</usage>
+      <usage ms="Cdm" code="07023000">[62v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Adesto quaesumus domine supplicationibus nostris ut esse te largiente mereamur et inter prospera humiles et inter adversa securi</pBody>
+</prayer>

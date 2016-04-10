@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1650" nextid="o1652" id="o1651">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.938</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Salva nos omnipotens deus et lucem nobis concede perpetuam</pBody>
+</prayer>

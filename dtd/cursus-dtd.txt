@@ -1,0 +1,11 @@
+
+The CURSUS extensions to the TEI P4X DTD are included 
+in this directory.  You will need the full TEI P4 DTD 
+to use these DTD extensions. These extension files 
+are available with or with the TEI P4 DTD.  
+
+For more information about the Text Encoding Initiative 
+see http://www.tei-c.org/
+
+-CURSUS Project
+cursus@uea.ac.uk

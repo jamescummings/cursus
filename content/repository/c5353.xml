@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5352" nextid="c5354" id="c5353">
+   <aBody wit="CAO-E CAO-V CAO-L"> Venite omnes adoremus
+     <app>
+         <rdg wit="CAO-E CAO-L"> qui de morte resurrexit</rdg>
+         <rdg wit="CAO-V"> qui de mortem resurrexit</rdg>
+      </app> ideo venit per crucem gaudium
+     <app>
+         <rdg wit="CAO-E CAO-L"> in orbem terrae alleluia alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-V"> in orbem terrae alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

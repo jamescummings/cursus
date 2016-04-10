@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4207" nextid="c4209" id="c4208">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Paganorum multitudo fugiens ad sepulcrum virginis tulerunt velum eius contra ignem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> ut comprobaret dominus</rdg>
+         <rdg wit="CAO-L"> ut comprobaret dominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> quod a periculis incendii meritis</rdg>
+         <rdg wit="CAO-V CAO-L"> quod a periculis incendiis meritis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Agathae martyris suae eos liberaret</rdg>
+         <rdg wit="CAO-V"> Agathae martyris suae eos liberare</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3249" nextid="c3251" id="c3250">
+   <aBody wit="CAO-H CAO-S CAO-L"> In loco pascuae
+     <app>
+         <rdg wit="CAO-H CAO-L"> ibi me collocavit</rdg>
+         <rdg wit="CAO-S"> ibi me collocabit</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3215" nextid="c3217" id="c3216">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> In craticula te deum non negavi</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-L"> In craticula sanctum deum non negavi</rdg>
+      </app> et ad ignem applicatus
+     <app>
+         <rdg wit="CAO-F CAO-S"> te Christum confessus sum</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H"> Christum confessus sum</rdg>
+         <rdg wit="CAO-E"> Christo confessus sum</rdg>
+         <rdg wit="CAO-B CAO-R CAO-D CAO-L"> te Christe confessus sum</rdg>
+      </app> probasti cor meum et visitasti nocte igne me examinasti et non est inventa in me iniquitas</aBody>
+</ant>

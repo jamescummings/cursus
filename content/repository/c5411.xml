@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5410" nextid="c5412" id="c5411">
+   <header>
+      <usage ms="Alb2" code="02010608"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2"> Vidimus stellam eius in oriente et venimus cum muneribus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Alb2"> adorare dominum</rdg>
+         <rdg wit="CAO-V"> adorare eum</rdg>
+      </app>
+   </aBody>
+</ant>

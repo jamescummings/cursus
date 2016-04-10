@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3220" nextid="c3222" id="c3221">
+   <header>
+      <usage ms="Alb2" code="07052000">[101r] lauds</usage>
+      <usage ms="Cdm" code="07052000">[72r] lauds gosp</usage>
+      <usage ms="Cht" code="07052000">[50r] lauds</usage>
+      <usage ms="Ely" code="07052000">[83r] lauds</usage>
+      <usage ms="Evm" code="07052000">[137v] lauds</usage>
+      <usage ms="Glo" code="07052000">[71r] lauds</usage>
+      <usage ms="Hyd" code="07052000">[88r] lauds</usage>
+      <usage ms="Mch" code="07052000">[148v] lauds gosp</usage>
+      <usage ms="Pet" code="07052000">[82r] lauds</usage>
+      <usage ms="Wcb" code="07052000">[109v] lauds</usage>
+      <usage ms="Wor" code="07052000">[54v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">In die magno festivitatis</rdg>
+         <rdg wit="CAO-L">In die magno festivitati</rdg>
+         <rdg wit="CAO-M CAO-V">In novissimo autem die festivitatis</rdg>
+      </app> stabat Jesus et clamabat dicens si quis sitit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">veniat ad me</rdg>
+         <rdg wit="CAO-M">veniat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">et bibat</rdg>
+         <rdg wit="Ely">ut bibat</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit">In die magno festivitatis</aBody>
+</ant>

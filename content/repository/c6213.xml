@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6212" nextid="c6214" id="c6213">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus Laurentius clamavit et dixit Deum meum colo et illi soli servio et ideo non timeo tormenta tua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L"> Mea nox obscurum non habet sed omnia in luce
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L"> clarescunt</rdg>
+            <rdg wit="CAO-M"> clarescit</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V CAO-H"> Mea nox obscurum non habet</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et ideo</rep>
+   </verses>
+</res>

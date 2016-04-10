@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7479" nextid="c7480b" id="c7480">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Qui operatus est Petro
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L"> in apostolatu</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-S"> in apostolatum</rdg>
+      </app> operatus est et mihi inter gentes et cognoverunt
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> gratiam dei</rdg>
+         <rdg wit="CAO-V CAO-L"> gratia dei</rdg>
+      </app> quae data est mihi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Gratia dei in me vacua non fuit sed gratia eius semper in me manet</vBody>
+      <vBody type="r" wit="CAO-V"> Bonum certamen certavi cursum consummavi fidem servavi</vBody>
+      <vBody type="r" wit="CAO-L"> Dominus enim mihi astitit et confortavit me ut per me praedicatio impleretur in gentibus</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">Et cognoverunt</rep>
+      <rep type="r" wit="CAO-S">Quae data</rep>
+   </verses>
+</res>

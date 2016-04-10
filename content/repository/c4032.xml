@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4031" nextid="c4033" id="c4032">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-S"> O Hippolyte si credis in dominum Jesum Christum</rdg>
+         <rdg wit="CAO-C"> O Hippolyte si credideris in dominum Jesum Christum</rdg>
+         <rdg wit="CAO-L"> O Hippolyte si credas in dominum Jesum Christum</rdg>
+      </app> et thesauros tibi ostendo et vitam aeternam promitto</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-H CAO-R CAO-S"> Si dictis facta compensas faciam quae hortaris</vBody>
+   </verses>
+</ant>

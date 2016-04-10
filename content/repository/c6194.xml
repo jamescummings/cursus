@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6193" nextid="c6195" id="c6194">
+   <rBody wit="CAO-H CAO-R CAO-L"> Beatissimus pontifex Gregorius
+      <app>
+         <rdg wit="CAO-H"> postquam plebem romanam</rdg>
+         <rdg wit="CAO-R"> postquam sedem romanam</rdg>
+         <rdg wit="CAO-L"> postquam omnis romanae</rdg>
+      </app> et apostolicae sedis ecclesiam gloriosissime rexit ex hac luce subtractus atque ad aeternam est regni sedem transiatus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R CAO-L">Qui omni fere juventutis suae tempore crebris viscerum doloribus cruciabatur</vBody>
+      <rep type="r" wit="CAO-H CAO-R CAO-L">Ex hac luce</rep>
+   </verses>
+</res>

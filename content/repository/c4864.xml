@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4863b" nextid="c4865" id="c4864">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Senex puerum portabat</rdg>
+         <rdg wit="CAO-V"> Senes puerum portabat</rdg>
+      </app> puer autem senem regebat
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> quem virgo peperit</rdg>
+         <rdg wit="CAO-G"> quem virgo concepit</rdg>
+      </app> et post partum virgo permansit ipsum quem genuit adoravit </aBody>
+</ant>

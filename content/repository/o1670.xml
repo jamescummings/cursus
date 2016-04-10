@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1669" nextid="o1671" id="o1670">
+   <header>
+      <usage ms="Hyd" code="02122508"/>
+      <usage ms="Hyd" code="14010520">commemoration</usage>
+      <usage ms="Wcb" code="02122500">[57v] sext</usage>
+   </header>
+   <pBody wit="Hyd Wcb"> Praesta quaesumus domine deus noster ut familia tua quae filii tui domini nostri Jesu Christi est
+     <app>
+         <rdg wit="Hyd"> incarnatione</rdg>
+         <rdg wit="Wcb"> nativitate</rdg>
+      </app> salvata eius etiam sit perpetua redemptione secura</pBody>
+</prayer>

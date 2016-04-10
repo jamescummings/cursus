@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1209" nextid="c1211" id="c1210">
+   <header>
+      <usage ms="Alb2" code="07051000">[100v] sext</usage>
+      <usage ms="Cdm" code="07051000">[71v] sext</usage>
+      <usage ms="Cht" code="07051000">[49r] terce</usage>
+      <usage ms="Ely" code="07051000">[82v] prime</usage>
+      <usage ms="Evm" code="07051000">[136v] terce</usage>
+      <usage ms="Glo" code="07051000">[70v] terce</usage>
+      <usage ms="Hyd" code="07051000">[87v] sext</usage>
+      <usage ms="Mch" code="07051000">[147r] terce</usage>
+      <usage ms="Pet" code="07052000">[82r] terce</usage>
+      <usage ms="Wcb" code="07051000">[109r] terce</usage>
+      <usage ms="Wor" code="07051000">[54r] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Abraham pater vester exsultavit ut videret diem meum vidit et gavisus est</aBody>
+</ant>

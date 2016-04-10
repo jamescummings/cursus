@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3882" nextid="c3884" id="c3883">
+   <aBody wit="CAO-C CAO-R CAO-D CAO-F CAO-S"> Nisi granum frumenti
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> cadens in terra</rdg>
+         <rdg wit="CAO-R"> cadens in terram</rdg>
+      </app> mortuum fuerit ipsum solum manet</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-S"> Si autem mortuum fuerit multum fructum aufert</vBody>
+   </verses>
+</ant>

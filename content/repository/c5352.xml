@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5351" nextid="c5353" id="c5352">
+   <header>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Hyd"> Venite et videte locum
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F Hyd"> ubi positus erat dominus alleluia alleluia</rdg>
+         <rdg wit="CAO-C CAO-E"> ubi positus erat dominus alleluia</rdg>
+         <rdg wit="CAO-D"> ubi posuerunt eum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

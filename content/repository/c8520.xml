@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8519" nextid="c8521" id="c8520">
+   <header>
+      <usage ms="Hyd" code="07061000">[89v] vesp1</usage>
+      <usage ms="Pet" code="07057000">[83r] terce-a1</usage>
+   </header>
+   <aBody wit="Hyd Pet">Sciebat ab initio Jesus
+     <app>
+         <rdg wit="Hyd"> qui essent credentes</rdg>
+         <rdg wit="Pet"> qui erant credentes</rdg>
+      </app> et quis traditurus esset eum</aBody>
+</ant>

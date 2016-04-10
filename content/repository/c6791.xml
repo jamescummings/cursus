@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6790" nextid="c6792" id="c6791">
+   <rBody wit="CAO-C CAO-D CAO-F"> Gratias tibi Domine qui
+      <app>
+         <rdg wit="CAO-D CAO-F"> infestantis</rdg>
+         <rdg wit="CAO-C"> infestantes</rdg>
+      </app> inimici iacula probationem fidelium tuorum praestitisti esse et non vulnera
+      <app>
+         <rdg wit="CAO-D CAO-F"> sed</rdg>
+         <rdg wit="CAO-C"> et</rdg>
+      </app> talem tuis martyribus tribuis pro labore mercedem ut nullum tuorum fuisse gaudeat
+      <app>
+         <rdg wit="CAO-D CAO-F"> hostis</rdg>
+         <rdg wit="CAO-C"> hostes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F"> imbellem</rdg>
+         <rdg wit="CAO-D">
+            <sic resp="Hesbert">in Bethlem</sic>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Quinimo perpetuum eis largiris triumphum ut Ecclesiae tuae semper sint in exemplum</vBody>
+      <vBody type="r" wit="CAO-C"> Iustorum autem animae</vBody>
+      <rep type="r" wit="CAO-D"> Sed</rep>
+      <rep type="r" wit="CAO-F"> Ut</rep>
+   </verses>
+</res>

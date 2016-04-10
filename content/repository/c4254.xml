@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4253" nextid="c4255" id="c4254">
+   <header>
+      <usage ms="Hyd" code="08013000">[103r] prime-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Pax vobis ego sum alleluia nolite timere alleluia</aBody>
+   <aBody wit="CAO-C CAO-R" num="2"> Pax vobis ego sum nolite timere alleluia</aBody>
+</ant>

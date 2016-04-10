@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3606" nextid="c3608" id="c3607">
+   <header>
+      <usage ms="Alb2" code="01027000">[11r] lauds gosp</usage>
+      <usage ms="Bat" code="01033000">[10r] lauds-a3</usage>
+      <usage ms="Cdm" code="01033000">[16r] lauds-a3</usage>
+      <usage ms="Ely" code="01026000">[9v] lauds gosp</usage>
+      <usage ms="Evm" code="01027000">[15v] lauds gosp</usage>
+      <usage ms="Hyd" code="01021000">[7v] matins-n3</usage>
+      <usage ms="Hyd" code="01043000">[15r] prime</usage>
+      <usage ms="Mch" code="01027000">[9v] lauds gosp</usage>
+      <usage ms="Wcb" code="01027000">[45v] lauds gosp</usage>
+      <usage ms="Wor" code="01021000">[5v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Levabit dominus signum in nationibus</rdg>
+         <rdg wit="CAO-C"> Levavit dominus signum in nationibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> et congregabit dispersos Israel</rdg>
+         <rdg wit="CAO-M"> et congregabit dispersos Israel alleluia</rdg>
+         <rdg wit="CAO-C CAO-S CAO-L"> et congregavit dispersos Israel</rdg>
+      </app>
+   </aBody>
+</ant>

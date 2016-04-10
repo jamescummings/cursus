@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2376" nextid="c2378" id="c2377">
+   <header>
+      <usage ms="Hyd" code="10600000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Domine rex omnipotens in ditione tua
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> cuncta sunt posita</rdg>
+         <rdg wit="Hyd"> cuncta posita sunt</rdg>
+      </app> et non est
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F"> qui possit tuae resistere voluntati</rdg>
+         <rdg wit="Hyd"> qui possit resistere tuae voluntati</rdg>
+         <rdg wit="CAO-V"> qui possit resistere voluntati</rdg>
+         <rdg wit="CAO-L"> qui possit tuae resistere voluntati si decreveris salvare nos continuo liberabimur</rdg>
+      </app>
+   </aBody>
+</ant>

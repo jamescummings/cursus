@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1022" nextid="c1022b" id="c1022a">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+      <usage ms="Hyd" code="07067000">[98v] nones</usage>
+      <usage ms="Mch" code="07067000">[164v] vesp2</usage>
+   </header>
+   <aBody wit="Hyd">Alleluia alleluia</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1613" nextid="o1615" id="o1614">
+   <header>
+      <usage ms="Wcb" code="07012000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.850</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb">Deus qui nos conspicis in tot perturbationibus non posse subsistere afflictorum gemitum propitius respice et mala omnia quae mereamur averte</pBody>
+</prayer>

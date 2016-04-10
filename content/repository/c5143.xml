@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5142" nextid="c5144" id="c5143">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-S CAO-L"> Thomas orabat ad dominum
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-S CAO-L"> deprecor te domine</rdg>
+         <rdg wit="CAO-M"> te deprecor domine</rdg>
+      </app> ut benedicas hos innocentes
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-S CAO-L"> et inspira in eis</rdg>
+         <rdg wit="CAO-C"> et spira eis</rdg>
+         <rdg wit="CAO-M"> et inspirat in eis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-S"> quae agi oporteat</rdg>
+         <rdg wit="CAO-V"> quae ait oporteat</rdg>
+         <rdg wit="CAO-L"> quae agi oportet</rdg>
+      </app>
+   </aBody>
+</ant>

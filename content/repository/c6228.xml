@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6227" nextid="c6229" id="c6228">
+   <rBody wit="CAO-C CAO-M"> Beatus Valentinus Asterio tribuno dixit Tu crede unum esse Deum et salva erit filia tua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M">
+         <app>
+            <rdg wit="CAO-C"> Si dictis factis compensas</rdg>
+            <rdg wit="CAO-M"> Si dictis facta compensis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M"> faciam quod hortaris</rdg>
+            <rdg wit="CAO-C"> faciam quae hortaris</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C">Tu crede</rep>
+      <rep type="r" wit="CAO-M"> Et salva</rep>
+   </verses>
+</res>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2759" nextid="c2760b" id="c2760">
+   <header>
+      <usage ms="Hyd" code="01016000">[6v] matins-n1-a3</usage>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-H CAO-S CAO-L Hyd"> Exaltare qui iudicas terram</aBody>
+</ant>

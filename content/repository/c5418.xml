@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5417b" nextid="c5419" id="c5418">
+   <header>
+      <usage ms="Alb2" code="01038000">[14v] lauds gosp</usage>
+      <usage ms="Bat" code="01035000">[11r] lauds gosp</usage>
+      <usage ms="Cdm" code="01035000">[16v] lauds gosp</usage>
+      <usage ms="Ely" code="01042000">[15r] lauds gosp</usage>
+      <usage ms="Evm" code="01046000">[26r] lauds gosp</usage>
+      <usage ms="Hyd" code="01045000">[15v] lauds gosp</usage>
+      <usage ms="Mch" code="01035000">[14v] lauds gosp</usage>
+      <usage ms="Wcb" code="01043000">[50r] lauds gosp</usage>
+      <usage ms="Wor" code="01046000">[10r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Vigilate animo in proximo est dominus deus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Mch Cdm Ely Wor"> noster</rdg>
+         <rdg wit="Alb2 Wcb Bat"> vester</rdg>
+      </app>
+   </aBody>
+</ant>

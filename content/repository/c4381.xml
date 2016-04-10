@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4380" nextid="c4382" id="c4381">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Priusquam te formarem in utero novi te
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-F CAO-S"> et antequam progredereris sanctificavi te</rdg>
+         <rdg wit="CAO-E CAO-V CAO-D"> et antequam progrederis sanctificavi te</rdg>
+         <rdg wit="CAO-R"> et antequam <corr sic="progrederis">progredereris</corr> sanctificavi te</rdg>
+         <rdg wit="CAO-B CAO-L"> et antequam exires sanctificavi te</rdg>
+      </app>
+   </aBody>
+</ant>

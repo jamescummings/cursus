@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1772" nextid="c1774" id="c1773">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n2</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Caritas pater est
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> gratia Christus</rdg>
+         <rdg wit="CAO-E"> gratia Christi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S CAO-L"> communicatio spiritus sanctus</rdg>
+         <rdg wit="CAO-G CAO-D CAO-F Hyd"> communicatio spiritus</rdg>
+         <rdg wit="CAO-M"> communicatio spiritus sancti</rdg>
+      </app> o beata trinitas</aBody>
+</ant>

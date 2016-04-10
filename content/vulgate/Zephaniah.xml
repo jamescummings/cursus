@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Zephaniah">
+<body>
+  <rubric type="bible-incipit" id="B.Zephaniah.incipit.001">
+    <reference>
+      <bookName>Zephaniah</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT SOFONIAS PROPHETA</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Zephaniah.001.001">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>verbum Domini quod factum est ad Sofoniam filium Chusi filium Godoliae filii Amariae filii Ezechiae in diebus Iosiae filii Amon regis Iuda</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.002">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>congregans congregabo omnia a facie terrae dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.003">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>congregans hominem et pecus congregans volatile caeli et pisces maris et ruinae impiorum erunt et disperdam homines a facie terrae dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.004">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>et extendam manum meam super Iudam et super omnes habitantes Hierusalem et disperdam de loco hoc reliquias Baal et nomina aedituorum cum sacerdotibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.005">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>et eos qui adorant super tecta militiam caeli et adorant et iurant in Domino et iurant in Melchom</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.006">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et qui avertuntur de post tergum Domini et qui non quaesierunt Dominum nec investigaverunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.007">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>silete a facie Domini Dei quia iuxta est dies Domini quia praeparavit Dominus hostiam sanctificavit vocatos suos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.008">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>et erit in die hostiae Domini visitabo super principes et super filios regis et super omnes qui induti sunt veste peregrina</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.009">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et visitabo omnem qui arroganter ingreditur super limen in die illa qui conplent domum Domini Dei sui iniquitate et dolo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.010">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>et erit in die illa dicit Dominus vox clamoris a porta Piscium et ululatus a secunda et contritio magna a collibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.011">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>ululate habitatores pilae conticuit omnis populus Chanaan disperierunt omnes involuti argento</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.012">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>et erit in tempore illo scrutabor Hierusalem in lucernis et visitabo super viros defixos in fecibus suis qui dicunt in cordibus suis non faciet bene Dominus et non faciet male</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.013">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>et erit fortitudo eorum in direptionem et domus eorum in desertum et aedificabunt domos et non habitabunt et plantabunt vineas et non bibent vinum earum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.014">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>iuxta est dies Domini magnus iuxta et velox nimis vox diei Domini amara tribulabitur ibi fortis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.015">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>dies irae dies illa dies tribulationis et angustiae dies calamitatis et miseriae dies tenebrarum et caliginis dies nebulae et turbinis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.016">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>dies tubae et clangoris super civitates munitas et super angulos excelsos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.017">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>et tribulabo homines et ambulabunt ut caeci quia Domino peccaverunt et effundetur sanguis eorum sicut humus et corpus eorum sicut stercora</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.001.018">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>sed et argentum eorum et aurum eorum non poterit liberare eos in die irae Domini in igne zeli eius devorabitur omnis terra quia consummationem cum festinatione faciet cunctis habitantibus terram</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Zephaniah.002.001">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>convenite congregamini gens non amabilis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.002">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>priusquam pariat iussio quasi pulverem transeuntem diem antequam veniat super vos ira furoris Domini antequam veniat super vos dies furoris Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.003">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>quaerite Dominum omnes mansueti terrae qui iudicium eius estis operati quaerite iustum quaerite mansuetum si quo modo abscondamini in die furoris Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.004">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>quia Gaza destructa erit et Ascalon in desertum Azotum in meridie eicient et Accaron eradicabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.005">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>vae qui habitatis funiculum maris gens perditorum verbum Domini super vos Chanaan terra Philisthinorum et disperdam te ita ut non sit inhabitator</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.006">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>et erit funiculus maris requies pastorum et caulae pecorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.007">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>et erit funiculus eius qui remanserit de domo Iuda ibi pascentur in domibus Ascalonis ad vesperam requiescent quia visitabit eos Dominus Deus eorum et avertet captivitatem eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.008">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>audivi obprobrium Moab et blasphemias filiorum Ammon quae exprobraverunt populo meo et magnificati sunt super terminos eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.009">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>propterea vivo ego dicit Dominus exercituum Deus Israhel quia Moab ut Sodoma erit et filii Ammon quasi Gomorra siccitas spinarum et acervi salis et desertum usque in aeternum reliquiae populi mei diripient illos residui gentis meae possidebunt eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.010">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>hoc eis eveniet pro superbia sua quia blasphemaverunt et magnificati sunt super populum Domini exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.011">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>horribilis Dominus super eos et adtenuabit omnes deos terrae et adorabunt eum vir de loco suo omnes insulae gentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.012">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>sed et vos Aethiopes interfecti gladio meo eritis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.013">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>et extendet manum suam super aquilonem et perdet Assur et ponet speciosam in solitudinem et in invium et quasi desertum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.014">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>et accubabunt in medio eius greges omnes bestiae gentium et onocrotalus et ericius in liminibus eius morabuntur vox cantantis in fenestra corvus in superliminari quoniam adtenuabo robur eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.002.015">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>haec est civitas gloriosa habitans in confidentia quae dicebat in corde suo ego sum et extra me non est alia amplius quomodo facta est in desertum cubile bestiae omnis qui transit per eam sibilabit et movebit manum suam</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Zephaniah.003.001">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>vae provocatrix et redempta civitas columba</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.002">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>non audivit vocem et non suscepit disciplinam in Domino non est confisa ad Deum suum non adpropiavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.003">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>principes eius in medio eius quasi leones rugientes iudices eius lupi vespere non relinquebant in mane</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.004">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>prophetae eius vesani viri infideles sacerdotes eius polluerunt sanctum iniuste egerunt contra legem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.005">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>Dominus iustus in medio eius non faciet iniquitatem mane mane iudicium suum dabit in luce et non abscondetur nescivit autem iniquus confusionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.006">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>disperdi gentes et dissipati sunt anguli earum desertas feci vias eorum dum non est qui transeat desolatae sunt civitates eorum non remanente viro nec ullo habitatore</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.007">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>dixi attamen timebis me suscipies disciplinam et non peribit habitaculum eius propter omnia in quibus visitavi eam verumtamen diluculo surgentes corruperunt omnes cogitationes suas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.008">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>quapropter expecta me dicit Dominus in die resurrectionis meae in futurum quia iudicium meum ut congregem gentes et colligam regna ut effundam super eas indignationem meam omnem iram furoris mei in igne enim zeli mei devorabitur omnis terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.009">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>quia tunc reddam populis labium electum ut vocent omnes in nomine Domini et serviant ei umero uno</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.010">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>ultra flumina Aethiopiae inde supplices mei filii dispersorum meorum deferent munus mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.011">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>in die illa non confunderis super cunctis adinventionibus tuis quibus praevaricata es in me quia tunc auferam de medio tui magniloquos superbiae tuae et non adicies exaltari amplius in monte sancto meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.012">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>et derelinquam in medio tui populum pauperem et egenum et sperabunt in nomine Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.013">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>reliquiae Israhel non facient iniquitatem nec loquentur mendacium et non invenietur in ore eorum lingua dolosa quoniam ipsi pascentur et accubabunt et non erit qui exterreat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.014">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>lauda filia Sion iubilate Israhel laetare et exulta in omni corde filia Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.015">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>abstulit Dominus iudicium tuum avertit inimicos tuos rex Israhel Dominus in medio tui non timebis malum ultra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.016">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>in die illa dicetur Hierusalem noli timere Sion non dissolvantur manus tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.017">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>Dominus Deus tuus in medio tui Fortis ipse salvabit gaudebit super te in laetitia silebit in dilectione tua exultabit super te in laude</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.018">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>nugas qui a lege recesserant congregabo quia ex te erant ut non ultra habeas super eis obprobrium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.019">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>ecce ego interficiam omnes qui adflixerunt te in tempore illo et salvabo claudicantem et eam quae eiecta fuerat congregabo et ponam eos in laudem et in nomen in omni terra confusionis eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Zephaniah.003.020">
+      <reference>
+        <bookName>Zephaniah</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>in tempore illo quo adducam vos et in tempore quo congregabo vos dabo enim vos in nomen et in laudem omnibus populis terrae cum convertero captivitatem vestram coram oculis vestris dicit Dominus</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Zephaniah.colophon.001">
+    <reference>
+      <bookName>Zephaniah</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT SOFONIAS PROPHETA</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

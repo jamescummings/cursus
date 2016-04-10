@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7140b" nextid="c7142" id="c7141">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Mel et lac ex eius ore
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L"> suscepi</rdg>
+         <rdg wit="CAO-E CAO-V"> suscepit</rdg>
+         <rdg wit="CAO-M CAO-S"> et suscepi<del status="unremarkable">t</del>
+         </rdg>
+      </app> et sanguis eius ornavit genas meas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Cuius pulchritudinem sol et luna mirantur ipsi soli servo fidem</vBody>
+      <vBody type="r" wit="CAO-M"> Cuius pulchritudine sol et luna mirantur</vBody>
+      <vBody type="r" wit="CAO-G CAO-S CAO-L"> Ostendit mihi thesauros incomparabiles quos mihi se
+       <app>
+            <rdg wit="CAO-G CAO-S"> donaturum</rdg>
+            <rdg wit="CAO-L"> daturum</rdg>
+         </app> repromisit</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et sanguis </rep>
+   </verses>
+</res>

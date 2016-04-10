@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5370" nextid="c5372" id="c5371">
+   <header>
+      <usage ms="Alb2" code="07067000">[113r] vesp2-a2</usage>
+      <usage ms="Cdm" code="08011000">[80v] vesp1</usage>
+      <usage ms="Hyd" code="07067000">[98v] nones</usage>
+      <usage ms="Mch" code="07067000">[164v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07067000">[96r] vesp2</usage>
+      <usage ms="Wcb" code="07067000">[118v] vesp2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Pet Wcb Alb2 Cdm Mch"> Vespere autem sabbati quae lucescit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd Pet Wcb Alb2 Cdm Mch"> in prima sabbati</rdg>
+         <rdg wit="CAO-R">in primam sabbati</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Hyd Pet Wcb Cdm Mch"> venit Maria Magdalene</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L Alb2"> venit Maria Magdalena</rdg>
+      </app> et altera Maria
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Wcb Alb2 Cdm Mch"> videre sepulchrum alleluia</rdg>
+         <rdg wit="Pet"> videre sepulchrum</rdg>
+      </app>
+   </aBody>
+</ant>

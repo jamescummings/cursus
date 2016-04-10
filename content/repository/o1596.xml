@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1595" nextid="o1597" id="o1596">
+   <header>
+      <usage ms="Evm" code="06034000">[103r] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.846</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm">Ab omnibus nos quaesumus domine peccatis propitiatus absolve ut percepta venia peccatorum liberis tibi mentibus serviamus</pBody>
+</prayer>

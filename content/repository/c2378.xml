@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2377" nextid="c2379" id="c2378">
+   <header>
+      <usage ms="Hyd" code="10600000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-D CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-L"> Domine rex omnipotens libera nos</rdg>
+         <rdg wit="CAO-D Hyd"> Domine deus rex omnipotens libera nos</rdg>
+      </app> propter nomen tuum et da nobis locum paenitentiae</aBody>
+</ant>

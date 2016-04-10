@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4562" nextid="c4564" id="c4563">
+   <header>
+      <usage ms="Alb2" code="01037000">[17v] nones</usage>
+      <usage ms="Bat" code="01041000">[13r] lauds gosp</usage>
+      <usage ms="Cdm" code="01041000">[17v] vesp1 gosp</usage>
+      <usage ms="Evm" code="01017000">[12v] lauds gosp</usage>
+      <usage ms="Evm" code="01035009">[20r] vesp2 gosp</usage>
+      <usage ms="Glo" code="14032500"/>
+      <usage ms="Wcb" code="01041000">[47v] vesp1 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Glo Alb2 Evm Cdm Wcb Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Glo Alb2 Evm Cdm Wcb Bat"> Quomodo fiet istud angele dei</rdg>
+         <rdg wit="CAO-C"> Quomodo fiet istud angelus dei</rdg>
+      </app>
+      <app>
+         <rdg wit="Glo Evm Wcb"> quia virum non cognosco</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cdm Bat"> quia virum in concipiendo non pertuli</rdg>
+         <rdg wit="Alb2"> quia virum in concipiendo non partuli</rdg>
+         <rdg wit="CAO-V"> quia virum in concipiendo non pertulit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Glo Alb2 Evm Cdm Wcb Bat"> audi Maria virgo Christi</rdg>
+         <rdg wit="CAO-C"> audis Maria virgo Christi</rdg>
+         <rdg wit="CAO-F"> audi virgo Christi</rdg>
+         <rdg wit="CAO-L"> audi Maria Christi virgo</rdg>
+      </app> spiritus sanctus superveniet in te et virtus altissimi obumbrabit tibi</aBody>
+</ant>

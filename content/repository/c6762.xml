@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6761" nextid="c6763" id="c6762">
+   <header>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Gaudebunt labia mea
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-D CAO-F CAO-S Hyd"> dum</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R"> cum</rdg>
+      </app> cantavero tibi et anima mea quam redemisti domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Sed et lingua mea meditabitur iustitiam tuam tota die laudem tuam</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Et anima</rep>
+   </verses>
+</res>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2460" nextid="c2461b" id="c2461">
+   <header>
+      <usage ms="Alb2" code="02010500">[50r] lauds gosp</usage>
+      <usage ms="Bat" code="02123000">[26r] lauds gosp</usage>
+      <usage ms="Cdm" code="03031000">[34v] vesp1 gosp</usage>
+      <usage ms="Evm" code="02010300">[63r] vesp1 gosp</usage>
+      <usage ms="Hyd" code="03021000">[31r] vesp1 gosp</usage>
+      <usage ms="Pet" code="02122508">[19r] </usage>
+      <usage ms="Wcb" code="02010100">[65v] vesp1 gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.141-142</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Wcb Bat Cdm Pet"> Dum medium silentium tenerent omnia</rdg>
+         <rdg wit="CAO-L"> Dum medium silentium teneret omnia</rdg>
+      </app> et nox in suo cursu iter perageret omnipotens sermo tuus domine a regalibus sedibus venit alleluia</aBody>
+</ant>

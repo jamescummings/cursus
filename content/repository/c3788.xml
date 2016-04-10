@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3787" nextid="c3789" id="c3788">
+   <aBody wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R"> Misit rex incredulus ministros detestabiles</rdg>
+         <rdg wit="CAO-D CAO-F CAO-L"> Misit rex incredulus ministrum detestabilem</rdg>
+         <rdg wit="CAO-V"> Misit rex incredulus ministros detestabilis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> et amputare iussit caput Joannis in carcere</rdg>
+         <rdg wit="CAO-H"> amputare iussit caput Joannis in carcere</rdg>
+         <rdg wit="CAO-R CAO-D CAO-F"> et amputari iussit caput Joannis in carcere</rdg>
+         <rdg wit="CAO-E"> et amputare iussit caput Joannis baptistae in disco</rdg>
+         <rdg wit="CAO-V"> et amputare iussit caput Joannis</rdg>
+      </app>
+   </aBody>
+</ant>

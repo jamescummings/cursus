@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2818" nextid="c2820" id="c2819">
+   <header>
+      <usage ms="Glo" code="14032100"/>
+   </header>
+   <aBody wit="CAO-D CAO-F CAO-S Glo"> Exsultet omnium turba fidelium
+     <app>
+         <rdg wit="CAO-D"> in adventu almi patris Benedicti</rdg>
+         <rdg wit="CAO-F Glo"> pro gloria almi patris Benedicti</rdg>
+         <rdg wit="CAO-S"> in transitu almi patris Benedicti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F Glo"> laetentur praecipue catervae monachorum</rdg>
+         <rdg wit="CAO-S"> laetentur et insulae catervae monachorum</rdg>
+      </app> celebrantes eius festa in terris de cuius societate sancti congaudent in caelis</aBody>
+</ant>

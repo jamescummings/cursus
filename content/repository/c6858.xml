@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6857" nextid="c6859" id="c6858">
+   <header>
+      <usage ms="Alb2" code="02122500">[24v] matins-n1-r1</usage>
+      <usage ms="Bat" code="02122500">[15v] matins-n1-r1</usage>
+      <usage ms="Cdm" code="02122500">[21v] matins-n1-r1</usage>
+      <usage ms="Ely" code="02122500">[18r] matins-n1-r1</usage>
+      <usage ms="Evm" code="02122500">[33r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="02122500">[17v] matins-n1-r1</usage>
+      <usage ms="Pet" code="02122500">[15v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="02122500">[53v] matins-n1-r1</usage>
+      <usage ms="Wor" code="02122500">[13v] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Hodie nobis caelorum rex
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> de virgine</rdg>
+         <rdg wit="CAO-V"> per virginem</rdg>
+      </app> nasci dignatus est ut hominem perditum ad regna caelestia
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> revocaret</rdg>
+         <rdg wit="CAO-S"> revocares</rdg>
+      </app> gaudet exercitus angelorum quia salus aeterna humano
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> generi</rdg>
+         <rdg wit="CAO-V"> generis</rdg>
+      </app> apparuit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Gloria in excelsis deo et in terra pax hominibus bonae voluntatis</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F Hyd Evm Cdm Pet"> Gaudet</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-H CAO-R CAO-S CAO-L Alb2 Wcb Bat Ely Wor"> Quia</rep>
+      <dox type="r" wit="CAO-V CAO-D"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-V CAO-D"> Humano</rep>
+      <prosula wit="CAO-L"> Gaudia aeterna nobis de caelo apparuit Christus deus rex caelorum pro nobis in mundo apparuit</prosula>
+   </verses>
+</res>

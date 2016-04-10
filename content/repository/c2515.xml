@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2514" nextid="c2516" id="c2515">
+   <header>
+      <usage ms="Alb2" code="01021000">[9r] lauds-a1</usage>
+      <usage ms="Bat" code="01021000">[7r] lauds-a1</usage>
+      <usage ms="Cdm" code="01021000">[13r] lauds-a1</usage>
+      <usage ms="Ely" code="01021000">[8r] lauds-a1</usage>
+      <usage ms="Evm" code="01021000">[14v] lauds-a1</usage>
+      <usage ms="Hyd" code="01021000">[8v] lauds-a1</usage>
+      <usage ms="Hyd" code="01043000">[15r] terce</usage>
+      <usage ms="Mch" code="01021000">[8v] lauds-a1</usage>
+      <usage ms="Wcb" code="01021000">[45r] lauds-a1</usage>
+      <usage ms="Wor" code="01021000">[6r] lauds-a1</usage>
+      <usage ms="Wor" code="01037000">[10r] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Ecce in nubibus caeli dominus veniet
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Bat"> cum potestate magna alleluia</rdg>
+         <rdg wit="CAO-M CAO-V Wcb"> in potestate magna alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

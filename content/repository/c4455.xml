@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4454b" nextid="c4456" id="c4455">
+   <header>
+      <usage ms="Alb2" code="02122500">[29r] lauds-a1</usage>
+      <usage ms="Bat" code="02122500">[18r] lauds-a1</usage>
+      <usage ms="Cdm" code="02122500">[23r] lauds-a1</usage>
+      <usage ms="Ely" code="02122500">[20v] lauds-a1</usage>
+      <usage ms="Hyd" code="02122500">[20v] lauds-a5</usage>
+      <usage ms="Pet" code="02122500">[18r] lauds-a1</usage>
+      <usage ms="Wor" code="02122500">[14v] lauds-a1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.153-154</note>
+         <note place="unspecified" anchored="yes">See Hesbert in EphLit 1938</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor Pet"> Quem vidistis pastores dicite</rdg>
+         <rdg wit="CAO-F"> Quam vidistis pastores dicite</rdg>
+      </app> annuntiate nobis in terris quis apparuit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Alb2 Bat Cdm Ely Pet"> natum vidimus in choro angelorum</rdg>
+         <rdg wit="CAO-F Hyd Wor"> natum vidimus et choros angelorum</rdg>
+         <rdg wit="CAO-L"> natum vidimus et choro angelorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D Bat Cdm Ely Pet"> salvatorem dominum venite adoremus</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S Alb2"> salvatorem dominum alleluia alleluia</rdg>
+         <rdg wit="CAO-F Hyd"> collaudantes dominum alleluia alleluia</rdg>
+         <rdg wit="Wor"> collaudantes dominum venite adoremus</rdg>
+         <rdg wit="CAO-L"> dominum venite adoremus alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

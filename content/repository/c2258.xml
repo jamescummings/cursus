@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2257a" nextid="c2259" id="c2258">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Dives ille guttam aquae petiit</rdg>
+         <rdg wit="CAO-C"> Dives ille guttam aquam petiit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-H CAO-F CAO-S"> qui micas panis Lazaro negavit</rdg>
+         <rdg wit="CAO-E CAO-R"> qui micam panis Lazaro negavit</rdg>
+         <rdg wit="CAO-C"> qui micas panis Lazarum negavit</rdg>
+      </app>
+   </aBody>
+</ant>

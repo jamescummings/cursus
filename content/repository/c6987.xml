@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6986" nextid="c6988" id="c6987">
+   <rBody wit="CAO-C"> Invitatus ad prandium sanctus Dei sacerdos Christi exemplum secutus assensum praebere non abnuit ut verbum vitae convivarum cordibus <corr sic="arcium infunderet et daemonium" resp="Hesbert">arctius infunderet et daemonum</corr> commenta fugaret</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C">Extenta namque dextera crucis signum vasis impressit fugans larvam ex liquore fuso miraculo coruscavit</vBody>
+      <rep type="r" wit="CAO-C">
+         <corr sic="Et" resp="Hesbert">Ut</corr> verbum</rep>
+   </verses>
+</res>

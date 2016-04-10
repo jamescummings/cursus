@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2078" nextid="c2080" id="c2079">
+   <header>
+      <usage ms="Hyd" code="01013000">[5v] lauds-a4</usage>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Cunctis diebus vitae nostrae salvos nos fac domine</aBody>
+</ant>

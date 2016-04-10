@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1980" nextid="c1982" id="c1981">
+   <aBody wit="CAO-E CAO-L"> Cum audisset <name reg="Petrus" type="saint">Petrus</name> quia dominus est
+     <app>
+         <rdg wit="CAO-E"> tunica succinxit se</rdg>
+         <rdg wit="CAO-L"> tunicam succinxit se</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> et erat enim nudus</rdg>
+         <rdg wit="CAO-L"> erat enim nudus</rdg>
+      </app> et misit se in mare alleluia</aBody>
+</ant>

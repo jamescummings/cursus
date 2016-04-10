@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9517" nextid="c9519" id="c9518">
+   <header>
+      <usage ms="Hyd" code="02010600"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">cf. c6444</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Hyd">Dies sanctificatus illuxit nobis</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Venite gentes et adorate dominum</vBody>
+      <dox type="r" wit="Hyd">Gloria patri</dox>
+   </verses>
+</res>

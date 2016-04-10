@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6969" nextid="c6971" id="c6970">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Innuebant patri eius quem vellet vocari eum et postulans pugillarem
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> scripsit</rdg>
+         <rdg wit="CAO-M"> scripsi</rdg>
+      </app> dicens Joannes est nomen eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Apertum est os Zachariae et
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S"> prophetavit</rdg>
+            <rdg wit="CAO-M"> prophetabat</rdg>
+         </app> dicens</vBody>
+      <vBody type="r" wit="CAO-L"> Vicini quoque et cognati eius venerunt circumcidere puerum et sciscitati sunt quo nomine vocaretur</vBody>
+      <vBody id="c6970-1" type="r" num="2" wit="CAO-F"> Apertum est os Zachariae et prophetavit dicens</vBody>
+      <rep corresp="c6970-1" type="r" wit="CAO-F">Joannes</rep>
+      <vBody id="c6970-2" type="r" wit="CAO-F"> Vicini quoque et cognati eius venerunt circumcidere puerum et sciscitati sunt quo nomine vocaretur</vBody>
+      <rep corresp="c6970-2" type="r" wit="CAO-F"> Et postulans</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S">Joannes</rep>
+      <rep type="r" wit="CAO-L">Et postulans</rep>
+   </verses>
+</res>

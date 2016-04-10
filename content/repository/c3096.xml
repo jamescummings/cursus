@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3095" nextid="c3097" id="c3096">
+   <header>
+      <usage ms="Hyd" code="08081000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Hodie completi sunt dies pentecostes alleluia hodie spiritus sanctus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Hyd"> in igne</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L"> in ignem</rdg>
+      </app> discipulis apparuit
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R CAO-F CAO-S Hyd"> et tribuens eis</rdg>
+         <rdg wit="CAO-E CAO-D CAO-L"> et tribuit eis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> charismatum dona</rdg>
+         <rdg wit="CAO-M CAO-V"> charismatum donum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-F CAO-S CAO-L Hyd"> misit eos in universum mundum</rdg>
+         <rdg wit="CAO-D"> misit eos in universo mundo</rdg>
+         <rdg wit="CAO-V CAO-R"> misit eos in universum orbem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-D CAO-S Hyd"> praedicare et testificari</rdg>
+         <rdg wit="CAO-F"> praedicari et testificari</rdg>
+         <rdg wit="CAO-M CAO-L"> praedicare et testificare</rdg>
+      </app> qui crediderit et baptizatus fuerit salvus erit alleluia</aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2152" nextid="c2154" id="c2153">
+   <header>
+      <usage ms="Cdm" code="07021000">[60r] vesp1</usage>
+      <usage ms="Cht" code="07017000"/>
+      <usage ms="Ely" code="07017000"/>
+      <usage ms="Evm" code="07017000"/>
+      <usage ms="Hyd" code="07017000"/>
+      <usage ms="Pet" code="07017000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Hyd Pet Evm Cdm"> Descendentibus illis de monte
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F"> praecepit Jesus dicens</rdg>
+         <rdg wit="CAO-H CAO-R CAO-L Ely Cht Hyd Pet Evm Cdm"> praecepit eis dicens</rdg>
+         <rdg wit="CAO-S"> praecepit illis Jesus dicens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Hyd Pet Cdm"> nemini dixeritis visionem</rdg>
+         <rdg wit="Evm"> nemini dixeritis visionem donec a mortuis resurgat filius hominis</rdg>
+      </app>
+   </aBody>
+</ant>

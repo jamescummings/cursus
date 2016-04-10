@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3350" nextid="c3352" id="c3351">
+   <header>
+      <usage ms="Bat" code="02122700">[22r] vesp2 commemoration</usage>
+      <usage ms="Evm" code="02010200">[62v] vesp2 commemoratio</usage>
+      <usage ms="Pet" code="02122800">[30r] matins-n2-a12</usage>
+      <usage ms="Wcb" code="02122800">[63v] matins-n2-a10</usage>
+      <usage ms="Wor" code="02122800">[22r] matins-n2-a12</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-F CAO-S CAO-L Evm Wcb Bat Wor Pet"> Innocentes pro Christo infantes occisi sunt ab iniquo rege
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-S CAO-L Evm Wcb Bat Wor Pet"> lactantes interfecti sunt</rdg>
+         <rdg wit="CAO-G"> crudeliter interfecti sunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-F CAO-S Evm Wcb"> ipsum sequuntur agnum</rdg>
+         <rdg wit="CAO-C CAO-L Bat Wor Pet"> ipsum laudantes agnum</rdg>
+      </app> sine macula
+     <app>
+         <rdg wit="Evm Wcb"> et clamant dicentes</rdg>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-F CAO-S Wor Pet"> et dicunt semper</rdg>
+         <rdg wit="CAO-L Bat"> dicunt semper</rdg>
+         <rdg wit="CAO-E"> et clamaverunt</rdg>
+      </app> gloria tibi domine</aBody>
+</ant>

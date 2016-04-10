@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1240" nextid="c1242" id="c1241">
+   <aBody wit="CAO-E"> Ad haec disponente dei gratia <name reg="Hermagoras" type="person">Hermagoras</name> invenit <rs reg="Syrus" type="person">virum venerabilem</rs> quem vicis suae ordinem <name reg="Italia" type="place">Italiae</name> reliquit insignem et <name reg="Alexandria" type="place">Alexandriam</name> sua praediratione fecit sublimem</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-E">Haec igitur iubente <name reg="Petrus" type="saint">Petro</name> peregit quem clavigerum aeterni regni cognovit</vBody>
+   </verses>
+</ant>

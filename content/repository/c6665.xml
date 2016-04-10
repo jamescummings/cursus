@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6664" nextid="c6666" id="c6665">
+   <rBody wit="CAO-D CAO-F CAO-S"> Erat vultu placido canis decoratus angelicis tantaque circa eum
+      <app>
+         <rdg wit="CAO-F CAO-S"> claritas</rdg>
+         <rdg wit="CAO-D"> caritas</rdg>
+      </app> excreverat ut in terris positus in caelestibus
+      <app>
+         <rdg wit="CAO-D CAO-F"> habitaret</rdg>
+         <rdg wit="CAO-S"> amaretur</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Vir autem domini Benedictus
+       <app>
+            <rdg wit="CAO-F"> ita spiritu sancto</rdg>
+            <rdg wit="CAO-S"> spiritu omnium iustorum</rdg>
+            <rdg wit="CAO-D">
+               <add place="over erasure">ita spiritu sancto</add>
+            </rdg>
+         </app> plenus fuit</vBody>
+      <rep type="r" wit="CAO-F CAO-S"> Tantaque</rep>
+      <rep type="r" wit="CAO-D"> Ut in terris</rep>
+   </verses>
+</res>

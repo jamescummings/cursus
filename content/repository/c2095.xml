@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2094" nextid="c2096" id="c2095">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Dabo sanctis meis locum nominatum</rdg>
+         <rdg wit="CAO-E"> Dabo sanctis meis in locum dominatum</rdg>
+         <rdg wit="CAO-S"> Dabo sanctis meis locum praeparatum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> in regno patris mei dicit dominus</rdg>
+         <rdg wit="CAO-C CAO-D"> in regno patris mei</rdg>
+      </app>
+   </aBody>
+</ant>

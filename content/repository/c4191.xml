@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4190" nextid="c4192" id="c4191">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Oremus omnes ad dominum Jesum Christum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-R CAO-D CAO-S CAO-L"> ut confessoribus suis fontis venas aperiat</rdg>
+         <rdg wit="CAO-H CAO-F"> ut confessoribus suis fontis venam aperiat</rdg>
+         <rdg wit="CAO-V"> ut confessoribus suis fontis venas aperias</rdg>
+         <rdg wit="CAO-M"> ut confessoribus suis fontis venas aperuit</rdg>
+      </app>
+   </aBody>
+</ant>

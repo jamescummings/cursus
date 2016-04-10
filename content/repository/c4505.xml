@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4504" nextid="c4506" id="c4505">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> Qui vicerit faciam illum columnam meam</rdg>
+         <rdg wit="CAO-L"> Qui vicerit faciam illum columna mea</rdg>
+         <rdg wit="CAO-V"> Qui vicerit faciam illum columna</rdg>
+         <rdg wit="CAO-E"> Qui vicerit faciam illum columnam</rdg>
+      </app> in templo meo dicit dominus</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1847" nextid="c1849" id="c1848">
+   <header>
+      <usage ms="Hyd" code="08013000">[103r] matins-n2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="Hyd">Alleluia cognoverunt dominum alleluia</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L"> Cognoverunt dominum alleluia</rdg>
+         <rdg wit="CAO-R"> Cognoverunt discipuli dominum alleluia</rdg>
+      </app> in fractione panis alleluia</aBody>
+</ant>

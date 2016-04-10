@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7800" nextid="c7802" id="c7801">
+   <rBody wit="CAO-S CAO-L"> Tunc pincerna increpans apostolum dedit
+     <app>
+         <rdg wit="CAO-S"> palmam</rdg>
+         <rdg wit="CAO-L"> palam</rdg>
+      </app> in faciem eius inde
+     <app>
+         <rdg wit="CAO-S"> dixit</rdg>
+         <rdg wit="CAO-L"> dicens</rdg>
+      </app> apostolus praesens tibi poena reddatur ne pereas manus vero tua a canibus
+     <app>
+         <rdg wit="CAO-L"> hic</rdg>
+         <rdg wit="CAO-S"> huc</rdg>
+      </app> apportetur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-S"> His vero qui alapam ei dedit</rdg>
+            <rdg wit="CAO-L"> Hic ergo qui alapam ei dabat</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-S"> a leone occidebatur</rdg>
+            <rdg wit="CAO-L"> a leone occidetur</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-S"> et a cane manus eius deferebatur</rdg>
+            <rdg wit="CAO-L"> et a canibus eius illo deferebatur</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-S CAO-L">Praesens</rep>
+   </verses>
+</res>

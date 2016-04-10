@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1085" nextid="c1087" id="c1086">
+   <aBody wit="CAO-B CAO-V CAO-R"> In honore beatissimae <name reg="Maria virg" type="saint">Mariae</name> virginis
+     <app>
+         <rdg wit="CAO-B CAO-R"> iubilemus domino</rdg>
+         <rdg wit="CAO-V"> iubilemus deo salutari nostro</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1661" nextid="c1663" id="c1662">
+   <aBody wit="CAO-C CAO-V"> Beatus <name reg="Quintinus" type="saint">Quintinus</name> orabat dicens
+     <app>
+         <rdg wit="CAO-V"> domine Jesu Christe lumen vere</rdg>
+         <rdg wit="CAO-C"> domine deus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> miserere mei servi tui</rdg>
+         <rdg wit="CAO-V"> miserere mei servo tuo</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4173" nextid="c4175" id="c4174">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-S CAO-L"> Orabat sanctus Thomas ad dominum
+     <app>
+         <rdg wit="CAO-E CAO-L"> respice in me domine invocantem te</rdg>
+         <rdg wit="CAO-S"> respice in me domine invocantem</rdg>
+         <rdg wit="CAO-M"> respice nos domine invocantem te</rdg>
+         <rdg wit="CAO-C CAO-V"> respice in me domine exspectantem te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-S CAO-L"> ac revertentem ad nuptias</rdg>
+         <rdg wit="CAO-C"> ac revertentem a nuptiis</rdg>
+         <rdg wit="CAO-M"> ac reverentem ad nuptias</rdg>
+      </app>
+   </aBody>
+</ant>

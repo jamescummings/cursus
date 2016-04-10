@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5064" nextid="c5066" id="c5065">
+   <header>
+      <usage ms="Bat" code="01023000">[7v] lauds gosp</usage>
+      <usage ms="Cdm" code="01023000">[13v] lauds gosp</usage>
+      <usage ms="Ely" code="01023000">[8v] lauds gosp</usage>
+      <usage ms="Evm" code="01023000">[15v] lauds gosp</usage>
+      <usage ms="Hyd" code="01023000">[9r] lauds gosp</usage>
+      <usage ms="Mch" code="01023000">[9v] lauds gosp</usage>
+      <usage ms="Wcb" code="01023000">[45v] lauds gosp</usage>
+      <usage ms="Wor" code="01023000">[6v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Mch Cdm Ely Wor Wcb Bat"> Super te Jerusalem orietur dominus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Mch Cdm Ely Wor Wcb Bat"> et gloria eius in te videbitur</rdg>
+         <rdg wit="CAO-C"> et gloriam eius in te videbitur</rdg>
+      </app>
+   </aBody>
+</ant>

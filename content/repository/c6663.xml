@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6662" nextid="c6664" id="c6663">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Erat namque in sermone verax in iudicio iustus in consilio providus in bonitate conspicuus in universa morum honestate praeclarus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> In commisso</rdg>
+            <rdg wit="CAO-S"> In quo misso</rdg>
+            <rdg wit="CAO-V"> in comissu</rdg>
+         </app> quoque fidelis
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L"> in interventu</rdg>
+            <rdg wit="CAO-D"> interventu</rdg>
+            <rdg wit="CAO-V CAO-S"> in interventus</rdg>
+         </app> strenuus</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> In universa</rep>
+   </verses>
+</res>

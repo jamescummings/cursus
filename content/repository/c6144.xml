@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6143" nextid="c6145" id="c6144">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Audiam domine vocem laudis tuae
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Alb2"> ut enarrem</rdg>
+         <rdg wit="CAO-G CAO-D Hyd"> et enarrem</rdg>
+      </app> universa mirabilia tua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Hyd"> Domine dilexi decorem domus tuae et locum
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Hyd"> habitationis</rdg>
+            <rdg wit="CAO-G CAO-L"> tabernaculi</rdg>
+         </app> gloriae tuae</vBody>
+      <vBody type="r" wit="CAO-S"> Benedictus esto domine doce me praecepta tua</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2">Ut enarrem</rep>
+      <rep type="r" wit="Hyd"> Et enarrem</rep>
+   </verses>
+</res>

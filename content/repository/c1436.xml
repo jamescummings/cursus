@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1435" nextid="c1437" id="c1436">
+   <header>
+      <usage ms="Alb2" code="01031000">[11r] vesp1 gosp</usage>
+      <usage ms="Bat" code="01027000">[8r] lauds gosp</usage>
+      <usage ms="Cdm" code="01027000">[14r] lauds gosp</usage>
+      <usage ms="Ely" code="01027000">[9v] </usage>
+      <usage ms="Evm" code="01031000">[15v] vesp1 gosp</usage>
+      <usage ms="Glo" code="01031000">[15v] vesp1 gosp</usage>
+      <usage ms="Hyd" code="01027000">[9v] lauds gosp</usage>
+      <usage ms="Hyd" code="01042000">[14v] prime</usage>
+      <usage ms="Mch" code="01031000">[9v] vesp1 gosp</usage>
+      <usage ms="Wcb" code="01031000">[45v] vesp1 gosp</usage>
+      <usage ms="Wor" code="01027000">[6v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Mch Cdm Ely Wor Wcb Glo Bat"> Ante me non est formatus deus</rdg>
+         <rdg wit="Evm"> Ante me non est formator deus</rdg>
+      </app> et post me non erit quia mihi curvabitur omne genu et confitebitur omnis lingua</aBody>
+</ant>

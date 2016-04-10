@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7612" nextid="c7614" id="c7613">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Sanctus Joannes episcopus lacrimatus prae gaudio benedixit deum et dixit ad Lucianum presbyterum oportet me inde
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> transferre</rdg>
+         <rdg wit="CAO-S"> transferri</rdg>
+      </app> beatum protomartyrem Stephanum qui tamquam angelus apparuit positus in contione hominum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">Qui primus apud Judaeos dominica bella peregit et Jesum
+      <app>
+            <rdg wit="CAO-D CAO-L"> a dextris</rdg>
+            <rdg wit="CAO-F CAO-S"> ad dextris</rdg>
+         </app> virtutis deinceps stantem videre promeruit</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L">Qui tamquam</rep>
+   </verses>
+</res>

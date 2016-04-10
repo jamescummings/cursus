@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1969" nextid="c1971" id="c1970">
+   <header>
+      <usage ms="Ely" code="07066000">[90v] vesp2-a1</usage>
+      <usage ms="Evm" code="07066000">[152v] vesp2</usage>
+      <usage ms="Glo" code="07066000">[79v] vesp1</usage>
+      <usage ms="Pet" code="07066000">[93v] vesp2-a1</usage>
+      <usage ms="Wcb" code="07066000">[117r] vesp2-a6</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S Ely Pet Evm Wcb Glo">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F Pet Evm Wcb Glo"> Cum accepisset acetum</rdg>
+         <rdg wit="Ely"> Cum accepisset Jesus acetum</rdg>
+         <rdg wit="CAO-S"> Cum accepisset azetum</rdg>
+      </app> dixit consummatum est et inclinato capite
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-F CAO-S Pet Evm Wcb Glo"> tradidit spiritum</rdg>
+         <rdg wit="CAO-R Ely"> emisit spiritum</rdg>
+      </app>
+   </aBody>
+</ant>

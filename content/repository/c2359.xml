@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2358" nextid="c2360" id="c2359">
+   <aBody wit="CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-D"> Domine miserere nostri te exspectavimus</rdg>
+         <rdg wit="CAO-F"> Domine miserere nostri te exspectamus</rdg>
+      </app> esto brachium nostrum in fortitudine et salus nostra in tempore tribulationis
+     <app>
+         <rdg wit="CAO-F"> domine deus noster</rdg>
+         <rdg wit="CAO-D"> domine deus noster alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

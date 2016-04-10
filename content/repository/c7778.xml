@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7777" nextid="c7779" id="c7778">
+   <header>
+      <usage ms="Alb2" code="07011000">[76r] matins-n2-r8</usage>
+      <usage ms="Bat" code="07011000">[47v] matins-n2-r8</usage>
+      <usage ms="Cdm" code="07011000">[57r] matins-n2-r8</usage>
+      <usage ms="Cht" code="07011000">[23r] matins-n3-r9</usage>
+      <usage ms="Ely" code="07011000">[67v] matins-n3-r9</usage>
+      <usage ms="Evm" code="07011000">[106v] matins-n2-r8</usage>
+      <usage ms="Hyd" code="07011000">[70r] matins-n3-r10</usage>
+      <usage ms="Mch" code="07011000">[113v] matins-n2-r7</usage>
+      <usage ms="Pet" code="07011000">[64v] matins-n3-r9</usage>
+      <usage ms="Wcb" code="07011000">[92v] matins-n2-r8</usage>
+      <usage ms="Wor" code="07011000">[43v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Tribularer si nescirem misericordias tuas domine</rdg>
+         <rdg wit="CAO-L"> Tribularer si nescirem misericordia tua domine</rdg>
+      </app> tu dixisti nolo mortem peccatoris
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch"> sed convertatur et vivat</rdg>
+         <rdg wit="CAO-C CAO-B CAO-R CAO-S CAO-L Hyd Bat"> sed ut convertatur et vivat</rdg>
+      </app> qui Chananaeam et publicanum vocasti ad paenitentiam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Et Petrum lacrimantem suscepisti misericors domine</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat">Qui</rep>
+      <rep type="r" wit="CAO-G CAO-D Mch"> Tu</rep>
+   </verses>
+</res>

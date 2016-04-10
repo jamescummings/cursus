@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2273" nextid="c2275" id="c2274">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dixit autem dominus servo redde quod debes procidens autem servus ille
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> rogabat eum dicens</rdg>
+         <rdg wit="CAO-C CAO-V"> orabat eum dicens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> patientiam habe in me</rdg>
+         <rdg wit="CAO-C"> paenitentiam habe in me</rdg>
+      </app> et omnia reddam tibi</aBody>
+</ant>

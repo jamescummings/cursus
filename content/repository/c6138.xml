@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6137" nextid="c6139" id="c6138">
+   <header>
+      <usage ms="Alb2" code="07041000">[94r] matins-n3-r9</usage>
+      <usage ms="Bat" code="07041000">[56v] matins-n3-r9</usage>
+      <usage ms="Cdm" code="07041000">[68r] matins-n3-r10</usage>
+      <usage ms="Cht" code="07041000">[41r] matins-n3-r10</usage>
+      <usage ms="Ely" code="07041000">[78r] matins-n3-r10</usage>
+      <usage ms="Evm" code="07041000">[128v] matins-n3-r9</usage>
+      <usage ms="Hyd" code="07041000">[82r] matins-n3-r10</usage>
+      <usage ms="Mch" code="07041000">[138r] matins-n3-r9</usage>
+      <usage ms="Pet" code="07041000">[76r] matins-r10</usage>
+      <usage ms="Wcb" code="07041000">[104v] matins-n3-r9</usage>
+      <usage ms="Wor" code="07041000">[50v] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Attendite popule meus legem meam</rdg>
+         <rdg wit="CAO-C CAO-M CAO-L"> Attendite populus meus legem meam</rdg>
+      </app> inclinate aurem vestram in verba oris mei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Aperiam in parabolis os meum
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> loquar</rdg>
+            <rdg wit="Cht"> loquebar</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> propositiones</rdg>
+            <rdg wit="CAO-M CAO-V"> propositionis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> ab initio saeculi</rdg>
+            <rdg wit="CAO-E"> ab initio mundi</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Inclinate</rep>
+   </verses>
+</res>

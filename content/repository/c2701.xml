@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2700" nextid="c2702" id="c2701">
+   <aBody wit="CAO-B CAO-R CAO-D CAO-F CAO-S"> Et facta est comes multitudo caelestis exercitus exanimi corporis beati Dionysii
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-F"> caput proprium deportantis</rdg>
+         <rdg wit="CAO-S"> caput proprium deportantes</rdg>
+         <rdg wit="CAO-D"> caput proprium depotantis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-D"> laudans deum ac dicens</rdg>
+         <rdg wit="CAO-F CAO-S"> laudans deum et dicens</rdg>
+      </app> gloria tibi domine</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Quoniam beatus quem elegisti et assumpsisti inhabitabit in atriis tuis</vBody>
+   </verses>
+</ant>

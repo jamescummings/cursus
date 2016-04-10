@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6347" nextid="c6349" id="c6348">
+   <rBody wit="CAO-M CAO-H CAO-S CAO-L"> Credo quod redemptor meus vivit et in novissimo die de terra
+      <app>
+         <rdg wit="CAO-H CAO-L"> surrecturus sum</rdg>
+         <rdg wit="CAO-M CAO-S"> surrecturus sim</rdg>
+      </app> et in carne mea videbo Deum salvatorem meum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-H CAO-S CAO-L"> Quem visurus sum ego ipse
+       <app>
+            <rdg wit="CAO-M CAO-H CAO-S"> et non alius</rdg>
+            <rdg wit="CAO-L"> et non alium</rdg>
+         </app> et oculi mei
+       <app>
+            <rdg wit="CAO-H CAO-L"> conspecturi sunt</rdg>
+            <rdg wit="CAO-M CAO-S"> conspecturi</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-M CAO-H CAO-L"> Et in</rep>
+      <rep type="r" wit="CAO-S"> Salvatorem</rep>
+   </verses>
+</res>

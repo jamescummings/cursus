@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2805" nextid="c2807" id="c2806">
+   <header>
+      <usage ms="Alb2" code="01037000">[17v] lauds-a3</usage>
+      <usage ms="Bat" code="01037000">[11v] lauds-a3</usage>
+      <usage ms="Cdm" code="01037000">[17v] lauds-a3</usage>
+      <usage ms="Ely" code="01037000">[13r] lauds-a3</usage>
+      <usage ms="Evm" code="01037009">[22r] lauds-a3</usage>
+      <usage ms="Mch" code="01037000">[16r] lauds-a3</usage>
+      <usage ms="Pet" code="01037009">[9v] lauds-a3</usage>
+      <usage ms="Wcb" code="01047000">[51v] lauds-a3</usage>
+      <usage ms="Wor" code="01037000">[10r] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Exspectetur sicut pluvia eloquium domini
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-L Alb2 Evm Wor Wcb Pet"> et descendat</rdg>
+         <rdg wit="Mch"> et <corr sic="descendat">descendet</corr>
+         </rdg>
+         <rdg wit="CAO-M CAO-H CAO-F CAO-S Cdm Ely Bat"> et descendet</rdg>
+         <rdg wit="CAO-C"> et descendit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-R CAO-F CAO-L Evm Cdm Ely Wor Wcb Pet"> super nos sicut ros</rdg>
+         <rdg wit="Bat"> super vos sicut ros</rdg>
+         <rdg wit="CAO-G CAO-V CAO-H CAO-D CAO-S Alb2 Mch"> sicut ros super nos</rdg>
+      </app> deus noster</aBody>
+</ant>

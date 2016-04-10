@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4951" nextid="c4952b" id="c4952">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Similabo eum viro sapienti
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> qui aedificavit domum suam</rdg>
+         <rdg wit="CAO-S"> qui aedificabit domum suam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H"> super petram</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> supra petram</rdg>
+      </app>
+   </aBody>
+</ant>

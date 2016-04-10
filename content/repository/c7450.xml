@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7449" nextid="c7451" id="c7450">
+   <rBody wit="CAO-C CAO-V"> Puer natus est nobis alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V">
+         <app>
+            <rdg wit="CAO-C"> Et filius datus est nobis</rdg>
+            <rdg wit="CAO-V"> Filius datus est nobis</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-V">Alleluia alleluia</rep>
+   </verses>
+</res>

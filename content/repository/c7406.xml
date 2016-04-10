@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7405" nextid="c7407" id="c7406">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> Postquam impleti sunt dies purgationis eius</rdg>
+         <rdg wit="CAO-V"> Postquam completi sunt dies purgationis eius</rdg>
+         <rdg wit="CAO-E CAO-F CAO-S"> Postquam impleti sunt dies purgationis Mariae</rdg>
+      </app> secundum legem Moysi
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-L"> tulerunt illum</rdg>
+         <rdg wit="CAO-E CAO-F"> tulerunt Jesum</rdg>
+         <rdg wit="CAO-S"> tulerunt <sic resp="Hesbert">Jesu</sic>
+         </rdg>
+      </app> in Jerusalem ut sisterent eum domino
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L"> sicut scriptum est in lege domini</rdg>
+         <rdg wit="CAO-V"> sicut scriptum est</rdg>
+      </app> quia
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-S"> omne</rdg>
+         <rdg wit="CAO-E CAO-V CAO-L"> omnem</rdg>
+      </app> masculinum adaperiens vulvam sanctum domino vocabitur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S CAO-L"> Obtulerunt pro eo domino par turturum aut duos pullos columbarum</vBody>
+      <vBody type="r" wit="CAO-F"> Et ut darent hostiam secundum legem domini par turturum aut duos pullos columbarum</vBody>
+      <rep type="r" wit="CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L">Sicut</rep>
+      <rep type="r" wit="CAO-B CAO-V">Quia</rep>
+   </verses>
+</res>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2919" nextid="c2921" id="c2920">
+   <header>
+      <usage ms="Glo" code="14032500"/>
+   </header>
+   <aBody wit="CAO-L Glo"> Gaude dei genitrix virgo immaculata gaude
+     <app>
+         <rdg wit="CAO-L"> quae gaudio ab angelo suscepisti</rdg>
+         <rdg wit="Glo"> quae gaudium ab angelo suscepisti</rdg>
+      </app> gaude quae genuisti aeterni luminis claritatem gaude mater gaude sancta dei genitrix virgo tu sola mater innupta te laudat omnis factura genitricem lucis
+     <app>
+         <rdg wit="CAO-L"> alleluia alleluia</rdg>
+         <rdg wit="Glo"> pro nobis quaesumus perpetuam intervenitrix</rdg>
+      </app>
+   </aBody>
+</ant>

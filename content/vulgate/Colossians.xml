@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Colossians">
+<body>
+  <rubric type="bible-incipit" id="B.Colossians.incipit.001">
+    <reference>
+      <bookName>Colossians</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AD COLOSSENES</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Colossians.001.001">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus apostolus Christi Iesu per voluntatem Dei et Timotheus frater</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.002">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>his qui sunt Colossis sanctis et fidelibus fratribus in Christo Iesu gratia vobis et pax a Deo Patre nostro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.003">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>gratias agimus Deo et Patri Domini nostri Iesu Christi semper pro vobis orantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.004">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>audientes fidem vestram in Christo Iesu et dilectionem quam habetis in sanctos omnes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.005">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>propter spem quae reposita est vobis in caelis quam audistis in verbo veritatis evangelii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.006">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>quod pervenit ad vos sicut et in universo mundo est et fructificat et crescit sicut in vobis ex ea die qua audistis et cognovistis gratiam Dei in veritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.007">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>sicut didicistis ab Epaphra carissimo conservo nostro qui est fidelis pro vobis minister Christi Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.008">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>qui etiam manifestavit nobis dilectionem vestram in Spiritu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.009">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>ideo et nos ex qua die audivimus non cessamus pro vobis orantes et postulantes ut impleamini agnitione voluntatis eius in omni sapientia et intellectu spiritali</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.010">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>ut ambuletis digne Deo per omnia placentes in omni opere bono fructificantes et crescentes in scientia Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.011">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>in omni virtute confortati secundum potentiam claritatis eius in omni patientia et longanimitate cum gaudio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.012">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>gratias agentes Patri qui dignos nos fecit in partem sortis sanctorum in lumine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.013">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>qui eripuit nos de potestate tenebrarum et transtulit in regnum Filii dilectionis suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.014">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>in quo habemus redemptionem remissionem peccatorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.015">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>qui est imago Dei invisibilis primogenitus omnis creaturae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.016">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>quia in ipso condita sunt universa in caelis et in terra visibilia et invisibilia sive throni sive dominationes sive principatus sive potestates omnia per ipsum et in ipso creata sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.017">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>et ipse est ante omnes et omnia in ipso constant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.018">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>et ipse est caput corporis ecclesiae qui est principium primogenitus ex mortuis ut sit in omnibus ipse primatum tenens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.019">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>quia in ipso conplacuit omnem plenitudinem habitare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.020">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>et per eum reconciliare omnia in ipsum pacificans per sanguinem crucis eius sive quae in terris sive quae in caelis sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.021">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>et vos cum essetis aliquando alienati et inimici sensu in operibus malis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.022">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>nunc autem reconciliavit in corpore carnis eius per mortem exhibere vos sanctos et inmaculatos et inreprehensibiles coram ipso</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.023">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>si tamen permanetis in fide fundati et stabiles et inmobiles ab spe evangelii quod audistis quod praedicatum est in universa creatura quae sub caelo est cuius factus sum ego Paulus minister</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.024">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>qui nunc gaudeo in passionibus pro vobis et adimpleo ea quae desunt passionum Christi in carne mea pro corpore eius quod est ecclesia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.025">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>cuius factus sum ego minister secundum dispensationem Dei quae data est mihi in vos ut impleam verbum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.026">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:26</verseNum>
+      </reference>
+      <l>mysterium quod absconditum fuit a saeculis et generationibus nunc autem manifestatum est sanctis eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.027">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:27</verseNum>
+      </reference>
+      <l>quibus voluit Deus notas facere divitias gloriae sacramenti huius in gentibus quod est Christus in vobis spes gloriae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.028">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:28</verseNum>
+      </reference>
+      <l>quem nos adnuntiamus corripientes omnem hominem et docentes omnem hominem in omni sapientia ut exhibeamus omnem hominem perfectum in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.001.029">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>1:29</verseNum>
+      </reference>
+      <l>in quo et laboro certando secundum operationem eius quam operatur in me in virtute</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Colossians.002.001">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>volo enim vos scire qualem sollicitudinem habeam pro vobis et pro his qui sunt Laodiciae et quicumque non viderunt faciem meam in carne</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.002">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>ut consolentur corda ipsorum instructi in caritate et in omnes divitias plenitudinis intellectus in agnitionem mysterii Dei Patris Christi Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.003">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>in quo sunt omnes thesauri sapientiae et scientiae absconditi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.004">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>hoc autem dico ut nemo vos decipiat in subtilitate sermonum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.005">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>nam et si corpore absens sum sed spiritu vobiscum sum gaudens et videns ordinem vestrum et firmamentum eius quae in Christo est fidei vestrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.006">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>sicut ergo accepistis Christum Iesum Dominum in ipso ambulate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.007">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>radicati et superaedificati in ipso et confirmati fide sicut et didicistis abundantes in gratiarum actione</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.008">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>videte ne quis vos decipiat per philosophiam et inanem fallaciam secundum traditionem hominum secundum elementa mundi et non secundum Christum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.009">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>quia in ipso inhabitat omnis plenitudo divinitatis corporaliter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.010">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>et estis in illo repleti qui est caput omnis principatus et potestatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.011">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>in quo et circumcisi estis circumcisione non manufacta in expoliatione corporis carnis in circumcisione Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.012">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>consepulti ei in baptismo in quo et resurrexistis per fidem operationis Dei qui suscitavit illum a mortuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.013">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>et vos cum mortui essetis in delictis et praeputio carnis vestrae convivificavit cum illo donans vobis omnia delicta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.014">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>delens quod adversum nos erat chirografum decretis quod erat contrarium nobis et ipsum tulit de medio adfigens illud cruci</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.015">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>expolians principatus et potestates traduxit palam triumphans illos in semet ipso</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.016">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>nemo ergo vos iudicet in cibo aut in potu aut in parte diei festi aut neomeniae aut sabbatorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.017">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>quae sunt umbra futurorum corpus autem Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.018">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>nemo vos seducat volens in humilitate et religione angelorum quae non vidit ambulans frustra inflatus sensu carnis suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.019">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>et non tenens caput ex quo totum corpus per nexus et coniunctiones subministratum et constructum crescit in augmentum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.020">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>si mortui estis cum Christo ab elementis mundi quid adhuc tamquam viventes in mundo decernitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.021">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>ne tetigeris neque gustaveris neque contrectaveris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.022">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>quae sunt omnia in interitu ipso usu secundum praecepta et doctrinas hominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.002.023">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>quae sunt rationem quidem habentia sapientiae in superstitione et humilitate et ad non parcendum corpori non in honore aliquo ad saturitatem carnis</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Colossians.003.001">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>igitur si conresurrexistis Christo quae sursum sunt quaerite ubi Christus est in dextera Dei sedens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.002">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>quae sursum sunt sapite non quae supra terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.003">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>mortui enim estis et vita vestra abscondita est cum Christo in Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.004">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>cum Christus apparuerit vita vestra tunc et vos apparebitis cum ipso in gloria</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.005">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>mortificate ergo membra vestra quae sunt super terram fornicationem inmunditiam libidinem concupiscentiam malam et avaritiam quae est simulacrorum servitus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.006">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>propter quae venit ira Dei super filios incredulitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.007">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>in quibus et vos ambulastis aliquando cum viveretis in illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.008">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>nunc autem deponite et vos omnia iram indignationem malitiam blasphemiam turpem sermonem de ore vestro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.009">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>nolite mentiri invicem expoliantes vos veterem hominem cum actibus eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.010">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>et induentes novum eum qui renovatur in agnitionem secundum imaginem eius qui creavit eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.011">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>ubi non est gentilis et Iudaeus circumcisio et praeputium barbarus et Scytha servus et liber sed omnia et in omnibus Christus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.012">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>induite vos ergo sicut electi Dei sancti et dilecti viscera misericordiae benignitatem humilitatem modestiam patientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.013">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>subportantes invicem et donantes vobis ipsis si quis adversus aliquem habet querellam sicut et Dominus donavit vobis ita et vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.014">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>super omnia autem haec caritatem quod est vinculum perfectionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.015">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>et pax Christi exultet in cordibus vestris in qua et vocati estis in uno corpore et grati estote</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.016">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>verbum Christi habitet in vobis abundanter in omni sapientia docentes et commonentes vosmet ipsos psalmis hymnis canticis spiritalibus in gratia cantantes in cordibus vestris Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.017">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>omne quodcumque facitis in verbo aut in opere omnia in nomine Domini Iesu gratias agentes Deo et Patri per ipsum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.018">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>mulieres subditae estote viris sicut oportet in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.019">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>viri diligite uxores et nolite amari esse ad illas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.020">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>filii oboedite parentibus per omnia hoc enim placitum est in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.021">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>patres nolite ad indignationem provocare filios vestros ut non pusillo animo fiant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.022">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:22</verseNum>
+      </reference>
+      <l>servi oboedite per omnia dominis carnalibus non ad oculum servientes quasi hominibus placentes sed in simplicitate cordis timentes Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.023">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:23</verseNum>
+      </reference>
+      <l>quodcumque facitis ex animo operamini sicut Domino et non hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.024">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:24</verseNum>
+      </reference>
+      <l>scientes quod a Domino accipietis retributionem hereditatis Domino Christo servite</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.003.025">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>3:25</verseNum>
+      </reference>
+      <l>qui enim iniuriam facit recipiet id quod inique gessit et non est personarum acceptio</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Colossians.004.001">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>domini quod iustum est et aequum servis praestate scientes quoniam et vos Dominum habetis in caelo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.002">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>orationi instate vigilantes in ea in gratiarum actione</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.003">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>orantes simul et pro nobis ut Deus aperiat nobis ostium sermonis ad loquendum mysterium Christi propter quod etiam vinctus sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.004">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>ut manifestem illud ita ut oportet me loqui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.005">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>in sapientia ambulate ad eos qui foris sunt tempus redimentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.006">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>sermo vester semper in gratia sale sit conditus ut sciatis quomodo oporteat vos unicuique respondere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.007">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>quae circa me sunt omnia vobis nota faciet Tychicus carissimus frater et fidelis minister et conservus in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.008">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>quem misi ad vos ad hoc ipsum ut cognoscat quae circa vos sunt et consoletur corda vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.009">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>cum Onesimo carissimo et fideli fratre qui est ex vobis omnia quae hic aguntur nota facient vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.010">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>salutat vos Aristarchus concaptivus meus et Marcus consobrinus Barnabae de quo accepistis mandata si venerit ad vos excipite illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.011">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>et Iesus qui dicitur Iustus qui sunt ex circumcisione hii soli sunt adiutores in regno Dei qui mihi fuerunt solacio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.012">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>salutat vos Epaphras qui ex vobis est servus Christi Iesu semper sollicitus pro vobis in orationibus ut stetis perfecti et pleni in omni voluntate Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.013">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>testimonium enim illi perhibeo quod habet multum laborem pro vobis et pro his qui sunt Laodiciae et qui Hierapoli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.014">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>salutat vos Lucas medicus carissimus et Demas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.015">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>salutate fratres qui sunt Laodiciae et Nympham et quae in domo eius est ecclesiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.016">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>et cum lecta fuerit apud vos epistula facite ut et in Laodicensium ecclesia legatur et eam quae Laodicensium est vos legatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.017">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>et dicite Archippo vide ministerium quod accepisti in Domino ut illud impleas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Colossians.004.018">
+      <reference>
+        <bookName>Colossians</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>salutatio mea manu Pauli memores estote vinculorum meorum gratia vobiscum amen</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Colossians.colophon.001">
+    <reference>
+      <bookName>Colossians</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA AD COLOSSENES</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

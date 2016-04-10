@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7702" nextid="c7704" id="c7703">
+   <header>
+      <usage ms="Wor" code="02122600">[18v] lauds</usage>
+   </header>
+   <rBody wit="CAO-R Wor"> Stephanus plenus gratia et fortitudine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R Wor">Faciebat prodigia et signa magna in populo</vBody>
+   </verses>
+</res>

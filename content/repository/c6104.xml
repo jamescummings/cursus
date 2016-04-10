@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6103" nextid="c6105" id="c6104">
+   <rBody wit="CAO-E CAO-S"> Ante multum tempus prophetavit Ezechiel vidi portam clausam et ecce deus ante saecula ex ea
+     <app>
+         <rdg wit="CAO-E"> procedebat</rdg>
+         <rdg wit="CAO-S"> procedebant</rdg>
+      </app> pro salute mundi et iterum erit clausa demonstrans virginem quia post partum permansit virgo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Per portam quam vidisti dominus solus ingressus est</vBody>
+      <vBody type="r" wit="CAO-E"> Portam quam vidisti clausam non aperietur solus enim dominus transibit per eam</vBody>
+      <rep type="r" wit="CAO-E CAO-S">Et iterum</rep>
+   </verses>
+</res>

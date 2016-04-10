@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6437" nextid="c6439" id="c6438">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S"> Dicant nunc</rdg>
+         <rdg wit="CAO-M"> Dicat nunc</rdg>
+      </app> qui redempti sunt
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> alleluia a domino alleluia</rdg>
+         <rdg wit="CAO-C"> a domino alleluia</rdg>
+         <rdg wit="CAO-G"> alleluia domino</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Quos redemit de manu inimici
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-F CAO-S"> de regionibus congregavit eos</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R"> et de regionibus congregavit eos</rdg>
+            <rdg wit="CAO-E"> de regionibus congregabit eos</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> A domino</rep>
+      <rep type="r" wit="CAO-G"> Domino</rep>
+   </verses>
+</res>

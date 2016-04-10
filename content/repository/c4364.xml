@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4363" nextid="c4365" id="c4364">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S"> Praeses dixit ad Hippolytum</rdg>
+         <rdg wit="CAO-D CAO-F"> Caesar dixit ad Hippolytum</rdg>
+      </app> factus es insipiens
+     <app>
+         <rdg wit="CAO-C CAO-B"> ut nuditatem tuam non erubescis</rdg>
+         <rdg wit="CAO-E CAO-M"> et nuditatem tuam non erubescis</rdg>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F"> ut nuditatem tuam non erubescas</rdg>
+         <rdg wit="CAO-S"> dum nuditatem tuam non erubescas</rdg>
+      </app>
+   </aBody>
+</ant>

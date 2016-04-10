@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7143" nextid="c7145" id="c7144">
+   <header>
+      <usage ms="Alb2" code="07031000">[88r] matins-n2-r5</usage>
+      <usage ms="Bat" code="07031000">[53v] matins-n2-r5</usage>
+      <usage ms="Cdm" code="07031000">[64r] matins-n2-r5</usage>
+      <usage ms="Cht" code="07031000">[35r] matins-n2-r1</usage>
+      <usage ms="Ely" code="07031000">[74v] matins-n2-r5</usage>
+      <usage ms="Evm" code="07031000">[121v] matins-n2-r7</usage>
+      <usage ms="Hyd" code="07031000">[78r] matins-n2-r5</usage>
+      <usage ms="Mch" code="07031000">[129v] matins-n2-r6</usage>
+      <usage ms="Pet" code="07031000">[71v] matins-r5</usage>
+      <usage ms="Wcb" code="07031000">[100v] matins-n2-r6</usage>
+      <usage ms="Wor" code="07031000">[48r] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Memento mei dum bene tibi fuerit</rdg>
+         <rdg wit="CAO-M"> Memento mei dum bene tibi fuerat</rdg>
+      </app> ut suggeras Pharaoni ut educat me de isto carcere quia furtim sublatus sum
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> et hic innocens in lacum missus sum</rdg>
+         <rdg wit="CAO-E"> et hic innocens in lacu missus sum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Tres enim adhuc dies sunt
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> post quos recordabitur Pharao</rdg>
+            <rdg wit="CAO-S"> postquam recordabitur Pharao</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> ministerii tui</rdg>
+            <rdg wit="CAO-G CAO-E CAO-H CAO-R"> magisterii tui</rdg>
+         </app>
+         <app>
+            <rdg wit="Ely Wor Cht Hyd Pet Cdm Bat"> et revocabit te</rdg>
+            <rdg wit="CAO-G CAO-V CAO-F CAO-L Evm Wcb"> et restituet te</rdg>
+            <rdg wit="Mch"> et revocaberis</rdg>
+            <rdg wit="CAO-S Alb2"> ut revocet te</rdg>
+            <rdg wit="CAO-C CAO-D"> et revocet te</rdg>
+            <rdg wit="CAO-B CAO-M CAO-H CAO-R"> et revocat te</rdg>
+            <rdg wit="CAO-E" cause="palimpsest over erasure" resp="Hesbert" hand="later"> et revocabit te</rdg>
+         </app> in gradum pristinum
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> tunc memento mei</rdg>
+            <rdg wit="CAO-S"> tu memento mei</rdg>
+            <rdg wit="CAO-L"> tantum memento mei</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Mch Bat"> Ut suggeras</rep>
+      <rep type="r" wit="CAO-V Cdm"> Quia</rep>
+   </verses>
+</res>

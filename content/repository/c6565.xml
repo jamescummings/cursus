@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6564b" nextid="c6566" id="c6565">
+   <header>
+      <usage ms="Cdm" code="08011000">[81r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="08011000">[100r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Dum transisset sabbatum Maria Magdalene et Maria Jacobi et Salome emerunt aromata ut venientes
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-F CAO-S CAO-L Cdm"> ungerent</rdg>
+         <rdg wit="CAO-H CAO-R CAO-D Hyd"> unguerent</rdg>
+      </app> Jesum alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Et valde mane una sabbatorum
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cdm"> veniunt</rdg>
+            <rdg wit="CAO-L"> venerunt</rdg>
+         </app> ad monumentum orto iam sole</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cdm"> Ut venientes</rep>
+      <rep type="r" wit="CAO-S"> Alleluia</rep>
+      <dox type="r" wit="Hyd">Gloria</dox>
+      <rep type="r" wit="Hyd">Alleluia</rep>
+      <prosula wit="CAO-H"> Haec est alma dies in qua spoliatur Avernus et surrexit homo deus exsultate redempti</prosula>
+   </verses>
+</res>

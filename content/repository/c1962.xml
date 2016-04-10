@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1961" nextid="c1963" id="c1962">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F">
+      <verse type="stanza">
+         <l part="N">Crux fidelis inter omnes arbor una nobilis</l>
+         <l part="N">Nulla silva talem profert fronde flore germine</l>
+         <l part="N">Dulce lignum
+       <app>
+               <rdg wit="CAO-H CAO-R CAO-D CAO-F"> dulces clavos</rdg>
+               <rdg wit="CAO-C"> dulcem clavum</rdg>
+            </app>
+            <app>
+               <rdg wit="CAO-F"> dulce pondus sustinet</rdg>
+               <rdg wit="CAO-C CAO-H CAO-D"> dulce pondus sustinens</rdg>
+               <rdg wit="CAO-R"> dulce pondus sustinet alleluia</rdg>
+            </app>
+         </l>
+      </verse>
+   </aBody>
+</ant>

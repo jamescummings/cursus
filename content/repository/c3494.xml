@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3493" nextid="c3495" id="c3494">
+   <header>
+      <usage ms="Alb2" code="02122700">[34r] matins-n1-a1</usage>
+      <usage ms="Bat" code="02122700">[20v] matins-n1-a1</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins-n1-a1</usage>
+      <usage ms="Evm" code="02122700">[42v] matins-n1-a1</usage>
+      <usage ms="Hyd" code="02122700">[23r] matins-n1-a1</usage>
+      <usage ms="Pet" code="02122700">[25r] matins-n1-a1</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins-n1-a1</usage>
+      <usage ms="Wor" code="02122700">[19r] matins-n1-a1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Joannes apostolus et evangelista virgo est electus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> a domino</rdg>
+         <rdg wit="CAO-S"> ad domino</rdg>
+      </app> atque inter ceteros magis dilectus</aBody>
+</ant>

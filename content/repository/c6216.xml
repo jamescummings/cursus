@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6215" nextid="c6217" id="c6216">
+   <rBody wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Beatus Laurentius oravit et dixit</rdg>
+         <rdg wit="CAO-S CAO-L"> Beatus Laurentius clamavit et dixit</rdg>
+      </app> domine Jesu Christe pastor bone suscipe spiritum meum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-D"> Gratias tibi ago domine quia ianuas tuas ingredi merui</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Transiens autem per ignem momentaneum atque terrenum gehennae perpetuae
+       <app>
+            <rdg wit="CAO-L"> adurentes flammas evadens</rdg>
+            <rdg wit="CAO-S"> adhaerentes flammas invadens</rdg>
+         </app> dixit</vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L">Domine</rep>
+   </verses>
+</res>

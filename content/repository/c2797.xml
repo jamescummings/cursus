@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2796b" nextid="c2798" id="c2797">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Expansis manibus orabat ad dominum</rdg>
+         <rdg wit="CAO-D"> Expasis manibus orabat ad dominum</rdg>
+         <rdg wit="CAO-E"> Expassis manibus orabat ad dominum</rdg>
+      </app> ut eam eriperet
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-S CAO-L"> de inimicis</rdg>
+         <rdg wit="CAO-F"> ab inimicis</rdg>
+         <rdg wit="CAO-H"> de inimico</rdg>
+      </app>
+   </aBody>
+</ant>

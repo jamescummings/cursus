@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6699" nextid="c6701" id="c6700">
+   <rBody wit="CAO-C">
+      <verse type="stanza">
+         <l part="N">Exsilium tibi mundus erat caenosa caventi</l>
+         <l part="N">Et modo te gaudet cive manente polus</l>
+         <l part="N">Exutus tenebris vestitur tegmine lucis</l>
+         <l part="N">Post obitum frueris liberiore die</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C">
+         <verse type="stanza">
+            <l part="N">Inter christicolas quos actio vexit in astris</l>
+            <l part="N">Pars tibi pro meritis magna Medarde patet</l>
+         </verse>
+      </vBody>
+   </verses>
+</res>

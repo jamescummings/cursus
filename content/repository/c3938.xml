@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3937" nextid="c3939" id="c3938">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Non turbetur cor vestrum neque formidet
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> creditis in deum</rdg>
+         <rdg wit="CAO-G"> credite in deum</rdg>
+      </app> et in me credite in domo patris mei
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> mansiones multae sunt alleluia alleluia</rdg>
+         <rdg wit="CAO-G"> mansiones multae sunt alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

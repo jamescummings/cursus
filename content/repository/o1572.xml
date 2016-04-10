@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1571" nextid="o1573" id="o1572">
+   <header>
+      <usage ms="Alb2" code="07062000">[106r] lauds</usage>
+      <usage ms="Cdm" code="07062000">[76r] lauds</usage>
+      <usage ms="Cht" code="07062000">[57r] matins-n2</usage>
+      <usage ms="Ely" code="07062000">[87r] lauds</usage>
+      <usage ms="Evm" code="07051000">[137r] vesp2</usage>
+      <usage ms="Evm" code="07062000">[145r] lauds</usage>
+      <usage ms="Hyd" code="07062000">[92r] lauds</usage>
+      <usage ms="Mch" code="07062000">[156r] lauds</usage>
+      <usage ms="Wcb" code="07062000">[114r] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.315</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">Da quaesumus omnipotens deus ut qui in tot adversis ex nostra infirmitate deficimus intercedente unigeniti filii tui passione respiremus</pBody>
+</prayer>

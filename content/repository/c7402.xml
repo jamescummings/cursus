@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7401" nextid="c7403" id="c7402">
+   <rBody wit="CAO-C CAO-D CAO-F"> Post passionem domini in universis gentibus praedicatio profutura successit ita ut fide crescente multi mererentur fieri confessores quos catholica postmodum gaudet ecclesia promeruisse martyres</rBody>
+   <verses>
+      <vBody id="c7402-3" type="r" wit="CAO-F"> Qui cum imminere suas cernerent passiones quae domino Jesu Christo docente didicerant repleti spiritus sancti gratia docuerunt</vBody>
+      <rep corresp="c7402-3" type="r" wit="CAO-F"> Quos catholica</rep>
+      <vBody id="c7402-1" type="r" wit="CAO-C"> Qui cum imminerent suas cernere passiones quae domino Jesu Christo donante didicerent repleti spiritus sancti gratia docuerunt</vBody>
+      <rep corresp="c7402-1" type="r" wit="CAO-C"> Postmodum</rep>
+      <vBody id="c7402-2" type="r" wit="CAO-D"> Qui cum imminere suas cernerent passiones quae domino Jesu Christo do<add place="over erasure">cen</add>te didicerant repleti spiritus sancti gratia docuerunt</vBody>
+      <rep corresp="c7402-2" type="r" wit="CAO-D"> Quos catholica</rep>
+      <vBody id="c7402-4" type="r" num="2" wit="CAO-D"> Qui cum imminere suas cernerent passiones quae domino Jesu Christo do<add place="over erasure">cen</add>te didicerant repletus sancti spiritus gratia docuerunt</vBody>
+      <rep corresp="c7402-4" type="r" wit="CAO-D"> Quos catholica</rep>
+      <vBody type="r" num="2" wit="CAO-C"> Beatus Dionysius divini verbi semina gentibus tradente Clemente profutura successit</vBody>
+      <rep type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+   </verses>
+</res>

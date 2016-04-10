@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2592" nextid="c2594" id="c2593">
+   <aBody wit="CAO-C CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L"> Ego sum ostium dicit dominus per me si quis introierit salvabitur
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-R CAO-F CAO-S CAO-L"> et pascua inveniet alleluia</rdg>
+         <rdg wit="CAO-H"> et pascuam inveniet alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

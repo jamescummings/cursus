@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1195" nextid="c1197" id="c1196">
+   <header>
+      <usage ms="Hyd" code="01014000">[6r] lauds-a2</usage>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> A timore inimici eripe domine animam meam</aBody>
+</ant>

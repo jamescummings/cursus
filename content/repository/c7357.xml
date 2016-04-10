@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7356" nextid="c7358" id="c7357">
+   <rBody wit="CAO-C CAO-B CAO-M CAO-V"> Pastores prae claritate luminis
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V"> non intuebantur</rdg>
+         <rdg wit="CAO-B"> non permittebantur</rdg>
+      </app> videre angelum magis turbabantur et facta est vox de caelo dicens nolite timere pax
+     <app>
+         <rdg wit="CAO-C CAO-B"> vobiscum</rdg>
+         <rdg wit="CAO-M"> vobis</rdg>
+         <rdg wit="CAO-V">
+            <corr sic="vobis">vobiscum</corr>
+         </rdg>
+      </app> ego sum Gabriel angelus ad virginem missus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-V">Annuntio vobis gaudium magnum quod erit omni populo</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-M CAO-V">Ego</rep>
+   </verses>
+</res>

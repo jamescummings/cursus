@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5505" nextid="c5507" id="c5506">
+   <header>
+      <usage ms="Alb2" code="01023000">[10v] lauds gosp</usage>
+      <usage ms="Bat" code="01023000">[7v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01023000">[13v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01037000">[17v] prime</usage>
+      <usage ms="Evm" code="01023000">[15v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01023000">[13r] vesp2 gosp</usage>
+      <usage ms="Mch" code="01023000">[9v] vesp2 gosp</usage>
+      <usage ms="Wcb" code="01023000">[45v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01023000">[6v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Wor Wcb Glo Bat"> Vox clamantis in deserto parate viam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Evm Mch Cdm Wor Wcb Glo Bat"> domini</rdg>
+         <rdg wit="CAO-M CAO-D CAO-L Alb2"> domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Wor Wcb Glo Bat"> rectas</rdg>
+         <rdg wit="CAO-L"> recta</rdg>
+      </app> facite semitas dei nostri</aBody>
+</ant>

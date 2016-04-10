@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6503" nextid="c6505" id="c6504">
+   <rBody wit="CAO-C CAO-E CAO-M"> Domine post passionem tuam et post discipulorum fugam Petrus plorabat dicens
+      <app>
+         <rdg wit="CAO-E CAO-M"> latro te</rdg>
+         <rdg wit="CAO-C"> latro</rdg>
+      </app> confessus est et ego te negavi mulieres te praedicaveruut
+      <app>
+         <rdg wit="CAO-E CAO-M"> et ego timui</rdg>
+         <rdg wit="CAO-C"> et ego te timui</rdg>
+      </app> putas iam
+      <app>
+         <rdg wit="CAO-C CAO-M"> vocabis</rdg>
+         <rdg wit="CAO-E"> vocaberis</rdg>
+      </app> me discipulum tuum ut iterum
+      <app>
+         <rdg wit="CAO-C CAO-E"> constituas</rdg>
+         <rdg wit="CAO-M"> constitues</rdg>
+      </app> me
+      <app>
+         <rdg wit="CAO-C CAO-M"> piscatorem</rdg>
+         <rdg wit="CAO-E"> piscatione</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E"> fungi</rdg>
+         <rdg wit="CAO-M"> fundi</rdg>
+      </app> sed repaenitentem suscipe me Domine et miserere mei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M"> Ego dixi in excessu
+       <app>
+            <rdg wit="CAO-C CAO-E"> meo</rdg>
+            <rdg wit="CAO-M"> mentis meae</rdg>
+         </app> omnis homo mendax</vBody>
+      <rep type="r" wit="CAO-E CAO-M"> Sed repaenitentem</rep>
+   </verses>
+</res>

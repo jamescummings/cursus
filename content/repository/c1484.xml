@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1483" nextid="c1485" id="c1484">
+   <header>
+      <usage ms="Alb2" code="02122800">[37r] matins-n1-a3</usage>
+      <usage ms="Bat" code="02122800">[22v] matins-n1-a3</usage>
+      <usage ms="Cdm" code="02122800">[28r] matins-n1-a3</usage>
+      <usage ms="Evm" code="02122800">[46v] matins-n1-a3</usage>
+      <usage ms="Hyd" code="02122800"/>
+      <usage ms="Pet" code="02122800">[28v] matins-n1-a3</usage>
+      <usage ms="Wor" code="02122800">[21v] matins-n1-a3</usage>
+   </header>
+   <aBody wit="CAO-G CAO-S Hyd Alb2 Evm Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G Alb2 Evm Bat Wor Pet"> Arridebat parvulus occisori gladio</rdg>
+         <rdg wit="Hyd"> Arridebant parvuli occisori gladio</rdg>
+         <rdg wit="Cdm"> Arrideba<del status="unremarkable">n</del>t parvulus occisori gladio</rdg>
+         <rdg wit="CAO-S"> Arridebat parvulus occisorum gladio</rdg>
+      </app> adiocabatur infantulus nutricis
+     <app>
+         <rdg wit="CAO-S Evm Bat Cdm Wor Pet"> locum</rdg>
+         <rdg wit="CAO-G Hyd Alb2"> loco</rdg>
+      </app> attendebat lactans percussoris
+     <app>
+         <rdg wit="CAO-G Hyd Alb2 Evm Bat Cdm Wor Pet"> horrorem</rdg>
+         <rdg wit="CAO-S"> horrore</rdg>
+      </app>
+   </aBody>
+</ant>

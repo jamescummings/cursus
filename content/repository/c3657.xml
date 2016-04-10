@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3656" nextid="c3658" id="c3657">
+   <header>
+      <usage ms="Alb2" code="07056000">[103r] lauds</usage>
+      <usage ms="Cdm" code="07056000">[73r] lauds gosp</usage>
+      <usage ms="Cht" code="07061000">[54r] matins-n3</usage>
+      <usage ms="Ely" code="07063000">[87v] terce-a1</usage>
+      <usage ms="Evm" code="07057000">[140v] terce</usage>
+      <usage ms="Glo" code="07057000">[72r] terce</usage>
+      <usage ms="Hyd" code="07061000">[90v] matins-n3</usage>
+      <usage ms="Mch" code="07056000">[150v] lauds gosp</usage>
+      <usage ms="Pet" code="07061000">[84v] matins-n3</usage>
+      <usage ms="Wcb" code="07057000">[110v] terce</usage>
+      <usage ms="Wor" code="07062000">[57r] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Glo Alb2 Pet Cdm Mch"> Magister dicit tempus meum prope est apud te facio pascha cum discipulis meis</aBody>
+</ant>

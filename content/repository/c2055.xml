@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2054" nextid="c2056" id="c2055">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Cum vocatus fueris ad nuptias</rdg>
+         <rdg wit="CAO-C CAO-L"> Cum invitatus fueris ad nuptias</rdg>
+      </app> recumbe in novissimo loco
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S"> ut dicata tibi qui te invitavit</rdg>
+         <rdg wit="CAO-V CAO-H"> et dicata tibi qui te invitavit</rdg>
+         <rdg wit="CAO-L"> et dicet tibi qui te invitavit</rdg>
+      </app> amice ascende superius
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> et erit tibi gloria</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F"> tunc erit tibi gloria</rdg>
+      </app> coram simul discumbentibus alleluia</aBody>
+</ant>

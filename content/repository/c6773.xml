@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6772" nextid="c6774" id="c6773">
+   <rBody wit="CAO-E CAO-L"> Gervasius et Protasius
+      <app>
+         <rdg wit="CAO-L"> dixerunt Aspasio quando tu nos</rdg>
+         <rdg wit="CAO-E"> dixerunt quando quidem</rdg>
+      </app> occideris
+      <app>
+         <rdg wit="CAO-E"> tunc vivificabis</rdg>
+         <rdg wit="CAO-L"> tunc vivificabitur</rdg>
+      </app> nos nam hic mori parati sumus ut in aeternum vivamus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Divitiae et honores tui nulli sunt sed tu eris continuo in tenebris</vBody>
+      <vBody type="r" wit="CAO-L"> Divitias et honores transitorias toto mentis affectu contemnimus</vBody>
+      <rep type="r" wit="CAO-E CAO-L"> Nam</rep>
+   </verses>
+</res>

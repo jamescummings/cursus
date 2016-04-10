@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7118" nextid="c7120" id="c7119">
+   <rBody wit="CAO-E CAO-H"> Magnus Dominus noster et magna virtus eius et sapientiae eius non est numerus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Qui facit angelos tuos spiritus et ministros suos flammam ignis</vBody>
+      <vBody type="r" wit="CAO-H"> Suscipiens mansuetos dominus humilians autem peccatores usque ad terram</vBody>
+      <rep type="r" wit="CAO-E CAO-H">Et sapientiae</rep>
+   </verses>
+</res>

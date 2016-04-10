@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6388" nextid="c6390" id="c6389">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-L"> Da nobis domine locum paenitentiae et ne claudas
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-L"> ora canentium</rdg>
+         <rdg wit="CAO-C"> ora clamantium</rdg>
+      </app> te Domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G"> Ne tradas domine sceptrum tuum his qui non sunt
+       <app>
+            <rdg wit="CAO-G"> ne rideant</rdg>
+            <rdg wit="CAO-C"> ne redeant</rdg>
+         </app> ad ruinam nostram</vBody>
+      <vBody type="r" wit="CAO-H CAO-R"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" wit="CAO-E"> Conforta me rex sanctorum principatum tenens et da sermonem rectum in os meum</vBody>
+      <vBody type="r" wit="CAO-L"> Memento domine testamenti tui et da verbum in ore meo</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-L"> Et</rep>
+   </verses>
+</res>

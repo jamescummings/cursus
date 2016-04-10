@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1689" nextid="o1691" id="o1690">
+   <header>
+      <usage ms="Hyd" code="08062000">vesp2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Parce quaesumus domine parce populo tuo et nullis iam patiaris adversitatibus fatigari quos preciosa filii tui sanguine redemisti</pBody>
+</prayer>

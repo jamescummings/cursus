@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3695" nextid="c3696b" id="c3696">
+   <header>
+      <usage ms="Hyd" code="14123100">[30r] commemoration</usage>
+      <usage ms="Wor" code="02122800">[23v] commemoration</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.148</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Wor"> Maria autem conservabat omnia verba haec conferens in corde suo</aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5203" nextid="c5205" id="c5204">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-L"> Tu es discipulus meus</rdg>
+         <rdg wit="CAO-E"> Hic est discipulus meus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R"> in te complacuit animae meae dicit dominus</rdg>
+         <rdg wit="CAO-E CAO-L"> in te complacuit anima mea dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

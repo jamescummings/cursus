@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1237" nextid="c1239" id="c1238">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-S"> Ad dandam scientiam plebi tuae domine
+     <app>
+         <rdg wit="CAO-C CAO-H"> in remissionem peccatorum eorum</rdg>
+         <rdg wit="CAO-E CAO-S"> in remissione peccatorum meorum</rdg>
+      </app>
+   </aBody>
+</ant>

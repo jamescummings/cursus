@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3984" nextid="c3986" id="c3985">
+   <header>
+      <usage ms="Alb2" code="02010100">[47v] lauds-a1</usage>
+      <usage ms="Cdm" code="02010100">[34r] lauds-a1</usage>
+      <usage ms="Evm" code="02010100">[61r] lauds-a1</usage>
+      <usage ms="Hyd" code="02010100">[34v] lauds-a1</usage>
+      <usage ms="Pet" code="02010100">[36v] lauds-a1</usage>
+      <usage ms="Wor" code="02010100">[25r] lauds-a1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.149-150</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Wor Pet"> O admirabile commercium creator generis humani animatum corpus sumens de virgine nasci dignatus est et procedens homo sine semine largitus est nobis suam deitatem</aBody>
+</ant>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5137" nextid="c5139" id="c5138">
+   <aBody wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ter virgis caesus sum</rdg>
+         <rdg wit="CAO-V"> Ter virgis caesu sum</rdg>
+      </app> semel lapidatus sum ter naufragium pertuli
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D"> pro Christi nomine</rdg>
+         <rdg wit="CAO-F CAO-S CAO-L"> pro Christi domino</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-M CAO-H CAO-R CAO-S">Nocte ac die</rdg>
+            <rdg wit="CAO-V CAO-D CAO-F">Nocte et die</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M CAO-H CAO-R"> in profundo maris fui</rdg>
+            <rdg wit="CAO-V CAO-D CAO-F CAO-S"> in profundum maris fui</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

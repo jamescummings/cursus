@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7911b" nextid="c7913" id="c7912">
+   <rBody wit="CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-F"> Vos estis lux mundi</rdg>
+         <rdg wit="CAO-S"> Vos estis lux huius mundi</rdg>
+      </app> dicit dominus
+     <app>
+         <rdg wit="CAO-F"> in patientia vestra</rdg>
+         <rdg wit="CAO-S"> in patientia</rdg>
+      </app> possidebitis animas vestras</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Et ego dispono vobis sicut disposuit mihi pater meus regnum ut edatis et bibatis super mensam meam in regno meo</vBody>
+      <vBody type="r" wit="CAO-F"> Vos autem qui permansistis mecum in tentationibus meis</vBody>
+      <rep type="r" wit="CAO-F CAO-S">In patientia</rep>
+   </verses>
+</res>

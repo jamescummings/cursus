@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7871" nextid="c7873" id="c7872">
+   <rBody wit="CAO-C CAO-V CAO-R">
+      <app>
+         <rdg wit="CAO-V CAO-R"> Vidi civitatem Jerusalem</rdg>
+         <rdg wit="CAO-C"> Vidi civitatem sanctam Jerusalem</rdg>
+      </app> ornatam et compositam de orationibus sanctorum
+     <app>
+         <rdg wit="CAO-C"> et ibi cantant omnes sancti</rdg>
+         <rdg wit="CAO-V CAO-R"> et ibi cantant martyres sancti</rdg>
+      </app> canticum novum
+     <app>
+         <rdg wit="CAO-C CAO-V"> alleluia alleluia</rdg>
+         <rdg wit="CAO-R"> alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-R"> Magnus dominus et laudabilis nimis in civitate dei nostri in monte sancto eius</vBody>
+      <vBody type="r" wit="CAO-V"> Plateae tuae Jerusalem sternentur auro mundo et lapidibus pretiosis</vBody>
+      <rep type="r" wit="CAO-V CAO-R">Et ibi</rep>
+   </verses>
+</res>

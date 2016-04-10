@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Editorial Practices</title>
+</head>
+<body>
+<h1>Editorial Practices</h1>
+<p>The editorial practices of the CURSUS project evolved over the life of the project.  The majority of text which appears in the manuscript files is stored separately in a repostory of antiphons, responds and prayers.  The biblical readings are also stored separately.  This means that the manuscript files are assembled from many different separate files.</p>
+<p>In the case of antiphons, responds and prayers, this means that critical editions of these can also be provided.  With the biblical readings, the aim of the project was not to provide a critical apparatus of manuscript readings of the bible, and so once a passage has been identified, it is used wholesale from a single source.  This means the actual manuscript's biblical reading may differ slightly.</p>
+<p>Most structural features (Days, antiphons, reponds, prayers, lections, rubrics, hymns, invitatories, litanies, incipits, etc.) have been encoded.  In addition both editorial and scribal corrections, additions, gaps in the sources, have been marked up in XML.</p>
+
+</body>
+</html>

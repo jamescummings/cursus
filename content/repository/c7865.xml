@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7864" nextid="c7866" id="c7865">
+   <rBody wit="CAO-C CAO-M CAO-L"> Video caelos apertos et Jesum stantem
+     <app>
+         <rdg wit="CAO-M CAO-L"> a dextris</rdg>
+         <rdg wit="CAO-C"> ad dextris</rdg>
+      </app> virtutis dei domine Jesu accipe spiritum meum et ne statuas illis hoc peccatum quia nesciunt quid faciunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-M"> Eicientes eum extra civitatem</rdg>
+            <rdg wit="CAO-L"> Et eicientes eum extra civitatem</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-M CAO-L"> lapidabant Stephanum</rdg>
+            <rdg wit="CAO-L"> lapidabant</rdg>
+         </app> invocantem et dicentem</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-L">Domine</rep>
+   </verses>
+</res>

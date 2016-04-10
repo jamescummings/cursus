@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1158" nextid="c1160" id="c1159">
+   <aBody wit="CAO-E CAO-L">
+      <app>
+         <rdg wit="CAO-E"> Sancte <name reg="Bartholomaeus" type="saint">Bartholomaee</name> apostole</rdg>
+         <rdg wit="CAO-L"> Sancte <name reg="Paulus" type="saint">Paule</name> apostole</rdg>
+      </app> intercede pro nobis</aBody>
+   <aBody wit="CAO-L" num="2"> Sancte protomartyr <name reg="Stephanus" type="saint">Stephane</name> intercede pro nobis</aBody>
+</ant>

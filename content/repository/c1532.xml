@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1531" nextid="c1533" id="c1532">
+   <aBody wit="CAO-S">
+      <verse type="stanza">
+         <l part="N">Aula <name reg="Maria virg" type="saint">Maria</name> dei casti titulusque pudoris</l>
+         <l part="N">porta Sion rutilis semper fundata sapphiris</l>
+         <l part="N">quae soli cunctis patuisti clausa tonanti</l>
+         <l part="N">suscipe servorum miserans pia vota tuorum</l>
+      </verse>
+   </aBody>
+</ant>

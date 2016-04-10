@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9541" nextid="c9543" id="c9542">
+   <header>
+      <usage ms="Mch" code="07061000">[155r] vesp2</usage>
+   </header>
+   <rBody wit="Mch"> In deo laudabimur tota die et nomini tuo confitebimur in saecula</rBody>
+   <verses>
+      <vBody type="r" wit="Mch"> Propter gloriam nominis tui libera nost domine</vBody>
+      <rep type="r" wit="Mch">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">[no regressio shewn in Mch]</note>
+      </rep>
+   </verses>
+</res>

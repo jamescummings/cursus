@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5298" nextid="c5300" id="c5299">
+   <header>
+      <usage ms="Alb2" code="07027000"/>
+      <usage ms="Cdm" code="07027000">[63v] lauds-a1</usage>
+      <usage ms="Cht" code="07027000"/>
+      <usage ms="Ely" code="07027000"/>
+      <usage ms="Evm" code="07027000"/>
+      <usage ms="Glo" code="07027000"/>
+      <usage ms="Hyd" code="07027000">[77v] unknown</usage>
+      <usage ms="Mch" code="07027000">[128r] lauds gosp</usage>
+      <usage ms="Pet" code="07027000"/>
+      <usage ms="Wcb" code="07027000"/>
+      <usage ms="Wor" code="07027000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F Ely Wor Cht Wcb Alb2 Cdm Mch"> Vadam ad patrem meum</rdg>
+         <rdg wit="CAO-H CAO-R Pet Evm"> Vado ad patrem meum</rdg>
+      </app> et dicam ei pater fac me sicut unum ex mercennariis tuis</aBody>
+   <aBody wit="Glo" type="incipit"> Vadam ad patrem meum</aBody>
+</ant>

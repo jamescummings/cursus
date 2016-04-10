@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2549" nextid="c2551" id="c2550">
+   <header>
+      <usage ms="Alb2" code="01032000">[14v] lauds-a1</usage>
+      <usage ms="Bat" code="01032000">[10r] lauds-a1</usage>
+      <usage ms="Cdm" code="01032000">[15v] lauds-a1</usage>
+      <usage ms="Ely" code="01032000">[11v] lauds-a1</usage>
+      <usage ms="Evm" code="01036009">[27r] lauds-a1</usage>
+      <usage ms="Evm" code="01042000">[25r] lauds-a1</usage>
+      <usage ms="Hyd" code="01042000">[14v] lauds-a1</usage>
+      <usage ms="Mch" code="01032000">[12v] lauds-a1</usage>
+      <usage ms="Wcb" code="01042000">[49v] lauds-a1</usage>
+      <usage ms="Wor" code="01032000">[8v] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Ecce veniet dominus princeps regum terrae beati qui parati sunt occurrere illi</aBody>
+</ant>

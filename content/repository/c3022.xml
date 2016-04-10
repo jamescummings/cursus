@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3021" nextid="c3023" id="c3022">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Helena Constantini mater
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> Jerosolymam petiit</rdg>
+         <rdg wit="CAO-V CAO-S"> Jerosolymam petit</rdg>
+      </app> alleluia</aBody>
+   <aBody wit="CAO-C" num="2"> Helena sancta Constantini mater Jerosolymam petiit alleluia</aBody>
+</ant>

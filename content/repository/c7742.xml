@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7741" nextid="c7743" id="c7742">
+   <header>
+      <usage ms="Hyd" code="08011000">[99v] matins-n2-r7</usage>
+      <usage ms="Hyd" code="08013000">[103r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L Hyd"> Surrexit pastor bonus qui posuit animam suam pro ovibus suis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L"> et pro suo grege</rdg>
+         <rdg wit="Hyd"> et pro grege suo</rdg>
+      </app> mori dignatus est
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-F Hyd"> alleluia alleluia</rdg>
+         <rdg wit="CAO-C CAO-H CAO-L"> alleluia alleluia alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-H Hyd"> Surrexit dominus de sepulcro qui pro nobis pependit in ligno</vBody>
+      <vBody type="r" wit="CAO-G CAO-V"> Surrexit dominus de sepulcro</vBody>
+      <vBody id="c7742-1" type="r" wit="CAO-F"> Surrexit dominus de sepulcro</vBody>
+      <rep corresp="c7742-1" type="r" wit="CAO-F"> Et pro</rep>
+      <vBody id="c7742-2" type="r" num="2" wit="CAO-F"> Etenim pascha nostrum immolatus est Christus</vBody>
+      <rep corresp="c7742-2" type="r" wit="CAO-F"> Pro ovibus</rep>
+      <vBody type="r" wit="CAO-D CAO-L"> Etenim pascha nostrum immolatus est Christus</vBody>
+      <rep type="r" wit="CAO-C CAO-V CAO-H CAO-D Hyd">Et pro</rep>
+      <rep type="r" wit="CAO-E CAO-L">Alleluia</rep>
+   </verses>
+</res>

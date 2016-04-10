@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5361" nextid="c5363" id="c5362">
+   <header>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">This antiphon uses a different melody from c5361 and c5363</note>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.155-156</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-L"> Verbum caro factum est
+     <app>
+         <rdg wit="CAO-G CAO-B"> et habitavit in nobis</rdg>
+         <rdg wit="CAO-L"> et habitabit in nobis</rdg>
+      </app> et vidimus gloriam eius gloriam quasi unigeniti a patre</aBody>
+</ant>

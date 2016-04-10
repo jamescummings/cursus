@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1737" nextid="o1739" id="o1738">
+   <header>
+      <usage ms="Cdm" code="01037000">[17v] nones</usage>
+      <usage ms="Hyd" code="01000000">[4v] </usage>
+      <usage ms="Mch" code="01037000">[16v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Mch Cdm"> Preces populi tui quaesumus domine clementer exaudi ut qui iuste pro peccatis nostris affligimur pietatis tuae visitatione consolemur</pBody>
+</prayer>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7915" nextid="c7917" id="c7916">
+   <header>
+      <usage ms="Bat" code="07041000">[56v] matins-n3-r11</usage>
+      <usage ms="Cdm" code="07041000">[68r] matins-n3-r14</usage>
+      <usage ms="Cht" code="07041000">[41v] matins-n3-r11</usage>
+      <usage ms="Ely" code="07041000">[78r] matins-n3-r11</usage>
+      <usage ms="Evm" code="07041000">[128v] matins-n3-r10</usage>
+      <usage ms="Hyd" code="07041000">[82v] matins-n3-r11</usage>
+      <usage ms="Mch" code="07041000">[138v] matins-n3-r11</usage>
+      <usage ms="Pet" code="07041000">[76v] matins-r11</usage>
+      <usage ms="Wor" code="07041000">[50v] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F Ely Wor Cht Hyd Pet Evm Cdm Mch Bat"> Vos qui transituri estis Jordanem aedificate altare domino de lapidibus quos ferrum non tetigit et offerte super illud
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F Ely Wor Cht Hyd Pet Evm Cdm Mch Bat"> holocausta</rdg>
+         <rdg wit="CAO-C"> holocaustum</rdg>
+      </app> et hostias pacificas deo
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F Ely Wor Cht Pet Evm Cdm Mch Bat"> vestro</rdg>
+         <rdg wit="Hyd"> nostro</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F Ely Wor Cht Hyd Pet Evm Cdm Mch Bat"> Cumque intraveritis terram
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F Ely Wor Cht Hyd Pet Evm Cdm Mch Bat"> quam dominus daturus est vobis</rdg>
+            <rdg wit="CAO-C CAO-V"> quam dominus deus vester daturus est vobis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R Wor Cht Hyd Pet Cdm"> aedificate ibi altare domino</rdg>
+            <rdg wit="Evm"> aedificate ibi altare domino deo</rdg>
+            <rdg wit="Bat"> aedificate ibi altare domino deo vestro</rdg>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-F Ely Mch"> aedificate ibi altare </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-R CAO-F Ely Wor Cht Evm Cdm Bat"> Et offerte</rep>
+      <rep type="r" wit="CAO-C CAO-H CAO-V Pet Mch"> Deo vestro</rep>
+      <rep type="r" wit="Hyd">Deo nostro</rep>
+      <rep type="r" wit="CAO-E"> De lapidibus super illud</rep>
+   </verses>
+</res>

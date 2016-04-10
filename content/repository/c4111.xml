@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4110" nextid="c4112" id="c4111">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> Oculis ac manibus in caelum semper intentus</rdg>
+         <rdg wit="CAO-C CAO-F"> Oculis ac manibus in caelum semper intentis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> invictum ab oratione spiritum</rdg>
+         <rdg wit="CAO-C"> invictus ab oratione spiritum</rdg>
+         <rdg wit="CAO-E"> invictus ab oratione spiritus</rdg>
+         <rdg wit="CAO-M"> invictu ab oratione spiritus</rdg>
+         <rdg wit="CAO-L"> invictu ab oratione spiritum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> non relaxabat alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> non relaxabat alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

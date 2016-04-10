@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6235" nextid="c6237" id="c6236">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <rBody wit="CAO-H CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-L Hyd"> Benedicam dominum</rdg>
+         <rdg wit="CAO-H"> Benedicam domino</rdg>
+      </app> in omni tempore</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-L Hyd">Semper laus eius in ore meo</vBody>
+      <rep type="r" wit="CAO-L">In omni</rep>
+   </verses>
+</res>

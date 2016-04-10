@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1017" nextid="c1019" id="c1018">
+   <header>
+      <usage ms="Evm" code="02122800">[46r] matins inv</usage>
+      <usage ms="Wcb" code="02122800">[62v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-S Evm Wcb"> Adoremus salvatoris venerantes gratiam qui perenne sanctis Innocentibus largitus est coronam</aBody>
+</ant>

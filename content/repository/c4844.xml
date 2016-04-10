@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4843" nextid="c4845" id="c4844">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sebastianus vir christianissimus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> quem occultabat militaris habitus</rdg>
+         <rdg wit="CAO-L"> quem occultabat militaris habitu</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L"> et chlamidis obumbrabat aspectus</rdg>
+         <rdg wit="CAO-D CAO-S"> et chlamidis suae obumbrabat aspectus</rdg>
+      </app>
+   </aBody>
+</ant>

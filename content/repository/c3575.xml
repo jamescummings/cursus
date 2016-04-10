@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3574" nextid="c3576" id="c3575">
+   <aBody wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-L"> Lapidabant Iudaei Stephanum invocantem et dicentem domine Jesu
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-L"> accipe spiritum meum</rdg>
+         <rdg wit="CAO-V"> suscipe spiritum meum</rdg>
+      </app>
+   </aBody>
+</ant>

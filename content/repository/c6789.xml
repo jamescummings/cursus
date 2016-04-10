@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6788" nextid="c6790" id="c6789">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Grata facta est a domino
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D"> in certamine</rdg>
+         <rdg wit="CAO-C CAO-E CAO-S"> incertamina</rdg>
+      </app> quia apud Deum
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S"> et apud homines</rdg>
+         <rdg wit="CAO-V"> et apud hominem</rdg>
+      </app> glorificata est
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> in conspectu principum</rdg>
+         <rdg wit="CAO-E"> in conspectu principis</rdg>
+      </app> loquebatur
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D"> sapientiam</rdg>
+         <rdg wit="CAO-V"> sapientia</rdg>
+         <rdg wit="CAO-S"> sapientia<add>m</add>
+         </rdg>
+      </app> et dominus omnium dilexit
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> eam</rdg>
+         <rdg wit="CAO-C"> illam</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R"> Adiuvabit eam</rdg>
+            <rdg wit="CAO-M"> Adiuvavit eam</rdg>
+         </app> Deus
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> vultu suo</rdg>
+            <rdg wit="CAO-M">
+               <corr sic="vultum suum">vultu suo</corr>
+            </rdg>
+         </app> Deus in medio eius non commovebitur</vBody>
+      <vBody type="r" wit="CAO-C CAO-D CAO-S"> Erecta namque in virtutis
+       <app>
+            <rdg wit="CAO-D CAO-S"> culmine</rdg>
+            <rdg wit="CAO-C" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> tormenta derisit</vBody>
+      <rep type="r" wit="CAO-C CAO-D CAO-S"> Et dominus</rep>
+   </verses>
+</res>

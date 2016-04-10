@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4070" nextid="c4072" id="c4071">
+   <aBody wit="CAO-E CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-F"> O quam venerandus es egregie Maure</rdg>
+         <rdg wit="CAO-E"> O quam venerandus es egregie Christi martyr</rdg>
+         <rdg wit="CAO-R"> O quam venerandus es egregie egregie martyr Christi</rdg>
+         <rdg wit="CAO-H"> O quam venerandus es egregie confessor Christi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-F"> qui terrena contempsisti</rdg>
+         <rdg wit="CAO-E"> qui terrena reliquisti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> et caeli ianuas exsultans petisti</rdg>
+         <rdg wit="CAO-E CAO-F"> et caeli ianuam exsultans petisti</rdg>
+      </app> modo victor fulges in virtute caelesti
+     <app>
+         <rdg wit="CAO-E"> ideo te supplices exoramus</rdg>
+         <rdg wit="CAO-H CAO-R CAO-F"> ideoque supplices exoramus</rdg>
+      </app> ut intercedas pro nobis
+     <app>
+         <rdg wit="CAO-E CAO-F"> ad dominum deum nostrum</rdg>
+         <rdg wit="CAO-H CAO-R"> ad dominum Jesum Christum</rdg>
+      </app>
+   </aBody>
+</ant>

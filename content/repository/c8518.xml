@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8517" nextid="c8519" id="c8518">
+   <header>
+      <usage ms="Cht" code="07065000">[61r] lauds</usage>
+      <usage ms="Hyd" code="07046000">[84v] vesp2</usage>
+   </header>
+   <aBody wit="Hyd"> In monumentum <name reg="Lazarus" type="person">Lazari</name> clamabat dominus dicens Lazare veni foras</aBody>
+</ant>

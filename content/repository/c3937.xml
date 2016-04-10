@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3936" nextid="c3938" id="c3937">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Non turbetur cor vestrum alleluia
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> ego vado ad patrem alleluia</rdg>
+         <rdg wit="CAO-S"> quia vado ad patrem alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

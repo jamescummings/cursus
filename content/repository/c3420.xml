@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3419" nextid="c3421" id="c3420">
+   <aBody wit="CAO-E CAO-S"> Iste est de sublimibus caelorum praepotentibus unus quem manus domini consecravit matris in visceribus
+     <app>
+         <rdg wit="CAO-E"> cuius nos precibus adiuvari <corr sic="de possimus" resp="Hesbert">deposcimus</corr>
+         </rdg>
+         <rdg wit="CAO-S"> cuius nos meritis adiuvari supplices deposcimus</rdg>
+      </app>
+   </aBody>
+</ant>

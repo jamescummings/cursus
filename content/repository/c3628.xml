@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3627" nextid="c3629" id="c3628">
+   <aBody wit="CAO-C CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-H CAO-R"> Lignum vitae in cruce tua domine manifestatum est</rdg>
+         <rdg wit="CAO-C"> Lignum vitae crux tua domine manifestata est</rdg>
+      </app> mors enim per ipsam damnata est
+     <app>
+         <rdg wit="CAO-C"> et mundus omnis per ipsam illuminatus est</rdg>
+         <rdg wit="CAO-H"> et mundus totus per ipsam illuminatus est</rdg>
+         <rdg wit="CAO-R"> et mundus totus per illam illuminatus est</rdg>
+      </app> omnipotens domine
+     <app>
+         <rdg wit="CAO-H CAO-R"> gloria tibi alleluia</rdg>
+         <rdg wit="CAO-C"> gloria tibi</rdg>
+      </app>
+   </aBody>
+</ant>

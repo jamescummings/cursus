@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1678" nextid="o1680" id="o1679">
+   <header>
+      <usage ms="Cdm" code="08013000">[83r] lauds</usage>
+      <usage ms="Hyd" code="08013000">[103r] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.401</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Cdm"> Deus qui ecclesiam tuam novo semper fetu multiplicas concede famulis tuis ut sacramentum vivendo teneant quod fide perceperunt</pBody>
+</prayer>

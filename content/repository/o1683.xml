@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1682" nextid="o1684" id="o1683">
+   <header>
+      <usage ms="Hyd" code="08017000">[105r] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.429</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Concede quaesumus omnipotens deus ut qui festa paschalia venerando egimus per haec contingere ad gaudia aeterna mereamur</pBody>
+</prayer>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1595" nextid="c1597" id="c1596">
+   <header>
+      <usage ms="Glo" code="14120800">[14v] vesp1 gosp</usage>
+   </header>
+   <aBody wit="CAO-H CAO-R CAO-D CAO-F Glo"> Beatissimae virginis Mariae nativitatem devotissime celebremus ut ipsa pro nobis intercedat
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D Glo"> ad dominum Jesum Christum</rdg>
+         <rdg wit="CAO-F"> ad dominum deum nostrum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6619" nextid="c6620b" id="c6620">
+   <header>
+      <usage ms="Alb2" code="01011000">[4r] matins-n3-r9</usage>
+      <usage ms="Bat" code="01011000">[3r] matins-n3-r9</usage>
+      <usage ms="Cdm" code="01011000">[9v] matins-n3-r9</usage>
+      <usage ms="Ely" code="01011000">[4r] matins-n3-r9</usage>
+      <usage ms="Evm" code="01011000">[5v] matins-n2-r7</usage>
+      <usage ms="Hyd" code="01011000">[3r] matins-n3-r10</usage>
+      <usage ms="Mch" code="01011000">[2r] matins-n2-r5</usage>
+      <usage ms="Wcb" code="01011000">[42r] matins-n2-r7</usage>
+      <usage ms="Wor" code="01011000">[2v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Ecce virgo concipiet
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> et pariet filium dicit dominus</rdg>
+         <rdg wit="Hyd"> et pariet filium</rdg>
+      </app> et vocabitur nomen eius admirabilis deus fortis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Super solium David et super regnum eius sedebit in aeternum</vBody>
+      <vBody id="c6620-2" type="r" num="2" wit="CAO-V"> Super solium David et super regnum eius sedebit in aeternum</vBody>
+      <vBody type="r" wit="CAO-B CAO-H"> Tollite portas principes vestras et elevamini portae aeternales et introibit</vBody>
+      <vBody type="r" wit="CAO-E CAO-R"> Tollite portas principes vestras</vBody>
+      <vBody type="r" wit="CAO-M"> Tollite portas</vBody>
+      <vBody id="c6620-1" type="r" wit="CAO-V"> Tollite portas</vBody>
+      <rep corresp="c6620-1" type="r" wit="CAO-V">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-V</note>
+      </rep>
+      <rep corresp="c6620-2" type="r" wit="CAO-V">Deus</rep>
+      <rep type="r" wit="CAO-B CAO-M CAO-H CAO-R">Deus</rep>
+      <rep type="r" wit="CAO-E Hyd Evm Wcb Ely">Admirabilis</rep>
+      <rep type="r" wit="CAO-G CAO-D CAO-F CAO-S Alb2 Mch Wor Bat">Et vocabitur</rep>
+   </verses>
+</res>

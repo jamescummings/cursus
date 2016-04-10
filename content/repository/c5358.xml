@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5357" nextid="c5359" id="c5358">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n2</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Verax est pater veritas filius
+     <app>
+         <rdg wit="CAO-G CAO-D CAO-F CAO-S"> veritatis spiritus</rdg>
+         <rdg wit="CAO-V"> veritatis spiritus sanctus</rdg>
+         <rdg wit="Hyd"> veritas spiritus</rdg>
+         <rdg wit="CAO-H CAO-R CAO-L"> veritas spiritus sanctus</rdg>
+         <rdg wit="CAO-E CAO-M"> veritas est spiritus sanctus</rdg>
+         <rdg wit="CAO-B"> veritas et spiritus</rdg>
+      </app> o beata trinitas</aBody>
+</ant>

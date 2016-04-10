@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1489" nextid="c1491" id="c1490">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Ascendit deus in iubilatione
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-D CAO-F Hyd"> dominus in voce tubae alleluia</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> et dominus in voce tubae alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3330" nextid="c3332" id="c3331">
+   <aBody wit="CAO-E CAO-V CAO-L"> Infantulus dum esset beatus Silvester
+     <app>
+         <rdg wit="CAO-V CAO-L"> a vidua matre Justa nomine</rdg>
+         <rdg wit="CAO-E"> a viduam matrem Justa nomine</rdg>
+      </app> traditus est Cyrino presbytero cuius
+     <app>
+         <rdg wit="CAO-V"> et vitam imitatus est</rdg>
+         <rdg wit="CAO-E"> et vita imitatus est</rdg>
+         <rdg wit="CAO-L"> et vitam imitatus</rdg>
+      </app> et mores
+     <app>
+         <rdg wit="CAO-V CAO-L"> ad summum apicem christianae religionis attinxit</rdg>
+         <rdg wit="CAO-E"> a summo apice christianae religionis attinxit</rdg>
+      </app>
+   </aBody>
+</ant>

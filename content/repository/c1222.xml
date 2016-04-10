@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1221" nextid="c1223" id="c1222">
+   <aBody wit="CAO-R CAO-L"> Accesserunt ad Jesum
+     <app>
+         <rdg wit="CAO-R"> claudi</rdg>
+         <rdg wit="CAO-L"> caeci et claudi</rdg>
+      </app> in templo
+     <app>
+         <rdg wit="CAO-R"> et sanabat omnes</rdg>
+         <rdg wit="CAO-L"> et sanavit eos</rdg>
+      </app>
+   </aBody>
+</ant>

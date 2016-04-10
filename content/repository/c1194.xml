@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1193" nextid="c1195" id="c1194">
+   <header>
+      <usage ms="Alb2" code="07044000">[96r] vesp2</usage>
+      <usage ms="Cht" code="07044000">[44v] vesp2</usage>
+      <usage ms="Ely" code="70044000">[79v] vesp2</usage>
+      <usage ms="Evm" code="07044000">[131v] vesp2</usage>
+      <usage ms="Glo" code="07044000">[68v] vesp2</usage>
+      <usage ms="Hyd" code="07044000">[84r] vesp2</usage>
+      <usage ms="Pet" code="07044000"/>
+      <usage ms="Wcb" code="07044000"/>
+      <usage ms="Wor" code="07044000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2"> A saeculo non est</rdg>
+         <rdg wit="CAO-G CAO-M"> A saeculo nunquam est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2">auditum</rdg>
+         <rdg wit="CAO-E CAO-L">auditus</rdg>
+      </app> quia quis aperuit oculos caeci nati
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R Evm Wcb Glo Alb2">nisi Christus filius dei</rdg>
+         <rdg wit="CAO-L">nisi Christus deus noster</rdg>
+         <rdg wit="CAO-F CAO-D Ely Wor Cht Hyd Pet" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

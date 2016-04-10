@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1787" nextid="o1789" id="o1788">
+   <header>
+      <usage ms="Cdm" code="01011000">[10v] nones</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.780</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Suscipiamus domine misericordiam tuam in medio templi tui et reparationis nostrae ventura sollemnia congruis honoribus praecedamus</pBody>
+</prayer>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1090" nextid="c1092" id="c1091">
+   <header>
+      <usage ms="Hyd" code="02122800"/>
+   </header>
+   <aBody wit="CAO-G CAO-M Hyd"> Innocentiae auctorem dominum adoremus
+     <app>
+         <rdg wit="CAO-G Hyd"> Christum nobis natum</rdg>
+         <rdg wit="CAO-M"> Christum regem natum</rdg>
+      </app>
+   </aBody>
+</ant>

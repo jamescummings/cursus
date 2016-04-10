@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9528" nextid="c9530" id="c9529">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n3-r11</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf antiphon c1710 and verse of respond c6426</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Hyd"> Benedictio et claritas et sapientia et gratiarum actio honor virtus et fortitudo deo nostro in saecula saeculorum</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Ex quo omnia per quem omnia in quo omnia ipsi honor laus et gloria</vBody>
+      <rep type="r" wit="Hyd">In saecula </rep>
+   </verses>
+</res>

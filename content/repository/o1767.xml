@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1766" nextid="o1768" id="o1767">
+   <header>
+      <usage ms="Cdm" code="02122400">[21r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.811</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Concede quaesumus omnipotens deus ut magnae festivitatis ventura solemnia prospero celebremus effectu pariterque reddamur et intenti caelestibus disciplinis et de nostris temporibus lectiores</pBody>
+</prayer>

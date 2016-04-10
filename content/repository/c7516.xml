@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7515" nextid="c7517" id="c7516">
+   <note type="editorial" resp="Hesbert" place="unspecified" anchored="yes">Text from Jumieges Mss: erased in CAO-D</note>
+   <rBody wit="CAO-D"> Rediens a monumento domini Maria Magdalene nuntiavit discipulis quia vidi dominum beata quae digna fuit vitae resurgentis primum ferre nuntium</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D">Diu dilectum flens quaesivit quaesitum vidit visum nuntiavit</vBody>
+      <rep type="r" wit="CAO-D">Beata</rep>
+   </verses>
+</res>

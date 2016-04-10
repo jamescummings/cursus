@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1395" nextid="c1397" id="c1396">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <name reg="Andrea" type="saint">Andreas</name> Christi famulus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> dignus deo apostolus</rdg>
+         <rdg wit="CAO-V CAO-L"> dignus dei apostolus</rdg>
+      </app> germanus <name reg="Petrus" type="saint">Petri</name> et in passione socius</aBody>
+</ant>

@@ -1,0 +1,13 @@
+
+This is the CURSUS repository of antiphons, responds 
+and prayers.  To use this file you may need the 
+CURSUS extensions to the TEI P4X DTD, available from 
+the website.  To use those extensions you will also 
+need the full TEI P4 DTD this is available from the 
+CURSUS website or the TEI website.
+
+For more information about the Text Encoding Initiative 
+see http://www.tei-c.org/
+
+-CURSUS Project
+James.Cummings@it.ox.ac.uk

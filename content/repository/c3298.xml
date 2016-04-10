@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3297" nextid="c3299" id="c3298">
+   <header>
+      <usage ms="Alb2" code="02122600">[30v] matins-n1-a3</usage>
+      <usage ms="Bat" code="02122600">[18v] matins-n1-a3</usage>
+      <usage ms="Cdm" code="02122600">[24r] matins-n1-a3</usage>
+      <usage ms="Evm" code="02122600">[38v] matins-n1-a3</usage>
+      <usage ms="Hyd" code="02122600">[22r] matins-n1-a3</usage>
+      <usage ms="Pet" code="02122600">[20v] matins-n1-a3</usage>
+      <usage ms="Wor" code="02122600">[16v] matins-n1-a3</usage>
+   </header>
+   <aBody wit="CAO-G CAO-S Hyd Alb2 Evm Bat Cdm Wor Pet"> In tribulatione lapidum se
+     <app>
+         <rdg wit="CAO-G CAO-S Hyd Alb2 Evm Bat Wor Pet"> prementium</rdg>
+         <rdg wit="Cdm"> primentium</rdg>
+      </app> positus millia populi se circumdantis non timuit quia susceptorem suum Jesum ut eum salvum faceret exsurgere
+     <app>
+         <rdg wit="CAO-G CAO-S Alb2 Evm Bat Pet"> in caelum vidit</rdg>
+         <rdg wit="Hyd Cdm Wor"> in caelo vidit</rdg>
+      </app>
+   </aBody>
+</ant>

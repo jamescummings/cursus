@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7384" nextid="c7386" id="c7385">
+   <rBody wit="CAO-C CAO-B CAO-H CAO-R CAO-S CAO-L"> Phoebus et Cornelius discipuli beati Clementis dixerunt ad populum oremus omnes
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-S"> ad dominum</rdg>
+         <rdg wit="CAO-L"> ad dominum Jesum Christum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-S"> ut ostendat</rdg>
+         <rdg wit="CAO-L"> ut ostendas</rdg>
+      </app> nobis
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S CAO-L"> martyris</rdg>
+         <rdg wit="CAO-C"> martyri</rdg>
+      </app> sui corpus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R"> Invenerunt in modum templi marmorei habitaculum a Deo paratum</vBody>
+      <vBody type="r" wit="CAO-S"> Cumque omnem multitudinem christianorum stare conspicerent dixerunt ad illos</vBody>
+      <vBody type="r" wit="CAO-L"> Omnis multitudo christianorum coepit ad litus stare et flentes unanimiter dixerunt</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-S CAO-L">Oremus</rep>
+   </verses>
+</res>

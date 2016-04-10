@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1636" nextid="o1638" id="o1637">
+   <header>
+      <usage ms="Alb2" code="05031000"/>
+      <usage ms="Hyd" code="05031000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.922</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Hyd">Omnipotens sempiterne deus qui caelestia simul et terrena moderaris supplicationes populi tui clementer exaudi et pacem tuam nostris concede temporibus</pBody>
+</prayer>

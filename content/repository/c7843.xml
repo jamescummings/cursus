@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7842" nextid="c7844" id="c7843">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-H CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H"> Vere famulus dei</rdg>
+         <rdg wit="CAO-L"> Vere hic famulus</rdg>
+      </app> in quo dolus non est inventus qui dum esset summus pontifex terrena non metuit
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H"> sed caelestia desiderans</rdg>
+         <rdg wit="CAO-L"> sed ad caelestia desiderans</rdg>
+         <rdg wit="CAO-E"> sed ad caelestia desideravit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H"> ideoque in stadio positus</rdg>
+         <rdg wit="CAO-C"> ideoque in humilitate positus</rdg>
+         <rdg wit="CAO-L"> ideoque in oratione positus</rdg>
+      </app> domini Jesu Christi confessor effectus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-H CAO-L"> Ecce sacerdos magnus qui in diebus suis placuit deo et inventus est iustus</vBody>
+      <vBody id="c7843-1" type="r" wit="CAO-C"> Non est inventus similis illi qui conservaret legem excelsi</vBody>
+      <rep corresp="c7843-1" type="r" wit="CAO-C"> Ideoque</rep>
+      <vBody id="c7843-2" type="r" num="2" wit="CAO-C"> Qui dum esset summus pontifex terrena non metuit sed caelestia regna gloriosus migravit</vBody>
+      <rep corresp="c7843-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <rep type="r" wit="CAO-M CAO-H">Domini</rep>
+      <rep type="r" wit="CAO-E">Qui dum</rep>
+      <rep type="r" wit="CAO-L">Ideoque</rep>
+   </verses>
+</res>

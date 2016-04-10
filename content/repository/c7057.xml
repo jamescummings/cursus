@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7056" nextid="c7058" id="c7057">
+   <rBody wit="CAO-F CAO-S"> Iustorum animae in manu Dei sunt et non tanget illos tormentum mortis visi sunt oculis insipientium mori illi autem sunt in pace</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-F"> Deus temptavit eos</rdg>
+            <rdg wit="CAO-S"> Deus tentabit illos</rdg>
+         </app> et invenit illos dignos se</vBody>
+      <rep type="r" wit="CAO-S">Visi</rep>
+      <rep type="r" wit="CAO-F"> Illi</rep>
+   </verses>
+</res>

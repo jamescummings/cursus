@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1635" nextid="o1637" id="o1636">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.86</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Hyd"> Vota quaesumus domine supplicantis populi caelesti pietate prosequere ut quae agenda sunt videant et ad implenda quae viderint convalescant</pBody>
+</prayer>

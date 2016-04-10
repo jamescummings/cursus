@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5274" nextid="c5276" id="c5275">
+   <header>
+      <usage ms="Cdm" code="07043000">[69r] vesp2</usage>
+      <usage ms="Cht" code="07043000">[44r] sext</usage>
+      <usage ms="Ely" code="07043000">[79v] terce</usage>
+      <usage ms="Hyd" code="07043000">[83v] sext</usage>
+      <usage ms="Mch" code="07043000">[141r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07043000"/>
+      <usage ms="Wor" code="07043000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Cht Hyd Pet Cdm Mch"> Unum opus feci et admiramini</rdg>
+         <rdg wit="Wor">
+            <gap reason="verbal text erased"/>
+         </rdg>
+      </app> quia totum hominem sanum feci
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D Ely Wor Cht Hyd Pet Cdm Mch">in sabbato</rdg>
+         <rdg wit="CAO-V CAO-F CAO-S">in sabbatum</rdg>
+      </app>
+   </aBody>
+</ant>

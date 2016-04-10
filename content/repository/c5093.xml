@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5092" nextid="c5094" id="c5093">
+   <header>
+      <usage ms="Hyd" code="10900000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-M CAO-H CAO-R Hyd">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R Hyd"> Sustinuimus pacem et non venit domine</rdg>
+         <rdg wit="CAO-M"> Sustinuimus pacem et non veni domine</rdg>
+      </app> quaesivimus bona et ecce turbatio cognovimus domine peccata nostra
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> non in aeternum irascaris nobis deus Israel</rdg>
+         <rdg wit="CAO-E"> ne in aeternum obliviscaris nos deus Israel</rdg>
+         <rdg wit="CAO-M Hyd"> ne in aeternum irasceris nobis deus Israel</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4569" nextid="c4571" id="c4570">
+   <header>
+      <usage ms="Alb2" code="07064000">[107r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07064000">[77r] vesp2</usage>
+      <usage ms="Cht" code="07064000">[59v] lauds</usage>
+      <usage ms="Ely" code="07064000">[88r] vesp2</usage>
+      <usage ms="Evm" code="07064000">[147r] lauds</usage>
+      <usage ms="Glo" code="07064000">[78r] lauds</usage>
+      <usage ms="Hyd" code="07064000">[93v] vesp2</usage>
+      <usage ms="Mch" code="07064000">[157v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07065000">[88r] vesp1</usage>
+      <usage ms="Wcb" code="07064000">[114v] lauds</usage>
+      <usage ms="Wor" code="07064000">[58v] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">Quotidie apud vos eram in templo docens</rdg>
+         <rdg wit="CAO-S">Quotidie apud hos eram in templo docens</rdg>
+      </app> et non me tenuistis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">et ecce flagellatum</rdg>
+         <rdg wit="CAO-C"> modo flagellatum</rdg>
+         <rdg wit="Cht"> et modo flagellatum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> ducitis ad crucifigendum</rdg>
+         <rdg wit="Cht"> ductis ad crucifigendum</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit">Quotidie apud vos eram in templo docens</aBody>
+</ant>

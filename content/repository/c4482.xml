@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4481" nextid="c4483" id="c4482">
+   <header>
+      <usage ms="Alb2" code="07022000"/>
+      <usage ms="Bat" code="07022000">[53r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07022000">[62r] vesp2</usage>
+      <usage ms="Cht" code="07022000"/>
+      <usage ms="Evm" code="07022000"/>
+      <usage ms="Glo" code="07022000"/>
+      <usage ms="Hyd" code="07022000"/>
+      <usage ms="Mch" code="07022000">[125r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07022000"/>
+      <usage ms="Wcb" code="07022000"/>
+      <usage ms="Wor" code="07022000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Hyd Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Qui me misit mecum est
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Wor Hyd Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> et non reliquit me solum</rdg>
+         <rdg wit="CAO-H"> et non relinquet me solum</rdg>
+      </app> quia quae placita sunt ei facio semper</aBody>
+</ant>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1670" nextid="c1672" id="c1671">
+   <aBody wit="CAO-E CAO-D CAO-F"> Beatus <name reg="Vincentius" type="saint">Vincentius</name>
+      <app>
+         <rdg wit="CAO-E"> cuius iam meas conscia erat coronae</rdg>
+         <rdg wit="CAO-F"> cuius iam meas conscia coronae</rdg>
+         <rdg wit="CAO-D"> cuius iam meas conscia <add>erat</add> coronae</rdg>
+      </app> dixit <name reg="Datianus" type="person">Datiano</name> hactenus a te habitus sermo de neganda fide peroravit </aBody>
+</ant>

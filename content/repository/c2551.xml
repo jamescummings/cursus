@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2550" nextid="c2552" id="c2551">
+   <header>
+      <usage ms="Alb2" code="01034000">[16r] lauds-a4</usage>
+      <usage ms="Bat" code="01034000">[10v] lauds-a4</usage>
+      <usage ms="Cdm" code="01034000">[16v] lauds-a4</usage>
+      <usage ms="Evm" code="01034009">[19v] lauds-a4</usage>
+      <usage ms="Evm" code="01044000">[26v] lauds-a4</usage>
+      <usage ms="Hyd" code="01034009">[12r] lauds-a4</usage>
+      <usage ms="Mch" code="01034000">[13v] lauds-a4</usage>
+      <usage ms="Wcb" code="01044000">[50v] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Wcb Bat"> Ecce veniet dominus ut sedeat cum principibus et solium gloriae teneat</aBody>
+</ant>

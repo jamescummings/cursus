@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5233" nextid="c5234b" id="c5234">
+   <header>
+      <usage ms="Alb2" code="07051000">[99r] matins-n3</usage>
+      <usage ms="Bat" code="07051000">[59r] matins-n3</usage>
+      <usage ms="Cdm" code="07051000">[71r] matins-n3</usage>
+      <usage ms="Cht" code="07051000">[47r] matins-n3</usage>
+      <usage ms="Ely" code="07051000">[82v] nones</usage>
+      <usage ms="Evm" code="07051000">[134v] matins-n3</usage>
+      <usage ms="Glo" code="07051000">[70v] nones</usage>
+      <usage ms="Hyd" code="07051000">[87v] nones</usage>
+      <usage ms="Mch" code="07051000">[145r] matins-n3</usage>
+      <usage ms="Pet" code="07051000">[80r] matins-a2</usage>
+      <usage ms="Wcb" code="07051000">[109r] nones</usage>
+      <usage ms="Wor" code="07051000">[53v] matins-n3-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-M CAO-H CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-L Ely Wor Cht Hyd Pet Cdm">Tulerunt lapides</rdg>
+         <rdg wit="CAO-M CAO-F Evm Wcb Alb2 Mch Bat">Tulerunt lapides Judaei</rdg>
+         <rdg wit="Glo"> Tulerunt lapides <del type="erasure" status="unremarkable">Judaei</del>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-D CAO-F Ely Wor Cht Hyd Evm Wcb Glo Alb2 Cdm Mch Bat"> ut iacerent in Jesum</rdg>
+         <rdg wit="Pet"> ut iacerent in <del rend="marked for deletion by subscript dots" resp="DC" status="unremarkable">Je</del>sum</rdg>
+         <rdg wit="CAO-L"> ut iacerent in eum</rdg>
+      </app> Jesus autem abscondit se et exivit de templo</aBody>
+   <aBody wit="Evm" num="2">Tulerunt lapides ut iacerent in Jesum Jesus autem abscondit se et exivit de templo</aBody>
+</ant>

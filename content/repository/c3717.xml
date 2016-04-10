@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3716b" nextid="c3718" id="c3717">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L"> Martyres domini dominum benedicite</rdg>
+         <rdg wit="CAO-C CAO-H"> Martyres domini domino benedicite</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-F"> in aeternum</rdg>
+         <rdg wit="CAO-M CAO-V CAO-S CAO-L"> in aeternum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

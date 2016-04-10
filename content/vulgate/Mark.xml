@@ -1,0 +1,4794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Mark">
+<body>
+  <rubric type="bible-incipit" id="B.Mark.incipit.001">
+    <reference>
+      <bookName>Mark</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT SECUNDUM MARCUM</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Mark.001.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>initium evangelii Iesu Christi Filii Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>sicut scriptum est in Esaia propheta ecce mitto angelum meum ante faciem tuam qui praeparabit viam tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>vox clamantis in deserto parate viam Domini rectas facite semitas eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>fuit Iohannes in deserto baptizans et praedicans baptismum paenitentiae in remissionem peccatorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>et egrediebatur ad illum omnis Iudaeae regio et Hierosolymitae universi et baptizabantur ab illo in Iordane flumine confitentes peccata sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et erat Iohannes vestitus pilis cameli et zona pellicia circa lumbos eius et lucustas et mel silvestre edebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>et praedicabat dicens venit fortior me post me cuius non sum dignus procumbens solvere corrigiam calciamentorum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>ego baptizavi vos aqua ille vero baptizabit vos Spiritu Sancto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et factum est in diebus illis venit Iesus a Nazareth Galilaeae et baptizatus est in Iordane ab Iohanne</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>et statim ascendens de aqua vidit apertos caelos et Spiritum tamquam columbam descendentem et manentem in ipso</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>et vox facta est de caelis tu es Filius meus dilectus in te conplacui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>et statim Spiritus expellit eum in desertum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>et erat in deserto quadraginta diebus et quadraginta noctibus et temptabatur a Satana eratque cum bestiis et angeli ministrabant illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>postquam autem traditus est Iohannes venit Iesus in Galilaeam praedicans evangelium regni Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>et dicens quoniam impletum est tempus et adpropinquavit regnum Dei paenitemini et credite evangelio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>et praeteriens secus mare Galilaeae vidit Simonem et Andream fratrem eius mittentes retia in mare erant enim piscatores</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>et dixit eis Iesus venite post me et faciam vos fieri piscatores hominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>et protinus relictis retibus secuti sunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>et progressus inde pusillum vidit Iacobum Zebedaei et Iohannem fratrem eius et ipsos in navi conponentes retia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>et statim vocavit illos et relicto patre suo Zebedaeo in navi cum mercennariis secuti sunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>et ingrediuntur Capharnaum et statim sabbatis ingressus synagogam docebat eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>et stupebant super doctrina eius erat enim docens eos quasi potestatem habens et non sicut scribae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>et erat in synagoga eorum homo in spiritu inmundo et exclamavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>dicens quid nobis et tibi Iesu Nazarene venisti perdere nos scio qui sis Sanctus Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>et comminatus est ei Iesus dicens obmutesce et exi de homine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:26</verseNum>
+      </reference>
+      <l>et discerpens eum spiritus inmundus et exclamans voce magna exivit ab eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:27</verseNum>
+      </reference>
+      <l>et mirati sunt omnes ita ut conquirerent inter se dicentes quidnam est hoc quae doctrina haec nova quia in potestate et spiritibus inmundis imperat et oboediunt ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:28</verseNum>
+      </reference>
+      <l>et processit rumor eius statim in omnem regionem Galilaeae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:29</verseNum>
+      </reference>
+      <l>et protinus egredientes de synagoga venerunt in domum Simonis et Andreae cum Iacobo et Iohanne</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:30</verseNum>
+      </reference>
+      <l>decumbebat autem socrus Simonis febricitans et statim dicunt ei de illa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:31</verseNum>
+      </reference>
+      <l>et accedens elevavit eam adprehensa manu eius et continuo dimisit eam febris et ministrabat eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:32</verseNum>
+      </reference>
+      <l>vespere autem facto cum occidisset sol adferebant ad eum omnes male habentes et daemonia habentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:33</verseNum>
+      </reference>
+      <l>et erat omnis civitas congregata ad ianuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:34</verseNum>
+      </reference>
+      <l>et curavit multos qui vexabantur variis languoribus et daemonia multa eiciebat et non sinebat loqui ea quoniam sciebant eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:35</verseNum>
+      </reference>
+      <l>et diluculo valde surgens egressus abiit in desertum locum ibique orabat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:36</verseNum>
+      </reference>
+      <l>et persecutus est eum Simon et qui cum illo erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:37</verseNum>
+      </reference>
+      <l>et cum invenissent eum dixerunt ei quia omnes quaerunt te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:38</verseNum>
+      </reference>
+      <l>et ait illis eamus in proximos vicos et civitates ut et ibi praedicem ad hoc enim veni</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:39</verseNum>
+      </reference>
+      <l>et erat praedicans in synagogis eorum et omni Galilaea et daemonia eiciens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:40</verseNum>
+      </reference>
+      <l>et venit ad eum leprosus deprecans eum et genu flexo dixit si vis potes me mundare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.041">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:41</verseNum>
+      </reference>
+      <l>Iesus autem misertus eius extendit manum suam et tangens eum ait illi volo mundare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.042">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:42</verseNum>
+      </reference>
+      <l>et cum dixisset statim discessit ab eo lepra et mundatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.043">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:43</verseNum>
+      </reference>
+      <l>et comminatus ei statim eiecit illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.044">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:44</verseNum>
+      </reference>
+      <l>et dicit ei vide nemini dixeris sed vade ostende te principi sacerdotum et offer pro emundatione tua quae praecepit Moses in testimonium illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.001.045">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>1:45</verseNum>
+      </reference>
+      <l>at ille egressus coepit praedicare et diffamare sermonem ita ut iam non posset manifeste in civitatem introire sed foris in desertis locis esse et conveniebant ad eum undique</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Mark.002.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>et iterum intravit Capharnaum post dies</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>et auditum est quod in domo esset et convenerunt multi ita ut non caperet neque ad ianuam et loquebatur eis verbum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>et venerunt ferentes ad eum paralyticum qui a quattuor portabatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>et cum non possent offerre eum illi prae turba nudaverunt tectum ubi erat et patefacientes submiserunt grabattum in quo paralyticus iacebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>cum vidisset autem Iesus fidem illorum ait paralytico fili dimittuntur tibi peccata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>erant autem illic quidam de scribis sedentes et cogitantes in cordibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>quid hic sic loquitur blasphemat quis potest dimittere peccata nisi solus Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>quo statim cognito Iesus spiritu suo quia sic cogitarent intra se dicit illis quid ista cogitatis in cordibus vestris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>quid est facilius dicere paralytico dimittuntur tibi peccata an dicere surge et tolle grabattum tuum et ambula</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>ut autem sciatis quia potestatem habet Filius hominis in terra dimittendi peccata ait paralytico</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>tibi dico surge tolle grabattum tuum et vade in domum tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>et statim ille surrexit et sublato grabatto abiit coram omnibus ita ut admirarentur omnes et honorificarent Deum dicentes quia numquam sic vidimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>et egressus est rursus ad mare omnisque turba veniebat ad eum et docebat eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>et cum praeteriret vidit Levin Alphei sedentem ad teloneum et ait illi sequere me et surgens secutus est eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>et factum est cum accumberet in domo illius multi publicani et peccatores simul discumbebant cum Iesu et discipulis eius erant enim multi qui et sequebantur eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>et scribae et Pharisaei videntes quia manducaret cum peccatoribus et publicanis dicebant discipulis eius quare cum publicanis et peccatoribus manducat et bibit magister vester</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>hoc audito Iesus ait illis non necesse habent sani medicum sed qui male habent non enim veni vocare iustos sed peccatores</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>et erant discipuli Iohannis et Pharisaei ieiunantes et veniunt et dicunt illi cur discipuli Iohannis et Pharisaeorum ieiunant tui autem discipuli non ieiunant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>et ait illis Iesus numquid possunt filii nuptiarum quamdiu sponsus cum illis est ieiunare quanto tempore habent secum sponsum non possunt ieiunare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>venient autem dies cum auferetur ab eis sponsus et tunc ieiunabunt in illa die</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>nemo adsumentum panni rudis adsuit vestimento veteri alioquin aufert supplementum novum a veteri et maior scissura fit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>et nemo mittit vinum novellum in utres veteres alioquin disrumpet vinum utres et vinum effunditur et utres peribunt sed vinum novum in utres novos mitti debet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>et factum est iterum cum sabbatis ambularet per sata et discipuli eius coeperunt praegredi et vellere spicas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>Pharisaei autem dicebant ei ecce quid faciunt sabbatis quod non licet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>et ait illis numquam legistis quid fecerit David quando necessitatem habuit et esuriit ipse et qui cum eo erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:26</verseNum>
+      </reference>
+      <l>quomodo introiit in domum Dei sub Abiathar principe sacerdotum et panes propositionis manducavit quos non licet manducare nisi sacerdotibus et dedit eis qui cum eo erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:27</verseNum>
+      </reference>
+      <l>et dicebat eis sabbatum propter hominem factum est et non homo propter sabbatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.002.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>2:28</verseNum>
+      </reference>
+      <l>itaque dominus est Filius hominis etiam sabbati</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Mark.003.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>et introivit iterum synagogam et erat ibi homo habens manum aridam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>et observabant eum si sabbatis curaret ut accusarent illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>et ait homini habenti manum aridam surge in medium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>et dicit eis licet sabbatis bene facere an male animam salvam facere an perdere at illi tacebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>et circumspiciens eos cum ira contristatus super caecitatem cordis eorum dicit homini extende manum tuam et extendit et restituta est manus illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>exeuntes autem statim Pharisaei cum Herodianis consilium faciebant adversus eum quomodo eum perderent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>et Iesus cum discipulis suis secessit ad mare et multa turba a Galilaea et Iudaea secuta est eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>et ab Hierosolymis et ab Idumea et trans Iordanen et qui circa Tyrum et Sidonem multitudo magna audientes quae faciebat venerunt ad eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>et dixit discipulis suis ut navicula sibi deserviret propter turbam ne conprimerent eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>multos enim sanabat ita ut inruerent in eum ut illum tangerent quotquot habebant plagas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>et spiritus inmundi cum illum videbant procidebant ei et clamabant dicentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>tu es Filius Dei et vehementer comminabatur eis ne manifestarent illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>et ascendens in montem vocavit ad se quos voluit ipse et venerunt ad eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>et fecit ut essent duodecim cum illo et ut mitteret eos praedicare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>et dedit illis potestatem curandi infirmitates et eiciendi daemonia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>et inposuit Simoni nomen Petrus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>et Iacobum Zebedaei et Iohannem fratrem Iacobi et inposuit eis nomina Boanerges quod est Filii tonitrui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>et Andream et Philippum et Bartholomeum et Mattheum et Thomam et Iacobum Alphei et Thaddeum et Simonem Cananeum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>et Iudam Scarioth qui et tradidit illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>et veniunt ad domum et convenit iterum turba ita ut non possent neque panem manducare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>et cum audissent sui exierunt tenere eum dicebant enim quoniam in furorem versus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:22</verseNum>
+      </reference>
+      <l>et scribae qui ab Hierosolymis descenderant dicebant quoniam Beelzebub habet et quia in principe daemonum eicit daemonia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:23</verseNum>
+      </reference>
+      <l>et convocatis eis in parabolis dicebat illis quomodo potest Satanas Satanan eicere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:24</verseNum>
+      </reference>
+      <l>et si regnum in se dividatur non potest stare regnum illud</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:25</verseNum>
+      </reference>
+      <l>et si domus super semet ipsam dispertiatur non poterit domus illa stare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:26</verseNum>
+      </reference>
+      <l>et si Satanas consurrexit in semet ipsum dispertitus est et non potest stare sed finem habet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:27</verseNum>
+      </reference>
+      <l>nemo potest vasa fortis ingressus in domum diripere nisi prius fortem alliget et tunc domum eius diripiet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:28</verseNum>
+      </reference>
+      <l>amen dico vobis quoniam omnia dimittentur filiis hominum peccata et blasphemiae quibus blasphemaverint</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:29</verseNum>
+      </reference>
+      <l>qui autem blasphemaverit in Spiritum Sanctum non habet remissionem in aeternum sed reus erit aeterni delicti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:30</verseNum>
+      </reference>
+      <l>quoniam dicebant spiritum inmundum habet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:31</verseNum>
+      </reference>
+      <l>et veniunt mater eius et fratres et foris stantes miserunt ad eum vocantes eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:32</verseNum>
+      </reference>
+      <l>et sedebat circa eum turba et dicunt ei ecce mater tua et fratres tui foris quaerunt te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:33</verseNum>
+      </reference>
+      <l>et respondens eis ait quae est mater mea et fratres mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:34</verseNum>
+      </reference>
+      <l>et circumspiciens eos qui in circuitu eius sedebant ait ecce mater mea et fratres mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.003.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>3:35</verseNum>
+      </reference>
+      <l>qui enim fecerit voluntatem Dei hic frater meus et soror mea et mater est</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Mark.004.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>et iterum coepit docere ad mare et congregata est ad eum turba multa ita ut in navem ascendens sederet in mari et omnis turba circa mare super terram erat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>et docebat eos in parabolis multa et dicebat illis in doctrina sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>audite ecce exiit seminans ad seminandum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>et dum seminat aliud cecidit circa viam et venerunt volucres et comederunt illud</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>aliud vero cecidit super petrosa ubi non habuit terram multam et statim exortum est quoniam non habebat altitudinem terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>et quando exortus est sol exaestuavit et eo quod non haberet radicem exaruit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>et aliud cecidit in spinas et ascenderunt spinae et offocaverunt illud et fructum non dedit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>et aliud cecidit in terram bonam et dabat fructum ascendentem et crescentem et adferebat unum triginta et unum sexaginta et unum centum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>et dicebat qui habet aures audiendi audiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.010">
+      <reference>
+
+        <bookName>Mark</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>et cum esset singularis interrogaverunt eum hii qui cum eo erant cum duodecim parabolas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>et dicebat eis vobis datum est mysterium regni Dei illis autem qui foris sunt in parabolis omnia fiunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>ut videntes videant et non videant et audientes audiant et non intellegant nequando convertantur et dimittantur eis peccata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>et ait illis nescitis parabolam hanc et quomodo omnes parabolas cognoscetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>qui seminat verbum seminat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>hii autem sunt qui circa viam ubi seminatur verbum et cum audierint confestim venit Satanas et aufert verbum quod seminatum est in corda eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>et hii sunt similiter qui super petrosa seminantur qui cum audierint verbum statim cum gaudio accipiunt illud</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>et non habent radicem in se sed temporales sunt deinde orta tribulatione et persecutione propter verbum confestim scandalizantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>et alii sunt qui in spinis seminantur hii sunt qui verbum audiunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>et aerumnae saeculi et deceptio divitiarum et circa reliqua concupiscentiae introeuntes suffocant verbum et sine fructu efficitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>et hii sunt qui super terram bonam seminati sunt qui audiunt verbum et suscipiunt et fructificant unum triginta et unum sexaginta et unum centum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:21</verseNum>
+      </reference>
+      <l>et dicebat illis numquid venit lucerna ut sub modio ponatur aut sub lecto nonne ut super candelabrum ponatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:22</verseNum>
+      </reference>
+      <l>non enim est aliquid absconditum quod non manifestetur nec factum est occultum sed ut in palam veniat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:23</verseNum>
+      </reference>
+      <l>si quis habet aures audiendi audiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:24</verseNum>
+      </reference>
+      <l>et dicebat illis videte quid audiatis in qua mensura mensi fueritis remetietur vobis et adicietur vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:25</verseNum>
+      </reference>
+      <l>qui enim habet dabitur illi et qui non habet etiam quod habet auferetur ab illo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:26</verseNum>
+      </reference>
+      <l>et dicebat sic est regnum Dei quemadmodum si homo iaciat sementem in terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:27</verseNum>
+      </reference>
+      <l>et dormiat et exsurgat nocte ac die et semen germinet et increscat dum nescit ille</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:28</verseNum>
+      </reference>
+      <l>ultro enim terra fructificat primum herbam deinde spicam deinde plenum frumentum in spica</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:29</verseNum>
+      </reference>
+      <l>et cum se produxerit fructus statim mittit falcem quoniam adest messis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:30</verseNum>
+      </reference>
+      <l>et dicebat cui adsimilabimus regnum Dei aut cui parabolae conparabimus illud</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:31</verseNum>
+      </reference>
+      <l>sicut granum sinapis quod cum seminatum fuerit in terra minus est omnibus seminibus quae sunt in terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:32</verseNum>
+      </reference>
+      <l>et cum seminatum fuerit ascendit et fit maius omnibus holeribus et facit ramos magnos ita ut possint sub umbra eius aves caeli habitare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:33</verseNum>
+      </reference>
+      <l>et talibus multis parabolis loquebatur eis verbum prout poterant audire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:34</verseNum>
+      </reference>
+      <l>sine parabola autem non loquebatur eis seorsum autem discipulis suis disserebat omnia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:35</verseNum>
+      </reference>
+      <l>et ait illis illa die cum sero esset factum transeamus contra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:36</verseNum>
+      </reference>
+      <l>et dimittentes turbam adsumunt eum ita ut erat in navi et aliae naves erant cum illo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:37</verseNum>
+      </reference>
+      <l>et facta est procella magna venti et fluctus mittebat in navem ita ut impleretur navis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:38</verseNum>
+      </reference>
+      <l>et erat ipse in puppi supra cervical dormiens et excitant eum et dicunt ei magister non ad te pertinet quia perimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:39</verseNum>
+      </reference>
+      <l>et exsurgens comminatus est vento et dixit mari tace obmutesce et cessavit ventus et facta est tranquillitas magna</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.004.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>4:40</verseNum>
+      </reference>
+      <l>et ait illis quid timidi estis necdum habetis fidem et timuerunt magno timore et dicebant ad alterutrum quis putas est iste quia et ventus et mare oboediunt ei</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Mark.005.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>et venerunt trans fretum maris in regionem Gerasenorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>et exeunti ei de navi statim occurrit ei de monumentis homo in spiritu inmundo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>qui domicilium habebat in monumentis et neque catenis iam quisquam eum poterat ligare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>quoniam saepe conpedibus et catenis vinctus disrupisset catenas et conpedes comminuisset et nemo poterat eum domare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>et semper nocte ac die in monumentis et in montibus erat clamans et concidens se lapidibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>videns autem Iesum a longe cucurrit et adoravit eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>et clamans voce magna dicit quid mihi et tibi Iesu Fili Dei summi adiuro te per Deum ne me torqueas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>dicebat enim illi exi spiritus inmunde ab homine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>et interrogabat eum quod tibi nomen est et dicit ei Legio nomen mihi est quia multi sumus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>et deprecabatur eum multum ne se expelleret extra regionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>erat autem ibi circa montem grex porcorum magnus pascens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>et deprecabantur eum spiritus dicentes mitte nos in porcos ut in eos introeamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>et concessit eis statim Iesus et exeuntes spiritus inmundi introierunt in porcos et magno impetu grex praecipitatus est in mare ad duo milia et suffocati sunt in mare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>qui autem pascebant eos fugerunt et nuntiaverunt in civitatem et in agros et egressi sunt videre quid esset facti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>et veniunt ad Iesum et vident illum qui a daemonio vexabatur sedentem vestitum et sanae mentis et timuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>et narraverunt illis qui viderant qualiter factum esset ei qui daemonium habuerat et de porcis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>et rogare eum coeperunt ut discederet de finibus eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>cumque ascenderet navem coepit illum deprecari qui daemonio vexatus fuerat ut esset cum illo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>et non admisit eum sed ait illi vade in domum tuam ad tuos et adnuntia illis quanta tibi Dominus fecerit et misertus sit tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>et abiit et coepit praedicare in Decapoli quanta sibi fecisset Iesus et omnes mirabantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>et cum transcendisset Iesus in navi rursus trans fretum convenit turba multa ad illum et erat circa mare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>et venit quidam de archisynagogis nomine Iairus et videns eum procidit ad pedes eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>et deprecabatur eum multum dicens quoniam filia mea in extremis est veni inpone manus super eam ut salva sit et vivat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>et abiit cum illo et sequebatur eum turba multa et conprimebant illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:25</verseNum>
+      </reference>
+      <l>et mulier quae erat in profluvio sanguinis annis duodecim</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:26</verseNum>
+      </reference>
+      <l>et fuerat multa perpessa a conpluribus medicis et erogaverat omnia sua nec quicquam profecerat sed magis deterius habebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:27</verseNum>
+      </reference>
+      <l>cum audisset de Iesu venit in turba retro et tetigit vestimentum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:28</verseNum>
+      </reference>
+      <l>dicebat enim quia si vel vestimentum eius tetigero salva ero</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:29</verseNum>
+      </reference>
+      <l>et confestim siccatus est fons sanguinis eius et sensit corpore quod sanata esset a plaga</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:30</verseNum>
+      </reference>
+      <l>et statim Iesus cognoscens in semet ipso virtutem quae exierat de eo conversus ad turbam aiebat quis tetigit vestimenta mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:31</verseNum>
+      </reference>
+      <l>et dicebant ei discipuli sui vides turbam conprimentem te et dicis quis me tetigit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:32</verseNum>
+      </reference>
+      <l>et circumspiciebat videre eam quae hoc fecerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:33</verseNum>
+      </reference>
+      <l>mulier autem timens et tremens sciens quod factum esset in se venit et procidit ante eum et dixit ei omnem veritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:34</verseNum>
+      </reference>
+      <l>ille autem dixit ei filia fides tua te salvam fecit vade in pace et esto sana a plaga tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:35</verseNum>
+      </reference>
+      <l>adhuc eo loquente veniunt ab archisynagogo dicentes quia filia tua mortua est quid ultra vexas magistrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:36</verseNum>
+      </reference>
+      <l>Iesus autem verbo quod dicebatur audito ait archisynagogo noli timere tantummodo crede</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:37</verseNum>
+      </reference>
+      <l>et non admisit quemquam sequi se nisi Petrum et Iacobum et Iohannem fratrem Iacobi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:38</verseNum>
+      </reference>
+      <l>et veniunt in domum archisynagogi et videt tumultum et flentes et heiulantes multum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:39</verseNum>
+      </reference>
+      <l>et ingressus ait eis quid turbamini et ploratis puella non est mortua sed dormit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:40</verseNum>
+      </reference>
+      <l>et inridebant eum ipse vero eiectis omnibus adsumit patrem et matrem puellae et qui secum erant et ingreditur ubi erat puella iacens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.041">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:41</verseNum>
+      </reference>
+      <l>et tenens manum puellae ait illi talitha cumi quod est interpretatum puella tibi dico surge</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.042">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:42</verseNum>
+      </reference>
+      <l>et confestim surrexit puella et ambulabat erat autem annorum duodecim et obstipuerunt stupore maximo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.005.043">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>5:43</verseNum>
+      </reference>
+      <l>et praecepit illis vehementer ut nemo id sciret et dixit dari illi manducare</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Mark.006.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>et egressus inde abiit in patriam suam et sequebantur illum discipuli sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>et facto sabbato coepit in synagoga docere et multi audientes admirabantur in doctrina eius dicentes unde huic haec omnia et quae est sapientia quae data est illi et virtutes tales quae per manus eius efficiuntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>nonne iste est faber filius Mariae frater Iacobi et Ioseph et Iudae et Simonis nonne et sorores eius hic nobiscum sunt et scandalizabantur in illo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>et dicebat eis Iesus quia non est propheta sine honore nisi in patria sua et in cognatione sua et in domo sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>et non poterat ibi virtutem ullam facere nisi paucos infirmos inpositis manibus curavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>et mirabatur propter incredulitatem eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>et circumibat castella in circuitu docens et convocavit duodecim et coepit eos mittere binos et dabat illis potestatem spirituum inmundorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>et praecepit eis ne quid tollerent in via nisi virgam tantum non peram non panem neque in zona aes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>sed calciatos sandaliis et ne induerentur duabus tunicis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>et dicebat eis quocumque introieritis in domum illic manete donec exeatis inde</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>et quicumque non receperint vos nec audierint vos exeuntes inde excutite pulverem de pedibus vestris in testimonium illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>et exeuntes praedicabant ut paenitentiam agerent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>et daemonia multa eiciebant et unguebant oleo multos aegrotos et sanabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>et audivit Herodes rex manifestum enim factum est nomen eius et dicebat quia Iohannes Baptista resurrexit a mortuis et propterea inoperantur virtutes in illo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>alii autem dicebant quia Helias est alii vero dicebant propheta est quasi unus ex prophetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>quo audito Herodes ait quem ego decollavi Iohannem hic a mortuis resurrexit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>ipse enim Herodes misit ac tenuit Iohannem et vinxit eum in carcere propter Herodiadem uxorem Philippi fratris sui quia duxerat eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>dicebat enim Iohannes Herodi non licet tibi habere uxorem fratris tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>Herodias autem insidiabatur illi et volebat occidere eum nec poterat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>Herodes enim metuebat Iohannem sciens eum virum iustum et sanctum et custodiebat eum et audito eo multa faciebat et libenter eum audiebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>et cum dies oportunus accidisset Herodes natalis sui cenam fecit principibus et tribunis et primis Galilaeae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:22</verseNum>
+      </reference>
+      <l>cumque introisset filia ipsius Herodiadis et saltasset et placuisset Herodi simulque recumbentibus rex ait puellae pete a me quod vis et dabo tibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:23</verseNum>
+      </reference>
+      <l>et iuravit illi quia quicquid petieris dabo tibi licet dimidium regni mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:24</verseNum>
+      </reference>
+      <l>quae cum exisset dixit matri suae quid petam et illa dixit caput Iohannis Baptistae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:25</verseNum>
+      </reference>
+      <l>cumque introisset statim cum festinatione ad regem petivit dicens volo ut protinus des mihi in disco caput Iohannis Baptistae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:26</verseNum>
+      </reference>
+      <l>et contristatus rex propter iusiurandum et propter simul recumbentes noluit eam contristare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:27</verseNum>
+      </reference>
+      <l>sed misso speculatore praecepit adferri caput eius in disco et decollavit eum in carcere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:28</verseNum>
+      </reference>
+      <l>et adtulit caput eius in disco et dedit illud puellae et puella dedit matri suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:29</verseNum>
+      </reference>
+      <l>quo audito discipuli eius venerunt et tulerunt corpus eius et posuerunt illud in monumento</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:30</verseNum>
+      </reference>
+      <l>et convenientes apostoli ad Iesum renuntiaverunt illi omnia quae egerant et docuerant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:31</verseNum>
+      </reference>
+      <l>et ait illis venite seorsum in desertum locum et requiescite pusillum erant enim qui veniebant et rediebant multi et nec manducandi spatium habebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:32</verseNum>
+      </reference>
+      <l>et ascendentes in navi abierunt in desertum locum seorsum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:33</verseNum>
+      </reference>
+      <l>et viderunt eos abeuntes et cognoverunt multi et pedestre et de omnibus civitatibus concurrerunt illuc et praevenerunt eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:34</verseNum>
+      </reference>
+      <l>et exiens vidit multam turbam Iesus et misertus est super eos quia erant sicut oves non habentes pastorem et coepit docere illos multa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:35</verseNum>
+      </reference>
+      <l>et cum iam hora multa fieret accesserunt discipuli eius dicentes desertus est locus hic et iam hora praeterivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:36</verseNum>
+      </reference>
+      <l>dimitte illos ut euntes in proximas villas et vicos emant sibi cibos quos manducent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:37</verseNum>
+      </reference>
+      <l>et respondens ait illis date illis manducare et dixerunt ei euntes emamus denariis ducentis panes et dabimus eis manducare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:38</verseNum>
+      </reference>
+      <l>et dicit eis quot panes habetis ite et videte et cum cognovissent dicunt quinque et duos pisces</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:39</verseNum>
+      </reference>
+      <l>et praecepit illis ut accumbere facerent omnes secundum contubernia super viride faenum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:40</verseNum>
+      </reference>
+      <l>et discubuerunt in partes per centenos et per quinquagenos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.041">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:41</verseNum>
+      </reference>
+      <l>et acceptis quinque panibus et duobus piscibus intuens in caelum benedixit et fregit panes et dedit discipulis suis ut ponerent ante eos et duos pisces divisit omnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.042">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:42</verseNum>
+      </reference>
+      <l>et manducaverunt omnes et saturati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.043">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:43</verseNum>
+      </reference>
+      <l>et sustulerunt reliquias fragmentorum duodecim cofinos plenos et de piscibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.044">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:44</verseNum>
+      </reference>
+      <l>erant autem qui manducaverunt quinque milia virorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.045">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:45</verseNum>
+      </reference>
+      <l>et statim coegit discipulos suos ascendere navem ut praecederent eum trans fretum ad Bethsaidam dum ipse dimitteret populum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.046">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:46</verseNum>
+      </reference>
+      <l>et cum dimisisset eos abiit in montem orare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.047">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:47</verseNum>
+      </reference>
+      <l>et cum sero esset erat navis in medio mari et ipse solus in terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.048">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:48</verseNum>
+      </reference>
+      <l>et videns eos laborantes in remigando erat enim ventus contrarius eis et circa quartam vigiliam noctis venit ad eos ambulans super mare et volebat praeterire eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.049">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:49</verseNum>
+      </reference>
+      <l>at illi ut viderunt eum ambulantem super mare putaverunt fantasma esse et exclamaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.050">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:50</verseNum>
+      </reference>
+      <l>omnes enim eum viderunt et conturbati sunt et statim locutus est cum eis et dixit illis confidite ego sum nolite timere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.051">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:51</verseNum>
+      </reference>
+      <l>et ascendit ad illos in navem et cessavit ventus et plus magis intra se stupebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.052">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:52</verseNum>
+      </reference>
+      <l>non enim intellexerant de panibus erat enim cor illorum obcaecatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.053">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:53</verseNum>
+      </reference>
+      <l>et cum transfretassent pervenerunt in terram Gennesareth et adplicuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.054">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:54</verseNum>
+      </reference>
+      <l>cumque egressi essent de navi continuo cognoverunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.055">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:55</verseNum>
+      </reference>
+      <l>et percurrentes universam regionem illam coeperunt in grabattis eos qui se male habebant circumferre ubi audiebant eum esse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.006.056">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>6:56</verseNum>
+      </reference>
+      <l>et quocumque introibat in vicos vel in villas aut civitates in plateis ponebant infirmos et deprecabantur eum ut vel fimbriam vestimenti eius tangerent et quotquot tangebant eum salvi fiebant</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Mark.007.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>et conveniunt ad eum Pharisaei et quidam de scribis venientes ab Hierosolymis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>et cum vidissent quosdam ex discipulis eius communibus manibus id est non lotis manducare panes vituperaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>Pharisaei enim et omnes Iudaei nisi crebro lavent manus non manducant tenentes traditionem seniorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>et a foro nisi baptizentur non comedunt et alia multa sunt quae tradita sunt illis servare baptismata calicum et urceorum et aeramentorum et lectorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>et interrogant eum Pharisaei et scribae quare discipuli tui non ambulant iuxta traditionem seniorum sed communibus manibus manducant panem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>at ille respondens dixit eis bene prophetavit Esaias de vobis hypocritis sicut scriptum est populus hic labiis me honorat cor autem eorum longe est a me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>in vanum autem me colunt docentes doctrinas praecepta hominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>relinquentes enim mandatum Dei tenetis traditionem hominum baptismata urceorum et calicum et alia similia his facitis multa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>et dicebat illis bene irritum facitis praeceptum Dei ut traditionem vestram servetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>Moses enim dixit honora patrem tuum et matrem tuam et qui maledixerit patri aut matri morte moriatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>vos autem dicitis si dixerit homo patri aut matri corban quod est donum quodcumque ex me tibi profuerit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>et ultra non dimittitis eum quicquam facere patri suo aut matri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>rescindentes verbum Dei per traditionem vestram quam tradidistis et similia huiusmodi multa facitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>et advocans iterum turbam dicebat illis audite me omnes et intellegite</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>nihil est extra hominem introiens in eum quod possit eum coinquinare sed quae de homine procedunt illa sunt quae communicant hominem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>si quis habet aures audiendi audiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>et cum introisset in domum a turba interrogabant eum discipuli eius parabolam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:18</verseNum>
+      </reference>
+      <l>et ait illis sic et vos inprudentes estis non intellegitis quia omne extrinsecus introiens in hominem non potest eum communicare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:19</verseNum>
+      </reference>
+      <l>quia non introit in cor eius sed in ventrem et in secessum exit purgans omnes escas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:20</verseNum>
+      </reference>
+      <l>dicebat autem quoniam quae de homine exeunt illa communicant hominem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:21</verseNum>
+      </reference>
+      <l>ab intus enim de corde hominum cogitationes malae procedunt adulteria fornicationes homicidia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:22</verseNum>
+      </reference>
+      <l>furta avaritiae nequitiae dolus inpudicitia oculus malus blasphemia superbia stultitia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:23</verseNum>
+      </reference>
+      <l>omnia haec mala ab intus procedunt et communicant hominem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:24</verseNum>
+      </reference>
+      <l>et inde surgens abiit in fines Tyri et Sidonis et ingressus domum neminem voluit scire et non potuit latere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:25</verseNum>
+      </reference>
+      <l>mulier enim statim ut audivit de eo cuius habebat filia spiritum inmundum intravit et procidit ad pedes eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:26</verseNum>
+      </reference>
+      <l>erat autem mulier gentilis Syrophoenissa genere et rogabat eum ut daemonium eiceret de filia eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:27</verseNum>
+      </reference>
+      <l>qui dixit illi sine prius saturari filios non est enim bonum sumere panem filiorum et mittere canibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:28</verseNum>
+      </reference>
+      <l>at illa respondit et dicit ei utique Domine nam et catelli sub mensa comedunt de micis puerorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:29</verseNum>
+      </reference>
+      <l>et ait illi propter hunc sermonem vade exiit daemonium de filia tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:30</verseNum>
+      </reference>
+      <l>et cum abisset domum suam invenit puellam iacentem supra lectum et daemonium exisse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:31</verseNum>
+      </reference>
+      <l>et iterum exiens de finibus Tyri venit per Sidonem ad mare Galilaeae inter medios fines Decapoleos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:32</verseNum>
+      </reference>
+      <l>et adducunt ei surdum et mutum et deprecantur eum ut inponat illi manum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:33</verseNum>
+      </reference>
+      <l>et adprehendens eum de turba seorsum misit digitos suos in auriculas et expuens tetigit linguam eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:34</verseNum>
+      </reference>
+      <l>et suspiciens in caelum ingemuit et ait illi eppheta quod est adaperire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:35</verseNum>
+      </reference>
+      <l>et statim apertae sunt aures eius et solutum est vinculum linguae eius et loquebatur recte</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:36</verseNum>
+      </reference>
+      <l>et praecepit illis ne cui dicerent quanto autem eis praecipiebat tanto magis plus praedicabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.007.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>7:37</verseNum>
+      </reference>
+      <l>et eo amplius admirabantur dicentes bene omnia fecit et surdos facit audire et mutos loqui</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Mark.008.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>in illis diebus iterum cum turba multa esset nec haberent quod manducarent convocatis discipulis ait illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>misereor super turba quia ecce iam triduo sustinent me nec habent quod manducent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>et si dimisero eos ieiunos in domum suam deficient in via quidam enim ex eis de longe venerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>et responderunt ei discipuli sui unde istos poterit quis hic saturare panibus in solitudine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>et interrogavit eos quot panes habetis qui dixerunt septem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>et praecepit turbae discumbere supra terram et accipiens septem panes gratias agens fregit et dabat discipulis suis ut adponerent et adposuerunt turbae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>et habebant pisciculos paucos et ipsos benedixit et iussit adponi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>et manducaverunt et saturati sunt et sustulerunt quod superaverat de fragmentis septem sportas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>erant autem qui manducaverunt quasi quattuor milia et dimisit eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>et statim ascendens navem cum discipulis suis venit in partes Dalmanutha</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>et exierunt Pharisaei et coeperunt conquirere cum eo quaerentes ab illo signum de caelo temptantes eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>et ingemescens spiritu ait quid generatio ista quaerit signum amen dico vobis si dabitur generationi isti signum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>et dimittens eos ascendens iterum abiit trans fretum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>et obliti sunt sumere panes et nisi unum panem non habebant secum in navi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>et praecipiebat eis dicens videte cavete a fermento Pharisaeorum et fermento Herodis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>et cogitabant ad alterutrum dicentes quia panes non habemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>quo cognito Iesus ait illis quid cogitatis quia panes non habetis nondum cognoscitis nec intellegitis adhuc caecatum habetis cor vestrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:18</verseNum>
+      </reference>
+      <l>oculos habentes non videtis et aures habentes non auditis nec recordamini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:19</verseNum>
+      </reference>
+      <l>quando quinque panes fregi in quinque milia et quot cofinos fragmentorum plenos sustulistis dicunt ei duodecim</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:20</verseNum>
+      </reference>
+      <l>quando et septem panes in quattuor milia quot sportas fragmentorum tulistis et dicunt ei septem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:21</verseNum>
+      </reference>
+      <l>et dicebat eis quomodo nondum intellegitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:22</verseNum>
+      </reference>
+      <l>et veniunt Bethsaida et adducunt ei caecum et rogabant eum ut illum tangeret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:23</verseNum>
+      </reference>
+      <l>et adprehendens manum caeci eduxit eum extra vicum et expuens in oculos eius inpositis manibus suis interrogavit eum si aliquid videret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:24</verseNum>
+      </reference>
+      <l>et aspiciens ait video homines velut arbores ambulantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:25</verseNum>
+      </reference>
+      <l>deinde iterum inposuit manus super oculos eius et coepit videre et restitutus est ita ut videret clare omnia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:26</verseNum>
+      </reference>
+      <l>et misit illum in domum suam dicens vade in domum tuam et si in vicum introieris nemini dixeris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:27</verseNum>
+      </reference>
+      <l>et egressus est Iesus et discipuli eius in castella Caesareae Philippi et in via interrogabat discipulos suos dicens eis quem me dicunt esse homines</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:28</verseNum>
+      </reference>
+      <l>qui responderunt illi dicentes Iohannem Baptistam alii Heliam alii vero quasi unum de prophetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:29</verseNum>
+      </reference>
+      <l>tunc dicit illis vos vero quem me dicitis esse respondens Petrus ait ei tu es Christus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:30</verseNum>
+      </reference>
+      <l>et comminatus est eis ne cui dicerent de illo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:31</verseNum>
+      </reference>
+      <l>et coepit docere illos quoniam oportet Filium hominis multa pati et reprobari a senioribus et a summis sacerdotibus et scribis et occidi et post tres dies resurgere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:32</verseNum>
+      </reference>
+      <l>et palam verbum loquebatur et adprehendens eum Petrus coepit increpare eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:33</verseNum>
+      </reference>
+      <l>qui conversus et videns discipulos suos comminatus est Petro dicens vade retro me Satana quoniam non sapis quae Dei sunt sed quae sunt hominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:34</verseNum>
+      </reference>
+      <l>et convocata turba cum discipulis suis dixit eis si quis vult post me sequi deneget se ipsum et tollat crucem suam et sequatur me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:35</verseNum>
+      </reference>
+      <l>qui enim voluerit animam suam salvam facere perdet eam qui autem perdiderit animam suam propter me et evangelium salvam eam faciet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:36</verseNum>
+      </reference>
+      <l>quid enim proderit homini si lucretur mundum totum et detrimentum faciat animae suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:37</verseNum>
+      </reference>
+      <l>aut quid dabit homo commutationem pro anima sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:38</verseNum>
+      </reference>
+      <l>qui enim me confusus fuerit et mea verba in generatione ista adultera et peccatrice et Filius hominis confundetur eum cum venerit in gloria Patris sui cum angelis sanctis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.008.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>8:39</verseNum>
+      </reference>
+      <l>et dicebat illis amen dico vobis quia sunt quidam de hic stantibus qui non gustabunt mortem donec videant regnum Dei veniens in virtute</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Mark.009.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>et post dies sex adsumit Iesus Petrum et Iacobum et Iohannem et ducit illos in montem excelsum seorsum solos et transfiguratus est coram ipsis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>et vestimenta eius facta sunt splendentia candida nimis velut nix qualia fullo super terram non potest candida facere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>et apparuit illis Helias cum Mose et erant loquentes cum Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>et respondens Petrus ait Iesu rabbi bonum est hic nos esse et faciamus tria tabernacula tibi unum et Mosi unum et Heliae unum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>non enim sciebat quid diceret erant enim timore exterriti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>et facta est nubes obumbrans eos et venit vox de nube dicens hic est Filius meus carissimus audite illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>et statim circumspicientes neminem amplius viderunt nisi Iesum tantum secum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>et descendentibus illis de monte praecepit illis ne cui quae vidissent narrarent nisi cum Filius hominis a mortuis resurrexerit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>et verbum continuerunt apud se conquirentes quid esset cum a mortuis resurrexerit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>et interrogabant eum dicentes quid ergo dicunt Pharisaei et scribae quia Heliam oporteat venire primum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>qui respondens ait illis Helias cum venerit primo restituet omnia et quomodo scriptum est in Filium hominis ut multa patiatur et contemnatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>sed dico vobis quia et Helias venit et fecerunt illi quaecumque voluerunt sicut scriptum est de eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>et veniens ad discipulos suos vidit turbam magnam circa eos et scribas conquirentes cum illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>et confestim omnis populus videns eum stupefactus est et adcurrentes salutabant eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>et interrogavit eos quid inter vos conquiritis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>et respondens unus de turba dixit magister adtuli filium meum ad te habentem spiritum mutum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>qui ubicumque eum adprehenderit adlidit eum et spumat et stridet dentibus et arescit et dixi discipulis tuis ut eicerent illum et non potuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:18</verseNum>
+      </reference>
+      <l>qui respondens eis dicit o generatio incredula quamdiu apud vos ero quamdiu vos patiar adferte illum ad me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:19</verseNum>
+      </reference>
+      <l>et adtulerunt eum et cum vidisset illum statim spiritus conturbavit eum et elisus in terram volutabatur spumans</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:20</verseNum>
+      </reference>
+      <l>et interrogavit patrem eius quantum temporis est ex quo hoc ei accidit at ille ait ab infantia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:21</verseNum>
+      </reference>
+      <l>et frequenter eum et in ignem et in aquas misit ut eum perderet sed si quid potes adiuva nos misertus nostri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:22</verseNum>
+      </reference>
+      <l>Iesus autem ait illi si potes credere omnia possibilia credenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:23</verseNum>
+      </reference>
+      <l>et continuo exclamans pater pueri cum lacrimis aiebat credo adiuva incredulitatem meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:24</verseNum>
+      </reference>
+      <l>et cum videret Iesus concurrentem turbam comminatus est spiritui inmundo dicens illi surde et mute spiritus ego tibi praecipio exi ab eo et amplius ne introeas in eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:25</verseNum>
+      </reference>
+      <l>et clamans et multum discerpens eum exiit ab eo et factus est sicut mortuus ita ut multi dicerent quia mortuus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:26</verseNum>
+      </reference>
+      <l>Iesus autem tenens manum eius elevavit illum et surrexit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:27</verseNum>
+      </reference>
+      <l>et cum introisset in domum discipuli eius secreto interrogabant eum quare nos non potuimus eicere eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:28</verseNum>
+      </reference>
+      <l>et dixit illis hoc genus in nullo potest exire nisi in oratione et ieiunio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:29</verseNum>
+      </reference>
+      <l>et inde profecti praetergrediebantur Galilaeam nec volebat quemquam scire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:30</verseNum>
+      </reference>
+      <l>docebat autem discipulos suos et dicebat illis quoniam Filius hominis tradetur in manus hominum et occident eum et occisus tertia die resurget</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:31</verseNum>
+      </reference>
+      <l>at illi ignorabant verbum et timebant eum interrogare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:32</verseNum>
+      </reference>
+      <l>et venerunt Capharnaum qui cum domi esset interrogabat eos quid in via tractabatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:33</verseNum>
+      </reference>
+      <l>at illi tacebant siquidem inter se in via disputaverant quis esset illorum maior</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:34</verseNum>
+      </reference>
+      <l>et residens vocavit duodecim et ait illis si quis vult primus esse erit omnium novissimus et omnium minister</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:35</verseNum>
+      </reference>
+      <l>et accipiens puerum statuit eum in medio eorum quem cum conplexus esset ait illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:36</verseNum>
+      </reference>
+      <l>quisquis unum ex huiusmodi pueris receperit in nomine meo me recipit et quicumque me susceperit non me suscipit sed eum qui me misit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:37</verseNum>
+      </reference>
+      <l>respondit illi Iohannes dicens magister vidimus quendam in nomine tuo eicientem daemonia qui non sequitur nos et prohibuimus eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:38</verseNum>
+      </reference>
+      <l>Iesus autem ait nolite prohibere eum nemo est enim qui faciat virtutem in nomine meo et possit cito male loqui de me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:39</verseNum>
+      </reference>
+      <l>qui enim non est adversum vos pro vobis est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:40</verseNum>
+      </reference>
+      <l>quisquis enim potum dederit vobis calicem aquae in nomine meo quia Christi estis amen dico vobis non perdet mercedem suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.041">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:41</verseNum>
+      </reference>
+      <l>et quisquis scandalizaverit unum ex his pusillis credentibus in me bonum est ei magis si circumdaretur mola asinaria collo eius et in mare mitteretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.042">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:42</verseNum>
+      </reference>
+      <l>et si scandalizaverit te manus tua abscide illam bonum est tibi debilem introire in vitam quam duas manus habentem ire in gehennam in ignem inextinguibilem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.043">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:43</verseNum>
+      </reference>
+      <l>ubi vermis eorum non moritur et ignis non extinguitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.044">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:44</verseNum>
+      </reference>
+      <l>et si pes tuus te scandalizat amputa illum bonum est tibi claudum introire in vitam aeternam quam duos pedes habentem mitti in gehennam ignis inextinguibilis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.045">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:45</verseNum>
+      </reference>
+      <l>ubi vermis eorum non moritur et ignis non extinguitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.046">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:46</verseNum>
+      </reference>
+      <l>quod si oculus tuus scandalizat te eice eum bonum est tibi luscum introire in regnum Dei quam duos oculos habentem mitti in gehennam ignis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.047">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:47</verseNum>
+      </reference>
+      <l>ubi vermis eorum non moritur et ignis non extinguitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.048">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:48</verseNum>
+      </reference>
+      <l>omnis enim igne sallietur et omnis victima sallietur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.009.049">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>9:49</verseNum>
+      </reference>
+      <l>bonum est sal quod si sal insulsum fuerit in quo illud condietis habete in vobis sal et pacem habete inter vos</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.Mark.010.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>et inde exsurgens venit in fines Iudaeae ultra Iordanen et conveniunt iterum turbae ad eum et sicut consueverat iterum docebat illos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>et accedentes Pharisaei interrogabant eum si licet viro uxorem dimittere temptantes eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>at ille respondens dixit eis quid vobis praecepit Moses</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>qui dixerunt Moses permisit libellum repudii scribere et dimittere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>quibus respondens Iesus ait ad duritiam cordis vestri scripsit vobis praeceptum istud</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>ab initio autem creaturae masculum et feminam fecit eos Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>propter hoc relinquet homo patrem suum et matrem et adherebit ad uxorem suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>et erunt duo in carne una itaque iam non sunt duo sed una caro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>quod ergo Deus iunxit homo non separet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>et in domo iterum discipuli eius de eodem interrogaverunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>et dicit illis quicumque dimiserit uxorem suam et aliam duxerit adulterium committit super eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>et si uxor dimiserit virum suum et alii nupserit moechatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>et offerebant illi parvulos ut tangeret illos discipuli autem comminabantur offerentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:14</verseNum>
+      </reference>
+      <l>quos cum videret Iesus indigne tulit et ait illis sinite parvulos venire ad me et ne prohibueritis eos talium est enim regnum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:15</verseNum>
+      </reference>
+      <l>amen dico vobis quisque non receperit regnum Dei velut parvulus non intrabit in illud</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:16</verseNum>
+      </reference>
+      <l>et conplexans eos et inponens manus super illos benedicebat eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:17</verseNum>
+      </reference>
+      <l>et cum egressus esset in viam procurrens quidam genu flexo ante eum rogabat eum magister bone quid faciam ut vitam aeternam percipiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:18</verseNum>
+      </reference>
+      <l>Iesus autem dixit ei quid me dicis bonum nemo bonus nisi unus Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:19</verseNum>
+      </reference>
+      <l>praecepta nosti ne adulteres ne occidas ne fureris ne falsum testimonium dixeris ne fraudem feceris honora patrem tuum et matrem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:20</verseNum>
+      </reference>
+      <l>et ille respondens ait illi magister omnia haec conservavi a iuventute mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:21</verseNum>
+      </reference>
+      <l>Iesus autem intuitus eum dilexit eum et dixit illi unum tibi deest vade quaecumque habes vende et da pauperibus et habebis thesaurum in caelo et veni sequere me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:22</verseNum>
+      </reference>
+      <l>qui contristatus in verbo abiit maerens erat enim habens possessiones multas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:23</verseNum>
+      </reference>
+      <l>et circumspiciens Iesus ait discipulis suis quam difficile qui pecunias habent in regnum Dei introibunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:24</verseNum>
+      </reference>
+      <l>discipuli autem obstupescebant in verbis eius at Iesus rursus respondens ait illis filioli quam difficile est confidentes in pecuniis regnum Dei introire</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:25</verseNum>
+      </reference>
+      <l>facilius est camelum per foramen acus transire quam divitem intrare in regnum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:26</verseNum>
+      </reference>
+      <l>qui magis admirabantur dicentes ad semet ipsos et quis potest salvus fieri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:27</verseNum>
+      </reference>
+      <l>et intuens illos Iesus ait apud homines inpossibile est sed non apud Deum omnia enim possibilia sunt apud Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:28</verseNum>
+      </reference>
+      <l>coepit Petrus ei dicere ecce nos dimisimus omnia et secuti sumus te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:29</verseNum>
+      </reference>
+      <l>respondens Iesus ait amen dico vobis nemo est qui reliquerit domum aut fratres aut sorores aut matrem aut patrem aut filios aut agros propter me et propter evangelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:30</verseNum>
+      </reference>
+      <l>qui non accipiat centies tantum nunc in tempore hoc domos et fratres et sorores et matres et filios et agros cum persecutionibus et in saeculo futuro vitam aeternam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:31</verseNum>
+      </reference>
+      <l>multi autem erunt primi novissimi et novissimi primi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:32</verseNum>
+      </reference>
+      <l>erant autem in via ascendentes in Hierosolyma et praecedebat illos Iesus et stupebant et sequentes timebant et adsumens iterum duodecim coepit illis dicere quae essent ei ventura</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:33</verseNum>
+      </reference>
+      <l>quia ecce ascendimus in Hierosolyma et Filius hominis tradetur principibus sacerdotum et scribis et senioribus et damnabunt eum morti et tradent eum gentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:34</verseNum>
+      </reference>
+      <l>et inludent ei et conspuent eum et flagellabunt eum et interficient eum et tertia die resurget</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:35</verseNum>
+      </reference>
+      <l>et accedunt ad illum Iacobus et Iohannes filii Zebedaei dicentes magister volumus ut quodcumque petierimus facias nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:36</verseNum>
+      </reference>
+      <l>at ille dixit eis quid vultis ut faciam vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:37</verseNum>
+      </reference>
+      <l>et dixerunt da nobis ut unus ad dexteram tuam et alius ad sinistram tuam sedeamus in gloria tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:38</verseNum>
+      </reference>
+      <l>Iesus autem ait eis nescitis quid petatis potestis bibere calicem quem ego bibo aut baptismum quo ego baptizor baptizari</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:39</verseNum>
+      </reference>
+      <l>at illi dixerunt ei possumus Iesus autem ait eis calicem quidem quem ego bibo bibetis et baptismum quo ego baptizor baptizabimini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:40</verseNum>
+      </reference>
+      <l>sedere autem ad dexteram meam vel ad sinistram non est meum dare sed quibus paratum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.041">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:41</verseNum>
+      </reference>
+      <l>et audientes decem coeperunt indignari de Iacobo et Iohanne</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.042">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:42</verseNum>
+      </reference>
+      <l>Iesus autem vocans eos ait illis scitis quia hii qui videntur principari gentibus dominantur eis et principes eorum potestatem habent ipsorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.043">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:43</verseNum>
+      </reference>
+      <l>non ita est autem in vobis sed quicumque voluerit fieri maior erit vester minister</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.044">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:44</verseNum>
+      </reference>
+      <l>et quicumque voluerit in vobis primus esse erit omnium servus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.045">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:45</verseNum>
+      </reference>
+      <l>nam et Filius hominis non venit ut ministraretur ei sed ut ministraret et daret animam suam redemptionem pro multis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.046">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:46</verseNum>
+      </reference>
+      <l>et veniunt Hierichum et proficiscente eo de Hiericho et discipulis eius et plurima multitudine filius Timei Bartimeus caecus sedebat iuxta viam mendicans</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.047">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:47</verseNum>
+      </reference>
+      <l>qui cum audisset quia Iesus Nazarenus est coepit clamare et dicere Fili David Iesu miserere mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.048">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:48</verseNum>
+      </reference>
+      <l>et comminabantur illi multi ut taceret at ille multo magis clamabat Fili David miserere mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.049">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:49</verseNum>
+      </reference>
+      <l>et stans Iesus praecepit illum vocari et vocant caecum dicentes ei animaequior esto surge vocat te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.050">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:50</verseNum>
+      </reference>
+      <l>qui proiecto vestimento suo exiliens venit ad eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.051">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:51</verseNum>
+      </reference>
+      <l>et respondens illi Iesus dixit quid vis tibi faciam caecus autem dixit ei rabboni ut videam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.010.052">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>10:52</verseNum>
+      </reference>
+      <l>Iesus autem ait illi vade fides tua te salvum fecit et confestim vidit et sequebatur eum in via</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.Mark.011.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>et cum adpropinquarent Hierosolymae et Bethaniae ad montem Olivarum mittit duos ex discipulis suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>et ait illis ite in castellum quod est contra vos et statim introeuntes illuc invenietis pullum ligatum super quem nemo adhuc hominum sedit solvite illum et adducite</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>et si quis vobis dixerit quid facitis dicite quia Domino necessarius est et continuo illum dimittet huc</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>et abeuntes invenerunt pullum ligatum ante ianuam foris in bivio et solvunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>et quidam de illic stantibus dicebant illis quid facitis solventes pullum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>qui dixerunt eis sicut praeceperat illis Iesus et dimiserunt eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>et duxerunt pullum ad Iesum et inponunt illi vestimenta sua et sedit super eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>multi autem vestimenta sua straverunt in via alii autem frondes caedebant de arboribus et sternebant in via</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>et qui praeibant et qui sequebantur clamabant dicentes osanna benedictus qui venit in nomine Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>benedictum quod venit regnum patris nostri David osanna in excelsis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>et introivit Hierosolyma in templum et circumspectis omnibus cum iam vespera esset hora exivit in Bethania cum duodecim</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>et alia die cum exirent a Bethania esuriit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:13</verseNum>
+      </reference>
+      <l>cumque vidisset a longe ficum habentem folia venit si quid forte inveniret in ea et cum venisset ad eam nihil invenit praeter folia non enim erat tempus ficorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:14</verseNum>
+      </reference>
+      <l>et respondens dixit ei iam non amplius in aeternum quisquam fructum ex te manducet et audiebant discipuli eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:15</verseNum>
+      </reference>
+      <l>et veniunt Hierosolymam et cum introisset templum coepit eicere vendentes et ementes in templo et mensas nummulariorum et cathedras vendentium columbas evertit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:16</verseNum>
+      </reference>
+      <l>et non sinebat ut quisquam vas transferret per templum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:17</verseNum>
+      </reference>
+      <l>et docebat dicens eis non scriptum est quia domus mea domus orationis vocabitur omnibus gentibus vos autem fecistis eam speluncam latronum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:18</verseNum>
+      </reference>
+      <l>quo audito principes sacerdotum et scribae quaerebant quomodo eum perderent timebant enim eum quoniam universa turba admirabatur super doctrina eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:19</verseNum>
+      </reference>
+      <l>et cum vespera facta esset egrediebatur de civitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:20</verseNum>
+      </reference>
+      <l>et cum mane transirent viderunt ficum aridam factam a radicibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:21</verseNum>
+      </reference>
+      <l>et recordatus Petrus dicit ei rabbi ecce ficus cui maledixisti aruit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:22</verseNum>
+      </reference>
+      <l>et respondens Iesus ait illis habete fidem Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:23</verseNum>
+      </reference>
+      <l>amen dico vobis quicumque dixerit huic monti tollere et mittere in mare et non haesitaverit in corde suo sed crediderit quia quodcumque dixerit fiat fiet ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:24</verseNum>
+      </reference>
+      <l>propterea dico vobis omnia quaecumque orantes petitis credite quia accipietis et veniet vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:25</verseNum>
+      </reference>
+      <l>et cum stabitis ad orandum dimittite si quid habetis adversus aliquem ut et Pater vester qui in caelis est dimittat vobis peccata vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:26</verseNum>
+      </reference>
+      <l>quod si vos non dimiseritis nec Pater vester qui in caelis est dimittet vobis peccata vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:27</verseNum>
+      </reference>
+      <l>et veniunt rursus Hierosolymam et cum ambularet in templo accedunt ad eum summi sacerdotes et scribae et seniores</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:28</verseNum>
+      </reference>
+      <l>et dicunt illi in qua potestate haec facis et quis tibi dedit hanc potestatem ut ista facias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:29</verseNum>
+      </reference>
+      <l>Iesus autem respondens ait illis interrogabo vos et ego unum verbum et respondete mihi et dicam vobis in qua potestate haec faciam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:30</verseNum>
+      </reference>
+      <l>baptismum Iohannis de caelo erat an ex hominibus respondete mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:31</verseNum>
+      </reference>
+      <l>at illi cogitabant secum dicentes si dixerimus de caelo dicet quare ergo non credidistis ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:32</verseNum>
+      </reference>
+      <l>sed dicemus ex hominibus timebant populum omnes enim habebant Iohannem quia vere propheta esset</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.011.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>11:33</verseNum>
+      </reference>
+      <l>et respondentes dicunt Iesu nescimus respondens Iesus ait illis neque ego dico vobis in qua potestate haec faciam</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.Mark.012.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>et coepit illis in parabolis loqui vineam pastinavit homo et circumdedit sepem et fodit lacum et aedificavit turrem et locavit eam agricolis et peregre profectus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>et misit ad agricolas in tempore servum ut ab agricolis acciperet de fructu vineae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>qui adprehensum eum ceciderunt et dimiserunt vacuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>et iterum misit ad illos alium servum et illum capite vulneraverunt et contumeliis adfecerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>et rursum alium misit et illum occiderunt et plures alios quosdam caedentes alios vero occidentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>adhuc ergo unum habens filium carissimum et illum misit ad eos novissimum dicens quia reverebuntur filium meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>coloni autem dixerunt ad invicem hic est heres venite occidamus eum et nostra erit hereditas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>et adprehendentes eum occiderunt et eiecerunt extra vineam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>quid ergo faciet dominus vineae veniet et perdet colonos et dabit vineam aliis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>nec scripturam hanc legistis lapidem quem reprobaverunt aedificantes hic factus est in caput anguli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>a Domino factum est istud et est mirabile in oculis nostris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>et quaerebant eum tenere et timuerunt turbam cognoverunt enim quoniam ad eos parabolam hanc dixerit et relicto eo abierunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>et mittunt ad eum quosdam ex Pharisaeis et Herodianis ut eum caperent in verbo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>qui venientes dicunt ei magister scimus quoniam verax es et non curas quemquam nec enim vides in faciem hominis sed in veritate viam Dei doces licet dari tributum Caesari an non dabimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:15</verseNum>
+      </reference>
+      <l>qui sciens versutiam eorum ait illis quid me temptatis adferte mihi denarium ut videam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:16</verseNum>
+      </reference>
+      <l>at illi adtulerunt et ait illis cuius est imago haec et inscriptio dicunt illi Caesaris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:17</verseNum>
+      </reference>
+      <l>respondens autem Iesus dixit illis reddite igitur quae sunt Caesaris Caesari et quae sunt Dei Deo et mirabantur super eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:18</verseNum>
+      </reference>
+      <l>et venerunt ad eum Sadducaei qui dicunt resurrectionem non esse et interrogabant eum dicentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:19</verseNum>
+      </reference>
+      <l>magister Moses nobis scripsit ut si cuius frater mortuus fuerit et dimiserit uxorem et filios non reliquerit accipiat frater eius uxorem ipsius et resuscitet semen fratri suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:20</verseNum>
+      </reference>
+      <l>septem ergo fratres erant et primus accepit uxorem et mortuus est non relicto semine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:21</verseNum>
+      </reference>
+      <l>et secundus accepit eam et mortuus est et nec iste reliquit semen et tertius similiter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:22</verseNum>
+      </reference>
+      <l>et acceperunt eam similiter septem et non reliquerunt semen novissima omnium defuncta est et mulier</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:23</verseNum>
+      </reference>
+      <l>in resurrectione ergo cum resurrexerint cuius de his erit uxor septem enim habuerunt eam uxorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:24</verseNum>
+      </reference>
+      <l>et respondens Iesus ait illis non ideo erratis non scientes scripturas neque virtutem Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:25</verseNum>
+      </reference>
+      <l>cum enim a mortuis resurrexerint neque nubent neque nubentur sed sunt sicut angeli in caelis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:26</verseNum>
+      </reference>
+      <l>de mortuis autem quod resurgant non legistis in libro Mosi super rubum quomodo dixerit illi Deus inquiens ego sum Deus Abraham et Deus Isaac et Deus Iacob</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:27</verseNum>
+      </reference>
+      <l>non est Deus mortuorum sed vivorum vos ergo multum erratis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:28</verseNum>
+      </reference>
+      <l>et accessit unus de scribis qui audierat illos conquirentes et videns quoniam bene illis responderit interrogavit eum quod esset primum omnium mandatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:29</verseNum>
+      </reference>
+      <l>Iesus autem respondit ei quia primum omnium mandatum est audi Israhel Dominus Deus noster Deus unus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:30</verseNum>
+      </reference>
+      <l>et diliges Dominum Deum tuum ex toto corde tuo et ex tota anima tua et ex tota mente tua et ex tota virtute tua hoc est primum mandatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:31</verseNum>
+      </reference>
+      <l>secundum autem simile illi diliges proximum tuum tamquam te ipsum maius horum aliud mandatum non est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:32</verseNum>
+      </reference>
+      <l>et ait illi scriba bene magister in veritate dixisti quia unus est et non est alius praeter eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:33</verseNum>
+      </reference>
+      <l>et ut diligatur ex toto corde et ex toto intellectu et ex tota anima et ex tota fortitudine et diligere proximum tamquam se ipsum maius est omnibus holocaustomatibus et sacrificiis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:34</verseNum>
+      </reference>
+      <l>Iesus autem videns quod sapienter respondisset dixit illi non es longe a regno Dei et nemo iam audebat eum interrogare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:35</verseNum>
+      </reference>
+      <l>et respondens Iesus dicebat docens in templo quomodo dicunt scribae Christum Filium esse David</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:36</verseNum>
+      </reference>
+      <l>ipse enim David dicit in Spiritu Sancto dixit Dominus Domino meo sede a dextris meis donec ponam inimicos tuos scabillum pedum tuorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:37</verseNum>
+      </reference>
+      <l>ipse ergo David dicit eum Dominum et unde est filius eius et multa turba eum libenter audivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:38</verseNum>
+      </reference>
+      <l>et dicebat eis in doctrina sua cavete a scribis qui volunt in stolis ambulare et salutari in foro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:39</verseNum>
+      </reference>
+      <l>et in primis cathedris sedere in synagogis et primos discubitus in cenis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:40</verseNum>
+      </reference>
+      <l>qui devorant domos viduarum sub obtentu prolixae orationis hii accipient prolixius iudicium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.041">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:41</verseNum>
+      </reference>
+      <l>et sedens Iesus contra gazofilacium aspiciebat quomodo turba iactaret aes in gazofilacium et multi divites iactabant multa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.042">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:42</verseNum>
+      </reference>
+      <l>cum venisset autem una vidua pauper misit duo minuta quod est quadrans</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.043">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:43</verseNum>
+      </reference>
+      <l>et convocans discipulos suos ait illis amen dico vobis quoniam vidua haec pauper plus omnibus misit qui miserunt in gazofilacium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.012.044">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>12:44</verseNum>
+      </reference>
+      <l>omnes enim ex eo quod abundabat illis miserunt haec vero de penuria sua omnia quae habuit misit totum victum suum</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.Mark.013.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>et cum egrederetur de templo ait illi unus ex discipulis suis magister aspice quales lapides et quales structurae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>et respondens Iesus ait illi vides has omnes magnas aedificationes non relinquetur lapis super lapidem qui non destruatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>et cum sederet in montem Olivarum contra templum interrogabant eum separatim Petrus et Iacobus et Iohannes et Andreas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>dic nobis quando ista fient et quod signum erit quando haec omnia incipient consummari</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>et respondens Iesus coepit dicere illis videte ne quis vos seducat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>multi enim venient in nomine meo dicentes quia ego sum et multos seducent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>cum audieritis autem bella et opiniones bellorum ne timueritis oportet enim fieri sed nondum finis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>exsurget autem gens super gentem et regnum super regnum et erunt terraemotus per loca et fames initium dolorum haec</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>videte autem vosmet ipsos tradent enim vos conciliis et in synagogis vapulabitis et ante praesides et reges stabitis propter me in testimonium illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>et in omnes gentes primum oportet praedicari evangelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>et cum duxerint vos tradentes nolite praecogitare quid loquamini sed quod datum vobis fuerit in illa hora id loquimini non enim estis vos loquentes sed Spiritus Sanctus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>tradet autem frater fratrem in mortem et pater filium et consurgent filii in parentes et morte adficient eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>et eritis odio omnibus propter nomen meum qui autem sustinuerit in finem hic salvus erit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>cum autem videritis abominationem desolationis stantem ubi non debet qui legit intellegat tunc qui in Iudaea sunt fugiant in montes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:15</verseNum>
+      </reference>
+      <l>et qui super tectum ne descendat in domum nec introeat ut tollat quid de domo sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:16</verseNum>
+      </reference>
+      <l>et qui in agro erit non revertatur retro tollere vestimentum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:17</verseNum>
+      </reference>
+      <l>vae autem praegnatibus et nutrientibus in illis diebus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:18</verseNum>
+      </reference>
+      <l>orate vero ut hieme non fiant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:19</verseNum>
+      </reference>
+      <l>erunt enim dies illi tribulationes tales quales non fuerunt ab initio creaturae quam condidit Deus usque nunc neque fient</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:20</verseNum>
+      </reference>
+      <l>et nisi breviasset Dominus dies non fuisset salva omnis caro sed propter electos quos elegit breviavit dies</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:21</verseNum>
+      </reference>
+      <l>et tunc si quis vobis dixerit ecce hic est Christus ecce illic ne credideritis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:22</verseNum>
+      </reference>
+      <l>exsurgent enim pseudochristi et pseudoprophetae et dabunt signa et portenta ad seducendos si potest fieri etiam electos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:23</verseNum>
+      </reference>
+      <l>vos ergo videte ecce praedixi vobis omnia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:24</verseNum>
+      </reference>
+      <l>sed in illis diebus post tribulationem illam sol contenebrabitur et luna non dabit splendorem suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:25</verseNum>
+      </reference>
+      <l>et erunt stellae caeli decidentes et virtutes quae sunt in caelis movebuntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:26</verseNum>
+      </reference>
+      <l>et tunc videbunt Filium hominis venientem in nubibus cum virtute multa et gloria</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:27</verseNum>
+      </reference>
+      <l>et tunc mittet angelos suos et congregabit electos suos a quattuor ventis a summo terrae usque ad summum caeli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:28</verseNum>
+      </reference>
+      <l>a ficu autem discite parabolam cum iam ramus eius tener fuerit et nata fuerint folia cognoscitis quia in proximo sit aestas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:29</verseNum>
+      </reference>
+      <l>sic et vos cum videritis haec fieri scitote quod in proximo sit in ostiis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:30</verseNum>
+      </reference>
+      <l>amen dico vobis quoniam non transiet generatio haec donec omnia ista fiant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:31</verseNum>
+      </reference>
+      <l>caelum et terra transibunt verba autem mea non transibunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:32</verseNum>
+      </reference>
+      <l>de die autem illo vel hora nemo scit neque angeli in caelo neque Filius nisi Pater</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:33</verseNum>
+      </reference>
+      <l>videte vigilate et orate nescitis enim quando tempus sit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:34</verseNum>
+      </reference>
+      <l>sicut homo qui peregre profectus reliquit domum suam et dedit servis suis potestatem cuiusque operis et ianitori praecipiat ut vigilet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:35</verseNum>
+      </reference>
+      <l>vigilate ergo nescitis enim quando dominus domus veniat sero an media nocte an galli cantu an mane</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:36</verseNum>
+      </reference>
+      <l>ne cum venerit repente inveniat vos dormientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.013.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>13:37</verseNum>
+      </reference>
+      <l>quod autem vobis dico omnibus dico vigilate</l>
+    </verse>
+  </chapter>
+  <chapter num="14">
+    <verse type="bible-verse" id="B.Mark.014.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:1</verseNum>
+      </reference>
+      <l>erat autem pascha et azyma post biduum et quaerebant summi sacerdotes et scribae quomodo eum dolo tenerent et occiderent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:2</verseNum>
+      </reference>
+      <l>dicebant enim non in die festo ne forte tumultus fieret populi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:3</verseNum>
+      </reference>
+      <l>et cum esset Bethaniae in domo Simonis leprosi et recumberet venit mulier habens alabastrum unguenti nardi spicati pretiosi et fracto alabastro effudit super caput eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:4</verseNum>
+      </reference>
+      <l>erant autem quidam indigne ferentes intra semet ipsos et dicentes ut quid perditio ista unguenti facta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:5</verseNum>
+      </reference>
+      <l>poterat enim unguentum istud veniri plus quam trecentis denariis et dari pauperibus et fremebant in eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:6</verseNum>
+      </reference>
+      <l>Iesus autem dixit sinite eam quid illi molesti estis bonum opus operata est in me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:7</verseNum>
+      </reference>
+      <l>semper enim pauperes habetis vobiscum et cum volueritis potestis illis benefacere me autem non semper habetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:8</verseNum>
+      </reference>
+      <l>quod habuit haec fecit praevenit unguere corpus meum in sepulturam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:9</verseNum>
+      </reference>
+      <l>amen dico vobis ubicumque praedicatum fuerit evangelium istud in universum mundum et quod fecit haec narrabitur in memoriam eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:10</verseNum>
+      </reference>
+      <l>et Iudas Scariotis unus de duodecim abiit ad summos sacerdotes ut proderet eum illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:11</verseNum>
+      </reference>
+      <l>qui audientes gavisi sunt et promiserunt ei pecuniam se daturos et quaerebat quomodo illum oportune traderet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:12</verseNum>
+      </reference>
+      <l>et primo die azymorum quando pascha immolabant dicunt ei discipuli quo vis eamus et paremus tibi ut manduces pascha</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:13</verseNum>
+      </reference>
+      <l>et mittit duos ex discipulis suis et dicit eis ite in civitatem et occurret vobis homo laguenam aquae baiulans sequimini eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:14</verseNum>
+      </reference>
+      <l>et quocumque introierit dicite domino domus quia magister dicit ubi est refectio mea ubi pascha cum discipulis meis manducem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:15</verseNum>
+      </reference>
+      <l>et ipse vobis demonstrabit cenaculum grande stratum et illic parate nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:16</verseNum>
+      </reference>
+      <l>et abierunt discipuli eius et venerunt in civitatem et invenerunt sicut dixerat illis et praeparaverunt pascha</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:17</verseNum>
+      </reference>
+      <l>vespere autem facto venit cum duodecim</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:18</verseNum>
+      </reference>
+      <l>et discumbentibus eis et manducantibus ait Iesus amen dico vobis quia unus ex vobis me tradet qui manducat mecum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:19</verseNum>
+      </reference>
+      <l>at illi coeperunt contristari et dicere ei singillatim numquid ego</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:20</verseNum>
+      </reference>
+      <l>qui ait illis unus ex duodecim qui intinguit mecum in catino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:21</verseNum>
+      </reference>
+      <l>et Filius quidem hominis vadit sicut scriptum est de eo vae autem homini illi per quem Filius hominis traditur bonum ei si non esset natus homo ille</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:22</verseNum>
+      </reference>
+      <l>et manducantibus illis accepit Iesus panem et benedicens fregit et dedit eis et ait sumite hoc est corpus meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:23</verseNum>
+      </reference>
+      <l>et accepto calice gratias agens dedit eis et biberunt ex illo omnes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:24</verseNum>
+      </reference>
+      <l>et ait illis hic est sanguis meus novi testamenti qui pro multis effunditur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:25</verseNum>
+      </reference>
+      <l>amen dico vobis quod iam non bibam de genimine vitis usque in diem illum cum illud bibam novum in regno Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:26</verseNum>
+      </reference>
+      <l>et hymno dicto exierunt in montem Olivarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:27</verseNum>
+      </reference>
+      <l>et ait eis Iesus omnes scandalizabimini in nocte ista quia scriptum est percutiam pastorem et dispergentur oves</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:28</verseNum>
+      </reference>
+      <l>sed posteaquam resurrexero praecedam vos in Galilaeam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:29</verseNum>
+      </reference>
+      <l>Petrus autem ait ei et si omnes scandalizati fuerint sed non ego</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:30</verseNum>
+      </reference>
+      <l>et ait illi Iesus amen dico tibi quia tu hodie in nocte hac priusquam bis gallus vocem dederit ter me es negaturus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:31</verseNum>
+      </reference>
+      <l>at ille amplius loquebatur et si oportuerit me simul conmori tibi non te negabo similiter autem et omnes dicebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:32</verseNum>
+      </reference>
+      <l>et veniunt in praedium cui nomen Gethsemani et ait discipulis suis sedete hic donec orem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:33</verseNum>
+      </reference>
+      <l>et adsumit Petrum et Iacobum et Iohannem secum et coepit pavere et taedere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:34</verseNum>
+      </reference>
+      <l>et ait illis tristis est anima mea usque ad mortem sustinete hic et vigilate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:35</verseNum>
+      </reference>
+      <l>et cum processisset paululum procidit super terram et orabat ut si fieri posset transiret ab eo hora</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:36</verseNum>
+      </reference>
+      <l>et dixit Abba Pater omnia possibilia tibi sunt transfer calicem hunc a me sed non quod ego volo sed quod tu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:37</verseNum>
+      </reference>
+      <l>et venit et invenit eos dormientes et ait Petro Simon dormis non potuisti una hora vigilare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:38</verseNum>
+      </reference>
+      <l>vigilate et orate ut non intretis in temptationem spiritus quidem promptus caro vero infirma</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:39</verseNum>
+      </reference>
+      <l>et iterum abiens oravit eundem sermonem dicens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:40</verseNum>
+      </reference>
+      <l>et reversus denuo invenit eos dormientes erant enim oculi illorum ingravati et ignorabant quid responderent ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.041">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:41</verseNum>
+      </reference>
+      <l>et venit tertio et ait illis dormite iam et requiescite sufficit venit hora ecce traditur Filius hominis in manus peccatorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.042">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:42</verseNum>
+      </reference>
+      <l>surgite eamus ecce qui me tradit prope est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.043">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:43</verseNum>
+      </reference>
+      <l>et adhuc eo loquente venit Iudas Scarioth unus ex duodecim et cum illo turba cum gladiis et lignis a summis sacerdotibus et a scribis et a senioribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.044">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:44</verseNum>
+      </reference>
+      <l>dederat autem traditor eius signum eis dicens quemcumque osculatus fuero ipse est tenete eum et ducite</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.045">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:45</verseNum>
+      </reference>
+      <l>et cum venisset statim accedens ad eum ait rabbi et osculatus est eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.046">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:46</verseNum>
+      </reference>
+      <l>at illi manus iniecerunt in eum et tenuerunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.047">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:47</verseNum>
+      </reference>
+      <l>unus autem quidam de circumstantibus educens gladium percussit servum summi sacerdotis et amputavit illi auriculam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.048">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:48</verseNum>
+      </reference>
+      <l>et respondens Iesus ait illis tamquam ad latronem existis cum gladiis et lignis conprehendere me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.049">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:49</verseNum>
+      </reference>
+      <l>cotidie eram apud vos in templo docens et non me tenuistis sed ut adimpleantur scripturae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.050">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:50</verseNum>
+      </reference>
+      <l>tunc discipuli eius relinquentes eum omnes fugerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.051">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:51</verseNum>
+      </reference>
+      <l>adulescens autem quidam sequebatur illum amictus sindone super nudo et tenuerunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.052">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:52</verseNum>
+      </reference>
+      <l>at ille reiecta sindone nudus profugit ab eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.053">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:53</verseNum>
+      </reference>
+      <l>et adduxerunt Iesum ad summum sacerdotem et conveniunt omnes sacerdotes et scribae et seniores</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.054">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:54</verseNum>
+      </reference>
+      <l>Petrus autem a longe secutus est eum usque intro in atrium summi sacerdotis et sedebat cum ministris et calefaciebat se ad ignem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.055">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:55</verseNum>
+      </reference>
+      <l>summi vero sacerdotes et omne concilium quaerebant adversum Iesum testimonium ut eum morti traderent nec inveniebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.056">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:56</verseNum>
+      </reference>
+      <l>multi enim testimonium falsum dicebant adversus eum et convenientia testimonia non erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.057">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:57</verseNum>
+      </reference>
+      <l>et quidam surgentes falsum testimonium ferebant adversus eum dicentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.058">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:58</verseNum>
+      </reference>
+      <l>quoniam nos audivimus eum dicentem ego dissolvam templum hoc manufactum et per triduum aliud non manufactum aedificabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.059">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:59</verseNum>
+      </reference>
+      <l>et non erat conveniens testimonium illorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.060">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:60</verseNum>
+      </reference>
+      <l>et exsurgens summus sacerdos in medium interrogavit Iesum dicens non respondes quicquam ad ea quae tibi obiciuntur ab his</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.061">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:61</verseNum>
+      </reference>
+      <l>ille autem tacebat et nihil respondit rursum summus sacerdos interrogabat eum et dicit ei tu es Christus Filius Benedicti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.062">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:62</verseNum>
+      </reference>
+      <l>Iesus autem dixit illi ego sum et videbitis Filium hominis a dextris sedentem Virtutis et venientem cum nubibus caeli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.063">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:63</verseNum>
+      </reference>
+      <l>summus autem sacerdos scindens vestimenta sua ait quid adhuc desideramus testes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.064">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:64</verseNum>
+      </reference>
+      <l>audistis blasphemiam quid vobis videtur qui omnes condemnaverunt eum esse reum mortis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.065">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:65</verseNum>
+      </reference>
+      <l>et coeperunt quidam conspuere eum et velare faciem eius et colaphis eum caedere et dicere ei prophetiza et ministri alapis eum caedebant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.066">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:66</verseNum>
+      </reference>
+      <l>et cum esset Petrus in atrio deorsum venit una ex ancillis summi sacerdotis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.067">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:67</verseNum>
+      </reference>
+      <l>et cum vidisset Petrum calefacientem se aspiciens illum ait et tu cum Iesu Nazareno eras</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.068">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:68</verseNum>
+      </reference>
+      <l>at ille negavit dicens neque scio neque novi quid dicas et exiit foras ante atrium et gallus cantavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.069">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:69</verseNum>
+      </reference>
+      <l>rursus autem cum vidisset illum ancilla coepit dicere circumstantibus quia hic ex illis est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.070">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:70</verseNum>
+      </reference>
+      <l>at ille iterum negavit et post pusillum rursus qui adstabant dicebant Petro vere ex illis es nam et Galilaeus es</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.071">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:71</verseNum>
+      </reference>
+      <l>ille autem coepit anathematizare et iurare quia nescio hominem istum quem dicitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.014.072">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>14:72</verseNum>
+      </reference>
+      <l>et statim iterum gallus cantavit et recordatus est Petrus verbi quod dixerat ei Iesus priusquam gallus cantet bis ter me negabis et coepit flere</l>
+    </verse>
+  </chapter>
+  <chapter num="15">
+    <verse type="bible-verse" id="B.Mark.015.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:1</verseNum>
+      </reference>
+      <l>et confestim mane consilium facientes summi sacerdotes cum senioribus et scribis et universo concilio vincientes Iesum duxerunt et tradiderunt Pilato</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:2</verseNum>
+      </reference>
+      <l>et interrogavit eum Pilatus tu es rex Iudaeorum at ille respondens ait illi tu dicis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:3</verseNum>
+      </reference>
+      <l>et accusabant eum summi sacerdotes in multis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:4</verseNum>
+      </reference>
+      <l>Pilatus autem rursum interrogavit eum dicens non respondes quicquam vide in quantis te accusant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:5</verseNum>
+      </reference>
+      <l>Iesus autem amplius nihil respondit ita ut miraretur Pilatus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:6</verseNum>
+      </reference>
+      <l>per diem autem festum dimittere solebat illis unum ex vinctis quemcumque petissent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:7</verseNum>
+      </reference>
+      <l>erat autem qui dicebatur Barabbas qui cum seditiosis erat vinctus qui in seditione fecerant homicidium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:8</verseNum>
+      </reference>
+      <l>et cum ascendisset turba coepit rogare sicut semper faciebat illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:9</verseNum>
+      </reference>
+      <l>Pilatus autem respondit eis et dixit vultis dimittam vobis regem Iudaeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:10</verseNum>
+      </reference>
+      <l>sciebat enim quod per invidiam tradidissent eum summi sacerdotes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:11</verseNum>
+      </reference>
+      <l>pontifices autem concitaverunt turbam ut magis Barabban dimitteret eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:12</verseNum>
+      </reference>
+      <l>Pilatus autem iterum respondens ait illis quid ergo vultis faciam regi Iudaeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:13</verseNum>
+      </reference>
+      <l>at illi iterum clamaverunt crucifige eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:14</verseNum>
+      </reference>
+      <l>Pilatus vero dicebat eis quid enim mali fecit at illi magis clamabant crucifige eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:15</verseNum>
+      </reference>
+      <l>Pilatus autem volens populo satisfacere dimisit illis Barabban et tradidit Iesum flagellis caesum ut crucifigeretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:16</verseNum>
+      </reference>
+      <l>milites autem duxerunt eum intro in atrium praetorii et convocant totam cohortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:17</verseNum>
+      </reference>
+      <l>et induunt eum purpuram et inponunt ei plectentes spineam coronam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:18</verseNum>
+      </reference>
+      <l>et coeperunt salutare eum have rex Iudaeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:19</verseNum>
+      </reference>
+      <l>et percutiebant caput eius harundine et conspuebant eum et ponentes genua adorabant eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:20</verseNum>
+      </reference>
+      <l>et postquam inluserunt ei exuerunt illum purpuram et induerunt eum vestimentis suis et educunt illum ut crucifigerent eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.021">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:21</verseNum>
+      </reference>
+      <l>et angariaverunt praetereuntem quempiam Simonem Cyreneum venientem de villa patrem Alexandri et Rufi ut tolleret crucem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.022">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:22</verseNum>
+      </reference>
+      <l>et perducunt illum in Golgotha locum quod est interpretatum Calvariae locus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.023">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:23</verseNum>
+      </reference>
+      <l>et dabant ei bibere murratum vinum et non accepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.024">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:24</verseNum>
+      </reference>
+      <l>et crucifigentes eum diviserunt vestimenta eius mittentes sortem super eis quis quid tolleret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.025">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:25</verseNum>
+      </reference>
+      <l>erat autem hora tertia et crucifixerunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.026">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:26</verseNum>
+      </reference>
+      <l>et erat titulus causae eius inscriptus rex Iudaeorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.027">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:27</verseNum>
+      </reference>
+      <l>et cum eo crucifigunt duos latrones unum a dextris et alium a sinistris eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.028">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:28</verseNum>
+      </reference>
+      <l>et adimpleta est scriptura quae dicit et cum iniquis reputatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.029">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:29</verseNum>
+      </reference>
+      <l>et praetereuntes blasphemabant eum moventes capita sua et dicentes va qui destruit templum et in tribus diebus aedificat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.030">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:30</verseNum>
+      </reference>
+      <l>salvum fac temet ipsum descendens de cruce</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.031">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:31</verseNum>
+      </reference>
+      <l>similiter et summi sacerdotes ludentes ad alterutrum cum scribis dicebant alios salvos fecit se ipsum non potest salvum facere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.032">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:32</verseNum>
+      </reference>
+      <l>Christus rex Israhel descendat nunc de cruce ut videamus et credamus et qui cum eo crucifixi erant conviciabantur ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.033">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:33</verseNum>
+      </reference>
+      <l>et facta hora sexta tenebrae factae sunt per totam terram usque in horam nonam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.034">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:34</verseNum>
+      </reference>
+      <l>et hora nona exclamavit Iesus voce magna dicens Heloi Heloi lama sabacthani quod est interpretatum Deus meus Deus meus ut quid dereliquisti me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.035">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:35</verseNum>
+      </reference>
+      <l>et quidam de circumstantibus audientes dicebant ecce Heliam vocat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.036">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:36</verseNum>
+      </reference>
+      <l>currens autem unus et implens spongiam aceto circumponensque calamo potum dabat ei dicens sinite videamus si veniat Helias ad deponendum eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.037">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:37</verseNum>
+      </reference>
+      <l>Iesus autem emissa voce magna exspiravit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.038">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:38</verseNum>
+      </reference>
+      <l>et velum templi scissum est in duo a sursum usque deorsum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.039">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:39</verseNum>
+      </reference>
+      <l>videns autem centurio qui ex adverso stabat quia sic clamans exspirasset ait vere homo hic Filius Dei erat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.040">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:40</verseNum>
+      </reference>
+      <l>erant autem et mulieres de longe aspicientes inter quas et Maria Magdalene et Maria Iacobi minoris et Ioseph mater et Salome</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.041">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:41</verseNum>
+      </reference>
+      <l>et cum esset in Galilaea sequebantur eum et ministrabant ei et aliae multae quae simul cum eo ascenderant Hierosolyma</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.042">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:42</verseNum>
+      </reference>
+      <l>et cum iam sero esset factum quia erat parasceve quod est ante sabbatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.043">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:43</verseNum>
+      </reference>
+      <l>venit Ioseph ab Arimathia nobilis decurio qui et ipse erat expectans regnum Dei et audacter introiit ad Pilatum et petiit corpus Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.044">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:44</verseNum>
+      </reference>
+      <l>Pilatus autem mirabatur si iam obisset et accersito centurione interrogavit eum si iam mortuus esset</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.045">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:45</verseNum>
+      </reference>
+      <l>et cum cognovisset a centurione donavit corpus Ioseph</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.046">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:46</verseNum>
+      </reference>
+      <l>Ioseph autem mercatus sindonem et deponens eum involvit sindone et posuit eum in monumento quod erat excisum de petra et advolvit lapidem ad ostium monumenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.015.047">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>15:47</verseNum>
+      </reference>
+      <l>Maria autem Magdalene et Maria Ioseph aspiciebant ubi poneretur</l>
+    </verse>
+  </chapter>
+  <chapter num="16">
+    <verse type="bible-verse" id="B.Mark.016.001">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:1</verseNum>
+      </reference>
+      <l>et cum transisset sabbatum Maria Magdalene et Maria Iacobi et Salome emerunt aromata ut venientes unguerent eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.002">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:2</verseNum>
+      </reference>
+      <l>et valde mane una sabbatorum veniunt ad monumentum orto iam sole</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.003">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:3</verseNum>
+      </reference>
+      <l>et dicebant ad invicem quis revolvet nobis lapidem ab ostio monumenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.004">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:4</verseNum>
+      </reference>
+      <l>et respicientes vident revolutum lapidem erat quippe magnus valde</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.005">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:5</verseNum>
+      </reference>
+      <l>et introeuntes in monumento viderunt iuvenem sedentem in dextris coopertum stola candida et obstipuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.006">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:6</verseNum>
+      </reference>
+      <l>qui dicit illis nolite expavescere Iesum quaeritis Nazarenum crucifixum surrexit non est hic ecce locus ubi posuerunt eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.007">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:7</verseNum>
+      </reference>
+      <l>sed ite et dicite discipulis eius et Petro quia praecedit vos in Galilaeam ibi eum videbitis sicut dixit vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.008">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:8</verseNum>
+      </reference>
+      <l>at illae exeuntes fugerunt de monumento invaserat enim eas tremor et pavor et nemini quicquam dixerunt timebant enim</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.009">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:9</verseNum>
+      </reference>
+      <l>surgens autem mane prima sabbati apparuit primo Mariae Magdalenae de qua eiecerat septem daemonia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.010">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:10</verseNum>
+      </reference>
+      <l>illa vadens nuntiavit his qui cum eo fuerant lugentibus et flentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.011">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:11</verseNum>
+      </reference>
+      <l>et illi audientes quia viveret et visus esset ab ea non crediderunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.012">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:12</verseNum>
+      </reference>
+      <l>post haec autem duobus ex eis ambulantibus ostensus est in alia effigie euntibus in villam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.013">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:13</verseNum>
+      </reference>
+      <l>et illi euntes nuntiaverunt ceteris nec illis crediderunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.014">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:14</verseNum>
+      </reference>
+      <l>novissime recumbentibus illis undecim apparuit et exprobravit incredulitatem illorum et duritiam cordis quia his qui viderant eum resurrexisse non crediderant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.015">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:15</verseNum>
+      </reference>
+      <l>et dixit eis euntes in mundum universum praedicate evangelium omni creaturae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.016">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:16</verseNum>
+      </reference>
+      <l>qui crediderit et baptizatus fuerit salvus erit qui vero non crediderit condemnabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.017">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:17</verseNum>
+      </reference>
+      <l>signa autem eos qui crediderint haec sequentur in nomine meo daemonia eicient linguis loquentur novis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.018">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:18</verseNum>
+      </reference>
+      <l>serpentes tollent et si mortiferum quid biberint non eos nocebit super aegrotos manus inponent et bene habebunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.019">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:19</verseNum>
+      </reference>
+      <l>et Dominus quidem postquam locutus est eis adsumptus est in caelum et sedit a dextris Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Mark.016.020">
+      <reference>
+        <bookName>Mark</bookName>
+        <verseNum>16:20</verseNum>
+      </reference>
+      <l>illi autem profecti praedicaverunt ubique Domino cooperante et sermonem confirmante sequentibus signis</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Mark.colophon.001">
+    <reference>
+      <bookName>Mark</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EVANGELIUM SECUNDUM MARCUM</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

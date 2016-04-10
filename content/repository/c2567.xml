@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2566" nextid="c2568" id="c2567">
+   <header>
+      <usage ms="Ely" code="01041000">[14v] sext</usage>
+      <usage ms="Pet" code="01041000">[11r] matins-n3</usage>
+      <usage ms="Wcb" code="01041000">[48v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E Ely Wcb Pet">
+      <app>
+         <rdg wit="Ely Wcb Pet"> Ego baptizavi vos aqua</rdg>
+         <rdg wit="CAO-C"> Ego baptizavi vos in aqua</rdg>
+         <rdg wit="CAO-E"> Ego baptizo vos aqua</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Wcb Pet"> ille baptizabit vos spiritu sancto alleluia</rdg>
+         <rdg wit="CAO-C"> ille baptizavit vos spiritu sancto alleluia</rdg>
+         <rdg wit="CAO-E"> ille vero baptizabit vos spiritu sancto alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8582" nextid="c8584" id="c8583">
+   <header>
+      <usage ms="Ely" code="02122400">[15v] matins inv</usage>
+      <usage ms="Evm" code="02122400">[30r] matins inv</usage>
+      <usage ms="Hyd" code="02122400">[16r] matins inv</usage>
+      <usage ms="Mch" code="02122400">[21v] matins inv</usage>
+      <usage ms="Pet" code="02122400">[13v] matins inv</usage>
+      <usage ms="Wcb" code="02122400">[51v] matins inv</usage>
+   </header>
+   <aBody wit="Hyd Evm Wcb Mch Ely Pet"> Praestolantes redemptorem levate capita vestra quoniam prope est redemptio vestra</aBody>
+</ant>

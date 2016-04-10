@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1747" nextid="o1749" id="o1748">
+   <header>
+      <usage ms="Alb2" code="01036000">[17r] lauds</usage>
+      <usage ms="Bat" code="01036000">[11r] lauds</usage>
+      <usage ms="Cdm" code="01036000">[17r] lauds</usage>
+      <usage ms="Ely" code="01036000">[13r] lauds</usage>
+      <usage ms="Evm" code="01036009">[21r] lauds</usage>
+      <usage ms="Mch" code="01036000">[15r] lauds</usage>
+      <usage ms="Wcb" code="01046000">[51r] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.794</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Evm Mch Cdm Ely Wcb Bat"> Excita quaesumus domine potentiam tuam et veni ut hii qui in tua pietate confidunt ab omni citius adversitate liberentur</pBody>
+</prayer>

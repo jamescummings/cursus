@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4371" nextid="c4373" id="c4372">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> Pretiosa sunt Thebaeorum martyrum vulnera</rdg>
+         <rdg wit="CAO-C"> Pretiosa sunt Thebaeorum martyrum vulnerata</rdg>
+         <rdg wit="CAO-D"> Pretiosa sunt Thebaeorum corpora vulnerata</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> sancti Mauritii cum sociis suis</rdg>
+         <rdg wit="CAO-D"> sancti Mauritii sociorumque eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F"> qui sub Maximiano</rdg>
+         <rdg wit="CAO-M"> qui et sub Maximiano</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> mortem decreverunt suscipere</rdg>
+         <rdg wit="CAO-D"> morte decreverunt suscipere</rdg>
+      </app>
+   </aBody>
+</ant>

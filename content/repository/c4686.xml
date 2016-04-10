@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4685" nextid="c4687" id="c4686">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Salva nos Christe salvator
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-S CAO-L"> per virtutem crucis</rdg>
+         <rdg wit="CAO-V CAO-D CAO-F"> per virtutem sanctae crucis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> qui salvasti Petrum in mari</rdg>
+         <rdg wit="CAO-D CAO-F"> qui salvasti Petrum in mare</rdg>
+      </app> miserere nobis</aBody>
+</ant>

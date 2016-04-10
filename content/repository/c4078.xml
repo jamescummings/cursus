@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4077" nextid="c4079" id="c4078">
+   <header>
+      <usage ms="Alb2" code="01048010">[22r] </usage>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="01048010">[15v] </usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="01048000">[21r] </usage>
+      <usage ms="Pet" code="01048010">[12v] </usage>
+      <usage ms="Wcb" code="01048010">[49v] </usage>
+      <usage ms="Wor" code="01048010">[11r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Mch Cdm Ely Wor Wcb Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Mch Cdm Ely Wor Wcb Pet"> O rex gentium et desideratus earum</rdg>
+         <rdg wit="CAO-S"> O rex gentium et desideratus eorum</rdg>
+      </app> lapisque angularis qui facis utraque unum veni salva hominem quem de limo formasti</aBody>
+</ant>

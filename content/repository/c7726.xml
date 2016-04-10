@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7725" nextid="c7727" id="c7726">
+   <rBody wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F"> Super salutem et omnem pulchritudinem dilecta es a domino
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-D CAO-F"> et regina caelorum</rdg>
+         <rdg wit="CAO-C"> et regna caelorum</rdg>
+         <rdg wit="CAO-R"> et regina caelestis</rdg>
+      </app> vocari digna es
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F"> gaudent chori angelorum</rdg>
+         <rdg wit="CAO-C"> gaudet chorus angelorum</rdg>
+      </app> consortes et concives
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> tui</rdg>
+         <rdg wit="CAO-C CAO-F"> nostri</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H"> Paradisi porta per Evam cunctis clausa est et per Mariam virginem iterum patefacta est</vBody>
+      <vBody type="r" wit="CAO-F"> Sola namque sine exemplo placuisti femina Christo</vBody>
+      <vBody type="r" wit="CAO-R"> Specie tua</vBody>
+      <vBody type="r" wit="CAO-C"> Valde eam nobis oportet venerari quae nunc sancta et intacta virgo</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-H CAO-R CAO-D">Gaudent</rep>
+      <rep type="r" wit="CAO-F">Et regina</rep>
+   </verses>
+</res>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4968" nextid="c4970" id="c4969">
+   <header>
+      <usage ms="Alb2" code="01017000">[7r] lauds gosp</usage>
+      <usage ms="Bat" code="01017000">[5v] lauds gosp</usage>
+      <usage ms="Cdm" code="01017000">[11v] lauds gosp</usage>
+      <usage ms="Ely" code="01017000">[6v] ?</usage>
+      <usage ms="Evm" code="01017000">[12v] commemoration</usage>
+      <usage ms="Evm" code="01035009">[20r] lauds-a5</usage>
+      <usage ms="Glo" code="01017000">[12r] lauds gosp</usage>
+      <usage ms="Mch" code="01017000">[6r] lauds gosp</usage>
+      <usage ms="Wor" code="01017000">[4v] lauds-a1</usage>
+      <usage ms="Wor" code="01045000">[10r] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Ely Wor Glo Bat"> Sion noli timere ecce deus tuus veniet alleluia</aBody>
+</ant>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6363" nextid="c6365" id="c6364">
+   <header>
+      <usage ms="Bat" code="02122600">[19v] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-F CAO-L Bat">
+      <app>
+         <rdg wit="CAO-F Bat"> Cum esset plenus spiritu sancto</rdg>
+         <rdg wit="CAO-L"> Cum autem esset plenus spiritu sancto</rdg>
+      </app> beatus Stephanus intendens in caelum vidit gloriam dei et Jesum stantem
+      <app>
+         <rdg wit="CAO-L Bat"> a dextris dei</rdg>
+         <rdg wit="CAO-F"> ad dextris dei</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-L Bat">
+         <app>
+            <rdg wit="CAO-F Bat"> Et clamans voce magna</rdg>
+            <rdg wit="CAO-L"> Exclamans voce magna</rdg>
+         </app> dixit ecce video caelos apertos</vBody>
+      <rep type="r" wit="CAO-F CAO-L Bat">Et Jesum</rep>
+   </verses>
+</res>

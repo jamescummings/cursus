@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7471" nextid="c7473" id="c7472">
+   <rBody wit="CAO-E CAO-V CAO-L"> Qui cognoscis omnium occulta a delicto meo munda me tempus mihi concede
+     <app>
+         <rdg wit="CAO-L"> ut repaenitens clamem</rdg>
+         <rdg wit="CAO-V"> ut paenitens clamet</rdg>
+         <rdg wit="CAO-E"> ut repaeniteam et plangam</rdg>
+      </app> peccavi miserere mei deus</rBody>
+   <verses>
+      <vBody id="c7472-1" type="r" wit="CAO-V"> Averte faciem tuam a peccatis meis et omnes iniquitates meas dele</vBody>
+      <rep corresp="c7472-1" type="r" wit="CAO-V">Tempus</rep>
+      <vBody id="c7472-2" type="r" wit="CAO-L"> Peccavi tibi deus mea obsecro dele delicta</vBody>
+      <rep corresp="c7472-2" type="r" wit="CAO-L">Miserere</rep>
+      <vBody id="c7472-3" type="r" wit="CAO-E"> Quoniam iniquitatem ego agnosco et delictum meum coram me est semper</vBody>
+      <rep corresp="c7472-3" type="r" wit="CAO-E">Tempus</rep>
+      <vBody id="c7472-4" type="r" num="2" wit="CAO-L"> Tu dixisti peccatoris nolo mortem sed ut convertatur et vivat</vBody>
+      <rep corresp="c7472-4" type="r" wit="CAO-L">Peccavi</rep>
+   </verses>
+</res>

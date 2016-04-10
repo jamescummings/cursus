@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1767" nextid="c1769" id="c1768">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+      <usage ms="Alb2" code="02011300"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Alb2 Hyd Pet"> Caput draconis salvator contrivit</rdg>
+         <rdg wit="CAO-V"> Caput draconis salvator contremuit</rdg>
+         <rdg wit="CAO-M CAO-H CAO-L"> Caput draconis salvator conteruit</rdg>
+      </app> in Jordane flumine ab eius potestate omnes
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-D CAO-F CAO-S Alb2 Hyd Pet"> eripuit</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R"> eripiens</rdg>
+         <rdg wit="CAO-L"> eripiemur</rdg>
+      </app>
+   </aBody>
+</ant>

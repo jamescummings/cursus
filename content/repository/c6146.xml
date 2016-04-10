@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6145" nextid="c6147" id="c6146">
+   <rBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Audiens Christi confessor trium juvenum
+      <app>
+         <rdg wit="CAO-B"> innocentium</rdg>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F CAO-L"> innocentum</rdg>
+         <rdg wit="CAO-S"> innnocentem</rdg>
+      </app> necem praecucurrit
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-F CAO-L"> quantocius</rdg>
+         <rdg wit="CAO-B CAO-D"> quanto eius</rdg>
+         <rdg wit="CAO-S"> quam totius</rdg>
+      </app> ad locum quo fuerant plectendi et liberavit eos</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Statimque solutos a vinculis usque ad praetorium consulis secum adduxit</vBody>
+      <rep type="r" wit="CAO-R CAO-D CAO-F CAO-S CAO-L">Et</rep>
+      <rep type="r" wit="CAO-B CAO-E"> Quo</rep>
+   </verses>
+</res>

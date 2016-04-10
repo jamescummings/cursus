@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1661" nextid="o1663" id="o1662">
+   <header>
+      <usage ms="Cdm" code="02122500">[24r] commemoration</usage>
+      <usage ms="Alb2" code="02122500">[30r] commemoration</usage>
+      <usage ms="Bat" code="02122500">[18v] commemoration</usage>
+      <usage ms="Evm" code="02122500">[38r] commemoration</usage>
+      <usage ms="Hyd" code="02122500"/>
+      <usage ms="Wcb" code="02122500">[58r] commemoration</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.62</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Wcb Bat Cdm"> Da nobis quaesumus domine imitari quod colimus ut discamus et inimicos diligere quia eius natalitia celebramus qui novit etiam pro persecutoribus exorare</pBody>
+</prayer>

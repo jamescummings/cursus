@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6626" nextid="c6628" id="c6627">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Ego dixi domine miserere mei sana animam meam quia peccavi tibi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S"> Domine ne in ira tua arguas me neque in furore tuo corripias me</vBody>
+      <vBody type="r" wit="CAO-D Hyd"> Tu autem domine miserere mei et resuscita ma</vBody>
+      <rep type="r" wit="CAO-R"> Quia</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S Hyd"> Sana</rep>
+   </verses>
+</res>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1564" nextid="o1566" id="o1565">
+   <header>
+      <usage ms="Alb2" code="07054000">[102r] vesp2</usage>
+      <usage ms="Cht" code="07054000">[51v] vesp2</usage>
+      <usage ms="Ely" code="07054000">[83v] vesp2</usage>
+      <usage ms="Hyd" code="07054000">[88v] vesp2</usage>
+   </header>
+   <pBody wit="Ely Cht Hyd Alb2">
+      <app>
+         <rdg wit="Ely"> Adveniat domine quaesumus misericordia sperata supplicibus</rdg>
+         <rdg wit="Alb2"> Adveniat quaesumus domine misericordia sperata supplicibus</rdg>
+         <rdg wit="Cht Hyd"> Adveniat quaesumus domine misericordia tua supplicibus</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely"> et eis caelestis</rdg>
+         <rdg wit="Cht Hyd Alb2"> et eis caelesti</rdg>
+      </app> munificentia tribuatur quatenus et recta petenda postulent et postulata percipiant</pBody>
+</prayer>

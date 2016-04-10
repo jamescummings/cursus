@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7848" nextid="c7850" id="c7849">
+   <rBody wit="CAO-C CAO-F"> Via recta orientis tramite ab eius cella in caelum usque tendebatur
+     <app>
+         <rdg wit="CAO-F"> cui venerando habitu</rdg>
+         <rdg wit="CAO-C"> cui veneranda habita</rdg>
+      </app> vir desuper clarus assistens
+     <app>
+         <rdg wit="CAO-F"> cuius esset via quam cernerent inquisivit</rdg>
+         <rdg wit="CAO-C"> cui esset via qua cernerent discipulis inquisivit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> illi autem se nescire professi sunt</rdg>
+         <rdg wit="CAO-C"> ipsi vero nescire se professi sunt</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F"> Quibus ipse ait haec est via qua dilectus domini Benedictus caelum ascendit</vBody>
+      <rep type="r" wit="CAO-F">Illi</rep>
+   </verses>
+</res>

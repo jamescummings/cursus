@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4520" nextid="c4522" id="c4521">
+   <header>
+      <usage ms="Hyd" code="05021000"/>
+      <usage ms="Pet" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-H CAO-R CAO-D Hyd Pet"> Quid est quod me quaerebatis
+     <app>
+         <rdg wit="CAO-D Hyd Pet"> nesciebatis</rdg>
+         <rdg wit="CAO-H CAO-R"> en nesciebatis</rdg>
+      </app> quia in his quae patris mei sunt oportet me esse alleluia</aBody>
+</ant>

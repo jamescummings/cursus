@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8585" nextid="c8587" id="c8586">
+   <header>
+      <usage ms="Evm" code="02122500">[32v] matins-n1-a4</usage>
+      <usage ms="Hyd" code="02122500">[17v] matins-n1-a4</usage>
+      <usage ms="Pet" code="02122500">[15r] matins-n1-a4</usage>
+      <usage ms="Wcb" code="02122500">[53v] matins-n1-a4</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. c4746 (CAO-F for Dedication)</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Hyd Wcb Pet"> Sanctificavit tabernaculum suum altissimus alleluia</aBody>
+</ant>

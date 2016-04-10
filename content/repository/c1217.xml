@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1216" nextid="c1218" id="c1217">
+   <header>
+      <usage ms="Cdm" code="07041000">[68v] terce</usage>
+      <usage ms="Cht" code="07041000">[42v] sext</usage>
+      <usage ms="Ely" code="07041000">[78v] sext</usage>
+      <usage ms="Evm" code="07041000">[129v] terce</usage>
+      <usage ms="Glo" code="07041000">[68r] terce</usage>
+      <usage ms="Hyd" code="07041000">[83r] sext</usage>
+      <usage ms="Pet" code="07041000"/>
+      <usage ms="Wcb" code="07041000">[105v] terce</usage>
+      <usage ms="Wor" code="07041000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">cf. c8512</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-R CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm">
+      <app>
+         <rdg wit="CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm"> Accepit ergo Jesus panes</rdg>
+         <rdg wit="CAO-C"> Accepit Jesus panes</rdg>
+         <rdg wit="CAO-R"> Accepit panes Jesus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-F Ely Wor Hyd Pet Evm Wcb Glo Cdm"> et cum gratias egisset</rdg>
+         <rdg wit="Cht"> et cum gratias <sic resp="DC">eiecisset</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R Ely Wor Cht Hyd Pet Cdm"> distribuit discumbentibus similiter et ex piscibus quantum volebant</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F Evm Wcb Glo"> distribuit discumbentibus</rdg>
+      </app>
+   </aBody>
+</ant>

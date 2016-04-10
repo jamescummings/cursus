@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6276" nextid="c6278" id="c6277">
+   <rBody wit="CAO-E CAO-D CAO-F">
+      <verse type="stanza">
+         <l part="N">Christi miles pretiosus
+        <app>
+               <rdg wit="CAO-D CAO-F"> levita Vincentius</rdg>
+               <rdg wit="CAO-E"> Vincentius</rdg>
+            </app>
+         </l>
+         <l part="N">Ut tribunal sponte rogum conscendit intrepidus</l>
+         <l part="N">cuius salis
+        <app>
+               <rdg wit="CAO-E CAO-F"> crepitantis</rdg>
+               <rdg wit="CAO-D"> trepitantis</rdg>
+            </app> per corpus minutiae</l>
+         <l part="N">Sparsim ibant atque prunae
+        <app>
+               <rdg wit="CAO-E CAO-D CAO-F"> vernabantur</rdg>
+               <rdg wit="CAO-D"> vernebatur</rdg>
+            </app> sanguine</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F">
+         <verse type="stanza">
+            <l part="N">Inter haec manet immotus ille Dei
+         <app>
+                  <rdg wit="CAO-E CAO-D"> famulus</rdg>
+                  <rdg wit="CAO-F"> servulus</rdg>
+               </app>
+            </l>
+            <l part="N">Orans Christum in sublime erectis luminibus</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F">Cuius</rep>
+   </verses>
+</res>

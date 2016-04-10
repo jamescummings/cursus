@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9507" nextid="c9509" id="c9508">
+   <header>
+      <usage ms="Evm" code="06021000">[96v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="Evm"> Egressus est ergo Noe et filii eius et uxor illius et uxores filiorum eius cum eo de arca sicut praeceperat illi deus</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Omnia quoque animantia secundum genus suum cum eo de arca egressa sunt</vBody>
+      <rep type="r" wit="Evm">Sicut</rep>
+   </verses>
+</res>

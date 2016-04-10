@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6272" nextid="c6274" id="c6273">
+   <header>
+      <usage ms="Alb2" code="02122800">[39r] matins-n3-r12</usage>
+      <usage ms="Bat" code="02122800">[23v] matins-n3-r12</usage>
+      <usage ms="Cdm" code="02122800">[29r] matins-n3-r12</usage>
+      <usage ms="Evm" code="02122800">[48v] matins-n3-r12</usage>
+      <usage ms="Hyd" code="02122800">[26v] matins-n3-r8</usage>
+      <usage ms="Pet" code="02122800">[30v] matins-n2-r8</usage>
+      <usage ms="Pet" code="02122800">[32r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="02122800">[64v] matins-n3-r12</usage>
+      <usage ms="Wor" code="02122800">[22v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Centum quadraginta quatuor milia
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Cdm Wor Pet"> qui</rdg>
+         <rdg wit="CAO-F Evm Bat"> hii</rdg>
+         <rdg wit="Wcb"> hi</rdg>
+      </app> empti sunt
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> de terra</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V"> de terris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-R CAO-F CAO-L Hyd Alb2 Evm Bat Cdm Wor Pet"> hii sunt</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-S Wcb"> hi sunt</rdg>
+      </app> qui cum mulieribus non sunt coinquinati virgines enim permanserunt ideo
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Wor Pet"> regnant</rdg>
+         <rdg wit="Cdm"> regnavit</rdg>
+      </app> cum deo
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Bat Cdm Wor Pet"> et agnus dei cum illis</rdg>
+         <rdg wit="Evm Wcb"> et agno sine macula</rdg>
+         <rdg wit="CAO-C CAO-V"> et agno dei cum illis</rdg>
+         <rdg wit="CAO-S"> et agno in aeternum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H"> Et in ore ipsorum non est inventum mendacium sine macula sunt ante thronum dei</vBody>
+      <vBody type="r" wit="CAO-G CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+         <app>
+            <rdg wit="CAO-R CAO-F Hyd Alb2 Evm Bat Cdm Wor Pet"> Hii empti sunt</rdg>
+            <rdg wit="CAO-G CAO-D Wcb"> Hi empti sunt</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F Alb2 Evm Wcb Bat Pet"> ex omnibus</rdg>
+            <rdg wit="Cdm"> ex <corr sic="hominibus">omnibus</corr>
+            </rdg>
+            <rdg wit="CAO-G CAO-R Hyd Wor"> ex hominibus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> primitiae deo et agno</rdg>
+            <rdg wit="CAO-R"> primitiae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-D CAO-F Hyd Evm Wcb Bat Cdm Pet"> et in ore eorum</rdg>
+            <rdg wit="CAO-G Alb2 Wor"> et in ore ipsorum</rdg>
+         </app> non est inventum mendacium</vBody>
+      <vBody type="r" wit="CAO-S"> Hi sunt qui cum mulieribus non sunt coinquinati virgines enim sunt</vBody>
+      <vBody type="r" wit="CAO-M CAO-V CAO-L"> Isti sunt qui venerunt ex magna tribulatione et laverunt stolas suas in sanguine agni</vBody>
+      <vBody type="r" wit="CAO-E"> Isti sunt qui venerunt ex magna</vBody>
+      <vBody type="r" wit="CAO-B"> Isti sunt qui venerunt</vBody>
+      <vBody id="c6273-1" type="r" wit="CAO-C"> Vidi angelum dei volantem</vBody>
+      <rep corresp="c6273-1" type="r" wit="CAO-C">
+         <note type="editorial" place="unspecified" anchored="yes">no regressio given</note>
+      </rep>
+      <vBody id="c6273-2" type="r" wit="CAO-C"> Vidi supra montem Sion agnum stantem et cum eo centum quadraginta quatuor milia</vBody>
+      <rep corresp="c6273-2" type="r" wit="CAO-C">Hi sunt</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-L CAO-G CAO-R CAO-H CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor">Ideo</rep>
+      <rep type="r" wit="CAO-V CAO-F">Virgines enim permanserunt</rep>
+      <rep type="r" wit="CAO-M">Qui empti</rep>
+      <rep type="r" wit="CAO-D">Hi sunt</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+      <rep type="r" num="2" wit="Evm">Te deum laudamus</rep>
+   </verses>
+</res>

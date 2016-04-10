@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5279" nextid="c5281" id="c5280">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Fec-B2"> Unxerunt Salomonem Sadoc sacerdos et Nathan
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R Fec-B2"> propheta</rdg>
+         <rdg wit="CAO-M CAO-V"> prophetam</rdg>
+      </app> regem in
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-H Fec-B2"> Gion</rdg>
+         <rdg wit="CAO-B CAO-M CAO-R"> Geon</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-R"> et abierunt</rdg>
+         <rdg wit="CAO-B"> et abierunt <add place="margin">et ambulantes</add>
+         </rdg>
+         <rdg wit="CAO-E"> ascendentes</rdg>
+         <rdg wit="CAO-V Fec-B2"> et ascendentes</rdg>
+      </app> laeti
+     <app>
+         <rdg wit="CAO-H CAO-R"> dicentes</rdg>
+         <rdg wit="CAO-B"> dicentes <add place="margin">dixerunt</add>
+         </rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> dixerunt</rdg>
+         <rdg wit="Fec-B2"> dicebant</rdg>
+      </app> vivat rex
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> in aeternum alleluia</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> in aeternum</rdg>
+         <rdg wit="Fec-B2"> Salomon</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7131" nextid="c7133" id="c7132">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Martinus Abrahae sinu laetus excipitur Martinus hic pauper et
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> modicus</rdg>
+         <rdg wit="CAO-V"> modicum</rdg>
+         <rdg wit="CAO-C">
+            <sic resp="Hesbert">medicus</sic>
+         </rdg>
+      </app> caelum dives ingreditur hymnis caelestibus honoratur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Martinus episcopus migravit a saeculo vivit in Christo gemma sacerdotum</vBody>
+      <vBody id="c7132-1" type="r" wit="CAO-C"> Martinus episcopus migravit a saeculo vivit in Christo gemma sacerdotum</vBody>
+      <rep corresp="c7132-1" type="r" wit="CAO-C"> Hymnis</rep>
+      <vBody id="c7132-2" type="r" num="2" wit="CAO-C"> Oculis ac manibus in caelum semper intentis invictum ab oratione spiritum non relaxabat</vBody>
+      <rep corresp="c7132-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <rep type="r" wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S">Caelum</rep>
+      <rep type="r" wit="CAO-E CAO-F">Martinus</rep>
+   </verses>
+</res>

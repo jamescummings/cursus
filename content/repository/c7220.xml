@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7219" nextid="c7220b" id="c7220">
+   <header>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <rBody wit="CAO-B CAO-S Hyd"> Noli flere Maria alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-S">Resurrexit dominus</vBody>
+      <vBody type="r" wit="Hyd">Resurrexit dominus alleluia alleluia</vBody>
+      <rep type="r" wit="CAO-B CAO-S">Alleluia</rep>
+   </verses>
+</res>

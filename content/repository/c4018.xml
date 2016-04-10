@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4017" nextid="c4018b" id="c4018">
+   <aBody wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S"> O crux gloriosa o crux adoranda o lignum pretiosum et admirabile signum per quod et diabolus est victus
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-F"> et mundus Christi sanguine redemptus alleluia</rdg>
+         <rdg wit="CAO-V CAO-S"> et mundus Christi sanguine est redemptus alleluia</rdg>
+         <rdg wit="CAO-H"> et mundus Christi sanguine redemptus</rdg>
+      </app>
+   </aBody>
+</ant>

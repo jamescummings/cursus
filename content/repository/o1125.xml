@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1124" nextid="o1126" id="o1125">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Bat" code="07014000">[50r] sext</usage>
+      <usage ms="Cdm" code="07012000">[58v] terce</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[118v] terce</usage>
+   </header>
+   <pBody wit="Hyd Ely Cht Alb2 Cdm Mch Bat"> Suscipe domine preces nostras et clamantium ad te pia corda propicius intende
+     <app>
+         <rdg wit="Hyd Ely"> et ad beneficia recolenda</rdg>
+         <rdg wit="Alb2">et ad beneficia colenda</rdg>
+         <rdg wit="Cdm Mch Bat"> et ad beneficia</rdg>
+         <rdg wit="Cht">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="Hyd">quibus nos instaurare dignatus tribuae venire gaudentes per</rdg>
+         <rdg wit="Ely Cht Alb2 Cdm Mch Bat">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </pBody>
+</prayer>

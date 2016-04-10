@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1773" nextid="o1775" id="o1774">
+   <header>
+      <usage ms="Mch" code="06034000">[110r]</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.845</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Mch"> Afflictionem familiae tuae quaesumus domine intende placatus ut indulta venia peccatorum de tuis semper beneficiis gloriemur</pBody>
+</prayer>

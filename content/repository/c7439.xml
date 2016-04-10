@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7438" nextid="c7440" id="c7439">
+   <rBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N">Propter intolerabiles</l>
+         <l part="N">Rerum curas mundanarum</l>
+         <l part="N">Recusabat praesulatum</l>
+         <l part="N">Suscipere Romanorum</l>
+         <l part="N">Sed victus prece populi</l>
+         <l part="N">Suscepit iugum domini</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R">Nec fecit proximo suo malum et opprobrium non accepit adversus proximos suos</vBody>
+      <rep type="r" wit="CAO-R">Sed</rep>
+   </verses>
+</res>

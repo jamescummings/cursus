@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3195" nextid="c3197" id="c3196">
+   <header>
+      <usage ms="Alb2" code="02122600">[31v] matins-n2-a12</usage>
+      <usage ms="Bat" code="02122600">[20v] lauds gosp</usage>
+      <usage ms="Cdm" code="02122600">[25v] lauds gosp</usage>
+      <usage ms="Evm" code="02122600">[39v] matins-n2-a12</usage>
+      <usage ms="Pet" code="02122608">[24v] </usage>
+      <usage ms="Wcb" code="02122600">[60r] lauds gosp</usage>
+      <usage ms="Wor" code="02122600">[18v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-M CAO-V CAO-D CAO-F Alb2 Bat Evm Wcb Cdm Wor Pet"> Impii super iustum iacturam fecerunt ut eum morti traderent at ille gaudens suscepit lapides ut mereretur accipere
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-D CAO-F Alb2 Bat Evm Cdm Wor Pet"> coronam gloriae alleluia</rdg>
+         <rdg wit="CAO-M CAO-V Wcb"> coronam gloriae</rdg>
+      </app>
+   </aBody>
+</ant>

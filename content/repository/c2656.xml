@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2655" nextid="c2657" id="c2656">
+   <header>
+      <usage ms="Alb2" code="07031000">[90r] lauds</usage>
+      <usage ms="Bat" code="07031000">[55r] lauds gosp</usage>
+      <usage ms="Cdm" code="07031000">[65r] lauds-a6</usage>
+      <usage ms="Cht" code="07031000">[37r] lauds</usage>
+      <usage ms="Ely" code="07031000">[75v] lauds</usage>
+      <usage ms="Evm" code="07031000">[123v] lauds</usage>
+      <usage ms="Hyd" code="07031000">[79v] lauds gosp</usage>
+      <usage ms="Mch" code="07031000">[132r] lauds gosp</usage>
+      <usage ms="Pet" code="07031000">[73v] lauds</usage>
+      <usage ms="Wcb" code="07031000"/>
+      <usage ms="Wor" code="07031000">[49v] lauds</usage>
+   </header>
+   <aBody wit="CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Erat Jesus eiciens daemonium
+     <app>
+         <rdg wit="CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> et illud erat mutum</rdg>
+         <rdg wit="CAO-S"> et erat mutum</rdg>
+      </app> et cum eiecisset daemonium locutus est mutus et admiratae sunt turbae</aBody>
+</ant>

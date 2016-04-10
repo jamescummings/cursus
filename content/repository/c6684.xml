@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6683" nextid="c6685" id="c6684">
+   <rBody wit="CAO-E CAO-L">
+      <app>
+         <rdg wit="CAO-L"> Exaltata es</rdg>
+         <rdg wit="CAO-E"> Exultata est</rdg>
+      </app> virgo Maria super choros angelorum
+      <app>
+         <rdg wit="CAO-E"> gaudeant</rdg>
+         <rdg wit="CAO-L"> gaudent</rdg>
+      </app> omnes fideles
+      <app>
+         <rdg wit="CAO-E"> et benedicant dominum</rdg>
+         <rdg wit="CAO-L"> et benedicant te angeli</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Haec forma prae filiis hominum castis concepit visceribus et benedicta in aeternum Deum nobis protulit et hominem</vBody>
+      <rep type="r" wit="CAO-E"> Gaudeant</rep>
+      <vBody type="r" wit="CAO-L"> Haec forma prae filiis hominum castis suscepit visceribus intacta nesciens virum verbo con cepit filium</vBody>
+      <rep type="r" wit="CAO-L"> Gaudent</rep>
+   </verses>
+</res>

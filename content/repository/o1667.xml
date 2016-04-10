@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1666" nextid="o1668" id="o1667">
+   <header>
+      <usage ms="Cdm" code="02122500">[23v] nones</usage>
+      <usage ms="Hyd" code="02122508"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.40</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Cdm">
+      <app>
+         <rdg wit="Hyd"> Da nobis quaesumus domine deus noster</rdg>
+         <rdg wit="Cdm"> Da quaesumus omnipotens deus</rdg>
+      </app> ut nativitatem domini nostri Jesu Christi nos frequentare gaudemus dignis conversationibus ad eius mereamur pertinere consortium</pBody>
+</prayer>

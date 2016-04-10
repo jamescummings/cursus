@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4535b" nextid="c4537" id="c4536">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-L"> Quidam homo fecit cenam magnam</rdg>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S"> Homo quidam fecit cenam magnam</rdg>
+      </app> et vocavit multos et misit servum suum hora cenae dicere invitatis ut venirent
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> quia omnia parata sunt alleluia</rdg>
+         <rdg wit="CAO-C"> quia omnia parata sunt dicit dominus</rdg>
+         <rdg wit="CAO-D"> quia iam parata sunt alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

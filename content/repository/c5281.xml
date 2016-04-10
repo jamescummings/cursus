@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5280" nextid="c5282" id="c5281">
+   <header>
+      <usage ms="Alb2" code="01021000">[9r] lauds-a2</usage>
+      <usage ms="Bat" code="01021000">[7r] lauds-a2</usage>
+      <usage ms="Cdm" code="01021000">[13r] lauds-a2</usage>
+      <usage ms="Ely" code="01021000">[8r] lauds-a2</usage>
+      <usage ms="Evm" code="01021000">[15r] lauds-a2</usage>
+      <usage ms="Hyd" code="01021000">[8v] lauds-a2</usage>
+      <usage ms="Mch" code="01021000">[8v] lauds-a2</usage>
+      <usage ms="Wcb" code="01021000">[45r] lauds-a2</usage>
+      <usage ms="Wor" code="01021000">[6r] lauds-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Urbs fortitudinis nostrae Sion
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> salvator ponetur in ea</rdg>
+         <rdg wit="CAO-V"> salvator ponitur in ea</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Mch Cdm Ely Wor Wcb Bat"> murus et antemurale</rdg>
+         <rdg wit="Evm"> murus et antemurabile</rdg>
+         <rdg wit="CAO-V"> murum et antemuralem</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M"> murus et antemuralem</rdg>
+      </app> aperite portas quia nobiscum deus alleluia</aBody>
+</ant>

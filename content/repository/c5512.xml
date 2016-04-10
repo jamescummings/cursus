@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5511" nextid="c5512b" id="c5512">
+   <header>
+      <usage ms="Cht" code="07053000">[51r] sext-a1</usage>
+      <usage ms="Evm" code="07053000">[138v] sext</usage>
+      <usage ms="Glo" code="07053000">[71r] sext</usage>
+      <usage ms="Pet" code="07052000">[82r] sext</usage>
+      <usage ms="Wcb" code="07053000">[110r] sext-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Cht Pet Evm Wcb Glo"> Vulpes foveas habent
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Pet Evm Wcb Glo"> et volucres caeli nidos</rdg>
+         <rdg wit="Cht"> et volucres caeli <sic resp="DC">vides</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Pet Evm Wcb Glo"> filius autem hominis</rdg>
+         <rdg wit="Cht"> filius autem <add place="margin" hand="later">hominis</add>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R Evm Wcb Glo"> non habet ubi caput suum reclinet</rdg>
+         <rdg wit="CAO-C CAO-M CAO-D CAO-F Cht Pet"> non habet ubi caput reclinet</rdg>
+      </app>
+   </aBody>
+</ant>

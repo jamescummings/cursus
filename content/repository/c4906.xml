@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4905" nextid="c4907" id="c4906">
+   <header>
+      <usage ms="Hyd" code="08081000">vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">cf. c4886</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> Si quis diligit me sermonem meum servabit</rdg>
+         <rdg wit="CAO-C"> Si diligitis mandata mea servate</rdg>
+         <rdg wit="CAO-M"> Si quis diligit me mandata mea servate</rdg>
+         <rdg wit="CAO-L"> Si quis diligit me sermonem meum servavit</rdg>
+         <rdg wit="Hyd"> Si quis diligit me mandata mea servabit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> et pater meus diliget eum</rdg>
+         <rdg wit="CAO-L"> et pater meus diligit eum</rdg>
+      </app> et ad eum veniemus et mansionem apud eum faciemus alleluia</aBody>
+   <aBody wit="CAO-C" type="incipit"> Si quis diligit me sermonem meum servavit et pater meus</aBody>
+</ant>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1018" nextid="c1020" id="c1019">
+   <aBody wit="CAO-B CAO-M CAO-V CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R"> Adoremus victoriosissimum regem Christum</rdg>
+         <rdg wit="CAO-H"> Adoremus gloriosissimum regem Christum</rdg>
+      </app> qui victorem per crucis tropaeum coronavit beatum Andream apostolum</aBody>
+</ant>

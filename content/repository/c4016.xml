@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4015" nextid="c4017" id="c4016">
+   <aBody wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> O crux benedicta quae sola fuisti digna portare
+     <app>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-S"> regem caelorum et dominum alleluia</rdg>
+         <rdg wit="CAO-B"> regem caelorum et hominum alleluia</rdg>
+         <rdg wit="CAO-D"> regem caelorum et dominum alleluia alleluia</rdg>
+         <rdg wit="CAO-F"> regem caelorum et dominum alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

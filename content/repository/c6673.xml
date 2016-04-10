@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6672b" nextid="c6674" id="c6673">
+   <header>
+      <usage ms="Alb2" code="07042000">[95v] vesp2</usage>
+      <usage ms="Cdm" code="07041000">[68v] vesp2-r1</usage>
+      <usage ms="Cht" code="07041000">[42r] lauds</usage>
+      <usage ms="Ely" code="07041000">[78v] lauds</usage>
+      <usage ms="Evm" code="07041000">[129v] lauds</usage>
+      <usage ms="Hyd" code="07041000">[83r] lauds</usage>
+      <usage ms="Mch" code="07031000">[132v] vesp2</usage>
+      <usage ms="Pet" code="07041000"/>
+      <usage ms="Wcb" code="07041000">[105r] lauds</usage>
+      <usage ms="Wor" code="07042000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Esto nobis domine turris fortitudinis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> A facie inimici</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Wcb Alb2"> Turris</rep>
+      <dox type="r" wit="Pet Evm Alb2">Gloria</dox>
+      <rep type="r" num="2" wit="Pet Alb2">Esto</rep>
+   </verses>
+</res>

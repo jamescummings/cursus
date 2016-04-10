@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2621" nextid="c2623" id="c2622">
+   <header>
+      <usage ms="Evm" code="02123100">[57r] lauds commemoratio</usage>
+      <usage ms="Wcb" code="02122600">[58v] matins-n2-a9</usage>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-R CAO-F Evm Wcb">Eicientes eum extra civitatem lapidabant et testes miserunt vestes suas secus pedes adolescentis qui vocabatur Saulus</aBody>
+</ant>

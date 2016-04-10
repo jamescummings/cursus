@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2122" nextid="c2124" id="c2123">
+   <aBody wit="CAO-M CAO-H">
+      <app>
+         <rdg wit="CAO-M"> De terra formasti me</rdg>
+         <rdg wit="CAO-H"> De terra formasti eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> et carnem induisti me</rdg>
+         <rdg wit="CAO-H"> et carnem induisti eum</rdg>
+      </app> redemptor meus domine
+     <app>
+         <rdg wit="CAO-M"> resuscita me in novissimo die</rdg>
+         <rdg wit="CAO-H"> resuscita eum in novissimo die</rdg>
+      </app>
+   </aBody>
+</ant>

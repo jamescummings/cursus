@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6946" nextid="c6948" id="c6947">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> Inclinans faciem meam ingemisco</rdg>
+         <rdg wit="CAO-V"> Inclinas faciem meam ingemesco</rdg>
+      </app> commovebor omnibus membris meis scio enim domine quia impunitum me non
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> dimittis</rdg>
+         <rdg wit="CAO-D"> dimittes</rdg>
+      </app> et si sum impius quare non sum mortuus sed laboro</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Quae est enim fortitudo mea ut sustineam aut quis finis meus ut patienter agam</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-D">Scio</rep>
+      <rep type="r" wit="CAO-B CAO-H CAO-F"> Et si</rep>
+      <rep type="r" wit="CAO-R"> Sed laboro</rep>
+   </verses>
+</res>

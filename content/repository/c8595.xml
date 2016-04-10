@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8594" nextid="c8596" id="c8595">
+   <header>
+      <usage ms="Evm" code="02123100">[57r] lauds commemoratio</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">[Wed Jan 26 17:13:28 2005] cf. antiphon c5456</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm"> Virgo verbo concepit virgo peperit post partum virgo permansit</aBody>
+</ant>

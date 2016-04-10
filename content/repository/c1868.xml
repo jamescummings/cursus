@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1867" nextid="c1869" id="c1868">
+   <aBody wit="CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-D"> Confessor domini <name reg="Hilarus" type="saint">Hilare</name>
+         </rdg>
+         <rdg wit="CAO-F"> Confessor domini <name reg="Benedictus" type="saint">Benedicte</name>
+         </rdg>
+         <rdg wit="CAO-S"> Confessor domini <name reg="Germanus Ant" type="saint">Germane</name>
+         </rdg>
+      </app> astantem plebem corrobora sancta intercessione ut qui vitiorum pondere premimur
+     <app>
+         <rdg wit="CAO-F CAO-S"> beatitudinis tuae gratia sublevemur</rdg>
+         <rdg wit="CAO-D"> beatitudinis tuae gloriae sublevemur</rdg>
+      </app> et te duce aeterna praemia consequamur</aBody>
+</ant>

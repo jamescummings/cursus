@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1581" nextid="o1583" id="o1582">
+   <header>
+      <usage ms="Bat" code="07027000">[53r] lauds</usage>
+      <usage ms="Cdm" code="07027000">[63v] lauds-a2</usage>
+      <usage ms="Cht" code="07027000"/>
+      <usage ms="Mch" code="07027000">[128r] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.225</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Cdm Mch Bat">Da quaesumus domine nostris effectum ieiuniis salutare ut castigatio carnis adsumpta ad nostrarum vegetationem transeat animarum</pBody>
+</prayer>

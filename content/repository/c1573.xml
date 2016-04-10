@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1572" nextid="c1574" id="c1573">
+   <header>
+      <usage ms="Evm" code="02122500">[37v] sext</usage>
+      <usage ms="Pet" code="02122500">[18v] sext</usage>
+      <usage ms="Wcb" code="02122500">[57v] sext</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.157-158</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-E CAO-D CAO-L Evm Wcb Pet">
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-L Evm"> Beata viscera Mariae virginis</rdg>
+         <rdg wit="Wcb Pet">Beata viscera</rdg>
+      </app> quae portaverunt aeterni patris filium
+     <app>
+         <rdg wit="CAO-E CAO-L Evm Wcb Pet"> et beata ubera quae lactaverunt Christum dominum alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-D" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

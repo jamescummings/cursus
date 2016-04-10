@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3602" nextid="c3604" id="c3603">
+   <header>
+      <usage ms="Alb2" code="07046000">[97r] lauds</usage>
+      <usage ms="Cdm" code="07046000">[70r] lauds gosp</usage>
+      <usage ms="Cht" code="07046000">[45v] lauds</usage>
+      <usage ms="Ely" code="07046000">[80r] lauds</usage>
+      <usage ms="Evm" code="07046000">[132r] vesp2</usage>
+      <usage ms="Glo" code="07046000">[68v] lauds</usage>
+      <usage ms="Hyd" code="07046000">[84v] lauds</usage>
+      <usage ms="Mch" code="07046000">[142v] lauds gosp</usage>
+      <usage ms="Pet" code="07046000"/>
+      <usage ms="Wcb" code="07046000"/>
+      <usage ms="Wor" code="07046000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Lazarus amicus noster dormit
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm">eamus et a somno excitemus eum</rdg>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R Mch">eamus et a somno suscitemus eum</rdg>
+         <rdg wit="CAO-D">sed vado et a somno exsuscitem</rdg>
+         <rdg wit="CAO-L">sed vado et a somno excitem</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Lazarus amicus</aBody>
+</ant>

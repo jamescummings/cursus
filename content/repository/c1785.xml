@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1784" nextid="c1786" id="c1785">
+   <aBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N">Christi fidelis famulus</l>
+         <l part="N">Prudens quoque <name reg="Gregorius" type="saint">Gregorius</name>
+         </l>
+         <l part="N">Postquam suo in tempore</l>
+         <l part="N">Vixit eius familiae</l>
+         <l part="N">Caelo reddidit animam</l>
+         <l part="N">Terrae carnis materiam</l>
+      </verse>
+   </aBody>
+</ant>

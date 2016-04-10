@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6962" nextid="c6964" id="c6963">
+   <header>
+      <usage ms="Glo" code="14032500"/>
+   </header>
+   <rBody wit="CAO-G CAO-V CAO-F CAO-S CAO-L Glo"> Ingressus angelus ad Mariam ait ave Maria gratia plena dominus tecum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-F CAO-S CAO-L Glo">Benedicta tu in mulieribus et benedictus fructus ventris tui</vBody>
+      <vBody type="r" wit="CAO-G">Benedicta tu in mulieribus et</vBody>
+      <rep type="r" wit="CAO-V CAO-F CAO-S CAO-L Glo">Ave</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

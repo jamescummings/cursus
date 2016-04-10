@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8607" nextid="c8609" id="c8608">
+   <header>
+      <usage ms="Ely" code="01031000">[9v] matins inv</usage>
+      <usage ms="Mch" code="01041000">[16v] matins inv</usage>
+      <usage ms="Wor" code="01047000">[11r] matins inv</usage>
+   </header>
+   <aBody wit="Ely Wcb Wor"> In occursum salvatoris nostri iubilemus ei</aBody>
+</ant>

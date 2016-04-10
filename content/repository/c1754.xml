@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1753" nextid="c1755" id="c1754">
+   <header>
+      <usage ms="Alb2" code="07065000">[109r] vesp2-a1</usage>
+      <usage ms="Cdm" code="07065000">[78v] vesp2</usage>
+      <usage ms="Cht" code="07065000">[61v] vesp2</usage>
+      <usage ms="Ely" code="07065000">[89v] vesp2</usage>
+      <usage ms="Evm" code="07065000">[150r] vesp2</usage>
+      <usage ms="Glo" code="07065000">[79r] vesp2</usage>
+      <usage ms="Hyd" code="07065000">[96r] vesp2</usage>
+      <usage ms="Mch" code="07065000">[159v] vesp2-a1</usage>
+      <usage ms="Pet" code="07065000">[90v] vesp2</usage>
+      <usage ms="Wcb" code="07065000">[115v] vesp2</usage>
+      <usage ms="Wor" code="07065000">[60v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Calicem salutaris accipiam et nomen domini invocabo</aBody>
+</ant>

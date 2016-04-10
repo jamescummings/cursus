@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5331" nextid="c5333" id="c5332">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R CAO-L"> Veniente sponso</rdg>
+         <rdg wit="CAO-M"> Veni sponsa</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R"> prudens virgo praeparata</rdg>
+         <rdg wit="CAO-M"> prudens virgo probata</rdg>
+         <rdg wit="CAO-L"> prudens virgo parata</rdg>
+      </app> introivit cum eo ad nuptias</aBody>
+</ant>

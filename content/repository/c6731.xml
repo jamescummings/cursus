@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6730" nextid="c6732" id="c6731">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+   </header>
+   <rBody wit="CAO-E CAO-H CAO-R CAO-S Alb2"> Fiat manus tua ut salvum me faciat quia mandata tua elegi concupivi salutare tuum domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-S Alb2"> Erravi sicut ovis quae perierat
+       <app>
+            <rdg wit="CAO-H CAO-R CAO-S Alb2"> require servum tuum domine</rdg>
+            <rdg wit="CAO-E"> require servum tuum</rdg>
+         </app> quia mandata tua non sum oblitus</vBody>
+      <rep type="r" wit="CAO-E CAO-H CAO-S Alb2"> Concupivi</rep>
+      <rep type="r" wit="CAO-R"> Quia</rep>
+   </verses>
+</res>

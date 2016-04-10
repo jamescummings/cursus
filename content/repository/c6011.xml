@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6010" nextid="c6012" id="c6011">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Abscondi tamquam aurum
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Hyd"> peccata mea</rdg>
+         <rdg wit="CAO-L"> peccatum meum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> et celavi</rdg>
+         <rdg wit="CAO-R"> et zelavi</rdg>
+      </app> in sinu meo iniquitatem meam miserere mei deus secundum magnam misericordiam tuam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-L Alb2"> Quoniam iniquitatem meam ego agnosco et delictum meum coram me est semper
+      <app>
+            <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D Alb2"> tibi soli peccavi</rdg>
+            <rdg wit="CAO-L" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-S Hyd"> Tibi soli peccavi et malum coram te feci</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Miserere</rep>
+   </verses>
+</res>

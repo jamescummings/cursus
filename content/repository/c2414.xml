@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2413b" nextid="c2415" id="c2414">
+   <header>
+      <usage ms="Hyd" code="01014000">[6r] lauds-a4</usage>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Dominus iudicabit fines terrae</aBody>
+</ant>

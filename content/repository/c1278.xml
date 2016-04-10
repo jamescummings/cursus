@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1277" nextid="c1279" id="c1278">
+   <header>
+      <usage ms="Hyd" code="01013000">[5r] matins-n1-a1</usage>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Adiutor in tribulationibus</aBody>
+</ant>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3875" nextid="c3877" id="c3876">
+   <header>
+      <usage ms="Cht" code="06036000"/>
+      <usage ms="Ely" code="06036000"/>
+      <usage ms="Hyd" code="06036000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb"> Nesciat sinistra tua quid faciat dextera tua</aBody>
+</ant>

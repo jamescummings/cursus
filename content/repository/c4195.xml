@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4194" nextid="c4196" id="c4195">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] prime</usage>
+      <usage ms="Cdm" code="02122400">[21r] prime</usage>
+      <usage ms="Ely" code="01043000">[15r] lauds gosp</usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="02122400">[23r] lauds-a5</usage>
+      <usage ms="Pet" code="01037009">[9v] lauds gosp</usage>
+      <usage ms="Wor" code="02122400">[13r] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cdm Mch Ely Wor Pet"> Orietur sicut sol salvator mundi
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Cdm Ely Wor Pet"> et descendet in uterum virginis</rdg>
+         <rdg wit="Mch"> et descendet per uterum virginis</rdg>
+         <rdg wit="CAO-E"> et descendat in uterum virginis</rdg>
+         <rdg wit="CAO-L"> et descendit in uterum virginis</rdg>
+         <rdg wit="CAO-C"> et descendet in utero virginis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cdm Mch Ely Wor Pet"> sicut imber super gramen alleluia</rdg>
+         <rdg wit="CAO-G"> quasi imber super gramen alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2707" nextid="c2709" id="c2708">
+   <header>
+      <usage ms="Cdm" code="08012000">[82v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="08012000">[102v] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cdm"> Et intravit cum illis et factum est
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-L"> dum recumberet cum illis</rdg>
+         <rdg wit="CAO-C"> cum recumberet cum illis</rdg>
+         <rdg wit="CAO-G"> cum recumberet cum eis</rdg>
+         <rdg wit="CAO-D CAO-F Hyd Cdm"> dum recumberet cum eis</rdg>
+      </app> accepit panem
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-L Cdm"> benedixit ac fregit</rdg>
+         <rdg wit="Hyd"> benedixit et fregit</rdg>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R"> et benedixit fregit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-D CAO-F CAO-L Cdm"> et porrigebat illis alleluia</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R Hyd"> ac porrigebat illis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

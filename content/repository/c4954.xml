@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4953" nextid="c4955" id="c4954">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L"> Simile est regnum caelorum homini negotiatori</rdg>
+         <rdg wit="CAO-H"> Simile est enim regnum caelorum homini negotiatori</rdg>
+      </app> quaerenti bonas margaritas
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-L"> inventa una pretiosa</rdg>
+         <rdg wit="CAO-M CAO-H CAO-R"> inventa una pretiosa margarita</rdg>
+      </app> dedit omnia sua et comparavit eam</aBody>
+</ant>

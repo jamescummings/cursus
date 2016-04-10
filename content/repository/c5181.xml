@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5180" nextid="c5182" id="c5181">
+   <header>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Pet"> Tria sunt munera quae obtulerunt magi domino
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Pet"> aurum thus et myrrham</rdg>
+         <rdg wit="CAO-S"> aurum thus et myrrha</rdg>
+         <rdg wit="CAO-M"> aurum thus et myrrham alleluia</rdg>
+      </app> filio dei regi magno alleluia</aBody>
+   <aBody wit="CAO-G"> Tria sunt munera quae obtulerunt magi domino</aBody>
+</ant>

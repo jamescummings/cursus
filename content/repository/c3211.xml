@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3210" nextid="c3212" id="c3211">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L"> In caelestibus regnis sanctorum</rdg>
+         <rdg wit="CAO-D"> In caelesti regno sanctorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> habitatio est</rdg>
+         <rdg wit="CAO-C CAO-L"> habitatio</rdg>
+      </app> et in aeternum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L"> requies eorum alleluia</rdg>
+         <rdg wit="CAO-D"> requies illorum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

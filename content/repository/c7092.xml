@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7091" nextid="c7093" id="c7092">
+   <rBody wit="CAO-M CAO-H CAO-S CAO-L"> Libera me domine de viis inferni qui portas aereas confregisti et visitasti infernum et dedisti eis lumen ut viderent te qui erant in poenis tenebrarum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-H CAO-S CAO-L">Clamantes et dicentes
+       <app>
+            <rdg wit="CAO-H CAO-S CAO-L"> advenisti</rdg>
+            <rdg wit="CAO-M"> unde veni</rdg>
+         </app> redemptor noster</vBody>
+      <rep type="r" wit="CAO-M CAO-H">Qui erant</rep>
+      <rep type="r" wit="CAO-L">Ut viderent</rep>
+   </verses>
+</res>

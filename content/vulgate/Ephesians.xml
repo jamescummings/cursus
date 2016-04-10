@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Ephesians">
+<body>
+  <rubric type="bible-incipit" id="B.Ephesians.incipit.001">
+    <reference>
+      <bookName>Ephesians</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AD EPHESIOS</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Ephesians.001.001">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus apostolus Christi Iesu per voluntatem Dei sanctis omnibus qui sunt Ephesi et fidelibus in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.002">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.003">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>benedictus Deus et Pater Domini nostri Iesu Christi qui benedixit nos in omni benedictione spiritali in caelestibus in Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.004">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>sicut elegit nos in ipso ante mundi constitutionem ut essemus sancti et inmaculati in conspectu eius in caritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.005">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>qui praedestinavit nos in adoptionem filiorum per Iesum Christum in ipsum secundum propositum voluntatis suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.006">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>in laudem gloriae gratiae suae in qua gratificavit nos in dilecto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.007">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>in quo habemus redemptionem per sanguinem eius remissionem peccatorum secundum divitias gratiae eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.008">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>quae superabundavit in nobis in omni sapientia et prudentia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.009">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>ut notum faceret nobis sacramentum voluntatis suae secundum bonum placitum eius quod proposuit in eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.010">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>in dispensationem plenitudinis temporum instaurare omnia in Christo quae in caelis et quae in terra sunt in ipso</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.011">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>in quo etiam sorte vocati sumus praedestinati secundum propositum eius qui omnia operatur secundum consilium voluntatis suae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.012">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>ut simus in laudem gloriae eius qui ante speravimus in Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.013">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>in quo et vos cum audissetis verbum veritatis evangelium salutis vestrae in quo et credentes signati estis Spiritu promissionis Sancto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.014">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>qui est pignus hereditatis nostrae in redemptionem adquisitionis in laudem gloriae ipsius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.015">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>propterea et ego audiens fidem vestram quae est in Domino Iesu et dilectionem in omnes sanctos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.016">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>non cesso gratias agens pro vobis memoriam vestri faciens in orationibus meis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.017">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>ut Deus Domini nostri Iesu Christi Pater gloriae det vobis spiritum sapientiae et revelationis in agnitione eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.018">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>inluminatos oculos cordis vestri ut sciatis quae sit spes vocationis eius quae divitiae gloriae hereditatis eius in sanctis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.019">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>et quae sit supereminens magnitudo virtutis eius in nos qui credidimus secundum operationem potentiae virtutis eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.020">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>quam operatus est in Christo suscitans illum a mortuis et constituens ad dexteram suam in caelestibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.021">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>supra omnem principatum et potestatem et virtutem et dominationem et omne nomen quod nominatur non solum in hoc saeculo sed et in futuro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.022">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>et omnia subiecit sub pedibus eius et ipsum dedit caput supra omnia ecclesiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.001.023">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>quae est corpus ipsius plenitudo eius qui omnia in omnibus adimpletur</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Ephesians.002.001">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>et vos cum essetis mortui delictis et peccatis vestris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.002">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>in quibus aliquando ambulastis secundum saeculum mundi huius secundum principem potestatis aeris huius spiritus qui nunc operatur in filios diffidentiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.003">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>in quibus et nos omnes aliquando conversati sumus in desideriis carnis nostrae facientes voluntates carnis et cogitationum et eramus natura filii irae sicut et ceteri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.004">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>Deus autem qui dives est in misericordia propter nimiam caritatem suam qua dilexit nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.005">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>et cum essemus mortui peccatis convivificavit nos Christo gratia estis salvati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.006">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>et conresuscitavit et consedere fecit in caelestibus in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.007">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>ut ostenderet in saeculis supervenientibus abundantes divitias gratiae suae in bonitate super nos in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.008">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>gratia enim estis salvati per fidem et hoc non ex vobis Dei enim donum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.009">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>non ex operibus ut ne quis glorietur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.010">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>ipsius enim sumus factura creati in Christo Iesu in operibus bonis quae praeparavit Deus ut in illis ambulemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.011">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>propter quod memores estote quod aliquando vos gentes in carne qui dicimini praeputium ab ea quae dicitur circumcisio in carne manufacta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.012">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>quia eratis illo in tempore sine Christo alienati a conversatione Israhel et hospites testamentorum promissionis spem non habentes et sine Deo in mundo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.013">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>nunc autem in Christo Iesu vos qui aliquando eratis longe facti estis prope in sanguine Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.014">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>ipse est enim pax nostra qui fecit utraque unum et medium parietem maceriae solvens inimicitiam in carne sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.015">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>legem mandatorum decretis evacuans ut duos condat in semet ipsum in unum novum hominem faciens pacem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.016">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>et reconciliet ambos in uno corpore Deo per crucem interficiens inimicitiam in semet ipso</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.017">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>et veniens evangelizavit pacem vobis qui longe fuistis et pacem his qui prope</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.018">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>quoniam per ipsum habemus accessum ambo in uno Spiritu ad Patrem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.019">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>ergo iam non estis hospites et advenae sed estis cives sanctorum et domestici Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.020">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>superaedificati super fundamentum apostolorum et prophetarum ipso summo angulari lapide Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.021">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>in quo omnis aedificatio constructa crescit in templum sanctum in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.002.022">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>in quo et vos coaedificamini in habitaculum Dei in Spiritu</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Ephesians.003.001">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>huius rei gratia ego Paulus vinctus Christi Iesu pro vobis gentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.002">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>si tamen audistis dispensationem gratiae Dei quae data est mihi in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.003">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>quoniam secundum revelationem notum mihi factum est sacramentum sicut supra scripsi in brevi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.004">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>prout potestis legentes intellegere prudentiam meam in mysterio Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.005">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>quod aliis generationibus non est agnitum filiis hominum sicuti nunc revelatum est sanctis apostolis eius et prophetis in Spiritu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.006">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>esse gentes coheredes et concorporales et conparticipes promissionis in Christo Iesu per evangelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.007">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>cuius factus sum minister secundum donum gratiae Dei quae data est mihi secundum operationem virtutis eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.008">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>mihi omnium sanctorum minimo data est gratia haec in gentibus evangelizare ininvestigabiles divitias Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.009">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>et inluminare omnes quae sit dispensatio sacramenti absconditi a saeculis in Deo qui omnia creavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.010">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>ut innotescat principibus et potestatibus in caelestibus per ecclesiam multiformis sapientia Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.011">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>secundum praefinitionem saeculorum quam fecit in Christo Iesu Domino nostro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.012">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>in quo habemus fiduciam et accessum in confidentia per fidem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.013">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>propter quod peto ne deficiatis in tribulationibus meis pro vobis quae est gloria vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.014">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>huius rei gratia flecto genua mea ad Patrem Domini nostri Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.015">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>ex quo omnis paternitas in caelis et in terra nominatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.016">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>ut det vobis secundum divitias gloriae suae virtute corroborari per Spiritum eius in interiore homine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.017">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>habitare Christum per fidem in cordibus vestris in caritate radicati et fundati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.018">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>ut possitis conprehendere cum omnibus sanctis quae sit latitudo et longitudo et sublimitas et profundum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.019">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>scire etiam supereminentem scientiae caritatem Christi ut impleamini in omnem plenitudinem Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.020">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>ei autem qui potens est omnia facere superabundanter quam petimus aut intellegimus secundum virtutem quae operatur in nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.003.021">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>ipsi gloria in ecclesia et in Christo Iesu in omnes generationes saeculi saeculorum amen</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Ephesians.004.001">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>obsecro itaque vos ego vinctus in Domino ut digne ambuletis vocatione qua vocati estis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.002">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>cum omni humilitate et mansuetudine cum patientia subportantes invicem in caritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.003">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>solliciti servare unitatem spiritus in vinculo pacis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.004">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>unum corpus et unus spiritus sicut vocati estis in una spe vocationis vestrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.005">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>unus Dominus una fides unum baptisma</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.006">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>unus Deus et Pater omnium qui super omnes et per omnia et in omnibus nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.007">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>unicuique autem nostrum data est gratia secundum mensuram donationis Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.008">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>propter quod dicit ascendens in altum captivam duxit captivitatem dedit dona hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.009">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>quod autem ascendit quid est nisi quia et descendit primum in inferiores partes terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.010">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>qui descendit ipse est et qui ascendit super omnes caelos ut impleret omnia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.011">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>et ipse dedit quosdam quidem apostolos quosdam autem prophetas alios vero evangelistas alios autem pastores et doctores</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.012">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>ad consummationem sanctorum in opus ministerii in aedificationem corporis Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.013">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>donec occurramus omnes in unitatem fidei et agnitionis Filii Dei in virum perfectum in mensuram aetatis plenitudinis Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.014">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>ut iam non simus parvuli fluctuantes et circumferamur omni vento doctrinae in nequitia hominum in astutia ad circumventionem erroris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.015">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>veritatem autem facientes in caritate crescamus in illo per omnia qui est caput Christus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.016">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>ex quo totum corpus conpactum et conexum per omnem iuncturam subministrationis secundum operationem in mensuram uniuscuiusque membri augmentum corporis facit in aedificationem sui in caritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.017">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>hoc igitur dico et testificor in Domino ut iam non ambuletis sicut gentes ambulant in vanitate sensus sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.018">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>tenebris obscuratum habentes intellectum alienati a vita Dei per ignorantiam quae est in illis propter caecitatem cordis ipsorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.019">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>qui desperantes semet ipsos tradiderunt inpudicitiae in operationem inmunditiae omnis in avaritia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.020">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>vos autem non ita didicistis Christum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.021">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:21</verseNum>
+      </reference>
+      <l>si tamen illum audistis et in ipso edocti estis sicut est veritas in Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.022">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:22</verseNum>
+      </reference>
+      <l>deponere vos secundum pristinam conversationem veterem hominem qui corrumpitur secundum desideria erroris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.023">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:23</verseNum>
+      </reference>
+      <l>renovamini autem spiritu mentis vestrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.024">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:24</verseNum>
+      </reference>
+      <l>et induite novum hominem qui secundum Deum creatus est in iustitia et sanctitate veritatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.025">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:25</verseNum>
+      </reference>
+      <l>propter quod deponentes mendacium loquimini veritatem unusquisque cum proximo suo quoniam sumus invicem membra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.026">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:26</verseNum>
+      </reference>
+      <l>irascimini et nolite peccare sol non occidat super iracundiam vestram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.027">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:27</verseNum>
+      </reference>
+      <l>nolite locum dare diabolo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.028">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:28</verseNum>
+      </reference>
+      <l>qui furabatur iam non furetur magis autem laboret operando manibus quod bonum est ut habeat unde tribuat necessitatem patienti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.029">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:29</verseNum>
+      </reference>
+      <l>omnis sermo malus ex ore vestro non procedat sed si quis bonus ad aedificationem oportunitatis ut det gratiam audientibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.030">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:30</verseNum>
+      </reference>
+      <l>et nolite contristare Spiritum Sanctum Dei in quo signati estis in die redemptionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.031">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:31</verseNum>
+      </reference>
+      <l>omnis amaritudo et ira et indignatio et clamor et blasphemia tollatur a vobis cum omni malitia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.004.032">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>4:32</verseNum>
+      </reference>
+      <l>estote autem invicem benigni misericordes donantes invicem sicut et Deus in Christo donavit nobis</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Ephesians.005.001">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>estote ergo imitatores Dei sicut filii carissimi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.002">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>et ambulate in dilectione sicut et Christus dilexit nos et tradidit se ipsum pro nobis oblationem et hostiam Deo in odorem suavitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.003">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>fornicatio autem et omnis inmunditia aut avaritia nec nominetur in vobis sicut decet sanctos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.004">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>aut turpitudo aut stultiloquium aut scurrilitas quae ad rem non pertinent sed magis gratiarum actio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.005">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>hoc enim scitote intellegentes quod omnis fornicator aut inmundus aut avarus quod est idolorum servitus non habet hereditatem in regno Christi et Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.006">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>nemo vos seducat inanibus verbis propter haec enim venit ira Dei in filios diffidentiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.007">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>nolite ergo effici participes eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.008">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>eratis enim aliquando tenebrae nunc autem lux in Domino ut filii lucis ambulate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.009">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>fructus enim lucis est in omni bonitate et iustitia et veritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.010">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>probantes quid sit beneplacitum Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.011">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>et nolite communicare operibus infructuosis tenebrarum magis autem et redarguite</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.012">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>quae enim in occulto fiunt ab ipsis turpe est et dicere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.013">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>omnia autem quae arguuntur a lumine manifestantur omne enim quod manifestatur lumen est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.014">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>propter quod dicit surge qui dormis et exsurge a mortuis et inluminabit tibi Christus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.015">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>videte itaque fratres quomodo caute ambuletis non quasi insipientes sed ut sapientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.016">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>redimentes tempus quoniam dies mali sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.017">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>propterea nolite fieri inprudentes sed intellegentes quae sit voluntas Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.018">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>et nolite inebriari vino in quo est luxuria sed implemini Spiritu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.019">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>loquentes vobismet ipsis in psalmis et hymnis et canticis spiritalibus cantantes et psallentes in cordibus vestris Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.020">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>gratias agentes semper pro omnibus in nomine Domini nostri Iesu Christi Deo et Patri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.021">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>subiecti invicem in timore Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.022">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>mulieres viris suis subditae sint sicut Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.023">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>quoniam vir caput est mulieris sicut Christus caput est ecclesiae ipse salvator corporis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.024">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>sed ut ecclesia subiecta est Christo ita et mulieres viris suis in omnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.025">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:25</verseNum>
+      </reference>
+      <l>viri diligite uxores sicut et Christus dilexit ecclesiam et se ipsum tradidit pro ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.026">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:26</verseNum>
+      </reference>
+      <l>ut illam sanctificaret mundans lavacro aquae in verbo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.027">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:27</verseNum>
+      </reference>
+      <l>ut exhiberet ipse sibi gloriosam ecclesiam non habentem maculam aut rugam aut aliquid eiusmodi sed ut sit sancta et inmaculata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.028">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:28</verseNum>
+      </reference>
+      <l>ita et viri debent diligere uxores suas ut corpora sua qui suam uxorem diligit se ipsum diligit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.029">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:29</verseNum>
+      </reference>
+      <l>nemo enim umquam carnem suam odio habuit sed nutrit et fovet eam sicut et Christus ecclesiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.030">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:30</verseNum>
+      </reference>
+      <l>quia membra sumus corporis eius de carne eius et de ossibus eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.031">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:31</verseNum>
+      </reference>
+      <l>propter hoc relinquet homo patrem et matrem suam et adherebit uxori suae et erunt duo in carne una</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.032">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:32</verseNum>
+      </reference>
+      <l>sacramentum hoc magnum est ego autem dico in Christo et in ecclesia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.005.033">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>5:33</verseNum>
+      </reference>
+      <l>verumtamen et vos singuli unusquisque suam uxorem sicut se ipsum diligat uxor autem ut timeat virum</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Ephesians.006.001">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>filii oboedite parentibus vestris in Domino hoc enim est iustum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.002">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>honora patrem tuum et matrem quod est mandatum primum in promissione</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.003">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>ut bene sit tibi et sis longevus super terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.004">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>et patres nolite ad iracundiam provocare filios vestros sed educate illos in disciplina et correptione Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.005">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>servi oboedite dominis carnalibus cum timore et tremore in simplicitate cordis vestri sicut Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.006">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>non ad oculum servientes quasi hominibus placentes sed ut servi Christi facientes voluntatem Dei ex animo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.007">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>cum bona voluntate servientes sicut Domino et non hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.008">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>scientes quoniam unusquisque quodcumque fecerit bonum hoc percipiet a Domino sive servus sive liber</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.009">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>et domini eadem facite illis remittentes minas scientes quia et illorum et vester Dominus est in caelis et personarum acceptio non est apud eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.010">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>de cetero fratres confortamini in Domino et in potentia virtutis eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.011">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>induite vos arma Dei ut possitis stare adversus insidias diaboli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.012">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>quia non est nobis conluctatio adversus carnem et sanguinem sed adversus principes et potestates adversus mundi rectores tenebrarum harum contra spiritalia nequitiae in caelestibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.013">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>propterea accipite armaturam Dei ut possitis resistere in die malo et omnibus perfectis stare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.014">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>state ergo succincti lumbos vestros in veritate et induti loricam iustitiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.015">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>et calciati pedes in praeparatione evangelii pacis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.016">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>in omnibus sumentes scutum fidei in quo possitis omnia tela nequissimi ignea extinguere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.017">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>et galeam salutis adsumite et gladium Spiritus quod est verbum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.018">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>per omnem orationem et obsecrationem orantes omni tempore in Spiritu et in ipso vigilantes in omni instantia et obsecratione pro omnibus sanctis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.019">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>et pro me ut detur mihi sermo in apertione oris mei cum fiducia notum facere mysterium evangelii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.020">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>pro quo legatione fungor in catena ita ut in ipso audeam prout oportet me loqui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.021">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>ut autem et vos sciatis quae circa me sunt quid agam omnia nota vobis faciet Tychicus carissimus frater et fidelis minister in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.022">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:22</verseNum>
+      </reference>
+      <l>quem misi ad vos in hoc ipsum ut cognoscatis quae circa nos sunt et consoletur corda vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.023">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:23</verseNum>
+      </reference>
+      <l>pax fratribus et caritas cum fide a Deo Patre et Domino Iesu Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Ephesians.006.024">
+      <reference>
+        <bookName>Ephesians</bookName>
+        <verseNum>6:24</verseNum>
+      </reference>
+      <l>gratia cum omnibus qui diligunt Dominum nostrum Iesum Christum in incorruptione</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Ephesians.colophon.001">
+    <reference>
+      <bookName>Ephesians</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA AD EPHESIOS</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1648" nextid="o1650" id="o1649">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.935</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Inlumina quaesumus domine corda in te credentium ut tuo semper munimine et tuo semper auxilio protegantur</pBody>
+</prayer>

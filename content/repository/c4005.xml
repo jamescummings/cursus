@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4004" nextid="c4006" id="c4005">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> O beatum virum cuius anima paradisum possidet</rdg>
+         <rdg wit="CAO-S"> O beatum virum cuius animam paradisus possidet</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-S CAO-L"> unde exsultant angeli</rdg>
+         <rdg wit="CAO-H CAO-F"> unde exsultent angeli</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> laetantur archangeli</rdg>
+         <rdg wit="CAO-F"> laetentur archangeli</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> chorus sanctorum proclamat</rdg>
+         <rdg wit="CAO-V CAO-S CAO-L"> chorus sanctorum proclamant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> turba virginum invitat</rdg>
+         <rdg wit="CAO-L"> turba virginum invitant</rdg>
+         <rdg wit="CAO-V"> turba virginum invita</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> mane nobiscum in aeternum</rdg>
+         <rdg wit="CAO-H"> mane nobiscum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

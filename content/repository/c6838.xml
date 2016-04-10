@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6837" nextid="c6839" id="c6838">
+   <header>
+      <usage ms="Alb2" code="02010100">[46v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Alb2">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S Alb2"> Hic qui advenit</rdg>
+         <rdg wit="CAO-V"> Hi qui advenit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S Alb2"> nemo scit</rdg>
+         <rdg wit="CAO-V"> nemo sit</rdg>
+      </app> nomen eius nisi ipse solus vocatur verbum domini habens vestem praeclaram et
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-F CAO-S Alb2"> omnis chorus</rdg>
+         <rdg wit="CAO-B CAO-R"> omnes chori</rdg>
+      </app> angelorum in albis
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-F"> sequuntur illum</rdg>
+         <rdg wit="CAO-G"> sequitur illum</rdg>
+         <rdg wit="CAO-V"> sequitur eum</rdg>
+         <rdg wit="CAO-H"> sequuntur eum</rdg>
+         <rdg wit="CAO-C"> sequuntur ei</rdg>
+         <rdg wit="CAO-E CAO-S Alb2"> sequuntur agnum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R Alb2"> Ecce advenit dominator dominus et regnum in manu eius et potestas et imperium</vBody>
+      <vBody type="r" wit="CAO-G CAO-F CAO-S"> Oculi eius
+       <app>
+            <rdg wit="CAO-G CAO-S"> sicut flamma ignis</rdg>
+            <rdg wit="CAO-F"> velut flamma ignis</rdg>
+         </app> et in capite eius diademata multa</vBody>
+      <vBody id="c6838-1" type="r" wit="CAO-C"> Ecce advenit dominator dominus et regnum in manu eius et potestas et imperium</vBody>
+      <rep corresp="c6838-1" type="r" wit="CAO-C"> Habens</rep>
+      <vBody id="c6838-2" type="r" wit="CAO-C"> Tamquam sponsus</vBody>
+      <rep corresp="c6838-2" type="r" wit="CAO-C"> Et omnis</rep>
+      <rep type="r" wit="CAO-V CAO-H CAO-F CAO-S Alb2"> Et omnis</rep>
+      <rep type="r" wit="CAO-G CAO-E"> Habens</rep>
+      <rep type="r" wit="CAO-B CAO-R"> Et omnes</rep>
+   </verses>
+</res>

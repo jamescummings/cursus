@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1559" nextid="c1561" id="c1560">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V">
+      <app>
+         <rdg wit="CAO-E"> Beata Augusta de muro sedule orabat</rdg>
+         <rdg wit="CAO-C"> Beata Augusta de muro sedulo orabat</rdg>
+         <rdg wit="CAO-M CAO-V"> Beata Agusta de muro sedule orabat</rdg>
+      </app> dicens domine deus
+     <app>
+         <rdg wit="CAO-C CAO-M"> respice filium meum</rdg>
+         <rdg wit="CAO-E"> accipe filium meum</rdg>
+         <rdg wit="CAO-V"> recipe filium meum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M"> quia Romani amputaverunt caput eius</rdg>
+         <rdg wit="CAO-C CAO-V"> quia Judaei amputaverunt caput eius</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9538" nextid="c9540" id="c9539">
+   <header>
+      <usage ms="Bat" code="06021000">[44r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="Bat">Finito diluvio terraeque specie reparata foedere cum deo composito Noe arcam reliquit terram incoluit crevit crescens in cunctis domino placere studuit </rBody>
+   <verses>
+      <vBody type="r" wit="Bat"> Vir fide et oboedentia plenus oboediens praeceptis dei </vBody>
+      <rep type="r" wit="Bat"> Arcam</rep>
+   </verses>
+</res>

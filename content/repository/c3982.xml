@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3981" nextid="c3983" id="c3982">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-S"> Nursiae provincia exortus</rdg>
+         <rdg wit="CAO-L"> Nursia provincia <add place="over erasure">ortus</add>
+         </rdg>
+         <rdg wit="CAO-H CAO-R"> Nursia provincia exortus</rdg>
+      </app> Romae liberalibus litterarum studiis traditus a parentibus fuerat</aBody>
+</ant>

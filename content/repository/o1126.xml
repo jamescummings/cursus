@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1125" nextid="o1127" id="o1126">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Cdm" code="07012000">[58v] sext</usage>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+   </header>
+   <pBody wit="Hyd Ely Alb2 Cdm"> Redemptor noster aspice deus et tibi nos iugiter servire concede et ad beneficia
+     <app>
+         <rdg wit="Hyd">recolenda quibus nos instaurare dignatus tribue venire gaudentes</rdg>
+         <rdg wit="Ely Alb2 Cdm">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </pBody>
+</prayer>

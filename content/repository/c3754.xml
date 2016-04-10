@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3753" nextid="c3755" id="c3754">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R"> Michael archangelus venit in adiutorium</rdg>
+         <rdg wit="CAO-B CAO-L"> Michael archangele veni in adiutorium</rdg>
+         <rdg wit="CAO-F"> Michael archangele veni in adiutorio</rdg>
+         <rdg wit="CAO-V CAO-D"> Michael archangelus venit in adiutorio</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> populo dei</rdg>
+         <rdg wit="CAO-C CAO-E"> populum domini</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3401" nextid="c3403" id="c3402">
+   <header>
+      <usage ms="Alb2" code="02122500">[25v] matins-n2-a7</usage>
+      <usage ms="Bat" code="02122500">[15v] matins-n2-a8</usage>
+      <usage ms="Cdm" code="02122500">[22r] matins-n2-a8</usage>
+      <usage ms="Evm" code="02122500">[33v] matins-n2-a9</usage>
+      <usage ms="Hyd" code="02122500"/>
+      <usage ms="Pet" code="02122500">[16r] matins-n2-a9</usage>
+      <usage ms="Wcb" code="02122500">[54r] matins-n2-a9</usage>
+      <usage ms="Wor" code="02010100">[24v] matins-n2-a9</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-R CAO-F CAO-S Alb2 Wcb Bat"> Ipse invocabit me alleluia</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-D CAO-L Hyd Evm Cdm Wor Pet"> Ipse invocavit me alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> pater meus es tu alleluia</rdg>
+         <rdg wit="CAO-C"> pater meus es tu alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

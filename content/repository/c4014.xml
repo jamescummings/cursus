@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4013" nextid="c4015" id="c4014">
+   <aBody wit="CAO-C CAO-B CAO-R CAO-D CAO-F CAO-S CAO-L"> O crux admirabilis
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-R CAO-D CAO-F CAO-S"> evacuatio vulneris restitutio sanitatis</rdg>
+         <rdg wit="CAO-L"> evacuatio vulnerum restitutio sanitatum</rdg>
+      </app>
+   </aBody>
+</ant>

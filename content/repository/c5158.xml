@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5157" nextid="c5159" id="c5158">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-S"> Tollite iugum meum super vos</rdg>
+         <rdg wit="CAO-D"> Tollite iugum meum super vos et discite a me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S"> quia mitis sum et humilis corde</rdg>
+         <rdg wit="CAO-E"> quia mitis sum dominus deus vester</rdg>
+      </app>
+   </aBody>
+</ant>

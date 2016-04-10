@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>CURSUS Technology</title>
+</head>
+<body>
+<h1>CURSUS Technology</h1>
+<p>
+The CURSUS project was as much an investigation into the technologies 
+appropriate to the digitisation and encoding of medieval liturgical 
+manuscripts as about creating the resource itself.  The project quickliy 
+realised the benefits of XML encoding for the structuring and recording 
+of manuscript editions. 
+</p>
+
+<h3>Encoding</h3>
+<p>
+Almost of our working files are encoded in XML.  The 
+<a href="http://www.tei-c.org">Text Encoding Initiative</a> (TEI) Guidelines
+and DTD were used.  However, a number of extensions to the TEI DTD were 
+created using the extension methods provided.  This allowed us to use 
+a more specific taxonomy and included division elements for liturgical days, 
+and services, but also textual elements to structure antiphons, responds, prayers, and rubrics, amongst many others.
+</p>
+<p>
+The majority of encoding has been completed with the EMACS editor with 
+psgml and nxml modes. This allowed a set of project-specific tools, written 
+in elisp, to be created that facillitated data entry and encoding.  These
+include an extensive set of short-cuts for inserting templates of 
+frequently-used component elements, routines to automate the insertion 
+of cross-references between the project files, and various specific 
+validity-checking devices beyond the generalised ones included with 
+psgml.  For more information see our <a href="/emacs">EMACS</a> page.
+</p>
+
+<h3>Processing</h3>
+<p>
+The CURSUS files that form the core of the content delivered on the 
+website are the manuscript editions, and our repository of antiphons, 
+responds and prayers (both from CAO and our manuscripts).  Every full antiphon, 
+respond, or prayer in our manuscript files is extracted from this repository 
+when the manuscript editions are generated.  All of the biblical readings 
+for these editions are also plucked out of a standardised XML version 
+of the Vulgate we created for this purpose. As with almost all of 
+the transformations of CURSUS data this is done through the use of 
+extensible stylesheet language transformations (XSLT).  
+</p>
+<p>
+The processing transformations that take place include: bursting our 
+quite large repository into individual files for each antiphon, 
+respond or prayer; pre-generation of html versions of our manuscript 
+files incorporating individual repository items and Vulgate readings; 
+and the creation of our alphabeticised incipit lists of those antiphons, 
+responds and prayers in our repository.
+</p>
+
+<h3>Delivery</h3>
+<p>
+The website is mainly run through <a href="https://github.com/ironchicken/pycoon/">Pycoon</a>, a
+Python-based XML web publishing framework which allows (amongst many other things) the
+dynamic pipelining of XSLT transformations.  So as a user clicks on a particular URL, an
+xml source source may be transformed a number of times (and/or aggregated from a number of
+sources) before final XSLT stylesheet adds on stylistic and navigational aids such as our
+header, sidebar and footer.  All of this is invisible and (given network connectivity and
+not too much of a strain on the old machine runing it) fairly swiftly completed.  This
+kind of on-the-fly transformation is used for the critical editions and individual
+readings of our repository items, as well as for pages such as this one.
+</p>
+<p>
+A full-text index of the text has also been created using <a href="http://www.swish-e.org/">Swish-e</a>
+and a Web-based interface to it is available to users so that they can perform full-text searches.
+</p>
+<!--<p> All the files are also added to an <a href="http://exist-db.org">eXist</a>
+     database to facillitate searching.  In truth, all of the files could be served from
+     this wonderful native XML database, as it is embedded in cocoon.  However, it was
+     felt easier to stick with the system already set up prior to the installation of
+     eXist for searching.  </p>-->
+
+<p>If you have any other questions about the technology behind the 
+CURSUS project feel free to contact us at: <a href="mailto:James.Cummings@it.ox.ac.uk">James.Cummings@it.ox.ac.uk</a>
+</p>
+</body>
+</html>

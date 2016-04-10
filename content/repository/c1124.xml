@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1123" nextid="c1125" id="c1124">
+   <header>
+      <usage ms="Bat" code="06011000">[41v] matins inv</usage>
+      <usage ms="Cdm" code="06011000">[48v] matins inv</usage>
+      <usage ms="Evm" code="07031000">[120r] matins</usage>
+      <usage ms="Hyd" code="06021000">[63r] matins inv</usage>
+      <usage ms="Mch" code="06031000">[106r] matins inv</usage>
+      <usage ms="Pet" code="06011000">[54v] matins</usage>
+      <usage ms="Wcb" code="07031000">[100r] matins</usage>
+      <usage ms="Wor" code="06011000">[36r] matins inv</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Wor Pet Evm Wcb Hyd Cdm Bat Mch"> Quoniam deus magnus dominus et rex magnus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Wor Pet Evm Wcb Hyd Cdm Bat Mch"> super omnes deos</rdg>
+         <rdg wit="CAO-C"> super omnes</rdg>
+      </app>
+   </aBody>
+</ant>

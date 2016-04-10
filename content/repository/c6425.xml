@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6424" nextid="c6426" id="c6425">
+   <header>
+      <usage ms="Cdm" code="07063000">[76r] matins-r1</usage>
+      <usage ms="Cht" code="07061000">[53v] matins-n2-r6</usage>
+      <usage ms="Ely" code="07063000">[87r] matins-r1</usage>
+      <usage ms="Evm" code="07061000">[142r] matins-n2-r6</usage>
+      <usage ms="Hyd" code="07061000">[90r] matins-n1-r3</usage>
+      <usage ms="Pet" code="07061000">[84v] matins-n2-r7</usage>
+      <usage ms="Wcb" code="07061000">[111v] matins-n2-r6</usage>
+      <usage ms="Wor" code="07063000">[57r] matins-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Evm Wcb Pet Cdm"> Deus Israel propter te sustinui
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F Ely Wor Cht Hyd Evm Wcb Pet Cdm"> improperium</rdg>
+         <rdg wit="CAO-D">improperia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R Ely Wor Cht Hyd Evm Wcb Pet Cdm"> operuit reverentia</rdg>
+         <rdg wit="CAO-E CAO-D">operui reverentia</rdg>
+         <rdg wit="CAO-V CAO-F">operuit reverentiam</rdg>
+      </app> faciem meam extraneus factus sum fratribus meis et hospes
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Evm Wcb Pet Cdm">filiis matris meae</rdg>
+         <rdg wit="CAO-V">filius matris meae</rdg>
+      </app> quoniam zelus domus tuae comedit me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-H"> Deus deus meus respice in me quare me dereliquisti longe a salute mea</vBody>
+      <vBody type="r" wit="CAO-E CAO-V"> Deus deus meus respice in me</vBody>
+      <vBody type="r" wit="CAO-R">  Deus deus meus respice in me quare me dereliquisti</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F Ely Wor Cht Hyd Evm Wcb Pet Cdm"> Improperia improperantium tibi ceciderunt super me</vBody>
+      <vBody id="c6425-1" type="r" wit="CAO-C"> Intende animae meae et libera eam propter inimicos meos eripe me</vBody>
+      <rep corresp="c6425-1" type="r" wit="CAO-C"> Quoniam</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Evm Wcb Pet Cdm">Quoniam</rep>
+      <rep type="r" wit="CAO-V">Extraneus</rep>
+   </verses>
+</res>

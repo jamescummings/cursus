@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4466" nextid="c4467b" id="c4467">
+   <aBody wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F"> Qui dum eremum peteret</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> Dum in eremum pergeret</rdg>
+         <rdg wit="CAO-S"> Qui dum eremum pergeret</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F CAO-S"> Romanum monachum obviavit</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> Romano monacho obviavit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-S"> cuius cum desiderium cognovisset</rdg>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F"> cuius cum desiderium agnovisset</rdg>
+      </app> et secretum tenuit et adiutorium impendit</aBody>
+</ant>

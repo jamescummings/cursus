@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2070" nextid="c2072" id="c2071">
+   <aBody wit="CAO-C CAO-E"> Cumque sancta membra beati Medardi
+     <app>
+         <rdg wit="CAO-E"> tumulo conderentur</rdg>
+         <rdg wit="CAO-C"> tumulo condirentur</rdg>
+      </app> caelum apertum est et duae columbae visae sunt
+     <app>
+         <rdg wit="CAO-C"> descendisse quasi nubes</rdg>
+         <rdg wit="CAO-E">
+            <corr sic="descendisse">descendissent</corr> quasi nube</rdg>
+      </app> et de ore eius egressa est
+     <app>
+         <rdg wit="CAO-C"> columba candida sicut nix</rdg>
+         <rdg wit="CAO-E"> columba candida quasi nix</rdg>
+      </app>
+   </aBody>
+</ant>

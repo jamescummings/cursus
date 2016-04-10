@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7604" nextid="c7606" id="c7605">
+   <rBody wit="CAO-D CAO-F"> Sanctorum corporum sacer sanguis undas perfudit pretiosorum martyrum societas consecravit
+     <app>
+         <rdg wit="CAO-D"> quem</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="quem">que</corr>
+         </rdg>
+      </app> novit Rhodanus inundando
+     <app>
+         <rdg wit="CAO-F"> perfusus</rdg>
+         <rdg wit="CAO-D"> refusus</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Pretiosa sunt Thebaeorum martyrum
+      <app>
+            <rdg wit="CAO-F"> vulnera</rdg>
+            <rdg wit="CAO-D"> corpora vulnerata</rdg>
+         </app> sancti Mauritii
+      <app>
+            <rdg wit="CAO-F"> cum sociis suis</rdg>
+            <rdg wit="CAO-D"> sociorumque eius</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-F">Pretiosorum</rep>
+      <rep type="r" wit="CAO-D">Quem</rep>
+   </verses>
+</res>

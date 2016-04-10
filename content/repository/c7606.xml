@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7605" nextid="c7607" id="c7606">
+   <rBody wit="CAO-E CAO-L"> Sanctorum pater Vitalis mater Valeria dicti sunt quos uno ortu geminos genuerunt et unum Protasium alterum vero Gervasium vocaverunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Ipsi vero in uno cenaculo se concluserunt per decem annos lectioni et orationi vacarunt</vBody>
+      <vBody type="r" wit="CAO-L"> Quos in fide Christi educentes ab ipsis pene cunabulis sacris litteris nutriendos tradiderunt</vBody>
+      <rep type="r" wit="CAO-E CAO-L"> Et</rep>
+   </verses>
+</res>

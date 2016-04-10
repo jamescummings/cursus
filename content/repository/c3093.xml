@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3092" nextid="c3094" id="c3093">
+   <header>
+      <usage ms="Alb2" code="02122500">[30r] vesp2 gosp</usage>
+      <usage ms="Bat" code="02122500">[18v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="02122500">[24r] vesp2 gosp</usage>
+      <usage ms="Ely" code="02122500">[21v] vesp2 gosp</usage>
+      <usage ms="Evm" code="02122500">[38r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="02122500">[21v] vesp2 gosp</usage>
+      <usage ms="Pet" code="02122500">[19r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="02122500">[57v] vesp2 gosp</usage>
+      <usage ms="Wor" code="02122700">[21r] commemoration</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Hodie Christus natus est hodie salvator apparuit hodie in terra canunt angeli
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> laetantur archangeli</rdg>
+         <rdg wit="CAO-F"> laetentur archangeli</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Evm Wor"> hodie exsultent iusti</rdg>
+         <rdg wit="CAO-B CAO-E CAO-L Alb2 Wcb Bat Cdm Ely Pet"> hodie exsultant iusti</rdg>
+      </app> dicentes gloria in excelsis deo alleluia</aBody>
+</ant>

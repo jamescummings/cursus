@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2551" nextid="c2553" id="c2552">
+   <header>
+      <usage ms="Alb2" code="01011000">[4v] lauds-a5</usage>
+      <usage ms="Bat" code="01011000">[4r] lauds-a5</usage>
+      <usage ms="Cdm" code="01011000">[10r] lauds-a5</usage>
+      <usage ms="Ely" code="01011000">[4v] lauds-a5</usage>
+      <usage ms="Evm" code="01011000">[7r] lauds-a5</usage>
+      <usage ms="Evm" code="01035009">[20r] lauds-a1</usage>
+      <usage ms="Hyd" code="01011000">[3v] lauds-a5</usage>
+      <usage ms="Mch" code="01011000">[4v] lauds-a5</usage>
+      <usage ms="Wcb" code="01011000">[43v] lauds-a5</usage>
+      <usage ms="Wor" code="01011000">[3v] lauds-a5</usage>
+      <usage ms="Wor" code="01045000">[10r] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Ecce veniet propheta magnus et ipse renovabit Jerusalem alleluia</aBody>
+</ant>

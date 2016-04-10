@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3103" nextid="c3105" id="c3104">
+   <header>
+      <usage ms="Alb2" code="02122500">[25v] matins-n2-a9</usage>
+      <usage ms="Bat" code="02122600">[20v] vesp2 commemoration</usage>
+      <usage ms="Cdm" code="02122500">[23v] terce</usage>
+      <usage ms="Ely" code="02122500">[21r] terce</usage>
+      <usage ms="Evm" code="02122500">[37v] terce</usage>
+      <usage ms="Hyd" code="02122500">[21r] terce</usage>
+      <usage ms="Pet" code="02122500">[18v] terce</usage>
+      <usage ms="Wcb" code="02122500">[57r] terce</usage>
+      <usage ms="Wor" code="02122500">[16r] terce</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.146-147</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Hodie intacta virgo deum nobis genuit</l>
+         <l part="N"> teneris
+       <app>
+               <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> indutum</rdg>
+               <rdg wit="CAO-D"> inductum</rdg>
+               <rdg wit="CAO-V"> inductus</rdg>
+            </app> membris
+       <app>
+               <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Ely Wor Pet"> quem lactare</rdg>
+               <rdg wit="Alb2"> collactare</rdg>
+            </app> meruit</l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Ely Wor Pet"> omnes ipsum adoremus</rdg>
+               <rdg wit="Alb2"> ipsum omnes adoremus</rdg>
+               <rdg wit="CAO-C CAO-G CAO-H"> omnes Christum adoremus</rdg>
+            </app>
+            <app>
+               <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> qui venit salvare nos</rdg>
+               <rdg wit="CAO-L"> venit qui salvare nos</rdg>
+            </app>
+         </l>
+      </lg>
+   </aBody>
+</ant>

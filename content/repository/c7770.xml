@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7769" nextid="c7771" id="c7770">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tollite iugum meum super vos dicit dominus
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et discite</rdg>
+         <rdg wit="CAO-E"> et <corr sic="dicite">discite</corr>
+         </rdg>
+         <rdg wit="CAO-V"> et dicite</rdg>
+      </app> quia mitis sum et humilis corde iugum enim meum suave est et onus meum leve</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Et invenietis requiem animabus vestris</vBody>
+      <vBody type="r" wit="CAO-L"> Venite ad me omnes qui laboratis et onerati estis et ego reficiam vos</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Jugum</rep>
+   </verses>
+</res>

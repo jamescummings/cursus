@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1565" nextid="c1567" id="c1566">
+   <aBody wit="CAO-E CAO-L">
+      <app>
+         <rdg wit="CAO-E"> Beata es virgo Maria dei genitrix</rdg>
+         <rdg wit="CAO-L"> Beata es virgo dei genitrix</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> quae credidisti dominum</rdg>
+         <rdg wit="CAO-L"> quae credidisti domino</rdg>
+      </app> perfecta sunt in te
+     <app>
+         <rdg wit="CAO-E"> quae dicta sunt</rdg>
+         <rdg wit="CAO-L"> quae dicta sunt tibi a domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> ecce exaltata es</rdg>
+         <rdg wit="CAO-L"> ecce exaltata est</rdg>
+      </app> super choros angelorum intercede pro nobis ad dominum deum nostrum</aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5343" nextid="c5345" id="c5344">
+   <header>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+      <usage ms="Alb2" code="02010600"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Venit lumen tuum Jerusalem et gloria domini super te orta est et ambulabunt gentes
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S Alb2 Hyd Pet"> in lumine tuo alleluia</rdg>
+         <rdg wit="CAO-V CAO-H CAO-L"> illumine tuo alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

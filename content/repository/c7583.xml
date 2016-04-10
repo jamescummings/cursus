@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7582" nextid="c7584" id="c7583">
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sancte Paule apostole praedicator veritatis et doctor gentium intercede pro nobis ad deum qui te elegit ut digni efficiamur gratia dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> Tu es vas electionis sancte Paule apostole praedicator veritatis
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L"> in universo mundo</rdg>
+            <rdg wit="CAO-F"> et doctor gentium</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S"> Tu es vas electionis beate Paule apostole ora pro nobis deum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> Intercede</rep>
+      <rep type="r" wit="CAO-S">Ut digni</rep>
+   </verses>
+</res>

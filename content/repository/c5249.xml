@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5248" nextid="c5250" id="c5249">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Tunc praecepit eos omnes igne cremari</rdg>
+         <rdg wit="CAO-C"> Tunc praecepit omnes igne cremari</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> at illi timentes tradiderunt iudam alleluia</rdg>
+         <rdg wit="CAO-C"> at illi tenentes tradiderunt iudam</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> at illi timentes tradiderunt iudam</rdg>
+      </app>
+   </aBody>
+</ant>

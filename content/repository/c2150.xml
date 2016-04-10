@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2149" nextid="c2151" id="c2150">
+   <header>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-F CAO-L Hyd"> Deposuit potentes sanctos persequentes et exaltavit humiles
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-F CAO-L"> Christum confitentes</rdg>
+         <rdg wit="CAO-G"> Christo confitentes</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6514" nextid="c6515" id="c6514a">
+   <rBody wit="CAO-C CAO-H CAO-F"> Domine si conversus fuerit
+      <app>
+         <rdg wit="CAO-C CAO-H"> populus tuus</rdg>
+         <rdg wit="CAO-F"> populus iste</rdg>
+      </app> oraverit ad sanctuarium tuum tu exaudies in caelo Domine et libera eos de manibus inimicorum eorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-F"> Si peccaverit in te populus tuus et conversus egerit paenitentiam veniensque oraverit in loco isto</vBody>
+      <rep type="r" wit="CAO-C CAO-F"> Tu exaudies</rep>
+      <vBody type="r" wit="CAO-H"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody id="c6514-1" type="r" wit="CAO-C"> Qui regis</vBody>
+      <rep corresp="c6514-1" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regression given in CAO-C</note>
+      </rep>
+      <rep type="r" wit="CAO-H"> Et libera eos de manibus</rep>
+   </verses>
+</res>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6804" nextid="c6805" id="c6804a">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for the Common and for saints other than Sts John and Paul</note>
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Haec est vera fraternitas quae numquam potuit
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> violari</rdg>
+         <rdg wit="CAO-M"> violare</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-L"> certamine</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M"> certamina</rdg>
+         <rdg wit="CAO-V">
+            <sic resp="Hesbert">certaminen</sic>
+         </rdg>
+      </app> qui effuso sanguine secuti sunt dominum contemnentes
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> aulam regiam</rdg>
+         <rdg wit="CAO-C CAO-D"> aulas regias</rdg>
+      </app> pervenerunt ad regna caelestia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Ecce quam bonum et quam iucundum habitare fratres in unum</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Contemnentes</rep>
+   </verses>
+</res>

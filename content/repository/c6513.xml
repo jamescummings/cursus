@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6512" nextid="c6514" id="c6513">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Domine si adhuc populo tuo sum necessarius non recuso subire propter eos
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> laborem</rdg>
+         <rdg wit="CAO-C"> labores</rdg>
+      </app> fiat voluntas tua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-F"> Oculis ac manibus in caelum semper
+      <app>
+            <rdg wit="CAO-E CAO-V"> intentus</rdg>
+            <rdg wit="CAO-C CAO-F"> intentis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-F"> invictum</rdg>
+            <rdg wit="CAO-E"> invictu</rdg>
+            <rdg wit="CAO-V">
+               <corr sic="invictu">invictus</corr>
+            </rdg>
+         </app> ab oratione
+      <app>
+            <rdg wit="CAO-C CAO-V CAO-F"> spiritum</rdg>
+            <rdg wit="CAO-E"> spiritus</rdg>
+         </app> non relaxabat
+      <app>
+            <rdg wit="CAO-F"> dicens</rdg>
+            <rdg wit="CAO-C CAO-E CAO-V" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-H"> Oculis ac manibus</vBody>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R"> Domine si adhuc in eodem labore stare me praecipis munia tua devotus implebo</vBody>
+      <vBody type="r" wit="CAO-C"> Bonum certamen certavi cursum consummavi fidem servavi</vBody>
+      <vBody type="r" wit="CAO-M"> Bonum certamen</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Satis est domine
+      <app>
+            <rdg wit="CAO-S"> quod hucusque</rdg>
+            <rdg wit="CAO-L"> quo adhuc usque</rdg>
+         </app> certavi
+      <app>
+            <rdg wit="CAO-S"> ne deficiente</rdg>
+            <rdg wit="CAO-L"> nec deficiente</rdg>
+         </app> causabor
+      <app>
+            <rdg wit="CAO-L"> aetate</rdg>
+            <rdg wit="CAO-S"> aetatem</rdg>
+         </app> munia tua devotus implebo</vBody>
+      <vBody type="r" wit="CAO-D"> Domine si adhuc in praesenti pro castris tuorum stare me praecipis non recuso nec fatiscentem causabor aetatem</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> Fiat</rep>
+   </verses>
+</res>

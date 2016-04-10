@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6880" nextid="c6882" id="c6881">
+   <rBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">Illicitos aestus quos de te Spiritus almus</l>
+         <l part="N">Expulit a propriis aufer pia Magdala servis</l>
+         <l part="N">Ut tibi consimiles fore possint atque sequaces</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <verse type="stanza">
+            <l part="N">Tempore praesenti fuerit cum finis et orbis</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-L">Ut</rep>
+   </verses>
+</res>

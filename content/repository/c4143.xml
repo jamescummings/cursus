@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4142" nextid="c4144" id="c4143">
+   <aBody wit="CAO-M CAO-F"> Omnipotens deus supplices te rogamus et petimus ut intercessio archangelorum sit pro nobis
+     <app>
+         <rdg wit="CAO-M"> ad dominum</rdg>
+         <rdg wit="CAO-F"> ad te semper</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> Michaelis et Gabrielis similiter et Raphaelis</rdg>
+         <rdg wit="CAO-F"> Michaelis et Gabrielis pariterque et Raphaelis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> ut digni offeramus domino</rdg>
+         <rdg wit="CAO-F"> ut digne offeramus tibi</rdg>
+      </app> hostias ad altare et appareamus ante salvatorem per intercessionem novem ordinum angelorum thronum et dominationum
+     <app>
+         <rdg wit="CAO-M"> angelorum throni et dominationes principatus et potestates</rdg>
+         <rdg wit="CAO-F"> principatum et dominationum et virtutum</rdg>
+      </app> cum cherubim et seraphim ut ipsi intercedant pro nobis
+     <app>
+         <rdg wit="CAO-M"> qui non cessant clamare semper</rdg>
+         <rdg wit="CAO-F"> qui non cessant clamare dicentes</rdg>
+      </app> sanctus sanctus sanctus dominus deus exercituum rex Israel qui regnas sine fine
+     <app>
+         <rdg wit="CAO-M"> dignare famulos tuos hodie exaudire alleluia</rdg>
+         <rdg wit="CAO-F"> dignare famulos tuos domine exaudire alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

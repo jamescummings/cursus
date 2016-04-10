@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6842" nextid="c6844" id="c6843">
+   <rBody wit="CAO-B CAO-H CAO-R CAO-L"> Hoc beato Gregorio gratia divina concessit ut merito ab Anglorum populis debeat apostolus appellari quia ipsius gratiae adscribitur quod illorum ecclesia nova semper sobole
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> fecundatur</rdg>
+         <rdg wit="CAO-L"> fecundemur</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-L"> Quousque enim mundus iste volvitur eius laudabile meritum semper accipit incrementum</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-L"> Quia</rep>
+   </verses>
+</res>

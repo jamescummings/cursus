@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1887" nextid="c1889" id="c1888">
+   <header>
+      <usage ms="Glo" code="07011000">[58v] mandatum</usage>
+   </header>
+   <aBody wit="CAO-C CAO-F CAO-L"> Congregavit nos Christus ad glorificandum seipsum reple domine animas nostras sancto spiritu</aBody>
+   <aBody wit="CAO-C" num="2"> Congregavit nos Christus ad glorificandum seipsum reple domine et animas nostras sancto spiritu alleluia</aBody>
+   <aBody wit="Glo" type="incipit">Congregavit</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-F"> A solis ortu et occasu ab Aquilone et mari</vBody>
+      <vBody type="a" wit="CAO-L"> Deus qui habitare facis unanimes in domo</vBody>
+   </verses>
+</ant>

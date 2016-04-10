@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3719" nextid="c3721" id="c3720">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F"> Martyrum chorus</rdg>
+         <rdg wit="CAO-S"> Martyrum chori</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R CAO-F CAO-S"> laudate dominum in excelsis</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H"> laudate dominum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

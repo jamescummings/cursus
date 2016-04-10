@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5464" nextid="c5466" id="c5465">
+   <header>
+      <usage ms="Cht" code="07021000">[29v] vesp1</usage>
+      <usage ms="Ely" code="07017000"/>
+      <usage ms="Evm" code="07017000"/>
+      <usage ms="Hyd" code="07021000">[74r] vesp1-a1</usage>
+      <usage ms="Pet" code="07017000"/>
+      <usage ms="Wor" code="07017000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Pet Evm"> Visionem quam vidistis nemini dixeritis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Pet Evm"> donec a mortuis resurgat filius hominis</rdg>
+         <rdg wit="CAO-V"> donec a mortuis resurgat filium hominis</rdg>
+         <rdg wit="CAO-M"> donec filius hominus a mortuis resurgat</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Cht" num="2"> Visionem quam vidistis nemini dixeritis donec a mortuis <gap desc="last words of antiphon" reason="loss of folio after 29v of manuscript" resp="DC"/>
+   </aBody>
+   <aBody wit="Wor" num="3">
+      <gap reason="verbal and musical text erased" resp="DC" extent="first three words of text"/> nemini dixeritis donec a mortuis resurgat filius hominis</aBody>
+</ant>

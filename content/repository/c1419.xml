@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1418" nextid="c1420" id="c1419">
+   <header>
+      <usage ms="Alb2" code="07052000">[101v] prime</usage>
+      <usage ms="Cdm" code="07052000">[72r] prime</usage>
+      <usage ms="Cht" code="07052000">[50r] prime</usage>
+      <usage ms="Ely" code="07052000">[83r] prime</usage>
+      <usage ms="Evm" code="07052000">[137v] prime</usage>
+      <usage ms="Glo" code="07052000">[71r] prime</usage>
+      <usage ms="Hyd" code="07052000">[88r] prime</usage>
+      <usage ms="Mch" code="07052000">[148v] prime</usage>
+      <usage ms="Wcb" code="07052000">[109v] prime</usage>
+      <usage ms="Wor" code="07052000">[54v] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Evm Wcb Glo Alb2 Cdm Mch"> Animae impiorum fremebant adversum me</rdg>
+         <rdg wit="CAO-L"> Animae impiorum fremebant adversus me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Glo Alb2 Cdm Mch">et gravatum est cor meum</rdg>
+         <rdg wit="CAO-G">gravatum est cor meum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Evm Wcb Glo Alb2 Cdm Mch">super eos</rdg>
+         <rdg wit="CAO-G">super illos</rdg>
+         <rdg wit="CAO-S">super eum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7111b" nextid="c7113" id="c7112">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Pet"> Magi veniunt ab oriente</rdg>
+         <rdg wit="CAO-V CAO-L Hyd"> Magi venerunt ab oriente</rdg>
+      </app> Jerosolymam quaerentes et dicentes ubi est qui natus est cuius stellam vidimus et venimus adorare dominum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-R CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-S CAO-L"> Vidimus stellam eius</rdg>
+            <rdg wit="CAO-G CAO-R"> Vidimus enim stellam eius</rdg>
+         </app> in Oriente</vBody>
+      <vBody type="r" wit="CAO-C CAO-H"> Magi veniunt ab Oriente inquirentes faciem domini et dicentes</vBody>
+      <vBody type="r" wit="CAO-E"> Magi veniunt ab Oriente</vBody>
+      <vBody type="r" wit="CAO-M"> Magi veniunt</vBody>
+      <vBody type="r" wit="CAO-V CAO-D CAO-F Alb2 Hyd Pet"> Cum natus esset Jesus in Bethleem Judae in diebus Herodis regis ecce magi ab oriente venerunt Jerosolymam
+      <app>
+            <rdg wit="CAO-V CAO-D CAO-F Hyd Pet"> dicentes</rdg>
+            <rdg wit="Alb2"> quaerentes et dicentes</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-R CAO-S CAO-L"> Et venimus</rep>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-H CAO-V CAO-D CAO-F Alb2 Hyd Pet">Ubi est</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

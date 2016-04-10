@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2089" nextid="c2091" id="c2090">
+   <header>
+      <usage ms="Hyd" code="10800000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Da pacem domine in diebus nostris
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> quia</rdg>
+         <rdg wit="Hyd"> qui</rdg>
+      </app> non est alius qui pugnet pro nobis nisi tu deus noster</aBody>
+</ant>

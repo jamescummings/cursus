@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6573" nextid="c6575" id="c6574">
+   <rBody wit="CAO-C CAO-V"> Ecce advenit dominator
+      <app>
+         <rdg wit="CAO-V"> dominus</rdg>
+         <rdg wit="CAO-C"> dominus omnipotens</rdg>
+      </app> et regnum in manu eius et potestas et imperium</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Et factus est principatus super humerum eius</vBody>
+      <rep type="r" wit="CAO-C"> Et regnum</rep>
+      <vBody type="r" wit="CAO-V"> Surge et illuminare Jerusalem quia venit lumen tuum</vBody>
+      <rep type="r" wit="CAO-C"> Et regnum</rep>
+      <rep type="r" wit="CAO-V"> Et potestas</rep>
+   </verses>
+</res>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2167" nextid="c2169" id="c2168">
+   <header>
+      <usage ms="Hyd" code="01013000">[5r] matins-n1-a3</usage>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Deus deorum dominus locutus est</aBody>
+</ant>

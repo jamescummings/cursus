@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1588" nextid="o1590" id="o1589">
+   <header>
+      <usage ms="Hyd" code="07058000">[88r] </usage>
+      <usage ms="Mch" code="07058000">[148r] </usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.235*</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Mch">Deus qui unicum filium tuum pro omnibus nobis in mortem crucis sponte dedisti concede nobis recte credentibus ut per eandem mortem a morte perpetua liberemur</pBody>
+</prayer>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1619" nextid="o1621" id="o1620">
+   <header>
+      <usage ms="Wcb" code="07031000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.914</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb">Gaudeat domine quaesumus populus tua semper benedictione confisus ut et temporalibus beneficiis adiuvetur et erudiatur aeternis</pBody>
+</prayer>

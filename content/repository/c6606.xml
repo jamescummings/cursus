@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6605" nextid="c6606b" id="c6606">
+   <header>
+      <usage ms="Alb2" code="01031000">[12v] matins-n3-r9</usage>
+      <usage ms="Bat" code="01031000">[9r] matins-n3-r12</usage>
+      <usage ms="Cdm" code="01031000">[15r] matins-n3-r12</usage>
+      <usage ms="Ely" code="01031000">[10v] matins-n3-r12</usage>
+      <usage ms="Evm" code="01031000">[17r] matins-n2-r8</usage>
+      <usage ms="Hyd" code="01031000">[10v] matins-n3-r12</usage>
+      <usage ms="Mch" code="01031000">[11r] matins-n3-r9</usage>
+      <usage ms="Wcb" code="01031000">[46v] matins-n2-r8</usage>
+      <usage ms="Wor" code="01031000">[7v] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Ecce radix Jesse ascendet</rdg>
+         <rdg wit="CAO-C CAO-S"> Ecce radix Jesse ascendit</rdg>
+      </app> in salutem populorum ipsum gentes deprecabuntur et erit nomen eius
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> gloriosum</rdg>
+         <rdg wit="CAO-L"> gloriosus</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L Alb2 Mch Cdm Ely Bat">
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S CAO-L Alb2 Mch Cdm Ely"> Dabit ei dominus deus</rdg>
+            <rdg wit="Bat"> Dabit illi dominus deus</rdg>
+         </app> sedem David
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-S Alb2 Mch Cdm Ely Bat"> patris eius</rdg>
+            <rdg wit="CAO-L"> patris sui</rdg>
+         </app> et regnabit in domo Jacob in aeternum</vBody>
+      <vBody type="r" wit="CAO-H"> Deus a Libano veniet et sanctus de monte umbroso et condenso</vBody>
+      <vBody type="r" wit="CAO-C CAO-V"> Deus a Libano veniet</vBody>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R"> Deus a Libano</vBody>
+      <vBody type="r" wit="CAO-G"> Et erit iustitia cingulum lumborum eius et fides cinctorium renum eius</vBody>
+      <vBody type="r" wit="Wor"> Exsurget rex immensae pietatis et per virginem nascetur mundi salus</vBody>
+      <vBody type="r" wit="Hyd Evm Wcb"> Multiplicabitur eius imperium et pacis non erit finis</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wcb Bat">Et erit</rep>
+      <dox type="r" wit="Hyd">Gloria</dox>
+      <rep type="r" num="2" wit="Hyd"> Et erit</rep>
+   </verses>
+</res>

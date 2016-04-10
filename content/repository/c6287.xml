@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6286" nextid="c6288" id="c6287">
+   <header>
+      <usage ms="Alb2" code="07061000">[105v] vesp2</usage>
+      <usage ms="Cdm" code="07061000">[75v] vesp2-r1</usage>
+      <usage ms="Evm" code="07061000">[144r] vesp2</usage>
+      <usage ms="Glo" code="07061000">[77r] vesp2</usage>
+      <usage ms="Hyd" code="07061000">[89v] vesp1</usage>
+      <usage ms="Mch" code="07061000">[154r] matins-n3-r12</usage>
+      <usage ms="Pet" code="07061000">[86r] vesp2</usage>
+      <usage ms="Wcb" code="07061000">[113r] vesp2</usage>
+      <usage ms="Wor" code="07061000">[56v] vesp2</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Circumdederunt me viri mendaces
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Hyd Pet Evm Alb2 Cdm"> sine causa flagellis ceciderunt me</rdg>
+         <rdg wit="CAO-S Ely Wor Wcb Glo Mch"> sine causa flagellis ciciderunt me</rdg>
+      </app> sed tu domine defensor vindica mea</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">Quoniam tribulatio proxima est et non est qui adiuvet</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Hyd Pet Evm Glo Alb2 Cdm Mch">Sed tu</rep>
+      <rep type="r" wit="Wcb">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">[no regressio shown]</note>
+      </rep>
+      <rep type="r" num="2" wit="Ely Wor Alb2">Circumderunt</rep>
+   </verses>
+</res>

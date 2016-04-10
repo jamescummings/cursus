@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6546b" nextid="c6548" id="c6547">
+   <header>
+      <usage ms="Alb2" code="07021000">[83v] matins-n2-r8</usage>
+      <usage ms="Bat" code="07021000">[51v] matins-n2-r5</usage>
+      <usage ms="Cdm" code="07021000">[60v] matins-n1-r4</usage>
+      <usage ms="Ely" code="07021000">[71r] matins-n1-r4</usage>
+      <usage ms="Evm" code="07021000">[115r] matins-n2-r5</usage>
+      <usage ms="Hyd" code="07021000">[74v] matins-n1-r4</usage>
+      <usage ms="Mch" code="07021000">[123v] matins-n3-r11</usage>
+      <usage ms="Pet" code="07021000">[67v] matins-n1-r4</usage>
+      <usage ms="Wcb" code="07021000">[97v] matins-n2-r5</usage>
+      <usage ms="Wor" code="07021000">[45v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Pet Evm Wcb Alb2 Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Pet Evm Wcb Alb2 Cdm Bat Mch"> Dum iret Jacob de Bersabee</rdg>
+         <rdg wit="CAO-V"> Dum exiret Jacob de Bersabee</rdg>
+      </app> et pergeret Aran locutus est ei deus dicens
+      <app>
+         <rdg wit="CAO-R CAO-D CAO-F CAO-S Ely Hyd Wor Pet Evm Wcb Alb2 Cdm Bat Mch"> terram in qua dormis</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-L"> terra in qua dormis</rdg>
+      </app> tibi dabo et semini tuo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Pet Evm Wcb Alb2 Cdm Bat Mch">
+         <app>
+            <rdg wit="CAO-C CAO-D CAO-F CAO-L Ely Hyd Wor Pet Evm Wcb Cdm Bat Mch"> Aedificavit ibi Jacob</rdg>
+            <rdg wit="CAO-R"> Aedificavit autem ibi Jacob</rdg>
+            <rdg wit="CAO-E CAO-S Alb2"> Aedificavit Jacob</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-S Ely Hyd Wor Pet Evm Wcb Alb2 Cdm Bat Mch"> ex lapidibus</rdg>
+            <rdg wit="CAO-L"> ex lapide</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-R CAO-D CAO-F Ely Hyd Wor Pet Evm Wcb Alb2 Cdm Bat"> altare in honorem domini</rdg>
+            <rdg wit="CAO-S CAO-L Mch"> altare in honore domini</rdg>
+            <rdg wit="CAO-C"> altare domino</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-S CAO-L Ely Hyd Wor Pet Evm Wcb Alb2 Cdm Bat Mch"> fundens oleum desuper</rdg>
+            <rdg wit="CAO-F"> fundensque oleum desuper</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-D CAO-S Ely Hyd Alb2"> et benedixit eum deus dicens</rdg>
+            <rdg wit="Pet Evm Wcb Cdm Bat"> et benedixit ei deus dicens</rdg>
+            <rdg wit="Mch"> et benedixit deum dicentem sibi</rdg>
+            <rdg wit="CAO-F Wor"> benedixit ei deus dicens</rdg>
+            <rdg wit="CAO-L"> benedixit eum deus dicens</rdg>
+            <rdg wit="CAO-C"> benedixit ei dicens</rdg>
+            <rdg wit="CAO-E"> benedixit deum dicens</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V"> Et benedicentur in te et in semine tuo cum te tribus terrae et ero custos <corr sic="tuos">tuus</corr>
+      </vBody>
+      <rep type="r" wit="CAO-R CAO-D CAO-F CAO-S Ely Hyd Wor Pet Evm Wcb Alb2 Cdm Bat Mch">Terram in qua</rep>
+      <rep type="r" wit="CAO-C CAO-E CAO-V CAO-L">Terra in qua</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

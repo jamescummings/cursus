@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3187" nextid="c3189" id="c3188">
+   <header>
+      <usage ms="Bat" code="02122600">[20v] lauds commemoration</usage>
+      <usage ms="Evm" code="02010200">[62r] matins-n1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.159-160</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-D CAO-F CAO-L Evm Bat">
+      <app>
+         <rdg wit="CAO-F Evm"> Illuxit nobis dies redemptionis novae</rdg>
+         <rdg wit="CAO-D CAO-L"> Illuxit nobis dies redemptionis nostrae</rdg>
+         <rdg wit="Bat"> Illuxit nobis dies redemptionis <del type="overstrike" status="unremarkable">nostrae</del> novae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D Evm Bat"> reparationis antiquae</rdg>
+         <rdg wit="CAO-F CAO-L"> praeparationis antiquae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-L Evm Bat"> felicitatis aeternae</rdg>
+         <rdg wit="CAO-D"> felicitatis aeternae alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

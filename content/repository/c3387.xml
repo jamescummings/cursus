@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3386" nextid="c3388" id="c3387">
+   <header>
+      <usage ms="Hyd" code="01015000">[6r] lauds-a2</usage>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <aBody wit="CAO-S CAO-L Hyd"> Intret oratio mea in conspectu tuo domine</aBody>
+</ant>

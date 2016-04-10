@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7171" nextid="c7173" id="c7172">
+   <header>
+      <usage ms="Alb2" code="01034000">[16r] matins-n1-r3</usage>
+      <usage ms="Bat" code="01034000">[10v] matins-r3</usage>
+      <usage ms="Cdm" code="01034000">[16v] matins-r3</usage>
+      <usage ms="Ely" code="01034000">[12r] matins-r3</usage>
+      <usage ms="Evm" code="01034009">[19r] matins-r3</usage>
+      <usage ms="Hyd" code="01034009">[12r] matins-n1-r2</usage>
+      <usage ms="Mch" code="01034000">[13v] matins-r3</usage>
+      <usage ms="Wcb" code="01044000">[50r] matins-r3</usage>
+      <usage ms="Wor" code="01037000">[9v] matins-r4</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Wor has this as an addition, possibly substituting for Rorate caeli</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Modo veniet dominator dominus et nomen eius Emmanuel vocabitur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-H Mch"> Ecce dominator dominus cum virtute veniet</vBody>
+      <vBody type="r" wit="CAO-E"> Ecce dominator dominus</vBody>
+      <vBody type="r" wit="CAO-B CAO-M CAO-R CAO-L"> Ecce dominator</vBody>
+      <vBody type="r" wit="CAO-D CAO-F"> Et dominabitur a mari usque ad mare et a flumine usque ad terminos orbis
+       <app>
+            <rdg wit="CAO-D"> terrarum</rdg>
+            <rdg wit="CAO-F"> terrae</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G"> Et requiescet super eum spiritus domini spiritus sapientiae et intellectus</vBody>
+      <vBody type="r" wit="CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Orietur in diebus eius iustitia et abundantia pacis</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Ely Wor Wcb Bat">Et nomen</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+   </verses>
+</res>

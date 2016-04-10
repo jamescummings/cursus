@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5166" nextid="c5168" id="c5167">
+   <aBody wit="CAO-E CAO-V">
+      <app>
+         <rdg wit="CAO-E"> Tradiderunt corpora sua in morte</rdg>
+         <rdg wit="CAO-V"> Tradiderunt corpora sua in mortem</rdg>
+      </app> ne servirent idolis
+     <app>
+         <rdg wit="CAO-E"> ideo coronati possident palma</rdg>
+         <rdg wit="CAO-V"> ideo coronantur et accipiunt palmas</rdg>
+      </app>
+   </aBody>
+</ant>

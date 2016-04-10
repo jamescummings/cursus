@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6613" nextid="c6615" id="c6614">
+   <rBody wit="CAO-V CAO-L"> Ecce venio cito et merces mea mecum est dicit Dominus dare unicuique secundum opera sua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-L">Haec verba fidelissima
+      <app>
+            <rdg wit="CAO-V"> et vera</rdg>
+            <rdg wit="CAO-L"> et vera sunt</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-V"> et ecce venio cito</rdg>
+            <rdg wit="CAO-L"> ecce venio velociter</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-V CAO-L">Dare</rep>
+   </verses>
+</res>

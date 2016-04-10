@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4758" nextid="c4760" id="c4759">
+   <aBody wit="CAO-E CAO-M CAO-D CAO-F"> Sanctitate quoque insignis
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> diaconii arce suscepta</rdg>
+         <rdg wit="CAO-M"> diaconii arce susceptus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F"> vices pontificis diligenter exsequebatur</rdg>
+         <rdg wit="CAO-M"> vicis pontificis diligenter exsequebatur</rdg>
+         <rdg wit="CAO-D"> vices pontificis diligenter exsequebantur</rdg>
+      </app>
+   </aBody>
+</ant>

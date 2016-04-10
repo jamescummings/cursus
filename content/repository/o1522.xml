@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1521" nextid="o1523" id="o1522">
+   <header>
+      <usage ms="Alb2" code="07022000"/>
+      <usage ms="Alb2" corresp="o1522_1" code="07037000"/>
+      <usage ms="Cdm" corresp="o1522_1" code="07037000">[67r] lauds-a2</usage>
+      <usage ms="Cht" code="07022000"/>
+      <usage ms="Ely" code="07022000"/>
+      <usage ms="Evm" code="07022000"/>
+      <usage ms="Evm" corresp="o1522_1" code="07037000"/>
+      <usage ms="Hyd" code="07022000"/>
+      <usage ms="Wcb" corresp="o1522_1" code="07037000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.205</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Alb2">Praesta quaesumus omnipotens deus ut familia tua quae se affligendo carnem ab alimentis abstinet sectando iustitiam a culpa ieiunet</pBody>
+   <pBody id="o1522_1" wit="Evm Wcb Alb2 Cdm" num="2">Praesta quaesumus omnipotens deus ut qui se affligendo carnem ab alimentis abstinent sectando iustitiam a culpa ieiunent</pBody>
+</prayer>

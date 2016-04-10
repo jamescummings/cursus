@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7372" nextid="c7373a" id="c7373">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">For St Valentine</note>
+   <rBody wit="CAO-C CAO-M"> Per beatum Valentinum
+     <app>
+         <rdg wit="CAO-C"> fiunt</rdg>
+         <rdg wit="CAO-M"> fiunt hic</rdg>
+      </app> divina mysteria per orationes eius caeci illuminantur et
+     <app>
+         <rdg wit="CAO-C"> natale eius</rdg>
+         <rdg wit="CAO-M"> in natale eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> daemoni</rdg>
+         <rdg wit="CAO-M"> daemonia</rdg>
+      </app> effugantur et infirmi sanantur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Iustum deduxit dominus per vias rectas et ostendit illi regnum Dei</vBody>
+      <vBody type="r" wit="CAO-M"> Iustum deduxit dominus</vBody>
+      <rep type="r" wit="CAO-C">Et natale</rep>
+      <rep type="r" wit="CAO-M"> Et in natale</rep>
+   </verses>
+</res>

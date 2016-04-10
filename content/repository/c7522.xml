@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7521" nextid="c7523" id="c7522">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="05011000"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-B CAO-H CAO-R CAO-S Alb2 Hyd Pet"> Reges Tharsis et insulae munera offerent</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-S Alb2 Hyd Pet">Reges Arabum et Saba dona adducent</vBody>
+      <rep type="r" wit="Alb2 Hyd Pet">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">(no regressio given in Pet, Alb2 or Hyd)</note>
+      </rep>
+      <rep type="r" wit="CAO-B">Et insulae</rep>
+      <rep type="r" wit="CAO-S">Munera</rep>
+      <dox type="r" wit="Alb2 Pet">Gloria</dox>
+   </verses>
+</res>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1741" nextid="o1743" id="o1742">
+   <header>
+      <usage ms="Cdm" code="01000000">[11r] </usage>
+      <usage ms="Ely" code="01000000">[5v] </usage>
+      <usage ms="Evm" code="01008000">[11r] </usage>
+      <usage ms="Hyd" code="01000000">[4v] </usage>
+      <usage ms="Wcb" code="02122400">[52v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Evm Wcb Ely"> Conscientias nostras quaesumus domine visitando purifica ut veniens Jesus Christus filius tuus dominus noster paratam sibi in nobis inveniat mansionem</pBody>
+</prayer>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6080" nextid="c6082" id="c6081">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Amavit eum dominus</rdg>
+         <rdg wit="CAO-S"> Amabit eum dominus</rdg>
+      </app> et ornavit eum
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-S CAO-L"> stolam gloriae</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F"> stola gloriae</rdg>
+      </app> induit eum
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et ad portas paradisi</rdg>
+         <rdg wit="CAO-C"> et a portam paradisi</rdg>
+      </app> coronavit eum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Induit eum dominus
+      <app>
+            <rdg wit="CAO-E CAO-F CAO-S CAO-L"> loricam fidei</rdg>
+            <rdg wit="CAO-C CAO-H CAO-R CAO-D"> lorica fidei</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-H CAO-D CAO-F CAO-S CAO-L"> et ornavit eum</rdg>
+            <rdg wit="CAO-R"> et armavit eum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-M">Induit eum dominus</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L">Et ad portas</rep>
+      <rep type="r" wit="CAO-F">Et coronavit</rep>
+   </verses>
+</res>

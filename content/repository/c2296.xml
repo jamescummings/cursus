@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2295" nextid="c2297" id="c2296">
+   <header>
+      <usage ms="Hyd" code="08014000">[103v] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> Dixit Jesus discipulis suis afferte de piscibus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Hyd"> quos prendidistis nunc</rdg>
+         <rdg wit="CAO-C"> quos praendidistis nunc</rdg>
+         <rdg wit="CAO-S"> quos prehendidistis nunc</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-H CAO-R CAO-L"> ascendens autem Simon Petrus</rdg>
+         <rdg wit="CAO-B CAO-E CAO-F CAO-S Hyd"> ascendit autem Simon Petrus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S Hyd"> et traxit rete in terram plenum</rdg>
+         <rdg wit="CAO-L"> et traxit retem in terra plenum</rdg>
+         <rdg wit="CAO-V"> et traxit rete in terra plenum</rdg>
+      </app> magnis piscibus alleluia</aBody>
+</ant>

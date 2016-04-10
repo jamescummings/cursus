@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3267" nextid="c3269" id="c3268">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n2</usage>
+   </header>
+   <aBody wit="CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> In patre manet aeternitas in filio aequalitas in spiritu sancto
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> aeternitatis aequalitatisque connexio</rdg>
+         <rdg wit="CAO-M"> aeternitas aequalitatisque connexio</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-E"> In patre manet aeternitas in filio aequalitas in spiritu <gap desc="remainder of antiphon text" reason="manuscript ends at this point" resp="Hesbert"/>
+   </aBody>
+</ant>

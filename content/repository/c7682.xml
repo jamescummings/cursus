@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7681" nextid="c7683" id="c7682">
+   <header>
+      <usage ms="Hyd" code="08031000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-V CAO-D Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-D Hyd"> Speciosa facta es</rdg>
+         <rdg wit="CAO-V"> Speciosa facta est</rdg>
+      </app> et suavis in deliciis tuis alleluia altitudo tua similis est palmae
+     <app>
+         <rdg wit="CAO-C CAO-G Hyd"> insufficienti</rdg>
+         <rdg wit="CAO-E CAO-D"> insufficienter</rdg>
+         <rdg wit="CAO-V"> indeficientis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-D"> in plenitudine caritatis</rdg>
+         <rdg wit="CAO-G CAO-V Hyd"> in plenitudine claritatis</rdg>
+      </app> alleluia alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-D"> Ego diligentes me diligo et qui mane vigilaverint ad me invenient me</vBody>
+      <vBody type="r" wit="CAO-G">Ego diligentes me</vBody>
+      <vBody type="r" wit="CAO-C">Ego diligentes</vBody>
+      <vBody type="r" wit="Hyd">Dixi ascendam in palmam apprehendam fructus eius</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-V CAO-D Hyd">In plenitudine</rep>
+   </verses>
+</res>

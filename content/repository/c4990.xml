@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4989" nextid="c4991" id="c4990">
+   <header>
+      <usage ms="Glo" code="07013000"/>
+      <usage ms="Hyd" code="01013000">[5v] vesp2-a2</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L"> Speret Israel in domino</aBody>
+   <aBody wit="Glo"> Speret</aBody>
+</ant>

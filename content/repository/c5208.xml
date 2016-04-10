@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5207" nextid="c5209" id="c5208">
+   <header>
+      <usage ms="Glo" code="14022200"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tu es Petrus et super hanc petram aedificabo ecclesiam meam</aBody>
+   <aBody wit="Glo" type="incipit"> Tu es Petrus</aBody>
+</ant>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4900" nextid="c4902" id="c4901">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F"> Si manseritis in me</rdg>
+         <rdg wit="CAO-B"> Si <corr rend="later hand" sic="manseritis in">dilexeritis</corr> me</rdg>
+         <rdg wit="CAO-E CAO-V CAO-L"> Si dilexeritis me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> et verba mea in vobis manserint</rdg>
+         <rdg wit="CAO-L"> et verba mea in vobis manserit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L"> quodcumque petieritis fiet vobis</rdg>
+         <rdg wit="CAO-F"> quocumque petieritis fiet vobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R"> alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-F"> alleluia alleluia</rdg>
+         <rdg wit="CAO-C CAO-B CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-D"> al<supplied>leluia</supplied>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

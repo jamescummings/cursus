@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7877" nextid="c7879" id="c7878">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> Vidi speciosam sicut columbam</rdg>
+         <rdg wit="CAO-M"> Vidi speciosa sicut columba</rdg>
+         <rdg wit="CAO-V CAO-L"> Vidi speciosa sicut columbam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> ascendentem desuper rivos aquarum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> descendentem super rivos aquarum</rdg>
+      </app> cuius inaestimabilis odor erat nimis in vestimentis eius et sicut dies verni circumdabant
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> eam</rdg>
+         <rdg wit="CAO-F"> eum</rdg>
+      </app> flores rosarum et lilia convallium</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> Quae est ista quae ascendit per desertum sicut virgula fumi ex aromatibus
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S"> myrrhae et thuris</rdg>
+            <rdg wit="CAO-V">  myrra et thuris</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-L"> Viderunt eam filiae Sion et beatissimam praedicaverunt et reginae laudaverunt eam</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et sicut</rep>
+   </verses>
+</res>

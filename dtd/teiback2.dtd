@@ -1,0 +1,21 @@
+<!-- TEI P4 DTD. Generated 2002-01-18T12:46:47Z by odd2dtd.xsl -->
+<!-- [DDSBACK] 7.6: Tags for Back Matter -->
+<!ENTITY % back 'INCLUDE' >
+<![ %back; [
+
+<!ELEMENT %n.back; %om.RO;  (  (%m.front; | %m.Incl;)*,
+                 (
+                   ( (%m.divtop;), (%m.divtop; | %n.titlePage; | %m.Incl;)*)
+                   |
+                   ( (%n.div;), ((%n.div;) | %m.front; | %m.Incl;)*)
+                   |
+                   ( (%n.div1;), ((%n.div1;) | %m.front; | %m.Incl;)*)
+                 )?
+              ) > 
+<!ATTLIST %n.back;
+      %a.global;
+      %a.declaring;
+      TEIform CDATA 'back'  >
+]]>
+  
+<!-- end of [DDSBACK]  7.6-->

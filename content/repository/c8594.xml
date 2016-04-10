@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8593" nextid="c8595" id="c8594">
+   <header>
+      <usage ms="Evm" code="14123000">[56r] vesp2 commemoratio</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">[Mon Jan 24 11:14:46 2005] Cf R' and V' c6680, with Evm/Alb2 distinctive 'simul'</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm"> Ex ore infantium simul et lactantium perfecisti laudem domine deus</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1694" nextid="o1696" id="o1695">
+   <header>
+      <usage ms="Hyd" code="08081000">vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.520</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Praesta quaesumus omnipotens deus ut claritatis tuae super nos splendor effulgeat et lux tuae lucis corda eorum qui per gratiam tuam renati sunt sancti spiritus illustratione confirmet</pBody>
+</prayer>

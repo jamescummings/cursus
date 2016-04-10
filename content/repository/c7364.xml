@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7363" nextid="c7365" id="c7364">
+   <rBody wit="CAO-C CAO-R CAO-D CAO-F CAO-S"> Pater sanctus dum
+     <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-F"> intentam</rdg>
+         <rdg wit="CAO-S"> intenta</rdg>
+      </app> oculorum aciem in splendore coruscae lucis habere videretur vidit Germani animam Capuani episcopi in spera<note resp="Hesbert" place="unspecified" anchored="yes">(For 'sphaera')</note> ignea ab angelis in caelum deferri</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-R CAO-D CAO-F CAO-S">Factumque est
+      <app>
+            <rdg wit="CAO-C CAO-D CAO-S"> ut</rdg>
+            <rdg wit="CAO-R CAO-F"> et</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-D CAO-S"> reverendissimum virum Germanum episcopum</rdg>
+            <rdg wit="CAO-C"> reverendissimum Germanum</rdg>
+            <rdg wit="CAO-F"> reverendissimum Germanum episcopum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-S"> is</rdg>
+            <rdg wit="CAO-C CAO-D CAO-F"> his</rdg>
+         </app> qui missus fuerat iam defunctum reperit</vBody>
+      <rep type="r" wit="CAO-D CAO-F">In sphaera</rep>
+      <rep type="r" wit="CAO-R">Vidit</rep>
+      <rep type="r" wit="CAO-S">Ab angelis</rep>
+   </verses>
+</res>

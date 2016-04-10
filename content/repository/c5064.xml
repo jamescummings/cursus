@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5063" nextid="c5065" id="c5064">
+   <header>
+      <usage ms="Alb2" code="01021000">[9v] lauds gosp</usage>
+      <usage ms="Bat" code="01021000">[7r] lauds gosp</usage>
+      <usage ms="Cdm" code="01021000">[13r] lauds gosp</usage>
+      <usage ms="Evm" code="01021000">[15r] lauds gosp</usage>
+      <usage ms="Hyd" code="01034009">[12r] lauds-a5</usage>
+      <usage ms="Mch" code="01021000">[9r] lauds gosp</usage>
+      <usage ms="Wcb" code="01021000">[45v] lauds gosp</usage>
+      <usage ms="Wor" code="01021000">[6r] lauds gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.155</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Wor Wcb Bat"> Super solium David et super regnum eius
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Wor Wcb"> sedebit in aeternum alleluia</rdg>
+         <rdg wit="Bat"> sedebit alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

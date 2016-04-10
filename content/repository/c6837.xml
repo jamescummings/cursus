@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6836" nextid="c6838" id="c6837">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Hic praecursor</rdg>
+         <rdg wit="CAO-L"> Hic est praecursor</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> directus</rdg>
+         <rdg wit="CAO-B CAO-E CAO-S CAO-L"> dilectus</rdg>
+      </app> et lucerna lucens ante dominum ipse est enim Joannes qui viam domino praeparavit in eremo sed et agnum Dei
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-F CAO-L"> demonstrabat</rdg>
+         <rdg wit="CAO-C CAO-V CAO-R CAO-D CAO-S"> demonstravit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> et illuminabat</rdg>
+         <rdg wit="CAO-C CAO-V CAO-S"> et illuminavit</rdg>
+      </app> mentes hominum</rBody>
+   <verses>
+      <vBody id="c6837-1" type="r" wit="CAO-E CAO-M"> Erat Joannes</vBody>
+      <rep corresp="c6837-1" type="r" wit="CAO-E CAO-M"> Sed et</rep>
+      <vBody id="c6837-2" type="r" num="2" wit="CAO-V"> Erat Joannes praedicans in deserto</vBody>
+      <rep corresp="c6837-2" type="r" wit="CAO-V"> Et illuminavit</rep>
+      <vBody id="c6837-3" type="r" num="3" wit="CAO-D CAO-F"> Erat Joannes in deserto praedicans baptismum paenitentiae</vBody>
+      <rep corresp="c6837-3" type="r" wit="CAO-D CAO-F"> Ipse</rep>
+      <vBody type="r" num="4" wit="CAO-C CAO-B CAO-H CAO-R"> Ipse praebit ante illum in spiritu et virtute Eliae</vBody>
+      <rep type="r" wit="CAO-C CAO-H CAO-R"> Ipse</rep>
+      <rep type="r" wit="CAO-B"> Sed et</rep>
+      <vBody id="c6837-4" type="r" num="5" wit="CAO-F"> Erat Joannes in deserto praedicans et baptizans baptismum paenitentiae in remissionem peccatorum</vBody>
+      <rep corresp="c6837-4" type="r" wit="CAO-F"> Et illuminabat</rep>
+      <vBody id="c6837-5" type="r" num="6" wit="CAO-S CAO-L"> Fuit in deserto praedicans et
+       <app>
+            <rdg wit="CAO-L"> baptizans baptismum paenitentiae</rdg>
+            <rdg wit="CAO-S"> baptizans</rdg>
+         </app> in remissionem peccatorum</vBody>
+      <rep corresp="c6837-5" type="r" wit="CAO-S CAO-L"> Sed et</rep>
+   </verses>
+</res>

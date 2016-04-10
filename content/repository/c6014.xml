@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6013" nextid="c6015" id="c6014">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Accedentes discipuli sancti Joannis Baptistae tulerunt
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L"> corpus eius</rdg>
+         <rdg wit="CAO-M CAO-V"> eius corpus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> et sepelierunt illud</rdg>
+         <rdg wit="CAO-S"> et sepelierunt eum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-L">
+         <app>
+            <rdg wit="CAO-E CAO-H CAO-R"> Misso Herodes spiculatore</rdg>
+            <rdg wit="CAO-L"> Misso spiculatore</rdg>
+         </app> praecepit
+      <app>
+            <rdg wit="CAO-H CAO-R CAO-L"> amputare</rdg>
+            <rdg wit="CAO-E">
+               <corr sic="amputare">amputari</corr>
+            </rdg>
+         </app> caput Joannis
+      <app>
+            <rdg wit="CAO-H CAO-R CAO-L"> in carcere</rdg>
+            <rdg wit="CAO-E"> in carcerem</rdg>
+         </app> quo audito discipuli eius</vBody>
+      <vBody type="r" wit="CAO-C CAO-M CAO-V">
+         <app>
+            <rdg wit="CAO-M"> Misso Herodes spiculatore</rdg>
+            <rdg wit="CAO-C CAO-V"> Misso Herode spiculatore</rdg>
+         </app> praecepit
+      <app>
+            <rdg wit="CAO-M CAO-V"> amputare</rdg>
+            <rdg wit="CAO-C"> amputari</rdg>
+         </app> caput Joannis in carcere quo audito discipuli eius venerunt et tulerunt corpus eius</vBody>
+      <vBody type="r" wit="CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-F"> Iussu Herodis</rdg>
+            <rdg wit="CAO-S"> Iussu regis</rdg>
+         </app> amputatum est caput Joannis
+      <app>
+            <rdg wit="CAO-F"> in carcere</rdg>
+            <rdg wit="CAO-S"> in carcerem</rdg>
+         </app> quo audito discipuli eius</vBody>
+      <rep type="r" wit="CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L"> Tulerunt</rep>
+      <rep type="r" wit="CAO-C CAO-M CAO-V">Et</rep>
+   </verses>
+</res>

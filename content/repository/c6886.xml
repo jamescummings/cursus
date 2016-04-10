@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6885" nextid="c6887" id="c6886">
+   <header>
+      <usage ms="Hyd" code="10800000">matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Impetum inimicorum</rdg>
+         <rdg wit="CAO-E"> Impetu inimicorum</rdg>
+      </app> ne timueritis
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> memores estote</rdg>
+         <rdg wit="CAO-C"> memores esto</rdg>
+      </app> quomodo salvi facti sunt patres nostri et nunc clamemus in caelum et miserebitur nostri
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> deus noster</rdg>
+         <rdg wit="CAO-V"> hic deus noster</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Mementote mirabilium eius</rdg>
+            <rdg wit="CAO-L"> Mementote mirabilium domini</rdg>
+         </app> quae fecit Pharaoni et exercitui eius
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> in mari Rubro</rdg>
+            <rdg wit="CAO-C"> proiecit in mari</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et nunc</rep>
+   </verses>
+</res>

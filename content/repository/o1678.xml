@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1677" nextid="o1679" id="o1678">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] lauds</usage>
+      <usage ms="Hyd" code="08012000">[102v] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.392</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Cdm"> Deus qui sollemnitate paschali mundo remedia contulisti populum tuum quaesumus caelesti dono prosequere ut et perfectam libertatem consequi mereatur et ad vitam proficiat sempiternam</pBody>
+</prayer>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2612" nextid="c2614" id="c2613">
+   <header>
+      <usage ms="Alb2" code="01038000">[14v] lauds gosp</usage>
+      <usage ms="Bat" code="01032000">[10r] lauds gosp</usage>
+      <usage ms="Cdm" code="01032000">[16r] lauds gosp</usage>
+      <usage ms="Ely" code="01032000">[11v] lauds gosp</usage>
+      <usage ms="Evm" code="01042000">[25r] lauds gosp</usage>
+      <usage ms="Glo" code="14032500">[69v] vesp2-a3</usage>
+      <usage ms="Hyd" code="01042000">[14v] lauds gosp</usage>
+      <usage ms="Mch" code="01032000">[13r] lauds gosp</usage>
+      <usage ms="Wor" code="01032000">[8v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Glo Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Egredietur virga de radice Jesse et replebitur omnis terra gloria domini et videbit omnis caro salutare dei</aBody>
+</ant>

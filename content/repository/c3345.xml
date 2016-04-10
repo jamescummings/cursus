@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3344" nextid="c3345b" id="c3345">
+   <header>
+      <usage ms="Hyd" code="10400000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-V CAO-D CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-M CAO-D Hyd"> Ingressus Raphael archangelus ad Tobiam</rdg>
+         <rdg wit="CAO-E CAO-L"> Ingressus est Raphael angelus ad Tobiam</rdg>
+         <rdg wit="CAO-V"> Ingressus est Raphael archangelus ad Tobiam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-L Hyd"> salutavit eum dicens</rdg>
+         <rdg wit="CAO-E CAO-V"> et salutavit eum dicens</rdg>
+      </app> gaudium tibi semper sit
+     <app>
+         <rdg wit="CAO-M CAO-D CAO-L Hyd"> cui Tobias ait</rdg>
+         <rdg wit="CAO-E CAO-V"> Tobias respondens dixit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D Hyd"> quale gaudium mihi erit</rdg>
+         <rdg wit="CAO-E CAO-V CAO-L"> quale mihi gaudium erit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-L"> qui in tenebris sedeo</rdg>
+         <rdg wit="Hyd"> qui in tenebris <del status="unremarkable">semper</del> sedeo</rdg>
+         <rdg wit="CAO-E CAO-V"> quia in tenebris sedeo</rdg>
+      </app> et lumen caeli non video
+     <app>
+         <rdg wit="CAO-E CAO-V"> cui angelus ait</rdg>
+         <rdg wit="CAO-M CAO-L"> cui angelus dixit</rdg>
+         <rdg wit="CAO-D Hyd"> cui angelus inquit</rdg>
+      </app> forti animo esto in proximo est ut a deo cureris</aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3784" nextid="c3786" id="c3785">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Misit dominus manum suam
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et tetigit os meum</rdg>
+         <rdg wit="CAO-C"> et tetigit os meus</rdg>
+      </app> et prophetam in gentibus
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> dedit me dominus</rdg>
+         <rdg wit="CAO-C CAO-V"> fecit mihi dominus</rdg>
+         <rdg wit="CAO-E CAO-M"> fecit me dominus</rdg>
+      </app>
+   </aBody>
+</ant>

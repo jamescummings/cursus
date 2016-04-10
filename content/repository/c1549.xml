@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1548" nextid="c1550" id="c1549">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Avertet dominus captivitatem plebis suae</rdg>
+         <rdg wit="CAO-S"> Averte dominus captivitatem plebis suae</rdg>
+         <rdg wit="CAO-V"> Avertat dominus captivitatem plebis suae</rdg>
+      </app>
+   </aBody>
+</ant>

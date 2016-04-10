@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4582" nextid="c4584" id="c4583">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S"> Reddet deus mercedem laborum sanctorum suorum
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-S"> et deducet illos in via mirabili</rdg>
+         <rdg wit="CAO-E"> et deducet illos in viam mirabilem</rdg>
+      </app>
+   </aBody>
+</ant>

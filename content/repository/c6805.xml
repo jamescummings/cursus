@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6804a" nextid="c6806" id="c6805">
+   <rBody wit="CAO-V CAO-L"> Haec est vera fraternitas quae numquam potuit violari certamine qui effuso sanguine secuti sunt dominum contemnentes aulam regiam pervenerunt ad regna caelestia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> Ecce quam bonum et quam iucundum habitare fratres in unum</vBody>
+      <rep type="r" wit="CAO-V"> Contemnentes</rep>
+      <dox type="r" wit="CAO-V"> Gloria</dox>
+      <rep type="r" wit="CAO-V"> Contemnentes</rep>
+      <prosula wit="CAO-L"> Caelestibus infulis emicant nobis veniam imploreat judicis ad caelestia
+       <vBody type="p" wit="CAO-L"> Ecce quam bonum et quam jucundum habitare fratres in unum</vBody>
+         <rep type="p" wit="CAO-L"> Contemnentes</rep>
+      </prosula>
+      <prosula wit="CAO-L"> Caelestia agmina sanctorum pro nobis intercedant ad dominum ad caelestia</prosula>
+   </verses>
+</res>

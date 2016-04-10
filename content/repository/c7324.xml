@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7323" nextid="c7325" id="c7324">
+   <rBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Operibus sanctis
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-S"> Nicolao</rdg>
+         <rdg wit="CAO-D CAO-F"> Nicolaus</rdg>
+         <rdg wit="CAO-L"> Nicolay</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-S CAO-L"> humiliter insistente</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F"> humiliter insistens</rdg>
+      </app> revelatione divina provectus est ad summum sacerdotii gradum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-R CAO-D CAO-F CAO-S CAO-L"> Voce quippe</rdg>
+            <rdg wit="CAO-E"> Voce quippe clara</rdg>
+         </app> de caelo lapsa cuidam
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-R CAO-S"> insinuat</rdg>
+            <rdg wit="CAO-D CAO-F"> insinuatur</rdg>
+            <rdg wit="CAO-L"> insinua</rdg>
+         </app> praesuli dignum
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S"> episcopatu</rdg>
+            <rdg wit="CAO-L"> episcopatum</rdg>
+         </app> Nicolaum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S">Ad summum</rep>
+      <rep type="r" wit="CAO-S">Revelatione</rep>
+   </verses>
+</res>

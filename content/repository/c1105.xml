@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1104" nextid="c1106" id="c1105">
+   <header>
+      <usage ms="Cdm" code="02122800">[28r] matins inv</usage>
+      <usage ms="Alb2" code="02122800">[37r] matins inv</usage>
+      <usage ms="Bat" code="02122800">[22v] matins inv</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Cdm text is by LH over erasure</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-V CAO-F CAO-S Alb2 Bat Cdm"> Mirabilem deum in sanctis suis venite adoremus collaudantes</aBody>
+</ant>

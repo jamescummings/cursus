@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7347" nextid="c7349" id="c7348">
+   <header>
+      <usage ms="Alb2" code="07011000">[75r] matins-n1-r2</usage>
+      <usage ms="Bat" code="07011000">[47v] matins-n1-r4</usage>
+      <usage ms="Cdm" code="07011000">[56v] matins-n1-r4</usage>
+      <usage ms="Ely" code="07011000">[66v] matins-n1-r4</usage>
+      <usage ms="Evm" code="07011000">[105v] matins-n1-r3</usage>
+      <usage ms="Hyd" code="07011000">[69r] matins-n1-r5</usage>
+      <usage ms="Mch" code="07011000">[112v] matins-n1-r2</usage>
+      <usage ms="Pet" code="07011000">[63v] matins-n1-r4</usage>
+      <usage ms="Wcb" code="07011000">[92r] matins-n1-r3</usage>
+      <usage ms="Wor" code="07011000">[43r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Pet Evm Wcb Alb2 Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-F CAO-S Hyd Alb2"> Paradisi portas aperuit</rdg>
+         <rdg wit="CAO-M CAO-L Ely Pet Evm Bat"> Paradisi portas aperiet</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R Wor Wcb Cdm Mch"> Paradisi portas aperiat</rdg>
+         <rdg wit="CAO-E"> Paradisi porta aperuit</rdg>
+         <rdg wit="CAO-D"> Paradisi portas <corr sic="aperiret" resp="Hesbert">aperiet</corr>
+         </rdg>
+      </app> nobis ieiunii tempus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Hyd Ely Wor Pet Evm Wcb Alb2 Cdm Bat Mch"> suscipiamus illud</rdg>
+         <rdg wit="CAO-M CAO-V CAO-S"> suscipiamus eum</rdg>
+         <rdg wit="CAO-L"> suscipiamus ipsum</rdg>
+      </app> orantes et deprecantes
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Pet Evm Wcb Alb2 Cdm Bat Mch"> ut in die resurrectionis</rdg>
+         <rdg wit="CAO-E"> ut in diem resurrectionis</rdg>
+      </app> cum domino gloriemur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F Hyd Wor Evm Wcb Alb2 Mch"> Ecce nunc tempus acceptabile ecce nunc dies salutis commendemus nosmetipsos in multa patientia</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S Ely Pet Bat"> Ecce nunc tempus acceptabile 
+     <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-S Ely Pet Bat">ecce nunc</rdg>
+            <rdg wit="CAO-V">ecce</rdg>
+         </app> dies salutis nemini dantes ullam offensionem</vBody>
+      <vBody type="r" wit="CAO-E"> Ecce nunc tempus acceptabile ecce nunc dies salutis</vBody>
+      <vBody type="r" wit="CAO-L"> In omnibus exhibeamus nosmetipsos sicut dei ministros</vBody>
+      <vBody type="r" wit="CAO-G"> Praeparemus nosmetipsos in cunctis nemini dantes ullam offensionem</vBody>
+      <vBody type="r" wit="Cdm"> Ecce nunc tempus <rubric type="levis">Et cetera</rubric>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Pet Evm Wcb Alb2 Bat Mch">Ut in die</rep>
+   </verses>
+</res>

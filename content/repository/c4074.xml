@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4073" nextid="c4075" id="c4074">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O quantus luctus omnium quanta praecipue lamenta
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> monachorum et virginum chorus</rdg>
+         <rdg wit="CAO-D CAO-F"> monachorum et virginum chori</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-S"> quia pium est gaudere Martino</rdg>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-L"> quia et pium est gaudere Martino</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F"> quia pium est gaudere Martinum</rdg>
+      </app> et pium est flere Martinum</aBody>
+</ant>

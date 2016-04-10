@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1531" nextid="o1533" id="o1532">
+   <header>
+      <usage ms="Alb2" code="07031000">[87v] vesp1</usage>
+      <usage ms="Bat" code="07031000">[53v] vesp1</usage>
+      <usage ms="Cdm" code="07031000">[63v] vesp1</usage>
+      <usage ms="Ely" code="07031000">[74r] vesp1</usage>
+      <usage ms="Evm" code="07031000">[120r] vesp1</usage>
+      <usage ms="Hyd" code="07031000">[77v] vesp1</usage>
+      <usage ms="Mch" code="07031000">[128r] vesp1</usage>
+      <usage ms="Wcb" code="07031000">[100r] vesp1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.229</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Evm Wcb Alb2 Cdm Mch Bat">Quaesumus omnipotens deus vota humilium respice atque ad defensionem nostram dexteram tuae maiestatis
+     <app>
+         <rdg wit="Ely Evm Wcb Cdm Bat">extende</rdg>
+         <rdg wit="Hyd">ostende</rdg>
+      </app>
+   </pBody>
+</prayer>

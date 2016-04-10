@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6648" nextid="c6650" id="c6649">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Elegit te dominus sacerdotem sibi ad sacrificandum ei hostiam laudis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Tunc acceptabis sacrificium justitiae oblationes et holocausta</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-F"> Ad</rep>
+      <rep type="r" wit="CAO-E"> Hostiam</rep>
+   </verses>
+</res>

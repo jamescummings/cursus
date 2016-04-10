@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1137" nextid="c1139" id="c1138">
+   <header>
+      <usage ms="Evm" code="02010100">[58v] matins inv</usage>
+      <usage ms="Evm" code="02123100">[57r] matins inv</usage>
+      <usage ms="Pet" code="02123000">[33v] matins inv</usage>
+      <usage ms="Wcb" code="02010100">[65v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-C CAO-H Evm Wcb Pet"> Regem natum dominum venite adoremus</aBody>
+</ant>

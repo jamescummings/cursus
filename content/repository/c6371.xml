@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6370" nextid="c6372" id="c6371">
+   <rBody wit="CAO-E CAO-M CAO-V"> Cum natus esset dominus Jesus in Bethleem Judae ecce magi ab oriente
+      <app>
+         <rdg wit="CAO-E CAO-V"> venerunt</rdg>
+         <rdg wit="CAO-M"> et venerunt</rdg>
+      </app> portantes munera regalia stella splendidissima antecedebat eos et requievit supra ubi erat puer</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Magi videntes stellam gavisi sunt gaudio magno et intrantes domum obtulerunt domino aurum thus et myrrham</vBody>
+      <vBody type="r" wit="CAO-M"> Magi videntes stellam gavisi sunt gaudio magno valde et intrantes domum invenerunt puerum cum Maria matre eius</vBody>
+      <vBody type="r" wit="CAO-V"> Magi veniunt ab oriente inquirentes faciem domini et dicentes</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V"> Stella</rep>
+   </verses>
+</res>

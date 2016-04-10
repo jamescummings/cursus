@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1783" nextid="c1785" id="c1784">
+   <header>
+      <usage ms="Glo" code="07011000">[59r] procession</usage>
+      <usage ms="Glo" code="07021000"/>
+   </header>
+   <aBody wit="CAO-F Glo"> Christe pater misericordiarum qui tempus acceptabile reis indulges reminiscere miserationum tuarum et quos hucusque toleras ad paenitentiam compunge peccavimus domine in omnem iustitiam tuam et iniquitates nostrae abstulerunt nos et tu iratus es et avertisti faciem tuam et possederunt nos domini absque te sed respice tu pater noster es et nos lutum ne irascaris satis neque multitudinem viscerum tuorum super nos contineas ultra sed parce placare attende et fac nobis iuxta multitudinem benignitatis tuae ut in die bona quam tu fecisti o fons David patens in ablutione menstruatae
+     <app>
+         <rdg wit="CAO-F"> nec confundamur in nobis</rdg>
+         <rdg wit="Glo"> ne confundamur in nobis</rdg>
+      </app> sed laetemur in te</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6243" nextid="c6245" id="c6244">
+   <rBody wit="CAO-G CAO-V CAO-F CAO-S"> Benedicta tu in mulieribus et benedictus fructus ventris tui</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-V CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-G CAO-V CAO-S"> Ave Maria gratia plena</rdg>
+            <rdg wit="CAO-F"> Ave Maria</rdg>
+         </app> Dominus tecum</vBody>
+      <rep type="r" wit="CAO-V CAO-F CAO-S">Et</rep>
+   </verses>
+</res>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1922" nextid="c1924" id="c1923">
+   <header>
+      <usage ms="Mch" code="06034000">[109v] lauds gosp</usage>
+      <usage ms="Alb2" code="06035000">[73v]  gosp</usage>
+      <usage ms="Cht" code="06034000">[19r] prime-a1</usage>
+      <usage ms="Ely" code="06034000">[64v] prime</usage>
+      <usage ms="Evm" code="06035000"/>
+      <usage ms="Glo" code="06035000">[58r] vesp2</usage>
+      <usage ms="Hyd" code="06034000">[67r] prime</usage>
+      <usage ms="Wcb" code="06035000"/>
+      <usage ms="Wor" code="06034000">[42r] prime-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-F CAO-S Cht Wor Alb2 Hyd Ely Evm Wcb Glo Mch"> Convertimini ad me in toto corde vestro in ieiunio et fletu
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-S Cht Alb2 Ely Evm Mch">et planctu dicit dominus</rdg>
+         <rdg wit="CAO-F Wor Hyd Wcb Glo">et in planctu dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

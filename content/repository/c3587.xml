@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3586" nextid="c3588" id="c3587">
+   <aBody wit="CAO-C CAO-E CAO-H">
+      <app>
+         <rdg wit="CAO-E CAO-H"> Laudate et superexaltate eum</rdg>
+         <rdg wit="CAO-C"> Laudate et superexaltate <corr sic="dominum">deum</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H"> in saecula benedicite</rdg>
+         <rdg wit="CAO-C"> et in saecula benedicite</rdg>
+      </app>
+   </aBody>
+</ant>

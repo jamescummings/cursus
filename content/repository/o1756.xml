@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1755" nextid="o1757" id="o1756">
+   <header>
+      <usage ms="Cdm" code="02122400">[20v] matins-n1</usage>
+      <usage ms="Evm" code="02122400">[31r] matins-n3</usage>
+      <usage ms="Mch" code="01041000">[19v] nones</usage>
+      <usage ms="Mch" code="02122400">[22v] matins-n2</usage>
+      <usage ms="Wcb" code="02122400">[52v] matins</usage>
+   </header>
+   <pBody wit="Evm Wcb Cdm Mch">
+      <app>
+         <rdg wit="Evm Wcb">Praesta misericors deus</rdg>
+         <rdg wit="Cdm Mch">Praesta quaesumus omnipotens et misericors deus</rdg>
+      </app> ut ad suscipiendum filii tui singulare nativitatis misterium et mentes credentium praeparentur ut non credentium corda subdantur</pBody>
+</prayer>

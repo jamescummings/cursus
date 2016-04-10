@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2883" nextid="c2885" id="c2884">
+   <header>
+      <usage ms="Ely" code="01011000">[2r] vesp1</usage>
+      <usage ms="Hyd" code="01011000">[1r] vesp1-a4</usage>
+      <usage ms="Hyd" code="05021000"/>
+   </header>
+   <aBody wit="CAO-H Hyd Ely"> Flavit spiritus eius et fluent aquae</aBody>
+</ant>

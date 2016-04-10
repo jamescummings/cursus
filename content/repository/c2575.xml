@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2574" nextid="c2576" id="c2575">
+   <header>
+      <usage ms="Alb2" code="07051000">[100v] terce</usage>
+      <usage ms="Cdm" code="07051000">[71v] terce</usage>
+      <usage ms="Cht" code="07051000">[49r] sext</usage>
+      <usage ms="Ely" code="07051000">[81v] matins-n3-a3</usage>
+      <usage ms="Hyd" code="07051000">[87v] prime</usage>
+      <usage ms="Pet" code="07051000">[81v] nones</usage>
+      <usage ms="Wcb" code="07051000">[109r] sext</usage>
+      <usage ms="Wor" code="07051000">[54r] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm"> Ego gloriam meam non quaero</rdg>
+         <rdg wit="CAO-V">Ego gloria mea non quaero</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm"> est qui quaerat et iudicet</rdg>
+         <rdg wit="CAO-H"> est qui quaerit et iudicat</rdg>
+      </app>
+   </aBody>
+</ant>

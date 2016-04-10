@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1430b" nextid="c1432" id="c1431">
+   <header>
+      <usage ms="Glo" code="07066000">[80v] mandatum</usage>
+   </header>
+   <aBody wit="CAO-H"> Ante diem festum paschae sciens Jesus quia eius hora venit ut transeat ex hoc mundo ad patrem et cena facta surrexit linteo praecingit se misit aquam in pelvem coepit lavare pedes discipulorum venit ad Petrum dicit ei Simon non lavabis mihi pedes in aeternum respondit Jesus si non lavero tibi non habebis partem mecum domine non solum pedes tantum sed manus et caput</aBody>
+   <aBody wit="Glo"> Ante diem festum paschae sciens Jesus quia hora eius venit ut transeat ex hoc mundo ad patrem linteo praecinxit se misit aquam in pelvim coepit lavare pedes discipulorum</aBody>
+   <verses>
+      <vBody type="a" wit="Glo"> Venit ad Petrum dixit ei Petrus non lavabis mihi pedes in aeternum domine non tantum pedes  meos sed et manus et caput</vBody>
+   </verses>
+</ant>

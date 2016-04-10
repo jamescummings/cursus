@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9540" nextid="c9542" id="c9541">
+   <header>
+      <usage ms="Bat" code="06031000">[45r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="Bat"> Dixit dominus Abrahe leva oculos tuos et aspice ad orientem et meridiem ad aquilonem et occidentem</rBody>
+   <verses>
+      <vBody type="r" wit="Bat"> Omnem terram quam conspicis tibi dabo et semini tuo</vBody>
+      <rep type="r" wit="Bat"> Leva</rep>
+   </verses>
+</res>

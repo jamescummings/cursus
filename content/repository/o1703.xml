@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1702" nextid="o1704" id="o1703">
+   <header>
+      <usage ms="Hyd" code="09011000">vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.1806</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Omnipotens sempiterne deus qui dedisti famulis tuis in confessione vere fidei aeterne trinitatis gloriam agnoscere et in potentia maiestatis adorare unitatem quaesumus ut eiusdem fidei firmitate ab omnibus semper muniamur adversis</pBody>
+</prayer>

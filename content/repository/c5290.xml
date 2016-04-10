@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5289" nextid="c5291" id="c5290">
+   <header>
+      <usage ms="Alb2" code="01033000">[15r] lauds-a3</usage>
+      <usage ms="Ely" code="01033000">[11v] lauds-a3</usage>
+      <usage ms="Evm" code="01036000">[26r] lauds-a3</usage>
+      <usage ms="Evm" code="01043000">[25v] lauds-a3</usage>
+      <usage ms="Hyd" code="01043000">[15r] lauds-a3</usage>
+      <usage ms="Wcb" code="01045000">[50v] lauds-a3</usage>
+      <usage ms="Wor" code="01033000">[8v] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Ely Wor Wcb">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Ely Wor Wcb"> Ut cognoscamus domine</rdg>
+         <rdg wit="Hyd">
+            <sic resp="DC">Da</sic> cognoscamus domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Ely Wor Wcb"> in terra viam tuam</rdg>
+         <rdg wit="CAO-G CAO-V"> in terram viam tuam</rdg>
+         <rdg wit="Alb2"> in terra vitam tuam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Ely Wor Wcb"> in omnibus gentibus salutare tuum</rdg>
+         <rdg wit="CAO-D"> in omnibus salutare tuum</rdg>
+      </app>
+   </aBody>
+</ant>

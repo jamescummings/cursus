@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6547" nextid="c6549" id="c6548">
+   <rBody wit="CAO-E CAO-M CAO-V CAO-L"> Dum Joseph fratres suos quaereret in Sichimis
+      <app>
+         <rdg wit="CAO-E"> illi invidia perculsi</rdg>
+         <rdg wit="CAO-L"> illi invidiam perculsi</rdg>
+         <rdg wit="CAO-M"> illis insidiantes perculsi</rdg>
+         <rdg wit="CAO-V"> illi invidia perculsit</rdg>
+      </app> de morte eius cogitaverunt et exspoliaverunt
+      <app>
+         <rdg wit="CAO-E CAO-M"> illum tunica polymita</rdg>
+         <rdg wit="CAO-V"> illud tunica polymita</rdg>
+         <rdg wit="CAO-L"> illum tunicam polymitam</rdg>
+      </app> et in sanguine haedi intinxerunt illam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V">
+         <app>
+            <rdg wit="CAO-E"> Cumque pervenisset ad fratres suos</rdg>
+            <rdg wit="CAO-V"> Cumque venisset Joseph ad fratres suos</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E"> exuerunt eum tunica</rdg>
+            <rdg wit="CAO-V"> exspoliaverunt eum tunica</rdg>
+         </app> talari et polymita</vBody>
+      <vBody type="r" wit="CAO-M"> Cumque ferret ad patrem</vBody>
+      <vBody type="r" wit="CAO-L"> Videntes autem fratres eius a longe dixerunt Ecce somniator venit venite occidamus eum</vBody>
+      <rep type="r" wit="CAO-E CAO-V">Et in sanguine</rep>
+      <rep type="r" wit="CAO-M">Tunica</rep>
+      <rep type="r" wit="CAO-L">Et exspoliaverunt</rep>
+   </verses>
+</res>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1609" nextid="c1611" id="c1610">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus <name reg="Andreas" type="saint">Andreas</name> orabat dicens
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> domine rex aeternae gloriae</rdg>
+         <rdg wit="CAO-C"> rex aeternae gloriae</rdg>
+      </app> suscipe me pendentem in patibulo</aBody>
+</ant>

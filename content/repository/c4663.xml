@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4662c" nextid="c4664" id="c4663">
+   <header>
+      <usage ms="Cht" code="07056000">[52v] terce</usage>
+      <usage ms="Evm" code="07056000">[140r] sext</usage>
+      <usage ms="Glo" code="07056000">[72r] sext</usage>
+      <usage ms="Wcb" code="07056000">[110v] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-L Cht Evm Wcb Glo">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D Cht Evm Wcb Glo"> Rogavi patrem meum</rdg>
+         <rdg wit="CAO-L"> Rogabo patrem meum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R Cht Evm Wcb Glo"> ut non deficiat fides tua Petre</rdg>
+         <rdg wit="CAO-C CAO-D CAO-L"> ne deficiat fides tua Petre</rdg>
+      </app>
+   </aBody>
+</ant>

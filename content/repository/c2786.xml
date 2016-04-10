@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2785" nextid="c2786b" id="c2786">
+   <header>
+      <usage ms="Hyd" code="08087000">terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-D CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-D CAO-L Hyd"> Exibant autem daemonia</rdg>
+         <rdg wit="CAO-C CAO-E"> Exiebant autem daemonia</rdg>
+      </app> a multis clamantia et dicentia quia tu es filius dei et increpans non sinebat ea loqui<app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-L"> quia sciebant ipsum esse Christum</rdg>
+         <rdg wit="Hyd"> quia sciebant ipsum esse Christum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

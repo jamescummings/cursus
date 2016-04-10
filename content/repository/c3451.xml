@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3450" nextid="c3452" id="c3451">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Istorum est enim regnum caelorum</rdg>
+         <rdg wit="CAO-B"> Istorum est regnum caelorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> qui contempserunt vitam mundi</rdg>
+         <rdg wit="CAO-C CAO-V CAO-S"> qui contempserunt vita mundi</rdg>
+      </app> et pervenerunt ad praemia regni et laverunt stolas suas in sanguine Agni</aBody>
+</ant>

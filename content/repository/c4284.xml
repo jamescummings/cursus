@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4283" nextid="c4285" id="c4284">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Petrus apostolus et Paulus doctor gentium</rdg>
+         <rdg wit="CAO-C"> Petrus apostolus et Paulus praedicator gentium</rdg>
+      </app> ipsi nos docuerunt legem tuam domine</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D CAO-F"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum</vBody>
+      <vBody type="a" wit="CAO-V"> In omnem terram exivit sonus eorum</vBody>
+      <vBody type="a" wit="CAO-S"> In regeneratione cum sederit filius hominis in sede maiestatis suae</vBody>
+   </verses>
+</ant>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3772" nextid="c3774" id="c3773">
+   <header>
+      <usage ms="Hyd" code="01012000">[5r] lauds-a1</usage>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Miserere mei deus</aBody>
+</ant>

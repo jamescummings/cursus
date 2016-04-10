@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7474" nextid="c7476" id="c7475">
+   <header>
+      <usage ms="Alb2" code="07051000">[98r] matins-n1-r3</usage>
+      <usage ms="Bat" code="07051000">[59v] matins-n3-r12</usage>
+      <usage ms="Cdm" code="07051000">[71r] matins-n3-r12</usage>
+      <usage ms="Cht" code="07051000">[48r] matins-n3-r14</usage>
+      <usage ms="Ely" code="07051000">[82r] matins-n3-r12</usage>
+      <usage ms="Evm" code="07051000">[135v] matins-n3-r12</usage>
+      <usage ms="Hyd" code="07051000">[86v] matins-n3-r13</usage>
+      <usage ms="Mch" code="07051000">[144r] matins-n1-r3</usage>
+      <usage ms="Pet" code="07051000">[80v] matins-r12</usage>
+      <usage ms="Wcb" code="07051000">[108r] matins-n3-r11</usage>
+      <usage ms="Wor" code="07051000">[53v] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Qui custodiebant animam meam consilium fecerunt in unum dicentes deus dereliquit eum persequimini et comprehendite eum quia non est qui liberet eum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Bat"> deus meus</rdg>
+         <rdg wit="Mch" type="silent">[silent reading]</rdg>
+         <rdg wit="CAO-L">deus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Bat"> ne elonges a me</rdg>
+         <rdg wit="Alb2">ne elongeas a me</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R">ne longeas a me</rdg>
+         <rdg wit="CAO-G CAO-M CAO-V">ne longes a me</rdg>
+         <rdg wit="Mch" type="silent">[silent reading]</rdg>
+         <rdg wit="CAO-F">ne <corr sic="elongeas">longeas</corr> a me</rdg>
+      </app> deus meus in adiutorium meum intende</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Omnes inimici mei
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> adversum me cogitabant</rdg>
+            <rdg wit="CAO-L">adversus me cogitabant</rdg>
+         </app> mala mihi verbum iniquum mandaverunt
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> adversum me dicentes</rdg>
+            <rdg wit="CAO-L">adversus me dicentes</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-R CAO-F Cht Alb2 Bat">Deus dereliquit</rep>
+      <rep type="r" wit="CAO-C CAO-V CAO-H CAO-S CAO-L Ely Hyd Pet Cdm">Persequimini</rep>
+      <rep type="r" wit="CAO-G CAO-D">Deus meus</rep>
+      <rep type="r" wit="Wor">
+         <unclear reason="deletion" resp="DC">Deus meus</unclear>
+      </rep>
+      <rep type="r" wit="Evm">Deus <gap reason="erased" resp="DC" extent="one word"/>. </rep>
+      <rep type="r" wit="Wcb">Deus.</rep>
+   </verses>
+</res>

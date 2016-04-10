@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6027" nextid="c6029" id="c6028">
+   <header>
+      <usage ms="Hyd" code="10800000">matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Adaperiat dominus cor vestrum in lege sua et in praeceptis suis et faciat pacem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L Hyd"> in diebus nostris</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S"> in diebus vestris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> concedat vobis salutem</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> concedat nobis salutem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> et redimat vos a malis</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> et redimat nos a malis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L Hyd"> Exaudiat dominus orationes vestras et reconcilietur vobis nec vos deserat in tempore malo</vBody>
+      <vBody id="c6028-2" type="r" wit="CAO-F"> Exaudiat dominus orationes vestras et reconcilietur vobis nec vos deserat in tempore malo</vBody>
+      <rep corresp="c6028-2" type="r" wit="CAO-F"> Concedat</rep>
+      <vBody type="r" wit="CAO-C CAO-D"> Exaudiat dominus orationes vestras et reconcilietur vobis</vBody>
+      <vBody id="c6028-1" type="r" num="2" wit="CAO-F"> Det vobis cor omnibus ut colatis eum et faciatis eius voluntatem</vBody>
+      <rep corresp="c6028-1" type="r" wit="CAO-F"> Et redimat</rep>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd">Concedat</rep>
+   </verses>
+</res>

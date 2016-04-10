@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9008" nextid="c9010" id="c9009">
+   <header>
+      <usage ms="Alb2" code="06031000">[70r] matins-n1-r3</usage>
+      <usage ms="Bat" code="06031000">[45r] matins-n1-r3</usage>
+      <usage ms="Cdm" code="06031000">[53r] matins-n1-r3</usage>
+      <usage ms="Cht" code="06031000">[16v] matins-n2-r5</usage>
+      <usage ms="Ely" code="06031000">[62v] matins-n1-r3</usage>
+      <usage ms="Hyd" code="06031000">[65v] matins-n1-r3</usage>
+      <usage ms="Mch" code="06031000">[106v] matins-n1-r3</usage>
+      <usage ms="Pet" code="06031000">[60v] matins-n1-r3</usage>
+      <usage ms="Wcb" code="06031000">[89r] matins-n1-r3</usage>
+      <usage ms="Wor" code="06031000">[40r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="Hyd Cht Alb2 Wor Pet Ely Wcb Cdm Mch Bat"> Eduxit dominus Abraham foras et ait illi suspice caelum et numera stellas si potes sic erit semen tuum</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Cht Alb2 Wor Pet Ely Wcb Cdm Mch Bat">
+         <app>
+            <rdg wit="Hyd Cht Alb2 Wor Pet Ely Cdm Mch Bat"> Credidit Abraham deo</rdg>
+            <rdg wit="Wcb"> Credidit Abraham domino</rdg>
+         </app>
+         <app>
+            <rdg wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Mch Bat"> et reputatum est illi</rdg>
+            <rdg wit="Cht"> et reputatum est ei</rdg>
+         </app> ad iusticiam</vBody>
+      <rep type="r" wit="Hyd Cht Alb2 Wor Pet Ely Wcb Cdm Mch Bat">Suscipe</rep>
+      <dox type="r" wit="Pet">Gloria patri et filio et spiritui sancto</dox>
+      <rep type="r" wit="Pet" num="2">Et benedixit</rep>
+   </verses>
+</res>

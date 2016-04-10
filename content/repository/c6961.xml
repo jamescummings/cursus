@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6960" nextid="c6962" id="c6961">
+   <header>
+      <usage ms="Alb2" code="07061000">[105r] matins-n3-r12</usage>
+      <usage ms="Bat" code="07061000">[63r] matins-n3-r12</usage>
+      <usage ms="Cdm" code="07061000">[75r] matins-n3-r12</usage>
+      <usage ms="Cht" code="07061000">[55r] matins-n3-r12</usage>
+      <usage ms="Ely" code="07061000">[86r] matins-n3-r12</usage>
+      <usage ms="Evm" code="07061000">[143v] matins-n3-r12</usage>
+      <usage ms="Glo" code="07061000">[74v] procession</usage>
+      <usage ms="Hyd" code="07062000">[92r] matins-r4</usage>
+      <usage ms="Mch" code="07061000">[153v] matins-n3-r9</usage>
+      <usage ms="Pet" code="07061000">[85r] matins-n3-r12</usage>
+      <usage ms="Wcb" code="07061000">[112v] matins-n3-r12</usage>
+      <usage ms="Wor" code="07061000">[56r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Glo Alb2 Pet Cdm Mch Bat"> Ingrediente domino in sanctam civitatem Hebraeorum pueri resurrectionem vitae
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Evm Wcb Glo Alb2 Pet Cdm Mch Bat"> pronuntiantes</rdg>
+         <rdg wit="Hyd">annunciantes</rdg>
+         <rdg wit="CAO-C">praenuntiantes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Evm Wcb Glo Alb2 Pet Cdm Mch Bat"> cum ramis palmarum</rdg>
+         <rdg wit="CAO-L">cum ramis procedentes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Glo Alb2 Pet Mch Bat"> hosanna clamabant in excelsis</rdg>
+         <rdg wit="CAO-M CAO-V Cdm">hosanna clamabat in excelsis</rdg>
+         <rdg wit="CAO-B CAO-R">hosanna clamantes in excelsis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Glo Alb2 Pet Cdm Mch Bat">
+         <app>
+            <rdg wit="CAO-F Hyd Cht Evm Wcb Glo Pet"> Cum audisset populus</rdg>
+            <rdg wit="CAO-M Ely Wor Alb2 Cdm Bat"> Cumque audisset populus</rdg>
+            <rdg wit="Mch"> Cumque audisset</rdg>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L"> Cumque audissent</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-S CAO-L Cht Hyd Evm Wcb Glo Alb2 Pet Cdm"> quia venit Jesus Hierosolymam</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-F Wor Ely Bat"> quia Jesus venit Hierosolymam</rdg>
+            <rdg wit="Mch"> quia Jesus venit Hierosolimis</rdg>
+            <rdg wit="CAO-M"> quia Jesus venit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-R CAO-F CAO-L Hyd Mch"> exierunt obviam ei</rdg>
+            <rdg wit="CAO-S Ely Wor Cht Evm Glo Alb2 Pet Cdm Bat"> exierunt ei obviam</rdg>
+            <rdg wit="Wcb"> processerunt ei obviam</rdg>
+            <rdg wit="CAO-H"> processerunt obviam ei</rdg>
+            <rdg wit="CAO-M"> occurrerunt ei obviam</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-M CAO-V CAO-H CAO-D"> Ex ore
+      <app>
+            <rdg wit="CAO-C CAO-M CAO-V CAO-H"> infantium</rdg>
+            <rdg wit="CAO-D">infantium deus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-V CAO-H CAO-D"> et lactantium perfecisti laudem</rdg>
+            <rdg wit="CAO-M">et lactentium perfecisti laudem</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Evm Wcb Glo Alb2 Pet Cdm Mch Bat">Cum</rep>
+      <rep type="r" num="2" wit="Evm">Ingrediente domino</rep>
+   </verses>
+</res>

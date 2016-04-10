@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5194" nextid="c5196" id="c5195">
+   <header>
+      <usage ms="Alb2" code="01038000">[14v] lauds gosp</usage>
+      <usage ms="Bat" code="01033000">[10r] lauds gosp</usage>
+      <usage ms="Cdm" code="01033000">[16r] lauds gosp</usage>
+      <usage ms="Ely" code="01033000">[11v] lauds gosp</usage>
+      <usage ms="Evm" code="01035000">[26r] lauds gosp</usage>
+      <usage ms="Evm" code="01043000">[25v] lauds gosp</usage>
+      <usage ms="Hyd" code="01043000">[15r] lauds gosp</usage>
+      <usage ms="Mch" code="01033000">[13r] lauds gosp</usage>
+      <usage ms="Wcb" code="01047000">[51v] lauds gosp</usage>
+      <usage ms="Wor" code="01033000">[8v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Tu Bethleem terra Juda
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-L Alb2 Cdm Ely Bat"> non eris minima</rdg>
+         <rdg wit="Hyd Evm Mch Wor Wcb"> non eris minima in principibus Juda</rdg>
+         <rdg wit="CAO-C"> non eris minima inter principes Juda</rdg>
+         <rdg wit="CAO-B CAO-R CAO-F CAO-S"> non eris minima in principibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> ex te enim exiet dux</rdg>
+         <rdg wit="CAO-C"> ex te enim exiet</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> qui regat populum meum Israel</rdg>
+         <rdg wit="CAO-F"> qui reget populum meum Israel</rdg>
+      </app>
+   </aBody>
+</ant>

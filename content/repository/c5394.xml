@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5393" nextid="c5395" id="c5394">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F"> Video virum similem filio dei
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F"> confortantem pueros</rdg>
+         <rdg wit="CAO-C"> confortantes pueros</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-F"> in camino ignis alleluia</rdg>
+         <rdg wit="CAO-D"> in camino ymnis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

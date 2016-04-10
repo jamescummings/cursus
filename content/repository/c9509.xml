@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9508" nextid="c9510" id="c9509">
+   <header>
+      <usage ms="Evm" code="06021000">[97v] matins-n3-r12</usage>
+      <usage ms="Wcb" code="06021000">[88r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="Evm Wcb"> Benedictus dominus deus Sem dilatet deus Iaphet et habitet in tabernaculis Sem sitque Canaan servus eorum</rBody>
+   <verses>
+      <vBody type="r" wit="Evm Wcb"> Dixit autem Noe maledictus Canaan servus servorum erit fratribus suis</vBody>
+      <rep type="r" wit="Evm Wcb">Dilatet</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+   </verses>
+</res>

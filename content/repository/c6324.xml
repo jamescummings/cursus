@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6323" nextid="c6325" id="c6324">
+   <header>
+      <usage ms="Hyd" code="10800000">matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Congregatae sunt gentes
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> in multitudine</rdg>
+         <rdg wit="CAO-V"> in fortitudine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> ut dimicent</rdg>
+         <rdg wit="CAO-M CAO-H"> ut dimicarent</rdg>
+      </app> contra nos et ignoramus
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> quid agere</rdg>
+         <rdg wit="CAO-E"> quod agere</rdg>
+      </app> debeamus domine deus
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> ad te</rdg>
+         <rdg wit="CAO-C CAO-S"> a te</rdg>
+      </app> sunt oculi nostri ne pereamus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Tu scis</rdg>
+            <rdg wit="CAO-G"> Tu scis domine</rdg>
+         </app> quae cogitant in nos
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-S CAO-L"> quomodo</rdg>
+            <rdg wit="CAO-D CAO-F"> et quomodo</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-F CAO-S CAO-L"> poterimus</rdg>
+            <rdg wit="CAO-D"> possumus</rdg>
+         </app> subsistere ante faciem illorum nisi tu adiuves nos</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-H"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" wit="CAO-B CAO-R">
+         <app>
+            <rdg wit="CAO-B"> Aperi oculos tuos domine</rdg>
+            <rdg wit="CAO-R"> Aperi caelos tuos domine</rdg>
+         </app> et vide afflictionem nostram</vBody>
+      <vBody type="r" wit="Hyd"> Propitius esto peccatis nostris propter nomen tuum ne quando dicant gentes ubi deus eorum</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Domine</rep>
+   </verses>
+</res>

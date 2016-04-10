@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3250" nextid="c3252" id="c3251">
+   <header>
+      <usage ms="Hyd" code="01011000">[4r] vesp2-a3</usage>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-S CAO-L Hyd"> In mandatis eius
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-S Hyd"> volet nimis</rdg>
+         <rdg wit="CAO-L"> cupit nimis</rdg>
+      </app>
+   </aBody>
+</ant>

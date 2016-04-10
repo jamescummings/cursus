@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7160" nextid="c7162" id="c7161">
+   <header>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Misericordia tua domine magna est super me et liberasti animam meam ex inferno inferiori</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Hyd"> Deus iniqui</rdg>
+            <rdg wit="CAO-D"> Deus iniusti</rdg>
+         </app> insurrexerunt in me et fortes quaesierunt animam meam</vBody>
+      <vBody type="r" wit="CAO-L"> In die tribulationis meae clamavi ad te quia exaudisti me</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et</rep>
+   </verses>
+</res>

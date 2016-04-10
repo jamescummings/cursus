@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4116b" nextid="c4118" id="c4117">
+   <header>
+      <usage ms="Cdm" code="07061000">[75v] none</usage>
+      <usage ms="Cht" code="07061000">[55v] lauds</usage>
+      <usage ms="Ely" code="07061000">[86v] vesp2</usage>
+      <usage ms="Evm" code="07061000">[144r] lauds</usage>
+      <usage ms="Glo" code="07061000">[77r] nones</usage>
+      <usage ms="Hyd" code="07061000">[91v] sext</usage>
+      <usage ms="Wcb" code="07061000">[113r] lauds</usage>
+      <usage ms="Wor" code="07061000">[56v] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C Ely Wor Cht Hyd Evm Wcb Glo Cdm"> Omnes collaudant nomen tuum
+     <app>
+         <rdg wit="CAO-C">et dicent</rdg>
+         <rdg wit="Ely Wor Hyd Cdm">et dicunt</rdg>
+         <rdg wit="Cht Evm Wcb Glo">dicentes</rdg>
+      </app> benedictus qui venit in nomine domini hosanna in excelsis</aBody>
+</ant>

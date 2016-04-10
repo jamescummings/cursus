@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3791" nextid="c3793" id="c3792">
+   <header>
+      <usage ms="Glo" code="01011000">[7v] procession</usage>
+   </header>
+   <aBody wit="CAO-F Glo"> Missus est angelus Gabriel a deo in civitatem Nazareth ad virginem Mariam desponsatam Joseph
+     <app>
+         <rdg wit="CAO-F"> et dixit ei</rdg>
+         <rdg wit="Glo"> dixit ad eam</rdg>
+      </app> spiritus sanctus superveniet in te et virtus altissimi obumbrabit tibi ideoque et quod nascetur ex te sanctum vocabitur filius dei dixit autem Maria ecce ancilla domini fiat mihi secundum verbum tuum alleluia</aBody>
+</ant>

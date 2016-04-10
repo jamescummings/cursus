@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4931" nextid="c4933" id="c4932">
+   <header>
+      <usage ms="Cht" code="07053000">[51r] terce-a1</usage>
+      <usage ms="Evm" code="07053000">[138v] terce</usage>
+      <usage ms="Glo" code="07053000">[71r] terce</usage>
+      <usage ms="Mch" code="07051000">[147r] nones</usage>
+      <usage ms="Wcb" code="07053000">[110r] terce-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-F CAO-L Cht Evm Wcb Glo Mch"> Sicut exaltatus est serpens in eremo ita exaltari oportet filium hominis</aBody>
+</ant>

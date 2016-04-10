@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3519" nextid="c3521" id="c3520">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-F"> Iugum enim meum suave est</rdg>
+         <rdg wit="CAO-S"> Iugum enim meum suave</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-F"> et onus meum leve dicit dominus</rdg>
+         <rdg wit="CAO-S"> et onus meum leve est dicit dominus</rdg>
+         <rdg wit="CAO-C"> et onus meum leve</rdg>
+      </app>
+   </aBody>
+</ant>

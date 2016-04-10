@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2882" nextid="c2884" id="c2883">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Flagrabat in beatissimis martyribus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> gloriosus ardor</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V"> gloriosus odor</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F"> quia trucidati ferro</rdg>
+         <rdg wit="CAO-C"> quia trucidato ferro</rdg>
+         <rdg wit="CAO-E"> quia trucidanti ferro</rdg>
+         <rdg wit="CAO-H"> quia trucidandi ferro</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-R"> collis submissis</rdg>
+         <rdg wit="CAO-E"> collis submittunt</rdg>
+         <rdg wit="CAO-H CAO-D CAO-F"> colla submittunt</rdg>
+         <rdg wit="CAO-M"> colla submissa</rdg>
+         <rdg wit="CAO-V"> colla <sic resp="Hesbert">subnisxa</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D"> qui sub Maximiano</rdg>
+         <rdg wit="CAO-C CAO-E CAO-F"> a Maximiano</rdg>
+      </app> perempti sunt quos multitudo angelorum
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D"> cum gaudio susceperunt</rdg>
+         <rdg wit="CAO-C CAO-E CAO-F"> cum gaudio suscepit</rdg>
+         <rdg wit="CAO-V"> cum gaudio adsumpserunt</rdg>
+      </app>
+   </aBody>
+</ant>

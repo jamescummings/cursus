@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8521" nextid="c8523" id="c8522">
+   <header>
+      <usage ms="Evm" code="07021000"/>
+      <usage ms="Glo" code="07021000"/>
+      <usage ms="Wcb" code="07021000"/>
+   </header>
+   <aBody wit="Evm Wcb Glo">Accedentes discipuli Jesu ad eum rogabant eum dicentes dimitte eam quia clamat post nos</aBody>
+</ant>

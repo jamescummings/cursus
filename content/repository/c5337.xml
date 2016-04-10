@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5336" nextid="c5338" id="c5337">
+   <header>
+      <usage ms="Alb2" code="01031000">[13r] lauds-a1</usage>
+      <usage ms="Bat" code="01031000">[9v] lauds-a1</usage>
+      <usage ms="Cdm" code="01031000">[15v] lauds-a1</usage>
+      <usage ms="Ely" code="01031000">[10v] lauds-a1</usage>
+      <usage ms="Evm" code="01031000">[18r] lauds-a1</usage>
+      <usage ms="Hyd" code="01031000">[11r] lauds-a1</usage>
+      <usage ms="Mch" code="01031000">[12r] lauds-a1</usage>
+      <usage ms="Wcb" code="01031000">[47r] lauds-a1</usage>
+      <usage ms="Wor" code="01031000">[8r] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Veniet dominus et non tardabit</rdg>
+         <rdg wit="CAO-C CAO-S"> Veniet dominus et non tardavit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-F CAO-S Hyd Mch Cdm Ely Wor Bat"> ut illuminet</rdg>
+         <rdg wit="CAO-G CAO-L Alb2 Evm Wcb"> et illuminabit</rdg>
+         <rdg wit="CAO-C CAO-B CAO-R"> et illuminat</rdg>
+         <rdg wit="CAO-M CAO-V CAO-D"> et illuminet</rdg>
+      </app> abscondita tenebrarum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> et manifestabit se</rdg>
+         <rdg wit="CAO-C"> et manifestavit se</rdg>
+      </app> ad omnes gentes alleluia</aBody>
+</ant>

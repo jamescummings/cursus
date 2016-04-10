@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3832" nextid="c3834" id="c3833">
+   <header>
+      <usage ms="Cdm" code="06018000">[50v] -a2</usage>
+      <usage ms="Cht" code="06018000">[13r] -a1</usage>
+      <usage ms="Evm" code="06018000">[95r] </usage>
+      <usage ms="Glo" code="06021000">[56v] vesp1</usage>
+      <usage ms="Hyd" code="06018000">[62v]  gosp</usage>
+      <usage ms="Pet" code="06011000">[57v] vesp2</usage>
+      <usage ms="Wcb" code="06021000">[87r] vesp1</usage>
+      <usage ms="Wor" code="06018000">[38r] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Cht Wor Pet Wcb Evm Glo Cdm"> Multi enim sunt vocati
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Cht Wor Pet Wcb Evm Glo Cdm"> pauci vero electi</rdg>
+         <rdg wit="CAO-V"> pauci autem electi</rdg>
+      </app> dicit dominus</aBody>
+</ant>

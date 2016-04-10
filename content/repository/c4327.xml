@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4326b" nextid="c4328" id="c4327">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F"> Post excessum beatissimi Martini episcopi</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> Post discessum beatissimi Martini episcopi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-F"> beatus Briccius cathedram episcopalem suscepit</rdg>
+         <rdg wit="CAO-E"> beatus Briccius cathedra episcopalem suscepit</rdg>
+         <rdg wit="CAO-H"> beatus Briccius ad cathedram episcopalem successit</rdg>
+      </app>
+   </aBody>
+</ant>

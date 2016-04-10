@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7559" nextid="c7561" id="c7560">
+   <rBody wit="CAO-E CAO-V">
+      <app>
+         <rdg wit="CAO-E"> Salus nostra</rdg>
+         <rdg wit="CAO-V"> Salutis nostrae</rdg>
+      </app> redemptor modo veniet
+     <app>
+         <rdg wit="CAO-E"> quem Gabriel nuntiavit</rdg>
+         <rdg wit="CAO-V"> quem Gabriel annuntiavit</rdg>
+      </app> et Maria virgo concepit ipse venit liberare hominem perditum quem plasmavit in mundum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V">
+         <app>
+            <rdg wit="CAO-E"> Princeps Gabriel magne</rdg>
+            <rdg wit="CAO-V"> Princeps magne Gabriel</rdg>
+         </app> testis fidelis iam veniet
+      <app>
+            <rdg wit="CAO-E"> qui venturus est</rdg>
+            <rdg wit="CAO-V"> qui regnaturus est</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-V">Ipse</rep>
+   </verses>
+</res>

@@ -1,0 +1,358 @@
+<!-- Cursus entities -->
+
+
+<!-- Character / Symbol Entities -->
+<!--  EXAMPLE: ENTITY spades   "&#9824;" black spade suit, U+2660 ISOpub -->
+<!-- Markup tags -->
+<!ENTITY A '<rubric type="antiphon">Ant.</rubric>'> <!-- Symbol or Characters for Antiphon, use as &A; -->
+<!ENTITY AE '<rubric type="evangelio">In Evangelio</rubric> &A; '> <!-- Symbol or Characters for Antiphon with In Evangelio, use as &AE; -->
+<!ENTITY AC '&Cca; &A;'> <!-- Symbol or Characters for Antiphon, with Ad Cantica, use as &AC; -->
+<!ENTITY C '<rubric type="chapterTitle">Capitulum</rubric> '> <!-- Symbol or Characters for Chapter, use as &C; --> 
+<!ENTITY Cant '<rubric type="cant">Cantica</rubric>'> <!-- Symbol or Characters for Cant, use as &Cant; --> 
+<!ENTITY Cca '<rubric type="cantica">Ad Cantica</rubric>'> <!-- Symbol or Characters for Antiphon, with Ad Cantica, use as &AC; -->
+<!ENTITY Etrel '<rubric type="levis">Et reliqua</rubric>'> <!-- Symbol or Characters for 'Et reliqua', use as &Etrel; --> 
+<!ENTITY etc '<rubric type="levis">Et cetera</rubric>'> <!-- Symbol or Characters for Et c' abbreviation, use as &etc; --> 
+<!ENTITY Ev '<rubric type="evovae">Evovae</rubric>'> <!-- Symbol or Characters for 'Evovae' use as &Ev; -->
+<!ENTITY I '<rubric type="invitatory">Invit.</rubric>'> <!-- Symbol or Characters for Invitatory, use as &I; --> 
+<!ENTITY O '<rubric type="oratio">Oratio.</rubric>'> <!-- Symbol or Characters for Oratio, use as &O; --> 
+<!ENTITY P '<rubric type="psalm">Ps.</rubric>'> <!-- Symbol or Characters for Psalm, use as &P; -->
+<!ENTITY PI '<rubric type="psalmumIpsum">Psalmum ipsum</rubric>'> <!-- Symbol or Characters for Psalmum ipsum, use as &PI; -->
+<!ENTITY Pr '<rubric type="preces">Preces</rubric>'> <!-- Symbol or Characters for Preces, use as &Pr; -->
+<!ENTITY R '<rubric type="respond">R.</rubric>'> <!-- Symbol or Characters for Respond, use as &R; -->
+<!ENTITY V '<rubric type="verse">V.</rubric>'> <!-- Symbol or Characters for Verse, use as &V; -->
+<!ENTITY Y '<rubric type="hymn">Ymnus.</rubric>'> <!-- Symbol or Characters for Hymn, use as &Y; -->
+
+<!-- Symbol tags -->
+<!ENTITY apos "'"> <!-- Symbol or Characters for apostrophe, use as &apos; --> 
+<!ENTITY ar "ar"> <!-- Symbol or Characters for supralinear 'ar', use as &ar; --> 
+<!ENTITY bar "[m]"> <!-- Symbol or Characters for supralinear horizontal bar abbreviation mark, use as &bar; --> 
+<!ENTITY barbl "per"> <!-- Symbol or Characters for 'per' abbreviation mark, use as &barbl; --> 
+<!ENTITY barhook "&bar;&amp;"> <!-- Symbol or Characters for supralinear horizontal bar abbreviation mark with a hook, use as &barhook; --> 
+<!ENTITY colon ": "> <!-- Symbol or Characters for colon, use as &colon; --> 
+<!ENTITY com "com"> <!-- Symbol or Characters for 'com' abbreviation, use as &com; --> 
+<!ENTITY con "con"> <!-- Symbol or Characters for 'con' abbreviation, use as &con; --> 
+<!ENTITY curvbar "&bar;"> <!-- Symbol or Characters for supralinear horizontal bar slightly curved upwards, sometimes  attached to a letter, use as &curvbar; --> 
+<!ENTITY er "er"> <!-- Symbol or Characters for supralinear 'er', use as &er; --> 
+<!ENTITY est "&colon;"> <!-- Symbol or Characters for colon with dash between dots, use as &est; --> 
+<!ENTITY esup "e"> <!-- Symbol or Characters for supralinear 'e', use as &esup; --> 
+<!ENTITY flour "ro"> <!-- Symbol or Characters for flourish attached to tail of 'p', use as &flour; --> 
+<!ENTITY hook "&apos;"> <!-- Symbol or Characters for unknown abbreviation, use as &hook; --> 
+<!ENTITY hookamp "&amp;"> <!-- Symbol or Characters for an ampersand resembling a '7', use as &hookamp; --> 
+<!ENTITY isup "i"> <!-- Symbol or Characters for supralinear 'i', use as &isup; --> 
+<!ENTITY osup "o"> <!-- Symbol or Characters for supralinear 'o', use as &osup; --> 
+<!ENTITY per "per"> <!-- Symbol or Characters for 'per' abbreviation, use as &per; --> 
+<!ENTITY pro "pro"> <!-- Symbol or Characters for 'pro' abbreviation, use as &pro; --> 
+<!ENTITY punct-el "; "> <!-- Symbol or Characters for punctus elevatus, use as &punct-el; --> 
+<!ENTITY punctus ". "> <!-- Symbol or aCharacters for punctus, use as &punctus; --> 
+<!ENTITY ra "ra"> <!-- Symbol or Characters for supralinear 'ra', use as &ra; --> 
+<!ENTITY rum "rum"> <!-- Symbol or Characters for a typical 'rum' abbreviation mark, use as &rum; --> 
+<!ENTITY ssup "s"> <!-- Symbol or Characters for supralinear 's', use as &ssup; --> 
+<!ENTITY twistbar "&bar;"> <!-- Symbol or Characters for supralinear horizontal bar abbreviation mark with slight reversed-s twist, use as &twistbar; --> 
+<!ENTITY ur "ur"> <!-- Symbol or Characters for supralinear 'ur', use as &ur; --> 
+<!ENTITY ussup "[us]"> <!-- Symbol or Characters for '9'-like us supralinear abbreviation mark, use as &ussup; --> 
+<!ENTITY virgule "/"> <!-- Symbol or Characters for virgule, use as &virgule; --> 
+<!ENTITY copy   "&#169;"> <!-- copyright sign, U+00A9 ISOnum -->
+
+<!-- Accents and foreign characters (for MS descriptions, etc.) -->
+<!ENTITY Agrave "&#192;"> <!-- latin capital letter A with grave = latin capital letter A grave,  U+00C0 ISOlat1 -->
+<!ENTITY Aacute "&#193;"> <!-- latin capital letter A with acute,  U+00C1 ISOlat1 -->
+<!ENTITY Acirc  "&#194;"> <!-- latin capital letter A with circumflex,  U+00C2 ISOlat1 -->
+<!ENTITY Egrave "&#200;"> <!-- latin capital letter E with grave, U+00C8 ISOlat1 -->
+<!ENTITY Eacute "&#201;"> <!-- latin capital letter E with acute, U+00C9 ISOlat1 -->
+<!ENTITY Ecirc  "&#202;"> <!-- latin capital letter E with circumflex, U+00CA ISOlat1 -->
+<!ENTITY agrave "&#224;"> <!-- latin small letter a with grave = latin small letter a grave, U+00E0 ISOlat1 -->
+<!ENTITY aacute "&#225;"> <!-- latin small letter a with acute, U+00E1 ISOlat1 -->
+<!ENTITY acirc  "&#226;"> <!-- latin small letter a with circumflex,  U+00E2 ISOlat1 -->
+<!ENTITY ccedil "&#231;"> <!-- latin small letter c with cedilla, U+00E7 ISOlat1 -->
+<!ENTITY egrave "&#232;"> <!-- latin small letter e with grave, U+00E8 ISOlat1 -->
+<!ENTITY eacute "&#233;"> <!-- latin small letter e with acute, U+00E9 ISOlat1 -->
+<!ENTITY ecirc  "&#234;"> <!-- latin small letter e with circumflex, U+00EA ISOlat1 -->
+
+<!-- List of CURSUS elements -->
+<!ENTITY % n.antiphon "antiphon">
+<!ENTITY % n.ant "ant">
+<!ENTITY % n.aBody "aBody">
+<!ENTITY % n.bookName "bookName">
+<!ENTITY % n.biblical "biblical">
+<!ENTITY % n.chapter "chapter">
+<!ENTITY % n.canticle "canticle">
+<!ENTITY % n.Day "Day">
+<!ENTITY % n.dox "dox">
+<!ENTITY % n.feast "feast">
+<!ENTITY % n.feria "feria">
+<!-- <!ENTITY % n.gospel "gospel">-->
+<!ENTITY % n.hymn "hymn">
+<!ENTITY % n.hVerse "hVerse">
+<!ENTITY % n.incipit "incipit">
+<!ENTITY % n.invitatory "invitatory">
+<!ENTITY % n.litany "litany">
+<!ENTITY % n.litanyItem "litanyItem">
+<!ENTITY % n.lection "lection">
+<!ENTITY % n.nocturn "nocturn">
+<!ENTITY % n.prayer "prayer">
+<!ENTITY % n.pBody "pBody">
+<!ENTITY % n.preces "preces">
+<!ENTITY % n.prosula "prosula">
+<!ENTITY % n.reference "reference">
+<!ENTITY % n.rep "rep">
+<!ENTITY % n.rBody "rBody">
+<!ENTITY % n.res "res">
+<!ENTITY % n.respond "respond">
+<!ENTITY % n.response "response">
+<!ENTITY % n.rubric "rubric">
+<!ENTITY % n.service "service">
+<!ENTITY % n.TEI.2 "CURSUS">
+<!ENTITY % n.variant "variant">
+<!ENTITY % n.verse "verse">
+<!ENTITY % n.verses "verses">
+<!ENTITY % n.versicle "versicle">
+<!ENTITY % n.vslResp "vslResp">
+<!ENTITY % n.vslVerse "vslVerse">
+<!ENTITY % n.vBody "vBody">
+<!ENTITY % n.verseNum "verseNum">
+<!ENTITY % n.Week "Week">
+
+<!-- Where they can be used in TEI -->
+<!ENTITY % x.cursus "biblical|rep|res|ant|aBody|antiphon|bookName|canticle|chapter|Day|dox|feast|feria|hymn|hVerse|incipit|invitatory|lection|litany|litanyItem|nocturn|pBody|prayer|preces|prosula|rBody|reference|respond|response|rubric|service|variant|vBody|verses|verse|verseNum|versicle|vslResp|vslVerse|Week|">
+<!ENTITY % x.common "%x.cursus;">
+<!ENTITY % x.phrase "%x.cursus;">
+<!ENTITY % x.specialPara "%x.cursus;">
+<!ENTITY % x.paraContent "%x.cursus;">
+
+
+<!-- TEI Header Construction of multiple entities -->
+<!ENTITY teiHeader '<teiHeader>&teiHeader1; &teiHeader2; &teiHeader3;</teiHeader> <!-- END OF HEADER-->'>
+
+<!ENTITY teiHeader1 '
+<!-- Header Abbreviation -->
+<!-- HEADER FILE -->
+ <fileDesc> <titleStmt><title type="main">&title;</title>
+            <title type="sub">&subtitle;</title>
+            <principal>David Chadd</principal>
+        <respStmt>
+        <resp>transcribed and encoded by</resp>
+        <name>David Chadd and/or James Cummings</name>
+        </respStmt>
+        <funder>Arts and Humanities Research Board</funder>
+    </titleStmt>
+      <extent><seg type="size">&filesize;</seg></extent>
+    <publicationStmt>
+            <distributor>
+            <name key="CURSUS" type="Research Project">CURSUS Research Project</name>
+            <name type="place">Norwich</name>
+            <address>
+                <addrLine><name type="organisation" key="UEA">School of Music, University of East Anglia</name></addrLine>
+                <addrLine>Norwich NR4 7TJ</addrLine>
+                <addrLine><name type="email">cursus@uea.ac.uk</name></addrLine>
+            </address>
+            </distributor>
+      <availability status="free">
+        <p>Freely available for non-commercial use provided this header is included in its entirety with any copy distributed.</p>
+      </availability>
+       &versionDate;</publicationStmt>
+      <sourceDesc>
+    <biblFull>
+      <titleStmt>
+        <title>&title;</title>
+        <author>&author;</author>
+      </titleStmt>
+      <editionStmt>
+        <p>&title;</p>
+      </editionStmt>
+      <extent>&folios;</extent>
+<!-- SOURCE PUBLICATION -->
+      <publicationStmt>
+        <publisher>&publisher;</publisher>
+        <pubPlace>&pubPlace;</pubPlace>
+        <date>&pubDate;</date>
+      </publicationStmt>
+    </biblFull>
+      </sourceDesc>
+    </fileDesc>
+'>
+
+<!ENTITY teiHeader2 '
+    <encodingDesc>
+      <projectDesc>
+    <p>Encoding for CURSUS Research Project</p>
+      </projectDesc>
+      <samplingDecl>
+    <p>[[Description of the rationale and methods used in sampling texts in creating a corpus]]</p>
+      </samplingDecl>
+<editorialDecl>
+    <p>[[Anything we might want to say about how we have encoded the MS.  This ought to include a statement within a
+    "normalization" element, below "editorialDecl", about how we have treated the spelling of the mss.]]</p>
+</editorialDecl>
+      <tagsDecl> <!--[[ detailed information about the tagging applied to the text]]--></tagsDecl>
+      <classDecl>
+    <taxonomy id="CURSUS">
+<bibl>&classMark;</bibl>
+    </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+              <creation>
+    &creationDate;
+      </creation>
+      <langUsage>
+    <language id="lat">Latin</language>
+      </langUsage>
+        <handList>
+        <hand id="contemp" scribe="Original or reasonably contemporary/medieval hand"/>
+        <hand id="later" scribe="A post-medieval hand"/>
+        <hand id="scribe" scribe="Something in the same hand as the main scribe"/>
+        <hand id="unknown" scribe="Where it is obviously a different hand but it is impossible to determine whose."/>
+        </handList>
+      <textClass>
+    <keywords scheme="CURSUS"><term type="genre">Liturgical books -- medieval -- monastic -- Great Britain</term></keywords>
+      </textClass>
+    </profileDesc>
+'>
+<!ENTITY teiHeader3 '
+<!-- REVISIONS -->
+     <revisionDesc>
+        <change><date>23 September 2001</date>
+          <respStmt>
+            <name id="JC">James Cummings</name><resp>encoding</resp>
+            <name id="DC">David Chadd</name><resp>encoding and overseeing of entire project</resp>
+            <name id="Tolhurst">Tolhurst</name><resp>Previous Editor of Hyde</resp>
+            <name id="Hesbert">Rene-Jean Hesbert</name><resp>Editor of Corpus Antiphonalium Officii</resp>
+          </respStmt>
+          <item>Initial Creation of Document</item>
+        </change>
+        &changes;
+     </revisionDesc>
+'>
+
+<!-- xptr href entity -->
+<!NOTATION REPOS SYSTEM 'text/xml'>
+<!ENTITY Responds SYSTEM 'repository.xml' NDATA REPOS>
+<!ENTITY Antiphons SYSTEM 'repository.xml' NDATA REPOS>
+<!ENTITY Prayers SYSTEM 'repository.xml' NDATA REPOS>
+
+<!-- Biblical entities for xptr href attribute -->
+<!NOTATION NT SYSTEM 'text/xml'>
+<!NOTATION OT SYSTEM 'text/xml'>
+<!ENTITY Acts SYSTEM 'Acts.xml' NDATA NT >
+<!ENTITY Amos SYSTEM 'Amos.xml' NDATA OT >
+<!ENTITY Baruch SYSTEM 'Baruch.xml' NDATA OT >
+<!ENTITY Chronicles1 SYSTEM '1Chronicles.xml' NDATA OT >
+<!ENTITY Chronicles2 SYSTEM '2Chronicles.xml' NDATA OT >
+<!ENTITY Colossians SYSTEM 'Colossians.xml' NDATA NT >
+<!ENTITY Corinthians1 SYSTEM '1Corinthians.xml' NDATA NT >
+<!ENTITY Corinthians2 SYSTEM '2Corinthians.xml' NDATA NT >
+<!ENTITY Daniel SYSTEM 'Daniel.xml' NDATA OT >
+<!ENTITY Deuteronomy SYSTEM 'Deuteronomy.xml' NDATA OT >
+<!ENTITY Ecclesiastes SYSTEM 'Ecclesiastes.xml' NDATA OT >
+<!ENTITY Ecclesiasticus SYSTEM 'Ecclesiasticus.xml' NDATA OT >
+<!ENTITY Ephesians SYSTEM 'Ephesians.xml' NDATA NT >
+<!ENTITY Eesdras1 SYSTEM '1Esdras.xml' NDATA OT >
+<!ENTITY Esther SYSTEM 'Esther.xml' NDATA OT >
+<!ENTITY Exodus SYSTEM 'Exodus.xml' NDATA OT >
+<!ENTITY Ezekiel SYSTEM 'Ezekiel.xml' NDATA OT >
+<!ENTITY Ezra SYSTEM 'Ezra.xml' NDATA OT >
+<!ENTITY Ezra4 SYSTEM '4Ezra.xml' NDATA OT >
+<!ENTITY Galatians SYSTEM 'Galatians.xml' NDATA NT >
+<!ENTITY Genesis SYSTEM 'Genesis.xml' NDATA OT >
+<!ENTITY Habakkuk SYSTEM 'Habakkuk.xml' NDATA OT >
+<!ENTITY Haggai SYSTEM 'Haggai.xml' NDATA OT >
+<!ENTITY Hebrews SYSTEM 'Hebrews.xml' NDATA NT >
+<!ENTITY Hosea SYSTEM 'Hosea.xml' NDATA OT >
+<!ENTITY Isaiah SYSTEM 'Isaiah.xml' NDATA OT >
+<!ENTITY James SYSTEM 'James.xml' NDATA NT >
+<!ENTITY Jeremiah SYSTEM 'Jeremiah.xml' NDATA OT >
+<!ENTITY Job SYSTEM 'Job.xml' NDATA OT >
+<!ENTITY Joel SYSTEM 'Joel.xml' NDATA OT >
+<!ENTITY John SYSTEM 'John.xml' NDATA NT >
+<!ENTITY John1 SYSTEM '1John.xml' NDATA NT >
+<!ENTITY John2 SYSTEM '2John.xml' NDATA NT >
+<!ENTITY John3 SYSTEM '3John.xml' NDATA NT >
+<!ENTITY Jonah SYSTEM 'Jonah.xml' NDATA OT >
+<!ENTITY Joshua SYSTEM 'Joshua.xml' NDATA OT >
+<!ENTITY Jude SYSTEM 'Jude.xml' NDATA NT >
+<!ENTITY Judges SYSTEM 'Judges.xml' NDATA OT >
+<!ENTITY Judith SYSTEM 'Judith.xml' NDATA OT >
+<!ENTITY Kings1 SYSTEM '1Kings.xml' NDATA OT >
+<!ENTITY Kings2 SYSTEM '2Kings.xml' NDATA OT >
+<!ENTITY Lamentations SYSTEM 'Lamentations.xml' NDATA OT >
+<!ENTITY Laodiceans SYSTEM 'Laodiceans.xml' NDATA OT >
+<!ENTITY Leviticus SYSTEM 'Leviticus.xml' NDATA OT >
+<!ENTITY Luke SYSTEM 'Luke.xml' NDATA NT >
+<!ENTITY Maccabees1 SYSTEM '1Maccabees.xml' NDATA OT >
+<!ENTITY Maccabees2 SYSTEM '2Maccabees.xml' NDATA OT >
+<!ENTITY Malachai SYSTEM 'Malachai.xml' NDATA OT >
+<!ENTITY Manasseh SYSTEM 'Manasseh.xml' NDATA NT >
+<!ENTITY Mark SYSTEM 'Mark.xml' NDATA NT >
+<!ENTITY Matthew SYSTEM 'Matthew.xml' NDATA NT >
+<!ENTITY Micah SYSTEM 'Micah.xml' NDATA OT >
+<!ENTITY Nahum SYSTEM 'Nahum.xml' NDATA OT >
+<!ENTITY Nehemiah SYSTEM 'Nehemiah.xml' NDATA OT >
+<!ENTITY Numbers SYSTEM 'Numbers.xml' NDATA OT >
+<!ENTITY Obadiah SYSTEM 'Obadiah.xml' NDATA OT >
+<!ENTITY Peter1 SYSTEM '1Peter.xml' NDATA NT >
+<!ENTITY Peter2 SYSTEM '2Peter.xml' NDATA NT >
+<!ENTITY Philemon SYSTEM 'Philemon.xml' NDATA NT >
+<!ENTITY Philippians SYSTEM 'Philippians.xml' NDATA NT >
+<!ENTITY Proverbs SYSTEM 'Proverbs.xml' NDATA OT >
+<!ENTITY Psalmsg SYSTEM 'PsalmsG.xml' NDATA OT >
+<!ENTITY Psalmsh SYSTEM 'PsalmsH.xml' NDATA OT >
+<!ENTITY Revelation SYSTEM 'Revelation.xml' NDATA NT >
+<!ENTITY Romans SYSTEM 'Romans.xml' NDATA NT >
+<!ENTITY Ruth SYSTEM 'Ruth.xml' NDATA OT >
+<!ENTITY Samuel1 SYSTEM '1Samuel.xml' NDATA OT >
+<!ENTITY Samuel2 SYSTEM '2Samuel.xml' NDATA OT >
+<!ENTITY Solomon SYSTEM 'Solomon.xml' NDATA OT >
+<!ENTITY Thessalonians1 SYSTEM '1Thessalonians.xml' NDATA NT >
+<!ENTITY Thessalonians2 SYSTEM '2Thessalonians.xml' NDATA NT >
+<!ENTITY Timothy1 SYSTEM '1Timothy.xml' NDATA NT >
+<!ENTITY Timothy2 SYSTEM '2Timothy.xml' NDATA NT >
+<!ENTITY Titus SYSTEM 'Titus.xml' NDATA NT >
+<!ENTITY Tobit SYSTEM 'Tobit.xml' NDATA OT >
+<!ENTITY Wisdom SYSTEM 'Wisdom.xml' NDATA OT >
+<!ENTITY Zechariah SYSTEM 'Zechariah.xml' NDATA OT >
+<!ENTITY Zephaniah SYSTEM 'Zephaniah.xml' NDATA OT >
+ 
+<!-- MSS WitList Creation from multiple entities -->
+
+<!ENTITY MSSWitList '   <witList>
+&WorMS; &PetMS; &Alb1MS; &Alb2MS; &HydMS; &ElyMS; &CdmMS; &WcbMS; &MchMS; &ChtMS; &BatMS; &AbnMS; &EvmMS; &GloMS;  &FecB2MS;  &CAO1MS; &CAO2MS; &CAO3MS; </witList> '>
+
+<!ENTITY WorMS '<!-- Worcester Antiphoner  --><witness sigil="Wor" id="Wor" >The <soCalled>Worcester Antiphoner</soCalled>.  <bibl>Worcester Cathedral Library Ms F. 160.</bibl>  A composite manuscript of liturgical books from the Benedictine Cathedral Priory of the <name type="saint" TEIform="name">Blessed Virgin Mary</name>, <placeName><settlement>Worcester</settlement></placeName> probably compiled in its present form in the <date>fourteenth/fifteenth century</date>.  The oldest contents, dating from <date>the first part of the thirteenth century</date>, are the Office Antiphoner, Calendar, Psalter, Hymnal and Collectar.  The Processional and Gradual date from slightly later.  Various other sections were added in <date>the fourteenth and fifteenth centuries</date>.  The Office Antiphoner, Processional and Hymnal sections were published in a photographic reproduction in <bibl>Antiphonaire Monastique, XIIIe siecle: Codex F. 160 de la Bibliotheque de la Cathedrale de Worcester (Paleographie Musicale volume 12) Solesmes 1922, reprinted Berne 1971</bibl>.</witness> '>
+<!ENTITY PetMS '<!-- Peterborough Antiphoner --><witness sigil="Pet" id="Pet">The <soCalled>Peterborough Antiphoner</soCalled>.  <bibl>Cambridge, Magdalene College Ms F.4.10</bibl>.  An Antiphoner of the <date>fourteenth century</date> from the Benedictine Abbey of <name type="saint" TEIform="name">St Peter</name>, <name type="saint" TEIform="name">St Paul</name> and <name type="saint" TEIform="name">St Andrew</name>, <placeName><settlement>Peterborough</settlement>, <region>Northamptonshire</region></placeName>.</witness>'>
+<!ENTITY Alb1MS '<!-- St Albans Breviary (MS) --><witness sigil="Alb1" id="Alb1" ><bibl>London, British Library Ms Royal 2 A.x.</bibl>  Fragmentary Breviary of the <date>twelfth century</date> from the Benedictine Abbey of St Alban, <placeName><settlement>St Albans</settlement>, <region>Hertfordshire</region></placeName>.</witness>'>
+<!ENTITY Alb2MS '<!-- St Albans Breviary (print) --><witness sigil="Alb2" id="Alb2" >A printed breviary of the Use of the Benedictine Abbey of St Alban, <placeName><settlement>St Albans</settlement>, <region>Hertfordshire</region></placeName>, published in <date>1532</date>.  <bibl>London, British Library, C.110.a.27.</bibl></witness>'>
+<!ENTITY HydMS '<!-- Hyde Breviary --><witness sigil="Hyd" id="Hyd" >The <soCalled>Hyde Breviary</soCalled>.  <bibl>Oxford, Bodleian Library Ms Rawl.liturg. e.1*.</bibl>  A <date>thirteenth/fourteenth-century</date> Breviary of the Benedictine Abbey of the Holy Trinity, the Blessed Virgin Mary and St Peter, <placeName><settlement>Hyde</settlement>, <region>Hampshire</region></placeName> (formerly the New Minster, <placeName>Winchester</placeName>).  The manuscript has been edited in <bibl><editor>J.B.L.Tolhurst</editor>, <title>The Monastic Breviary of Hyde Abbey</title>, <series>Henry Bradshaw Society 69, 70, 71, 76, 78, 80</series>, <placeName>London</placeName>, <date>1932, 1933, 1934, 1938, 1939, 1942</date>.</bibl></witness>'>
+<!ENTITY ElyMS '<!-- Ely Breviary-Missal --><witness sigil="Ely" id="Ely" >The <soCalled>Ely Breviary-Missal</soCalled>.  <bibl>Cambridge, University Library Ms Ii.4.20</bibl>.  A <date>thirteenth-century</date> Breviary-Missal of the Benedictine Abbey and Cathedral Priory of St Peter and St Etheldreda, <placeName><settlement>Ely</settlement>, <region>Cambridgeshire</region></placeName>.</witness>'>
+<!ENTITY CdmMS '<!-- Coldingham Breviary --><witness sigil="Cdm" id="Cdm" >The <soCalled>Coldingham Breviary</soCalled>. <bibl>London, British Library Ms Harl.4664</bibl> The <date>thirteenth-century</date> Breviary of the Benedictine Priory of the Blessed Virgin Mary, <placeName><settlement>Coldingham</settlement>, <region>Berwickshire</region></placeName>, a cell of <placeName><settlement>Durham</settlement></placeName> Benedictine Cathedral Priory.</witness>'>
+<!ENTITY WcbMS '<!-- Winchcombe Breviary-Missal --><witness sigil="Wcb" id="Wcb" >The <soCalled>Winchcombe Breviary-Missal</soCalled>.  <bibl>Valenciennes, Bibl.Mun. Ms 116.</bibl>  A combined Breviary and Missal from the Benedictine Abbey of St Kenelm, <placeName><settlement>Winchcombe</settlement>, <region>Gloucestershire</region></placeName>, dating from <date>around 1140</date>.</witness>'>
+<!ENTITY MchMS ' <!-- Muchelney Breviary --><witness sigil="Mch" id="Mch" >The <soCalled>Muchelney Breviary</soCalled>.  <bibl>London, British Library Mss Add. 43405-6.</bibl>  A thirteenth-century Breviary of the Abbey of St Peter and St Paul, <placeName><settlement>Muchelney</settlement>, <region>Somerset</region></placeName>.</witness>'>
+<!ENTITY ChtMS '<!-- Chertsey Breviary --><witness sigil="Cht" id="Cht" >The <soCalled>Chertsey Breviary</soCalled>.  <bibl>Oxford, Bodleian Library Mss lat.liturg. e6, e37, e39 and d42.</bibl>  The partial and dismembered remains of a finely-written and -painted Breviary of the Benedictine Abbey of St Peter, <placeName><settlement>Chertsey</settlement>, <region>Surrey</region></placeName>, dating from <date>approximately 1320</date>.  The painting has been noted in <bibl><author>Alexander, J.J.G.</author>, <title>English early fourteenth-century illumination: recent acquisitions</title>, Bodleian Library Record, volume 9, 1974, pages 72-74</bibl>.  The calendar is published in <bibl><editor>F.Wormald</editor>, <title>English Benedictine Kalendars after A.D. 1100, vol. I</title>, <series>Henry Bradshaw Society 77</series>, <placeName>London</placeName>, <date>1939</date></bibl></witness>'>
+<!ENTITY  FecB2MS '<!-- Breviary of the Abbey of the Holy Trinity, F&eacute;camp --><witness sigil="Fec-B2" id="Fec-B2" >A Breviary (thirteenth-century) of the Use of the Benedictine Abbey of the Holy Trinity, <placeName><settlement>F&eacute;camp</settlement>, <region>Normandy</region></placeName>.  <bibl>Rouen, Biblioth&egrave;que municipale, MS 205(Y46).</bibl></witness>'>
+<!ENTITY BatMS '<!-- Battle Breviary --><witness sigil="Bat" id="Bat" >The <soCalled>Battle Breviary</soCalled>.  <bibl>Cambridge, Trinity College Ms 0.7.31 (1359).</bibl>  A Breviary of the Benedictine Abbey of St Martin, <placeName><settlement>Battle</settlement>, <region>Sussex</region></placeName> dating from the <date>late fifteenth century</date>.</witness>'>
+<!ENTITY  AbnMS '<!-- Abingdon Breviary --><witness sigil="Abn" id="Abn" >The Pars Aestivalis of a printed Portiforium of the Use of the Benedictine Abbey of the Bessed Virgin Mary, <placeName><settlement>Abingdon</settlement>, <region>Berkshire</region></placeName>, printed at the Abbey by <name>J. Scolar</name> and published in <date>1528</date>.  <bibl>Cambridge, Emmanuel College 4.2.11.</bibl></witness>'>
+<!ENTITY EvmMS ' <!-- Evesham Breviary --><witness sigil="Evm" id="Evn" ><bibl>Oxford, Bodleian Library Ms Barlow 41</bibl>.  The Pars Hiemalis of a <date>thirteenth-century</date> Breviary of the Benedictine Abbey of the Blessed Virgin Mary and St Egwin, <placeName><settlement>Evesham</settlement>, <region>Gloucestershire</region></placeName>.</witness>'>
+<!ENTITY  GloMS '<!-- Gloucester Diurnal --><witness sigil="Glo" id="Glo" >The <soCalled>Gloucester Diurnal</soCalled>.  <bibl>Oxford, Bodleian Library Ms Jesus College 10.</bibl>  The Diurnal and Hymnal sections of a <date>twelfth- to fifteenth-century</date> Breviary of the Benedictine Abbey of St Peter, <placeName><settlement>Gloucester</settlement></placeName>.</witness>'>
+
+<!ENTITY CAO1MS '<!-- CAO follows.  The twelve individual manuscripts are first given (with sigla "CAO-C" etc., in the order in which they are normally cited in CAO).  Then three group witnesses are defined.  The first (with siglum "CAO") enables unqualified reference to the main reading given in CAO vols. 3 and 4.  The other two (with sigla "CAO-rom" and "CAO-mon") enable references to the (respectively) secular (Hesberts "Roman") and monastic subgroups. -->
+        <!-- CAO-C --><witness sigil="CAO-C" id="CAO-C" ><bibl>Paris, Bibl. nat. Ms lat. 17436</bibl>.  The <soCalled>Compiegne Antiphoner</soCalled>.  Source C of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl></witness>
+        <!-- CAO-G --><witness sigil="CAO-G" id="CAO-G" ><bibl>Durham, Chapter Library Ms B. III. 11</bibl>.  The <soCalled>Durham Antiphoner</soCalled>.  Source G of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl></witness>
+        <!-- CAO-B --><witness sigil="CAO-B" id="CAO-B" ><bibl>Bamberg, Staatliche Bibliothek cod. lit. 23</bibl>.  The <soCalled>Bamberg Antiphoner</soCalled>.  Source B of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl></witness>
+        <!-- CAO-E --><witness sigil="CAO-E" id="CAO-E" ><bibl>Ivrea, Chapter Library Ms 106</bibl>.  The <soCalled>Ivrea Antiphoner</soCalled>.  Source E of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl></witness>
+        <!-- CAO-M --><witness sigil="CAO-M" id="CAO-M" ><bibl>Monza, Chapter Library cod. c. 12.75</bibl>.  The <soCalled>Monza Antiphoner</soCalled>.  Source M of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl></witness>
+'>
+ 
+<!ENTITY CAO2MS '
+       <!-- CAO-V --><witness sigil="CAO-V" id="CAO-V" ><bibl>Verona, Chapter Library cod. XCVIII</bibl>.  The <soCalled>Verona Antiphoner</soCalled>.  Source V of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl></witness>
+        <!-- CAO-H --><witness sigil="CAO-H" id="CAO-H" ><bibl>Saint-Gall, Stiftsbiblithek Mss 390 and 391</bibl>.  The <soCalled>Antiphoner of Hartker</soCalled>.  Source H of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl>  </witness>
+        <!-- CAO-R --><witness sigil="CAO-R" id="CAO-R" ><bibl>Zurich, Zentralbibliothek Ms s.n., formerly Rheinau, Abbey Library Ms 28</bibl>.  The <soCalled>Rheinau Antiphoner</soCalled>.  Source R of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl>  </witness>
+        <!-- CAO-D --><witness sigil="CAO-D" id="CAO-D" ><bibl>Paris, Bibl. nat. Ms lat. 17296</bibl>.  The <soCalled>Antiphoner of Saint-Denis</soCalled>.  Source D of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl>  </witness>
+        <!-- CAO-F --><witness sigil="CAO-F" id="CAO-F" ><bibl>Paris, Bibl. nat. Ms lat. 12584</bibl>.  The <soCalled>Antiphoner of Saint-Maur-les-Fosses</soCalled>.  Source F of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl>  </witness>
+        <!-- CAO-S --><witness sigil="CAO-S" id="CAO-S" ><bibl>London, British Library Ms Add. 30850</bibl>.  The <soCalled>Antiphoner of Silos</soCalled>.  Source S of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl>  </witness>
+        <!-- CAO-L --><witness sigil="CAO-L" id="CAO-L" ><bibl>Benevento, Bibl. Cap. Ms V. 21</bibl>.  The <soCalled>Antiphoner of St Lupus of Benevento</soCalled>.  Source L of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl>  </witness>
+'>
+<!ENTITY CAO3MS '
+       <!-- CAO --><witness sigil="CAO" id="CAO"  included="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">The main text-reading given in volumes 3 and 4 of <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title>.</bibl></witness>
+        <!-- CAO-rom --><witness  sigil="CAO-rom" id="CAO-rom" included="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V">The main text-reading given in <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title></bibl>, in those cases where the only sources for the current text are those from the "Roman" group.</witness>
+        <!-- CAO-mon --><witness  sigil="CAO-mon" id="CAO-mon" included="CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">The main text-reading given in <bibl><editor>R.-J. Hesbert</editor>, <title>Corpus Antiphonalium Officii</title></bibl>, in those cases where the only sources for the current text are those from the "monastic" group.</witness>
+'>
+

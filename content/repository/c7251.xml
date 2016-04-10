@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7250" nextid="c7252" id="c7251">
+   <header>
+      <usage ms="Alb2" code="07031000">[89r] matins-n3-r11</usage>
+      <usage ms="Bat" code="07031000">[54v] matins-n3-r12</usage>
+      <usage ms="Cdm" code="07031000">[64v] matins-n3-r13</usage>
+      <usage ms="Cht" code="07031000">[36r] matins-n3-r7</usage>
+      <usage ms="Ely" code="07031000">[75r] matins-n3-r11</usage>
+      <usage ms="Evm" code="07031000">[122v] matins-n3-r12</usage>
+      <usage ms="Hyd" code="07031000">[79r] matins-n3-r11</usage>
+      <usage ms="Mch" code="07031000">[131r] matins-n3-r12</usage>
+      <usage ms="Pet" code="07031000">[73r] matins-r12</usage>
+      <usage ms="Wcb" code="07031000">[101v] matins-n3-r12</usage>
+      <usage ms="Wor" code="07031000">[49r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Nuntiaverunt Jacob dicentes</rdg>
+         <rdg wit="CAO-C"> Nuntiaverunt Jacob</rdg>
+      </app> Joseph filius tuus vivit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> et ipse dominatur</rdg>
+         <rdg wit="CAO-G CAO-E"> et ipse est dominator</rdg>
+         <rdg wit="CAO-M CAO-V"> et ipse dominator</rdg>
+         <rdg wit="CAO-D CAO-S"> et ipse <corr sic="dominator">dominatur</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> in tota terra Aegypti</rdg>
+         <rdg wit="CAO-E CAO-V CAO-F"> in totam terram Aegypti</rdg>
+         <rdg wit="CAO-C"> totam terram Aegypti</rdg>
+      </app> quo audito revixit spiritus eius et dixit sufficit mihi vadam et videbo eum antequam moriar</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Cumque audisset Jacob</rdg>
+            <rdg wit="CAO-G CAO-L"> Cumque audisset</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Cdm Bat"> quod filius eius viveret</rdg>
+            <rdg wit="Wcb Mch"> quod Joseph filius eius viveret</rdg>
+            <rdg wit="CAO-C"> quod filius suus viveret</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> quasi de gravi somno evigilans</rdg>
+            <rdg wit="CAO-M"> quasi de gravi somno et vigilans</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> ait</rdg>
+            <rdg wit="CAO-F"> dixit</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch Bat"> Sufficit</rep>
+      <rep type="r" wit="CAO-M"> Quo audito</rep>
+      <rep type="r" wit="Hyd"> Vadam</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+   </verses>
+</res>

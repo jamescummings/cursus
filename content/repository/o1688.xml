@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1687" nextid="o1689" id="o1688">
+   <header>
+      <usage ms="Hyd" code="08061000">vesp1-r2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus a quo bona cuncta procedunt largire supplicibus tuis ut cogitemus te inspirante quae recta sunt et te gubernante eadem faciamus</pBody>
+</prayer>

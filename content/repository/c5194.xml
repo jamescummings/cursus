@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5193" nextid="c5195" id="c5194">
+   <header>
+      <usage ms="Alb2" code="07067000">[111v] matins-n2-a7</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tu autem domine miserere mei et resuscita me et retribuam eis in hoc cognovi quoniam voluisti me quoniam non gaudebit inimicus meus super me</aBody>
+   <aBody wit="Alb2"> Tu autem domine miserere mei et resuscita me et retribuam tibi</aBody>
+</ant>

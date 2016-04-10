@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2822" nextid="c2824" id="c2823">
+   <header>
+      <usage ms="Cdm" code="07065000">[77v] matins-n2</usage>
+      <usage ms="Ely" code="07065000">[88v] matins-n2</usage>
+      <usage ms="Evm" code="07065000">[148r] matins-n2</usage>
+      <usage ms="Hyd" code="07065000">[95r] matins-n2</usage>
+      <usage ms="Mch" code="07065000">[158v] matins-n2-a6</usage>
+      <usage ms="Pet" code="07065000">[89r] matins-n2</usage>
+      <usage ms="Wcb" code="07065000">[115r] matins-n2</usage>
+      <usage ms="Wor" code="07065000">[59r] matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Cdm Mch"> Exsurge domine et iudica
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Hyd Pet Evm Wcb Cdm Mch"> causam meam</rdg>
+         <rdg wit="CAO-M CAO-V CAO-F CAO-L Wor"> causam tuam</rdg>
+      </app>
+   </aBody>
+</ant>

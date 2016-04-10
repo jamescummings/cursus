@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1981" nextid="c1983" id="c1982">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-S">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R CAO-S"> Cum audisset <name reg="Petrus" type="saint">Petrus</name> quia dominus est</rdg>
+         <rdg wit="CAO-C"> Cum audisset <name reg="Petrus" type="saint">Simon Petrus</name> quia dominus est</rdg>
+      </app> tunica succinxit se et misit se in mare
+     <app>
+         <rdg wit="CAO-C CAO-S"> et clamavit</rdg>
+         <rdg wit="CAO-B CAO-R"> et clamabat</rdg>
+         <rdg wit="CAO-M"> exclamabat</rdg>
+         <rdg wit="CAO-V"> exclamavit</rdg>
+      </app> voce magna dicens egi a me domine quia homo peccator sum</aBody>
+</ant>

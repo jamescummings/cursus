@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5209" nextid="c5211" id="c5210">
+   <header>
+      <usage ms="Alb2" code="01025000">[11r] lauds gosp</usage>
+      <usage ms="Bat" code="01025000">[8r] lauds gosp</usage>
+      <usage ms="Cdm" code="01025000">[14r] lauds gosp</usage>
+      <usage ms="Ely" code="01024000">[9r] lauds gosp</usage>
+      <usage ms="Evm" code="01025000">[15v] lauds gosp</usage>
+      <usage ms="Hyd" code="01025000">[9r] lauds gosp</usage>
+      <usage ms="Mch" code="01025000">[9v] lauds gosp</usage>
+      <usage ms="Wcb" code="01025000">[45v] lauds gosp</usage>
+      <usage ms="Wor" code="01025000">[6v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Tu es qui venturus es domine
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> quem exspectamus</rdg>
+         <rdg wit="CAO-F"> quam exspectamus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> ut salvum facias populum tuum</rdg>
+         <rdg wit="CAO-F"> ut salvum facies populum tuum</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L"> ut salvum faciat populum suum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4981" nextid="c4983" id="c4982">
+   <header>
+      <usage ms="Alb2" code="07042000">[95v] vesp2</usage>
+      <usage ms="Cdm" code="07042000">[69r] vesp2</usage>
+      <usage ms="Cht" code="07042000">[43r] vesp2</usage>
+      <usage ms="Ely" code="07042000">[79r] vesp2</usage>
+      <usage ms="Evm" code="07042000">[130v] vesp2</usage>
+      <usage ms="Glo" code="07042000">[68v] vesp2</usage>
+      <usage ms="Hyd" code="07042000">[83v] vesp2</usage>
+      <usage ms="Mch" code="07042000">[140v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07042000"/>
+      <usage ms="Wcb" code="07042000"/>
+      <usage ms="Wor" code="07042000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Solvite templum hoc dicit dominus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F Evm Wcb Glo Alb2 Mch"> et post triduum reaedificabo</rdg>
+         <rdg wit="CAO-C CAO-G CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Cdm"> et post triduum excitabo</rdg>
+         <rdg wit="CAO-V"> et post triduum resuscitabo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">illud</rdg>
+         <rdg wit="CAO-M">eum</rdg>
+      </app> hoc autem dicebat de templo corporis sui</aBody>
+</ant>

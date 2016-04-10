@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9005" nextid="c9007" id="c9006">
+   <header>
+      <usage ms="Alb2" code="06021000">[69r] matins-n3-r12</usage>
+      <usage ms="Bat" code="06021000">[44r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="06021000">[52r] matins-n3-r12</usage>
+      <usage ms="Ely" code="06021000">[62r] matins-n3-r12</usage>
+      <usage ms="Hyd" code="06021000">[63v] matins-n2-r8</usage>
+      <usage ms="Mch" code="06021000">[105r] matins-n3-r12</usage>
+      <usage ms="Pet" code="06021000">[59r] matins-n3-r12</usage>
+      <usage ms="Wcb" code="06021000">[88r] matins-n3-r11</usage>
+      <usage ms="Wor" code="06021000">[39r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch">
+      <app>
+         <rdg wit="Hyd Wor Pet Ely Wcb Cdm Bat Mch">Benedicens ergo deus Noe</rdg>
+         <rdg wit="Alb2">Benedictus ergo deus Noe</rdg>
+      </app> ait nequaquam ultra maledicam terrae propter homines ad imaginem quippe dei factus est homo</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Alb2 Wor Ely Pet Wcb Cdm Bat Mch"> Hoc erit signum foederis inter me et terram archum meum ponam in nubibus caeli</vBody>
+      <rep type="r" wit="Hyd Alb2 Wor Pet Wcb Cdm Bat Mch">Ad imaginem</rep>
+      <dox type="r" wit="Wor Pet Mch">Gloria patri et filio et spiritui sancto</dox>
+      <rep type="r" wit="Wor Pet Mch" num="2">Ad imaginem</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7734b" nextid="c7736" id="c7735">
+   <header>
+      <usage ms="Evm" code="02122600">[39r] matins-n1-r2</usage>
+      <usage ms="Wcb" code="02122600">[58r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-F Evm Wcb"> Surrexerunt quidam de synagoga disputantes cum Stephano et non poterant resistere sapientiae et spiritui qui loquebatur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F Evm Wcb">Commoverunt itaque plebem et concurrentes rapuerunt eum et adduxerunt
+      <app>
+            <rdg wit="CAO-F"> in concilio</rdg>
+            <rdg wit="Evm Wcb"> in concilium</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-F Evm Wcb">Et non</rep>
+   </verses>
+</res>

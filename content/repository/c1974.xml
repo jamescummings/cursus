@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1973" nextid="c1975" id="c1974">
+   <header>
+      <usage ms="Alb2" code="07061000">[105v] lauds</usage>
+      <usage ms="Bat" code="07061000">[63r] lauds-a4</usage>
+      <usage ms="Cdm" code="07061000">[75r] lauds-a4</usage>
+      <usage ms="Cht" code="07061000">[55v] lauds</usage>
+      <usage ms="Ely" code="07061000">[86r] lauds</usage>
+      <usage ms="Evm" code="07061000">[143v] lauds</usage>
+      <usage ms="Hyd" code="07061000">[91v] nones</usage>
+      <usage ms="Mch" code="07061000">[154v] lauds-a4</usage>
+      <usage ms="Pet" code="07061000">[85v] lauds</usage>
+      <usage ms="Wcb" code="07061000">[113r] lauds</usage>
+      <usage ms="Wor" code="07061000">[56v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-S Wor Cht Hyd Evm Wcb Cdm Mch"> Cum angelis et pueris fideles inveniantur</rdg>
+         <rdg wit="CAO-H CAO-F CAO-L Ely Pet Alb2 Bat"> Cum angelis et pueris fideles inveniamur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch Bat">triumphatori mortis</rdg>
+         <rdg wit="Wcb">triumphatori morti</rdg>
+         <rdg wit="CAO-E CAO-M">triumphatorem mortis</rdg>
+         <rdg wit="CAO-C CAO-V">triumphatores mortis</rdg>
+      </app> clamantes hosanna in excelsis</aBody>
+</ant>

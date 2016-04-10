@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1163" nextid="c1165" id="c1164">
+   <header>
+      <usage ms="Bat" code="01021000">[5v] matins inv</usage>
+      <usage ms="Ely" code="01021000">[6v] matins inv</usage>
+      <usage ms="Evm" code="01021000">[12v] matins inv</usage>
+      <usage ms="Mch" code="01021000">[6r] matins inv</usage>
+      <usage ms="Wor" code="01021000">[4v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-B CAO-H Evm Mch Ely Wor Bat"> Surgite vigilemus quia veniet rex</aBody>
+</ant>

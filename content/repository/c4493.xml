@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4492" nextid="c4494" id="c4493">
+   <header>
+      <usage ms="Alb2" code="01025000">[11r] vesp2 gosp</usage>
+      <usage ms="Alb2" code="01037000">[17v] lauds-a4</usage>
+      <usage ms="Bat" code="01025000">[8r] vesp2 gosp</usage>
+      <usage ms="Bat" code="01037000">[11v] lauds-a4</usage>
+      <usage ms="Cdm" code="01025000">[14r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01037000">[17v] lauds-a4</usage>
+      <usage ms="Ely" code="01024000">[9r] vesp2 gosp</usage>
+      <usage ms="Evm" code="01025000">[15v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01025000">[13r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01025000">[9v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01025000">[9v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01041000">[18r] matins-n3</usage>
+      <usage ms="Wcb" code="01025000">[45v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01025000">[6v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Mch Cdm Ely Wor Wcb Evm Glo Bat"> Qui post me venit ante me factus est cuius non sum dignus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat"> calciamenta solvere</rdg>
+         <rdg wit="CAO-M"> calciamentum solvere</rdg>
+      </app>
+   </aBody>
+</ant>

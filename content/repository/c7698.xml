@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7697" nextid="c7699" id="c7698">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Statuit dominus supra petram pedes meos et direxit gressus meos deus meus et immisit in os meum canticum novum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R"> Exspectans exspectavi dominum et respexit me et exaudivit
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R"> deprecationem meam</rdg>
+            <rdg wit="CAO-G"> preces meas</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S Hyd"> Exspectans exspectavi dominum et respexit me</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Et immisit</rep>
+   </verses>
+</res>

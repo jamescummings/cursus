@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1502" nextid="c1504" id="c1503">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Assumpta est <name reg="Maria virg" type="saint">Maria</name> in caelum</rdg>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-S"> Assumpta est <name reg="Maria virg" type="saint">Maria</name>in caelo</rdg>
+      </app> gaudent angeli
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> laudantes benedicunt dominum</rdg>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-L"> laudantes benedicent dominum</rdg>
+      </app>
+   </aBody>
+</ant>

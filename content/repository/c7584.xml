@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7583" nextid="c7585" id="c7584">
+   <header>
+      <usage ms="Cdm" code="02010200">[35r] matins-r3</usage>
+   </header>
+   <rBody wit="CAO-V Cdm"> Sancte Stephane protomartyr Christi pro nostra omnium salute et intercede</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V Cdm">
+         <app>
+            <rdg wit="CAO-V">Exsistens gemma martyrum</rdg>
+            <rdg wit="Cdm">Assistens gemma martyrum</rdg>
+         </app> in conspectu domini</vBody>
+      <rep type="r" wit="CAO-V Cdm">Pro nostra</rep>
+   </verses>
+</res>

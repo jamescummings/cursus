@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6472" nextid="c6474" id="c6473">
+   <header>
+      <usage ms="Alb2" code="06011000">[65v] matins-n2-r8</usage>
+      <usage ms="Bat" code="06011000">[42r] matins-n2-r7</usage>
+      <usage ms="Cdm" code="06011000">[49v] matins-n2-r7</usage>
+      <usage ms="Cht" code="06011000">[11v] matins-n2-r6</usage>
+      <usage ms="Ely" code="06011000">[60r] matins-n2-r7</usage>
+      <usage ms="Evm" code="06011000">[92v] matins-n2-r7</usage>
+      <usage ms="Hyd" code="06011000">[61r] matins-n2-r7</usage>
+      <usage ms="Mch" code="06011000">[100r] matins-n2-r6</usage>
+      <usage ms="Pet" code="06011000">[55v] matins-n2-r7</usage>
+      <usage ms="Wcb" code="06011000">[85r] matins-n2-r6</usage>
+      <usage ms="Wor" code="06011000">[36v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Bat Mch"> Dixit dominus deus</rdg>
+         <rdg wit="Cdm"> Dixit dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> non est bonum esse</rdg>
+         <rdg wit="CAO-C"> non est bonum</rdg>
+      </app> hominem solum faciamus ei
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Bat Mch"> adiutorium</rdg>
+         <rdg wit="Cdm">adiutorem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> simile sibi</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-F CAO-S CAO-L"> similem sibi</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-R CAO-F Alb2 Hyd Cht Wor Cdm Bat Mch"> Adae vero non inveniebatur adiutor</rdg>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-D CAO-S CAO-L Pet Ely Wcb Evm"> Adae vero non inveniebatur</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R Alb2 Mch"> similis sibi</rdg>
+            <rdg wit="CAO-C CAO-E"> similem sibi</rdg>
+            <rdg wit="CAO-S"> simile sibi</rdg>
+            <rdg wit="CAO-G CAO-M CAO-V CAO-D CAO-F CAO-L Hyd Cht Wor Pet Ely Bat"> similis eius</rdg>
+            <rdg wit="Wcb Evm"> similis</rdg>
+            <rdg wit="Cdm"> similis ei</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> dixit vero deus</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R"> dixit quoque deus</rdg>
+         </app>
+         <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Cdm Mch"> Faciamus</rep>
+      </vBody>
+   </verses>
+</res>

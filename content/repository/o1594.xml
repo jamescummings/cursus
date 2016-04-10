@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1593" nextid="o1595" id="o1594">
+   <header>
+      <usage ms="Alb2" code="07067000">[113v] vesp2</usage>
+      <usage ms="Cdm" code="08011000">[80v] vesp1</usage>
+      <usage ms="Hyd" code="07067000">[98v] nones</usage>
+      <usage ms="Mch" code="07067000">[164v] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.382</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Hyd">Spiritum in nobis domine tuae caritatis infunde</rdg>
+         <rdg wit="Alb2 Cdm Mch">Spiritum nobis domine tuae caritatis infunde</rdg>
+      </app> ut quos sacramentis paschalibus satiasti tua facias pietate concordes</pBody>
+</prayer>

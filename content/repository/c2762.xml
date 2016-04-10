@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2761" nextid="c2763" id="c2762">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Exaltata es sancta dei genitrix</rdg>
+         <rdg wit="CAO-E CAO-V"> Exaltata est sancta dei genitrix</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> super choros angelorum</rdg>
+         <rdg wit="CAO-M"> super <corr sic="chorus">choros</corr> angelorum</rdg>
+      </app> ad caelestia regna</aBody>
+</ant>

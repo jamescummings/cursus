@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7252" nextid="c7254" id="c7253">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O beata Caecilia quae duos fratres convertisti
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Almachium iudicem superasti</rdg>
+         <rdg wit="CAO-C"> et Almachium iudicem superasti</rdg>
+      </app> Urbanum episcopum in vultu angelico demonstrasti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> Caecilia me misit ad vos ut ostendatis mihi</vBody>
+      <vBody type="r" wit="CAO-F CAO-L"> Beata es virgo et gloriosa et benedictus sermo oris tui</vBody>
+      <vBody type="r" wit="CAO-D"> Bonum certamen certasti cursum consummasti fidem servasti</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L">Urbanum</rep>
+      <rep type="r" wit="CAO-F">Quae duos</rep>
+   </verses>
+</res>

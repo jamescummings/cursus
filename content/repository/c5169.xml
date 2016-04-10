@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5168" nextid="c5170" id="c5169">
+   <header>
+      <usage ms="Alb2" code="07065000">[109r] lauds gosp</usage>
+      <usage ms="Cdm" code="07065000">[78r] lauds gosp</usage>
+      <usage ms="Cht" code="07065000">[61r] lauds</usage>
+      <usage ms="Ely" code="07065000">[89r] lauds</usage>
+      <usage ms="Hyd" code="07065000">[96r] lauds</usage>
+      <usage ms="Mch" code="07065000">[159v] lauds gosp</usage>
+      <usage ms="Pet" code="07065000">[90v] lauds</usage>
+      <usage ms="Wcb" code="07065000">[115v] lauds</usage>
+      <usage ms="Wor" code="07065000">[60r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch"> Traditor autem dedit eis signum dicens quem osculatus fuero ipse est tenete eum</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-L"> Et accedens ad Jesum dixit ave rabbi et osculatus est eum</vBody>
+   </verses>
+</ant>

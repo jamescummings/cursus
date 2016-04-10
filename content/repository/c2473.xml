@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2472b" nextid="c2474" id="c2473">
+   <aBody wit="CAO-E CAO-V CAO-L"> Dum transisset Maria mater domini de hoc mundo apostoli lacrimas fundebant prae gaudio
+     <app>
+         <rdg wit="CAO-E CAO-V"> iam pergis gloriosa</rdg>
+         <rdg wit="CAO-L"> et <sic resp="Hesbert">dixit</sic> iam pergis gloriosa</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> ante conspectum domini</rdg>
+         <rdg wit="CAO-V CAO-L"> ante conspectu domini</rdg>
+      </app> intercede pro nobis ad dominum</aBody>
+</ant>

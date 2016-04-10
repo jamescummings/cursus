@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2744" nextid="c2746" id="c2745">
+   <aBody wit="CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-L"> Ex odoris mira fragrantia</rdg>
+         <rdg wit="CAO-F CAO-S"> Ex odoris mira flagrantia</rdg>
+         <rdg wit="CAO-D"> Ex odoris mira flagrantium</rdg>
+      </app> sanitas aegrotis emanavit maxima septuaginta namque et tres tunc a variis languoribus curati sunt homines in inventione corporis Stephani dilecti sui martyris
+     <app>
+         <rdg wit="CAO-D CAO-S CAO-L"> deum benedicentes</rdg>
+         <rdg wit="CAO-F"> deum <hi rend="without music notation">glorificantes</hi> benedicentes</rdg>
+      </app>
+   </aBody>
+</ant>

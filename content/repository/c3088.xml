@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3087" nextid="c3089" id="c3088">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.146 (only otherwise at Melk and Norcia)</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Hodie adorant gentes vagientem puerum</l>
+         <l part="N"> in cunabulis infantem iacentem praesepio</l>
+         <l part="N"> quem lactavit virgo mater pleno caelo ubere</l>
+      </lg>
+   </aBody>
+</ant>

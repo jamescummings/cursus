@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6060" nextid="c6062" id="c6061">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> Agathes laetissima</rdg>
+         <rdg wit="CAO-G CAO-F CAO-S"> Agatha laetissime</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> Agatha laetissima</rdg>
+         <rdg wit="CAO-D"> Agathes laetissime</rdg>
+         <rdg wit="CAO-L"> Agatha laetissima</rdg>
+      </app> et glorianter ibat ad carcerem et quasi ad epulas invitata agonem suum Domino precibus commendabat</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Mens mea solidata est et a Christo fundata</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Nobilissimis orta natalibus
+      <app>
+            <rdg wit="CAO-F CAO-L"> ab ignobili</rdg>
+            <rdg wit="CAO-S"> ad ignobili</rdg>
+            <rdg wit="CAO-D"> ab innobili</rdg>
+         </app> gaudens
+      <app>
+            <rdg wit="CAO-D CAO-F"> trahebatur ad carcerem</rdg>
+            <rdg wit="CAO-S CAO-L"> tradebatur ad carcerem</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-S">Agonem</rep>
+      <rep type="r" wit="CAO-H CAO-D CAO-F CAO-L">Et quasi</rep>
+   </verses>
+</res>

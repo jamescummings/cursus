@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1745" nextid="o1747" id="o1746">
+   <header>
+      <usage ms="Alb2" code="01041000">[18r] vesp1</usage>
+      <usage ms="Evm" code="01041000">[22r] vesp1</usage>
+      <usage ms="Hyd" code="01041000">[14r] matins-n3</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.805</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Hyd Evm"> Excita quaesumus domine potentiam tuam et veni et magna nobis virtute succurre ut auxilium gratiae tuae quod nostra leccata praepediunt indulgentia tuae propitiationis accelerat</pBody>
+</prayer>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7875" nextid="c7877" id="c7876">
+   <header>
+      <usage ms="Hyd" code="08031000">matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Vidi Jerusalem descendentem de caelo
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> ornatam auro mundo</rdg>
+         <rdg wit="CAO-L"> ornata auro mundo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> et lapidibus pretiosis intextam</rdg>
+         <rdg wit="CAO-S"> ex lapidibus pretiosis intextam</rdg>
+         <rdg wit="CAO-L"> et lapidibus pretiosis intexta</rdg>
+      </app> alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> Ab intus in fimbriis aureis circumamicta
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> varietate</rdg>
+            <rdg wit="CAO-E"> varietatibus</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Et erat structura muri eius ex lapide iaspide ipsa vero auro mundo
+      <app>
+            <rdg wit="CAO-S CAO-L"> simile vitro mundo</rdg>
+            <rdg wit="CAO-F"> simile vitre mundo</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-F">Et lapidibus</rep>
+      <rep type="r" wit="CAO-V CAO-D">Intextam</rep>
+      <rep type="r" wit="CAO-B CAO-S CAO-L Hyd">Alleluia</rep>
+   </verses>
+</res>

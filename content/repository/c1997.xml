@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1996" nextid="c1998" id="c1997">
+   <aBody wit="CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-F"> Cum ergo sint apud deum meritis excelsi<del status="unremarkable">s</del>
+         </rdg>
+         <rdg wit="CAO-S"> Dum ergo sint apud deum meritis excelsi</rdg>
+         <rdg wit="CAO-L"> Cum ergo sint apud deum meritis excelsis</rdg>
+      </app> apud homines loco tenentur humili</aBody>
+</ant>

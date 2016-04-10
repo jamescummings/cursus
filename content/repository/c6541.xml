@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6540" nextid="c6542" id="c6541">
+   <rBody wit="CAO-C CAO-E CAO-V">
+      <app>
+         <rdg wit="CAO-E"> Dum exissem de terra mea</rdg>
+         <rdg wit="CAO-V"> Dum exiret de terra mea</rdg>
+         <rdg wit="CAO-C"> Dum irem de terra mea</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> oravi dominum Deum meum</rdg>
+         <rdg wit="CAO-V"> oravit dominum Deum meum</rdg>
+         <rdg wit="CAO-E"> oravi Deum meum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V"> et perduxit me</rdg>
+         <rdg wit="CAO-C"> et perduxi me</rdg>
+      </app> in portum voluntatis suae gubernavit me advenam
+      <app>
+         <rdg wit="CAO-E CAO-V"> et erit mihi dominus in terra aliena</rdg>
+         <rdg wit="CAO-C" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> Deus autem patris mei fuit mecum et non dimisit quemquam nocere mihi</vBody>
+      <rep type="r" wit="CAO-V"> Gubernavit</rep>
+      <vBody type="r" wit="CAO-E"> Deus in cuius conspectu</vBody>
+      <rep type="r" wit="CAO-E"> Et dedit</rep>
+      <vBody id="c6541-1" type="r" wit="CAO-C"> Ego dominus omnipotens crescere te faciam et multiplicare gentes</vBody>
+      <rep corresp="c6541-1" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes"> CAO-C gives no regressio with this verse</note>
+      </rep>
+      <vBody id="c6541-2" type="r" wit="CAO-C"> Erit mihi dominus in Deum et lapis iste quem erexi in titulum vocabitur domus Dei</vBody>
+      <rep corresp="c6541-2" type="r" wit="CAO-C"> Et perduxit</rep>
+   </verses>
+</res>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6994b" nextid="c6996" id="c6995">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iste cognovit iustitiam et vidit mirabilia magna et exoravit
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> altissimum</rdg>
+         <rdg wit="CAO-M CAO-V"> altissimus</rdg>
+      </app> et inventus est in numero sanctorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iste est qui contempsit
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> vitam mundi</rdg>
+            <rdg wit="CAO-C CAO-V CAO-F"> vita mundi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et pervenit ad caelestia regna</rdg>
+            <rdg wit="CAO-V" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et inventus</rep>
+   </verses>
+</res>

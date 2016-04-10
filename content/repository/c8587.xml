@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8586" nextid="c8588" id="c8587">
+   <header>
+      <usage ms="Evm" code="02010100" corresp="c8587-1">[59v] matins-n2-a12</usage>
+      <usage ms="Evm" code="02122500">[37r] lauds-a4</usage>
+      <usage ms="Hyd" code="02122500">[20v] lauds-a4</usage>
+      <usage ms="Wcb" code="02122500" corresp="c8587-2">[57r] lauds-a4</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. c3854</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Hyd">Nato domino angelorum chorus canebat dicens gloria in excelsis deo alleluia</aBody>
+   <aBody id="c8587-1" wit="Evm" num="2">Nato domino angelorum chorus canebat dicens gloria in excelsis deo alleluia alleluia</aBody>
+   <aBody id="c8587-2" wit="Wcb">Nato domino angelorum chorus canebat dicens gloria in excelsis deo alleluia alleluia</aBody>
+</ant>

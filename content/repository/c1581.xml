@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1580" nextid="c1582" id="c1581">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Beati estis sancti dei omnes
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-S CAO-L"> qui meruistis consortes fieri</rdg>
+         <rdg wit="CAO-M"> qui meruisti consortes fieri</rdg>
+         <rdg wit="CAO-F"> qui meruistis fieri consortes</rdg>
+      </app> caelestium virtutum et perfrui
+     <app>
+         <rdg wit="CAO-D CAO-F"> claritatis gloria</rdg>
+         <rdg wit="CAO-E CAO-S CAO-L"> claritatis gloriam</rdg>
+         <rdg wit="CAO-C CAO-M"> claritatis gloriae</rdg>
+         <rdg wit="CAO-V"> claritatis gaudiis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F"> ideoque precamur</rdg>
+         <rdg wit="CAO-M CAO-S CAO-L"> ideo precamur</rdg>
+      </app> ut memores nostri intercedere dignemini pro nobis
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S CAO-L"> ad dominum deum nostrum</rdg>
+         <rdg wit="CAO-M CAO-V"> ad dominum Jesum Christum</rdg>
+      </app>
+   </aBody>
+</ant>

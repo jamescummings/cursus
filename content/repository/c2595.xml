@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2594" nextid="c2596" id="c2595">
+   <aBody wit="CAO-D CAO-F CAO-S CAO-L"> Ego sum panis vivus qui de caelo descendi si quis manducaverit ex hoc pane vivet in aeternum et panis
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> quem ego dedero</rdg>
+         <rdg wit="CAO-L"> quem ego dabo</rdg>
+      </app> caro mea est
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> pro mundi vita alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> pro mundi vita</rdg>
+      </app>
+   </aBody>
+</ant>

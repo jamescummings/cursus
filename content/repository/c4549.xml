@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4548" nextid="c4550" id="c4549">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Quis ex vobis homo qui habet centum oves
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> et si perdiderit unam ex illis</rdg>
+         <rdg wit="CAO-S"> si perdiderit unam ex illis</rdg>
+      </app> nonne dimittit nonaginta novem in deserto et vadit ad illam quae perierat
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> donec inveniat eam alleluia</rdg>
+         <rdg wit="CAO-M CAO-F CAO-S"> donec inveniet eam alleluia</rdg>
+         <rdg wit="CAO-V"> donec inveniet illam alleluia</rdg>
+         <rdg wit="CAO-C"> donec inveniet eam</rdg>
+      </app>
+   </aBody>
+</ant>

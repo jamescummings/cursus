@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2313" nextid="c2315" id="c2314">
+   <aBody wit="CAO-E CAO-L">
+      <app>
+         <rdg wit="CAO-E"> Dixitque sanctus Protasius</rdg>
+         <rdg wit="CAO-L"> Dixit sanctum Protasium</rdg>
+      </app> age ergo quod coepisti ut mihi possit occurrere hodie
+     <app>
+         <rdg wit="CAO-L"> cum fratre meo</rdg>
+         <rdg wit="CAO-E"> cum patre meo</rdg>
+      </app> benignitas salvatoris moxque Aspasius
+     <app>
+         <rdg wit="CAO-L"> iussit eum capite caedi</rdg>
+         <rdg wit="CAO-E"> iussit eos capite caedi</rdg>
+      </app>
+   </aBody>
+</ant>

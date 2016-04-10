@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3871" nextid="c3873" id="c3872">
+   <header>
+      <usage ms="Evm" code="02122700">[46r] vesp2-commemoratio</usage>
+      <usage ms="Wcb" code="02122600">[58r] matins-n1-a3</usage>
+   </header>
+   <aBody wit="CAO-H CAO-R Evm Wcb"> Nemo poterat resistere sapientiae et spiritui qui loquebatur</aBody>
+</ant>

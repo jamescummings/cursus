@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3745" nextid="c3747" id="c3746">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-L"> Mentem sanctam spontaneam honorem</rdg>
+         <rdg wit="CAO-E CAO-F"> Mentem sanctam spontaneum honorem</rdg>
+         <rdg wit="CAO-D"> Mentem sanctam <corr sic="spontaneum">spontaneam</corr> honorem</rdg>
+         <rdg wit="CAO-S"> Mentem sanctam spontaneo honorem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> deo et patriae liberationem</rdg>
+         <rdg wit="CAO-M CAO-L"> dei et patriae liberationem</rdg>
+         <rdg wit="CAO-V"> deo et patriae et <corr sic="liberatione">liberationis</corr>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

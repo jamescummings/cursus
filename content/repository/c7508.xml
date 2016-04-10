@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7507" nextid="c7509" id="c7508">
+   <header>
+      <usage ms="Alb2" code="01041000">[19v] matins-n3-r11</usage>
+      <usage ms="Bat" code="01031000">[9r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="01031000">[15r] matins-n3-r11</usage>
+      <usage ms="Ely" code="01031000">[10v] matins-n3-r11</usage>
+      <usage ms="Evm" code="01041000">[24r] matins-n3-r11</usage>
+      <usage ms="Hyd" code="01031000">[10v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="01041000">[49r] matins-n3-r11</usage>
+      <usage ms="Wor" code="01031000">[7v] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Radix Jesse</rdg>
+         <rdg wit="CAO-L"> Ecce radix Jesse</rdg>
+      </app> qui exsurget iudicare gentes in eum gentes sperabunt et erit nomen eius
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> benedictum in saecula</rdg>
+         <rdg wit="CAO-C"> gloriosum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Evm Wcb"> De radice Jesse exiet dux et flos de radice eius ascendet</vBody>
+      <vBody type="r" wit="CAO-M CAO-F"> Ecce virgo concipiet et pariet filium et vocabitur nomen eius Emmanuel</vBody>
+      <vBody type="r" wit="CAO-V"> Ecce virgo concipiet et pariet filium</vBody>
+      <vBody type="r" wit="CAO-H Ely"> Ex Sion species decoris eius deus noster manifeste veniet</vBody>
+      <vBody type="r" wit="CAO-E"> Ex Sion species decoris</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-R"> Ex Sion species</vBody>
+      <vBody type="r" num="2" wit="CAO-M">
+         <add place="margin" resp="Hesbert" hand="later">Ex Sion species</add>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-S CAO-L Alb2 Cdm Wor Bat">
+         <app>
+            <rdg wit="CAO-D Cdm Wor Bat"> Super quem continebunt reges</rdg>
+            <rdg wit="Alb2"> Super eum continebunt reges</rdg>
+            <rdg wit="CAO-G CAO-S CAO-L"> Super ipsum continebunt reges</rdg>
+         </app> os suum
+      <app>
+            <rdg wit="CAO-S Alb2 Cdm Wor Bat"> ipsum gentes deprecabuntur</rdg>
+            <rdg wit="CAO-G CAO-D CAO-L"> quem gentes deprecabuntur</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat">Et erit</rep>
+   </verses>
+</res>

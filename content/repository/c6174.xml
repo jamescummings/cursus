@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6173" nextid="c6175" id="c6174">
+   <rBody wit="CAO-C CAO-E CAO-H CAO-F CAO-S CAO-L"> Beati eritis cum maledixerint vobis homines et persecuti vos fuerint et dixerint
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-F CAO-S CAO-L">omne</rdg>
+         <rdg wit="CAO-E">omnem</rdg>
+      </app> malum
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-F CAO-S">adversum</rdg>
+         <rdg wit="CAO-L">adversus</rdg>
+      </app> vos mentientes propter me gaudete et exsultate quoniam merces vestra copiosa est in caelis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-H CAO-F CAO-S"> Cum vos oderint homines et cum separaverint</rdg>
+            <rdg wit="CAO-L">Cum separaverint</rdg>
+         </app> vos et exprobraverint et eiecerint nomen vestrum tamquam malum propter filium hominis</vBody>
+      <vBody type="r" wit="CAO-E"> Cavete autem ab hominibus tradent enim vos in conciliis et in synagogis suis flagellabunt vos</vBody>
+      <rep type="r" wit="CAO-H CAO-F CAO-S CAO-L CAO-E">Gaudete</rep>
+   </verses>
+</res>

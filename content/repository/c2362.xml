@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2361" nextid="c2363" id="c2362">
+   <header>
+      <usage ms="Alb2" code="07016000"/>
+      <usage ms="Cdm" code="07016000">[60r] vesp2</usage>
+      <usage ms="Cht" code="07016000"/>
+      <usage ms="Ely" code="07016000"/>
+      <usage ms="Hyd" code="07016000"/>
+      <usage ms="Mch" code="07016000">[120v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07016000"/>
+      <usage ms="Wor" code="07016000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S Hyd Ely Wor Cht Pet Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Ely Cht Pet Alb2 Cdm Mch"> Domine non habeo hominem</rdg>
+         <rdg wit="Wor">
+            <del type="erasure" resp="DC" status="unremarkable">Domine non</del> habeo hominem</rdg>
+         <rdg wit="CAO-M"> Domine hominem non habeo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R Hyd Ely Wor Cht Pet Alb2 Cdm"> ut cum mota fuerit aqua</rdg>
+         <rdg wit="CAO-C Mch"> ut dum mota fuerit aqua</rdg>
+         <rdg wit="CAO-D CAO-S"> ut commota fuerit aqua</rdg>
+         <rdg wit="CAO-M"> ut conturbata fuerit aqua</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D Hyd Ely Wor Cht Pet Alb2 Cdm Mch"> mittat me in piscinam</rdg>
+         <rdg wit="CAO-C CAO-S"> mittat me in piscina</rdg>
+      </app>
+   </aBody>
+</ant>

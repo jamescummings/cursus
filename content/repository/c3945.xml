@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3944" nextid="c3946" id="c3945">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Nonne decem mundati sunt et novem ubi sunt non est inventus qui rediret
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> et daret gloriam deo</rdg>
+         <rdg wit="CAO-D"> et daret gratiam deo</rdg>
+         <rdg wit="CAO-V"> et daret gloriam <corr sic="suam">deo</corr>
+         </rdg>
+      </app> nisi hic alienigena vade quia fides tua
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-D CAO-F CAO-S CAO-L"> te salvum fecit alleluia</rdg>
+         <rdg wit="CAO-V"> te salvam fecit alleluia</rdg>
+         <rdg wit="CAO-R"> te salvum fecit</rdg>
+         <rdg wit="CAO-B"> te salvum fecit vade in pace</rdg>
+      </app>
+   </aBody>
+</ant>

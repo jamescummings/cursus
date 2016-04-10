@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4693" nextid="c4695" id="c4694">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S"> Salve crux quae in corpore Christi dedicata es</rdg>
+         <rdg wit="CAO-V"> Salve crux quae in corpore Christi dedicata est</rdg>
+      </app> et ex membris eius
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> tamquam margaritis ornata</rdg>
+         <rdg wit="CAO-C"> tamquam margaretis ornata</rdg>
+      </app>
+   </aBody>
+</ant>

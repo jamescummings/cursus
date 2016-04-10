@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7264" nextid="c7266" id="c7265">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O crux benedicta quae sola fuisti digna portare regem caelorum et
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-D CAO-F CAO-S CAO-L"> dominum</rdg>
+         <rdg wit="CAO-E CAO-V"> dominum alleluia</rdg>
+         <rdg wit="CAO-B CAO-R"> hominum alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> Mihi autem absit gloriari nisi in cruce
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S"> domini nostri</rdg>
+            <rdg wit="CAO-M"> domini mei</rdg>
+         </app> Jesu Christi</vBody>
+      <vBody type="r" wit="CAO-D"> O crux admirabilis evacuatio vulneris restitutio sanitatis</vBody>
+      <vBody type="r" wit="CAO-F"> O crux gloriosa et admirabilis o crux adoranda</vBody>
+      <vBody type="r" wit="CAO-L"> O crux gloriosa o crux veneranda</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">Quae</rep>
+      <rep type="r" wit="CAO-S">Portare</rep>
+   </verses>
+</res>

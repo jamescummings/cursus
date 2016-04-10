@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2591" nextid="c2593" id="c2592">
+   <header>
+      <usage ms="Alb2" code="07047000">[97r] lauds</usage>
+      <usage ms="Cdm" code="07047000">[70r] lauds-a1</usage>
+      <usage ms="Ely" code="07047000">[80r] lauds</usage>
+      <usage ms="Evm" code="07047000">[132r] lauds</usage>
+      <usage ms="Glo" code="07047000">[68v] lauds</usage>
+      <usage ms="Hyd" code="07047000">[84v] lauds</usage>
+      <usage ms="Pet" code="07047000"/>
+      <usage ms="Wcb" code="07047000"/>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Ely Wor Hyd Pet Evm Wcb Alb2 Cdm">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D Ely Wor Hyd Pet Evm Wcb Alb2 Cdm"> Ego sum lux mundi </rdg>
+         <rdg wit="CAO-F"> Ego sum lux mundi dicit dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D Ely Wor Hyd Pet Evm Wcb Alb2 Cdm">qui sequitur me</rdg>
+         <rdg wit="CAO-F">qui venit post me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-D Wor Pet Alb2">non ambulabit in tenebris</rdg>
+         <rdg wit="CAO-E CAO-R CAO-F Ely Hyd Evm Wcb Cdm">non ambulat in tenebris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D Ely Wor Hyd Pet Evm Wcb Alb2 Cdm"> sed habebit lumen vitae dicit dominus</rdg>
+         <rdg wit="CAO-F"> sed habebit lumen vitae</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Ego sum lux mundi</aBody>
+</ant>

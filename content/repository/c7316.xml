@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7315" nextid="c7317" id="c7316">
+   <rBody wit="CAO-C CAO-D"> Omnes sancti per fidem vicerunt regna operati sunt iustitiam adepti sunt promissiones obturaverunt ora leonum et fortes facti sunt in bello</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Effugerunt aciem gladii convaluerunt de infirmitate</vBody>
+      <vBody type="r" wit="CAO-D"> Lapidati sunt secti sunt temptati sunt in occisione gladii mortui sunt convaluerunt de infirmitate</vBody>
+      <rep type="r" wit="CAO-C CAO-D">Et fortes</rep>
+   </verses>
+</res>

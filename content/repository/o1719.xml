@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1718" nextid="o1720" id="o1719">
+   <header>
+      <usage ms="Cdm" code="07037000">[67r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.255</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Praetende domine fidelibus tuis dexteram caelestis auxilii ut te toto corde perquirant et quae digne postulant consequi mereantur</pBody>
+</prayer>

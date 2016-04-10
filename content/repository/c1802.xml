@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1801" nextid="c1803" id="c1802">
+   <aBody wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-L"> Cibavit illum dominus pane vitae</rdg>
+         <rdg wit="CAO-G"> Cibavit illum dominus pane vitae et intellectus</rdg>
+         <rdg wit="CAO-V"> Cibavit illum dominus panem vitae</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> Cibavit eum dominus pane vitae</rdg>
+      </app> et aqua sapientiae
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R"> potavit eum</rdg>
+         <rdg wit="CAO-V"> potavit illum</rdg>
+         <rdg wit="CAO-L"> potabit illum</rdg>
+      </app>
+   </aBody>
+</ant>

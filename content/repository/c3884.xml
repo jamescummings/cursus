@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3883" nextid="c3885" id="c3884">
+   <aBody wit="CAO-B CAO-V CAO-H CAO-R"> Nisi quis renatus fuerit ex aqua et spiritu non potest introire in regnum dei
+     <app>
+         <rdg wit="CAO-B CAO-R"> quia quod natum est de carne caro est</rdg>
+         <rdg wit="CAO-V"> quia quod natum ex carne caro est</rdg>
+         <rdg wit="CAO-H"> quia quod natum est de carne caro</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et quod natum est de spiritu</rdg>
+         <rdg wit="CAO-V"> et quod natum <del status="unremarkable">est</del> de spiritu</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> spiritus est alleluia alleluia</rdg>
+         <rdg wit="CAO-V"> spiritus est alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

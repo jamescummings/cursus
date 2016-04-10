@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6851" nextid="c6853" id="c6852">
+   <rBody wit="CAO-G CAO-E CAO-V CAO-F CAO-S CAO-L"> Hodie Maria virgo
+      <app>
+         <rdg wit="CAO-F CAO-S"> puerum</rdg>
+         <rdg wit="CAO-G CAO-V CAO-L"> Christum</rdg>
+         <rdg wit="CAO-E"> puerum Jesum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-F CAO-S"> offert</rdg>
+         <rdg wit="CAO-L"> obtulit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-F CAO-S"> in templum</rdg>
+         <rdg wit="CAO-V CAO-L"> in templo</rdg>
+      </app> quem Simeon senex accepit
+      <app>
+         <rdg wit="CAO-G CAO-F"> in brachiis</rdg>
+         <rdg wit="CAO-E CAO-V"> in brachio</rdg>
+         <rdg wit="CAO-L"> in brachia</rdg>
+         <rdg wit="CAO-S"> in manibus</rdg>
+      </app> et Anna vidua Christum
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-F CAO-S"> agnovit</rdg>
+         <rdg wit="CAO-V CAO-L"> cognovit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-F CAO-S CAO-L"> advenisse</rdg>
+         <rdg wit="CAO-V"> advenisset</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-F"> in terris</rdg>
+         <rdg wit="CAO-S"> in terras</rdg>
+         <rdg wit="CAO-L"> in templum</rdg>
+         <rdg wit="CAO-G"> in templum <add place="margin">in terris</add>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-V"> Magnum heredidatis misterium Christus
+       <app>
+            <rdg wit="CAO-G"> homo factus pro nobis</rdg>
+            <rdg wit="CAO-V"> pro nobis homo factus est</rdg>
+         </app> ingreditur in templum</vBody>
+      <vBody type="r" wit="CAO-E"> Ave Maria gratia plena dominus tecum</vBody>
+      <vBody type="r" wit="CAO-F"> Cum inducerent puerum Jesum parentes eius in templum accepit eum Simeon in ulnas suas</vBody>
+      <vBody type="r" wit="CAO-L"> Responsum acceperat</vBody>
+      <vBody type="r" wit="CAO-S"> Simeon iustus et timoratus exspectabat redemptionem Israel et spiritus erat in eo</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-V CAO-F CAO-S CAO-L"> Et Anna</rep>
+   </verses>
+</res>

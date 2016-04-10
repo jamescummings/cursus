@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7727" nextid="c7729" id="c7728">
+   <header>
+      <usage ms="Alb2" code="01038000">[15r] vesp2</usage>
+      <usage ms="Alb2" code="01048000">[21v] vesp2</usage>
+      <usage ms="Bat" code="01032000">[10r] vesp2</usage>
+      <usage ms="Cdm" code="01011000">[10r] lauds</usage>
+      <usage ms="Ely" code="01011000">[4v] lauds</usage>
+      <usage ms="Ely" code="01041000">[14v] lauds</usage>
+      <usage ms="Evm" code="01011000">[7r] lauds</usage>
+      <usage ms="Glo" code="01012000">[11r] lauds</usage>
+      <usage ms="Hyd" code="01034009">[12r] lauds</usage>
+      <usage ms="Mch" code="01031000">[12v] vesp2</usage>
+      <usage ms="Wcb" code="01011000">[43v] lauds</usage>
+      <usage ms="Wor" code="01032000">[8v] vesp2</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Glo Bat"> Super te Jerusalem orietur dominus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Glo Bat"> Et gloria eius in te videbitur</vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-S"> Orietur</rep>
+      <rep type="r" wit="Evm Ely">Super</rep>
+      <dox type="r" wit="Evm Wcb Wor Glo">Gloria</dox>
+      <rep type="r" num="2" wit="Evm">Super</rep>
+   </verses>
+</res>

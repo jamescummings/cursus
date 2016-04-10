@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6372" nextid="c6374" id="c6373">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Cum scirem ego Gamaliel sanctitatem Christi athletae Stephani et fidem eius ac devotionem credens me
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> in resurrectione</rdg>
+         <rdg wit="CAO-L"> in resurrectionem</rdg>
+      </app> partem habiturum cum eo feci eum
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> sepelire</rdg>
+         <rdg wit="CAO-S"> sepeliri</rdg>
+      </app> in monumento meo novo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Auditor domini Nicodemus ibidem sepultus est et Abibas filius meus mecum est repositus
+       <app>
+            <rdg wit="CAO-S"> ubi requiescit</rdg>
+            <rdg wit="CAO-F"> ibi requiescit</rdg>
+            <rdg wit="CAO-L"> ubi requiescet</rdg>
+            <rdg wit="CAO-D"> ubi iacet</rdg>
+         </app> beatus Stephanus</vBody>
+      <rep type="r" wit="CAO-S CAO-L"> Feci</rep>
+      <rep type="r" wit="CAO-D CAO-F"> In</rep>
+   </verses>
+</res>

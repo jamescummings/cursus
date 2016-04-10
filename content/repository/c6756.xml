@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6755" nextid="c6757" id="c6756">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Fundata est domus domini
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> super verticem</rdg>
+         <rdg wit="CAO-L"> supra verticem</rdg>
+      </app> montium et
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> exaltata</rdg>
+         <rdg wit="CAO-L"> elevata</rdg>
+      </app> est
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> super omnes colles</rdg>
+         <rdg wit="CAO-C CAO-E CAO-D"> super colles</rdg>
+      </app> et venient
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> ad eam</rdg>
+         <rdg wit="CAO-D"> ad eum</rdg>
+      </app> omnes gentes et dicent Gloria tibi
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> domine</rdg>
+         <rdg wit="CAO-V"> Deus</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-H CAO-R"> Venientes autem venient cum exsultatione portantes manipulos suos</vBody>
+      <vBody type="r" wit="CAO-M"> Venientes autem</vBody>
+      <vBody id="c6756-1" type="r" num="2" wit="CAO-C"> Venientes autem</vBody>
+      <rep corresp="c6756-1" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio given for this verse in CAO-C</note>
+      </rep>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Reges terrae afferent gloriam suam et honorem
+       <app>
+            <rdg wit="CAO-S CAO-L"> in illam</rdg>
+            <rdg wit="CAO-F"> in illa</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Benedic domine domum istam quam aedificavi nomini tuo</vBody>
+      <vBody id="c6756-2" type="r" wit="CAO-C"> Benedic domine domum istam quam aedificavi nomini tuo</vBody>
+      <rep corresp="c6756-2" type="r" wit="CAO-C"> Et venient</rep>
+      <rep type="r" wit="CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> Et dicent</rep>
+      <rep type="r" wit="CAO-E CAO-S"> Et venient</rep>
+   </verses>
+</res>

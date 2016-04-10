@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1860" nextid="c1862" id="c1861">
+   <aBody wit="CAO-M CAO-H CAO-S CAO-L"> Complaceat tibi domine ut eripias me
+     <app>
+         <rdg wit="CAO-H CAO-S CAO-L"> ad adiuvandum me respice</rdg>
+         <rdg wit="CAO-M">et adiuvandum me respice</rdg>
+      </app>
+   </aBody>
+</ant>

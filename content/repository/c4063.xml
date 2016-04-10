@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4062" nextid="c4064" id="c4063">
+   <header>
+      <usage ms="Alb2" code="02122800">[40r] vesp2 gosp</usage>
+      <usage ms="Bat" code="02122800">[24r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="02122800">[29v] vesp2 gosp</usage>
+      <usage ms="Wor" code="02122800">[22v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Bat Cdm Wor">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Bat Cdm Wor"> O quam gloriosum est regnum</rdg>
+         <rdg wit="CAO-L"> O quam pretiosum est regnum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-S Alb2 Bat Cdm Wor"> in quo cum Christo gaudent innocentes</rdg>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> in quo cum Christo gaudent omnes sancti</rdg>
+         <rdg wit="CAO-E CAO-L"> in quo cum Christo regnant omnes sancti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Bat Cdm Wor"> amicti stolis albis</rdg>
+         <rdg wit="CAO-V CAO-S"> amictis stolis albis</rdg>
+      </app> sequuntur agnum quocumque ierit</aBody>
+</ant>

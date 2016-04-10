@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1497" nextid="c1499" id="c1498">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-B CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-S CAO-L"> Aspice in me</rdg>
+         <rdg wit="Hyd"> Aspice in me domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-S CAO-L"> et miserere mei domine</rdg>
+         <rdg wit="CAO-H"> et miserere mihi domine</rdg>
+         <rdg wit="Hyd"> et miserere mei</rdg>
+      </app>
+   </aBody>
+</ant>

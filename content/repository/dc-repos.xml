@@ -1,0 +1,367 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE CURSUS PUBLIC "-//TEI P3//DTD Main Document Type//EN" "../dtd/tei2.dtd" [<!ENTITY % TEI.prose  "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "../dtd/cursus.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "../dtd/cursus.dtd">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE"><!ENTITY % TEI.header "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE"><!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY title 'Cursus Repository File of Antiphons and Responds'>
+<!ENTITY subtitle 'Part of the Cursus Corpus'>
+<!ENTITY classMark 'Based on Hesbert'>
+<!ENTITY publisher '[Original Publisher]'> <!ENTITY pubPlace '[Original PubPlace, i.e. Provenance]'>
+<!ENTITY folios '? Folios'> <!ENTITY filesize '(1 file : ca. 0 Kb)'>
+<!ENTITY pubDate  '[Date or estimated Date of Composition/publication]'><!ENTITY author 'Unknown'>
+<!ENTITY creationDate '<date value="2003-08-04">Monday 04 August 2003</date>'>
+<!ENTITY versionDate '<date value="2003-08-06">Wednesday 06 August 2003</date>'>
+<!ENTITY changes '<change><date value="date"><!-- DATE -->
+<!-- --></date><respStmt><name>David Chadd</name><resp>encoding</resp></respStmt><item><!-- Description of Change --></item></change>'>
+]>
+<CURSUS>&teiHeader;
+<text>
+<body> &MSSWitList;
+
+<!-- 
+* CAO antiphons
+ --> 
+<!-- 
+**  1000-1099
+ --> 
+
+<!-- 
+**  1100-1199
+-->
+
+<!-- 
+**  1200-1299
+ -->
+
+<!-- 
+**  1300-1399
+ -->
+
+<!-- 
+**  1400-1499
+ -->
+
+<!-- 
+**  1500-1599
+ -->
+
+<!-- 
+**  1600-1699
+ -->
+
+<!-- 
+**  1700-1799
+ -->
+
+<!-- 
+**  1800-1899
+-->
+
+<!-- 
+**  1900-1999
+-->
+
+<!-- 
+**  2000-2099
+ --> 
+
+<!-- 
+**  2100-2199
+ -->
+
+<!-- 
+**  2200-2299
+ -->
+
+<!-- 
+**  2300-2399
+ -->
+
+
+<!-- 
+**  2400-2499
+ -->
+
+
+<!-- 
+**  2500-2599
+ -->
+
+
+<!-- 
+**  2600-2699
+ -->
+
+
+<!-- 
+**  2700-2799
+ -->
+
+
+<!-- 
+**  2800-2899
+ -->
+
+
+<!-- 
+**  2900-2999
+ -->
+
+
+<!-- 
+**  3000-3099
+ -->
+
+
+<!-- 
+**  3100-3199
+ -->
+
+
+<!-- 
+**  3200-3299
+ -->
+
+
+<!-- 
+**  3300-3399
+ -->
+
+
+<!-- 
+**  3400-3499
+ -->
+
+
+<!-- 
+**  3500-3599
+ -->
+
+
+<!-- 
+**  3600-3699
+ -->
+
+
+<!-- 
+**  3700-3799
+ -->
+
+
+<!-- 
+**  3800-3899
+ -->
+
+<!-- 
+**  3900-3999
+ -->
+
+
+<!-- 
+**  4000-4099
+ -->
+
+
+<!-- 
+**  4100-4199
+ -->
+
+
+<!-- 
+**  4200-4299
+ -->
+
+
+<!-- 
+**  4300-4399
+ -->
+
+
+<!-- 
+**  4400-4499
+ -->
+
+
+<!-- 
+**  4500-4599
+ -->
+
+
+<!-- 
+**  4600-4699
+ -->
+
+
+<!-- 
+**  4700-4799
+ -->
+
+
+<!-- 
+**  4800-4899
+ -->
+
+
+<!-- 
+**  4900-4999
+ -->
+
+
+<!-- 
+**  5000-5099
+ -->
+
+
+<!-- 
+**  5100-5199
+ -->
+
+
+<!-- 
+**  5200-5299
+ -->
+
+
+<!-- 
+**  5300-5399
+ -->
+
+
+<!-- 
+**  5400-5499
+ -->
+
+
+<!-- 
+**  5500-5517
+ --> 
+
+
+<!-- 
+* CAO responds
+ -->
+
+
+<!-- 
+**  6001-6099
+ -->
+
+<!-- 
+**  6100-6199
+ -->
+
+<!-- 
+**  6200-6299
+ -->
+
+<!-- 
+**  6300-6399
+ -->
+
+<!-- 
+**  6400-6499
+ -->
+
+<!-- 
+**  6500-6599
+ -->
+
+<!-- 
+**  6600-6699
+ -->
+
+<!-- 
+**  6700-6799
+ -->
+
+<!-- 
+**  6800-6899
+ -->
+
+<!-- 
+**  6900-6999
+ -->
+
+
+<!-- 
+**  7000-7099
+ --> 
+
+<!-- 
+**  7100-7199
+ -->
+
+<!-- 
+**  7200-7299
+ -->
+
+<!-- 
+**  7300-7399
+ -->
+
+<!-- 
+**  7400-7499
+ -->
+
+<!-- 
+**  7500-7599
+ -->
+
+<!-- 
+**  7600-7699
+ -->
+
+<!-- 
+**  7700-7799
+ -->
+
+<!-- 
+**  7800-7899
+ -->
+
+<!-- 
+**  7900-7922
+ -->
+
+<!-- 
+* CURSUS antiphons
+ -->
+
+
+<!-- 
+* CURSUS responds
+ -->
+
+
+<!-- 
+* CURSUS prayers
+ -->
+
+</body>
+</text>
+</CURSUS>
+
+<!-- 
+* psgml garbage
+ -->
+<!-- Local variables: -->
+<!-- mode:xml -->
+<!-- mode:outline-minor-mode -->
+<!-- coding:utf-8-unix -->
+<!-- sgml-omittag:nil -->
+<!-- sgml-shorttag:nil -->
+<!-- sgml-namecase-general:nil -->
+<!-- sgml-general-insert-case:lower -->
+<!-- sgml-minimize-attributes:nil -->
+<!-- sgml-always-quote-attributes:t -->
+<!-- sgml-indent-step:1 -->
+<!-- sgml-indent-data:t -->
+<!-- sgml-parent-document:nil -->
+<!-- sgml-default-dtd-file:"dc-repos.ced" -->
+<!-- sgml-exposed-tags:nil -->
+<!-- sgml-local-catalogs:nil -->
+<!-- sgml-local-ecat-files:nil -->
+<!-- End: -->

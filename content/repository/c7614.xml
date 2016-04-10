@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7613" nextid="c7615" id="c7614">
+   <rBody wit="CAO-E CAO-D CAO-F"> Sanctus Mauritius legionem sanctam
+     <app>
+         <rdg wit="CAO-E CAO-F"> praemonuit</rdg>
+         <rdg wit="CAO-D"> admonuit</rdg>
+      </app> ut ad caelestia regna
+     <app>
+         <rdg wit="CAO-E CAO-F"> properaret</rdg>
+         <rdg wit="CAO-D"> properarent</rdg>
+      </app> beatus Exuperius miles Candidus et Victor et beatus Innocentius iunctis meritis
+     <app>
+         <rdg wit="CAO-E CAO-F"> se sociaverunt</rdg>
+         <rdg wit="CAO-D"> sociaverunt</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F"> O viri fortes in armis sed fortiores fide sanctus Mauritius cum sociis suis qui sub Maximiano coronam martyrii perceperunt</vBody>
+      <vBody type="r" wit="CAO-D"> Pretiosa sunt Thebaeorum corpora vulnerata sancti Mauritii sociorumque eius</vBody>
+      <vBody type="r" wit="CAO-E"> Sancti per fidem vicerunt regna operati sunt iustitiam adepti sunt repromissionem</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Beatus Exuperius</rep>
+      <rep type="r" wit="CAO-E">Et beatus</rep>
+   </verses>
+</res>

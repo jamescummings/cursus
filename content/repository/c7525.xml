@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7524" nextid="c7526" id="c7525">
+   <rBody wit="CAO-C CAO-D"> Regressus itaque Hippolytus post diem tertium venit in domum suam et dedit pacem
+     <app>
+         <rdg wit="CAO-D"> omnibus etiam servis suis</rdg>
+         <rdg wit="CAO-C"> omnibus servis suis</rdg>
+      </app> et communicavit de sacrificio
+     <app>
+         <rdg wit="CAO-D"> altaris beatis Laurentii martyris</rdg>
+         <rdg wit="CAO-C"> altaris Laurentii martyris</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Et posita mensa priusquam cibum sumeret a militibus comprehensus pervenit ad praetoria</vBody>
+      <vBody type="r" wit="CAO-D"> Et posita mensa priusquam cibum sumeret venerunt milites et tenuerunt eum et perduxerunt ad Decium caesarem</vBody>
+      <rep type="r" wit="CAO-C CAO-D">Et communicavit</rep>
+   </verses>
+</res>

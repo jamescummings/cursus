@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6307" nextid="c6309" id="c6308">
+   <rBody wit="CAO-H CAO-R CAO-L"> Concupivit rex speciem tuam quia ipse est deus tuus et adorabunt eum</rBody>
+   <verses>
+      <vBody id="c6308-1" type="r" wit="CAO-H CAO-R CAO-L"> Specie tua et pulchritudine tua intende
+       <app>
+            <rdg wit="CAO-H"> prospere procede et regna</rdg>
+            <rdg wit="CAO-L"> et prospere procede et regna</rdg>
+            <rdg wit="CAO-R" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep corresp="c6308-1" type="r" wit="CAO-H CAO-R CAO-L">Quia</rep>
+      <vBody type="r" wit="CAO-R"> Pulchra facie</vBody>
+   </verses>
+</res>

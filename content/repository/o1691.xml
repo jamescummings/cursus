@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1690" nextid="o1692" id="o1691">
+   <header>
+      <usage ms="Hyd" code="08063000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Mentem familiae tuae quaesumus domine et munere compunctionis aperi et largitate pietatis exaudi</pBody>
+</prayer>

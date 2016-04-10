@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4463" nextid="c4465" id="c4464">
+   <header>
+      <usage ms="Alb2" code="02010100">[45r] vesp1 gosp</usage>
+      <usage ms="Bat" code="14123100">[27r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="02010100">[33r] vesp1 gosp</usage>
+      <usage ms="Evm" code="02010100">[58v] vesp1 gosp</usage>
+      <usage ms="Hyd" code="02010100">[33v] vesp1 gosp</usage>
+      <usage ms="Pet" code="02010100">[34r] vesp1 gosp</usage>
+      <usage ms="Wcb" code="02010100">[67r] vesp2 gosp</usage>
+      <usage ms="Wor" code="02010100">[24v] vesp1 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Qui de terra est de terra loquitur
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wcb Bat Cdm Wor Pet"> qui de caelo venit</rdg>
+         <rdg wit="Evm"> et qui de caelo venit</rdg>
+         <rdg wit="CAO-H"> qui de caelis venit</rdg>
+      </app> super omnes est
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> et quod vidit et audivit</rdg>
+         <rdg wit="CAO-S"> et quo vidit et audivit</rdg>
+         <rdg wit="CAO-E"> et quod vidit et audit</rdg>
+      </app> hoc testatur
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-F CAO-S CAO-L Alb2 Wcb"> et testimonium eius nemo accepit</rdg>
+         <rdg wit="CAO-R CAO-D Hyd Evm Bat Cdm Wor Pet"> et testimonium eius nemo accipit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-R CAO-F CAO-S Evm Wcb Pet"> qui autem acceperit</rdg>
+         <rdg wit="CAO-E CAO-M CAO-H Alb2"> qui autem acceperat</rdg>
+         <rdg wit="CAO-D Hyd Bat Cdm Wor"> qui autem accipit</rdg>
+         <rdg wit="CAO-L"> qui autem accepit</rdg>
+      </app> eius testimonium
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> signavit quia deus verax est</rdg>
+         <rdg wit="CAO-C"> signatum quia deus verax est alleluia</rdg>
+         <rdg wit="CAO-E CAO-G CAO-M"> signatur quia deus verax est</rdg>
+         <rdg wit="CAO-V CAO-L"> signabit quia deus verax est</rdg>
+      </app>
+   </aBody>
+</ant>

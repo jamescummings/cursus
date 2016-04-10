@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2891" nextid="c2893" id="c2892">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Bat" code="06031000">[46r] lauds-a2</usage>
+      <usage ms="Cht" code="06031000"/>
+      <usage ms="Ely" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Hyd" code="06031000"/>
+      <usage ms="Mch" code="06031000">[108v] lauds-a2</usage>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[90v] lauds</usage>
+      <usage ms="Wor" code="06031000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Readings for Hyd and Cht transferred from c8005 [21-Nov-2003]</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-L Alb2 Wor Pet Ely Evm Wcb Cdm Mch Bat"> Fortitudo mea et laus mea dominus factus est mihi in salutem</aBody>
+   <aBody wit="Hyd Cht">
+      <app>
+         <rdg wit="Hyd"> Fortitudo mea et laudatio mea dominus</rdg>
+         <rdg wit="Cht"> Fortitudo et laudatio mea est dominus</rdg>
+      </app>
+   </aBody>
+</ant>

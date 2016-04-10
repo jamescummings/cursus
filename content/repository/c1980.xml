@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1979" nextid="c1981" id="c1980">
+   <header>
+      <usage ms="Hyd" code="10300000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Cum audisset Job nuntiorum verba
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> sustinuit patienter</rdg>
+         <rdg wit="CAO-C"> sustinui patienter</rdg>
+      </app> et ait si bona suscepimus de manu domini
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S Hyd"> mala autem quare non sustineamus</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-L"> mala autem quare non suscipiamus</rdg>
+         <rdg wit="CAO-D"> mala autem quare non <corr sic="sustineamus" resp="later hand">suscipiamus</corr>
+         </rdg>
+      </app> in omnibus his non peccavit Job labiis suis neque
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> stultum aliquid</rdg>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-L"> aliquid stultum</rdg>
+         <rdg wit="CAO-G"> stultum quid</rdg>
+         <rdg wit="CAO-S"> stultum <corr sic="quod">quid</corr>
+         </rdg>
+         <rdg wit="Hyd"> stultum</rdg>
+      </app> contra deum locutus est</aBody>
+</ant>

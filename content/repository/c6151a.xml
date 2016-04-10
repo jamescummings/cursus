@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6151" nextid="c6152" id="c6151a">
+   <rBody wit="CAO-C CAO-D"> Audivi vocem
+      <app>
+         <rdg wit="CAO-D"> de caelo venientem venite omnes virgines sapientissimae oleum recondite in vasis vestris dum sponsus advenerit</rdg>
+         <rdg wit="CAO-C" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Media nocte clamor factus est ecce sponsus venit</vBody>
+      <vBody type="r" wit="CAO-C"> Media autem</vBody>
+      <rep type="r" wit="CAO-D"> Oleum</rep>
+   </verses>
+</res>

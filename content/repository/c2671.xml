@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2670" id="c2671">
+   <header>
+      <usage ms="Ely" code="01011000">[5r] sext</usage>
+      <usage ms="Evm" code="01011000">[7v] terce</usage>
+      <usage ms="Glo" code="01011000">[7v] terce</usage>
+      <usage ms="Hyd" code="01013000">[5v] lauds gosp</usage>
+   </header>
+   <aBody wit="Hyd Evm Ely Glo"> Erit in novissimis diebus praeparatus mons domus domini in vertice montium et fluent ad eum omnes gentes alleluia</aBody>
+</ant>

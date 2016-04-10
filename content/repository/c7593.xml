@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7592" nextid="c7594" id="c7593">
+   <header>
+      <usage ms="Alb2" code="02122400">[22v] matins-n1-r3</usage>
+      <usage ms="Bat" code="02122400">[14r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="02122400">[20v] matins-n1-r3</usage>
+      <usage ms="Ely" code="02122400">[16v] matins-n1-r2</usage>
+      <usage ms="Evm" code="02122400">[31r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="02122400">[16v] matins-n1-r3</usage>
+      <usage ms="Mch" code="02122400">[22v] matins-n1-r4</usage>
+      <usage ms="Pet" code="02122400">[13v] matins-n1-r3</usage>
+      <usage ms="Wcb" code="02122400">[52r] matins-r3</usage>
+      <usage ms="Wor" code="02122400">[13r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Sanctificamini filii Israel</rdg>
+         <rdg wit="CAO-G"> Sanctificamini fili Israel</rdg>
+         <rdg wit="CAO-V"> Sanctificamini filiis Israel</rdg>
+      </app> dicit dominus in die enim crastina
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> descendet dominus</rdg>
+         <rdg wit="CAO-C"> descendit dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> et auferet</rdg>
+         <rdg wit="CAO-D"> ut auferet</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> a vobis</rdg>
+         <rdg wit="CAO-G CAO-D"> a nobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> omnem languorem</rdg>
+         <rdg wit="CAO-M CAO-V CAO-D CAO-F CAO-S"> omnem langorem</rdg>
+         <rdg wit="CAO-B"> omnem laborem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-L Hyd Alb2 Bat Cdm Ely Pet">
+         <app>
+            <rdg wit="Hyd Alb2 Bat Cdm Ely Pet"> Crastina die delebitur iniquitas terrae</rdg>
+            <rdg wit="CAO-D CAO-L"> Crastina delebitur iniquitas terrae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L Hyd Alb2 Bat Cdm"> et regnabit super vos</rdg>
+            <rdg wit="CAO-D Ely Pet"> et regnabit super nos</rdg>
+         </app> salvator mundi</vBody>
+      <vBody type="r" wit="CAO-E"> Ecce dominator dominus cum virtute veniet</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F Mch"> Ecce dominus veniet
+      <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> ut salvos nos faciat</rdg>
+            <rdg wit="CAO-C"> et salvos nos faciat</rdg>
+            <rdg wit="CAO-M CAO-V CAO-F Mch"> ut salvos nos faciet</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> et illuminet</rdg>
+            <rdg wit="Mch"> ut illuminet</rdg>
+            <rdg wit="CAO-C"> et illuminat</rdg>
+            <rdg wit="CAO-F"> et illuminabit</rdg>
+         </app> abscondita tenebrarum</vBody>
+      <vBody type="r" wit="Evm Wcb Wor"> O Juda et Jerusalem nolite timere cras egrediemini et dominus erit vobiscum</vBody>
+      <vBody type="r" wit="CAO-G"> Judaea et Jerusalem nolite timere cras egrediemini et dominus erit vobiscum</vBody>
+      <vBody type="r" wit="CAO-S"> Vos qui in pulvere estis expergiscimini et laudate ecce dominus veniet cum salute</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet">Et auferet</rep>
+   </verses>
+</res>

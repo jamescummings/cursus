@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6506" nextid="c6508" id="c6507">
+   <rBody wit="CAO-M CAO-H CAO-S CAO-L"> Domine quando veneris iudicare terram ubi me abscondam a vultu irae tuae
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-L"> quia peccavi</rdg>
+         <rdg wit="CAO-S"> quia peccabi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-S"> nimis in vita mea</rdg>
+         <rdg wit="CAO-H CAO-L"> in vita mea</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-H CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-M CAO-S CAO-L"> Commissa mea</rdg>
+            <rdg wit="CAO-H"> Commissa mea domine</rdg>
+         </app> pavesco et ante te erubesco
+       <app>
+            <rdg wit="CAO-M CAO-H CAO-S"> dum veneris</rdg>
+            <rdg wit="CAO-L"> cum veneris</rdg>
+         </app> iudicare noli me condemnare</vBody>
+      <rep type="r" wit="CAO-M CAO-H CAO-S CAO-L"> Quia</rep>
+   </verses>
+</res>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4737" nextid="c4739" id="c4738">
+   <aBody wit="CAO-M CAO-V CAO-L"> Sancti vero Cosmas et Damianus dixerunt
+     <app>
+         <rdg wit="CAO-V"> nos imperatoris tui iussa contemnimus</rdg>
+         <rdg wit="CAO-M"> nos imperatores tui iussa contemnimus</rdg>
+         <rdg wit="CAO-L"> nos imperatoris tui iussa contendimus</rdg>
+      </app> habemus enim verum regem in caelis
+     <app>
+         <rdg wit="CAO-V CAO-L"> Christum filium dei</rdg>
+         <rdg wit="CAO-M"> Christus filius dei</rdg>
+      </app>
+   </aBody>
+</ant>

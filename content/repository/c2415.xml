@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2414" nextid="c2416" id="c2415">
+   <header>
+      <usage ms="Alb2" code="01035000">[16r] lauds-a5</usage>
+      <usage ms="Bat" code="01035000">[11r] lauds-a5</usage>
+      <usage ms="Cdm" code="01035000">[16v] lauds-a5</usage>
+      <usage ms="Ely" code="01035000">[12v] lauds-a5</usage>
+      <usage ms="Evm" code="01035000">[27r] lauds-a5</usage>
+      <usage ms="Evm" code="01036009">[21r] lauds-a5</usage>
+      <usage ms="Evm" code="01037009">[27r] lauds-a5</usage>
+      <usage ms="Hyd" code="01035000">[12v] lauds-a5</usage>
+      <usage ms="Mch" code="01035000">[14r] lauds-a5</usage>
+      <usage ms="Wcb" code="01043000">[50r] lauds-a5</usage>
+      <usage ms="Wor" code="01035000">[9v] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Dominus legifer noster dominus rex noster ipse veniet et salvabit nos</aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2304b" nextid="c2306" id="c2305">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] nones-a1</usage>
+      <usage ms="Bat" code="06011000">[43v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="06011000">[50r] vesp2-a2</usage>
+      <usage ms="Ely" code="06018000">[61r]  gosp</usage>
+      <usage ms="Evm" code="06011000">[94v] terce</usage>
+      <usage ms="Glo" code="06011000">[49v] terce</usage>
+      <usage ms="Hyd" code="06011000">[62r] terce gosp</usage>
+      <usage ms="Wcb" code="06011000">[86v] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Ely Wcb Evm Glo Cdm Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Ely Wcb Evm Glo Cdm Bat"> Dixit paterfamilias operariis suis</rdg>
+         <rdg wit="Hyd"> Dixit paterfamilias operarios suis</rdg>
+      </app> quid hic statis tota die otiosi at illi respondentes dixerunt quia nemo nos conduxit
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Ely Wcb Evm Glo Cdm Bat"> ite in vineam meam</rdg>
+         <rdg wit="CAO-C"> ite et vos in vineam meam</rdg>
+      </app> et quod iustum fuerit dabo vobis</aBody>
+</ant>

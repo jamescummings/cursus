@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4381" nextid="c4383" id="c4382">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S"> Pro eo quod non credidisti verbis meis</rdg>
+         <rdg wit="CAO-C"> Pro eo quod non oboedisti verbis meis</rdg>
+         <rdg wit="CAO-V"> Pro eo quod non credidisti<del status="unremarkable">s</del> verbis meis</rdg>
+         <rdg wit="CAO-L"> Pro eo quod non credidistis verbis meis</rdg>
+      </app> eris tacens et non poteris loqui usque in diem nativitatis eius</aBody>
+</ant>

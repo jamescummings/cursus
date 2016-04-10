@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7378" nextid="c7380" id="c7379">
+   <rBody wit="CAO-F CAO-L"> Percussit Saul mille et David decem milia
+     <app>
+         <rdg wit="CAO-L"> in milibus suis</rdg>
+         <rdg wit="CAO-F" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> quia manus domini erat cum illo percussit Philisthaeum et abstulit opprobrium
+     <app>
+         <rdg wit="CAO-F"> de Israel</rdg>
+         <rdg wit="CAO-L"> ex Israel</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-L">Nonne iste est David de quo canebant
+      <app>
+            <rdg wit="CAO-L"> in choro</rdg>
+            <rdg wit="CAO-F"> per choros</rdg>
+         </app> dicentes Saul percussit mille et David decem millia</vBody>
+      <rep type="r" wit="CAO-F CAO-L">Percussit</rep>
+   </verses>
+</res>

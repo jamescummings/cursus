@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7223" nextid="c7224b" id="c7224">
+   <header>
+      <usage ms="Alb2" code="01041000">[18v] matins-n1-r3</usage>
+      <usage ms="Bat" code="01041000">[12r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="01041000">[18r] matins-n1-r4</usage>
+      <usage ms="Ely" code="01041000">[13v] matins-n1-r4</usage>
+      <usage ms="Evm" code="01041000">[23r] matins-n1-r4</usage>
+      <usage ms="Hyd" code="01041000">[13r] matins-n1-r4</usage>
+      <usage ms="Mch" code="01041000">[17r] matins-n1-r3</usage>
+      <usage ms="Pet" code="01041000">[10v] matins-n1-r4</usage>
+      <usage ms="Wcb" code="01041000">[48r] matins-n1-r4</usage>
+      <usage ms="Wor" code="01041000">[11v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Non auferetur sceptrum de Juda et dux de femore eius
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> donec veniat</rdg>
+         <rdg wit="CAO-F"> donec veniet</rdg>
+      </app> qui mittendus est et ipse erit exspectatio gentium</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Pulchiores sunt oculi eius vino et dentes eius lacte candidiores</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat">Et ipse</rep>
+   </verses>
+</res>

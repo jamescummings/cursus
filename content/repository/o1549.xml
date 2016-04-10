@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1548" nextid="o1550" id="o1549">
+   <header>
+      <usage ms="Alb2" code="07044000">[96r] lauds</usage>
+      <usage ms="Cdm" code="07044000">[69v] lauds</usage>
+      <usage ms="Cht" code="07044000">[44v] lauds</usage>
+      <usage ms="Ely" code="70044000">[79v] lauds</usage>
+      <usage ms="Evm" code="07044000">[131r] lauds</usage>
+      <usage ms="Hyd" code="07044000">[84r] lauds</usage>
+      <usage ms="Mch" code="07044000">[141v] lauds</usage>
+      <usage ms="Wcb" code="07044000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.268</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">Deus qui et iustis praemia meritorum et peccatoribus per ieiunium veniam praebes miserere supplicibus tuis ut reatus nostri confessio indulgentiam valeat
+     <app>
+         <rdg wit="Ely Cht Hyd Alb2 Cdm Mch"> percipere delictorum</rdg>
+         <rdg wit="Evm"> percipere peccatorum</rdg>
+         <rdg wit="Wcb"> omnium percipere delictorum</rdg>
+      </app>
+   </pBody>
+</prayer>

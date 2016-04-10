@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1547d" nextid="c1549" id="c1548">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Bat" code="06031000">[46r] lauds-a1</usage>
+      <usage ms="Cdm" code="06031000">lauds</usage>
+      <usage ms="Cht" code="06031000"/>
+      <usage ms="Ely" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Hyd" code="06031000"/>
+      <usage ms="Mch" code="06031000">[108v] lauds-a1</usage>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[90v] lauds</usage>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="CAO-G CAO-L Hyd Alb2 Wor Cht Pet Ely Evm Wcb Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-L Alb2 Wor Pet Ely Evm Wcb Cdm Mch Bat">Averte domine faciem tuam</rdg>
+         <rdg wit="Hyd Cht"> Averte faciem tuam domine</rdg>
+         <rdg wit="CAO-G">Averte faciem tuam</rdg>
+      </app>
+      <app>
+         <rdg wit="Alb2 Ely Cht Evm Hyd Wcb Cdm Mch Bat"> a peccatis meis et omnes iniquitates meas dele</rdg>
+         <rdg wit="CAO-G Wor Pet"> a peccatis meis domine</rdg>
+         <rdg wit="CAO-L"> a peccatis meis </rdg>
+      </app>
+   </aBody>
+</ant>

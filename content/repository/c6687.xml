@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6686" nextid="c6688" id="c6687">
+   <header>
+      <usage ms="Hyd" code="10800000">matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Exaudiat dominus orationes vestras et reconcilietur vobis nec vos
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> deserat</rdg>
+         <rdg wit="CAO-C"> ne deserat</rdg>
+      </app> in tempore malo
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-D CAO-F"> dominus deus vester</rdg>
+         <rdg wit="CAO-L" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+         <rdg wit="CAO-B CAO-V CAO-R CAO-S Hyd"> dominus deus noster</rdg>
+         <rdg wit="CAO-G"> dominus Deus <corr sic="vester">noster</corr>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Adaperiat dominus cor vestrum in lege sua et in praeceptis suis et faciat pacem</vBody>
+      <vBody type="r" wit="CAO-E CAO-S CAO-L Hyd"> Det vobis cor omnibus ut colatis eum et faciatis eius voluntatem</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd"> Dominus</rep>
+      <rep type="r" wit="CAO-F CAO-S"> Nec vos</rep>
+      <rep type="r" wit="CAO-L"> Et reconcilietur</rep>
+   </verses>
+</res>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4955" nextid="c4957" id="c4956">
+   <aBody wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-S"> Simile est regnum caelorum sagenae</rdg>
+         <rdg wit="CAO-D"> Simile erit regnum caelorum sagenae</rdg>
+         <rdg wit="CAO-M CAO-H CAO-R"> Simile est enim regnum caelorum sagenae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F"> missae in mare</rdg>
+         <rdg wit="CAO-M CAO-S"> missae in mari</rdg>
+         <rdg wit="CAO-E"> missae in <corr sic="mare">mari</corr>
+         </rdg>
+      </app> et ex omni genere piscium congreganti
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S"> quam cum impleta esset educentes</rdg>
+         <rdg wit="CAO-E"> quae cum impleta esset educentes</rdg>
+         <rdg wit="CAO-M"> quam cum impleta esset ducentes</rdg>
+      </app> et secus litus sedentes elegerunt bonos in vasa sua malos autem foras miserunt</aBody>
+</ant>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1999" nextid="c2001" id="c2000">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] lauds gosp</usage>
+      <usage ms="Bat" code="02122400">[14v] lauds gosp</usage>
+      <usage ms="Cdm" code="02122400">[21r] lauds gosp</usage>
+      <usage ms="Ely" code="02122400">[17r] lauds gosp</usage>
+      <usage ms="Evm" code="02122400">[31v] lauds gosp</usage>
+      <usage ms="Hyd" code="02122400">[16v] lauds gosp</usage>
+      <usage ms="Mch" code="02122400">[23r] lauds gosp</usage>
+      <usage ms="Pet" code="02122400">[14r] lauds gosp</usage>
+      <usage ms="Wcb" code="02122400">[52v] lauds gosp</usage>
+      <usage ms="Wor" code="02122400">[13r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Cum esset desponsata mater Jesu Maria Joseph
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> antequam convenirent</rdg>
+         <rdg wit="CAO-S"> antequam conveniret</rdg>
+      </app> inventa est in utero habens quod enim
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-R CAO-D CAO-F CAO-S Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> in ea</rdg>
+         <rdg wit="Hyd">ea</rdg>
+      </app> natum est de spiritu sancto est alleluia</aBody>
+   <aBody wit="CAO-H" type="incipit"> Cum esset desponsata mater</aBody>
+</ant>

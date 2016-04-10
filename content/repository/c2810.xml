@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2809" nextid="c2811" id="c2810">
+   <aBody wit="CAO-H CAO-D">
+      <app>
+         <rdg wit="CAO-D"> Exsultabunt domino ossa humiliata</rdg>
+         <rdg wit="CAO-H"> Exsultabunt domine ossa humiliata</rdg>
+      </app>
+   </aBody>
+</ant>

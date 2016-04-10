@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6852" nextid="c6853a" id="c6853">
+   <header>
+      <usage ms="Hyd" code="02122800">[27r] matins-n3-r12</usage>
+      <usage ms="Pet" code="02122800">[31r] matins-n3-r12</usage>
+      <usage ms="Wor" code="02122800">[23r] matins-n3-r12</usage>
+   </header>
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for Holy Innocents</note>
+   <rBody wit="CAO-D Hyd Wor Pet">
+      <app>
+         <rdg wit="Wor Pet"> Hodie martyrum flores Innocentium</rdg>
+         <rdg wit="CAO-D"> Hodie martyrum flores Innocentes</rdg>
+         <rdg wit="Hyd"> Hodie martyrum flores Innocentium et regi nato laudes psallentium</rdg>
+      </app> persecutionis atrox pruina decoxit nam pretiosa nece glorificati oblati sunt domino cum quo gaudent et regnabunt per omnia saecula</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D Hyd Wor Pet"> Donetur nobis eorum quaesumus meritis venia
+      <app>
+            <rdg wit="CAO-D Pet"> quorum inter tormenta viguit constantia</rdg>
+            <rdg wit="Hyd Wor"> quorum pro Christi infantia caesa est innocentia</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D Hyd Wor Pet"> Nam</rep>
+      <dox type="r" wit="Wor Pet">Gloria</dox>
+      <rep type="r" num="2" wit="Wor">Hodie</rep>
+   </verses>
+</res>

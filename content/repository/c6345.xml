@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6344" nextid="c6346" id="c6345">
+   <header>
+      <usage ms="Cdm" code="02122400">[21r] lauds</usage>
+      <usage ms="Ely" code="02122400">[17r] lauds</usage>
+      <usage ms="Hyd" code="02122400">[16v] lauds</usage>
+      <usage ms="Mch" code="02122400">[22v] matins-n2</usage>
+      <usage ms="Pet" code="02122400">[14r] lauds</usage>
+      <usage ms="Wor" code="02122400">[13r] lauds</usage>
+   </header>
+   <rBody wit="CAO-B CAO-D Hyd Cdm Mch Ely Wor Pet"> Crastina die delebitur iniquitas terrae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-D Hyd Cdm Mch Ely Wor Pet"> Et regnabit super nos salvator mundi</vBody>
+      <rep type="r" wit="CAO-B"> Iniquitas</rep>
+      <dox type="r" wit="Hyd Wor Pet">Gloria</dox>
+   </verses>
+</res>

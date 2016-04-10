@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2676" nextid="c2678" id="c2677">
+   <header>
+      <usage ms="Bat" code="06018000">[43v] </usage>
+      <usage ms="Cdm" code="06018000">[50v] -a2</usage>
+      <usage ms="Cht" code="06018000">[13r] -a1</usage>
+      <usage ms="Hyd" code="06018000">[62v]  gosp</usage>
+      <usage ms="Mch" code="06018000">[102r] gospel</usage>
+      <usage ms="Pet" code="06011000">[57v] vesp2</usage>
+      <usage ms="Wor" code="06018000">[38r] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cht Wor Pet Cdm Mch Bat"> Erunt primi novissimi et novissimi primi
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F Cht Pet"> multi sunt enim vocati</rdg>
+         <rdg wit="CAO-E CAO-L Wor Hyd Cdm Mch Bat"> multi enim sunt vocati</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cht Wor Pet Bat"> pauci vero electi dicit dominus</rdg>
+         <rdg wit="CAO-C CAO-E Cdm"> pauci vero electi</rdg>
+         <rdg wit="Mch"> pauci vero electi <del type="crossed through" status="unremarkable">dicit dominus</del>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

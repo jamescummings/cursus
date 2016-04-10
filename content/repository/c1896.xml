@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1895" nextid="c1897" id="c1896">
+   <header>
+      <usage ms="Alb2" code="01038000">[14v] lauds</usage>
+      <usage ms="Cdm" code="01035000">[17r] terce</usage>
+      <usage ms="Ely" code="01032000">[11v] </usage>
+      <usage ms="Evm" code="01037009">[22r] terce</usage>
+      <usage ms="Hyd" code="01035000">[12v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01045000">[15v] lauds-a2</usage>
+      <usage ms="Mch" code="01048000">[19r] </usage>
+      <usage ms="Wcb" code="01035000">[47v] lauds gosp</usage>
+      <usage ms="Wor" code="01034000">[9r] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb"> Consolamini consolamini popule meus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Evm Mch Cdm Ely Wor Wcb"> dicit deus vester</rdg>
+         <rdg wit="CAO-D Hyd"> dicit deus noster</rdg>
+         <rdg wit="Alb2"> dicit dominus vester</rdg>
+      </app>
+   </aBody>
+</ant>

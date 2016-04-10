@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6350" nextid="c6352" id="c6351">
+   <rBody wit="CAO-H CAO-R CAO-D CAO-F">
+      <l part="N">Crux fidelis inter omnes arbor una nobilis</l>
+      <l part="N">Nulla silva talem profert fronde flore germine</l>
+      <l part="N">Dulce lignum
+       <app>
+            <rdg wit="CAO-H CAO-D CAO-F"> dulces clavos</rdg>
+            <rdg wit="CAO-R"> dulce clavos</rdg>
+         </app> dulce pondus
+       <app>
+            <rdg wit="CAO-D"> sustinet</rdg>
+            <rdg wit="CAO-H"> sustines</rdg>
+            <rdg wit="CAO-F"> sustinuit</rdg>
+            <rdg wit="CAO-R"> sustinet alleluia</rdg>
+         </app>
+      </l>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Super omnia ligna cedrorum tu sola excelsior</vBody>
+      <vBody type="r" wit="CAO-R"> Mihi autem</vBody>
+      <vBody type="r" wit="CAO-H"> O crux admirabilis evacuatio vulneris et restitutio sanitatis</vBody>
+      <rep type="r" wit="CAO-D CAO-F"> Dulce lignum</rep>
+      <rep type="r" wit="CAO-R CAO-H"> Dulce</rep>
+   </verses>
+</res>

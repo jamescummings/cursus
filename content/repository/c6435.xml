@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6434" nextid="c6436" id="c6435">
+   <rBody wit="CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-R"> Devastavit vineam meam</rdg>
+         <rdg wit="CAO-L"> Divastavit vineam meam</rdg>
+         <rdg wit="CAO-H"> Devastavit vineam tuam</rdg>
+      </app> aper de silva et singularis ferus depastus est eam vide domine et excita potentiam tuam ne pereat
+      <app>
+         <rdg wit="CAO-H CAO-R"> quod plantavit</rdg>
+         <rdg wit="CAO-L"> quam plantavit</rdg>
+      </app> dextera tua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R CAO-L"> Domine Deus virtutum
+       <app>
+            <rdg wit="CAO-H CAO-R"> convertere</rdg>
+            <rdg wit="CAO-L"> converte nunc</rdg>
+         </app> respice de caelo et vide et visita vineam istam</vBody>
+      <rep type="r" wit="CAO-H CAO-R"> Ne pereat</rep>
+      <rep type="r" wit="CAO-L"> Quam</rep>
+   </verses>
+</res>

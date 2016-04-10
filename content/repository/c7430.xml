@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7429" nextid="c7431" id="c7430">
+   <rBody wit="CAO-R CAO-D"> Pretiosus confessor domini Benedictus recto orientis tramite cum magno splendoris decore in caelum ferebatur assistensque vir clarus ait duobus fratribus hac via dilectus domini caelum Benedictus ascendit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Igitur sancti viri obitum sicut praesentes viderunt ita et absentes ex signo quod eis praedictum fuerat agnoverunt</vBody>
+      <vBody type="r" wit="CAO-R">
+         <verse type="stanza">
+            <l part="N">Lampadibus callem innumeris videre coruscum</l>
+            <l part="N">Pallia virtutum quem straverunt variarum</l>
+            <l part="N">Et super assistens vir clarus dixit ad illos</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-D">Assistensque</rep>
+      <rep type="r" wit="CAO-R">Hac</rep>
+   </verses>
+</res>

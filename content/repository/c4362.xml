@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4361" nextid="c4363" id="c4362">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-S CAO-L"> Praedicta nutrix illius ad purgandum triticum
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-S CAO-L"> a vicinis mulieribus</rdg>
+         <rdg wit="CAO-C"> a vicinibus mulieribus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-S CAO-L"> praestari sibi capisterium petiit</rdg>
+         <rdg wit="CAO-H CAO-R"> capisterium petiit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> quod casu accidente</rdg>
+         <rdg wit="CAO-C"> quod casu accidere</rdg>
+         <rdg wit="CAO-S CAO-L"> quo casu accidente</rdg>
+      </app> fractum est</aBody>
+</ant>

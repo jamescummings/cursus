@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6471" nextid="c6473" id="c6472">
+   <header>
+      <usage ms="Alb2" code="06021000">[67v] matins-n1-r1</usage>
+      <usage ms="Bat" code="06021000">[43v] matins-n1-r1</usage>
+      <usage ms="Cdm" code="06021000">[51r] matins-n1-r1</usage>
+      <usage ms="Ely" code="06021000">[61r] matins-n1-r1</usage>
+      <usage ms="Evm" code="06021000">[95v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="06021000">[63r] matins-n1-r1</usage>
+      <usage ms="Mch" code="06021000">[102v] matins-n1-r1</usage>
+      <usage ms="Pet" code="06021000">[57v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="06021000">[87r] matins-n1-r2</usage>
+      <usage ms="Wor" code="06021000">[38r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-V CAO-F CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> Dixit dominus ad Noe finis universae carnis venit
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-F CAO-L Hyd Alb2 Wor Pet Wcb Evm Cdm Bat Mch"> coram me</rdg>
+         <rdg wit="Ely"> ad me</rdg>
+      </app> repleta est terra
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-F Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat"> iniquitate eorum</rdg>
+         <rdg wit="Mch"> iniquitate hominum</rdg>
+         <rdg wit="CAO-L"> iniquitates eorum</rdg>
+      </app> et ego disperdam eos cum terra</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-F CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> Fac tibi arcam de lignis laevigatis mansiunculas
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-F Hyd Pet Ely Cdm Bat Mch"> in ea facies</rdg>
+            <rdg wit="CAO-L Alb2 Wor Wcb Evm"> in arca facies</rdg>
+            <rdg wit="CAO-C"> in arcam facies</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V"> Delebo inquit hominem quem creavi a facie terrae ab homine usque ad animantia</vBody>
+      <rep type="r" wit="CAO-E CAO-V Wcb Evm"> Et ego</rep>
+      <rep type="r" wit="CAO-C CAO-F CAO-L Hyd Alb2 Wor Pet Ely Cdm Bat Mch"> Repleta</rep>
+   </verses>
+</res>

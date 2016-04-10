@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1389" nextid="c1391" id="c1390">
+   <header>
+      <usage ms="Hyd" code="01014000">[6r] lauds-a1</usage>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-H CAO-S">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-S Hyd"> Amplius lava me domine ab iniustitia mea</rdg>
+         <rdg wit="CAO-H"> Amplius lava me domine</rdg>
+      </app>
+   </aBody>
+</ant>

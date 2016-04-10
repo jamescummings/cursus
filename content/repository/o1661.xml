@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1660" nextid="o1662" id="o1661">
+   <header>
+      <usage ms="Cdm" code="02122500">[23v] lauds commemoratio</usage>
+      <usage ms="Alb2" code="02122500">[24r] lauds commemoratio</usage>
+      <usage ms="Bat" code="02122500">[15r] vesp1 commemoratio</usage>
+      <usage ms="Evm" code="02122500">[37v] commemoratio</usage>
+      <usage ms="Hyd" code="02122500">[21r] lauds commemoratio</usage>
+      <usage ms="Wcb" code="02122500">[57r] lauds commemoratio</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.41</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Wcb Bat Cdm"> Da quaesumus omnipotens deus ut qui beatae Anastasiae martyris tuae solemnia colimus eius apud te patrocinia sentiamus</pBody>
+</prayer>

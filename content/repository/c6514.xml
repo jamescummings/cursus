@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6513" nextid="c6514a" id="c6514">
+   <header>
+      <usage ms="Hyd" code="10100000">matins-n3-r11</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">The version De Lib Regum in CAO sources</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Domine si conversus fuerit
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> populus tuus</rdg>
+         <rdg wit="Hyd">populus et</rdg>
+         <rdg wit="CAO-F"> populus iste</rdg>
+      </app> oraverit ad sanctuarium tuum tu exaudies in caelo domine et libera eos de manibus
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-D CAO-F Hyd"> inimicorum eorum</rdg>
+         <rdg wit="CAO-S CAO-L"> inimicorum suorum</rdg>
+         <rdg wit="CAO-R"> inimicorum <corr sic="meorum">eorum</corr>
+         </rdg>
+         <rdg wit="CAO-V"> inimicorum meorum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Si peccaverit in te populus tuus et conversus egerit paenitentiam
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-L Hyd"> veniensque oraverit in loco isto</rdg>
+            <rdg wit="CAO-S"> veniensque oraverit in loco isto tu exaudies</rdg>
+            <rdg wit="CAO-M"> veniensque adoraverit ad sanctuarium tuum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-H"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L Hyd"> Tu exaudies</rep>
+      <rep type="r" wit="CAO-H CAO-S"> Et libera eos de manibus</rep>
+   </verses>
+</res>

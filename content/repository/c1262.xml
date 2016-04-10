@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1261" nextid="c1263" id="c1262">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V"> Adest homo dei <name reg="Petrus" type="saint">Petrus</name> exorcista
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V"> tenens triumphum sanctae crucis</rdg>
+         <rdg wit="CAO-C"> habens triumphum sanctae crucis</rdg>
+      </app> in manu sua</aBody>
+</ant>

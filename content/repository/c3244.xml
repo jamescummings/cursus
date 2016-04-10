@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3243" nextid="c3245" id="c3244">
+   <header>
+      <usage ms="Alb2" code="01011000">[4v] lauds-a1</usage>
+      <usage ms="Bat" code="01011000">[4r] lauds-a1</usage>
+      <usage ms="Cdm" code="01011000">[10r] lauds-a1</usage>
+      <usage ms="Ely" code="01011000">[4v] lauds-a1</usage>
+      <usage ms="Evm" code="01011000">[7r] lauds-a1</usage>
+      <usage ms="Hyd" code="01011000">[3v] lauds-a1</usage>
+      <usage ms="Mch" code="01011000">[4v] lauds-a1</usage>
+      <usage ms="Wcb" code="01011000">[43v] lauds-a1</usage>
+      <usage ms="Wor" code="01011000">[3r] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> In illa die stillabunt montes dulcedinem</rdg>
+         <rdg wit="CAO-E"> In illa die stillabunt montes dulcedine</rdg>
+      </app> et colles fluent lac et mel alleluia</aBody>
+</ant>

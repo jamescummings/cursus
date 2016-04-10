@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9007" nextid="c9009" id="c9008">
+   <header>
+      <usage ms="Alb2" code="06031000">[70r] matins-n1-r2</usage>
+      <usage ms="Bat" code="06031000">[45r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="06031000">[53r] matins-n1-r2</usage>
+      <usage ms="Ely" code="06031000">[62v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="06031000">[65v] matins-n1-r2</usage>
+      <usage ms="Mch" code="06031000">[106v] matins-n1-r2</usage>
+      <usage ms="Pet" code="06031000">[60v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="06031000">[89r] matins-n1-r2</usage>
+      <usage ms="Wor" code="06031000">[40r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Mch Bat"> Revertenti Abraham a cede quatuor regum occurrit rex Salem Melchisedech offerens panem et vinum erat enim dei sacerdos et benedixit illi</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Wor Pet Alb2 Ely Wcb Cdm Mch Bat"> Benedictus Abraham deo altissimo qui creavit caelum et terram</vBody>
+      <rep type="r" wit="Hyd Alb2 Wor Pet Ely">Et benedixit</rep>
+      <rep type="r" wit="Wcb Cdm Mch Bat">Erat</rep>
+      <dox type="r" wit="Wor">Gloria patri et filio et spiritui sancto</dox>
+      <rep type="r" wit="Wor" num="2">Et benedixit</rep>
+   </verses>
+</res>

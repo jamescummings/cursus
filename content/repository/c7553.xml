@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7552" nextid="c7554" id="c7553">
+   <header>
+      <usage ms="Alb2" code="01037000">[17v] matins-n1-r3</usage>
+      <usage ms="Bat" code="01037000">[11v] matins-r3</usage>
+      <usage ms="Cdm" code="01037000">[17v] matins-r3</usage>
+      <usage ms="Ely" code="01036000">[12v] matins-r1</usage>
+      <usage ms="Evm" code="01036009">[21r] matins-r3</usage>
+      <usage ms="Mch" code="01037000">[16r] matins-r3</usage>
+      <usage ms="Wcb" code="01046000">[51r] matins-r3</usage>
+      <usage ms="Wor" code="01037000">[9v] matins-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Rorate caeli desuper et nubes pluant iustum aperiatur terra
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> et germinet</rdg>
+         <rdg wit="CAO-C"> ut germinet</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> salvatorem</rdg>
+         <rdg wit="CAO-V"> salvatorem dominus deus noster</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S Alb2 Evm Mch Cdm Ely Wor Bat"> Emitte agnum domine dominatorem terrae de petra deserti ad montem filiae Sion</vBody>
+      <vBody type="r" wit="CAO-M"> Emitte agnum domine dominatorem terrae</vBody>
+      <vBody type="r" wit="CAO-E"> Emitte agnum domine dominatorem</vBody>
+      <vBody type="r" wit="CAO-C CAO-L"> Emitte agnum domine</vBody>
+      <vBody type="r" wit="Wcb"> Laetentur caeli et exultet terra commoveatur mare et plenitudo eius</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Alb2 Evm Cdm Ely Wor Wcb">Aperiatur</rep>
+      <rep type="r" wit="Mch Bat"> Et germinet</rep>
+   </verses>
+</res>

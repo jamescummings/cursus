@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3604" nextid="c3606" id="c3605">
+   <aBody wit="CAO-R">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Lentis quidem sed iugibus</l>
+         <l part="N"> hic aestuabat febribus</l>
+         <l part="N"> podagrae necnon syncopis</l>
+         <l part="N"> pulsabatur incommodis</l>
+      </lg>
+   </aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8505" nextid="c8507" id="c8506">
+   <header>
+      <usage ms="Cht" code="07055000">[52r] vesp2-a1</usage>
+      <usage ms="Ely" code="07055000">[84r] vesp2</usage>
+      <usage ms="Hyd" code="07055000">[89r] vesp2</usage>
+      <usage ms="Pet" code="07055000">[82v] vesp2-a1</usage>
+   </header>
+   <aBody wit="Ely Cht Hyd Pet">Quidam autem ex Judeis volebant apprehendere Jesum sed nemo misit super illum manus</aBody>
+</ant>

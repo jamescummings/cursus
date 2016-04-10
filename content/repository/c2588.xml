@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2587" nextid="c2589" id="c2588">
+   <header>
+      <usage ms="Hyd" code="08041000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-R Hyd"> Ego sum alpha et omega primus et novissimus et stella matutina
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-R Hyd"> ego clavis David alleluia</rdg>
+         <rdg wit="CAO-V"> ecce clavis David alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

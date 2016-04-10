@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7630" nextid="c7632" id="c7631">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sebastianus dei cultor studiose curabat sub
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> absconso</rdg>
+         <rdg wit="CAO-G"> absconsa</rdg>
+         <rdg wit="CAO-H">
+            <corr sic="absconso">absconsa</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-R CAO-D CAO-S CAO-L"> chlamydis</rdg>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-F"> chlamyde</rdg>
+         <rdg wit="CAO-B"> chlamydi</rdg>
+      </app> sanctorum animas
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-F"> confortare</rdg>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-S CAO-L"> confortabat</rdg>
+      </app> spem promittens et gloriam consequi sempiternam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-F"> Erat enim in sermone verax in iudicio iustus</vBody>
+      <vBody type="r" wit="CAO-B CAO-R"> Deo igitur
+      <app>
+            <rdg wit="CAO-R"> studebat</rdg>
+            <rdg wit="CAO-B"> studuit</rdg>
+         </app> reddere animas quas diabolus conabatur auferre</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Multas denique martyrum mentes a timore passionis eripuit et ad coronam perpetuae gloriae incitavit</vBody>
+      <vBody type="r" wit="CAO-D"> Christo quotidie sedulum exhibebat officium et christianorum animas confortabat</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">Spem</rep>
+   </verses>
+</res>

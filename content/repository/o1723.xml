@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1722" nextid="o1724" id="o1723">
+   <header>
+      <usage ms="Cdm" code="07061000">[75v] none</usage>
+      <usage ms="Mch" code="07061000">[155r] nones</usage>
+   </header>
+   <pBody wit="Cdm Mch"> Praesta nobis quaesumus omnipotens et misericors deus ut quia viciis subiacet nostra mortalitas tua nos medicina purificet et potentia tueatur</pBody>
+</prayer>

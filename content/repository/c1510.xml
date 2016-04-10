@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1509" nextid="c1510b" id="c1510">
+   <aBody wit="CAO-V CAO-F CAO-L"> Attende fili mi sapientiam meam et ad eloquia oris mei inclina aurem tuam quia in sapientia fundavit dominus terram
+     <app>
+         <rdg wit="CAO-F"> et stabilivit caelos prudentia</rdg>
+         <rdg wit="CAO-L"> et stabilivi caelos prudentiam</rdg>
+         <rdg wit="CAO-V"> et stabilivi caelos prudentia<del status="unremarkable">m</del>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

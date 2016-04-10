@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4497" nextid="c4499" id="c4498">
+   <aBody wit="CAO-R">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Qui solebat in sericis</l>
+         <l part="N"> procedere induviis</l>
+         <l part="N"> post in abiectis vestibus</l>
+         <l part="N"> servit pauper pauperibus</l>
+      </lg>
+   </aBody>
+</ant>

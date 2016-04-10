@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3584" nextid="c3585b" id="c3585">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] lauds-a5</usage>
+      <usage ms="Bat" code="06011000">[43r] lauds-a5</usage>
+      <usage ms="Cdm" code="06011000">[50r] lauds-a5</usage>
+      <usage ms="Cht" code="06011000">[12v] lauds-a5</usage>
+      <usage ms="Ely" code="06011000">[60v] lauds-a5</usage>
+      <usage ms="Hyd" code="06011000">[62r] lauds gosp</usage>
+      <usage ms="Mch" code="06011000">[102r] lauds-a6</usage>
+      <usage ms="Pet" code="06011000">[56v] lauds</usage>
+      <usage ms="Wcb" code="02010500">[86v] lauds-a6</usage>
+      <usage ms="Wor" code="06011000">[37v] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Cdm Bat Mch Wcb"> Laudate dominum de caelis</aBody>
+</ant>

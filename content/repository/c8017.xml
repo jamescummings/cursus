@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8016" nextid="c8018" id="c8017">
+   <header>
+      <usage ms="Ely" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[90v] lauds</usage>
+   </header>
+   <aBody wit="Ely Evm Wcb">Benedicat Israel domino laudet et superexaltet eum in saecula</aBody>
+</ant>

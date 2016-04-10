@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2345" nextid="c2346b" id="c2346">
+   <aBody wit="CAO-C CAO-L"> Domine filia mea modo defuncta est sed veni
+     <app>
+         <rdg wit="CAO-C"> impone manum tuam super eam</rdg>
+         <rdg wit="CAO-L"> impone manum super eam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> et vivet</rdg>
+         <rdg wit="CAO-L"> et vivet Jesus autem sequebatur eum</rdg>
+      </app>
+   </aBody>
+</ant>

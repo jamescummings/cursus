@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6736" nextid="c6738" id="c6737">
+   <rBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">Flos florum salve qui crimina destruis Evae</l>
+         <l part="N">quod mare non potuit tolerare Maria tulisti</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <verse type="stanza">
+            <l part="N">Ut quo clara vites mereamur stare nitentes</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-L"> Quod</rep>
+   </verses>
+</res>

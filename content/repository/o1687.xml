@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1686" nextid="o1688" id="o1687">
+   <header>
+      <usage ms="Hyd" code="08051000">vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.1120</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus qui fidelium mentes unius efficis voluntatis da populis tuis id amare quod precepis id desiderare quod promittas ut inter mundanas varietates ibi nostra fixa sunt gaudia</pBody>
+</prayer>

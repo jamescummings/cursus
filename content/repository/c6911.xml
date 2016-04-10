@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6910" nextid="c6912" id="c6911">
+   <header>
+      <usage ms="Alb2" code="07041000">[93r] matins-n1-r4</usage>
+      <usage ms="Bat" code="07041000">[56r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="07041000">[67v] matins-n1-r4</usage>
+      <usage ms="Cht" code="07041000">[40r] matins-n1-r4</usage>
+      <usage ms="Ely" code="07041000">[77v] matins-n1-r4</usage>
+      <usage ms="Evm" code="07041000">[127v] matins-n1-r4</usage>
+      <usage ms="Hyd" code="07041000">[81v] matins-n1-r4</usage>
+      <usage ms="Mch" code="07041000">[136v] matins-n1-r3</usage>
+      <usage ms="Pet" code="07041000">[75v] matins-r4</usage>
+      <usage ms="Wcb" code="07041000">[103v] matins-n1-r4</usage>
+      <usage ms="Wor" code="07041000">[50v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> In mari via tua</rdg>
+         <rdg wit="CAO-C CAO-G CAO-M"> In mari viae tuae</rdg>
+      </app> et semitae tuae in aquis multis deduxisti sicut oves populum tuum in manu Moysi et Aaron</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Mch">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S Mch"> Illuxerunt coruscationes tuae</rdg>
+            <rdg wit="CAO-C CAO-M CAO-V"> Illuxerunt coruscationis tuae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F Mch"> orbi terrae</rdg>
+            <rdg wit="CAO-G CAO-M CAO-S"> orbis terrae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-V CAO-R CAO-F CAO-S"> commota est et contremuit terra</rdg>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H"> vidit et commota est terra</rdg>
+            <rdg wit="Mch"> vidit et commota terra</rdg>
+         </app>
+      </vBody>
+      <vBody id="c6911-1" type="r" wit="Cht Evm Wcb"> Illuxerunt coruscationes tuae orbi terrae commota est et contremuit terra</vBody>
+      <rep corresp="c6911-1" type="r" wit="Cht Evm Wcb"> Deduxisiti</rep>
+      <vBody id="c6911-2" type="r" num="2" wit="Cht Evm"> Transtulisti illos per mare rubrum
+      <app>
+            <rdg wit="Cht">et transvexisti <add place="over erasure" resp="DC">eos</add> per aquam nimiam</rdg>
+            <rdg wit="Evm">et transvexisti eos per aquam nimiam</rdg>
+         </app>&gt;</vBody>
+      <rep corresp="c6911-2" type="r" wit="Cht Evm"> In manu</rep>
+      <vBody type="r" wit="CAO-D CAO-L Ely Wor Hyd Pet Alb2 Cdm Bat">
+         <app>
+            <rdg wit="CAO-D CAO-L Ely Wor Hyd Cdm Bat"> Transtulisti illos</rdg>
+            <rdg wit="Pet"> Transtulisti illis</rdg>
+            <rdg wit="Alb2"> Transtulisti eos</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D Ely Wor Hyd Pet Alb2 Cdm Bat"> per mare rubrum</rdg>
+            <rdg wit="CAO-L"> mare rubrum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D Ely Wor Hyd Pet"> et transvexisti per aquam nimiam</rdg>
+            <rdg wit="Alb2 Cdm Bat"> et transvexisti eos per aquam nimiam</rdg>
+            <rdg wit="CAO-L"> et transduxisti per aquam nimiam</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely">Deduxisti</rep>
+      <rep type="r" wit="CAO-C Wor Hyd Pet Alb2 Cdm">In manu</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

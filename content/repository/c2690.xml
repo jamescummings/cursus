@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2689b" nextid="c2690b" id="c2690">
+   <header>
+      <usage ms="Cht" code="07011000">[24v] prime</usage>
+      <usage ms="Evm" code="07011000">[108r] prime</usage>
+      <usage ms="Glo" code="07011000">[59r] prime</usage>
+      <usage ms="Wcb" code="07011000">[94v] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G Cht Evm Wcb">
+      <app>
+         <rdg wit="CAO-G Cht Evm Wcb Glo"> Et accedens temptator dixit ei</rdg>
+         <rdg wit="CAO-C"> Et accedens temptator </rdg>
+      </app> si filius dei es dic ut lapides isti panes fiant</aBody>
+</ant>

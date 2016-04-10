@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7834" nextid="c7836" id="c7835">
+   <rBody wit="CAO-C CAO-M CAO-V CAO-R CAO-D CAO-L"> Venite post me
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-R CAO-L"> faciam vos piscatores hominum</rdg>
+         <rdg wit="CAO-D"> faciam vos fieri piscatores hominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-R CAO-D CAO-L"> at illi</rdg>
+         <rdg wit="CAO-V"> at illis</rdg>
+      </app> relictis retibus et navi secuti sunt dominum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-V CAO-R CAO-D CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-D CAO-L"> Dum perambularet dominus supra mare</rdg>
+            <rdg wit="CAO-M"> Dum perambularet dominus iuxta mare</rdg>
+            <rdg wit="CAO-V CAO-R"> Dum deambularet dominus iuxta mare</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-L"> secus littus Galilaeae</rdg>
+            <rdg wit="CAO-R"> Galilaeae</rdg>
+         </app> vidit duos fratres Petrum et Andream et vocavit eos</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-R CAO-D CAO-L"> At illi</rep>
+      <rep type="r" wit="CAO-V"> At <sic resp="Hesbert">illi</sic>
+      </rep>
+   </verses>
+</res>

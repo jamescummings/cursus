@@ -1,0 +1,3087 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Romans">
+<body>
+  <rubric type="bible-incipit" id="B.Romans.incipit.001">
+    <reference>
+      <bookName>Romans</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT EPISTULA AD ROMANOS</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Romans.001.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus servus Christi Iesu vocatus apostolus segregatus in evangelium Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>quod ante promiserat per prophetas suos in scripturis sanctis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>de Filio suo qui factus est ex semine David secundum carnem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>qui praedestinatus est Filius Dei in virtute secundum Spiritum sanctificationis ex resurrectione mortuorum Iesu Christi Domini nostri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>per quem accepimus gratiam et apostolatum ad oboediendum fidei in omnibus gentibus pro nomine eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>in quibus estis et vos vocati Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>omnibus qui sunt Romae dilectis Dei vocatis sanctis gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>primum quidem gratias ago Deo meo per Iesum Christum pro omnibus vobis quia fides vestra adnuntiatur in universo mundo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>testis enim mihi est Deus cui servio in spiritu meo in evangelio Filii eius quod sine intermissione memoriam vestri facio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>semper in orationibus meis obsecrans si quo modo tandem aliquando prosperum iter habeam in voluntate Dei veniendi ad vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>desidero enim videre vos ut aliquid inpertiar gratiae vobis spiritalis ad confirmandos vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>id est simul consolari in vobis per eam quae invicem est fidem vestram atque meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>nolo autem vos ignorare fratres quia saepe proposui venire ad vos et prohibitus sum usque adhuc ut aliquem fructum habeam et in vobis sicut et in ceteris gentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>Graecis ac barbaris sapientibus et insipientibus debitor sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>ita quod in me promptum est et vobis qui Romae estis evangelizare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>non enim erubesco evangelium virtus enim Dei est in salutem omni credenti Iudaeo primum et Graeco</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>iustitia enim Dei in eo revelatur ex fide in fidem sicut scriptum est iustus autem ex fide vivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>revelatur enim ira Dei de caelo super omnem impietatem et iniustitiam hominum eorum qui veritatem in iniustitiam detinent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>quia quod notum est Dei manifestum est in illis Deus enim illis manifestavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>invisibilia enim ipsius a creatura mundi per ea quae facta sunt intellecta conspiciuntur sempiterna quoque eius virtus et divinitas ut sint inexcusabiles</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>quia cum cognovissent Deum non sicut Deum glorificaverunt aut gratias egerunt sed evanuerunt in cogitationibus suis et obscuratum est insipiens cor eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>dicentes enim se esse sapientes stulti facti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>et mutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis et volucrum et quadrupedum et serpentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>propter quod tradidit illos Deus in desideria cordis eorum in inmunditiam ut contumeliis adficiant corpora sua in semet ipsis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>qui commutaverunt veritatem Dei in mendacio et coluerunt et servierunt creaturae potius quam creatori qui est benedictus in saecula amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.026">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:26</verseNum>
+      </reference>
+      <l>propterea tradidit illos Deus in passiones ignominiae nam feminae eorum inmutaverunt naturalem usum in eum usum qui est contra naturam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.027">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:27</verseNum>
+      </reference>
+      <l>similiter autem et masculi relicto naturali usu feminae exarserunt in desideriis suis in invicem masculi in masculos turpitudinem operantes et mercedem quam oportuit erroris sui in semet ipsis recipientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.028">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:28</verseNum>
+      </reference>
+      <l>et sicut non probaverunt Deum habere in notitia tradidit eos Deus in reprobum sensum ut faciant quae non conveniunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.029">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:29</verseNum>
+      </reference>
+      <l>repletos omni iniquitate malitia fornicatione avaritia nequitia plenos invidia homicidio contentione dolo malignitate susurrones</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.030">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:30</verseNum>
+      </reference>
+      <l>detractores Deo odibiles contumeliosos superbos elatos inventores malorum parentibus non oboedientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.031">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:31</verseNum>
+      </reference>
+      <l>insipientes inconpositos sine affectione absque foedere sine misericordia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.001.032">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>1:32</verseNum>
+      </reference>
+      <l>qui cum iustitiam Dei cognovissent non intellexerunt quoniam qui talia agunt digni sunt morte non solum ea faciunt sed et consentiunt facientibus</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Romans.002.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>propter quod inexcusabilis es o homo omnis qui iudicas in quo enim iudicas alterum te ipsum condemnas eadem enim agis qui iudicas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>scimus enim quoniam iudicium Dei est secundum veritatem in eos qui talia agunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>existimas autem hoc o homo qui iudicas eos qui talia agunt et facis ea quia tu effugies iudicium Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>an divitias bonitatis eius et patientiae et longanimitatis contemnis ignorans quoniam benignitas Dei ad paenitentiam te adducit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>secundum duritiam autem tuam et inpaenitens cor thesaurizas tibi iram in die irae et revelationis iusti iudicii Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>qui reddet unicuique secundum opera eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>his quidem qui secundum patientiam boni operis gloriam et honorem et incorruptionem quaerentibus vitam aeternam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>his autem qui ex contentione et qui non adquiescunt veritati credunt autem iniquitati ira et indignatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>tribulatio et angustia in omnem animam hominis operantis malum Iudaei primum et Graeci</l>
+
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>gloria autem et honor et pax omni operanti bonum Iudaeo primum et Graeco</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>non est enim personarum acceptio apud Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>quicumque enim sine lege peccaverunt sine lege et peribunt et quicumque in lege peccaverunt per legem iudicabuntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>non enim auditores legis iusti sunt apud Deum sed factores legis iustificabuntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>cum enim gentes quae legem non habent naturaliter quae legis sunt faciunt eiusmodi legem non habentes ipsi sibi sunt lex</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>qui ostendunt opus legis scriptum in cordibus suis testimonium reddente illis conscientia ipsorum et inter se invicem cogitationum accusantium aut etiam defendentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>in die cum iudicabit Deus occulta hominum secundum evangelium meum per Iesum Christum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>si autem tu Iudaeus cognominaris et requiescis in lege et gloriaris in Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>et nosti voluntatem et probas utiliora instructus per legem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>confidis te ipsum ducem esse caecorum lumen eorum qui in tenebris sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>eruditorem insipientium magistrum infantium habentem formam scientiae et veritatis in lege</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>qui ergo alium doces te ipsum non doces qui praedicas non furandum furaris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>qui dicis non moechandum moecharis qui abominaris idola sacrilegium facis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>qui in lege gloriaris per praevaricationem legis Deum inhonoras</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>nomen enim Dei per vos blasphematur inter gentes sicut scriptum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>circumcisio quidem prodest si legem observes si autem praevaricator legis sis circumcisio tua praeputium facta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.026">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:26</verseNum>
+      </reference>
+      <l>si igitur praeputium iustitias legis custodiat nonne praeputium illius in circumcisionem reputabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.027">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:27</verseNum>
+      </reference>
+      <l>et iudicabit quod ex natura est praeputium legem consummans te qui per litteram et circumcisionem praevaricator legis es</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.028">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:28</verseNum>
+      </reference>
+      <l>non enim qui in manifesto Iudaeus est neque quae in manifesto in carne circumcisio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.002.029">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>2:29</verseNum>
+      </reference>
+      <l>sed qui in abscondito Iudaeus et circumcisio cordis in spiritu non littera cuius laus non ex hominibus sed ex Deo est</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Romans.003.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>quid ergo amplius est Iudaeo aut quae utilitas circumcisionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>multum per omnem modum primum quidem quia credita sunt illis eloquia Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>quid enim si quidam illorum non crediderunt numquid incredulitas illorum fidem Dei evacuabit absit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>est autem Deus verax omnis autem homo mendax sicut scriptum est ut iustificeris in sermonibus tuis et vincas cum iudicaris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>si autem iniquitas nostra iustitiam Dei commendat quid dicemus numquid iniquus Deus qui infert iram secundum hominem dico</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>absit alioquin quomodo iudicabit Deus mundum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>si enim veritas Dei in meo mendacio abundavit in gloriam ipsius quid adhuc et ego tamquam peccator iudicor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>et non sicut blasphemamur et sicut aiunt nos quidam dicere faciamus mala ut veniant bona quorum damnatio iusta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>quid igitur praecellimus eos nequaquam causati enim sumus Iudaeos et Graecos omnes sub peccato esse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>sicut scriptum est quia non est iustus quisquam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>non est intellegens non est requirens Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>omnes declinaverunt simul inutiles facti sunt non est qui faciat bonum non est usque ad unum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>sepulchrum patens est guttur eorum linguis suis dolose agebant venenum aspidum sub labiis eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>quorum os maledictione et amaritudine plenum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>veloces pedes eorum ad effundendum sanguinem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>contritio et infelicitas in viis eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>et viam pacis non cognoverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>non est timor Dei ante oculos eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>scimus autem quoniam quaecumque lex loquitur his qui in lege sunt loquitur ut omne os obstruatur et subditus fiat omnis mundus Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>quia ex operibus legis non iustificabitur omnis caro coram illo per legem enim cognitio peccati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>nunc autem sine lege iustitia Dei manifestata est testificata a lege et prophetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:22</verseNum>
+      </reference>
+      <l>iustitia autem Dei per fidem Iesu Christi super omnes qui credunt non enim est distinctio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:23</verseNum>
+      </reference>
+      <l>omnes enim peccaverunt et egent gloriam Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:24</verseNum>
+      </reference>
+      <l>iustificati gratis per gratiam ipsius per redemptionem quae est in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:25</verseNum>
+      </reference>
+      <l>quem proposuit Deus propitiationem per fidem in sanguine ipsius ad ostensionem iustitiae suae propter remissionem praecedentium delictorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.026">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:26</verseNum>
+      </reference>
+      <l>in sustentatione Dei ad ostensionem iustitiae eius in hoc tempore ut sit ipse iustus et iustificans eum qui ex fide est Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.027">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:27</verseNum>
+      </reference>
+      <l>ubi est ergo gloriatio exclusa est per quam legem factorum non sed per legem fidei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.028">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:28</verseNum>
+      </reference>
+      <l>arbitramur enim iustificari hominem per fidem sine operibus legis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.029">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:29</verseNum>
+      </reference>
+      <l>an Iudaeorum Deus tantum nonne et gentium immo et gentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.030">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:30</verseNum>
+      </reference>
+      <l>quoniam quidem unus Deus qui iustificabit circumcisionem ex fide et praeputium per fidem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.003.031">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>3:31</verseNum>
+      </reference>
+      <l>legem ergo destruimus per fidem absit sed legem statuimus</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Romans.004.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>si enim Abraham ex operibus iustificatus est habet gloriam sed non apud Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>quid enim scriptura dicit credidit Abraham Deo et reputatum est illi ad iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>ei autem qui operatur merces non inputatur secundum gratiam sed secundum debitum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>ei vero qui non operatur credenti autem in eum qui iustificat impium reputatur fides eius ad iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>sicut et David dicit beatitudinem hominis cui Deus accepto fert iustitiam sine operibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>beati quorum remissae sunt iniquitates et quorum tecta sunt peccata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>beatus vir cui non inputabit Dominus peccatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>beatitudo ergo haec in circumcisione an etiam in praeputio dicimus enim quia reputata est Abrahae fides ad iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>quomodo ergo reputata est in circumcisione an in praeputio non in circumcisione sed in praeputio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>et signum accepit circumcisionis signaculum iustitiae fidei quae est in praeputio ut sit pater omnium credentium per praeputium ut reputetur et illis ad iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>et sit pater circumcisionis non his tantum qui sunt ex circumcisione sed et his qui sectantur vestigia quae est in praeputio fidei patris nostri Abrahae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>non enim per legem promissio Abrahae aut semini eius ut heres esset mundi sed per iustitiam fidei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>si enim qui ex lege heredes sunt exinanita est fides abolita est promissio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>lex enim iram operatur ubi enim non est lex nec praevaricatio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>ideo ex fide ut secundum gratiam ut firma sit promissio omni semini non ei qui ex lege est solum sed et ei qui ex fide est Abrahae qui est pater omnium nostrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>sicut scriptum est quia patrem multarum gentium posui te ante Deum cui credidit qui vivificat mortuos et vocat quae non sunt tamquam ea quae sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>qui contra spem in spem credidit ut fieret pater multarum gentium secundum quod dictum est sic erit semen tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>et non infirmatus fide consideravit corpus suum emortuum cum fere centum annorum esset et emortuam vulvam Sarrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>in repromissione etiam Dei non haesitavit diffidentia sed confortatus est fide dans gloriam Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:21</verseNum>
+      </reference>
+      <l>plenissime sciens quia quaecumque promisit potens est et facere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:22</verseNum>
+      </reference>
+      <l>ideo et reputatum est illi ad iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:23</verseNum>
+      </reference>
+      <l>non est autem scriptum tantum propter ipsum quia reputatum est illi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:24</verseNum>
+      </reference>
+      <l>sed et propter nos quibus reputabitur credentibus in eum qui suscitavit Iesum Dominum nostrum a mortuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.004.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>4:25</verseNum>
+      </reference>
+      <l>qui traditus est propter delicta nostra et resurrexit propter iustificationem nostram</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Romans.005.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>iustificati igitur ex fide pacem habeamus ad Deum per Dominum nostrum Iesum Christum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>per quem et accessum habemus fide in gratiam istam in qua stamus et gloriamur in spe gloriae filiorum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>non solum autem sed et gloriamur in tribulationibus scientes quod tribulatio patientiam operatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>patientia autem probationem probatio vero spem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>spes autem non confundit quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>ut quid enim Christus cum adhuc infirmi essemus secundum tempus pro impiis mortuus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>vix enim pro iusto quis moritur nam pro bono forsitan quis et audeat mori</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>commendat autem suam caritatem Deus in nos quoniam cum adhuc peccatores essemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>Christus pro nobis mortuus est multo igitur magis iustificati nunc in sanguine ipsius salvi erimus ab ira per ipsum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>si enim cum inimici essemus reconciliati sumus Deo per mortem Filii eius multo magis reconciliati salvi erimus in vita ipsius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>non solum autem sed et gloriamur in Deo per Dominum nostrum Iesum Christum per quem nunc reconciliationem accepimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>propterea sicut per unum hominem in hunc mundum peccatum intravit et per peccatum mors et ita in omnes homines mors pertransiit in quo omnes peccaverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>usque ad legem enim peccatum erat in mundo peccatum autem non inputatur cum lex non est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>sed regnavit mors ab Adam usque ad Mosen etiam in eos qui non peccaverunt in similitudinem praevaricationis Adae qui est forma futuri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>sed non sicut delictum ita et donum si enim unius delicto multi mortui sunt multo magis gratia Dei et donum in gratiam unius hominis Iesu Christi in plures abundavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>et non sicut per unum peccantem ita et donum nam iudicium ex uno in condemnationem gratia autem ex multis delictis in iustificationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>si enim in unius delicto mors regnavit per unum multo magis abundantiam gratiae et donationis et iustitiae accipientes in vita regnabunt per unum Iesum Christum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>igitur sicut per unius delictum in omnes homines in condemnationem sic et per unius iustitiam in omnes homines in iustificationem vitae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>sicut enim per inoboedientiam unius hominis peccatores constituti sunt multi ita et per unius oboeditionem iusti constituentur multi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>lex autem subintravit ut abundaret delictum ubi autem abundavit delictum superabundavit gratia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.005.021">
+      <reference>
+
+        <bookName>Romans</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>ut sicut regnavit peccatum in morte ita et gratia regnet per iustitiam in vitam aeternam per Iesum Christum Dominum nostrum</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Romans.006.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>quid ergo dicemus permanebimus in peccato ut gratia abundet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>absit qui enim mortui sumus peccato quomodo adhuc vivemus in illo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>an ignoratis quia quicumque baptizati sumus in Christo Iesu in morte ipsius baptizati sumus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>consepulti enim sumus cum illo per baptismum in mortem ut quomodo surrexit Christus a mortuis per gloriam Patris ita et nos in novitate vitae ambulemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>si enim conplantati facti sumus similitudini mortis eius simul et resurrectionis erimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>hoc scientes quia vetus homo noster simul crucifixus est ut destruatur corpus peccati ut ultra non serviamus peccato</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>qui enim mortuus est iustificatus est a peccato</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>si autem mortui sumus cum Christo credimus quia simul etiam vivemus cum Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>scientes quod Christus surgens ex mortuis iam non moritur mors illi ultra non dominabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>quod enim mortuus est peccato mortuus est semel quod autem vivit vivit Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>ita et vos existimate vos mortuos quidem esse peccato viventes autem Deo in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>non ergo regnet peccatum in vestro mortali corpore ut oboediatis concupiscentiis eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>sed neque exhibeatis membra vestra arma iniquitatis peccato sed exhibete vos Deo tamquam ex mortuis viventes et membra vestra arma iustitiae Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>peccatum enim vobis non dominabitur non enim sub lege estis sed sub gratia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>quid ergo peccavimus quoniam non sumus sub lege sed sub gratia absit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>nescitis quoniam cui exhibetis vos servos ad oboediendum servi estis eius cui oboeditis sive peccati sive oboeditionis ad iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>gratias autem Deo quod fuistis servi peccati oboedistis autem ex corde in eam formam doctrinae in qua traditi estis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>liberati autem a peccato servi facti estis iustitiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>humanum dico propter infirmitatem carnis vestrae sicut enim exhibuistis membra vestra servire inmunditiae et iniquitati ad iniquitatem ita nunc exhibete membra vestra servire iustitiae in sanctificationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>cum enim servi essetis peccati liberi fuistis iustitiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>quem ergo fructum habuistis tunc in quibus nunc erubescitis nam finis illorum mors est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:22</verseNum>
+      </reference>
+      <l>nunc vero liberati a peccato servi autem facti Deo habetis fructum vestrum in sanctificationem finem vero vitam aeternam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.006.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>6:23</verseNum>
+      </reference>
+      <l>stipendia enim peccati mors gratia autem Dei vita aeterna in Christo Iesu Domino nostro</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Romans.007.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>an ignoratis fratres scientibus enim legem loquor quia lex in homine dominatur quanto tempore vivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>nam quae sub viro est mulier vivente viro alligata est legi si autem mortuus fuerit vir soluta est a lege viri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>igitur vivente viro vocabitur adultera si fuerit cum alio viro si autem mortuus fuerit vir eius liberata est a lege ut non sit adultera si fuerit cum alio viro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>itaque fratres mei et vos mortificati estis legi per corpus Christi ut sitis alterius qui ex mortuis resurrexit ut fructificaremus Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>cum enim essemus in carne passiones peccatorum quae per legem erant operabantur in membris nostris ut fructificarent morti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>nunc autem soluti sumus a lege morientes in quo detinebamur ita ut serviamus in novitate spiritus et non in vetustate litterae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>quid ergo dicemus lex peccatum est absit sed peccatum non cognovi nisi per legem nam concupiscentiam nesciebam nisi lex diceret non concupisces</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>occasione autem accepta peccatum per mandatum operatum est in me omnem concupiscentiam sine lege enim peccatum mortuum erat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>ego autem vivebam sine lege aliquando sed cum venisset mandatum peccatum revixit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>ego autem mortuus sum et inventum est mihi mandatum quod erat ad vitam hoc esse ad mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>nam peccatum occasione accepta per mandatum seduxit me et per illud occidit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>itaque lex quidem sancta et mandatum sanctum et iustum et bonum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>quod ergo bonum est mihi factum est mors absit sed peccatum ut appareat peccatum per bonum mihi operatum est mortem ut fiat supra modum peccans peccatum per mandatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>scimus enim quod lex spiritalis est ego autem carnalis sum venundatus sub peccato</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>quod enim operor non intellego non enim quod volo hoc ago sed quod odi illud facio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>si autem quod nolo illud facio consentio legi quoniam bona</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>nunc autem iam non ego operor illud sed quod habitat in me peccatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:18</verseNum>
+      </reference>
+      <l>scio enim quia non habitat in me hoc est in carne mea bonum nam velle adiacet mihi perficere autem bonum non invenio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:19</verseNum>
+      </reference>
+      <l>non enim quod volo bonum hoc facio sed quod nolo malum hoc ago</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:20</verseNum>
+      </reference>
+      <l>si autem quod nolo illud facio non ego operor illud sed quod habitat in me peccatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:21</verseNum>
+      </reference>
+      <l>invenio igitur legem volenti mihi facere bonum quoniam mihi malum adiacet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:22</verseNum>
+      </reference>
+      <l>condelector enim legi Dei secundum interiorem hominem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:23</verseNum>
+      </reference>
+      <l>video autem aliam legem in membris meis repugnantem legi mentis meae et captivantem me in lege peccati quae est in membris meis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:24</verseNum>
+      </reference>
+      <l>infelix ego homo quis me liberabit de corpore mortis huius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.007.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>7:25</verseNum>
+      </reference>
+      <l>gratia Dei per Iesum Christum Dominum nostrum igitur ego ipse mente servio legi Dei carne autem legi peccati</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Romans.008.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>nihil ergo nunc damnationis est his qui sunt in Christo Iesu qui non secundum carnem ambulant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>lex enim Spiritus vitae in Christo Iesu liberavit me a lege peccati et mortis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>nam quod inpossibile erat legis in quo infirmabatur per carnem Deus Filium suum mittens in similitudinem carnis peccati et de peccato damnavit peccatum in carne</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>ut iustificatio legis impleretur in nobis qui non secundum carnem ambulamus sed secundum Spiritum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>qui enim secundum carnem sunt quae carnis sunt sapiunt qui vero secundum Spiritum quae sunt Spiritus sentiunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>nam prudentia carnis mors prudentia autem Spiritus vita et pax</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>quoniam sapientia carnis inimicitia est in Deum legi enim Dei non subicitur nec enim potest</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>qui autem in carne sunt Deo placere non possunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>vos autem in carne non estis sed in Spiritu si tamen Spiritus Dei habitat in vobis si quis autem Spiritum Christi non habet hic non est eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>si autem Christus in vobis est corpus quidem mortuum est propter peccatum spiritus vero vita propter iustificationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>quod si Spiritus eius qui suscitavit Iesum a mortuis habitat in vobis qui suscitavit Iesum Christum a mortuis vivificabit et mortalia corpora vestra propter inhabitantem Spiritum eius in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>ergo fratres debitores sumus non carni ut secundum carnem vivamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>si enim secundum carnem vixeritis moriemini si autem Spiritu facta carnis mortificatis vivetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>quicumque enim Spiritu Dei aguntur hii filii sunt Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>non enim accepistis spiritum servitutis iterum in timore sed accepistis Spiritum adoptionis filiorum in quo clamamus Abba Pater</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>ipse Spiritus testimonium reddit spiritui nostro quod sumus filii Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>si autem filii et heredes heredes quidem Dei coheredes autem Christi si tamen conpatimur ut et conglorificemur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:18</verseNum>
+      </reference>
+      <l>existimo enim quod non sunt condignae passiones huius temporis ad futuram gloriam quae revelabitur in nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:19</verseNum>
+      </reference>
+      <l>nam expectatio creaturae revelationem filiorum Dei expectat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:20</verseNum>
+      </reference>
+      <l>vanitati enim creatura subiecta est non volens sed propter eum qui subiecit in spem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:21</verseNum>
+      </reference>
+      <l>quia et ipsa creatura liberabitur a servitute corruptionis in libertatem gloriae filiorum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:22</verseNum>
+      </reference>
+      <l>scimus enim quod omnis creatura ingemescit et parturit usque adhuc</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:23</verseNum>
+      </reference>
+      <l>non solum autem illa sed et nos ipsi primitias Spiritus habentes et ipsi intra nos gemimus adoptionem filiorum expectantes redemptionem corporis nostri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:24</verseNum>
+      </reference>
+      <l>spe enim salvi facti sumus spes autem quae videtur non est spes nam quod videt quis quid sperat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:25</verseNum>
+      </reference>
+      <l>si autem quod non videmus speramus per patientiam expectamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.026">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:26</verseNum>
+      </reference>
+      <l>similiter autem et Spiritus adiuvat infirmitatem nostram nam quid oremus sicut oportet nescimus sed ipse Spiritus postulat pro nobis gemitibus inenarrabilibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.027">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:27</verseNum>
+      </reference>
+      <l>qui autem scrutatur corda scit quid desideret Spiritus quia secundum Deum postulat pro sanctis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.028">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:28</verseNum>
+      </reference>
+      <l>scimus autem quoniam diligentibus Deum omnia cooperantur in bonum his qui secundum propositum vocati sunt sancti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.029">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:29</verseNum>
+      </reference>
+      <l>nam quos praescivit et praedestinavit conformes fieri imaginis Filii eius ut sit ipse primogenitus in multis fratribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.030">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:30</verseNum>
+      </reference>
+      <l>quos autem praedestinavit hos et vocavit et quos vocavit hos et iustificavit quos autem iustificavit illos et glorificavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.031">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:31</verseNum>
+      </reference>
+      <l>quid ergo dicemus ad haec si Deus pro nobis quis contra nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.032">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:32</verseNum>
+      </reference>
+      <l>qui etiam Filio suo non pepercit sed pro nobis omnibus tradidit illum quomodo non etiam cum illo omnia nobis donabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.033">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:33</verseNum>
+      </reference>
+      <l>quis accusabit adversus electos Dei Deus qui iustificat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.034">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:34</verseNum>
+      </reference>
+      <l>quis est qui condemnet Christus Iesus qui mortuus est immo qui resurrexit qui et est ad dexteram Dei qui etiam interpellat pro nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.035">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:35</verseNum>
+      </reference>
+      <l>quis nos separabit a caritate Christi tribulatio an angustia an persecutio an fames an nuditas an periculum an gladius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.036">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:36</verseNum>
+      </reference>
+      <l>sicut scriptum est quia propter te mortificamur tota die aestimati sumus ut oves occisionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.037">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:37</verseNum>
+      </reference>
+      <l>sed in his omnibus superamus propter eum qui dilexit nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.038">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:38</verseNum>
+      </reference>
+      <l>certus sum enim quia neque mors neque vita neque angeli neque principatus neque instantia neque futura neque fortitudines</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.008.039">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>8:39</verseNum>
+      </reference>
+      <l>neque altitudo neque profundum neque creatura alia poterit nos separare a caritate Dei quae est in Christo Iesu Domino nostro</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Romans.009.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>veritatem dico in Christo non mentior testimonium mihi perhibente conscientia mea in Spiritu Sancto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>quoniam tristitia est mihi magna et continuus dolor cordi meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>optabam enim ipse ego anathema esse a Christo pro fratribus meis qui sunt cognati mei secundum carnem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>qui sunt Israhelitae quorum adoptio est filiorum et gloria et testamenta et legislatio et obsequium et promissa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>quorum patres et ex quibus Christus secundum carnem qui est super omnia Deus benedictus in saecula amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>non autem quod exciderit verbum Dei non enim omnes qui ex Israhel hii sunt Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>neque quia semen sunt Abrahae omnes filii sed in Isaac vocabitur tibi semen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>id est non qui filii carnis hii filii Dei sed qui filii sunt promissionis aestimantur in semine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>promissionis enim verbum hoc est secundum hoc tempus veniam et erit Sarrae filius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>non solum autem sed et Rebecca ex uno concubitum habens Isaac patre nostro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>cum enim nondum nati fuissent aut aliquid egissent bonum aut malum ut secundum electionem propositum Dei maneret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>non ex operibus sed ex vocante dictum est ei quia maior serviet minori</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>sicut scriptum est Iacob dilexi Esau autem odio habui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>quid ergo dicemus numquid iniquitas apud Deum absit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>Mosi enim dicit miserebor cuius misereor et misericordiam praestabo cuius miserebor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>igitur non volentis neque currentis sed miserentis Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>dicit enim scriptura Pharaoni quia in hoc ipsum excitavi te ut ostendam in te virtutem meam et ut adnuntietur nomen meum in universa terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:18</verseNum>
+      </reference>
+      <l>ergo cuius vult miseretur et quem vult indurat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:19</verseNum>
+      </reference>
+      <l>dicis itaque mihi quid adhuc queritur voluntati enim eius quis resistit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:20</verseNum>
+      </reference>
+      <l>o homo tu quis es qui respondeas Deo numquid dicit figmentum ei qui se finxit quid me fecisti sic</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:21</verseNum>
+      </reference>
+      <l>an non habet potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem aliud vero in contumeliam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:22</verseNum>
+      </reference>
+      <l>quod si volens Deus ostendere iram et notam facere potentiam suam sustinuit in multa patientia vasa irae aptata in interitum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:23</verseNum>
+      </reference>
+      <l>ut ostenderet divitias gloriae suae in vasa misericordiae quae praeparavit in gloriam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:24</verseNum>
+      </reference>
+      <l>quos et vocavit nos non solum ex Iudaeis sed etiam ex gentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:25</verseNum>
+      </reference>
+      <l>sicut in Osee dicit vocabo non plebem meam plebem meam et non misericordiam consecutam misericordiam consecutam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.026">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:26</verseNum>
+      </reference>
+      <l>et erit in loco ubi dictum est eis non plebs mea vos ibi vocabuntur filii Dei vivi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.027">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:27</verseNum>
+      </reference>
+      <l>Esaias autem clamat pro Israhel si fuerit numerus filiorum Israhel tamquam harena maris reliquiae salvae fient</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.028">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:28</verseNum>
+      </reference>
+      <l>verbum enim consummans et brevians in aequitate quia verbum breviatum faciet Dominus super terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.029">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:29</verseNum>
+      </reference>
+      <l>et sicut praedixit Esaias nisi Dominus Sabaoth reliquisset nobis semen sicut Sodoma facti essemus et sicut Gomorra similes fuissemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.030">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:30</verseNum>
+      </reference>
+      <l>quid ergo dicemus quod gentes quae non sectabantur iustitiam adprehenderunt iustitiam iustitiam autem quae ex fide est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.031">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:31</verseNum>
+      </reference>
+      <l>Israhel vero sectans legem iustitiae in legem iustitiae non pervenit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.032">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:32</verseNum>
+      </reference>
+      <l>quare quia non ex fide sed quasi ex operibus offenderunt in lapidem offensionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.009.033">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>9:33</verseNum>
+      </reference>
+      <l>sicut scriptum est ecce pono in Sion lapidem offensionis et petram scandali et omnis qui credit in eum non confundetur</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.Romans.010.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>fratres voluntas quidem cordis mei et obsecratio ad Deum fit pro illis in salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>testimonium enim perhibeo illis quod aemulationem Dei habent sed non secundum scientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>ignorantes enim Dei iustitiam et suam quaerentes statuere iustitiae Dei non sunt subiecti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>finis enim legis Christus ad iustitiam omni credenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>Moses enim scripsit quoniam iustitiam quae ex lege est qui fecerit homo vivet in ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>quae autem ex fide est iustitia sic dicit ne dixeris in corde tuo quis ascendit in caelum id est Christum deducere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>aut quis descendit in abyssum hoc est Christum ex mortuis revocare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>sed quid dicit prope est verbum in ore tuo et in corde tuo hoc est verbum fidei quod praedicamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>quia si confitearis in ore tuo Dominum Iesum et in corde tuo credideris quod Deus illum excitavit ex mortuis salvus eris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>corde enim creditur ad iustitiam ore autem confessio fit in salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>dicit enim scriptura omnis qui credit in illum non confundetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>non enim est distinctio Iudaei et Graeci nam idem Dominus omnium dives in omnes qui invocant illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>omnis enim quicumque invocaverit nomen Domini salvus erit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:14</verseNum>
+      </reference>
+      <l>quomodo ergo invocabunt in quem non crediderunt aut quomodo credent ei quem non audierunt quomodo autem audient sine praedicante</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:15</verseNum>
+      </reference>
+      <l>quomodo vero praedicabunt nisi mittantur sicut scriptum est quam speciosi pedes evangelizantium pacem evangelizantium bona</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:16</verseNum>
+      </reference>
+      <l>sed non omnes oboedierunt evangelio Esaias enim dicit Domine quis credidit auditui nostro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:17</verseNum>
+      </reference>
+      <l>ergo fides ex auditu auditus autem per verbum Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:18</verseNum>
+      </reference>
+      <l>sed dico numquid non audierunt et quidem in omnem terram exiit sonus eorum et in fines orbis terrae verba eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:19</verseNum>
+      </reference>
+      <l>sed dico numquid Israhel non cognovit primus Moses dicit ego ad aemulationem vos adducam in non gentem in gentem insipientem in iram vos mittam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:20</verseNum>
+      </reference>
+      <l>Esaias autem audet et dicit inventus sum non quaerentibus me palam apparui his qui me non interrogabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.010.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>10:21</verseNum>
+      </reference>
+      <l>ad Israhel autem dicit tota die expandi manus meas ad populum non credentem et contradicentem</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.Romans.011.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>dico ergo numquid reppulit Deus populum suum absit nam et ego Israhelita sum ex semine Abraham tribu Beniamin</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>non reppulit Deus plebem suam quam praesciit an nescitis in Helia quid dicit scriptura quemadmodum interpellat Deum adversus Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>Domine prophetas tuos occiderunt altaria tua suffoderunt et ego relictus sum solus et quaerunt animam meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>sed quid dicit illi responsum divinum reliqui mihi septem milia virorum qui non curvaverunt genu Baal</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>sic ergo et in hoc tempore reliquiae secundum electionem gratiae factae sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>si autem gratia non ex operibus alioquin gratia iam non est gratia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>quid ergo quod quaerebat Israhel hoc non est consecutus electio autem consecuta est ceteri vero excaecati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>sicut scriptum est dedit illis Deus spiritum conpunctionis oculos ut non videant et aures ut non audiant usque in hodiernum diem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>et David dicit fiat mensa eorum in laqueum et in captionem et in scandalum et in retributionem illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>obscurentur oculi eorum ne videant et dorsum illorum semper incurva</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>dico ergo numquid sic offenderunt ut caderent absit sed illorum delicto salus gentibus ut illos aemulentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>quod si delictum illorum divitiae sunt mundi et deminutio eorum divitiae gentium quanto magis plenitudo eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:13</verseNum>
+      </reference>
+      <l>vobis enim dico gentibus quamdiu quidem ego sum gentium apostolus ministerium meum honorificabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:14</verseNum>
+      </reference>
+      <l>si quo modo ad aemulandum provocem carnem meam et salvos faciam aliquos ex illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:15</verseNum>
+      </reference>
+      <l>si enim amissio eorum reconciliatio est mundi quae adsumptio nisi vita ex mortuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:16</verseNum>
+      </reference>
+      <l>quod si delibatio sancta est et massa et si radix sancta et rami</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:17</verseNum>
+      </reference>
+      <l>quod si aliqui ex ramis fracti sunt tu autem cum oleaster esses insertus es in illis et socius radicis et pinguidinis olivae factus es</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:18</verseNum>
+      </reference>
+      <l>noli gloriari adversus ramos quod si gloriaris non tu radicem portas sed radix te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:19</verseNum>
+      </reference>
+      <l>dices ergo fracti sunt rami ut ego inserar</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:20</verseNum>
+      </reference>
+      <l>bene propter incredulitatem fracti sunt tu autem fide stas noli altum sapere sed time</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:21</verseNum>
+      </reference>
+      <l>si enim Deus naturalibus ramis non pepercit ne forte nec tibi parcat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:22</verseNum>
+      </reference>
+      <l>vide ergo bonitatem et severitatem Dei in eos quidem qui ceciderunt severitatem in te autem bonitatem Dei si permanseris in bonitate alioquin et tu excideris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:23</verseNum>
+      </reference>
+      <l>sed et illi si non permanserint in incredulitate inserentur potens est enim Deus iterum inserere illos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:24</verseNum>
+      </reference>
+      <l>nam si tu ex naturali excisus es oleastro et contra naturam insertus es in bonam olivam quanto magis hii secundum naturam inserentur suae olivae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:25</verseNum>
+      </reference>
+      <l>nolo enim vos ignorare fratres mysterium hoc ut non sitis vobis ipsis sapientes quia caecitas ex parte contigit in Israhel donec plenitudo gentium intraret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.026">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:26</verseNum>
+      </reference>
+      <l>et sic omnis Israhel salvus fieret sicut scriptum est veniet ex Sion qui eripiat avertet impietates ab Iacob</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.027">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:27</verseNum>
+      </reference>
+      <l>et hoc illis a me testamentum cum abstulero peccata eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.028">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:28</verseNum>
+      </reference>
+      <l>secundum evangelium quidem inimici propter vos secundum electionem autem carissimi propter patres</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.029">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:29</verseNum>
+      </reference>
+      <l>sine paenitentia enim sunt dona et vocatio Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.030">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:30</verseNum>
+      </reference>
+      <l>sicut enim aliquando et vos non credidistis Deo nunc autem misericordiam consecuti estis propter illorum incredulitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.031">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:31</verseNum>
+      </reference>
+      <l>ita et isti nunc non crediderunt in vestram misericordiam ut et ipsi misericordiam consequantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.032">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:32</verseNum>
+      </reference>
+      <l>conclusit enim Deus omnia in incredulitatem ut omnium misereatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.033">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:33</verseNum>
+      </reference>
+      <l>o altitudo divitiarum sapientiae et scientiae Dei quam inconprehensibilia sunt iudicia eius et investigabiles viae eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.034">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:34</verseNum>
+      </reference>
+      <l>quis enim cognovit sensum Domini aut quis consiliarius eius fuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.035">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:35</verseNum>
+      </reference>
+      <l>aut quis prior dedit illi et retribuetur ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.011.036">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>11:36</verseNum>
+      </reference>
+      <l>quoniam ex ipso et per ipsum et in ipso omnia ipsi gloria in saecula amen</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.Romans.012.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>obsecro itaque vos fratres per misericordiam Dei ut exhibeatis corpora vestra hostiam viventem sanctam Deo placentem rationabile obsequium vestrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>et nolite conformari huic saeculo sed reformamini in novitate sensus vestri ut probetis quae sit voluntas Dei bona et placens et perfecta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>dico enim per gratiam quae data est mihi omnibus qui sunt inter vos non plus sapere quam oportet sapere sed sapere ad sobrietatem unicuique sicut Deus divisit mensuram fidei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>sicut enim in uno corpore multa membra habemus omnia autem membra non eundem actum habent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>ita multi unum corpus sumus in Christo singuli autem alter alterius membra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>habentes autem donationes secundum gratiam quae data est nobis differentes sive prophetiam secundum rationem fidei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>sive ministerium in ministrando sive qui docet in doctrina</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>qui exhortatur in exhortando qui tribuit in simplicitate qui praeest in sollicitudine qui miseretur in hilaritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>dilectio sine simulatione odientes malum adherentes bono</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>caritatem fraternitatis invicem diligentes honore invicem praevenientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>sollicitudine non pigri spiritu ferventes Domino servientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>spe gaudentes in tribulatione patientes orationi instantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>necessitatibus sanctorum communicantes hospitalitatem sectantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>benedicite persequentibus benedicite et nolite maledicere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:15</verseNum>
+      </reference>
+      <l>gaudere cum gaudentibus flere cum flentibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:16</verseNum>
+      </reference>
+      <l>id ipsum invicem sentientes non alta sapientes sed humilibus consentientes nolite esse prudentes apud vosmet ipsos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:17</verseNum>
+      </reference>
+      <l>nulli malum pro malo reddentes providentes bona non tantum coram Deo sed etiam coram omnibus hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:18</verseNum>
+      </reference>
+      <l>si fieri potest quod ex vobis est cum omnibus hominibus pacem habentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:19</verseNum>
+      </reference>
+      <l>non vosmet ipsos defendentes carissimi sed date locum irae scriptum est enim mihi vindictam ego retribuam dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:20</verseNum>
+      </reference>
+      <l>sed si esurierit inimicus tuus ciba illum si sitit potum da illi hoc enim faciens carbones ignis congeres super caput eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.012.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>12:21</verseNum>
+      </reference>
+      <l>noli vinci a malo sed vince in bono malum</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.Romans.013.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>omnis anima potestatibus sublimioribus subdita sit non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>itaque qui resistit potestati Dei ordinationi resistit qui autem resistunt ipsi sibi damnationem adquirunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>nam principes non sunt timori boni operis sed mali vis autem non timere potestatem bonum fac et habebis laudem ex illa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>Dei enim minister est tibi in bonum si autem male feceris time non enim sine causa gladium portat Dei enim minister est vindex in iram ei qui malum agit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>ideo necessitate subditi estote non solum propter iram sed et propter conscientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>ideo enim et tributa praestatis ministri enim Dei sunt in hoc ipsum servientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>reddite omnibus debita cui tributum tributum cui vectigal vectigal cui timorem timorem cui honorem honorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>nemini quicquam debeatis nisi ut invicem diligatis qui enim diligit proximum legem implevit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>nam non adulterabis non occides non furaberis non concupisces et si quod est aliud mandatum in hoc verbo instauratur diliges proximum tuum tamquam te ipsum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>dilectio proximo malum non operatur plenitudo ergo legis est dilectio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>et hoc scientes tempus quia hora est iam nos de somno surgere nunc enim propior est nostra salus quam cum credidimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>nox praecessit dies autem adpropiavit abiciamus ergo opera tenebrarum et induamur arma lucis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>sicut in die honeste ambulemus non in comesationibus et ebrietatibus non in cubilibus et inpudicitiis non in contentione et aemulatione</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.013.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>sed induite Dominum Iesum Christum et carnis curam ne feceritis in desideriis</l>
+    </verse>
+  </chapter>
+  <chapter num="14">
+    <verse type="bible-verse" id="B.Romans.014.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:1</verseNum>
+      </reference>
+      <l>infirmum autem in fide adsumite non in disceptationibus cogitationum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:2</verseNum>
+      </reference>
+      <l>alius enim credit manducare omnia qui autem infirmus est holus manducat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:3</verseNum>
+      </reference>
+      <l>is qui manducat non manducantem non spernat et qui non manducat manducantem non iudicet Deus enim illum adsumpsit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:4</verseNum>
+      </reference>
+      <l>tu quis es qui iudices alienum servum suo domino stat aut cadit stabit autem potens est enim Deus statuere illum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:5</verseNum>
+      </reference>
+      <l>nam alius iudicat diem plus inter diem alius iudicat omnem diem unusquisque in suo sensu abundet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:6</verseNum>
+      </reference>
+      <l>qui sapit diem Domino sapit et qui manducat Domino manducat gratias enim agit Deo et qui non manducat Domino non manducat et gratias agit Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:7</verseNum>
+      </reference>
+      <l>nemo enim nostrum sibi vivit et nemo sibi moritur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:8</verseNum>
+      </reference>
+      <l>sive enim vivimus Domino vivimus sive morimur Domino morimur sive ergo vivimus sive morimur Domini sumus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:9</verseNum>
+      </reference>
+      <l>in hoc enim Christus et mortuus est et revixit ut et mortuorum et vivorum dominetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:10</verseNum>
+      </reference>
+      <l>tu autem quid iudicas fratrem tuum aut tu quare spernis fratrem tuum omnes enim stabimus ante tribunal Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:11</verseNum>
+      </reference>
+      <l>scriptum est enim vivo ego dicit Dominus quoniam mihi flectet omne genu et omnis lingua confitebitur Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:12</verseNum>
+      </reference>
+      <l>itaque unusquisque nostrum pro se rationem reddet Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:13</verseNum>
+      </reference>
+      <l>non ergo amplius invicem iudicemus sed hoc iudicate magis ne ponatis offendiculum fratri vel scandalum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:14</verseNum>
+      </reference>
+      <l>scio et confido in Domino Iesu quia nihil commune per ipsum nisi ei qui existimat quid commune esse illi commune est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:15</verseNum>
+      </reference>
+      <l>si enim propter cibum frater tuus contristatur iam non secundum caritatem ambulas noli cibo tuo illum perdere pro quo Christus mortuus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:16</verseNum>
+      </reference>
+      <l>non ergo blasphemetur bonum nostrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:17</verseNum>
+      </reference>
+      <l>non est regnum Dei esca et potus sed iustitia et pax et gaudium in Spiritu Sancto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:18</verseNum>
+      </reference>
+      <l>qui enim in hoc servit Christo placet Deo et probatus est hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:19</verseNum>
+      </reference>
+      <l>itaque quae pacis sunt sectemur et quae aedificationis sunt in invicem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:20</verseNum>
+      </reference>
+      <l>noli propter escam destruere opus Dei omnia quidem munda sunt sed malum est homini qui per offendiculum manducat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:21</verseNum>
+      </reference>
+      <l>bonum est non manducare carnem et non bibere vinum neque in quo frater tuus offendit aut scandalizatur aut infirmatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:22</verseNum>
+      </reference>
+      <l>tu fidem habes penes temet ipsum habe coram Deo beatus qui non iudicat semet ipsum in eo quo probat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.014.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>14:23</verseNum>
+      </reference>
+      <l>qui autem discernit si manducaverit damnatus est quia non ex fide omne autem quod non ex fide peccatum est</l>
+    </verse>
+  </chapter>
+  <chapter num="15">
+    <verse type="bible-verse" id="B.Romans.015.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:1</verseNum>
+      </reference>
+      <l>debemus autem nos firmiores inbecillitates infirmorum sustinere et non nobis placere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:2</verseNum>
+      </reference>
+      <l>unusquisque vestrum proximo suo placeat in bonum ad aedificationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:3</verseNum>
+      </reference>
+      <l>etenim Christus non sibi placuit sed sicut scriptum est inproperia inproperantium tibi ceciderunt super me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:4</verseNum>
+      </reference>
+      <l>quaecumque enim scripta sunt ad nostram doctrinam scripta sunt ut per patientiam et consolationem scripturarum spem habeamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:5</verseNum>
+      </reference>
+      <l>Deus autem patientiae et solacii det vobis id ipsum sapere in alterutrum secundum Iesum Christum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:6</verseNum>
+      </reference>
+      <l>ut unianimes uno ore honorificetis Deum et Patrem Domini nostri Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:7</verseNum>
+      </reference>
+      <l>propter quod suscipite invicem sicut et Christus suscepit vos in honorem Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:8</verseNum>
+      </reference>
+      <l>dico enim Christum Iesum ministrum fuisse circumcisionis propter veritatem Dei ad confirmandas promissiones patrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:9</verseNum>
+      </reference>
+      <l>gentes autem super misericordiam honorare Deum sicut scriptum est propter hoc confitebor tibi in gentibus et nomini tuo cantabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:10</verseNum>
+      </reference>
+      <l>et iterum dicit laetamini gentes cum plebe eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:11</verseNum>
+      </reference>
+      <l>et iterum laudate omnes gentes Dominum et magnificate eum omnes populi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:12</verseNum>
+      </reference>
+      <l>et rursus Esaias ait erit radix Iesse et qui exsurget regere gentes in eo gentes sperabunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:13</verseNum>
+      </reference>
+      <l>Deus autem spei repleat vos omni gaudio et pace in credendo ut abundetis in spe in virtute Spiritus Sancti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:14</verseNum>
+      </reference>
+      <l>certus sum autem fratres mei et ego ipse de vobis quoniam et ipsi pleni estis dilectione repleti omni scientia ita ut possitis alterutrum monere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:15</verseNum>
+      </reference>
+      <l>audacius autem scripsi vobis fratres ex parte tamquam in memoriam vos reducens propter gratiam quae data est mihi a Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:16</verseNum>
+      </reference>
+      <l>ut sim minister Christi Iesu in gentibus sanctificans evangelium Dei ut fiat oblatio gentium accepta sanctificata in Spiritu Sancto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:17</verseNum>
+      </reference>
+      <l>habeo igitur gloriam in Christo Iesu ad Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:18</verseNum>
+      </reference>
+      <l>non enim audeo aliquid loqui eorum quae per me non effecit Christus in oboedientiam gentium verbo et factis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:19</verseNum>
+      </reference>
+      <l>in virtute signorum et prodigiorum in virtute Spiritus Sancti ita ut ab Hierusalem per circuitum usque in Illyricum repleverim evangelium Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:20</verseNum>
+      </reference>
+      <l>sic autem hoc praedicavi evangelium non ubi nominatus est Christus ne super alienum fundamentum aedificarem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:21</verseNum>
+      </reference>
+      <l>sed sicut scriptum est quibus non est adnuntiatum de eo videbunt et qui non audierunt intellegent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:22</verseNum>
+      </reference>
+      <l>propter quod et inpediebar plurimum venire ad vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:23</verseNum>
+      </reference>
+      <l>nunc vero ulterius locum non habens in his regionibus cupiditatem autem habens veniendi ad vos ex multis iam annis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:24</verseNum>
+      </reference>
+      <l>cum in Hispaniam proficisci coepero spero quod praeteriens videam vos et a vobis deducar illuc si vobis primum ex parte fruitus fuero</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:25</verseNum>
+      </reference>
+      <l>nunc igitur proficiscar in Hierusalem ministrare sanctis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.026">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:26</verseNum>
+      </reference>
+      <l>probaverunt enim Macedonia et Achaia conlationem aliquam facere in pauperes sanctorum qui sunt in Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.027">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:27</verseNum>
+      </reference>
+      <l>placuit enim eis et debitores sunt eorum nam si spiritalium eorum participes facti sunt gentiles debent et in carnalibus ministrare eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.028">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:28</verseNum>
+      </reference>
+      <l>hoc igitur cum consummavero et adsignavero eis fructum hunc proficiscar per vos in Hispaniam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.029">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:29</verseNum>
+      </reference>
+      <l>scio autem quoniam veniens ad vos in abundantia benedictionis Christi veniam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.030">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:30</verseNum>
+      </reference>
+      <l>obsecro igitur vos fratres per Dominum nostrum Iesum Christum et per caritatem Spiritus ut adiuvetis me in orationibus pro me ad Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.031">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:31</verseNum>
+      </reference>
+      <l>ut liberer ab infidelibus qui sunt in Iudaea et obsequii mei oblatio accepta fiat in Hierosolyma sanctis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.032">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:32</verseNum>
+      </reference>
+      <l>ut veniam ad vos in gaudio per voluntatem Dei et refrigerer vobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.015.033">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>15:33</verseNum>
+      </reference>
+      <l>Deus autem pacis sit cum omnibus vobis amen</l>
+    </verse>
+  </chapter>
+  <chapter num="16">
+    <verse type="bible-verse" id="B.Romans.016.001">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:1</verseNum>
+      </reference>
+      <l>commendo autem vobis Phoebem sororem nostram quae est in ministerio ecclesiae quae est Cenchris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.002">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:2</verseNum>
+      </reference>
+      <l>ut eam suscipiatis in Domino digne sanctis et adsistatis ei in quocumque negotio vestri indiguerit etenim ipsa quoque adstitit multis et mihi ipsi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.003">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:3</verseNum>
+      </reference>
+      <l>salutate Priscam et Aquilam adiutores meos in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.004">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:4</verseNum>
+      </reference>
+      <l>qui pro anima mea suas cervices subposuerunt quibus non solus ego gratias ago sed et cunctae ecclesiae gentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.005">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:5</verseNum>
+      </reference>
+      <l>et domesticam eorum ecclesiam salutate Ephaenetum dilectum mihi qui est primitivus Asiae in Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.006">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:6</verseNum>
+      </reference>
+      <l>salutate Mariam quae multum laboravit in vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.007">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:7</verseNum>
+      </reference>
+      <l>salutate Andronicum et Iuniam cognatos et concaptivos meos qui sunt nobiles in apostolis qui et ante me fuerunt in Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.008">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:8</verseNum>
+      </reference>
+      <l>salutate Ampliatum dilectissimum mihi in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.009">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:9</verseNum>
+      </reference>
+      <l>salutate Urbanum adiutorem nostrum in Christo et Stachyn dilectum meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.010">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:10</verseNum>
+      </reference>
+      <l>salutate Apellen probum in Christo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.011">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:11</verseNum>
+      </reference>
+      <l>salutate eos qui sunt ex Aristoboli salutate Herodionem cognatum meum salutate eos qui sunt ex Narcissi qui sunt in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.012">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:12</verseNum>
+      </reference>
+      <l>salutate Tryfenam et Tryfosam quae laborant in Domino salutate Persidam carissimam quae multum laboravit in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.013">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:13</verseNum>
+      </reference>
+      <l>salutate Rufum electum in Domino et matrem eius et meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.014">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:14</verseNum>
+      </reference>
+      <l>salutate Asyncritum Flegonta Hermen Patrobam Hermam et qui cum eis sunt fratres</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.015">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:15</verseNum>
+      </reference>
+      <l>salutate Filologum et Iuliam Nereum et sororem eius et Olympiadem et omnes qui cum eis sunt sanctos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.016">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:16</verseNum>
+      </reference>
+      <l>salutate invicem in osculo sancto salutant vos omnes ecclesiae Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.017">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:17</verseNum>
+      </reference>
+      <l>rogo autem vos fratres ut observetis eos qui dissensiones et offendicula praeter doctrinam quam vos didicistis faciunt et declinate ab illis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.018">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:18</verseNum>
+      </reference>
+      <l>huiusmodi enim Christo Domino nostro non serviunt sed suo ventri et per dulces sermones et benedictiones seducunt corda innocentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.019">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:19</verseNum>
+      </reference>
+      <l>vestra enim oboedientia in omnem locum divulgata est gaudeo igitur in vobis sed volo vos sapientes esse in bono et simplices in malo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.020">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:20</verseNum>
+      </reference>
+      <l>Deus autem pacis conteret Satanan sub pedibus vestris velociter gratia Domini nostri Iesu Christi vobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.021">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:21</verseNum>
+      </reference>
+      <l>salutat vos Timotheus adiutor meus et Lucius et Iason et Sosipater cognati mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.022">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:22</verseNum>
+      </reference>
+      <l>saluto vos ego Tertius qui scripsi epistulam in Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.023">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:23</verseNum>
+      </reference>
+      <l>salutat vos Gaius hospes meus et universae ecclesiae salutat vos Erastus arcarius civitatis et Quartus frater</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.024">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:24</verseNum>
+      </reference>
+      <l/>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.025">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:25</verseNum>
+      </reference>
+      <l>ei autem qui potens est vos confirmare iuxta evangelium meum et praedicationem Iesu Christi secundum revelationem mysterii temporibus aeternis taciti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.026">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:26</verseNum>
+      </reference>
+      <l>quod nunc patefactum est per scripturas prophetarum secundum praeceptum aeterni Dei ad oboeditionem fidei in cunctis gentibus cognito</l>
+    </verse>
+    <verse type="bible-verse" id="B.Romans.016.027">
+      <reference>
+        <bookName>Romans</bookName>
+        <verseNum>16:27</verseNum>
+      </reference>
+      <l>solo sapienti Deo per Iesum Christum cui honor in saecula saeculorum amen</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Romans.colophon.001">
+    <reference>
+      <bookName>Romans</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA AD ROMANOS</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7558" nextid="c7560" id="c7559">
+   <header>
+      <usage ms="Cdm" code="07031000">[64v] matins-n3-r14</usage>
+      <usage ms="Ely" code="07035000">[76v] matins-r3</usage>
+      <usage ms="Hyd" code="07031000">[79r] matins-n3-r12</usage>
+      <usage ms="Pet" code="07031000">[73r] matins-r13</usage>
+      <usage ms="Cht" code="07031000">[36r] matins-n3-r8</usage>
+      <usage ms="Wor" code="07031000">[49r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Cdm"> Salus nostra in manu tua est domine respiciat super nos misericordia tua
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F Ely Wor Cht Hyd Pet Cdm"> et securi</rdg>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-L"> ut securi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F Ely Wor Cht Hyd Pet Cdm"> serviemus</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L"> serviamus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Cdm"> regi</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R"> tibi</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R"> Vivat domine</rdg>
+            <rdg wit="CAO-B"> Vivit domine</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E"> anima tua</rdg>
+            <rdg wit="CAO-V"> anima nostra</rdg>
+            <rdg wit="CAO-H CAO-R"> anima tua domine</rdg>
+         </app> ut non videamus mortem neque parvulos nostros deficientes</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Cdm">
+         <app>
+            <rdg wit="CAO-G CAO-F CAO-L Ely Wor Cht Hyd Pet Cdm"> Venerunt quoque Aegyptii ad Joseph</rdg>
+            <rdg wit="CAO-D"> Venerunt Aegyptii ad Joseph</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-F CAO-L Ely Wor Cht Hyd Pet Cdm"> dicentes da nobis alimenta</rdg>
+            <rdg wit="CAO-D"> dicens da nobis alimenta</rdg>
+         </app>
+         <app>
+            <rdg wit="Ely Wor Cht Hyd Pet Cdm"> ut possimus vivere</rdg>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-L">ut vivere possimus</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Domine deus virtutum converte nos et ostende faciem tuam et salvi erimus</vBody>
+      <rep type="r" wit="CAO-C CAO-D CAO-F Ely Wor Cht Hyd Pet Cdm"> Et securi</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L"> Ut securi</rep>
+      <dox type="r" wit="Ely Pet">Gloria</dox>
+      <rep type="r" wit="Ely">Respiciat</rep>
+   </verses>
+</res>

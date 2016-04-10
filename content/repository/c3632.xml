@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3631" nextid="c3633" id="c3632">
+   <header>
+      <usage ms="Alb2" code="07066000">[110v] matins-n3-a8</usage>
+      <usage ms="Cdm" code="07066000">[79r] matins-n3</usage>
+      <usage ms="Cht" code="07066000">[63r] matins-n3</usage>
+      <usage ms="Evm" code="07066000">[151v] matins-n3</usage>
+      <usage ms="Hyd" code="07066000">[96v] matins-n3</usage>
+      <usage ms="Mch" code="07066000">[161v] matins-n3-a8</usage>
+      <usage ms="Pet" code="07066000">[92v] matins-n3</usage>
+      <usage ms="Wcb" code="07066000">[116v] matins-n3</usage>
+      <usage ms="Wor" code="07066000">[61v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Longe fecisti</rdg>
+         <rdg wit="CAO-D"> Longe fecistis</rdg>
+      </app> notos meos a me traditus sum et non egrediebar</aBody>
+</ant>

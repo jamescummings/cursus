@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1883" nextid="c1885" id="c1884">
+   <header>
+      <usage ms="Alb2" code="07061000">[105v] lauds</usage>
+      <usage ms="Bat" code="07061000">[63r] lauds-a5</usage>
+      <usage ms="Cdm" code="07061000">[75r] lauds-a5</usage>
+      <usage ms="Cht" code="07062000">[57r] sext</usage>
+      <usage ms="Ely" code="07061000">[86r] lauds</usage>
+      <usage ms="Evm" code="07062000">[145r] sext</usage>
+      <usage ms="Glo" code="07062000">[78r] sext</usage>
+      <usage ms="Hyd" code="07061000">[91v] lauds</usage>
+      <usage ms="Mch" code="07061000">[154v] lauds-a5</usage>
+      <usage ms="Pet" code="07061000">[85v] lauds</usage>
+      <usage ms="Wcb" code="07062000">[114r] sext</usage>
+      <usage ms="Wor" code="07061000">[56v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Confundantur qui me persequuntur et non confundar ego domine deus meus</aBody>
+   <aBody wit="CAO-B">Confundantur qui me persequuntur</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1680" nextid="o1682" id="o1681">
+   <header>
+      <usage ms="Hyd" code="08015000">[104r] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.415</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus qui diversitatem gentium in confessione tui nominis adunasti da ut renatis fonte baptismatis una sit fides mentium et pietas actionum</pBody>
+</prayer>

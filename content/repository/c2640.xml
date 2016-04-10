@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2639" nextid="c2641" id="c2640">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H"> Eloi Eloi lamma sabacthani
+     <app>
+         <rdg wit="CAO-C CAO-H"> deus deus meus</rdg>
+         <rdg wit="CAO-V"> deus meus deus meus</rdg>
+         <rdg wit="CAO-E"> hoc est deus meus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-H"> ut quid me dereliquisti</rdg>
+         <rdg wit="CAO-E"> ut quid dereliquisti me</rdg>
+      </app>
+   </aBody>
+</ant>

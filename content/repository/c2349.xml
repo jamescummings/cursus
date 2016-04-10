@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2348" nextid="c2350" id="c2349">
+   <header>
+      <usage ms="Cdm" code="07021000">[60v] matins</usage>
+      <usage ms="Hyd" code="01011000">[1v] matins-n1-a1</usage>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Hyd" code="06021000">[63r] matins-n1 inv</usage>
+      <usage ms="Hyd" code="06031000">[65r] matins-n1 inv</usage>
+      <usage ms="Mch" code="01011000">[1v] matins-n1-a1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-L Hyd Mch"> Domine in virtute tua laetabitur rex</aBody>
+   <aBody wit="Cdm" type="incipit"> Domine in virtute tua</aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9524" nextid="c9526" id="c9525">
+   <header>
+      <usage ms="Cdm" code="02122800">[29r] matins-n3-r11</usage>
+      <usage ms="Hyd" code="02122800">[26r] matins-n2-r4</usage>
+      <usage ms="Pet" code="02122800">[31r] matins-n3-r11</usage>
+      <usage ms="Wor" code="02122800">[22r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="Hyd Cdm Wor Pet">Laverunt stolas suas et candidas eas fecerunt in sanguine agni </rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Cdm Wor Pet">Isti sunt qui venerunt ex magna tribulatione et laverunt stolas suas</vBody>
+      <rep type="r" wit="Hyd Cdm Wor Pet">In sanguine agni </rep>
+   </verses>
+</res>

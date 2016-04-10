@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4881" nextid="c4882b" id="c4882">
+   <header>
+      <usage ms="Mch" code="06028000">[106r] </usage>
+      <usage ms="Cdm" code="06028000"/>
+      <usage ms="Cht" code="06028000"/>
+      <usage ms="Evm" code="06021000">[98v] nones</usage>
+      <usage ms="Evm" code="06021000"/>
+      <usage ms="Glo" code="06021000">[56v] nones</usage>
+      <usage ms="Hyd" code="06028000"/>
+      <usage ms="Pet" code="06021000">[60r] vesp2</usage>
+      <usage ms="Wcb" code="06021000">[88v] nones</usage>
+      <usage ms="Wor" code="06028000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cht Wor Pet Evm Wcb Glo Cdm Mch"> Si culmen veri honoris quaeritis ad illam caelestem patriam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cht Wor Evm Wcb Glo Mch">quantocius properate</rdg>
+         <rdg wit="Pet Cdm">quam totius properate</rdg>
+      </app>
+   </aBody>
+</ant>

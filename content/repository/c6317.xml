@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6316" nextid="c6318" id="c6317">
+   <header>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Confitebor tibi domine deus in toto corde meo et honorificabo nomen tuum in aeternum quia misericordia tua domine magna est super me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Et eripuisti animam meam</rdg>
+            <rdg wit="CAO-G CAO-D Hyd"> Et eruisti animam meam</rdg>
+         </app> ex inferno inferiori</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Quia</rep>
+   </verses>
+</res>

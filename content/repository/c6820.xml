@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6819" nextid="c6821" id="c6820">
+   <rBody wit="CAO-C CAO-G"> Hic est dies in quo ad salvanda omnia lux orta est mundo de qua
+      <app>
+         <rdg wit="CAO-G"> annuntiante</rdg>
+         <rdg wit="CAO-C"> nuntiante</rdg>
+      </app> angelo impletus est
+      <app>
+         <rdg wit="CAO-G"> uterus</rdg>
+         <rdg wit="CAO-C"> utero</rdg>
+      </app> virginis natus est nobis salvator omni populo quem
+      <app>
+         <rdg wit="CAO-G"> regem</rdg>
+         <rdg wit="CAO-C"> regis</rdg>
+      </app> gentium prophetae
+      <app>
+         <rdg wit="CAO-C CAO-G"> ante testati</rdg>
+         <rdg wit="CAO-C"> antestati</rdg>
+      </app> sunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Natus est nobis hodie salvator qui est Christus dominus in civitate David</vBody>
+      <vBody type="r" wit="CAO-G"> Natus est nobis princeps gentium redemptor omni populo per uterum virginis venit</vBody>
+      <rep type="r" wit="CAO-G"> Quem</rep>
+   </verses>
+</res>

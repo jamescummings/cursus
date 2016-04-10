@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2500" nextid="c2502" id="c2501">
+   <header>
+      <usage ms="Bat" code="02010400">[28v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="02122800">[29v] vesp2 commemoratio</usage>
+      <usage ms="Hyd" code="02010100">[34r] matins-n2-a12</usage>
+      <usage ms="Pet" code="02122508">[19v] </usage>
+      <usage ms="Wor" code="02122800">[23v] commemoration</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.143</note>
+         <note place="unspecified" anchored="yes">NBB Cdm has this by later hand</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-R CAO-D CAO-F Hyd Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-R Hyd Bat Cdm Wor Pet"> Ecce de quo Joannes dixit</rdg>
+         <rdg wit="CAO-D CAO-F"> Ecce de quo Joannes dicit</rdg>
+         <rdg wit="CAO-E"> Ecce de quo Joannes ait</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-F Hyd Bat Cdm Wor Pet"> Christus natus est in Israel</rdg>
+         <rdg wit="CAO-E"> Christus est in Israel</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R CAO-D Hyd Bat Cdm Wor Pet"> et regni eius non erit finis alleluia</rdg>
+         <rdg wit="CAO-C CAO-E CAO-F"> et regni eius non erit finis</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1600" nextid="o1602" id="o1601">
+   <header>
+      <usage ms="Cdm" code="07025000">[63r] sext</usage>
+      <usage ms="Evm" code="07011000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.849</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Cdm">Quaesumus omnipotens deus ut qui nostris fatigamur offensis et merito nostrae iniquitatis affligimur pietatis tuae gratiam consequi mereamur</pBody>
+</prayer>

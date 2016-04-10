@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6339" nextid="c6341" id="c6340">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Cornelius centurio vir religiosus ac timens Deum vidit manifeste angelum Dei dicentem sibi Corneli mitte et
+      <app>
+         <rdg wit="CAO-F CAO-L"> accersi</rdg>
+         <rdg wit="CAO-D"> arcersi</rdg>
+         <rdg wit="CAO-S">
+            <corr sic="acersi">acersire</corr>
+         </rdg>
+      </app> Simonem qui cognominatur Petrus hic dicet tibi quid te oporteat facere</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Cum orasset Cornelius nondum in Christo renatus
+       <app>
+            <rdg wit="CAO-S"> elemosinis ieiuniis orationibus bonis operibus semper intentus</rdg>
+            <rdg wit="CAO-D CAO-F CAO-L" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> apparuit ei angelus dicens</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Corneli</rep>
+      <dox type="r" wit="CAO-F"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-F"> Hic dicet</rep>
+   </verses>
+</res>

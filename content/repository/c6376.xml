@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6375" nextid="c6377" id="c6376">
+   <rBody wit="CAO-L"> Cum videret beatus Andreas crucem exclamavit et dixit salve crux quae mundum illuminasti suscipe me sicut suscepisti dominum salvatorem meum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Salve crux quae in corpore Christi dedicata <corr sic="est" resp="Hesbert">es</corr> et ex membris eius tamquam margaritis ornata</vBody>
+      <rep type="r" wit="CAO-L">Suscipe</rep>
+   </verses>
+</res>

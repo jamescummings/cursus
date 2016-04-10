@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6953" nextid="c6955" id="c6954">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Indicabo tibi homo quid sit bonum aut quid dominus
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> requirat a te</rdg>
+         <rdg wit="CAO-V"> requiram ad te</rdg>
+         <rdg wit="CAO-E"> requirit a te</rdg>
+         <rdg wit="CAO-F"> requirit a<del status="unremarkable">d</del> te</rdg>
+      </app> facere iudicium et iustitiam et
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> sollicitum</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L"> sollicitus</rdg>
+         <rdg wit="CAO-E"> sollicite</rdg>
+      </app> ambulare cum Deo tuo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D"> Spera in domino et fac bonitatem
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-V"> et inhabita terram</rdg>
+            <rdg wit="CAO-H CAO-R CAO-D"> inhabita terram</rdg>
+         </app> et pasceris in divitiis eius</vBody>
+      <vBody type="r" wit="CAO-M"> Spera in domino et fac bonitatem</vBody>
+      <vBody type="r" wit="CAO-S"> Spera in domino et fac bonitatem et inhabita terram</vBody>
+      <vBody type="r" wit="CAO-G"> Spera in domino et fac bonitatem et inhabita terram et pasceris</vBody>
+      <vBody type="r" wit="CAO-L"> Spera in domino et fac bonitatem et dabit tibi</vBody>
+      <vBody type="r" wit="CAO-F"> Religio munda et immaculata apud Deum et patrem haec est</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-D CAO-S"> Et sollicitum</rep>
+      <rep type="r" wit="CAO-V"> Et sollicitus</rep>
+      <rep type="r" wit="CAO-E"> Et sollicite</rep>
+      <rep type="r" wit="CAO-M"> Ambulare</rep>
+      <rep type="r" wit="CAO-H CAO-R CAO-F CAO-L"> Facere</rep>
+   </verses>
+</res>

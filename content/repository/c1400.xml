@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1399" nextid="c1401" id="c1400">
+   <header>
+      <usage ms="Pet" code="02122800">[32r] week?</usage>
+      <usage ms="Wcb" code="02122800">[63r] matins-n1-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wcb Pet"> Angeli eorum semper vident faciem patris</aBody>
+</ant>

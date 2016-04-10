@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5275" nextid="c5277" id="c5276">
+   <aBody wit="CAO-C CAO-M CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-D"> Unus autem ex illis</rdg>
+         <rdg wit="CAO-M CAO-F"> Unus autem ex ipsis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-F"> ut vidit quod mundatus est</rdg>
+         <rdg wit="CAO-M CAO-D"> ut vidit quia mundatus est</rdg>
+      </app> regressus est cum magna voce
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F"> magnificans deum alleluia</rdg>
+         <rdg wit="CAO-M CAO-R"> magnificans deum</rdg>
+      </app>
+   </aBody>
+</ant>

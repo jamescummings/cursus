@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7886" nextid="c7888" id="c7887">
+   <header>
+      <usage ms="Alb2" code="07066000">[110r] matins-n1-r3</usage>
+      <usage ms="Cdm" code="07066000">[78v] matins-n1-r2</usage>
+      <usage ms="Cht" code="07066000">[62r] matins-n1-r2</usage>
+      <usage ms="Ely" code="07066000">[90r] matins-n1-r2</usage>
+      <usage ms="Evm" code="07066000">[151r] matins-n2-r4</usage>
+      <usage ms="Hyd" code="07067000">[98r] matins-n3-r7</usage>
+      <usage ms="Mch" code="07066000">[160r] matins-n1-r3</usage>
+      <usage ms="Pet" code="07066000">[91v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="07066000">[116v] matins-n2-r4</usage>
+      <usage ms="Wor" code="07066000">[61r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Vinea mea electa</rdg>
+         <rdg wit="CAO-D CAO-F"> Vineam meam electam</rdg>
+      </app> ego te plantavi quomodo conversa es
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Cht Evm Wcb Mch"> in amaritudine</rdg>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R Ely Wor Hyd Pet Alb2 Cdm"> in amaritudinem</rdg>
+      </app> ut me crucifigeres et Barrabam dimitteres</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Ego quidem plantavi te
+      <app>
+            <rdg wit="CAO-B CAO-H CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Cdm"> vineam meam electam</rdg>
+            <rdg wit="Alb2"> vineam electam</rdg>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-R CAO-L Mch"> vinea mea electa</rdg>
+         </app> omne semen verum</vBody>
+      <vBody type="r" wit="CAO-G CAO-S"> Ego quidem plantavi te vinea mea electa</vBody>
+      <vBody type="r" wit="CAO-V"> Melius illi fuerat si natus non fuisset vae homini illi per quem tradetur</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">Quomodo</rep>
+      <rep type="r" wit="CAO-V">Ut me</rep>
+      <rep type="r" num="2" wit="Alb2"> Vinea</rep>
+   </verses>
+</res>

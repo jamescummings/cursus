@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2893" nextid="c2895" id="c2894">
+   <header>
+      <usage ms="Cht" code="06034000">[19r] terce-a1</usage>
+      <usage ms="Ely" code="06034000">[64v] terce</usage>
+      <usage ms="Hyd" code="06034000">[67r] terce-a1</usage>
+      <usage ms="Mch" code="06036000">[111r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-R CAO-S Cht Hyd Ely Mch"> Frange esurienti panem tuum et egenos vagosque induc in domum tuam</aBody>
+</ant>

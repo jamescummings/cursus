@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6283" nextid="c6285" id="c6284">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cilicio Caecilia
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> membra domabat</rdg>
+         <rdg wit="CAO-V CAO-D"> membra dogmabat</rdg>
+      </app> Deum gemitibus exorabat
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Almachium</rdg>
+         <rdg wit="CAO-S"> Almatium</rdg>
+      </app> exsuperabat Tiburtium et Valerianum ad coronas vocabat</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R CAO-D CAO-F CAO-S CAO-L"> Non diebus neque
+       <app>
+            <rdg wit="CAO-B CAO-R CAO-D CAO-F"> noctibus vacabat a colloquiis divinis et oratione</rdg>
+            <rdg wit="CAO-S"> noctibus cessabat a colloquiis divinis et oratione</rdg>
+            <rdg wit="CAO-L"> noctibus a colloquiis divinis et <sic>orationes</sic> cessabat</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H"> Ecce quam bonum et quam iucundum habitare fratres in unum</vBody>
+      <vBody type="r" wit="CAO-M"> Ecce quam bonum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L">Tiburtium</rep>
+      <rep type="r" wit="CAO-D CAO-F">Almachium</rep>
+   </verses>
+</res>

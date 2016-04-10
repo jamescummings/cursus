@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5419" nextid="c5421" id="c5420">
+   <aBody wit="CAO-C CAO-D CAO-F"> Vigilate itaque
+     <app>
+         <rdg wit="CAO-D CAO-F"> quia nescitis diem neque horam</rdg>
+         <rdg wit="CAO-C"> qua nescitis diem neque horam</rdg>
+      </app> quando dominus vester
+     <app>
+         <rdg wit="CAO-C CAO-D"> venturus sit</rdg>
+         <rdg wit="CAO-F"> venturus sit amen</rdg>
+      </app>
+   </aBody>
+</ant>

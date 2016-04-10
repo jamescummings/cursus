@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7125" nextid="c7127" id="c7126">
+   <rBody wit="CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Mane surgens Jacob erigebat lapidem in titulum fundens oleum desuper votum vovit domino
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S CAO-L"> vere locus iste sanctus est et ego nesciebam</rdg>
+         <rdg wit="CAO-R" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-L"> Cum evigilasset Jacob a somno ait</vBody>
+      <vBody type="r" wit="CAO-R"> Cum evigilasset Jacob de somno ait vere dominus est in loco iste</vBody>
+      <vBody type="r" wit="CAO-S"> Tulitque lapidem quem supposuerat capiti suo et erexit in titulum dicens</vBody>
+      <vBody type="r" wit="CAO-E"> Vidit Jacob scalam summitas eius caelos tangebat et descendentes per angelos et dixit</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-S CAO-L">Vere</rep>
+      <rep type="r" wit="CAO-R">Fundens</rep>
+   </verses>
+</res>

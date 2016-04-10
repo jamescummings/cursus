@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6144" nextid="c6146" id="c6145">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Audiebam sonum alarum sicut sonum aquarum multarum quasi sonum sublimis Dei nam cum fieret vox super firmamentum quod imminebat capiti eorum stabant et submittebant alas suas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-F CAO-S"> Cum ambularent</rdg>
+            <rdg wit="CAO-L"> Cum elevarentur</rdg>
+            <rdg wit="CAO-D"> Cum ambularent animalia</rdg>
+         </app> ut sonus multitudinis atque castrorum erat cum vero
+       <app>
+            <rdg wit="CAO-S CAO-L"> stabant</rdg>
+            <rdg wit="CAO-D CAO-F"> starent</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> dimittebantur</rdg>
+            <rdg wit="CAO-L"> denegebantur</rdg>
+         </app> pennae eorum</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Nam</rep>
+      <rep type="r" wit="CAO-L"> Stabant</rep>
+   </verses>
+</res>

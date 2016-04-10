@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3229" nextid="c3231" id="c3230">
+   <header>
+      <usage ms="Hyd" code="01014000">[5v] matins-n1-a3</usage>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H Hyd"> In ecclesiis benedicite domino</aBody>
+   <aBody wit="CAO-S CAO-L"> In ecclesiis benedicite dominum</aBody>
+</ant>

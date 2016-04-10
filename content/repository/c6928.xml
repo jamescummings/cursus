@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6927" nextid="c6929" id="c6928">
+   <header>
+      <usage ms="Alb2" code="06011000">[65r] matins-n1-r1</usage>
+      <usage ms="Bat" code="06011000">[41v] matins-n1-r1</usage>
+      <usage ms="Cdm" code="06011000">[49r] matins-n1-r1</usage>
+      <usage ms="Cht" code="06011000">[11r] matins-n1-r1</usage>
+      <usage ms="Ely" code="06011000">[59v] matins-n1-r1</usage>
+      <usage ms="Evm" code="06011000">[91v] matins-n1-r1</usage>
+      <usage ms="Hyd" code="06011000">[60v] matins-n1-r1</usage>
+      <usage ms="Mch" code="06011000">[99r] matins-n1-r2</usage>
+      <usage ms="Pet" code="06011000">[54v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="06011000">[84v] matins-n1-r1</usage>
+      <usage ms="Wor" code="06011000">[36r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> In principio
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Pet Ely Wcb Evm Cdm Bat"> fecit deus caelum et terram</rdg>
+         <rdg wit="Alb2 Mch">creavit deus caelum et terram</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> et creavit in ea hominem</rdg>
+         <rdg wit="CAO-S">et creabit in ea hominem</rdg>
+      </app> ad imaginem et similitudinem suam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> Formavit igitur</rdg>
+            <rdg wit="CAO-S"> Formabit igitur</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> dominus hominem de limo terrae</rdg>
+            <rdg wit="CAO-L"> dominus deus hominem de limo terrae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> et inspiravit in faciem eius spiraculum vitae</rdg>
+            <rdg wit="CAO-S"> et inspirabit in faciem eius spiraculum vitae</rdg>
+            <rdg wit="CAO-V"> et insufflavit in faciem eius spiraculum vitae</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch">Ad imaginem</rep>
+   </verses>
+</res>

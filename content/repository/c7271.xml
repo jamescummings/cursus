@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7270" nextid="c7271b" id="c7271">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> O Hippolyte si credis</rdg>
+         <rdg wit="CAO-L"> O Hippolyte si credas</rdg>
+         <rdg wit="CAO-C"> O Hippolyte si crederis</rdg>
+         <rdg wit="CAO-V"> O Hippolyte sic credideris</rdg>
+      </app> in dominum Jesum Christum et thesauros tibi ostendo et
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> vitam</rdg>
+         <rdg wit="CAO-C"> vita</rdg>
+      </app> aeternam promitto</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-L">
+         <app>
+            <rdg wit="CAO-D CAO-F"> Si dictis inquit</rdg>
+            <rdg wit="CAO-L"> Si dicta inquit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F"> facta compensas</rdg>
+            <rdg wit="CAO-D"> facta compenses</rdg>
+            <rdg wit="CAO-L"> factis compenses</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F"> faciam quae hortaris</rdg>
+            <rdg wit="CAO-L"> faciam quod hortaris</rdg>
+         </app> cui beatus Laurentius dixit
+      <app>
+            <rdg wit="CAO-D CAO-L"> tu mihi tuum</rdg>
+            <rdg wit="CAO-F"> tu mihi</rdg>
+         </app> tantummodo praebe assensum</vBody>
+      <vBody type="r" wit="CAO-H CAO-R CAO-S">
+         <app>
+            <rdg wit="CAO-S"> Si dictis inquit</rdg>
+            <rdg wit="CAO-H CAO-R"> Si dictis</rdg>
+         </app> factas compensas faciam quae hortaris</vBody>
+      <vBody type="r" wit="CAO-C CAO-E"> Dispersit dedit pauperibus iustitia eius manet in saeculum saeculi</vBody>
+      <vBody type="r" wit="CAO-M"> Dispersit</vBody>
+      <vBody type="r" wit="CAO-V"> Dispersit dedit pauperibus</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et thesauros</rep>
+   </verses>
+</res>

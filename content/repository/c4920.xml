@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4919" nextid="c4921" id="c4920">
+   <header>
+      <usage ms="Hyd" code="08082000">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Sic deus dilexit mundum ut filium suum unigenitum daret
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-F Hyd"> ut omnis qui credit in ipso</rdg>
+         <rdg wit="CAO-C CAO-V"> ut omnis qui credit in eum</rdg>
+         <rdg wit="CAO-D CAO-L"> ut omnis qui credit in illum</rdg>
+         <rdg wit="CAO-R CAO-S"> ut omnis qui credit in ipsum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> non pereat sed habeat vitam aeternam alleluia</rdg>
+         <rdg wit="CAO-E"> non pereat sed habeat vitam aeternam</rdg>
+      </app>
+   </aBody>
+</ant>

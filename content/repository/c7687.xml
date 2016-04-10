@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7686" nextid="c7688" id="c7687">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] vesp2</usage>
+      <usage ms="Bat" code="06011000">[43r] vesp2</usage>
+      <usage ms="Cdm" code="06011000">[50r] vesp2</usage>
+      <usage ms="Cht" code="06011000">[13r] vesp2</usage>
+      <usage ms="Ely" code="06011000">[61r] vesp2</usage>
+      <usage ms="Evm" code="06011000">[94v] vesp2</usage>
+      <usage ms="Glo" code="06011000">[50r] vesp2</usage>
+      <usage ms="Glo" code="06021000">[56v] vesp2</usage>
+      <usage ms="Hyd" code="06011000">[62r] vesp2</usage>
+      <usage ms="Mch" code="06011000">[102r] vesp2</usage>
+      <usage ms="Pet" code="06011000">[57r] vesp2</usage>
+      <usage ms="Wcb" code="06011000">[86v] vesp2</usage>
+      <usage ms="Wor" code="06011000">[37v] vesp2</usage>
+   </header>
+   <rBody wit="CAO-G CAO-E CAO-B CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-B CAO-H CAO-R CAO-D Hyd Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch Bat">  Spes mea domine a iuventute mea</rdg>
+         <rdg wit="CAO-S"> Spes mea domine ad iuventute mea</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-B CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch Bat"> In te confirmatus sum ex utero de ventre matris meae tu es meus protector</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-B CAO-H CAO-R CAO-D Hyd Alb2 Cht Wor Ely Wcb Evm Glo Bat"> A iuventute</rep>
+      <rep type="r" wit="CAO-S"> Ad iuventute</rep>
+      <dox type="r" wit="Wor Pet Wcb Evm Glo Mch">Gloria</dox>
+      <rep type="r" wit="Wor Pet Evm" num="2">Spes</rep>
+   </verses>
+</res>

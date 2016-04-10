@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5338" nextid="c5339b" id="c5339">
+   <header>
+      <usage ms="Alb2" code="01014000">[6v] vesp2 gosp</usage>
+      <usage ms="Bat" code="01014000">[5v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01014000">[11r] vesp2 gosp</usage>
+      <usage ms="Ely" code="01014000">[6r] lauds gosp</usage>
+      <usage ms="Evm" code="01024000">[15v] lauds gosp</usage>
+      <usage ms="Hyd" code="01041000">[14r] lauds gosp</usage>
+      <usage ms="Mch" code="01014000">[6r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="01024000">[45v] lauds gosp</usage>
+      <usage ms="Wor" code="01014000">[4v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Veniet fortior me post me</rdg>
+         <rdg wit="CAO-C"> Veniet fortior post me</rdg>
+      </app> cuius non sum dignus solvere
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> corrigiam calciamentorum eius</rdg>
+         <rdg wit="CAO-S"> corrigiam calciamenti eius</rdg>
+      </app>
+   </aBody>
+</ant>

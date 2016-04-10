@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3970" nextid="c3972" id="c3971">
+   <aBody wit="CAO-M CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-M CAO-D"> Numquid est in idolis gentium qui pluat</rdg>
+         <rdg wit="CAO-F"> Numquid est in idolis gentium qui pluant</rdg>
+      </app> nisi tu deus
+     <app>
+         <rdg wit="CAO-D CAO-F"> aut caeli possint dare pluviam</rdg>
+         <rdg wit="CAO-M"> aut caeli possunt dare pluviam</rdg>
+      </app> nisi tu volueris et nemo ex vobis facit legem tu es dominus deus noster quem exspectamus
+     <app>
+         <rdg wit="CAO-M CAO-F"> dona nobis pluviam</rdg>
+         <rdg wit="CAO-D"> dona nobis pluviam alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

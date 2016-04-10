@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4064" nextid="c4066" id="c4065">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O quam metuendus est locus iste
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> vere non est hic aliud nisi domus dei</rdg>
+         <rdg wit="CAO-C"> vere non est hic alius nisi domus dei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et porta caeli</rdg>
+         <rdg wit="CAO-V"> et portas caeli</rdg>
+         <rdg wit="CAO-M"> et porta<del type="erasure" status="unremarkable">s</del> caeli</rdg>
+      </app>
+   </aBody>
+</ant>

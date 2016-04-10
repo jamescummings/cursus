@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4649" nextid="c4651" id="c4650">
+   <header>
+      <usage ms="Hyd" code="10100000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Fec-B2 Hyd"> Rex autem David
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-D Fec-B2 Hyd"> cooperto capite</rdg>
+         <rdg wit="CAO-E CAO-H CAO-F CAO-S"> operto capite</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Fec-B2 Hyd"> incedens</rdg>
+         <rdg wit="CAO-M CAO-V"> incedat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> lugebat filium dicens</rdg>
+         <rdg wit="Hyd"> lugebat filium suum dicens</rdg>
+         <rdg wit="CAO-H"> lugebat filium suum <add place="above line">dicens</add>
+         </rdg>
+         <rdg wit="Fec-B2"> filium suum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Absalon fili mi fili mi Absalon</rdg>
+         <rdg wit="Fec-B2"> Absalon </rdg>
+      </app> quis mihi det ut ego moriar pro te fili mi Absalon</aBody>
+</ant>

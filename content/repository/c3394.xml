@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3393" nextid="c3395" id="c3394">
+   <header>
+      <usage ms="Alb2" code="07062000">[106r] lauds</usage>
+      <usage ms="Cdm" code="07062000">[75v] lauds-a4</usage>
+      <usage ms="Cht" code="07062000">[57r] lauds</usage>
+      <usage ms="Ely" code="07062000">[86v] lauds</usage>
+      <usage ms="Evm" code="07062000">[144v] lauds</usage>
+      <usage ms="Hyd" code="07062000">[92r] lauds</usage>
+      <usage ms="Mch" code="07062000">[156r] lauds-a4</usage>
+      <usage ms="Pet" code="07062000">[86v] lauds</usage>
+      <usage ms="Wcb" code="07062000">[113v] lauds</usage>
+      <usage ms="Wor" code="07062000">[57r] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Inundaverunt aquae super caput meum dixi perii
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Cht Evm Wcb Alb2 Mch">invocabo nomen tuum</rdg>
+         <rdg wit="CAO-D Wor Hyd Pet Cdm">invocavi nomen tuum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">domine deus</rdg>
+         <rdg wit="CAO-M">domine</rdg>
+         <rdg wit="CAO-C Ely">domine deus meus</rdg>
+      </app>
+   </aBody>
+</ant>

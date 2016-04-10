@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2176" nextid="c2178" id="c2177">
+   <header>
+      <usage ms="Alb2" code="07031000">[90r] lauds</usage>
+      <usage ms="Cht" code="07031000">[37r] lauds</usage>
+      <usage ms="Evm" code="07031000">[123r] lauds</usage>
+      <usage ms="Hyd" code="07031000">[79v] lauds-a3</usage>
+      <usage ms="Wcb" code="07031000"/>
+      <usage ms="Wor" code="07031000">[49r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F Wor Cht Hyd Pet Wcb"> Deus misereatur</rdg>
+         <rdg wit="CAO-C CAO-G CAO-D CAO-S Evm Alb2"> Deus misereatur nostri</rdg>
+         <rdg wit="CAO-L"> Deus misereatur nobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Wor Cht Hyd Pet Evm Wcb Alb2"> et benedicat nobis</rdg>
+         <rdg wit="CAO-L"> et benedicat nos</rdg>
+      </app>
+   </aBody>
+</ant>

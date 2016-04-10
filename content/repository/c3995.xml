@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3994" nextid="c3996" id="c3995">
+   <header>
+      <usage ms="Alb2" code="02122800">[37v] matins-n2-a8</usage>
+      <usage ms="Bat" code="02122800">[23r] matins-n2-a8</usage>
+      <usage ms="Cdm" code="02122800">[28v] matins-n2-a8</usage>
+      <usage ms="Evm" code="02122800">[47r] matins-n2-a8</usage>
+      <usage ms="Hyd" code="02122800">[26r] matins-n2-a9</usage>
+      <usage ms="Pet" code="02122800">[29v] matins-n2-a8</usage>
+      <usage ms="Wor" code="02122800">[22r] matins-n2-a8</usage>
+   </header>
+   <aBody wit="CAO-S Hyd Alb2 Evm Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="Alb2 Hyd Evm Bat Cdm Wor Pet"> O beata lactentium gloria</rdg>
+         <rdg wit="CAO-S"> O beata lactantium gloria</rdg>
+      </app> quibus pro Christo contigit dedicari
+     <app>
+         <rdg wit="CAO-S Alb2 Evm Bat Cdm Wor Pet"> martyrio</rdg>
+         <rdg wit="Hyd"> martyria</rdg>
+      </app>
+   </aBody>
+</ant>

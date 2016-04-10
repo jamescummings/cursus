@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1582" nextid="c1584" id="c1583">
+   <aBody wit="CAO-D CAO-F"> Beati martyres Christi Joannes et Paulus dixerunt Juliano nobis autem
+     <app>
+         <rdg wit="CAO-D"> alius non est</rdg>
+         <rdg wit="CAO-F"> aliud non est</rdg>
+      </app> nisi unus deus pater et filius
+     <app>
+         <rdg wit="CAO-D"> et spiritus sanctus alleluia</rdg>
+         <rdg wit="CAO-F"> et spiritus sanctus</rdg>
+      </app>
+   </aBody>
+</ant>

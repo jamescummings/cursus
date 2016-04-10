@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6158" nextid="c6160" id="c6159">
+   <header>
+      <usage ms="Alb2" code="07066000">[110r] matins-n2-r5</usage>
+      <usage ms="Cdm" code="07066000">[79r] matins-n2-r4</usage>
+      <usage ms="Cht" code="07066000">[62v] matins-n2-r4</usage>
+      <usage ms="Ely" code="07066000">[90r] matins-n2-r4</usage>
+      <usage ms="Hyd" code="07066000">[96v] matins-n3-r7</usage>
+      <usage ms="Mch" code="07066000">[161r] matins-n2-r5</usage>
+      <usage ms="Pet" code="07066000">[92r] matins-n2-r4</usage>
+      <usage ms="Wor" code="07066000">[61r] matins-n2-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> Barabbas latro dimittitur et innocens Christus occiditur
+     <app>
+         <rdg wit="CAO-H CAO-R Ely"> nam et Judas armiductor sceleris</rdg>
+         <rdg wit="Mch"> nam et Judas erat doctor sceleris</rdg>
+         <rdg wit="Hyd"> nam et Judas archidoctor sceleris</rdg>
+         <rdg wit="CAO-V Cht"> nam et Judas armis doctor sceleris</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S CAO-L Wor Cdm"> nam et Judas armis doctus sceleris</rdg>
+         <rdg wit="CAO-C Pet Alb2"> nam et Judas armidoctus sceleris</rdg>
+         <rdg wit="CAO-M"> nam et Judas <corr sic="armiductor" resp="Hesbert">armis ductor</corr> sceleris</rdg>
+         <rdg wit="CAO-G"> nam et Judas armis ductor sceleris</rdg>
+         <rdg wit="CAO-B"> nam et Judas armiductor sceleri</rdg>
+      </app> qui per pacem didicit facere bellum osculando tradidit dominum Jesum Christum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> Ecce turba et qui vocabatur Judas venit
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Pet Mch"> et dum appropinquaret ad Jesum</rdg>
+            <rdg wit="Wor Alb2"> et cum appropinquaret ad Jesum</rdg>
+            <rdg wit="Hyd"> et dum appropinquaret</rdg>
+            <rdg wit="Cdm"> et cum appropinquaret ad <corr sic="illegible">eum</corr>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-R CAO-F CAO-S CAO-L"> Verax datur fallacibus pium flagellat impius</vBody>
+      <vBody type="r" wit="CAO-B"> Melius illi erat si natus non fuisset</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> Osculando</rep>
+      <rep type="r" wit="CAO-S"> Nam et</rep>
+   </verses>
+</res>

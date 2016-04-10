@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6392" nextid="c6394" id="c6393">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] lauds</usage>
+      <usage ms="Bat" code="02122400">[14v] lauds</usage>
+      <usage ms="Cdm" code="02122400">[20v] matins-n1-r4</usage>
+      <usage ms="Ely" code="02122400">[15v] vesp1</usage>
+      <usage ms="Hyd" code="02122400">[16r] vesp1</usage>
+      <usage ms="Mch" code="02122400">[22r] matins-n1-r3</usage>
+      <usage ms="Pet" code="02122400">[13r] vesp1</usage>
+      <usage ms="Wor" code="02122400">[12v] matins-n1-r3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">The verse of Pet is the verse given by CAO-S for respond c7593</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Bat Cdm Mch Ely Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Bat Cdm Mch Ely Wor Pet"> De illa occulta habitatione sua</rdg>
+         <rdg wit="CAO-C"> Die illa occulta habitationis suae</rdg>
+         <rdg wit="CAO-E CAO-V"> De illa occulta habitationis Judae</rdg>
+         <rdg wit="CAO-M"> De illa <corr sic="habitatione">habitiatione sua</corr>
+         </rdg>
+      </app> egressus est filius dei
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-D CAO-F Cdm"> descendit</rdg>
+         <rdg wit="CAO-B CAO-E CAO-R Hyd Mch Ely Pet"> descendet</rdg>
+         <rdg wit="Alb2 Bat Wor"> descendens</rdg>
+         <rdg wit="CAO-L"> et descendit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Bat Cdm Mch Ely Wor Pet"> visitare et consolari</rdg>
+         <rdg wit="CAO-C"> visitare et consolare</rdg>
+         <rdg wit="CAO-M"> visitare et <corr sic="consolare">consolari</corr>
+         </rdg>
+      </app> omnes qui eum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Cdm Mch Ely Wor Pet"> de toto corde</rdg>
+         <rdg wit="Bat"> toto corde</rdg>
+      </app> desiderabant</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-H CAO-R"> Ex Sion species decoris eius deus noster manifeste veniet</vBody>
+      <vBody type="r" wit="CAO-E">  Ex Sion species decoris eius</vBody>
+      <vBody type="r" wit="CAO-M CAO-D">  Ex Sion species</vBody>
+      <vBody type="r" wit="CAO-V"> Ecce advenit dominator dominus et in manu eius honor et imperium</vBody>
+      <vBody type="r" wit="CAO-L Hyd Alb2 Bat Cdm Mch Ely Wor"> Exsultavit ut gigas ad currendam viam
+      <app>
+            <rdg wit="CAO-L Hyd Alb2 Cdm Mch Ely Wor"> a summo caelo egressio eius</rdg>
+            <rdg wit="Bat"> a summo caelo</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F"> Tamquam sponsus dominus procedens de thalamo suo</vBody>
+      <vBody type="r" wit="Pet"> Vos qui in pulvere estis expergiscimini et laudate ecce dominus veniet cum salute</vBody>
+      <rep type="r" wit="CAO-M CAO-V CAO-H CAO-D CAO-F CAO-L Cdm"> Descendit</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-R Hyd Mch Ely Pet"> Descendet</rep>
+      <rep type="r" wit="Alb2 Wor"> Descendens</rep>
+      <rep type="r" wit="Bat"> Egressus</rep>
+   </verses>
+</res>

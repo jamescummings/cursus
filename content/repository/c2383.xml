@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2382" nextid="c2384" id="c2383">
+   <header>
+      <usage ms="Alb2" code="07046000">[97r] vesp2</usage>
+      <usage ms="Cdm" code="07046000">[70r] vesp2</usage>
+      <usage ms="Cht" code="07046000">[45v] nones</usage>
+      <usage ms="Ely" code="07046000">[80r] terce</usage>
+      <usage ms="Evm" code="07046000"/>
+      <usage ms="Glo" code="07046000">[68v] vesp2</usage>
+      <usage ms="Hyd" code="07046000">[84v] nones</usage>
+      <usage ms="Mch" code="07046000">[142v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07046000"/>
+      <usage ms="Wcb" code="07046000"/>
+      <usage ms="Wor" code="07046000"/>
+      <usage ms="Wor" code="07047000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Domine si hic fuisses Lazarus non esset mortuus ecce iam foetet quatriduanus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Ely Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">in monumento</rdg>
+         <rdg wit="CAO-F">in monumentum</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Wor">
+      <gap reason="erasure of verbal text and music notation" resp="DC"/> Lazarus non esset mortuus ecce iam foetet quatriduanus <gap reason="erasure of verbal text and music notation" resp="DC"/>
+   </aBody>
+</ant>

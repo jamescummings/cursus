@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7394" nextid="c7396" id="c7395">
+   <header>
+      <usage ms="Cdm" code="02010200">[35r] matins-r2</usage>
+      <usage ms="Alb2" code="02122600">[31r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-L Alb2 Cdm"> Positis autem genibus beatus Stephanus clamavit voce magna dicens
+     <app>
+         <rdg wit="CAO-L"> domine</rdg>
+         <rdg wit="Alb2 Cdm"> domine Jesu Christe</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> ne statuas illis hoc ad peccatum</rdg>
+         <rdg wit="Alb2 Cdm"> ne statuas illis hoc ad peccatum et cum hoc dixisset obdormivit in domino</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">Et eiecerunt eum extra civitatem lapidabant invocantem et dicentem</vBody>
+      <vBody type="r" wit="Alb2 Cdm"> Lapidabant Stephanum invocantem et dicentem domine Jesu accipe spiritum meum</vBody>
+      <rep type="r" wit="CAO-L">Domine</rep>
+      <rep type="r" wit="Alb2 Cdm">Et cum</rep>
+   </verses>
+</res>

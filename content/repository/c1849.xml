@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1848" nextid="c1850" id="c1849">
+   <header>
+      <usage ms="Hyd" code="10100000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Fec-B2 Hyd"> Cognoverunt omnes a Dan usque Bersabee quod fidelis Samuel propheta esset
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Fec-B2 Hyd"> domini</rdg>
+         <rdg wit="CAO-L"> dominum</rdg>
+      </app>
+   </aBody>
+</ant>

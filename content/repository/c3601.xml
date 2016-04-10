@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3600" nextid="c3602" id="c3601">
+   <header>
+      <usage ms="Hyd" code="09011000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Laus et perennis gloria</l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-G CAO-E CAO-D CAO-F CAO-S CAO-L Hyd">deo patri et filio</rdg>
+               <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R">deo patri cum filio</rdg>
+            </app>
+         </l>
+         <l part="N"> sancto simul paraclito</l>
+         <l part="N"> in saecula saeculorum</l>
+      </lg>
+   </aBody>
+</ant>

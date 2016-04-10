@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7261" nextid="c7263" id="c7262">
+   <rBody wit="CAO-D CAO-F CAO-S"> O constantia martyrum laudabilis
+     <app>
+         <rdg wit="CAO-D CAO-F"> o caritas inextinguibilis</rdg>
+         <rdg wit="CAO-S"> o claritas inextinguibilis</rdg>
+      </app> o patientia invisibilis quae licet inter pressuras persequentium visa sit despicabilis invenietur in laudem et gloriam et honorem in tempore retributionis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Nobis ergo petimus piis subveniant meritis honorificati a patre qui est in caelis</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Invenietur</rep>
+      <vBody id="c7262-1" type="r" wit="CAO-D"> Nobis ergo petimus piis subveniant meritis honorificati a patre qui est in caelis</vBody>
+      <rep corresp="c7262-1" type="r" num="2" wit="CAO-D"> In tempore</rep>
+   </verses>
+</res>

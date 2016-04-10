@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4244" nextid="c4246" id="c4245">
+   <aBody wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F"> Pater sanctus dum intentam oculorum aciem</rdg>
+         <rdg wit="CAO-S CAO-L"> Pater sanctus dum intenta oculorum aciem</rdg>
+      </app> in splendore coruscae lucis habere videretur vidit Germani animam Capuani episcopi in spera ignea ab angelis
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L"> in caelum deferri</rdg>
+         <rdg wit="CAO-D"> in <corr sic="caelis">caelum</corr> deferri</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5099" nextid="c5101" id="c5100">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tamquam aurum in fornace probavit electos dominus
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L"> et quasi holocausta accepit eos in aeternum</rdg>
+         <rdg wit="CAO-C CAO-D"> et quasi holocausta accepit illos in aeternum</rdg>
+         <rdg wit="CAO-S"> et quasi holocausta hostium accepit illos</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6444a" nextid="c6446" id="c6445">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+   </header>
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+   </header>
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+   </header>
+   <rBody wit="CAO-H CAO-R CAO-D"> Diffusa est
+      <app>
+         <rdg wit="CAO-H CAO-R"> gratia in labiis tuis</rdg>
+         <rdg wit="CAO-D" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R CAO-D"> Propterea
+       <app>
+            <rdg wit="CAO-H CAO-R"> benedixit te Deus in aeternum</rdg>
+            <rdg wit="CAO-D" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+   </verses>
+</res>

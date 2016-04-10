@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2522" nextid="c2524" id="c2523">
+   <header>
+      <usage ms="Alb2" code="02010100">[47v] lauds-a5</usage>
+      <usage ms="Alb2" code="02122500">[29v] sext</usage>
+      <usage ms="Cdm" code="02010100">[34r] lauds-a5</usage>
+      <usage ms="Cdm" code="02122500">[23v] nones</usage>
+      <usage ms="Evm" code="02010100">[61r] lauds-a5</usage>
+      <usage ms="Hyd" code="02010100">[34v] lauds-a5</usage>
+      <usage ms="Pet" code="02010100">[37r] lauds-a5</usage>
+      <usage ms="Wcb" code="02010100">[67r] lauds-a5</usage>
+      <usage ms="Wor" code="02010100">[25r] lauds-a5</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.143</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet"> Ecce Maria genuit nobis salvatorem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet"> quem Joannes videns</rdg>
+         <rdg wit="CAO-C CAO-M"> quem Joannes vidit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet"> exclamavit dicens</rdg>
+         <rdg wit="CAO-C"> et exclamabat dicens</rdg>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-S"> exclamabat dicens</rdg>
+      </app> ecce agnus dei
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wcb Cdm Wor Pet"> ecce qui tollit peccata mundi alleluia</rdg>
+         <rdg wit="Evm"> ecce qui tollit peccata mundi</rdg>
+      </app>
+   </aBody>
+</ant>

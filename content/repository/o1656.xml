@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1655" nextid="o1657" id="o1656">
+   <header>
+      <usage ms="Ely" code="02122400">[17r] matins-n2</usage>
+      <usage ms="Hyd" code="02122400"/>
+      <usage ms="Wcb" code="14122100">[51v] </usage>
+   </header>
+   <pBody wit="Hyd Ely Wcb">
+      <app>
+         <rdg wit="Hyd Ely">Festinantes omnipotens deus in occursum filii tui</rdg>
+         <rdg wit="Wcb">Festinantes in occursum filii tui domini nostri omnipotens deus</rdg>
+      </app> nulla impediant opera actus terreni sed caelestis sapientiae eruditio faciat nos esse consortes</pBody>
+</prayer>

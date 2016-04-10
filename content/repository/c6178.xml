@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6177" nextid="c6179" id="c6178">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beati martyres Christi Joannes et Paulus dixerunt Juliano nobis autem
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D"> alius</rdg>
+         <rdg wit="CAO-C CAO-F CAO-S CAO-L">aliud</rdg>
+      </app> non est nisi unus Deus pater et filius et spiritus sanctus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Unus spiritus</rdg>
+            <rdg wit="CAO-S">Unus dominus</rdg>
+         </app> et una fides erat in eis</vBody>
+      <vBody type="r" wit="CAO-C CAO-D CAO-F CAO-L"> Una fides unum baptisma unus
+       <app>
+            <rdg wit="CAO-C CAO-D CAO-F CAO-L">spiritus</rdg>
+            <rdg wit="CAO-F CAO-L">spiritus sanctus</rdg>
+         </app> erat in eis</vBody>
+      <rep type="r" wit="CAO-C CAO-D CAO-F CAO-L CAO-B CAO-H CAO-R CAO-S">Pater</rep>
+      <rep type="r" wit="CAO-E CAO-M CAO-V">Nobis autem</rep>
+   </verses>
+</res>

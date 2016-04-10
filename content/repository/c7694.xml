@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7693" nextid="c7695" id="c7694">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-E CAO-V CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-L"> Spiritus sanctus replevit totam domum</rdg>
+         <rdg wit="CAO-V Hyd"> Spiritus domini replevit totam domum</rdg>
+      </app> ubi erant apostoli et apparuerunt illis dispertitae linguae tam quam ignis seditque supra singulos eorum et repleti sunt omnes spiritu sancto et coeperunt loqui variis linguis prout spiritus sanctus dabat eloqui illis alleluia alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-E CAO-L"> Dum essent in unum congregati</rdg>
+            <rdg wit="CAO-F Hyd"> Dum ergo essent discipuli in unum congregati</rdg>
+         </app> propter metum Judaeorum
+      <app>
+            <rdg wit="CAO-F CAO-L Hyd"> sonus repente de caelo</rdg>
+            <rdg wit="CAO-E"> sonus repente</rdg>
+         </app> venit super eos</vBody>
+      <vBody type="r" wit="CAO-V"> Factus est repente de caelo sonus tamquam advenientis spiritus vehementis</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-L Hyd">Et repleti</rep>
+      <rep type="r" wit="CAO-F">Tamquam</rep>
+   </verses>
+</res>

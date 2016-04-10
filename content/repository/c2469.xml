@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2468" nextid="c2470" id="c2469">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> Dum sacrum mysterium cerneret Joannes</rdg>
+         <rdg wit="CAO-L"> Dum sacra mysteria cerneret Joannes</rdg>
+         <rdg wit="CAO-V"> Dum sacrum mysterium cernerent Joannes</rdg>
+      </app> archangelus Michael tuba cecinit
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F"> ignosce domine deus noster qui aperis librum et solvis signacula eius alleluia</rdg>
+         <rdg wit="CAO-V"> ignosce domine deus meus qui aperis librum et solvit signacula eius alleluia</rdg>
+         <rdg wit="CAO-L"> ignosce domine deus noster qui aperis librum et solvit signacula eius alleluia</rdg>
+         <rdg wit="CAO-B CAO-M CAO-R">dignus es domine deus noster accipere librum et aperire signacula eius alleluia</rdg>
+         <rdg wit="CAO-H">dignus es domine deus noster accipere librum et solvere signacula eius alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

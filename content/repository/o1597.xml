@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1596" nextid="o1598" id="o1597">
+   <header>
+      <usage ms="Evm" code="06034000">[103r] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.874</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm">Memor esto quaesumus domine fragilitatis humanae et qui iuste verberas peccatores parce propitiatus afflictis</pBody>
+</prayer>

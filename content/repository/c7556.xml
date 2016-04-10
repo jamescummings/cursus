@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7555" nextid="c7557" id="c7556">
+   <rBody wit="CAO-D CAO-F"> Sacerdotes dei benedicite deum sancti et humiles corde laudate deum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Cantate ei canticum novum bene psallite ei in vociferatione</vBody>
+      <vBody type="r" wit="CAO-F"> Spiritus et animae iustorum hymnum dicite deo nostro</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Sancti</rep>
+   </verses>
+</res>

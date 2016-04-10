@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7369" nextid="c7371" id="c7370">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Peccata mea domine sicut sagittae
+     <app>
+         <rdg wit="CAO-G CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> infixa sunt</rdg>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R"> infixae sunt</rdg>
+         <rdg wit="CAO-E"> infixa<corr sic="infixe"/> sunt</rdg>
+      </app> in me
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> sed</rdg>
+         <rdg wit="CAO-B"> et</rdg>
+      </app> antequam vulnera
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Alb2 Hyd"> generent in me</rdg>
+         <rdg wit="CAO-F"> generant in me</rdg>
+      </app> sana me domine
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Alb2 Hyd"> medicamento</rdg>
+         <rdg wit="CAO-F"> medicamentum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2"> paenitentiae deus</rdg>
+         <rdg wit="Hyd"> paenitentiae</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> Quoniam iniquitatem meam ego agnosco et delictum meum coram me est semper tibi soli peccavi</vBody>
+      <vBody type="r" wit="CAO-E"> Quoniam iniquitatem meam</vBody>
+      <vBody type="r" wit="CAO-G CAO-D Alb2"> Sana me domine et sanabor salvum me fac et salvus ero</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-H CAO-S CAO-L">Sed</rep>
+      <rep type="r" wit="CAO-B CAO-R CAO-F Alb2 Hyd">Sana</rep>
+      <rep type="r" wit="CAO-D">Medicamento</rep>
+   </verses>
+</res>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7469b" nextid="c7471" id="c7470">
+   <header>
+      <usage ms="Alb2" code="02122500">[25v] matins-n1-r4</usage>
+      <usage ms="Bat" code="02122500">[15v] matins-n1-r4</usage>
+      <usage ms="Cdm" code="02122500">[21v] matins-n1-r4</usage>
+      <usage ms="Ely" code="02122500">[18v] matins-n1-r3</usage>
+      <usage ms="Hyd" code="02122500" corresp="c7470-3">[18r] matins-n2-r5</usage>
+      <usage ms="Hyd" code="03021000" corresp="c7470-4">[31r] matins-n1-r1</usage>
+      <usage ms="Pet" code="02010100">[34v] matins-n1-r1</usage>
+      <usage ms="Wor" code="02010100" corresp="c7470-5">[24v] matins-n1-r1</usage>
+      <usage ms="Wor" code="02122500">[15r] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor Pet"> Quem vidistis pastores</rdg>
+         <rdg wit="CAO-F"> Quam vidistis pastores</rdg>
+         <rdg wit="CAO-D"> Quem vidisti pastores</rdg>
+      </app> dicite
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor Pet"> annuntiate nobis</rdg>
+         <rdg wit="CAO-C"> annuntiate vobis</rdg>
+      </app> in terris quis apparuit natum vidimus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Alb2 Bat Cdm Ely Wor Pet"> in choro angelorum salvatorem dominum</rdg>
+         <rdg wit="CAO-F CAO-L Hyd"> et choros angelorum collaudantes dominum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Bat Cdm Ely">
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-S Alb2 Bat Cdm Ely"> Dicite</rdg>
+            <rdg wit="CAO-L"> Dicite pastores</rdg>
+         </app> quidnam vidistis et annuntiate Christi nativitatem</vBody>
+      <vBody id="c7470-5" type="r" wit="Wor">Dicite quidnam vidistis et annuntiate Christi nativitatem</vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R Pet"> Natus est nobis hodie salvator qui est Christus dominus in civitate David</vBody>
+      <rep type="r" wit="Pet">
+         <supplied>Natum</supplied>
+      </rep>
+      <vBody type="r" num="2" wit="Pet">Dicite quidnam vidistis et annuntiate Christi nativitatem</vBody>
+      <rep type="r" num="2" wit="Pet">Natum</rep>
+      <vBody id="c7470-1" type="r" wit="CAO-D"> Natus est nobis hodie salvator qui est Christus</vBody>
+      <rep corresp="c7470-1" type="r" wit="CAO-D">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-D</note>
+      </rep>
+      <vBody id="c7470-2" type="r" num="2" wit="CAO-D"> Dicite quidnam vidistis dominus in civitate David</vBody>
+      <rep corresp="c7470-2" type="r" wit="CAO-D"> Natum</rep>
+      <vBody id="c7470-3" type="r" wit="Hyd Wor">Secundum quod dictum est nobis ab angelo de puero isto invenimus infantem pannis involutum et positum in praesepio in medio duum animalium</vBody>
+      <vBody id="c7470-4" type="r" wit="Hyd"> Natus est nobis hodie salvator qui est Christus dominus in civitate David</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor">Natum</rep>
+   </verses>
+</res>

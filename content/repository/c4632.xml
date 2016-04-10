@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4631" nextid="c4633" id="c4632">
+   <aBody wit="CAO-C CAO-D">
+      <app>
+         <rdg wit="CAO-C"> Respondens Hippolytus ad Decium dicens</rdg>
+         <rdg wit="CAO-D"> Respondens Hippolytus dixit ad Decium</rdg>
+      </app> non sum ego magus
+     <app>
+         <rdg wit="CAO-C"> sed magus nisi christianus</rdg>
+         <rdg wit="CAO-D"> sed sum christianus</rdg>
+      </app>
+   </aBody>
+</ant>

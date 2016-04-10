@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3117" nextid="c3119" id="c3118">
+   <aBody wit="CAO-D CAO-F CAO-S CAO-L"> Hodie sanctus Joannes pontifex cum maximo cleri plebisque tripudio pretiosi protomartyris Stephani reliquias in sanctam transtulit ecclesiam Sion ubi quondam archidiaconi functus
+     <app>
+         <rdg wit="CAO-F CAO-S CAO-L"> est officio</rdg>
+         <rdg wit="CAO-D"> est officia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> cuius</rdg>
+         <rdg wit="CAO-S"> huius</rdg>
+      </app> pia apud deum sit pro nobis quaesumus intercessio</aBody>
+</ant>

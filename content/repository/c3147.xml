@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3146" nextid="c3148" id="c3147">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R"> Hunc ergo locum dei famulus elegit
+     <app>
+         <rdg wit="CAO-H CAO-R"> expetendum</rdg>
+         <rdg wit="CAO-C"> expetendo</rdg>
+         <rdg wit="CAO-V"> expectendo</rdg>
+      </app>
+   </aBody>
+</ant>

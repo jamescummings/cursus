@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1502" nextid="o1504" id="o1503">
+   <header>
+      <usage ms="Alb2" code="07013000"/>
+      <usage ms="Bat" code="07013000">[50v] lauds</usage>
+      <usage ms="Cdm" code="07013000">[59r] lauds</usage>
+      <usage ms="Cht" code="07013000"/>
+      <usage ms="Ely" code="07013000"/>
+      <usage ms="Evm" code="07013000"/>
+      <usage ms="Hyd" code="07013000"/>
+      <usage ms="Mch" code="07013000">[119r] lauds</usage>
+      <usage ms="Wcb" code="07013000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.175</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">Respice domine familiam tuam et praesta ut apud te mens nostra tuo desiderio fulgeat quae se carnis maceratione castigat</pBody>
+</prayer>

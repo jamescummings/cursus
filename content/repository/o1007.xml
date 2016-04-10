@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1006" nextid="o1008" id="o1007">
+   <header>
+      <usage ms="Alb2" code="06035000">[73v] vesp2</usage>
+      <usage ms="Bat" code="06035000">[46v] vesp2</usage>
+      <usage ms="Cdm" code="06035000">[55v] vesp2</usage>
+      <usage ms="Cht" code="06035000"/>
+      <usage ms="Ely" code="06035000"/>
+      <usage ms="Evm" code="06035000"/>
+      <usage ms="Hyd" code="06035000"/>
+      <usage ms="Mch" code="06035000">[111r] vesp2</usage>
+      <usage ms="Wcb" code="06035000"/>
+   </header>
+   <pBody wit="Cht Alb2 Hyd Ely Evm Wcb Cdm Bat Mch"> Parce domine parce populo tuo ut dignis flagellationibus castigatus in tua miseratione respiret</pBody>
+</prayer>

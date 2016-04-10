@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1139" nextid="o1500" id="o1140">
+   <header>
+      <usage ms="Alb2" code="07027000"/>
+      <usage ms="Evm" code="07027000"/>
+      <usage ms="Hyd" code="07027000">[77v] unknown</usage>
+      <usage ms="Wcb" code="07027000"/>
+   </header>
+   <pBody wit="Hyd Evm Wcb Alb2"> Da quaesumus domine nostris effectum ieiuniis salutarem ut castigatio carnis assumpta ad nostrarum vegetationem transeat animarum</pBody>
+</prayer>

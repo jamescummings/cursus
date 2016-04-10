@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3126" nextid="c3128" id="c3127">
+   <aBody wit="CAO-G CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Homo erat in Jerusalem cui nomen Simeon homo iste iustus et timoratus
+     <app>
+         <rdg wit="CAO-G CAO-M CAO-V CAO-F CAO-S CAO-L"> exspectabat redemptionem Israel</rdg>
+         <rdg wit="CAO-D"> exspectans consolationem Israel</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S CAO-L"> et spiritus sanctus erat in eo</rdg>
+         <rdg wit="CAO-G CAO-M"> et spiritus dei erat in eo</rdg>
+      </app>
+   </aBody>
+</ant>

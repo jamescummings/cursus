@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2506" nextid="c2508" id="c2507">
+   <header>
+      <usage ms="Ely" code="01043000">[15r] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G Ely">
+      <app>
+         <rdg wit="CAO-C CAO-G"> Ecce dominus noster cum virtute veniet</rdg>
+         <rdg wit="Ely"> Ecce veniet dominus noster</rdg>
+      </app> et ipse conteret iugum captivitatis nostrae</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6271" nextid="c6273" id="c6272">
+   <rBody wit="CAO-E CAO-F"> Celebremus conversionem sancti Pauli apostoli quia hodie ex persecutore effectus est vas electionis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F">
+         <app>
+            <rdg wit="CAO-E"> Gaudent angeli atque laetantur archangeli</rdg>
+            <rdg wit="CAO-F"> Gaudent angeli et exsultent archangeli </rdg>
+         </app> et collaudant in caelis filium Dei</vBody>
+      <rep type="r" wit="CAO-E CAO-F">Quia hodie</rep>
+   </verses>
+</res>

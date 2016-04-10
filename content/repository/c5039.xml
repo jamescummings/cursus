@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5038" nextid="c5039b" id="c5039">
+   <header>
+      <usage ms="Alb2" code="02122800">[39v] lauds-a4</usage>
+      <usage ms="Bat" code="02122800">[24r] lauds-a4</usage>
+      <usage ms="Cdm" code="02122800">[29v] lauds-a4</usage>
+      <usage ms="Evm" code="02122800">[49r] lauds-a4</usage>
+      <usage ms="Hyd" code="02122800">[27v] lauds-a4</usage>
+      <usage ms="Pet" code="02122800">[31v] lauds-a4</usage>
+      <usage ms="Wcb" code="02122800">[64v] lauds-a4</usage>
+      <usage ms="Wor" code="02122800">[23r] lauds-a4</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">see c8581 for an expanded version, used inter alia by Hyd, Evm and Alb2 for matins</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Sub throno dei omnes sancti clamant</rdg>
+         <rdg wit="CAO-G"> Sub throno dei sancti clamant</rdg>
+      </app> vindica sanguinem nostrum deus noster</aBody>
+</ant>

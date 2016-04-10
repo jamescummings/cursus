@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Welcome!</title>
+</head>
+<body>
+<h1>Welcome!</h1>
+
+<p>Welcome to the web-site of the <span class="project_name">CURSUS</span> project.</p>
+<h3>The Project:</h3>
+<p>The purpose of the <span class="project_name">CURSUS</span> project is 
+to employ the Extensible Markup Language (<span class="acronym">XML</span>), 
+together with transformations performed by the Extensible Stylesheet Language 
+(<span class="acronym">XSLT</span>), to make data from sources of medieval Latin 
+liturgy available on the Web.  The project is housed at <a href="http://www.uea.ac.uk/">
+The University of East Anglia, Norwich</a>, and was funded 2000 - 2003 by a 
+major research grant from the <a href="http://www.ahrb.ac.uk/">Arts and 
+Humanities Research Board of the UK</a>.</p>
+<h3>The Website:</h3>
+<p>This site has two main branches, which may be accessed from the navigation 
+links on the left.  The first ('About <span class="project_name">CURSUS</span>') 
+takes you to pages which explain the nature of the project and of the data it 
+presents, its editorial method, and the technologies we have employed.  The 
+other ('Explore <span class="project_name">CURSUS</span> data') will take you 
+directly to the pages which enable you to access the data.</p>
+</body>
+</html>

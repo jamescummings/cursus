@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2665" nextid="c2667" id="c2666">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H Hyd"> Erexit nobis dominus cornu alleluia in domo David pueri sui alleluia
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H Hyd"> sicut locutus est</rdg>
+         <rdg wit="CAO-E"> sicut locutus es</rdg>
+      </app> alleluia alleluia</aBody>
+</ant>

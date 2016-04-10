@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4803" nextid="c4805" id="c4804">
+   <aBody wit="CAO-E CAO-M CAO-D CAO-F"> Sanctus Vincentius a pueritia studiis litterarum traditus superna sibi providente clementia
+     <app>
+         <rdg wit="CAO-M CAO-D CAO-F"> gemina scientia efficacissime claruit</rdg>
+         <rdg wit="CAO-E"> geminam scientiae efficacissime claruit</rdg>
+      </app>
+   </aBody>
+</ant>

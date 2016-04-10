@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6669" nextid="c6671" id="c6670">
+   <rBody wit="CAO-V CAO-H"> Erue a framea
+      <app>
+         <rdg wit="CAO-H"> deus animam meam</rdg>
+         <rdg wit="CAO-V" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> Eripe me domine ab homine malo</vBody>
+      <vBody type="r" wit="CAO-H"> Et de manu canis unicam meam</vBody>
+   </verses>
+</res>

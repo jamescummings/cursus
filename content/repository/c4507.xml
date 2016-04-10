@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4506" nextid="c4508" id="c4507">
+   <header>
+      <usage ms="Cdm" code="07064000">[77r] terce</usage>
+      <usage ms="Cht" code="07055000">[52r] prime</usage>
+      <usage ms="Ely" code="07064000">[88r] nones-a1</usage>
+      <usage ms="Evm" code="07056000">[140r] prime</usage>
+      <usage ms="Glo" code="07056000">[71v] prime</usage>
+      <usage ms="Hyd" code="07063000">[92v] sext</usage>
+      <usage ms="Pet" code="07063000">[87r] nones</usage>
+      <usage ms="Wcb" code="07056000">[110v] prime</usage>
+      <usage ms="Wor" code="07063000">[57v] -a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm"> Quia ego tecum sum de manu pessimorum liberabo te dicit dominus</aBody>
+</ant>

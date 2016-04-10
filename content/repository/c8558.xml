@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8557" nextid="c8559" id="c8558">
+   <header>
+      <usage ms="Hyd" code="08014000">[103v] prime-a1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. antiphons c5018, c5031</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Hyd"> Stetit Jesus in litore non tamen cognoverunt discipuli quia Jesus erat</aBody>
+</ant>

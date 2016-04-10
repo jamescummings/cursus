@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7027" nextid="c7029" id="c7028">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Ite in orbem universum
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S Hyd"> et praedicate</rdg>
+         <rdg wit="CAO-H CAO-L"> praedicate</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> dicentes alleluia</rdg>
+         <rdg wit="CAO-G"> dicentes</rdg>
+         <rdg wit="CAO-L"> evangelium omni creaturae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-L"> qui crediderit</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-S Hyd"> et qui crediderit</rdg>
+         <rdg wit="CAO-G"> qui credideret</rdg>
+      </app> et baptizatus fuerit salvus erit alleluia alleluia alleluia</rBody>
+   <verses>
+      <vBody id="c7028-2" type="r" wit="CAO-C CAO-F Hyd">
+         <app>
+            <rdg wit="CAO-C"> Signa eos</rdg>
+            <rdg wit="CAO-F Hyd"> Signa autem eos</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C"> qui in me credunt</rdg>
+            <rdg wit="CAO-F Hyd"> qui crediderint</rdg>
+         </app> haec sequentur in nomine meo daemonia eicient linguis
+       <app>
+            <rdg wit="CAO-F Hyd"> loquentur</rdg>
+            <rdg wit="CAO-C"> locuntur</rdg>
+         </app> novis</vBody>
+      <rep corresp="c7028-2" type="r" wit="CAO-C CAO-F Hyd">Et qui crediderit</rep>
+      <vBody id="c7028-1" type="r" num="2" wit="CAO-C CAO-F"> In nomine patris et filii et spiritus sancti</vBody>
+      <rep corresp="c7028-1" type="r" wit="CAO-C CAO-F">Et qui</rep>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S"> In nomine patris et filii et spiritus sancti</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-L"> Signa eos qui
+       <app>
+            <rdg wit="CAO-G CAO-L"> in me credunt</rdg>
+            <rdg wit="CAO-D"> crediderint</rdg>
+         </app> haec sequentur in nomine meo daemonia eicient linguis loquentur novis</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-D CAO-R">Qui crediderit</rep>
+      <rep type="r" wit="CAO-V CAO-S"> Et qui</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+   </verses>
+</res>

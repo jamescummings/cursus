@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6154" nextid="c6156" id="c6155">
+   <header>
+      <usage ms="Evm" code="01017000">[11v] vesp1</usage>
+      <usage ms="Glo" code="01017000">[12r] vesp2</usage>
+   </header>
+   <rBody wit="CAO-F Evm Glo"> Ave Maria gratia plena dominus tecum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F">Benedicta tu inter mulieres et benedictus fructus ventris tui</vBody>
+      <vBody type="r" wit="Evm Glo"> Benedicta tu in mulieribus</vBody>
+      <rep type="r" wit="CAO-F">Dominus</rep>
+      <rep type="r" wit="Evm">Ave Maria</rep>
+      <dox type="r" wit="Evm Glo">Gloria</dox>
+   </verses>
+</res>

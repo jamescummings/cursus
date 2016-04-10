@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2575" nextid="c2577" id="c2576">
+   <header>
+      <usage ms="Hyd" code="10200000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-V CAO-F CAO-S CAO-L"> Ego in altissimis habitavi</rdg>
+         <rdg wit="CAO-C CAO-D Hyd"> Ego in altissimis inhabitavi</rdg>
+         <rdg wit="CAO-B CAO-E CAO-R"> Ego in altissimis habito</rdg>
+         <rdg wit="CAO-H"> Ego in altissimis habitabo</rdg>
+      </app> et thronus meus in columna nubis</aBody>
+</ant>

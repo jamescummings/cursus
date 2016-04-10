@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2645" nextid="c2646b" id="c2646">
+   <aBody wit="CAO-C CAO-B CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> Erant autem qui manducaverant</rdg>
+         <rdg wit="CAO-C"> Erant autem qui manducaverunt</rdg>
+      </app> quasi quatuor millia
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et dimisit eos</rdg>
+         <rdg wit="CAO-C"> et dimisit eos alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

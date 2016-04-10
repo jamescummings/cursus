@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1247" nextid="c1249" id="c1248">
+   <header>
+      <usage ms="Cht" code="07046000">[45v] vesp2</usage>
+      <usage ms="Ely" code="07046000">[80r] vesp2</usage>
+      <usage ms="Pet" code="07046000"/>
+      <usage ms="Wor" code="07046000"/>
+   </header>
+   <aBody wit="CAO-C CAO-V CAO-D Ely Wor Cht Pet"> Ad monumentum <name reg="Lazarus" type="person">Lazari</name> clamabat dominus dicens <name reg="Lazarus" type="person">Lazare</name> veni foras</aBody>
+</ant>

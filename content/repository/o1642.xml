@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1641" nextid="o1643" id="o1642">
+   <header>
+      <usage ms="Alb2" code="07033000"/>
+      <usage ms="Bat" code="07033000">[55v] vesp2</usage>
+      <usage ms="Cdm" code="07033000">[66r] vesp2</usage>
+      <usage ms="Mch" code="07033000">[134r] vesp2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.239</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Cdm Mch Bat">Tua nos domine protectione defende et ab omni semper iniquitate custodi</pBody>
+</prayer>

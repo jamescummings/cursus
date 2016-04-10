@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4111" nextid="c4113" id="c4112">
+   <aBody wit="CAO-E CAO-H CAO-R CAO-F"> Odor tuus sancta dei genitrix sicut odor balsami
+     <app>
+         <rdg wit="CAO-H CAO-R"> quasi lilium sic efflorebit</rdg>
+         <rdg wit="CAO-E"> quasi lilium sic florebit</rdg>
+         <rdg wit="CAO-F"> quasi lilium sic efflorebis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R"> dei genitrix virgo</rdg>
+         <rdg wit="CAO-F"> dei genitrix virgo alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1609" nextid="o1611" id="o1610">
+   <header>
+      <usage ms="Alb2" code="07063000">[106v] vesp2</usage>
+      <usage ms="Cdm" code="07063000">[76v] vesp2</usage>
+      <usage ms="Evm" code="07063000">[146r] vesp2</usage>
+      <usage ms="Mch" code="07063000">[156v] vesp2</usage>
+      <usage ms="Wcb" code="07063000">[114r] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.322</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Wcb Alb2 Cdm Mch">Tua nos misericordia deus et ab omni subreptione vetustatis expurget et capaces sanctae novitatis efficiat</pBody>
+</prayer>

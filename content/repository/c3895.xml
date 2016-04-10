@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3894" nextid="c3896" id="c3895">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Nolite solliciti esse dicentes
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> quid manducabimus aut quid bibemus</rdg>
+         <rdg wit="CAO-M"> quid manducabimus aut bibemus</rdg>
+      </app> scit enim pater vester caelestis
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> quid vobis necesse sit alleluia</rdg>
+         <rdg wit="CAO-V"> quod vobis necesse scit alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

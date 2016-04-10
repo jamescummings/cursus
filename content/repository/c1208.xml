@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1207" nextid="c1209" id="c1208">
+   <header>
+      <usage ms="Alb2" code="07041000">[95r] lauds</usage>
+      <usage ms="Cdm" code="07041000">[68v] lauds gosp</usage>
+      <usage ms="Cht" code="07041000">[42r] lauds</usage>
+      <usage ms="Ely" code="07041000">[78v] lauds</usage>
+      <usage ms="Evm" code="07041000">[129v] lauds</usage>
+      <usage ms="Hyd" code="07041000">[83r] lauds</usage>
+      <usage ms="Mch" code="07041000">[139v] lauds gosp</usage>
+      <usage ms="Pet" code="07041000">[76r] matins</usage>
+      <usage ms="Wcb" code="07041000">[105r] lauds</usage>
+      <usage ms="Wor" code="07041000"/>
+   </header>
+   <aBody wit="CAO-G CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Abiit Jesus trans mare Galilaeae et sequebatur eum
+     <app>
+         <rdg wit="CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> multitudo magna</rdg>
+         <rdg wit="CAO-G"> maxima multitudo</rdg>
+      </app> quia videbant signa
+     <app>
+         <rdg wit="CAO-F Ely Wor Cht Hyd Pet Evm Wcb Alb2 Mch"> quae faciebat</rdg>
+         <rdg wit="CAO-G"> quae faciebant</rdg>
+         <rdg wit="Cdm"> quae facieba<del status="unremarkable">n</del>t</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-F Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> erat autem proximum pascha dies festus Judaeorum</rdg>
+         <rdg wit="Cht"> erat autem <del type="marked with underline dots" resp="DC" status="unremarkable">Christum</del> pascha dies festus Judaeorum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5164" nextid="c5166" id="c5165">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Bat" code="06031000">[46r] prime</usage>
+      <usage ms="Cdm" code="06031000">prime</usage>
+      <usage ms="Cht" code="07024000"/>
+      <usage ms="Ely" code="07024000"/>
+      <usage ms="Glo" code="06038000">[57v] </usage>
+      <usage ms="Hyd" code="07024000"/>
+      <usage ms="Mch" code="07024000">[126v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07024000"/>
+      <usage ms="Wor" code="07024000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Ely Wor Hyd Cht Pet Glo Cdm Bat Mch"> Tradetur enim gentibus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Ely Wor Hyd Cht Pet Cdm Bat Mch"> ad illudendum</rdg>
+         <rdg wit="Glo"> ad deludendum</rdg>
+      </app> et flagellandum et crucifigendum</aBody>
+   <aBody wit="CAO-S Ely"> Tradetur enim gentibus et illudetur et flagellabitur et conspuetur</aBody>
+</ant>

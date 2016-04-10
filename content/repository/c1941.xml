@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1940" nextid="c1942" id="c1941">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] lauds-a4</usage>
+      <usage ms="Bat" code="02122400">[14r] lauds-a4</usage>
+      <usage ms="Cdm" code="02122400">[21r] lauds-a4</usage>
+      <usage ms="Ely" code="02122400">[17r] lauds-a4</usage>
+      <usage ms="Evm" code="02122400">[31v] lauds-a4</usage>
+      <usage ms="Hyd" code="02122400">[16v] lauds-a4</usage>
+      <usage ms="Pet" code="02122400">[14r] lauds-a4</usage>
+      <usage ms="Wcb" code="02122400">[52v] lauds-a4</usage>
+      <usage ms="Wor" code="02122400">[13r] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Crastina erit vobis salus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> dicit dominus deus exercituum</rdg>
+         <rdg wit="Mch"> dicit dominus <add place="interlined">deus</add> exercituum</rdg>
+         <rdg wit="CAO-C"> dicit dominus exercituum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1989b" nextid="c1991" id="c1990">
+   <header>
+      <usage ms="Hyd" code="08051000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cum autem venerit ille spiritus veritatis</rdg>
+         <rdg wit="Hyd"> Cum autem venerit paraclitus spiritus veritatis</rdg>
+      </app> docebit vos omnem veritatem et quae ventura sunt annuntiabit vobis alleluia</aBody>
+</ant>

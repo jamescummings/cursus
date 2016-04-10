@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7294" nextid="c7296" id="c7295">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O quantus erat
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> luctus omnium</rdg>
+         <rdg wit="CAO-E CAO-M CAO-S"> luctus hominum</rdg>
+      </app> quanta praecipue moerentium lamenta monachorum quia
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et pium</rdg>
+         <rdg wit="CAO-B CAO-E"> pium</rdg>
+      </app> est gaudere
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S"> Martinum</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-L"> Martino</rdg>
+      </app> et pium est flere Martinum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Beati viri corpus usque ad locum sepulcri hymnis canora
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-S"> caelestibus</rdg>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-F"> caelestis</rdg>
+         </app> turba prosequitur</vBody>
+      <vBody type="r" wit="CAO-L"> Dum unusquisque sibi praestet ut doleat et illi debet ut gaudeat</vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Tanta erat de sancti illius meriti exsultatio quam pia de morte confusio ignosceris flentibus gratinare gaudentibus</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Quia</rep>
+   </verses>
+</res>

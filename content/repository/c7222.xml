@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7221" nextid="c7223" id="c7222">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-F"> Nomen beati et gloriosi Georgius est martyr Christi praestans orationibus suis beneficia
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-F"> hominibus</rdg>
+         <rdg wit="CAO-E"> populis</rdg>
+      </app> usque in praesentem diem alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V"> Potens in terra erit semen eius generatio rectorum benedicetur</vBody>
+      <vBody type="r" wit="CAO-M CAO-F"> Potens in terra</vBody>
+      <vBody type="r" wit="CAO-E"> Iustum deduxit dominus per vias rectas et ostendit illi regnum Dei</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-V">Usque</rep>
+      <rep type="r" wit="CAO-E CAO-F">Praestans</rep>
+   </verses>
+</res>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2180" nextid="c2182" id="c2181">
+   <aBody wit="CAO-M CAO-F"> Deus qui es benedictus in saecula saeculorum suscipe preces archangelorum
+     <app>
+         <rdg wit="CAO-F"> et orationem sancti Petri</rdg>
+         <rdg wit="CAO-M"> et oratione sancti Joannis</rdg>
+      </app> libera populum
+     <app>
+         <rdg wit="CAO-F"> ad te clamantem</rdg>
+         <rdg wit="CAO-M"> ad te clamantes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> et mitte nobis auxilium de caelo</rdg>
+         <rdg wit="CAO-M"> et mitte nobis auxilium de caelis</rdg>
+      </app> sanctus deus sanctus fortis sanctus et immortalis qui tollis peccata mundi miserere nobis alleluia</aBody>
+</ant>

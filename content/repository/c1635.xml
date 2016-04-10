@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1634" nextid="c1636" id="c1635">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D"> Beatus iste sanctus qui confisus est in domino</rdg>
+         <rdg wit="CAO-F"> Beatus iste sanctus qui confixus est in domino</rdg>
+         <rdg wit="CAO-L"> Beatus iste sanctus qui confidit in domino</rdg>
+      </app> praedicavit praeceptum domini constitutus est in monte sancto eius</aBody>
+</ant>

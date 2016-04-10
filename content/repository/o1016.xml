@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1015" nextid="o1017" id="o1016">
+   <header>
+      <usage ms="Ely" code="0700000"/>
+      <usage ms="Hyd" code="06034000">[67v] terce</usage>
+   </header>
+   <pBody wit="Hyd Ely"> Concede nobis misericors deus ut cum abstinentia corporali mens quoque nosta sensus declinet illicitos Per</pBody>
+</prayer>

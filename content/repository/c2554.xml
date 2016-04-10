@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2553" nextid="c2555" id="c2554">
+   <header>
+      <usage ms="Alb2" code="02122600">[33r] lauds-a5</usage>
+      <usage ms="Bat" code="02122600">[20v] lauds-a5</usage>
+      <usage ms="Cdm" code="02122600">[25v] lauds-a5</usage>
+      <usage ms="Evm" code="02122600">[41v] lauds-a4</usage>
+      <usage ms="Hyd" code="02122600">[23r] none</usage>
+      <usage ms="Pet" code="02122600">[24r] lauds-a5</usage>
+      <usage ms="Wcb" code="02122600">[60r] lauds-a4</usage>
+      <usage ms="Wor" code="02122600">[18v] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> Ecce video caelos apertos et Jesum stantem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> a dextris dei</rdg>
+         <rdg wit="CAO-C CAO-V CAO-F"> ad dextris dei</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Hyd" type="incipit">
+      <note type="editorial" resp="DC" place="unspecified" anchored="yes">Full version probably on lost leaf of Ms</note> Ecce video</aBody>
+</ant>

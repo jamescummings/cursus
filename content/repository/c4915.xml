@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4914" nextid="c4916" id="c4915">
+   <header>
+      <usage ms="Mch" code="06028000">[106r] </usage>
+      <usage ms="Cdm" code="06028000"/>
+      <usage ms="Cht" code="06028000"/>
+      <usage ms="Glo" code="06021000">[56v] sext</usage>
+      <usage ms="Hyd" code="06028000"/>
+      <usage ms="Pet" code="06021000">[60r] vesp2</usage>
+      <usage ms="Wcb" code="06021000">[88v] sext</usage>
+      <usage ms="Wor" code="06028000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cht Wor Pet Wcb Glo Cdm Mch"> Si vere fratres divites
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Cht Wor Pet Wcb Glo Cdm Mch">esse cupitis</rdg>
+         <rdg wit="Hyd">ecce cupitis</rdg>
+      </app> veras divitias amate</aBody>
+</ant>

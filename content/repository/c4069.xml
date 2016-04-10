@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4068b" nextid="c4070" id="c4069">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-D CAO-F CAO-S"> O quam pulchra es casta generatio</rdg>
+         <rdg wit="CAO-B CAO-V CAO-R CAO-L"> O quam pulchra est casta generatio</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-R CAO-L"> cum claritate</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S"> cum caritate</rdg>
+         <rdg wit="CAO-H"> cum <corr sic="caritate">claritate</corr>
+         </rdg>
+         <rdg wit="CAO-B"> cum c<del type="erasure" status="unremarkable">l</del>aritate</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-M" type="incipit"> O quam pulchra</aBody>
+</ant>

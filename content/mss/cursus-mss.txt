@@ -1,0 +1,12 @@
+
+
+This file contains the original XML of the 
+CURSUS manuscript files.  All biblical readings, 
+antiphons, responds and prayers are added in 
+at the time of processing and exist in these 
+files as <xptr>s to the CURSUS repository and 
+vulgate files.
+
+-CURSUS Project
+James.Cummings@it.ox.ac.uk
+

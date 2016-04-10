@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6405" nextid="c6407" id="c6406">
+   <header>
+      <usage ms="Alb2" code="07011000">[77r] matins-n3-r9</usage>
+      <usage ms="Evm" code="07011000">[106r] matins-n2-r6</usage>
+      <usage ms="Mch" code="07011000">[114r] matins-n2-r8</usage>
+      <usage ms="Wcb" code="07011000">[92v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-E CAO-R CAO-F Evm Wcb Alb2 Mch">Derelinquat impius viam suam et vir iniquus cogitationes suas
+      <app>
+         <rdg wit="CAO-E CAO-R Evm Wcb Alb2 Mch"> et revertatur ad dominum</rdg>
+         <rdg wit="CAO-F"> et revertetur ad dominum</rdg>
+      </app> et miserebitur eius quia benignus et misericors est praestabilis
+      <app>
+         <rdg wit="CAO-E CAO-F Evm Wcb Mch"> super malitiam</rdg>
+         <rdg wit="CAO-R Alb2"> super malitia</rdg>
+      </app> dominus deus noster</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-F Alb2 Mch">
+         <app>
+            <rdg wit="CAO-F Mch"> Non vult dominus mortem peccatoris</rdg>
+            <rdg wit="CAO-R Alb2"> Non vult mortem peccatoris</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-F Mch"> sed ut convertatur et vivat</rdg>
+            <rdg wit="Alb2"> sed ut magis convertatur et vivat</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E Evm Wcb"> Scindite corda vestra et non vestimenta vestra et convertimini ad dominum
+      <app>
+            <rdg wit="CAO-E"> deum</rdg>
+            <rdg wit="Evm"> deum nostrum</rdg>
+            <rdg wit="Wcb"> deum vestrum</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-R CAO-F CAO-E Evm Wcb Alb2 Mch"> Quia</rep>
+      <rep type="r" wit="CAO-E"> Et revertatur</rep>
+   </verses>
+</res>

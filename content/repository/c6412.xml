@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6411b" nextid="c6413" id="c6412">
+   <rBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Desiderium animae eius
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> tribuisti ei domine</rdg>
+         <rdg wit="CAO-V CAO-L"> tribuisti ei</rdg>
+      </app> et
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> voluntate</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V"> voluntatem</rdg>
+         <rdg wit="CAO-S">
+            <corr sic="volumtate">
+               <sic resp="Hesbert">volumtatem</sic>
+            </corr>
+         </rdg>
+      </app> labiorum eius
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> non fraudasti eum</rdg>
+         <rdg wit="CAO-E CAO-F"> non fraudasti eum domine</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-H CAO-R"> Quoniam praevenisti eum in benedictionibus dulcedinis posuisti in capite eius coronam de lapide pretioso</vBody>
+      <vBody type="r" wit="CAO-F CAO-S"> Vitam petiit ad te
+       <app>
+            <rdg wit="CAO-S"> et tribuisti</rdg>
+            <rdg wit="CAO-F"> tribuisti</rdg>
+         </app> ei domine</vBody>
+      <vBody type="r" wit="CAO-L"> Vitam petiit et tribuisti ei longitudinem dierum in saeculum saeculi</vBody>
+      <vBody type="r" wit="CAO-C"> Vitam petiit</vBody>
+      <vBody type="r" wit="CAO-D"> Posuisti in capite eius coronam de lapide pretioso</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Et voluntate</rep>
+   </verses>
+</res>

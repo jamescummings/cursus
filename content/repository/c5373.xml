@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5372" nextid="c5374" id="c5373">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-S CAO-L Alb2 Hyd Pet"> Veterem hominem renovans</rdg>
+         <rdg wit="CAO-M CAO-V"> Veterem hominem renova</rdg>
+         <rdg wit="CAO-E CAO-F"> Veterem hominem renovat</rdg>
+      </app> salvator venit ad baptismum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S Hyd"> ut natura quae corrupta est</rdg>
+         <rdg wit="CAO-R CAO-L Alb2 Pet"> ut naturam quae corrupta est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> per aquam recuperaret</rdg>
+         <rdg wit="CAO-M"> per aquam recuperare</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Pet"> incorruptibili veste</rdg>
+         <rdg wit="CAO-C"> incorruptibili vestem</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L Alb2"> incorruptibilem vestem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-F CAO-S Hyd Pet"> circumamictans nos</rdg>
+         <rdg wit="CAO-C CAO-V Alb2"> circumamictans nobis</rdg>
+         <rdg wit="CAO-E CAO-M"> circumamictens nobis</rdg>
+         <rdg wit="CAO-D"> circumamittens nos</rdg>
+         <rdg wit="CAO-L"> circumammitens nos</rdg>
+      </app>
+   </aBody>
+</ant>

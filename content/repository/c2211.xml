@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2210" nextid="c2212" id="c2211">
+   <header>
+      <usage ms="Hyd" code="02122800"/>
+   </header>
+   <aBody wit="CAO-G Hyd"> Dicunt infantes domino
+     <app>
+         <rdg wit="CAO-G"> laudem</rdg>
+         <rdg wit="Hyd"> laudes</rdg>
+      </app> trucidati ab Herode occisi praedicant quod vivi non poterant</aBody>
+</ant>

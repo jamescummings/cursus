@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1359" nextid="c1361" id="c1360">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Amavit eum dominus et ornavit eum
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-L"> stolam gloriae</rdg>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-S"> stola gloriae</rdg>
+      </app> induit eum
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> et ad portas paradisi coronavit eum</rdg>
+         <rdg wit="CAO-C"> et a porta paradisi coronavit eum</rdg>
+         <rdg wit="CAO-V"> et a portas paradisi coronavit eum</rdg>
+         <rdg wit="CAO-F"> et coronam vitae dedit ei</rdg>
+      </app>
+   </aBody>
+</ant>

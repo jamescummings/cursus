@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6712" nextid="c6714" id="c6713">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Factum est dum tolleret dominus
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Eliam</rdg>
+         <rdg wit="CAO-E"> Elias</rdg>
+      </app> per turbinem in caelum Elisaeus clamabat dicens
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> pater mi pater mi</rdg>
+         <rdg wit="CAO-L"> pater mi</rdg>
+      </app> currus Israel et auriga eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Oro Domine ut
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> fiat</rdg>
+            <rdg wit="CAO-B"> sit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> spiritus tuus duplex</rdg>
+            <rdg wit="CAO-C"> duplex spiritus tuus</rdg>
+         </app> in me
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H"> at ille si videris</rdg>
+            <rdg wit="CAO-B CAO-R"> at ille inquit si videris</rdg>
+            <rdg wit="CAO-F"> at ille si videris inquit</rdg>
+            <rdg wit="CAO-D"> at ille si inquit videris</rdg>
+         </app> quando tollar
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D"> a te</rdg>
+            <rdg wit="CAO-F"> ad te</rdg>
+            <rdg wit="CAO-V"> at te</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> erit quod petisti</rdg>
+            <rdg wit="CAO-D"> erit tibi quod petisti</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-F"> Cumque duo pergerent simul</rdg>
+            <rdg wit="CAO-L"> Cumque pergerent</rdg>
+            <rdg wit="CAO-S"> Cumque duo simul pergerent</rdg>
+         </app> et incedentes sermocinarentur ecce currus
+       <app>
+            <rdg wit="CAO-F CAO-S"> igneus</rdg>
+            <rdg wit="CAO-L"> igneis</rdg>
+         </app> et equi ignei diviserunt utrumque
+       <app>
+            <rdg wit="CAO-S"> et ascendens Elias</rdg>
+            <rdg wit="CAO-L"> et ascendente Eliam</rdg>
+            <rdg wit="CAO-F"> et dum ascenderet Elias</rdg>
+         </app> per turbinem in caelum
+       <app>
+            <rdg wit="CAO-L"> Elias clamabat dicens</rdg>
+            <rdg wit="CAO-F CAO-S" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-V CAO-F CAO-S"> Elisaeus</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L"> Pater mi</rep>
+   </verses>
+</res>

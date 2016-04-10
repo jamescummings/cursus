@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7233" nextid="c7235" id="c7234">
+   <rBody wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-L"> Non vos reliquam orphanos veniam ad vos iterum alleluia et gaudebit cor vestrum alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-L"> Pacem meam do vobis dicit dominus</rdg>
+            <rdg wit="CAO-D"> Pacem meam do vobis</rdg>
+         </app> pacem relinquo vobis</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D">Et gaudebit</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+   </verses>
+</res>

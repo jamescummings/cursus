@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5388" nextid="c5390" id="c5389">
+   <aBody wit="CAO-C CAO-V CAO-R CAO-D">
+      <app>
+         <rdg wit="CAO-C CAO-D"> Videntes autem turbae timuerunt</rdg>
+         <rdg wit="CAO-V"> Videntes autem turbae et timuerunt</rdg>
+         <rdg wit="CAO-R"> Videntes turbae timuerunt</rdg>
+      </app> et glorificaverunt deum
+     <app>
+         <rdg wit="CAO-C CAO-D"> qui dedit potestatem talem hominibus</rdg>
+         <rdg wit="CAO-V CAO-R"> qui dedit potestatem talem hominibus alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

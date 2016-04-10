@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5191" nextid="c5193" id="c5192">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F"> Triumpharunt sancti martyres Christi</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> Triumphabant sancti martyres Christi</rdg>
+         <rdg wit="CAO-C CAO-M"> Triumphant sancti martyres Christi</rdg>
+         <rdg wit="CAO-E"> Triumphantes sancti martyres Christi</rdg>
+      </app> qui sub Maximiano mortem decreverunt suscipere et cum sancto Mauritio
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R"> regna caelestia acceperunt</rdg>
+         <rdg wit="CAO-B"> regna caelestia susceperunt</rdg>
+         <rdg wit="CAO-M CAO-D CAO-F"> regna caelestia assumpserunt</rdg>
+         <rdg wit="CAO-E CAO-V"> regna caelestia adsumpserunt</rdg>
+      </app>
+   </aBody>
+</ant>

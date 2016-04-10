@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4743" nextid="c4745" id="c4744">
+   <aBody wit="CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-S"> Sanctifica nos domine signaculo sanctae crucis</rdg>
+         <rdg wit="CAO-V CAO-L"> Sanctifica nos domine signaculum sanctae crucis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-S CAO-L"> ut fiat nobis obstaculum</rdg>
+         <rdg wit="CAO-M"> ut sit nobis obstaculum</rdg>
+         <rdg wit="CAO-V"> ut sit nobis obstacula</rdg>
+      </app> contra saeva facula inimicorum defende nos domine per lignum sanctum et per pretium iusti sanguinis tui
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-S"> cum quo nos redemisti alleluia</rdg>
+         <rdg wit="CAO-V CAO-L"> cum quo nos redemisti</rdg>
+      </app>
+   </aBody>
+</ant>

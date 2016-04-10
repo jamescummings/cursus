@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3338" nextid="c3340" id="c3339">
+   <header>
+      <usage ms="Glo" code="14032500"/>
+   </header>
+   <aBody wit="CAO-G CAO-R CAO-F CAO-S Glo">
+      <app>
+         <rdg wit="CAO-G CAO-R CAO-S"> Ingressus angelus ad Mariam ait</rdg>
+         <rdg wit="CAO-F Glo"> Ingressus angelus ad Mariam dixit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R CAO-F"> ave</rdg>
+         <rdg wit="CAO-G CAO-S Glo"> ave Maria</rdg>
+      </app> gratia plena dominus tecum</aBody>
+</ant>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2921" nextid="c2923" id="c2922">
+   <header>
+      <usage ms="Ely" code="02122500">[17v] vesp1-a3</usage>
+      <usage ms="Hyd" code="02122500"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E Hyd Ely"> Gaude et laetare Jerusalem
+     <app>
+         <rdg wit="CAO-E"> ecce rex tuus venit tibi</rdg>
+         <rdg wit="CAO-C Ely"> quia rex tuus venit tibi</rdg>
+         <rdg wit="Hyd"> quia rex tuus veniet tibi</rdg>
+         <rdg wit="CAO-B"> ecce rex tuus venit</rdg>
+      </app> de quo prophetae praedixerunt
+     <app>
+         <rdg wit="Hyd Ely"> quem angeli semper adorant</rdg>
+         <rdg wit="CAO-C CAO-E"> angeli adoraverunt</rdg>
+         <rdg wit="CAO-B"> quem angeli adoraverunt</rdg>
+      </app>
+      <app>
+         <rdg wit="Hyd Ely"> cui cherubin et seraphin</rdg>
+         <rdg wit="CAO-C CAO-B CAO-E">quem cherubim et seraphim</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B Hyd Ely"> sanctus sanctus sanctus proclamant</rdg>
+         <rdg wit="CAO-E"> sanctum sanctum sanctum proclamant</rdg>
+      </app>
+   </aBody>
+</ant>

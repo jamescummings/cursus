@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6336" nextid="c6338" id="c6337">
+   <rBody wit="CAO-C"> Convocatis fratribus beatus Benedictus dixit misereatur vobis omnipotens Deus numquid non prius dixi vobis quia meis ac vestris moribus minime conveniret</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Itaque iuxta mores vestros <corr sic="nobis" resp="Hesbert">vobis</corr> patrem quaerite quia me habere minime potestis</vBody>
+      <rep type="r" wit="CAO-C">Numquid</rep>
+   </verses>
+</res>

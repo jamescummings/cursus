@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6282" nextid="c6284" id="c6283">
+   <rBody wit="CAO-L"> Cilicii indutus tegmine postulabat fletibus Vitus beatissimus ne repelleretur a Dei iussis et coetu iustorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <gap reason="illegible" resp="Hesbert" extent="two words"/> ieiuniis et orationi in dominum precabatur</vBody>
+      <rep type="r" wit="CAO-L">Ne repelleretur</rep>
+   </verses>
+</res>

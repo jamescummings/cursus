@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3942" nextid="c3944" id="c3943">
+   <header>
+      <usage ms="Cdm" code="08012000">[82v] none</usage>
+      <usage ms="Hyd" code="08012000">[102v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Cdm"> Nonne cor nostrum ardens erat in nobis de Jesu
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Hyd"> dum loqueretur nobis in via alleluia</rdg>
+         <rdg wit="Cdm"> dum loqueretur nobis alleluia</rdg>
+         <rdg wit="CAO-L"> dum loqueretur in via alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

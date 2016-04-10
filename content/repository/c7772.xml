@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7771" nextid="c7773" id="c7772">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tradiderunt corpora sua propter deum
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ad supplicia</rdg>
+         <rdg wit="CAO-V"> ad supplicium</rdg>
+      </app> et meruerunt habere coronas perpetuas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F"> Isti sunt qui venerunt ex magna tribulatione et laverunt stolas suas in sanguine agni</vBody>
+      <vBody type="r" wit="CAO-M CAO-D"> Isti sunt qui venerunt ex magna</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Laverunt stolas suas et dealbaverunt eas in sanguine agni</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et meruerunt</rep>
+   </verses>
+</res>

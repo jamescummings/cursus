@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6289" nextid="c6290" id="c6289a">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L"> Cives apostolorum et domestici Dei advenerunt hodie
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-F CAO-S"> portantes pacem</rdg>
+         <rdg wit="CAO-L"> portantes faces</rdg>
+         <rdg wit="CAO-D"> portantes <corr sic="facem">pacem</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> illuminantes patrias</rdg>
+         <rdg wit="CAO-V"> illuminantes patriam</rdg>
+         <rdg wit="CAO-E"> et illuminantes patriam</rdg>
+      </app> dare pacem gentibus et liberare populum domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-D CAO-S"> Audite preces supplicum vitae aeternae poscentes praemia qui fertis in dextris manipulos justitiae quique gaudentes advenistis hodie</vBody>
+      <vBody id="c6289a-1" type="r" wit="CAO-F CAO-L"> Audite preces supplicum vitae aeternae poscentes praemia qui fertis in dextris manipulos iustitiae quique gaudentes advenistis hodie</vBody>
+      <rep corresp="c6289a-1" type="r" wit="CAO-F CAO-L">Portantes</rep>
+      <vBody id="c6289a-2" type="r" wit="CAO-C CAO-E CAO-M CAO-H"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum</vBody>
+      <rep corresp="c6289a-2" type="r" wit="CAO-E CAO-M CAO-H">Dare</rep>
+      <vBody id="c6289a-3" type="r" wit="CAO-F CAO-L"> Potestas autem tradita est a domino
+       <app>
+            <rdg wit="CAO-L"> apostolis concivibus cum verbis divinis semina erogantes et per omnem terram exivit sonus eorum in Christi nomine</rdg>
+            <rdg wit="CAO-F"> apostolorum civibus verbi divini semina erogare per orbem terrae in Christo coeperunt</rdg>
+         </app>
+      </vBody>
+      <rep corresp="c6289a-3" type="r" wit="CAO-F CAO-L">Portantes</rep>
+      <vBody id="c6289a-4" type="r" wit="CAO-F CAO-L"> Gloria conditori totius orbis eius qui filio cum flamine sancto qui totum sibi mundum legibus perorna amen</vBody>
+      <rep corresp="c6289a-4" type="r" wit="CAO-F"> Cives apostolorum</rep>
+   </verses>
+</res>

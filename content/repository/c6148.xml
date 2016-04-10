@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6147" nextid="c6149" id="c6148">
+   <header>
+      <usage ms="Cht" code="05027000">[3r] lauds</usage>
+      <usage ms="Hyd" code="05027000"/>
+   </header>
+   <rBody wit="CAO-H CAO-S CAO-L Hyd Cht">
+      <app>
+         <rdg wit="CAO-H CAO-S Hyd Cht"> Auditam fac mihi</rdg>
+         <rdg wit="CAO-L"> Auditam mihi fac</rdg>
+      </app> mane misericordiam tuam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-S CAO-L Hyd Cht"> Quia in te
+      <app>
+            <rdg wit="CAO-H CAO-S CAO-L Cht"> speravi domine</rdg>
+            <rdg wit="Hyd"> domine speravi</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-S CAO-L">Misericordiam</rep>
+      <dox type="r" wit="Hyd">Gloria</dox>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7381" nextid="c7383" id="c7382">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Petre amas me tu scis domine quia amo te pasce oves meas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F"> Simon Joannis diligis me plus his tu scis domine quia amo te</vBody>
+      <vBody type="r" wit="CAO-E CAO-H"> Simon Joannis diligis me plus his</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Domine tu omnia nosti tu scis quia amo te</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L">Pasce</rep>
+      <rep type="r" wit="CAO-E CAO-H">Tu scis</rep>
+   </verses>
+</res>

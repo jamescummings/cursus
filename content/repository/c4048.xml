@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4047" nextid="c4049" id="c4048">
+   <header>
+      <usage ms="Ely" code="02122500">[20v] matins commemoratio</usage>
+      <usage ms="Evm" code="02122500">[37v] matins commemoratio</usage>
+      <usage ms="Hyd" code="02122500">[20v] matins commemoratio</usage>
+      <usage ms="Pet" code="02122500">[18v] matins commemoratio</usage>
+      <usage ms="Wcb" code="02122500">[56v] matins commemoratio</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-M CAO-H CAO-R Hyd Evm Wcb Ely Pet"> O mundi domina regio ex semine orta
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R Hyd Evm Wcb Ely Pet"> ex tuo iam Christus processit alvo</rdg>
+         <rdg wit="CAO-M"> ex tuo iam processit alvo</rdg>
+      </app> tamquam sponsus de thalamo
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R Evm Wcb Ely Pet"> hic iacet in praesepio</rdg>
+         <rdg wit="Hyd"> iacet in praesepio</rdg>
+      </app> qui et sidera regit</aBody>
+</ant>

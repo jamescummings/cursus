@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1988" nextid="c1989b" id="c1989">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="06018000">[50r] -a2</usage>
+      <usage ms="Cht" code="06011000">[13r] vesp2 gosp</usage>
+      <usage ms="Ely" code="06018000">[61r]  gosp</usage>
+      <usage ms="Evm" code="06011000">[94v] vesp2</usage>
+      <usage ms="Glo" code="06011000">[50r] vesp2</usage>
+      <usage ms="Wcb" code="06011000">[86v] vesp2</usage>
+      <usage ms="Wor" code="06011000">[37v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-E CAO-R Alb2 Cht Wor Ely Wcb Evm Glo Cdm"> Cum autem sero factum esset
+     <app>
+         <rdg wit="CAO-R Alb2 Cht Wor Ely Evm Glo Cdm"> dixit dominus</rdg>
+         <rdg wit="CAO-E Wcb"> dicit dominus</rdg>
+      </app> vineae procuratori suo voca operarios et redde illis mercedem</aBody>
+</ant>

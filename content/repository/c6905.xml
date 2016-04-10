@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6904" nextid="c6905b" id="c6905">
+   <header>
+      <usage ms="Hyd" code="10800000">matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> In hymnis et confessionibus benedicebant
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd"> dominum</rdg>
+         <rdg wit="CAO-R"> domino</rdg>
+      </app> qui magna fecit in Israel et victoriam dedit
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> illis</rdg>
+         <rdg wit="CAO-E CAO-V CAO-S"> illi</rdg>
+      </app> dominus omnipotens</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Ornaverunt faciem templi coronis aureis et dedicaverunt altare domino</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd">Qui magna</rep>
+      <rep type="r" wit="CAO-G CAO-F CAO-S CAO-L">Et victoriam</rep>
+   </verses>
+</res>

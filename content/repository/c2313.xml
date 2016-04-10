@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2312" nextid="c2314" id="c2313">
+   <aBody wit="CAO-C CAO-E"> Dixitque David ad dominum cum vidisset angelum caedentem populum ego sum qui peccavi ego inique egi isti qui oves sunt quid fecerunt
+     <app>
+         <rdg wit="CAO-C"> avertatur obsecro domine ira tua</rdg>
+         <rdg wit="CAO-E"> avertantur obsecro domine furor tuus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> a populo tuo alleluia</rdg>
+         <rdg wit="CAO-E"> a populo tuo</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-M CAO-V CAO-H CAO-R CAO-D Hyd" num="2"> Dixitque David ad dominum cum vidisset angelum caedentem populum ego sum qui peccavi ego inique egi isti qui oves sunt quid fecerunt</aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1544" nextid="c1546" id="c1545">
+   <header>
+      <usage ms="Cdm" code="02122600">[26r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="02122500">[21v] commemoratio</usage>
+      <usage ms="Pet" code="02122600">[20r] vesp1-a2</usage>
+      <usage ms="Wor" code="02122600">[18v] procession</usage>
+   </header>
+   <aBody wit="CAO-D CAO-S Hyd Wor Pet"> Ave senior Stephane ave martyr paradoxe qui inter agmina plebis Judaicae
+     <app>
+         <rdg wit="CAO-D CAO-S Wor Pet"> firmus in Christi fide</rdg>
+         <rdg wit="Hyd"> firmus in fide Christi</rdg>
+      </app> velut lampas ardentissima apparuisti domino nunc sidus inter sidera caelestis aulae succurre huic familiae gratissima tua interventione</aBody>
+   <aBody wit="Cdm" num="2">
+      <gap reason="erasure of opening words of antiphon" extent="five words"/>martyr paradoxe qui inter agmina plebis Judaicae firmus in Christi fides velut lampas ardentissima apparuisti domino nunc sidus inter sidera caelestis aulae succurre huic familiae gratissima tua intercessione</aBody>
+</ant>

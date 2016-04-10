@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4107" nextid="c4109" id="c4108">
+   <header>
+      <usage ms="Hyd" code="01011000">[1v] matins-n1-a3</usage>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Mch" code="01011000">[1v] matins-n1-a3</usage>
+   </header>
+   <aBody wit="CAO-S CAO-L Hyd Mch"> Oculi mei semper ad dominum</aBody>
+</ant>

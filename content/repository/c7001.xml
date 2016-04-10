@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7000" nextid="c7002" id="c7001">
+   <header>
+      <usage ms="Alb2" code="02122700">[35v] matins-n3-r9</usage>
+      <usage ms="Bat" code="02122700">[22r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="02122700">[27r] matins-n3-r11</usage>
+      <usage ms="Evm" code="02122700" corresp="c7001-3">[46r] vesp2</usage>
+      <usage ms="Evm" code="02122700">[43r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="02122700">[23v] matins-n1-r2</usage>
+      <usage ms="Pet" code="02122700">[27r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="02122700">[61r] matins-n1-r3</usage>
+      <usage ms="Wor" code="02122600" corresp="c7001-3">[19r] procession</usage>
+      <usage ms="Wor" code="02122700">[20v] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Iste est Joannes</rdg>
+         <rdg wit="CAO-M"> Iste Joannes</rdg>
+      </app> qui supra pectus domini in cena recubuit beatus apostolus cui revelata sunt secreta caelestia</rBody>
+   <rBody type="incipit" wit="Wor" id="c7001-3">Iste est Joannes</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Alb2 Evm Wcb Bat Cdm Wor"> Valde honorandus est beatus Joannes qui supra pectus domini in cena recubuit</vBody>
+      <vBody type="r" wit="CAO-G CAO-D"> Iste est Joannes cui Christus in cruce matrem virginem virgini commendavit</vBody>
+      <vBody id="c7001-1" type="r" wit="CAO-C"> Iste est Joannes cui Christus in cruce matrem virginem virgini commendavit</vBody>
+      <rep corresp="c7001-1" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody id="c7001-2" type="r" num="2" wit="CAO-C"> Ecce puer meus electus quem elegi posui super eum spiritum meum</vBody>
+      <rep corresp="c7001-2" type="r" wit="CAO-C">Beatus</rep>
+      <vBody type="r" wit="CAO-L"> Fluenta evangelii de ipso sacri dominici pectoris fonte potavit</vBody>
+      <vBody id="c7001-3" type="r" num="2" wit="CAO-D Hyd Evm Wor">
+         <verse type="stanza">
+            <l part="N">Joannes hic theologus</l>
+            <l part="N">Quem debriavit spiritus</l>
+            <l part="N">Aquila volans caelitus</l>
+            <l part="N">Palam fecit mortalibus</l>
+            <l part="N">Christus Mariae filius</l>
+            <l part="N">Quod sit verbum dei deus</l>
+         </verse>
+      </vBody>
+      <rep corresp="c7001-3" type="r" wit="CAO-D Hyd Evm Bat Wor Pet">Beatus</rep>
+      <vBody type="r" wit="Pet">
+         <verse type="stanza">
+            <l part="N">Joannes hic theologus</l>
+            <l part="N">Quem debriavit spiritus</l>
+            <l part="N">Aquila volans caelitus</l>
+            <l part="N">Palam fecit mortalibus</l>
+            <l part="N">Christus Mariae filius</l>
+            <l part="N">Quod sit verbum dei deus</l>
+         </verse>
+      </vBody>
+      <vBody type="r" wit="Pet" num="2"> Iste est Joannes cui Christus in cruce matrem virginem virgini commendavit</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Evm Wcb Wor"> Beatus</rep>
+      <rep type="r" wit="Cdm"> Cui revelata</rep>
+      <vBody type="r" num="2" wit="Hyd"> Valde honorandus est beatus Joannes qui supra pectus domini in cena recubuit</vBody>
+      <dox corresp="c7001-3" type="r" wit="CAO-D Evm"> Gloria sit altissimo genitori ingenito
+      <app>
+            <rdg wit="CAO-D"> ingenitique genito</rdg>
+            <rdg wit="Evm"> ingenitique filio</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D"> et flamini paraclito</rdg>
+            <rdg wit="Evm">et spiritui paraclito</rdg>
+         </app>
+      </dox>
+      <rep type="r" num="2" wit="Evm">Beatus apostolus</rep>
+      <prosula wit="CAO-D"> Iustus virginitate clarus ut palma Joannes ornatus pudicitia floruit et ideo sicut cedrus paradisi nectare irrigatus undique modo plene eructavit arcana theoriae quae angeli vix valent percipere quapropter eius honore gaudet proles ecclesiae quae doctrina eius multiplicabitur</prosula>
+      <rep type="p" wit="CAO-D">Supra pectus</rep>
+      <prosula wit="CAO-D" num="2"> Iustus Joannes et dilectus et probitate dignus germen odoris palmam pudoris semper tenebit sicut lilium candore dealbatum et flore virginitatis et legis evangelicae refulsit plenissime qui virgo est electus a domino et virgo digniter permansit in aeternum ante dominum</prosula>
+   </verses>
+</res>

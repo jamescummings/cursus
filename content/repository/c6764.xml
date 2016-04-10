@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6763" nextid="c6765" id="c6764">
+   <rBody wit="CAO-V CAO-S CAO-L"> Gaudete in domino semper iterum dico gaudere modestia vestra nota sit omnibus hominibus dominus prope est nihil solliciti
+      <app>
+         <rdg wit="CAO-S CAO-L"> sitis</rdg>
+         <rdg wit="CAO-V"> scitis</rdg>
+      </app> sed in omni oratione petitiones vestrae innotescant apud Deum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Estote parati similes hominibus exspectantibus dominum suum quando revertatur ad nuptias</vBody>
+      <vBody type="r" wit="CAO-V"> Et pax Dei quae exsuperat omnem sensum custodiat corda vestra et intellegentias vestras</vBody>
+      <vBody type="r" wit="CAO-L"> Non cito moveamini a sensu vestro nec terreamini quasi instet dies domini</vBody>
+      <rep type="r" wit="CAO-S"> Nihil</rep>
+   </verses>
+</res>

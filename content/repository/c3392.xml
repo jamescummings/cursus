@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3391" nextid="c3392b" id="c3392">
+   <header>
+      <usage ms="Alb2" code="02122600">[33v] prime</usage>
+      <usage ms="Bat" code="02122600">[19r] matins-n2-a10</usage>
+      <usage ms="Cdm" code="02122500">[24r] vesp2 commemoration</usage>
+      <usage ms="Pet" code="02122600">[20r] vesp1 gosp</usage>
+      <usage ms="Wor" code="02010100">[25v] commemoration</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">for reading in CAO-S cf. c5028</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-G CAO-V CAO-R CAO-D CAO-F CAO-S Alb2 Bat Cdm Wor Pet"> Intuens in caelum beatus Stephanus vidit gloriam dei et ait ecce video caelos apertos
+     <app>
+         <rdg wit="CAO-G CAO-R Alb2 Bat Cdm Wor Pet"> et filium hominis stantem a dextris dei</rdg>
+         <rdg wit="CAO-F"> et Jesum stantem ad dextris dei</rdg>
+         <rdg wit="CAO-V CAO-D"> et filium hominis stantem ad dextris dei</rdg>
+         <rdg wit="CAO-S"> vidit et introibit beatus homo cui caeli patebant</rdg>
+      </app>
+   </aBody>
+</ant>

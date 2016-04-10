@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6530b" nextid="c6532" id="c6531">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Dum aurora</rdg>
+         <rdg wit="CAO-H CAO-R"> Dum aurora nocti</rdg>
+      </app> finem daret Caecilia dixit eia milites Christi abjicite opera tenebrarum et
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> induimini</rdg>
+         <rdg wit="CAO-B">
+            <sic resp="Hesbert">indumur</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-L"> arma</rdg>
+         <rdg wit="CAO-E CAO-F CAO-S"> armis</rdg>
+         <rdg wit="CAO-V"> armi</rdg>
+      </app> lucis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Caecilia valedicens fratribus et exhortans
+       <app>
+            <rdg wit="CAO-C CAO-D"> eos ait</rdg>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S"> ait</rdg>
+            <rdg wit="CAO-F"> eos dixit</rdg>
+         </app>
+      </vBody>
+      <vBody id="c6531-1" type="r" wit="CAO-V"> Caecilia valedicens fratribus et exhortans eos ait</vBody>
+      <rep corresp="c6531-1" type="r" wit="CAO-V"> Eia</rep>
+      <vBody type="r" wit="CAO-L"> Certamen bonum <corr sic="certasti" resp="Hesbert">certastis</corr> cursum consummastis fidem <corr sic="servasti" resp="Hesbert">servastis</corr> ite ad coronam vitae quam dabit vobis Deus justus judex</vBody>
+      <vBody id="c6531-2" type="r" wit="CAO-V"> Nox praecessit dies autem appropinquabit</vBody>
+      <rep corresp="c6531-2" type="r" wit="CAO-V">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-V</note>
+      </rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Eia</rep>
+      <rep type="r" wit="CAO-L"> Et induimini</rep>
+   </verses>
+</res>

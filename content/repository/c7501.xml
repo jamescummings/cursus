@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7500" nextid="c7502" id="c7501">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Quis mihi tribuat ut in inferno protegas me et abscondas me donec pertranseat furor tuus domine nisi tu qui solus es deus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> et constituas</rdg>
+         <rdg wit="CAO-C CAO-L"> ut constituas</rdg>
+      </app> tempus in quo recorderis mei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D"> Numquid sicut dies hominis</rdg>
+            <rdg wit="CAO-E"> Numquid sunt dies hominis</rdg>
+            <rdg wit="CAO-L"> Numquid sicut dies hominum</rdg>
+            <rdg wit="Hyd">Nuncquid sicut dies hominis</rdg>
+         </app> dies tui ut quaeras iniquitatem meam
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L"> cum sit nemo</rdg>
+            <rdg wit="CAO-D Hyd"> cum nemo sit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-L Hyd"> qui de manu tua</rdg>
+            <rdg wit="CAO-H"> qui de manu mea</rdg>
+         </app> possit eruere</vBody>
+      <vBody type="r" wit="CAO-F"> Quis det ut veniat petitio mea et quod exspecto tribuat mihi</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">Nisi</rep>
+      <rep type="r" wit="CAO-E">Et constituas</rep>
+   </verses>
+</res>

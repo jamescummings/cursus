@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7574" nextid="c7576" id="c7575">
+   <header>
+      <usage ms="Cdm" code="02122600">[25r] matins-n2-r8</usage>
+      <usage ms="Bat" code="02122600">[19v] matins-n2-r8</usage>
+      <usage ms="Hyd" code="02122600">[22r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-R CAO-D CAO-F CAO-S Hyd Bat Cdm">
+      <verse type="stanza">
+         <l part="N">Sancte dei pretiose protomartyr Stephane</l>
+         <l part="N">Qui virtute caritatis circumfultus undique</l>
+         <l part="N">Dominum pro inimico exorasti populo</l>
+         <l part="N">Funde preces pro devoto tibi nunc collegio</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F CAO-S Hyd Bat Cdm">
+         <verse type="stanza">
+            <l part="N">Ut tuo propitiatus interventu dominus</l>
+            <l part="N">
+               <app>
+                  <rdg wit="CAO-D CAO-F Hyd Bat Cdm">Nos purgatos a peccatis</rdg>
+                  <rdg wit="CAO-R">Nos culpis a peccato</rdg>
+                  <rdg wit="CAO-S">Nos culpis solutos</rdg>
+               </app> iungat caeli civibus
+       </l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-R CAO-D CAO-F CAO-S Hyd Bat Cdm">Funde</rep>
+      <dox type="r" wit="Hyd">Gloria</dox>
+   </verses>
+</res>

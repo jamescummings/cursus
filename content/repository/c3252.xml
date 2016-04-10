@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3251" nextid="c3253" id="c3252">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Bat" code="06031000">[46r] lauds-a3</usage>
+      <usage ms="Cdm" code="06031000">lauds</usage>
+      <usage ms="Mch" code="06031000">[108v] lauds-a3</usage>
+      <usage ms="Mch" code="07041000" corresp="c3252-1">[139r] lauds-a3</usage>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E Alb2 Wor Pet Cdm Mch Bat"> In matutinis domine meditabor in te
+     <app>
+         <rdg wit="Alb2 Wor Pet"> quia factus est adiutor meus</rdg>
+         <rdg wit="Bat"> quia factus es adiutor meus</rdg>
+         <rdg wit="Cdm Mch"> quia fuisti adiutor meus</rdg>
+         <rdg wit="CAO-G CAO-E" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </aBody>
+   <aBody wit="Mch" id="c3252-1"> Meditabor in te quia fuisti adiutor meus</aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4222" nextid="c4224" id="c4223">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Pastor bonus animam suam ponit</rdg>
+         <rdg wit="CAO-C"> Pastor bonus animam suam posuit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> pro ovibus suis alleluia</rdg>
+         <rdg wit="CAO-C"> pro ovibus suis</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7523" nextid="c7525" id="c7524">
+   <rBody wit="CAO-R CAO-F CAO-L"> Regnum mundi
+     <app>
+         <rdg wit="CAO-R"> et omnem</rdg>
+         <rdg wit="CAO-F CAO-L"> et omne</rdg>
+      </app> ornatum saeculi contempsi propter amorem domini mei Jesu Christi quem vidi
+     <app>
+         <rdg wit="CAO-R"> quem amavi</rdg>
+         <rdg wit="CAO-L"> quem cognovi</rdg>
+         <rdg wit="CAO-F" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-L"> in quem credidi</rdg>
+         <rdg wit="CAO-R"> in quo credidi</rdg>
+      </app> quem dilexi</rBody>
+   <rBody wit="CAO-H" num="2"> Regnum mundi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-F CAO-L">Eructavit cor meum verbum bonum dico ego opera mea Regi</vBody>
+      <rep type="r" wit="CAO-R CAO-F CAO-L">Quem</rep>
+   </verses>
+</res>

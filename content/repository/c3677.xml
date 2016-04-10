@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3676" nextid="c3678" id="c3677">
+   <header>
+      <usage ms="Alb2" code="02010100">[48r] vesp2 gosp</usage>
+      <usage ms="Bat" code="02010100">[27v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="02010100">[34r] vesp2 gosp</usage>
+      <usage ms="Evm" code="02010100">[61v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="02010100">[35r] vesp2 gosp</usage>
+      <usage ms="Pet" code="02010100">[37v] vesp2 gosp</usage>
+      <usage ms="Wcb" code="02010100">[67r] terce</usage>
+      <usage ms="Wor" code="02010100">[25v] vesp2 gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.147-148</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Magnum haereditatis mysterium
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D Hyd Alb2 Bat Cdm Wor Pet"> templum dei factus est</rdg>
+         <rdg wit="CAO-M CAO-F CAO-S CAO-L Evm Wcb"> templum dei factum est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> uterus nescientis virum</rdg>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S"> uterus nesciens virum</rdg>
+         <rdg wit="CAO-C"> uterus nescienti viro</rdg>
+         <rdg wit="CAO-L"> uterum nescientis virum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Wor Pet"> non est pollutus</rdg>
+         <rdg wit="Alb2"> pollutus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> ex ea carnem assumens</rdg>
+         <rdg wit="CAO-C"> ex eo carnem assumens</rdg>
+         <rdg wit="CAO-D"> ex <corr sic="eo">ea</corr> carnem assumens</rdg>
+         <rdg wit="CAO-L"> ex ea carne assumens</rdg>
+      </app> omnes gentes venient dicentes gloria tibi domine</aBody>
+</ant>

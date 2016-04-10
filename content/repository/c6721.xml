@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6720" nextid="c6722" id="c6721">
+   <rBody wit="CAO-L"> Felix Clemens pontifex sedis sanctae Romae cum perambularet praedicans Christi sacra evangelio et convertens multos ad fidei magna tunc regis iussa praecipitatus est pelago maris unde cum Christo semper in caelis <corr sic="regnant" resp="Hesbert">regnat</corr> coronatur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Ancora in collo eius suspenso et in mari projectus angelicum invenit templum <corr sic="paratus" resp="Hesbert">paratum</corr>
+      </vBody>
+      <rep type="r" wit="CAO-L"> Tunc</rep>
+   </verses>
+</res>

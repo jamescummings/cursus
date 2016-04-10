@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6643b" nextid="c6645" id="c6644">
+   <rBody wit="CAO-F"> Egregius confessor domini Maurus astantibus valedicens fratribus feliciter migravit ad dominum coetibus monachorum inter agmina sanctorum aggregatus angelorum et particeps factus praemiorum aeternorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F"> Gaudet ergo felix in caelis cum Christo quem semper dilexit amore sancto</vBody>
+      <vBody type="r" num="2" wit="CAO-F"> Christum perpetuo in paterna cernens majestate cuius <corr sic="ineffabilis" resp="Hesbert">ineffabili</corr> gratia dignus inventus est sempiterna felicitate</vBody>
+      <rep type="r" wit="CAO-F"> Coetibus</rep>
+      <prosula wit="CAO-F"> Eximie Christi confessor dux monachorum et pastor benigne sanctissime Maure gratulantes de tuo corpore nobis pater amande concedens pacem cum salute unaque gaudia praemiorum aeterna</prosula>
+   </verses>
+</res>

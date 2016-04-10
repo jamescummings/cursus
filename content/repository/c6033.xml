@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6032" nextid="c6034" id="c6033">
+   <rBody wit="CAO-C CAO-D CAO-F"> Adest namque beati Dionysii sacratissima dies in qua triumphans agonem explevit et coronam victoriae accipere meruit de manu Domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Quem dominus post apostolos
+      <app>
+            <rdg wit="CAO-D"> sic honoravit</rdg>
+            <rdg wit="CAO-F"> ita honoravit</rdg>
+         </app> ut omnem Galliam eius apostolatu insigniret quique eam suo sanguine consecravit</vBody>
+      <vBody type="r" wit="CAO-C"> Iustum deduxit dominus per vias rectas et ostendit illi regnum dei</vBody>
+      <rep type="r" wit="CAO-C CAO-F">Et coronam</rep>
+   </verses>
+</res>

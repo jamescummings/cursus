@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7105" nextid="c7107" id="c7106">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Lucia virgo
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> quid a me petis</rdg>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-D CAO-S"> quid ad me petis</rdg>
+      </app> quod ipsa
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S"> poteris</rdg>
+         <rdg wit="CAO-V"> poterit</rdg>
+         <rdg wit="CAO-M">
+            <corr sic="poterit">poteris</corr>
+         </rdg>
+      </app> praestare continuo nam et matri tuae
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> fides tua</rdg>
+         <rdg wit="CAO-D" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R"> subveniat</rdg>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H"> subveniet</rdg>
+         <rdg wit="CAO-D CAO-S"> subvenit</rdg>
+      </app> et ecce
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D"> salva est</rdg>
+         <rdg wit="CAO-M CAO-H CAO-S"> salva es</rdg>
+      </app> quia iucundum
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S"> Deo</rdg>
+         <rdg wit="CAO-C CAO-V"> Deum</rdg>
+      </app> in tua virginitate habitaculum praeparasti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S"> Sicut per me</rdg>
+            <rdg wit="CAO-E"> Et sicut per me</rdg>
+            <rdg wit="CAO-D"> Sicut enim per me</rdg>
+         </app> civitas Catinensium sublimatur a Christo
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D"> ita</rdg>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-S"> ita et</rdg>
+         </app> per te civitas Syracusana decorabitur
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R"> a domino Jesu Christo</rdg>
+            <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-D CAO-S" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S">Quia</rep>
+   </verses>
+</res>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6982" nextid="c6984" id="c6983">
+   <header>
+      <usage ms="Bat" code="01041000">[12v] matins-n3-r11</usage>
+      <usage ms="Cdm" code="01041000">[18v] matins-n3-r11</usage>
+      <usage ms="Ely" code="01041000">[14r] matins-n3-r11</usage>
+      <usage ms="Evm" code="01041000">[23v] matins-n3-r9</usage>
+      <usage ms="Hyd" code="01041000">[13v] matins-n3-r11</usage>
+      <usage ms="Mch" code="01041000">[18r] matins-n3-r9</usage>
+      <usage ms="Pet" code="01041000">[11v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="01041000">[48v] matins-n3-r9</usage>
+      <usage ms="Wor" code="01041000">[12r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Evm Mch Cdm Ely Wor Wcb Pet Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Evm Mch Cdm Ely Wor Wcb Pet Bat"> Intuemini quantus sit iste</rdg>
+         <rdg wit="CAO-M"> Intuimini quantus sit iste</rdg>
+         <rdg wit="CAO-V"> Intuemini quantum sit iste</rdg>
+      </app> qui ingreditur ad salvandas gentes
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Evm Mch Ely Wor Wcb Pet Bat"> ipse est rex iustitiae</rdg>
+         <rdg wit="Cdm"> ipse enim est rex iustitiae</rdg>
+         <rdg wit="CAO-C"> ipse est sol iustitiae</rdg>
+      </app> cuius generatio non habet finem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D Mch Ely">
+         <app>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D Mch Ely"> Et dominabitur</rdg>
+            <rdg wit="CAO-C"> Et dominabuntur</rdg>
+         </app> a mari usque ad mare
+       <app>
+            <rdg wit="CAO-V"> et a flumine usque ad terminos orbis terrae</rdg>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D Mch Ely" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E"> Et dominabitur</vBody>
+      <vBody type="r" wit="CAO-G CAO-F CAO-L Hyd Evm Cdm Wor Wcb Pet Bat"> Praecursor pro nobis ingreditur secundum ordinem Melchisedech
+       <app>
+            <rdg wit="CAO-F CAO-L Hyd Evm Cdm Wor Wcb Pet Bat"> pontifex factus est</rdg>
+            <rdg wit="CAO-G"> pontifex factus</rdg>
+         </app> in aeternum</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Evm Mch Ely Wor Wcb Pet Bat">Cuius</rep>
+      <rep type="r" wit="CAO-L Cdm"> Ipse</rep>
+   </verses>
+</res>

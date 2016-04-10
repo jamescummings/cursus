@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6164" nextid="c6166" id="c6165">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beata es</rdg>
+         <rdg wit="CAO-V">Beata <corr sic="est">es</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> virgo Maria dei genitrix</rdg>
+         <rdg wit="CAO-E">virgo Maria</rdg>
+      </app> quae credidisti
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> domino</rdg>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F">dominum</rdg>
+      </app> perfecta sunt in te quae dicta sunt tibi ecce
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> exaltata es</rdg>
+         <rdg wit="CAO-L">exaltata est</rdg>
+         <rdg wit="CAO-V"> exaltata <corr sic="est">es</corr>
+         </rdg>
+      </app> super choros angelorum intercede pro nobis
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> ad dominum deum nostrum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> ad dominum Jesum Christum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F"> Ave Maria gratia plena dominus tecum</vBody>
+      <vBody type="r" wit="CAO-E CAO-M">Ave Maria</vBody>
+      <vBody type="r" wit="CAO-D"> Ave Maria gratia plena</vBody>
+      <vBody type="r" wit="CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-L">Beata es</rdg>
+            <rdg wit="CAO-S">Benedicta es</rdg>
+         </app> et venerabilis virgo Maria cuius viscera meruerunt portare dominum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S">Intercede</rep>
+      <rep type="r" wit="CAO-H CAO-L">Ecce</rep>
+   </verses>
+</res>

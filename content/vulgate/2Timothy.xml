@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="2Timothy">
+<body>
+  <rubric type="bible-incipit" id="B.2Timothy.incipit.001">
+    <reference>
+      <bookName>2Timothy</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AD EUNDEM</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.2Timothy.001.001">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus apostolus Christi Iesu per voluntatem Dei secundum promissionem vitae quae est in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.002">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>Timotheo carissimo filio gratia misericordia pax a Deo Patre et Christo Iesu Domino nostro</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.003">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>gratias ago Deo cui servio a progenitoribus in conscientia pura quam sine intermissione habeam tui memoriam in orationibus meis nocte ac die</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.004">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>desiderans te videre memor lacrimarum tuarum ut gaudio implear</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.005">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>recordationem accipiens eius fidei quae est in te non ficta quae et habitavit primum in avia tua Loide et matre tua Eunice certus sum autem quod et in te</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.006">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>propter quam causam admoneo te ut resuscites gratiam Dei quae est in te per inpositionem manuum mearum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.007">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>non enim dedit nobis Deus spiritum timoris sed virtutis et dilectionis et sobrietatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.008">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>noli itaque erubescere testimonium Domini nostri neque me vinctum eius sed conlabora evangelio secundum virtutem Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.009">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>qui nos liberavit et vocavit vocatione sancta non secundum opera nostra sed secundum propositum suum et gratiam quae data est nobis in Christo Iesu ante tempora saecularia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.010">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>manifestata est autem nunc per inluminationem salvatoris nostri Iesu Christi qui destruxit quidem mortem inluminavit autem vitam et incorruptionem per evangelium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.011">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>in quo positus sum ego praedicator et apostolus et magister gentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.012">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>ob quam causam etiam haec patior sed non confundor scio enim cui credidi et certus sum quia potens est depositum meum servare in illum diem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.013">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>formam habe sanorum verborum quae a me audisti in fide et dilectione in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.014">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>bonum depositum custodi per Spiritum Sanctum qui habitat in nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.015">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>scis hoc quod aversi sunt a me omnes qui in Asia sunt ex quibus est Phygelus et Hermogenes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.016">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>det misericordiam Dominus Onesifori domui quia saepe me refrigeravit et catenam meam non erubuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.017">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>sed cum Romam venisset sollicite me quaesivit et invenit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.001.018">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>det illi Dominus invenire misericordiam a Domino in illa die et quanta Ephesi ministravit melius tu nosti</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.2Timothy.002.001">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>tu ergo fili mi confortare in gratia quae est in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.002">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>et quae audisti a me per multos testes haec commenda fidelibus hominibus qui idonei erunt et alios docere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.003">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>labora sicut bonus miles Christi Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.004">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>nemo militans inplicat se negotiis saecularibus ut ei placeat cui se probavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.005">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>nam et qui certat in agone non coronatur nisi legitime certaverit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.006">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>laborantem agricolam oportet primum de fructibus accipere</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.007">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>intellege quae dico dabit enim tibi Dominus in omnibus intellectum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.008">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>memor esto Iesum Christum resurrexisse a mortuis ex semine David secundum evangelium meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.009">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>in quo laboro usque ad vincula quasi male operans sed verbum Dei non est alligatum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.010">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>ideo omnia sustineo propter electos ut et ipsi salutem consequantur quae est in Christo Iesu cum gloria caelesti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.011">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>fidelis sermo nam si conmortui sumus et convivemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.012">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>si sustinemus et conregnabimus si negabimus et ille negabit nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.013">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>si non credimus ille fidelis manet negare se ipsum non potest</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.014">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>haec commone testificans coram Domino noli verbis contendere in nihil utile ad subversionem audientium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.015">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>sollicite cura te ipsum probabilem exhibere Deo operarium inconfusibilem recte tractantem verbum veritatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.016">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>profana autem inaniloquia devita multum enim proficient ad impietatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.017">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>et sermo eorum ut cancer serpit ex quibus est Hymeneus et Philetus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.018">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>qui a veritate exciderunt dicentes resurrectionem iam factam et subvertunt quorundam fidem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.019">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>sed firmum fundamentum Dei stetit habens signaculum hoc cognovit Dominus qui sunt eius et discedat ab iniquitate omnis qui nominat nomen Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.020">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>in magna autem domo non solum sunt vasa aurea et argentea sed et lignea et fictilia et quaedam quidem in honorem quaedam autem in contumeliam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.021">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>si quis ergo emundaverit se ab istis erit vas in honorem sanctificatum et utile Domino ad omne opus bonum paratum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.022">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>iuvenilia autem desideria fuge sectare vero iustitiam fidem caritatem pacem cum his qui invocant Dominum de corde puro</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.023">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>stultas autem et sine disciplina quaestiones devita sciens quia generant lites</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.024">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>servum autem Domini non oportet litigare sed mansuetum esse ad omnes docibilem patientem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.025">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>cum modestia corripientem eos qui resistunt nequando det illis Deus paenitentiam ad cognoscendam veritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.002.026">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>2:26</verseNum>
+      </reference>
+      <l>et resipiscant a diaboli laqueis a quo capti tenentur ad ipsius voluntatem</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.2Timothy.003.001">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>hoc autem scito quod in novissimis diebus instabunt tempora periculosa</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.002">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>et erunt homines se ipsos amantes cupidi elati superbi blasphemi parentibus inoboedientes ingrati scelesti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.003">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>sine affectione sine pace criminatores incontinentes inmites sine benignitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.004">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>proditores protervi tumidi voluptatium amatores magis quam Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.005">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>habentes speciem quidem pietatis virtutem autem eius abnegantes et hos devita</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.006">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>ex his enim sunt qui penetrant domos et captivas ducunt mulierculas oneratas peccatis quae ducuntur variis desideriis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.007">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>semper discentes et numquam ad scientiam veritatis pervenientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.008">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>quemadmodum autem Iannes et Mambres restiterunt Mosi ita et hii resistunt veritati homines corrupti mente reprobi circa fidem</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.009">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>sed ultra non proficient insipientia enim eorum manifesta erit omnibus sicut et illorum fuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.010">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>tu autem adsecutus es meam doctrinam institutionem propositum fidem longanimitatem dilectionem patientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.011">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>persecutiones passiones qualia mihi facta sunt Antiochiae Iconii Lystris quales persecutiones sustinui et ex omnibus me eripuit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.012">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>et omnes qui volunt pie vivere in Christo Iesu persecutionem patientur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.013">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>mali autem homines et seductores proficient in peius errantes et in errorem mittentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.014">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>tu vero permane in his quae didicisti et credita sunt tibi sciens a quo didiceris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.015">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>et quia ab infantia sacras litteras nosti quae te possint instruere ad salutem per fidem quae est in Christo Iesu</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.016">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>omnis scriptura divinitus inspirata et utilis ad docendum ad arguendum ad corrigendum ad erudiendum in iustitia</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.003.017">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>ut perfectus sit homo Dei ad omne opus bonum instructus</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.2Timothy.004.001">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>testificor coram Deo et Christo Iesu qui iudicaturus est vivos ac mortuos et adventum ipsius et regnum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.002">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>praedica verbum insta oportune inportune argue obsecra increpa in omni patientia et doctrina</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.003">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>erit enim tempus cum sanam doctrinam non sustinebunt sed ad sua desideria coacervabunt sibi magistros prurientes auribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.004">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>et a veritate quidem auditum avertent ad fabulas autem convertentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.005">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>tu vero vigila in omnibus labora opus fac evangelistae ministerium tuum imple</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.006">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>ego enim iam delibor et tempus meae resolutionis instat</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.007">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>bonum certamen certavi cursum consummavi fidem servavi</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.008">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>in reliquo reposita est mihi iustitiae corona quam reddet mihi Dominus in illa die iustus iudex non solum autem mihi sed et his qui diligunt adventum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.009">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>festina venire ad me cito</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.010">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>Demas enim me dereliquit diligens hoc saeculum et abiit Thessalonicam Crescens in Galliam Titus in Dalmatiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.011">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>Lucas est mecum solus Marcum adsume et adduc tecum est enim mihi utilis in ministerium</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.012">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>Tychicum autem misi Ephesum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.013">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>paenulam quam reliqui Troade apud Carpum veniens adfers et libros maxime autem membranas</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.014">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>Alexander aerarius multa mala mihi ostendit reddat ei Dominus secundum opera eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.015">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>quem et tu devita valde enim restitit verbis nostris</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.016">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>in prima mea defensione nemo mihi adfuit sed omnes me dereliquerunt non illis reputetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.017">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>Dominus autem mihi adstitit et confortavit me ut per me praedicatio impleatur et audiant omnes gentes et liberatus sum de ore leonis</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.018">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>liberabit me Dominus ab omni opere malo et salvum faciet in regnum suum caeleste cui gloria in saecula saeculorum amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.019">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>saluta Priscam et Aquilam et Onesifori domum</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.020">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>Erastus remansit Corinthi Trophimum autem reliqui infirmum Mileti</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.021">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:21</verseNum>
+      </reference>
+      <l>festina ante hiemem venire salutat te Eubulus et Pudens et Linus et Claudia et fratres omnes</l>
+    </verse>
+    <verse type="bible-verse" id="B.2Timothy.004.022">
+      <reference>
+        <bookName>2Timothy</bookName>
+        <verseNum>4:22</verseNum>
+      </reference>
+      <l>Dominus Iesus cum spiritu tuo gratia nobiscum amen</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.2Timothy.colophon.001">
+    <reference>
+      <bookName>2Timothy</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT AD TIMOTHEUM</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

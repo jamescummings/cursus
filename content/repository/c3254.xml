@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3253" nextid="c3255" id="c3254">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R"> In medio carceris stabat beatus Joannes</rdg>
+         <rdg wit="CAO-M"> Medium carceris stans beatus Joannes</rdg>
+         <rdg wit="CAO-C CAO-S"> In medio carceris stans beatus Joannes</rdg>
+      </app> voce magna clamavit et dixit domine deus meus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-S"> tibi commendo spiritum meum</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V"> in te commendo spiritum meum</rdg>
+         <rdg wit="CAO-H">
+            <add hand="later">ad te</add> commendo spiritum meum</rdg>
+      </app>
+   </aBody>
+</ant>

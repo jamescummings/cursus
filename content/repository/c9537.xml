@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9536" nextid="c9538" id="c9537">
+   <header>
+      <usage ms="Evm" code="02010100">[60r] matins-n2-r7</usage>
+      <usage ms="Wcb" code="02010100">[66v] matins-n2-r7</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. c6333</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Evm Wcb">Continet in gremio caelum terrarumque regentem virgo dei genitrix quem totus non capit orbis per quem mundus ovans celso sub principe pollet</rBody>
+   <verses>
+      <vBody type="r" wit="Evm Wcb">Natus in orbe verus homo sublimis deus fulget in axe</vBody>
+      <rep type="r" wit="Evm Wcb"> Per quem</rep>
+   </verses>
+</res>

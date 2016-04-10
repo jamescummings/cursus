@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4995" nextid="c4997" id="c4996">
+   <header>
+      <usage ms="Cdm" code="08013000">[83r] terce</usage>
+      <usage ms="Hyd" code="08013000">[103r] terce-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Spiritus carnem et ossa non habet</rdg>
+         <rdg wit="CAO-C"> Spiritus carnem et ossam non habetis</rdg>
+      </app> sicut me videtis habere
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Cdm"> iam credite alleluia</rdg>
+         <rdg wit="CAO-F"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

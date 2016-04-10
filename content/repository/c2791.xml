@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2790" nextid="c2792" id="c2791">
+   <aBody wit="CAO-G CAO-E CAO-M CAO-H CAO-R"> Exiit sermo inter fratres quod discipulus ille
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-R"> non moritur</rdg>
+         <rdg wit="CAO-H"> non moreretur</rdg>
+      </app> et non dixit Jesus
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-R"> non moritur</rdg>
+         <rdg wit="CAO-H"> quia non moritur</rdg>
+      </app> sed sic eum volo manere donec veniam</aBody>
+</ant>

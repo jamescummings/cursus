@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1779" nextid="c1781" id="c1780">
+   <header>
+      <usage ms="Cdm" code="07066000">[79v] vesp2</usage>
+      <usage ms="Ely" code="07065000">[89v] compline</usage>
+      <usage ms="Wor" code="07065000">[60v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H Ely Wor Cdm">
+      <app>
+         <rdg wit="CAO-E CAO-H Ely Wor Cdm"> Cena facta</rdg>
+         <rdg wit="CAO-C"> Cena facta est</rdg>
+      </app> dixit Jesus discipulis suis
+     <app>
+         <rdg wit="CAO-C CAO-H Ely Wor"> amen amen dico vobis</rdg>
+         <rdg wit="CAO-E Cdm"> amen dico vobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H"> unus vestrum est hic qui me traditurus est</rdg>
+         <rdg wit="CAO-C CAO-E"> unus vestrum hic qui me traditurus est</rdg>
+         <rdg wit="Ely Wor Cdm"> unus vestrum me traditurus est</rdg>
+      </app> in hac nocte</aBody>
+</ant>

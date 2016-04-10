@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7419" nextid="c7421" id="c7420">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Praecursor domini venit de quo ipse testatur nullus maior inter natos mulierum Joanne baptista</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R"> Ipse praebit ante illum in spiritu et virtute Eliae</vBody>
+      <vBody type="r" wit="CAO-B"> Ipse praebit</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-F CAO-S"> Hic est enim propheta</rdg>
+            <rdg wit="CAO-L"> Hic enim propheta</rdg>
+            <rdg wit="CAO-D"> Hic enim est propheta</rdg>
+         </app> et plus quam propheta de quo
+      <app>
+            <rdg wit="CAO-D CAO-S"> idem</rdg>
+            <rdg wit="CAO-F"> salvator</rdg>
+            <rdg wit="CAO-L"> idem dominus</rdg>
+         </app> ait</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Nullus</rep>
+      <rep type="r" wit="CAO">Nullus</rep>
+   </verses>
+</res>

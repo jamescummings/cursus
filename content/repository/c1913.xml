@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1912" nextid="c1914" id="c1913">
+   <header>
+      <usage ms="Alb2" code="07064000">[107r] lauds-a2</usage>
+      <usage ms="Cdm" code="07064000">[77r] lauds-a2</usage>
+      <usage ms="Cht" code="07064000">[59v] lauds</usage>
+      <usage ms="Ely" code="07064000">[88r] lauds</usage>
+      <usage ms="Evm" code="07064000">[147r] lauds</usage>
+      <usage ms="Hyd" code="07064000">[93r] lauds</usage>
+      <usage ms="Mch" code="07064000">[157v] lauds-a2</usage>
+      <usage ms="Pet" code="07064000">[87v] lauds</usage>
+      <usage ms="Wcb" code="07064000">[114r] lauds</usage>
+      <usage ms="Wor" code="07064000">[58v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Contumelias et terrores passus sum ab eis et dominus mecum est tamquam bellator fortis</aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7753" nextid="c7755" id="c7754">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Tanto tempore vobiscum sum et non cognovistis me Philippe
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> qui videt me videt</rdg>
+         <rdg wit="CAO-C"> qui videt me vidit</rdg>
+      </app> et patrem alleluia non credis quia ego in patre et pater in me est alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L"> Domine ostende nobis patrem et sufficit nobis</vBody>
+      <vBody type="r" wit="CAO-H"> Domine ostende nobis patrem</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-R CAO-D">Non credis</rep>
+      <rep type="r" wit="CAO-F CAO-L">Philippe</rep>
+   </verses>
+</res>

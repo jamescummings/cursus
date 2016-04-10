@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1818" nextid="c1820" id="c1819">
+   <aBody wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F Fec-B2"> Clamabat Eliseus ad Eliam
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-F"> et dicebat</rdg>
+         <rdg wit="Fec-B2"> dicens</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> pater mi pater mi currus Israel et auriga eius</aBody>
+</ant>

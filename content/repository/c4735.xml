@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4734" nextid="c4736" id="c4735">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> Sancti spiritus et animae iustorum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-F"> hymnum dicite deo alleluia</rdg>
+         <rdg wit="CAO-C CAO-R CAO-D"> hymnum dicite deo in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

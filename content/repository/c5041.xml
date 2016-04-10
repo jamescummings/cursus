@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5040b" nextid="c5042" id="c5041">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-F CAO-S"> Sub tuum praesidium confugimus dei genitrix</rdg>
+         <rdg wit="CAO-L"> Sub tuis visceribus confugimus dei genitrix</rdg>
+      </app> nostras deprecationes ne despicias
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-F CAO-S"> in necessitatibus</rdg>
+         <rdg wit="CAO-L"> in necessitate</rdg>
+      </app> sed a periculis libera nos semper
+     <app>
+         <rdg wit="CAO-C CAO-F CAO-S CAO-L"> virgo benedicta</rdg>
+         <rdg wit="CAO-E CAO-M"> virgo gloriosa</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7410" nextid="c7412" id="c7411">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Posui adiutorium
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L"> super potentem</rdg>
+         <rdg wit="CAO-R"> super potente</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> et exaltavi</rdg>
+         <rdg wit="CAO-S"> et exaltabit</rdg>
+      </app> electum de plebe mea manus enim mea auxiliabitur ei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Inveni David servum meum oleo sancto mea unxi eum</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Manus</rep>
+   </verses>
+</res>

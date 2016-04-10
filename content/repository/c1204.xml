@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1203" nextid="c1205" id="c1204">
+   <header>
+      <usage ms="Glo" code="14032100"/>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Glo"> Ab ipso pueritiae suae
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Glo"> tempore cor gerens senile</rdg>
+         <rdg wit="CAO-C"> cor gerens senile</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-S"> aetatem</rdg>
+         <rdg wit="CAO-C"> aetate</rdg>
+         <rdg wit="CAO-D CAO-F CAO-L Glo"> aetatem quippe</rdg>
+      </app> moribus transiens nulli animum
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-S CAO-L"> voluptati dedit</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F Glo"> dedit voluptati</rdg>
+      </app>
+   </aBody>
+</ant>

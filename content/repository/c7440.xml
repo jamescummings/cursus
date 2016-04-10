@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7439" nextid="c7441" id="c7440">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Propter testamentum domini
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et leges paternas</rdg>
+         <rdg wit="CAO-V"> et leges paterna</rdg>
+         <rdg wit="CAO-E"> eleges paternas</rdg>
+         <rdg wit="CAO-M"> et legibus paternis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> sancti dei astiterunt</rdg>
+         <rdg wit="CAO-C CAO-M"> ideoque steterunt</rdg>
+         <rdg wit="CAO-V"> ideoque astiterunt</rdg>
+         <rdg wit="CAO-D"> ideo steterunt</rdg>
+         <rdg wit="CAO-L"> astiterunt</rdg>
+         <rdg wit="CAO-F CAO-S"> sancti dei perstiterunt</rdg>
+         <rdg wit="CAO-H CAO-R"> astiterunt sancti dei</rdg>
+      </app> in amore fraternitatis quia unus fuit semper spiritus in eis et une fides</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H"> Ecce quam bonum et quam iucundum habitare fratres in unum</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-F"> Ecce quam bonum</vBody>
+      <vBody type="r" wit="CAO-D CAO-S CAO-L"> Fuerunt sine querela ante dominum et ab invicem non sunt separati</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Quia</rep>
+   </verses>
+</res>

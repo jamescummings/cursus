@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7739" nextid="c7741" id="c7740">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] lauds</usage>
+      <usage ms="Hyd" code="08000000"/>
+      <usage ms="Hyd" code="08014000">[103v] lauds</usage>
+   </header>
+   <rBody wit="CAO-E CAO-V CAO-H CAO-S Hyd Cdm"> Surrexit dominus vere alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-H CAO-S"> Et apparuit Simoni</vBody>
+      <vBody type="r" wit="Hyd Cdm"> Et apparuit Simoni alleluia</vBody>
+      <rep type="r" wit="CAO-H CAO-S Cdm"> Alleluia</rep>
+   </verses>
+</res>

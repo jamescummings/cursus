@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9527" nextid="c9529" id="c9528">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n3-r10</usage>
+   </header>
+   <rBody wit="Hyd"> Unus est dominus una fides unum baptisma unus deus pater quis super omnes et per omnia et in omnibus nobis</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Ex quo omnia per quem omnia in quo omnia ipso gloria in saecula</vBody>
+      <rep type="r" wit="Hyd">Quis </rep>
+   </verses>
+</res>

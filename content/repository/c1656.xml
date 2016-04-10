@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1655" nextid="c1657" id="c1656">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus <name reg="Petrus" type="saint">Petrus</name> apostolus vidit sibi Christum occurrere adorans eum
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-S"> et dixit</rdg>
+         <rdg wit="CAO-B">
+            <del status="unremarkable">et</del> dixit</rdg>
+         <rdg wit="CAO-R"> dixit</rdg>
+         <rdg wit="CAO-F"> ait</rdg>
+         <rdg wit="CAO-M CAO-D CAO-L"> et ait</rdg>
+      </app> domine quo vadis venio <name reg="Roma" type="place">Romam</name> iterum crucifigi</aBody>
+</ant>

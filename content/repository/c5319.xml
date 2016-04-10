@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5318" nextid="c5320" id="c5319">
+   <aBody wit="CAO-V CAO-R"> Veni desiderator bone veni
+     <app>
+         <rdg wit="CAO-V"> suscipiam te angeli mei</rdg>
+         <rdg wit="CAO-R"> suscipiant te angeli mei</rdg>
+      </app> quoniam assatus non negasti me
+     <app>
+         <rdg wit="CAO-V"> probatus confessus est me</rdg>
+         <rdg wit="CAO-R"> probatus confessus es me</rdg>
+      </app>
+   </aBody>
+</ant>

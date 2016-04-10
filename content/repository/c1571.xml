@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1570b" nextid="c1572" id="c1571">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Beata nimium et deo nostro grata societas inter quos nec primus alter potuit esse nec tertius
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F"> sed trinitatem confitentes</rdg>
+         <rdg wit="CAO-S"> sed trinitate confitentes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> trino meruerunt decorari martyrio</rdg>
+         <rdg wit="CAO-C"> trium meruerunt decorare martyrio</rdg>
+         <rdg wit="CAO-V"> trio meruerunt decorari martyrio</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Ut fide pares gloria coronaret aequalis</vBody>
+   </verses>
+</ant>

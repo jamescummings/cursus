@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4958" nextid="c4960" id="c4959">
+   <header>
+      <usage ms="Cdm" code="07064000">[77r] lauds gosp</usage>
+      <usage ms="Cht" code="07063000">[58v] prime</usage>
+      <usage ms="Ely" code="07063000">[87v] lauds</usage>
+      <usage ms="Evm" code="07063000">[146r] terce</usage>
+      <usage ms="Glo" code="07063000">[78r] terce</usage>
+      <usage ms="Hyd" code="07064000">[93r] terce</usage>
+      <usage ms="Mch" code="07064000">[157v] lauds gosp</usage>
+      <usage ms="Pet" code="07064000">[87v] lauds</usage>
+      <usage ms="Wcb" code="07063000">[114r] terce</usage>
+      <usage ms="Wor" code="07064000">[58v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch"> Simon dormis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm Mch">non potuisti</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L">non potuistis</rdg>
+      </app> una hora vigilare mecum
+    </aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2712" nextid="c2714" id="c2713">
+   <header>
+      <usage ms="Glo" code="07013000"/>
+      <usage ms="Hyd" code="01013000">[5v] vesp2-a3</usage>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Et omnis mansuetudinis eius</aBody>
+   <aBody wit="Glo"> Et omnis</aBody>
+</ant>

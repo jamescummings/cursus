@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6698" nextid="c6700" id="c6699">
+   <header>
+      <usage ms="Cdm" code="08013000">[82v] matins-n1-r3</usage>
+      <usage ms="Hyd" code="08011000">[99v] matins-n3-r9</usage>
+      <usage ms="Hyd" code="08014000">[103r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Expurgate vetus fermentum
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> ut sitis</rdg>
+         <rdg wit="CAO-M CAO-V"> ut scitis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> nova conspersio</rdg>
+         <rdg wit="CAO-C CAO-E"> nova consparsio</rdg>
+         <rdg wit="CAO-V"> nova <corr sic="conspersio">consparsio</corr>
+         </rdg>
+      </app> etenim pascha nostrum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cdm"> immolatus est Christus</rdg>
+         <rdg wit="Hyd"> immolatus est Christum</rdg>
+      </app> itaque epulemur in domino alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Cdm">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Cdm"> Non in fermento malitiae et nequitiae</rdg>
+            <rdg wit="CAO-E"> Non in fermento veteri neque in fermento malitiae et nequitiae</rdg>
+         </app> sed in azymis sinceritatis et veritatis</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Mortuus est propter delicta nostra et resurrexit
+       <app>
+            <rdg wit="CAO-S"> propter iustificationem nostram</rdg>
+            <rdg wit="CAO-L"> propter iustificationes nostras</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L Hyd Cdm"> Itaque</rep>
+      <rep type="r" wit="CAO-D CAO-F"> Epulemur</rep>
+   </verses>
+</res>

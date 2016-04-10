@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6171" nextid="c6173" id="c6172">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Beatam me dicent</rdg>
+         <rdg wit="CAO-S CAO-L">Beata me dicent</rdg>
+      </app> omnes generationes quia fecit mihi dominus magna
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> quia</rdg>
+         <rdg wit="CAO-M CAO-S CAO-L">qui</rdg>
+      </app> potens est et sanctum nomen eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">Et misericordia eius
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> a progenie in progenies</rdg>
+            <rdg wit="CAO-S">in progenie et progenies</rdg>
+         </app> timentibus eum</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V CAO-S CAO-L">Quia</rep>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-F"> Et sanctum</rep>
+   </verses>
+</res>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7326a" nextid="c7326c" id="c7326b">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">For the Feast of St Martin</note>
+   <rBody wit="CAO-C CAO-R CAO-D"> Ora pro nobis beate Martine ut digni efficiamur promissione Christi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-R"> Tu autem
+      <app>
+            <rdg wit="CAO-C"> confessor sancte beate Martine</rdg>
+            <rdg wit="CAO-R"> confessor Christi beate Martine</rdg>
+         </app> ora pro nobis</vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Dum sacramenta offerret beatus Martinus globus igneus apparuit super caput eius</vBody>
+      <vBody type="r" wit="CAO-D"> Quam reddet unicuique secundum suum laborem nobis quoque tribuat secundum gratiae dignitatem</vBody>
+      <rep type="r" wit="CAO-C CAO-R CAO-D">Ut digni</rep>
+   </verses>
+</res>

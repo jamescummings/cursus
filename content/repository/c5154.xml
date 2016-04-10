@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5153" nextid="c5155" id="c5154">
+   <aBody wit="CAO-E CAO-V CAO-L"> Timothei Christi martyris
+     <app>
+         <rdg wit="CAO-E CAO-V"> Silvester vir piissimus</rdg>
+         <rdg wit="CAO-L"> Silvester piissimus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> sustulit corpusculum</rdg>
+         <rdg wit="CAO-V CAO-L"> sustulens corpusculum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> et dedicavit eius martyrio</rdg>
+         <rdg wit="CAO-V"> dedicavitque eius martyrium</rdg>
+         <rdg wit="CAO-L"> dedicavit eius martyrium</rdg>
+      </app>
+   </aBody>
+</ant>

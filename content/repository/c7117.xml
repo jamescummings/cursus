@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7116" nextid="c7118" id="c7117">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Magnus dominus et magna virtus eius
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et sapientiae eius</rdg>
+         <rdg wit="CAO-M CAO-V"> et sapientia eius</rdg>
+      </app> non est numerus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Magnus dominus et laudabilis nimis et magnitudinis eius non est finis</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et sapientiae</rep>
+      <rep type="r" wit="CAO-M CAO-V">Et sapientia</rep>
+      <dox type="r" wit="CAO-L">Gloria</dox>
+      <rep type="r" num="2" wit="CAO-L">Non est</rep>
+   </verses>
+</res>

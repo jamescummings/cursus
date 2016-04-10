@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6733" nextid="c6735" id="c6734">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Fili noli deficere
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> a disciplina</rdg>
+         <rdg wit="CAO-V"> ad disciplinam</rdg>
+      </app> domini et ne fatigeris
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> dum</rdg>
+         <rdg wit="CAO-L"> cum</rdg>
+      </app> ab eo argueris quem enim diligit dominus corripit et quasi pater
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L Hyd"> in filio</rdg>
+         <rdg wit="CAO-F"> in filium</rdg>
+         <rdg wit="CAO-V"> in filius</rdg>
+      </app> complacet sibi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D Hyd"> Audi fili mi
+       <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D Hyd"> disciplinam patris tui</rdg>
+            <rdg wit="CAO-E"> sapientiam meam</rdg>
+         </app> et ne dimittas legem matris tuae</vBody>
+      <vBody type="r" wit="CAO-L"> Disciplina domini fili ne abiicias et ne fatigeris cum ab eo argueris</vBody>
+      <vBody id="c6734-1" type="r" wit="CAO-F"> Disciplinam fili mi ne abiicias et ne fatigeris dum ab eo argueris</vBody>
+      <rep corresp="c6734-1" type="r" wit="CAO-F"> Quem</rep>
+      <vBody id="c6734-2" type="r" num="2" wit="CAO-F"> Tene disciplinam ne dimittas eam custodi illam quia ipsa est vita tua</vBody>
+      <rep corresp="c6734-2" type="r" wit="CAO-F"> Et ne</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L Hyd"> Quem</rep>
+      <rep type="r" wit="CAO-V"> Et quasi</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2365" nextid="c2367" id="c2366">
+   <aBody wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Domine ostende nobis patrem
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F"> et sufficit nobis alleluia</rdg>
+         <rdg wit="CAO-L"> et sufficit nobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-F CAO-L"> Philippe qui videt me</rdg>
+         <rdg wit="CAO-R CAO-D"> Philippe qui me videt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-D CAO-F CAO-L"> videt et patrem alleluia</rdg>
+         <rdg wit="CAO-H"> videt et patrem alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

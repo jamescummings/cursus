@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2617" nextid="c2619" id="c2618">
+   <aBody wit="CAO-G CAO-M CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-F"> Egregius dei martyr Vincentius</rdg>
+         <rdg wit="CAO-G"> Egregius Christi martyr Vincentius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-M CAO-F"> diris tormentorum suppliciis</rdg>
+         <rdg wit="CAO-D"> diri tormentorum suppliciis</rdg>
+      </app> pro Christo alacriter superatis ac felicis pugnae
+     <app>
+         <rdg wit="CAO-M CAO-D CAO-F"> agone constanter expleto</rdg>
+         <rdg wit="CAO-G"> agonem constanter explevit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-D"> tandem pretiosa resolutus in morte</rdg>
+         <rdg wit="CAO-F"> pretiosa resolutus in morte</rdg>
+         <rdg wit="CAO-G"> tandem resolutus in morte</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-D CAO-F"> caelo triumphans spiritum reddidit</rdg>
+         <rdg wit="CAO-M"> caelo triumphat</rdg>
+      </app>
+   </aBody>
+</ant>

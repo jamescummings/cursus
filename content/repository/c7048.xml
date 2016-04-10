@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7047" nextid="c7049" id="c7048">
+   <rBody wit="CAO-C CAO-D"> Iussit Decius militibus dicens exuite Hippolytum
+      <app>
+         <rdg wit="CAO-D"> veste</rdg>
+         <rdg wit="CAO-C"> vestem</rdg>
+      </app> et fustibus caedite
+      <app>
+         <rdg wit="CAO-D"> et dum caederetur</rdg>
+         <rdg wit="CAO-C"> ut cum diceretur</rdg>
+      </app> dixit miles Christi ego sum et verba tua
+      <app>
+         <rdg wit="CAO-D"> non revereor</rdg>
+         <rdg wit="CAO-C"> non reveresco</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Hippolytus autem clamabat voce clara dicens</vBody>
+      <vBody type="r" wit="CAO-C"> Utere <corr sic="militiae pristinam quem" resp="Hesbert">militia pristina quam</corr> semper habuisiti respondens Hippolytus dicens</vBody>
+      <rep type="r" wit="CAO-D"> Miles</rep>
+   </verses>
+</res>

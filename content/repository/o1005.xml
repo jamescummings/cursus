@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1004" nextid="o1006" id="o1005">
+   <header>
+      <usage ms="Mch" code="06034000">[110v] vesp2</usage>
+      <usage ms="Alb2" code="06034000">[73r] vesp2</usage>
+      <usage ms="Cdm" code="06034000">[55r] vesp2</usage>
+      <usage ms="Cht" code="06034000">[19v] vesp2</usage>
+      <usage ms="Ely" code="06034000">[64v] vesp2</usage>
+      <usage ms="Wcb" code="06034000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.157</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Alb2 Ely Wcb Cdm Mch"> Inclinantes se domine maiestati tuae propitiatus intende ut qui divino munere
+     <app>
+         <rdg wit="Cht Wcb"> sunt refecti</rdg>
+         <rdg wit="Alb2 Ely Cdm Mch"> sunt redempti</rdg>
+      </app> caelestibus semper nutriantur auxiliis</pBody>
+</prayer>

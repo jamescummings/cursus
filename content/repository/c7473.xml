@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7472" nextid="c7474" id="c7473">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L"> Qui consolabatur me recessit a me</rdg>
+         <rdg wit="CAO-F"> Qui consolabatur me recessit ad me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> quaero quod volui</rdg>
+         <rdg wit="CAO-V CAO-D CAO-F"> spero quod volui</rdg>
+         <rdg wit="CAO-E"> quaero quod habui</rdg>
+      </app> et non invenio
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-L"> fundunt oculi mei lacrimas</rdg>
+         <rdg wit="CAO-B"> fundant oculi mei lacrimas</rdg>
+         <rdg wit="CAO-H"> fundent oculi mei lacrimas</rdg>
+      </app> quia repletus sum amaritudine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">Fletum deduxerunt oculi mei
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> et palpebras meas</rdg>
+            <rdg wit="CAO-V"> et palpebram meam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-V CAO-F CAO-L"> operuit umbra mortis</rdg>
+            <rdg wit="CAO-B CAO-R CAO-D"> cooperuit umbra mortis</rdg>
+            <rdg wit="CAO-H"> et <corr sic="operuit" resp="later hand">cooperuit</corr>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-L">Quia</rep>
+      <rep type="r" wit="CAO-H">Fundent</rep>
+   </verses>
+</res>

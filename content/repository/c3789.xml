@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3788" nextid="c3790" id="c3789">
+   <header>
+      <usage ms="Glo" code="14031200"/>
+   </header>
+   <aBody wit="CAO-B CAO-H CAO-L Glo"> Missis namque doctoribus tantam deus gratiam contulit ut verbum fidei quod ore praedicabant
+     <app>
+         <rdg wit="CAO-B"> signorum efficacia confirmarent</rdg>
+         <rdg wit="CAO-H"> signorum efficacia confirmaret</rdg>
+         <rdg wit="CAO-L"> signorum efficaciam confirmaret</rdg>
+         <rdg wit="Glo"> signorum efficacia confirmaretur</rdg>
+      </app>
+   </aBody>
+</ant>

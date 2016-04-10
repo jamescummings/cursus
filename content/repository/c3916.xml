@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3915" nextid="c3917" id="c3916">
+   <header>
+      <usage ms="Alb2" code="07062000">[106r] lauds</usage>
+      <usage ms="Cdm" code="07062000">[76r] lauds gosp</usage>
+      <usage ms="Cht" code="07064000">[59v] nones</usage>
+      <usage ms="Ely" code="07062000">[87r] lauds</usage>
+      <usage ms="Evm" code="07064000">[147r] nones</usage>
+      <usage ms="Glo" code="07064000">[78v] nones</usage>
+      <usage ms="Hyd" code="07064000">[93r] sext</usage>
+      <usage ms="Mch" code="07062000">[156r] lauds gosp</usage>
+      <usage ms="Pet" code="07062000">[86v] lauds</usage>
+      <usage ms="Wcb" code="07064000">[114v] nones</usage>
+      <usage ms="Wor" code="07062000">[57r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Non haberes in me potestatem
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Pet Wcb Alb2 Mch"> nisi desuper datum tibi</rdg>
+         <rdg wit="CAO-C CAO-B Ely Hyd Evm Glo Cdm"> nisi desuper tibi datum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">fuisset</rdg>
+         <rdg wit="CAO-V">fuisse</rdg>
+      </app>
+   </aBody>
+</ant>

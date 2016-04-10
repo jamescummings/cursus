@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6784" nextid="c6786" id="c6785">
+   <rBody wit="CAO-G CAO-E CAO-D CAO-F"> Gloriosus Dei amicus Vincentius Jesu Christi confessione fundatus
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> inter tormentorum supplicia</rdg>
+         <rdg wit="CAO-G"> inter furentium impetus</rdg>
+      </app> stetit imperterritus ac demum triumphali morte insignis caelos petivit sanguine laureatus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F"> Felici commercio pro terrenis caelestia pro perituris aeterna commutans</vBody>
+      <vBody type="r" wit="CAO-G"> Ipse nostris solamen quaesumus ferat miseriis qui multiplicibus hodie felix triumphis</vBody>
+      <rep type="r" wit="CAO-E CAO-F"> Ac demum</rep>
+      <rep type="r" wit="CAO-G CAO-D"> Caelos</rep>
+   </verses>
+</res>

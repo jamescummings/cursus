@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1072b" nextid="c1074" id="c1073">
+   <header>
+      <usage ms="Ely" code="01041000">[13r] matins inv</usage>
+      <usage ms="Pet" code="01041000">[10r] matins inv</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Ely Pet">
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S Ely Pet"> Ecce venit plenitudo temporis</rdg>
+         <rdg wit="CAO-E"> Ecce venit iam plenitudo temporis</rdg>
+         <rdg wit="CAO-V"> Ecce iam venit plenitudo temporis</rdg>
+         <rdg wit="CAO-M"> Ecce venit plenitudo temporum</rdg>
+      </app> in quo misit deus filium suum natum de virgine factum sub lege venite adoremus</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1654" nextid="o1656" id="o1655">
+   <header>
+      <usage ms="Hyd" code="02122400">[16r] vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.797</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd">Concede quaesumus omnipotens deus ut qui sub peccati iugo ex vetusta servitute deprimimur expectata unigeniti filii nova nativitate liberemur</pBody>
+</prayer>

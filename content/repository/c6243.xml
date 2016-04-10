@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6242" nextid="c6244" id="c6243">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Benedicta et venerabilis virgo Maria cuius viscera meruerunt portare dominum Christum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Benedicta tu in mulieribus et benedictus fructus ventris tui</vBody>
+      <vBody type="r" wit="CAO-V"> Ave Maria gratia plena dominus tecum</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Cuius</rep>
+      <rep type="r" wit="CAO-V">Dominum</rep>
+   </verses>
+</res>

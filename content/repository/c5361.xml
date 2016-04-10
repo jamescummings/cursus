@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5360" nextid="c5362" id="c5361">
+   <header>
+      <usage ms="Alb2" code="02010500">[49v] matins-n1-a1</usage>
+      <usage ms="Alb2" code="03026000">[41v] matins-a1</usage>
+      <usage ms="Cdm" code="02122500">[22r] matins-n2-a10</usage>
+      <usage ms="Ely" code="02122500">[18v] matins-n2-a12</usage>
+      <usage ms="Evm" code="02122700">[45v] lauds-commemoration</usage>
+      <usage ms="Hyd" code="02010100">matins-n2</usage>
+      <usage ms="Wor" code="02122500">[14v] matins-n2-a12</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">This antiphon uses a different melody from c5362 and c5363</note>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.155-156</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Bat Cdm Ely Wor"> Verbum caro factum est alleluia
+     <app>
+         <rdg wit="CAO-M CAO-R CAO-F Hyd Alb2 Evm Bat Cdm Ely"> et habitavit</rdg>
+         <rdg wit="CAO-H CAO-D CAO-S"> et habitabit</rdg>
+         <rdg wit="Wor"> et habita<corr sic="v">b</corr>it</rdg>
+      </app> in nobis alleluia</aBody>
+   <aBody wit="Alb2"> Verbum caro factum est alleluia et habitabit in nobis alleluia</aBody>
+</ant>

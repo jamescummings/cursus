@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1536" nextid="o1538" id="o1537">
+   <header>
+      <usage ms="Alb2" code="07034000"/>
+      <usage ms="Bat" code="07034000">[55v] lauds</usage>
+      <usage ms="Cdm" code="07034000">[66r] lauds</usage>
+      <usage ms="Cht" code="07034000"/>
+      <usage ms="Ely" code="07034000"/>
+      <usage ms="Evm" code="07034000"/>
+      <usage ms="Hyd" code="07034000"/>
+      <usage ms="Mch" code="07034000">[134v] lauds</usage>
+      <usage ms="Mch" code="07045000">[142r] lauds</usage>
+      <usage ms="Wcb" code="07034000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.240</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Ely Cht Evm Wcb Alb2 Cdm Mch Bat">Praesta nobis quaesumus domine ut salutaribus ieiuniis eruditi a noxiis quoque vitiis abstinentes propitiationem tuam facilius impetremus</pBody>
+</prayer>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2518" nextid="c2520" id="c2519">
+   <header>
+      <usage ms="Alb2" code="01032000">[14v] lauds-a3</usage>
+      <usage ms="Bat" code="01032000">[10r] lauds-a3</usage>
+      <usage ms="Cdm" code="01032000">[16r] lauds-a3</usage>
+      <usage ms="Ely" code="01043000">[15r] lauds-a3</usage>
+      <usage ms="Evm" code="01036009">[27r] lauds-a3</usage>
+      <usage ms="Evm" code="01042000">[25r] lauds-a3</usage>
+      <usage ms="Hyd" code="01042000">[14v] lauds-a3</usage>
+      <usage ms="Mch" code="01032000">[12v] lauds-a3</usage>
+      <usage ms="Wcb" code="01042000">[49v] lauds-a3</usage>
+      <usage ms="Wor" code="01032000">[8v] lauds-a3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Shorter version of c8585</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-F Alb2 Evm Mch Wcb"> Ecce iam veniet plenitudo temporis</rdg>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-L Hyd Cdm Ely Wor Bat"> Ecce iam venit plenitudo temporis</rdg>
+         <rdg wit="CAO-M"> Ecce iam veniet plenitudo temporum</rdg>
+      </app> in quo misit deus filium suum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> in terris</rdg>
+         <rdg wit="CAO-H"> in terras</rdg>
+      </app>
+   </aBody>
+</ant>

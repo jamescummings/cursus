@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2864" nextid="c2866" id="c2865">
+   <header>
+      <usage ms="Hyd" code="01011000">[4r] vesp2-a2</usage>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-S Hyd"> Fidelia omnia mandata eius confirmata in saeculum saeculi</aBody>
+</ant>

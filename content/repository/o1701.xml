@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1700" nextid="o1702" id="o1701">
+   <header>
+      <usage ms="Hyd" code="08086000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.542</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Da quaesumus ecclesiae tuae misericors deus ut sancto spiritu congregata hostili nullatenus incursione turbetur</pBody>
+</prayer>

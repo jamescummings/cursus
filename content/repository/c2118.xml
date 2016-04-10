@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2117" nextid="c2119" id="c2118">
+   <aBody wit="CAO-V CAO-L">
+      <app>
+         <rdg wit="CAO-L"> De resurrectione tua Christe</rdg>
+         <rdg wit="CAO-V"> Ex resurrectione tua Christe</rdg>
+      </app> caelum et terra laetantur
+     <app>
+         <rdg wit="CAO-L"> crux tua fulget</rdg>
+         <rdg wit="CAO-V"> lux tua fulget</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> per totum mundum</rdg>
+         <rdg wit="CAO-V"> per omnem mundum</rdg>
+      </app> et claritas tua replet orbem terrarum alleluia</aBody>
+</ant>

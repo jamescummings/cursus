@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3966" nextid="c3968" id="c3967">
+   <header>
+      <usage ms="Ely" code="01011000">[5r] terce</usage>
+      <usage ms="Evm" code="01011000">[7r] prime</usage>
+      <usage ms="Glo" code="01011000">[7v] prime</usage>
+      <usage ms="Wcb" code="01011000">[43v] prime</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-R Evm Ely Glo"> Nox praecessit dies autem appropinquabit abiciamus ergo opera tenebrarum
+     <app>
+         <rdg wit="CAO-B CAO-R Evm Ely"> et induamur arma lucis</rdg>
+         <rdg wit="CAO-E Glo"> et induamur armis lucis</rdg>
+      </app> sicut in die honeste ambulemus</aBody>
+   <aBody wit="Wcb"> Nox praecessit dies a<gap reason="torn folio" extent="remainder of column-line"/>go opera<gap reason="torn folio" extent="remainder of column-line"/>sicut in d<gap reason="torn folio" extent="remainder of column-line"/>
+   </aBody>
+</ant>

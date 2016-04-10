@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1575" nextid="o1577" id="o1576">
+   <header>
+      <usage ms="Ely" code="07064000">[88r] lauds</usage>
+      <usage ms="Evm" code="07067000">[155r] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.324</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Evm"> Deus qui pro nobis filium tuum crucis patibulum subire voluisti ut inimici a nobis expelleres potestatem concede nobis famulis tuis
+     <app>
+         <rdg wit="Ely"> ut resurrectionis gratiam consequamur</rdg>
+         <rdg wit="Evm"> ut in resurrectionis eius gaudiis semper vivamus</rdg>
+      </app>
+   </pBody>
+</prayer>

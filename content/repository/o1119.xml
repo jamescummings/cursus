@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1024" nextid="o1120" id="o1119">
+   <header>
+      <usage ms="Bat" code="06036000">[46v] vesp2</usage>
+      <usage ms="Cdm" code="06036000">[56r] vesp2</usage>
+      <usage ms="Cht" code="06036000"/>
+      <usage ms="Evm" code="06036000"/>
+      <usage ms="Hyd" code="06036000"/>
+      <usage ms="Mch" code="06036000">[111v] vesp2</usage>
+   </header>
+   <pBody wit="Hyd Cht Evm Cdm Bat Mch">
+      <app>
+         <rdg wit="Hyd"> Tuere domine quaesumus populum tuum</rdg>
+         <rdg wit="Cht"> Tuere quaesumus domine populum tuum</rdg>
+         <rdg wit="Evm Cdm Bat Mch"> Tuere domine populum tuum</rdg>
+      </app> et ab omnibus peccatis clementer emunda
+     <app>
+         <rdg wit="Hyd Evm Bat Cdm Mch"> quia nulla ei nocebit adversitas</rdg>
+         <rdg wit="Cht"> quia ei nulla nocebit adversitas</rdg>
+      </app>
+      <app>
+         <rdg wit="Hyd Evm Cdm Bat"> si nulla donetur iniquitas</rdg>
+         <rdg wit="Cht"> si nulla dominetur iniquitas</rdg>
+         <rdg wit="Mch"> si nulla <add place="over erasure" hand="contemporary">dominetur</add> iniquitasq</rdg>
+      </app>
+   </pBody>
+</prayer>

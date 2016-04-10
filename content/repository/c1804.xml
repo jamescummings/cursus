@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1803" nextid="c1805" id="c1804">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> Cilicio <name reg="Caecilia" type="saint">Caecilia</name> membra domabat</rdg>
+         <rdg wit="CAO-V CAO-D"> Cilicio <name reg="Caecilia" type="saint">Caecilia</name> membra dogmabat</rdg>
+      </app> deum gemitibus exorabat</aBody>
+</ant>

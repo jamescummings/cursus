@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2964" nextid="c2966" id="c2965">
+   <header>
+      <usage ms="Glo" code="14032100"/>
+   </header>
+   <aBody wit="CAO-D CAO-F Glo">
+      <app>
+         <rdg wit="CAO-D"> Gloriosus confessor domini Hilarus</rdg>
+         <rdg wit="CAO-F Glo"> Gloriosus confessor domini Benedictus</rdg>
+      </app> vitam angelicam gerens in terris speculum bonorum operum factus est mundo et ideo cum Christo iam sine fine
+     <app>
+         <rdg wit="CAO-D"> gaudet in caelo</rdg>
+         <rdg wit="CAO-F Glo"> gaudet in caelis</rdg>
+      </app>
+   </aBody>
+</ant>

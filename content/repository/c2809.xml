@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2808" nextid="c2810" id="c2809">
+   <header>
+      <usage ms="Ely" code="01011000">[5r] nones</usage>
+      <usage ms="Evm" code="01011000">[7v] nones</usage>
+      <usage ms="Evm" code="01035009">[20r] lauds-a2</usage>
+      <usage ms="Glo" code="01011000">[7v] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-L Evm Ely Glo"> Exsulta satis filia Sion quia ecce rex tuus venit tibi
+     <app>
+         <rdg wit="Evm Ely Glo"> sanctus et salvator</rdg>
+         <rdg wit="CAO-C CAO-L"> iustus et salvator alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

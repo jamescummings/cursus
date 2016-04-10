@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6429" nextid="c6431" id="c6430">
+   <header>
+      <usage ms="Hyd" code="10100000">matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Deus omnium exauditor est ipse misit angelum suum et tulit me de ovibus patris mei
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et unxit me</rdg>
+         <rdg wit="Hyd"> etiam unxit me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F Hyd"> unctione misericordiae suae</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-S CAO-L"> unctionem misericordiae suae</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Dominus qui eripuit me de ore leonis et de manu bestiae
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> liberavit me</rdg>
+            <rdg wit="CAO-H"> liberabit me</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Et unxit</rep>
+      <rep type="r" wit="Hyd"> Etiam unxit</rep>
+   </verses>
+</res>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1630" nextid="c1632" id="c1631">
+   <header>
+      <usage ms="Glo" code="14031200"/>
+   </header>
+   <aBody wit="CAO-B CAO-H CAO-L Glo"> Beatus Gregorius natione Romanus nobilitatem suam
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-L"> moribus et probis actibus decoravit</rdg>
+         <rdg wit="Glo"> moribus et probis actibus decorabat</rdg>
+      </app>
+   </aBody>
+</ant>

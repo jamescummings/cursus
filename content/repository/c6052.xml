@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6051" nextid="c6053" id="c6052">
+   <rBody wit="CAO-E CAO-S"> Advenientes milites
+     <app>
+         <rdg wit="CAO-E"> qui percusserunt eum lanceis</rdg>
+         <rdg wit="CAO-S"> percusserunt eum lanceis</rdg>
+      </app> at ille gaudens
+     <app>
+         <rdg wit="CAO-E"> migravit ad dominum</rdg>
+         <rdg wit="CAO-S"> migravit a saeculo</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-S">
+         <app>
+            <rdg wit="CAO-E">Et dum in templo</rdg>
+            <rdg wit="CAO-S"> Et cum in templo</rdg>
+         </app> omnes
+      <app>
+            <rdg wit="CAO-E"> doceret</rdg>
+            <rdg wit="CAO-S"> docerent</rdg>
+         </app> evangelium Christi
+      <app>
+            <rdg wit="CAO-E"> martyrio coronatus est</rdg>
+            <rdg wit="CAO-S"> statim martyrio coronatus est</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-S">At ille</rep>
+   </verses>
+</res>

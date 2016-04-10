@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1662" nextid="o1664" id="o1663">
+   <header>
+      <usage ms="Cdm" code="02122600">[26r] commemoration</usage>
+      <usage ms="Alb2" code="02122600">[33v] commemoration</usage>
+      <usage ms="Evm" code="02122600">[42r] vesp2</usage>
+      <usage ms="Hyd" code="02122600"/>
+      <usage ms="Wcb" code="02122700">[60v] vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.67</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Wcb Cdm"> Ecclesiam tuam quaesumus domine benignus illustra ut beati Johannis evangeliste illuminata doctrinis ad dona perveniat sempiterna</pBody>
+</prayer>

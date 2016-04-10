@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5116" nextid="c5118" id="c5117">
+   <header>
+      <usage ms="Hyd" code="09011000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S Hyd"> Te deum patrem ingenitum te filium unigenitum te spiritum sanctum paraclitum sanctam et individuam trinitatem
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-D CAO-F CAO-S Hyd"> toto corde et ore confitemur</rdg>
+         <rdg wit="CAO-M"> toto corde et ore profitemur</rdg>
+      </app> laudamus atque benedicimus tibi gloria in saecula</aBody>
+</ant>

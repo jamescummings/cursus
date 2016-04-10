@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7710b" nextid="c7712" id="c7711">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Strinxerunt corporis membra</rdg>
+         <rdg wit="CAO-L"> Stridebant corporis membra</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> posita in craticula</rdg>
+         <rdg wit="CAO-V"> positum in craticula</rdg>
+         <rdg wit="CAO-L"> posita super craticula</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> subicientibus prunas insultat levita Christi</rdg>
+         <rdg wit="CAO-C"> superiectus prunis insultat levita Christi</rdg>
+         <rdg wit="CAO-L"> ministrantibus prunas insultat levita Christi</rdg>
+         <rdg wit="CAO-M"> subicientibus prunis exsultat levita Christi</rdg>
+         <rdg wit="CAO-F"> subicientibus <corr sic="prunis">prunas</corr>
+            <corr sic="exsultat">insultat</corr> levita Christi</rdg>
+         <rdg wit="CAO-V CAO-S"> subicientibus prunis insultat levita Christi</rdg>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R"> subicientibus prunas exsultat levita Christi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> beate Laurenti</rdg>
+         <rdg wit="CAO-C"> beate Laurente</rdg>
+      </app> martyr Christi intercede pro nobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-R CAO-D CAO-F CAO-S CAO-L"> Carnifices vero urgentes</rdg>
+            <rdg wit="CAO-C"> Carnifices vero</rdg>
+            <rdg wit="CAO-E CAO-M"> Carnifices vero urguentes</rdg>
+         </app> ministrabant carbones
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-R CAO-D CAO-L"> subter cratem ferream</rdg>
+            <rdg wit="CAO-C CAO-F"> subter cratam ferream</rdg>
+            <rdg wit="CAO-S"> subter gratem ferream</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V CAO-H"> Mea nox obscurum non habet
+      <app>
+            <rdg wit="CAO-V"> sed omnia in luce clarescunt</rdg>
+            <rdg wit="CAO-H"> sed omnis in luce clarescit</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Hic est vir qui non est derelictus a domino in die certaminis sui</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Beate</rep>
+   </verses>
+</res>

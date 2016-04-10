@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2606" nextid="c2608" id="c2607">
+   <header>
+      <usage ms="Hyd" code="08051000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Ego veritatem dico vobis</rdg>
+         <rdg wit="CAO-V"> Sed ego veritatem dico vobis</rdg>
+         <rdg wit="CAO-C"> Ego veritatem dico vos</rdg>
+      </app> expedit vobis ut ego vadam
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-R CAO-D CAO-F CAO-S Hyd"> si enim non abiero</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H"> nisi ego abiero</rdg>
+      </app> paraclitus non veniet
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd"> alleluia</rdg>
+         <rdg wit="CAO-F CAO-S"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

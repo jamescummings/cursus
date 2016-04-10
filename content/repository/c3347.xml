@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3346" nextid="c3348" id="c3347">
+   <aBody wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-D CAO-F CAO-S"> Inito consilio fratres venenum vino miscuere</rdg>
+         <rdg wit="CAO-R"> Inito consilio fratres veneno vinum miscuere</rdg>
+         <rdg wit="CAO-L"> Inito consilio fratres venenum vino miscuerent</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> quo oblato signavit</rdg>
+         <rdg wit="CAO-B CAO-S"> quo accepto signavit</rdg>
+         <rdg wit="CAO-H"> quo aspecto signavit</rdg>
+         <rdg wit="CAO-R"> quo allato signavit</rdg>
+      </app> sicque confractum est
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> ac si pro signaculo</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> ac si pro signo</rdg>
+      </app> lapidem dedisset </aBody>
+</ant>

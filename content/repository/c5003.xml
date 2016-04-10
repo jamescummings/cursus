@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5002" nextid="c5004" id="c5003">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-D CAO-S CAO-L"> Spiritus qui a patre procedit alleluia
+     <app>
+         <rdg wit="CAO-H CAO-D"> ille me clarificabit alleluia alleluia</rdg>
+         <rdg wit="CAO-C CAO-M CAO-S CAO-L"> ille me clarificavit alleluia alleluia</rdg>
+         <rdg wit="CAO-E"> ille me clarificabit alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

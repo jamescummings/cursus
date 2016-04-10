@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6917b" nextid="c6919" id="c6918">
+   <header>
+      <usage ms="Glo" code="14022400"/>
+   </header>
+   <rBody wit="CAO-V CAO-H CAO-D CAO-F Glo"> In omnem terram exivit sonus eorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-H CAO-D CAO-F Glo">Et in fines orbis terrae verba eorum</vBody>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

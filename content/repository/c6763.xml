@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6762" nextid="c6764" id="c6763">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Gaudeo plane
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V"> quia ianuas Christi ingredi merui</rdg>
+         <rdg wit="CAO-M"> quia ianuas tuas ingredi merui</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> quia hostia Christi effici merui</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> accusatus</rdg>
+         <rdg wit="CAO-C"> quia accusatus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-F"> non negavi</rdg>
+         <rdg wit="CAO-E CAO-L"> non negavi nomen sanctum eius</rdg>
+         <rdg wit="CAO-S"> non negavi nomen sanctum tuum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L"> interrogatus</rdg>
+         <rdg wit="CAO-M"> interrogatus te</rdg>
+      </app> Christum confessus sum assatus gratias ago</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Ego me obtuli sacrificium Deo in odorem suavitatis</vBody>
+      <vBody type="r" wit="CAO-M CAO-V"> Probasti domine cor meum et visitasti nocte igne me examinasti et non est inventa in me iniquitas</vBody>
+      <vBody type="r" wit="CAO-C"> Probasti domine cor meum et visitasti nocte</vBody>
+      <vBody type="r" wit="CAO-E"> Gratias tibi ago domine Jesu Christe quia ianuas tuas ingredi merui</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-D CAO-F"> Accusatus</rep>
+      <rep type="r" wit="CAO-C CAO-V CAO-S CAO-L"> Assatus</rep>
+   </verses>
+</res>

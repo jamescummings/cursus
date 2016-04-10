@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2538" nextid="c2540" id="c2539">
+   <aBody wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ecce quod cupivi iam video quod speravi iam teneo
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> illi sum iuncta in caelis</rdg>
+         <rdg wit="CAO-F"> ipsi sum iuncta in caelis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-H CAO-R CAO-D CAO-F CAO-S"> quem in terris posita</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> quae in terris posita</rdg>
+         <rdg wit="CAO-L"> cui in terris posita</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> tota devotione dilexi</rdg>
+         <rdg wit="CAO-S"> tota dilectione dilexi</rdg>
+         <rdg wit="CAO-L"> ipsi me tota devotione committo</rdg>
+      </app>
+   </aBody>
+</ant>

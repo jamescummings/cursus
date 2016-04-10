@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6941" nextid="c6943" id="c6942">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> In tempore illo
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R"> consurget Michael</rdg>
+         <rdg wit="CAO-C"> consurgens Michael princeps vester</rdg>
+         <rdg wit="CAO-D CAO-F"> consurget Michael princeps vester</rdg>
+         <rdg wit="CAO-V"> consurge Michael</rdg>
+      </app> qui stat pro filiis vestris et veniet tempus quale non fuit
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> ex eo</rdg>
+         <rdg wit="CAO-D"> ab eo</rdg>
+      </app> ex quo gentes esse coeperunt usque ad tempus illud</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> In tempore illo salvabitur populus tuus omnis
+       <app>
+            <rdg wit="CAO-E CAO-D CAO-F"> qui inventus fuerit scriptus</rdg>
+            <rdg wit="CAO-C"> qui inventus est</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R"> qui scriptus fuerit</rdg>
+            <rdg wit="CAO-V"> qui scriptus fuerat</rdg>
+         </app> in libro vitae</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F"> Et veniet</rep>
+      <rep type="r" wit="CAO-E CAO-V"> Ex quo</rep>
+   </verses>
+</res>

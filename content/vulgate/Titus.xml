@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Titus">
+<body>
+  <rubric type="bible-incipit" id="B.Titus.incipit.001">
+    <reference>
+      <bookName>Titus</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AD TITUM</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Titus.001.001">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus servus Dei apostolus autem Iesu Christi secundum fidem electorum Dei et agnitionem veritatis quae secundum pietatem est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.002">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>in spem vitae aeternae quam promisit qui non mentitur Deus ante tempora saecularia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.003">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>manifestavit autem temporibus suis verbum suum in praedicatione quae credita est mihi secundum praeceptum salvatoris nostri Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.004">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>Tito dilecto filio secundum communem fidem gratia et pax a Deo Patre et Christo Iesu salvatore nostro</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.005">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>huius rei gratia reliqui te Cretae ut ea quae desunt corrigas et constituas per civitates presbyteros sicut ego tibi disposui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.006">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>si quis sine crimine est unius uxoris vir filios habens fideles non in accusatione luxuriae aut non subditos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.007">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>oportet enim episcopum sine crimine esse sicut Dei dispensatorem non superbum non iracundum non vinolentum non percussorem non turpilucri cupidum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.008">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>sed hospitalem benignum sobrium iustum sanctum continentem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.009">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>amplectentem eum qui secundum doctrinam est fidelem sermonem ut potens sit et exhortari in doctrina sana et eos qui contradicunt arguere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.010">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>sunt enim multi et inoboedientes vaniloqui et seductores maxime qui de circumcisione sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.011">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>quos oportet redargui qui universas domos subvertunt docentes quae non oportet turpis lucri gratia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.012">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>dixit quidam ex illis proprius ipsorum propheta Cretenses semper mendaces malae bestiae ventres pigri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.013">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>testimonium hoc verum est quam ob causam increpa illos dure ut sani sint in fide</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.014">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>non intendentes iudaicis fabulis et mandatis hominum aversantium se a veritate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.015">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>omnia munda mundis coinquinatis autem et infidelibus nihil mundum sed inquinatae sunt eorum et mens et conscientia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.001.016">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>confitentur se nosse Deum factis autem negant cum sunt abominati et incredibiles et ad omne opus bonum reprobi</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Titus.002.001">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>tu autem loquere quae decet sanam doctrinam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.002">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>senes ut sobrii sint pudici prudentes sani fide dilectione patientia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.003">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>anus similiter in habitu sancto non criminatrices non vino multo servientes bene docentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.004">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>ut prudentiam doceant adulescentulas ut viros suos ament filios diligant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.005">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>prudentes castas domus curam habentes benignas subditas suis viris ut non blasphemetur verbum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.006">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>iuvenes similiter hortare ut sobrii sint</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.007">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>in omnibus te ipsum praebe exemplum bonorum operum in doctrina integritatem gravitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.008">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>verbum sanum inreprehensibilem ut is qui ex adverso est vereatur nihil habens malum dicere de nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.009">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>servos dominis suis subditos esse in omnibus placentes non contradicentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.010">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>non fraudantes sed in omnibus fidem bonam ostendentes ut doctrinam salutaris nostri Dei ornent in omnibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.011">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>apparuit enim gratia Dei salutaris omnibus hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.012">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>erudiens nos ut abnegantes impietatem et saecularia desideria sobrie et iuste et pie vivamus in hoc saeculo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.013">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>expectantes beatam spem et adventum gloriae magni Dei et salvatoris nostri Iesu Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.014">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>qui dedit semet ipsum pro nobis ut nos redimeret ab omni iniquitate et mundaret sibi populum acceptabilem sectatorem bonorum operum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.002.015">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>haec loquere et exhortare et argue cum omni imperio nemo te contemnat</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Titus.003.001">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>admone illos principibus et potestatibus subditos esse dicto oboedire ad omne opus bonum paratos esse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.002">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>neminem blasphemare non litigiosos esse modestos omnem ostendentes mansuetudinem ad omnes homines</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.003">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>eramus enim et nos aliquando insipientes increduli errantes servientes desideriis et voluptatibus variis in malitia et invidia agentes odibiles odientes invicem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.004">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>cum autem benignitas et humanitas apparuit salvatoris nostri Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.005">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>non ex operibus iustitiae quae fecimus nos sed secundum suam misericordiam salvos nos fecit per lavacrum regenerationis et renovationis Spiritus Sancti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.006">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>quem effudit in nos abunde per Iesum Christum salvatorem nostrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.007">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>ut iustificati gratia ipsius heredes simus secundum spem vitae aeternae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.008">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>fidelis sermo est et de his volo te confirmare ut curent bonis operibus praeesse qui credunt Deo haec sunt bona et utilia hominibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.009">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>stultas autem quaestiones et genealogias et contentiones et pugnas legis devita sunt enim inutiles et vanae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.010">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>hereticum hominem post unam et secundam correptionem devita</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.011">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>sciens quia subversus est qui eiusmodi est et delinquit proprio iudicio condemnatus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.012">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>cum misero ad te Arteman aut Tychicum festina ad me venire Nicopolim ibi enim statui hiemare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.013">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>Zenan legis peritum et Apollo sollicite praemitte ut nihil illis desit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.014">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>discant autem et nostri bonis operibus praeesse ad usus necessarios ut non sint infructuosi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Titus.003.015">
+      <reference>
+        <bookName>Titus</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>salutant te qui mecum sunt omnes saluta qui nos amant in fide gratia Dei cum omnibus vobis amen</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Titus.colophon.001">
+    <reference>
+      <bookName>Titus</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA AD TITUM</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1747b" nextid="c1749" id="c1748">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <name reg="Caecilia" type="saint">Caecilia</name> me misit ad vos ut ostendatis mihi sanctum <name reg="Urbanus" type="saint">Urbanum</name> quia ad ipsum habeo secreta
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-F CAO-S CAO-L"> quae perferam</rdg>
+         <rdg wit="CAO-D"> quae perfero</rdg>
+         <rdg wit="CAO-H CAO-R"> quae perferam alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

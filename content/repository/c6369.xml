@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6368" nextid="c6370" id="c6369">
+   <header>
+      <usage ms="Cht" code="07011000">[23v] matins-n3-r12</usage>
+      <usage ms="Evm" code="07011000">[107r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="07011000">[70r] matins-n3-r12</usage>
+      <usage ms="Wcb" code="07011000">[93v] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-S Hyd Cht Evm Wcb"> Cum ieiunasset dominus quadraginta diebus et quadraginta noctibus accessit ad eum temptator
+     <app>
+         <rdg wit="CAO-S Hyd Cht"> dixit</rdg>
+         <rdg wit="Evm Wcb"> et dixit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-S Hyd Cht Evm"> si filius dei es</rdg>
+         <rdg wit="Wcb"> si filius dei</rdg>
+      </app> dic ut lapides isti panes fiant
+      <app>
+         <rdg wit="CAO-S Hyd"> respondens Jesus dixit</rdg>
+         <rdg wit="Cht Evm Wcb"> respondens Jesus et dixit</rdg>
+      </app> non in solo pane vivit homo sed in omni verbo quod procedit de ore dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Ductus est Jesus in desertum ab spiritu ut temptaretur a diabolo et cum ieiunasset quadraginta diebus et quadraginta noctibus</vBody>
+      <vBody type="r" wit="Hyd Cht Evm Wcb"> Et ecce accesserunt angeli et ministrabant ei</vBody>
+      <rep type="r" wit="CAO-S"> Accessit</rep>
+      <rep type="r" wit="Hyd Cht Evm Wcb"> Non in solo</rep>
+   </verses>
+</res>

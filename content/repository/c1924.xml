@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1923" nextid="c1925" id="c1924">
+   <header>
+      <usage ms="Hyd" code="08085000">lauds</usage>
+   </header>
+   <aBody wit="CAO-S Hyd"> Convocatis Jesus duodecim apostolis dedit illis virtutem et potestatem super omnia daemonia et ut languores curarent et misit illos praedicare regnum dei et sanare infirmos
+     <app>
+         <rdg wit="CAO-S"> alleluia alleluia alleluia</rdg>
+         <rdg wit="Hyd">alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

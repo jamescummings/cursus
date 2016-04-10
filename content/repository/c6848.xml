@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6847" nextid="c6849" id="c6848">
+   <rBody wit="CAO-C CAO-E CAO-V"> Hodie dominus
+      <app>
+         <rdg wit="CAO-E CAO-V"> per uterum</rdg>
+         <rdg wit="CAO-C"> ex utero</rdg>
+      </app> virginis nasci dignatus est in quem
+      <app>
+         <rdg wit="CAO-E CAO-V"> regnando ingressus est</rdg>
+         <rdg wit="CAO-C"> regnandus egressus est</rdg>
+      </app> ut nos redimeret</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Hodie illuxit dies redemptionis nostrae praeparationis antiquae felicitatis aeternae</vBody>
+      <vBody type="r" wit="CAO-C"> Hodie nobis caelorum rex de virgine natus apparuit</vBody>
+      <vBody type="r" wit="CAO-V"> Natus est princeps gentium salvator omnis populi per uterum virginis</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-V"> In quem</rep>
+   </verses>
+</res>

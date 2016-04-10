@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4576" nextid="c4578" id="c4577">
+   <header>
+      <usage ms="Cdm" code="07063000">[76v] vesp2</usage>
+      <usage ms="Cht" code="07054000">[51v] nones</usage>
+      <usage ms="Ely" code="07062000">[87r] sext-a1</usage>
+      <usage ms="Evm" code="07054000">[139r] nones</usage>
+      <usage ms="Glo" code="07054000">[71v] nones</usage>
+      <usage ms="Hyd" code="07061000">[91v] lauds</usage>
+      <usage ms="Pet" code="07062000">[86v] vesp2</usage>
+      <usage ms="Wcb" code="07054000">[110r] nones</usage>
+      <usage ms="Wor" code="07062000">[57r] vesp2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm"> Recordare mei domine
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-L Ely Cht Hyd Pet Evm Wcb Glo Cdm">et tuere me</rdg>
+         <rdg wit="CAO-H CAO-R">tuere me</rdg>
+         <rdg wit="Wor"> et tuere</rdg>
+      </app> ab his qui persequuntur me</aBody>
+</ant>

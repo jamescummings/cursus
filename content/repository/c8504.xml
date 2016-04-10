@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8503" nextid="c8505" id="c8504">
+   <header>
+      <usage ms="Alb2" code="07052000">[101r] matins</usage>
+      <usage ms="Cdm" code="07052000">[72r] matins inv</usage>
+      <usage ms="Cht" code="07052000">[49r] matins</usage>
+      <usage ms="Cht" code="07062000">[56r] matins</usage>
+      <usage ms="Ely" code="07052000">[83r] matins</usage>
+      <usage ms="Evm" code="07052000">[131r] matins</usage>
+      <usage ms="Hyd" code="07052000">[88r] matins</usage>
+      <usage ms="Hyd" code="07062000">[91v] matins</usage>
+      <usage ms="Mch" code="07052000">[148r] matins inv</usage>
+      <usage ms="Mch" code="07062000">[155r] matins inv</usage>
+      <usage ms="Pet" code="07052000">[82r] matins</usage>
+      <usage ms="Wcb" code="07052000">[109v] matins</usage>
+      <usage ms="Wor" code="07052000">[54v] matins</usage>
+   </header>
+   <aBody wit="Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">Adoremus dominum qui nos redemit per crucem</aBody>
+</ant>

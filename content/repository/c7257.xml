@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7256" nextid="c7258" id="c7257">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O beatum virum in cuius transitu sanctorum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> canit</rdg>
+         <rdg wit="CAO-M"> canet</rdg>
+      </app> numerus angelorum exsultat chorus omniumque caelestium virtutum occurrit psallentium exercitus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-D CAO-F CAO-S"> Ecclesia virtute roboratur</rdg>
+            <rdg wit="CAO-C"> Ecclesia domini virtutum roboratur</rdg>
+            <rdg wit="CAO-E"> Ecclesia domini virtute roborata</rdg>
+            <rdg wit="CAO-V"> Ecclesia domini virtute roboratur</rdg>
+            <rdg wit="CAO-M"> Ecclesia virtutum roboratur</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-D"> sacerdotes revelatione glorificantur</rdg>
+            <rdg wit="CAO-E"> sacerdotes dei revelatione <corr sic="glorificatur">glorificantur</corr>
+            </rdg>
+            <rdg wit="CAO-F"> sacerdotes dei revelatione glorificantur</rdg>
+            <rdg wit="CAO-M"> sacerdotes revelationem glorificantur</rdg>
+            <rdg wit="CAO-S"> sacerdotes revelatione <corr sic="glorificantes">glorificantur</corr>
+            </rdg>
+            <rdg wit="CAO-V"> sacerdotes revelatione glorificatur</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-D CAO-S"> quem Michael</rdg>
+            <rdg wit="CAO-V"> que Michael</rdg>
+            <rdg wit="CAO-F"> quam Michael</rdg>
+            <rdg wit="CAO-M"> quem Michael archangelus</rdg>
+         </app> assumpsit cum angelis</vBody>
+      <vBody type="r" wit="CAO-R"> Martinus hic pauper et modicus caelum dives ingreditur</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S">Virtutum</rep>
+      <rep type="r" wit="CAO-H">Omniumque</rep>
+      <rep type="r" wit="CAO-R">Angelorum</rep>
+   </verses>
+</res>

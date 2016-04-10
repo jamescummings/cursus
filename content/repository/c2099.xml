@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2098c" nextid="c2100" id="c2099">
+   <header>
+      <usage ms="Hyd" code="08016000">[104v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Data est mihi omnis potestas in caelo et in terra
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> alleluia</rdg>
+         <rdg wit="CAO-G CAO-S"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

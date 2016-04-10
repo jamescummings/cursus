@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6260" nextid="c6262" id="c6261">
+   <header>
+      <usage ms="Alb2" code="07066000">[111r] matins-n3-r9</usage>
+      <usage ms="Cdm" code="07066000">[79r] matins-n3-r7</usage>
+      <usage ms="Cht" code="07066000">[63r] matins-n3-r7</usage>
+      <usage ms="Ely" code="07066000">[90v] matins-n3-r7</usage>
+      <usage ms="Evm" code="07066000">[151r] matins-n2-r5</usage>
+      <usage ms="Hyd" code="07066000">[96v] matins-n2-r5</usage>
+      <usage ms="Mch" code="07066000">[162r] matins-n3-r9</usage>
+      <usage ms="Pet" code="07066000">[92v] matins-n3-r7</usage>
+      <usage ms="Wcb" code="07066000">[116v] matins-n2-r5</usage>
+      <usage ms="Wor" code="07066000">[61v] matins-n3-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Caligaverunt oculi mei
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> a fletu meo</rdg>
+         <rdg wit="CAO-V"> cum fletu meo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm"> quia elongatus est a me</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S Mch"> quia elongabitur a me</rdg>
+         <rdg wit="CAO-V"> quia elongati sunt a me</rdg>
+      </app> qui consolabatur me videte omnes populi
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> si est dolor similis sicut dolor meus</rdg>
+         <rdg wit="Ely"> si est dolor sicut dolor meus</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">O vos omnes qui transitis per viam attendite et videte</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">Si est</rep>
+      <rep type="r" num="2" wit="Alb2"> Caligaverunt</rep>
+   </verses>
+</res>

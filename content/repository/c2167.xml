@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2166" nextid="c2168" id="c2167">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R"> Deus caritas est et qui manet in caritate in deo manet
+     <app>
+         <rdg wit="CAO-H CAO-R"> et deus in eo alleluia</rdg>
+         <rdg wit="CAO-C CAO-V"> et deus in eo</rdg>
+      </app>
+   </aBody>
+</ant>

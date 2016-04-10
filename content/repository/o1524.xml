@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1523" nextid="o1525" id="o1524">
+   <header>
+      <usage ms="Alb2" code="07023000"/>
+      <usage ms="Bat" code="07023000">[53r] lauds</usage>
+      <usage ms="Cdm" code="07023000">[62v] lauds</usage>
+      <usage ms="Cht" code="07023000"/>
+      <usage ms="Ely" code="07023000"/>
+      <usage ms="Evm" code="07023000"/>
+      <usage ms="Hyd" code="07023000"/>
+      <usage ms="Mch" code="07023000">[125v] lauds</usage>
+      <usage ms="Wcb" code="07023000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.209</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">Perfice quaesumus domine benignus in nobis observantiae sanctae subsidium ut quae te auctore facienda cognovimus te operante impleamus</pBody>
+</prayer>

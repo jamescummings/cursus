@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8571" nextid="c8573" id="c8572">
+   <header>
+      <usage ms="Bat" code="07031000">[55r] lauds-a3</usage>
+      <usage ms="Cdm" code="07031000">[65r] lauds-a3</usage>
+   </header>
+   <aBody wit="Cdm Bat"> Repleatur anima mea caelesti pinguedine et labiis exultationis deum laudet os meum</aBody>
+</ant>

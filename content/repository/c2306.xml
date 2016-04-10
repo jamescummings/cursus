@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2305" nextid="c2307" id="c2306">
+   <header>
+      <usage ms="Alb2" code="07014000"/>
+      <usage ms="Evm" code="07014000"/>
+      <usage ms="Glo" code="07014000"/>
+      <usage ms="Wcb" code="07014000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-R CAO-L Evm Wcb Glo Alb2"> Dixit quidam ad Jesum ecce mater tua et fratres tui foris stant quaerentes loqui tecum at ille respondens dicenti sibi ait quae est mater mea et fratres mei
+     <app>
+         <rdg wit="CAO-H CAO-R Evm Glo Alb2"> et extendens manum in discipulos suos</rdg>
+         <rdg wit="CAO-E CAO-L Wcb"> et extendens manus in discipulos suos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-L Evm Wcb Glo Alb2"> dixit</rdg>
+         <rdg wit="CAO-E"> dicens</rdg>
+      </app> ecce mater mea et fratres mei</aBody>
+</ant>

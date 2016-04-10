@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2747" nextid="c2749" id="c2748">
+   <header>
+      <usage ms="Wcb" code="02122800">[63r] matins-n1-a4</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V Wcb"> Ex ore infantium
+     <app>
+         <rdg wit="CAO-E CAO-V"> et lactentium</rdg>
+         <rdg wit="Wcb"> simul et lactentium</rdg>
+      </app> perfecisti laudem domine deus</aBody>
+</ant>

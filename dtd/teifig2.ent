@@ -1,0 +1,5 @@
+<!-- TEI P4 DTD. Generated 2002-01-18T12:46:50Z by odd2dtd.xsl -->
+<!-- [DFTPE] 22.2: Formula Content -->
+<!ENTITY % formulaNotations 'CDATA' >
+<!ENTITY % formulaContent '(#PCDATA)' >
+<!-- end of [DFTPE]  22.2-->

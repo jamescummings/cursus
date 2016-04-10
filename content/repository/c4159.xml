@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4158" nextid="c4160" id="c4159">
+   <aBody wit="CAO-M CAO-H CAO-L"> Opera manuum tuarum domine
+     <app>
+         <rdg wit="CAO-H CAO-L"> ne despicias</rdg>
+         <rdg wit="CAO-M"> ne despicias me</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-D"> Opera manuum tuarum ne despicias</aBody>
+</ant>

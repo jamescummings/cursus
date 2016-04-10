@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5454" nextid="c5456" id="c5455">
+   <header>
+      <usage ms="Evm" code="02122600">[42r] vesp2 commemoratio</usage>
+      <usage ms="Wcb" code="02122500">[57v] vesp2 commemoration</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.162</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-L Evm Wcb"> Virgo sacra et virilis ignara consortii spiritu sancto fecundata ineffabiliter mundo parturivit auctorem</aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6977" nextid="c6979" id="c6978">
+   <rBody wit="CAO-C">
+      <verse type="stanza">
+         <l part="N">Inter christicolas quos actio vexit in astris</l>
+         <l part="N">Pars tibi pro meritis magna Medarde patet</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C">
+         <verse type="stanza">
+            <l part="N">Exsilium tibi mundus erat caenosa caventi</l>
+         </verse>
+      </vBody>
+   </verses>
+</res>

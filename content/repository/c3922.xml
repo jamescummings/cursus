@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3921" nextid="c3922b" id="c3922">
+   <header>
+      <usage ms="Alb2" code="07034000"/>
+      <usage ms="Bat" code="07034000">[55v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07034000">[66r] vesp2</usage>
+      <usage ms="Cht" code="07034000"/>
+      <usage ms="Ely" code="07034000"/>
+      <usage ms="Evm" code="07034000"/>
+      <usage ms="Glo" code="07034000"/>
+      <usage ms="Hyd" code="07034000"/>
+      <usage ms="Mch" code="07034000">[134v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07034000"/>
+      <usage ms="Wcb" code="07034000"/>
+      <usage ms="Wor" code="07034000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Non lotis manibus manducare
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> non coinquinat hominem</rdg>
+         <rdg wit="CAO-C CAO-V CAO-L"> non coinquinant hominem</rdg>
+      </app>
+   </aBody>
+</ant>

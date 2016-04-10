@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5326" nextid="c5328" id="c5327">
+   <header>
+      <usage ms="Hyd" code="08081000">terce</usage>
+   </header>
+   <aBody wit="CAO-B CAO-R Hyd"> Veni sancte spiritus reple tuorum corda fidelium et tui amoris in eis ignem accende
+     <app>
+         <rdg wit="CAO-B CAO-R"> qui per diversitatem linguarum cunctarum</rdg>
+         <rdg wit="Hyd"> qui per diversitatem linguarum multarum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B Hyd"> gentes in unitatem fidei congregasti</rdg>
+         <rdg wit="CAO-R"> gentes in unitate fidei congregasti</rdg>
+      </app> alleluia alleluia</aBody>
+</ant>

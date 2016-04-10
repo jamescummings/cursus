@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7448" nextid="c7450" id="c7449">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Puer meus noli timere quia ego sum tecum dicit dominus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S"> dum transieris</rdg>
+         <rdg wit="CAO-F CAO-L"> cum transieris</rdg>
+         <rdg wit="CAO-C CAO-V"> si transieris</rdg>
+      </app> per ignem flamma non nocebit te
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et odor ignis</rdg>
+         <rdg wit="CAO-M"> et ardor ignis</rdg>
+      </app> non erit in te</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Donec ponam inimicos tuos scabellum pedum tuorum</vBody>
+      <vBody type="r" wit="CAO-C"> Donec ponam inimicos tuos</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Liberabo te de manu pessimorum et eruam te de manu fortium</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L">Et odor</rep>
+      <rep type="r" wit="CAO-M CAO-D CAO-S">Dum</rep>
+      <rep type="r" wit="CAO-F">Cum</rep>
+   </verses>
+</res>

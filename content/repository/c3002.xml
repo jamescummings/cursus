@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3001" nextid="c3003" id="c3002">
+   <header>
+      <usage ms="Glo" code="14120800">[14v] vesp1-a1</usage>
+   </header>
+   <aBody wit="CAO-D CAO-F CAO-S Glo"> Haec est regina virginum quae genuit regem
+     <app>
+         <rdg wit="CAO-D CAO-F"> velut rosa decora</rdg>
+         <rdg wit="CAO-S Glo"> velut rosa decoris</rdg>
+      </app> virgo dei genitrix
+     <app>
+         <rdg wit="CAO-D CAO-F Glo"> per quam</rdg>
+         <rdg wit="CAO-S"> per quem</rdg>
+      </app> reperimus deum et hominem alma virgo intercede pro nobis omnibus</aBody>
+</ant>

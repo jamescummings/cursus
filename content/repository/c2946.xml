@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2945" nextid="c2947" id="c2946">
+   <header>
+      <usage ms="Alb2" code="02122500">[29v] lauds gosp</usage>
+      <usage ms="Bat" code="02122500">[18r] lauds gosp</usage>
+      <usage ms="Cdm" code="02122500">[23v] lauds gosp</usage>
+      <usage ms="Ely" code="02122500">[21r] lauds gosp</usage>
+      <usage ms="Evm" code="02122500">[37r] lauds gosp</usage>
+      <usage ms="Hyd" code="02122500">[21r] lauds gosp</usage>
+      <usage ms="Pet" code="02122500">[18v] lauds gosp</usage>
+      <usage ms="Wcb" code="02122500">[57r] lauds gosp</usage>
+      <usage ms="Wor" code="02122500">[16r] lauds gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">NB Cdm adds this by LH: probably because of accidental omission</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Gloria in excelsis deo et in terra pax hominibus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> bonae voluntatis alleluia alleluia</rdg>
+         <rdg wit="CAO-V CAO-L Ely"> bonae voluntatis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

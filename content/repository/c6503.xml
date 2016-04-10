@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6502" nextid="c6504" id="c6503">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Domine pater et deus vitae meae ne derelinquas me
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> in cogitatu maligno</rdg>
+         <rdg wit="CAO-L"> in cogitatum malignum</rdg>
+         <rdg wit="CAO-V"> in cogitatum maligno</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> extollentiam</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V"> extollentia</rdg>
+      </app> oculorum meorum ne dederis mihi
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et desiderium malignum</rdg>
+         <rdg wit="CAO-C CAO-E"> et desiderio maligno</rdg>
+         <rdg wit="CAO-V"> et desiderium maligno</rdg>
+      </app> averte a me domine aufer a me
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> concupiscentiam</rdg>
+         <rdg wit="CAO-C">
+            <sic corr="concupiscentiae">concupiscentiam</sic>
+         </rdg>
+      </app> et
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> animo</rdg>
+         <rdg wit="CAO-L"> animae</rdg>
+      </app> irreverenti et
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> infrunito</rdg>
+         <rdg wit="CAO-C"> infrunite</rdg>
+         <rdg wit="CAO-L">
+            <sic resp="Hesbert">infronite</sic>
+         </rdg>
+      </app> ne tradas me domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V CAO-H CAO-R"> Da mihi domine sedium tuarum assistricem sapientiam</vBody>
+      <vBody id="c6503-1" type="r" wit="CAO-E"> Da mihi domine</vBody>
+      <rep corresp="c6503-1" type="r" wit="CAO-E">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio in CAO-E for this verse</note>
+      </rep>
+      <vBody type="r" wit="CAO-B CAO-M"> Da mihi domine</vBody>
+      <rep type="r" wit="CAO-C CAO-V CAO-H CAO-R CAO-B CAO-M"> Et animo</rep>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Ne derelinquas me domine
+       <app>
+            <rdg wit="CAO-F CAO-S"> ne accrescant ignorantiae meae</rdg>
+            <rdg wit="CAO-L"> ne accrescat ignorantia mea</rdg>
+         </app> et multiplicentur delicta mea</vBody>
+      <rep type="r" wit="CAO-F CAO-S"> Et animo</rep>
+      <rep type="r" wit="CAO-L"> Et animae</rep>
+      <vBody id="c6503-2" type="r" wit="CAO-E"> Duo rogavi te et ne deneges mihi antequam moriar vanitatem et verbo mendacii longe fac a me</vBody>
+      <rep corresp="c6503-2" type="r" wit="CAO-E"> Et animo</rep>
+      <vBody type="r" wit="CAO-D Hyd"> Verbum iniquum et dolosum longe fac a me domine
+      <app>
+            <rdg wit="CAO-D"> divitias et pauperitatem</rdg>
+            <rdg wit="Hyd"> divitias et pauperitates</rdg>
+         </app> ne dederis mihi</vBody>
+      <rep type="r" wit="CAO-D Hyd"> Et animo</rep>
+   </verses>
+</res>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3663" nextid="c3665" id="c3664">
+   <aBody wit="CAO-E CAO-M CAO-V CAO-F">
+      <app>
+         <rdg wit="CAO-M CAO-F"> Magna magnalia de Michaele archangelo</rdg>
+         <rdg wit="CAO-V"> Magna magnalium de Michael archangelo</rdg>
+         <rdg wit="CAO-E"> Magna magnalia de Michael archangelo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F"> fortis in bello fecit victoriam</rdg>
+         <rdg wit="CAO-M"> in bello fortis et fecit victoriam</rdg>
+         <rdg wit="CAO-V"> qui in bello fortis est et fecit victoria</rdg>
+      </app>
+   </aBody>
+</ant>

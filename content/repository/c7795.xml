@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7794" nextid="c7796" id="c7795">
+   <rBody wit="CAO-D CAO-F CAO-S"> Tuam crucem adoramus domine tuam gloriosam recolimus passionem
+     <app>
+         <rdg wit="CAO-D CAO-S"> miserere nobis</rdg>
+         <rdg wit="CAO-F"> miserere nostri</rdg>
+      </app> qui passus es pro nobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Adoramus te Christe et benedicimus tibi quia per crucem tuam redemisti mundum</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Miserere</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2031" nextid="c2033" id="c2032">
+   <header>
+      <usage ms="Glo" code="06011000">[49r] procession</usage>
+   </header>
+   <aBody wit="CAO-M CAO-D CAO-F Glo"> Cum sederit filius hominis in sede maiestatis suae et coeperit iudicare saeculum per ignem
+     <app>
+         <rdg wit="CAO-M"> tunc assistunt ante eum omnis chorus angelorum</rdg>
+         <rdg wit="CAO-D"> tunc assistunt ante eum omnes chori angelorum</rdg>
+         <rdg wit="CAO-F Glo"> et assistent ante eum omnes chori angelorum</rdg>
+      </app> et congregabuntur ante eum omnes gentes tunc dicet his qui a dextris eius erunt venite benedicti patris mei possidete praeparatum vobis regnum a constitutione mundi et ibunt impii in supplicium sempiternum iusti autem in vitam aeternam
+     <app>
+         <rdg wit="CAO-D CAO-F Glo"> et regnabunt cum deo in saecula</rdg>
+         <rdg wit="CAO-M"> et regnabunt cum deo in saecula alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

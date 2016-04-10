@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6666" nextid="c6668" id="c6667">
+   <rBody wit="CAO-C CAO-E"> Erit dominus adiutor tuus contra omnes inimicos tuos et sicut argentum igne probatum mundum
+      <app>
+         <rdg wit="CAO-C"> faciet te</rdg>
+         <rdg wit="CAO-E"> faciat te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> tunc coram domino</rdg>
+         <rdg wit="CAO-C"> tunc orando</rdg>
+      </app> habebis fiduciam et dum oraveris ad eum exaudiet te</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E"> Multitudine dierum et annos vitae apponet tibi dominus
+       <app>
+            <rdg wit="CAO-C"> misericordia et veritas non te deserunt quia dominus erit in latere tuo et custodiet te</rdg>
+            <rdg wit="CAO-E" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E"> Et dum</rep>
+   </verses>
+</res>

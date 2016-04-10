@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4861" nextid="c4863" id="c4862">
+   <header>
+      <usage ms="Bat" code="06028000">[44v] </usage>
+      <usage ms="Cdm" code="06028000"/>
+      <usage ms="Ely" code="06028000"/>
+      <usage ms="Evm" code="06021000">[98v] terce</usage>
+      <usage ms="Glo" code="06021000">[56v] terce-a1</usage>
+      <usage ms="Mch" code="06021000">[104r] matins-n3</usage>
+      <usage ms="Wcb" code="06021000">[88v] terce</usage>
+      <usage ms="Wor" code="06028000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-F CAO-S Wor Ely Evm Wcb Glo Cdm Mch Bat"> Semen est verbum dei
+     <app>
+         <rdg wit="CAO-F CAO-S Wor Ely Evm Wcb Cdm Mch Bat"> sator autem Christus</rdg>
+         <rdg wit="Glo">
+            <add place="over erasure">sator autem Christus</add>
+         </rdg>
+         <rdg wit="CAO-E CAO-V"> petra autem Christus</rdg>
+      </app> omnis qui audit eum manebit in aeternum</aBody>
+</ant>

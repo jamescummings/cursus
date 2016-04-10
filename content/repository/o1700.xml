@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1699" nextid="o1701" id="o1700">
+   <header>
+      <usage ms="Hyd" code="08085000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.539</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Praesta quaesumus omnipotens deus ut spiritus sanctus adveniens templum nos gloriae suae dignatur inhabitando perficiat</pBody>
+</prayer>

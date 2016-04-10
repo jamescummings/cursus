@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6139" nextid="c6140" id="c6139a">
+   <rBody wit="CAO-C CAO-M CAO-H CAO-F CAO-L"> Audi domine hymnum et orationem
+      <app>
+         <rdg wit="CAO-F CAO-L"> quam</rdg>
+         <rdg wit="CAO-C CAO-M CAO-H"> qua</rdg>
+      </app> servus tuus orat coram te
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-F"> hodie</rdg>
+         <rdg wit="CAO-L"> domine</rdg>
+      </app> ut sint oculi tui aperti et aures tuae intentae super domum istam die ac nocte</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Respice de sanctuario</vBody>
+      <vBody type="r" wit="CAO-M CAO-F CAO-L"> Respice domine de sanctuario tuo et de excelso caelorum
+       <app>
+            <rdg wit="CAO-M CAO-F CAO-L"> habitaculo</rdg>
+            <rdg wit="CAO-M"> habitaculum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-H"> Qui regis</vBody>
+   </verses>
+</res>

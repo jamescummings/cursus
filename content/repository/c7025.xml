@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7024" nextid="c7026" id="c7025">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Isti sunt triumphatores et amici dei qui contemnentes iussa principum meruerunt praemia aeterna
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> modo coronantur et accipiunt palmam</rdg>
+         <rdg wit="CAO-V"> modo coronantur et accipiunt palmas</rdg>
+         <rdg wit="CAO-L"> modo coronati possident palmas</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Isti sunt qui venerunt ex magna tribulatione et laverunt stolas suas in sanguine agni</vBody>
+      <vBody type="r" wit="CAO-M"> Isti sunt qui venerunt</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Modo</rep>
+   </verses>
+</res>

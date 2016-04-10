@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7101" nextid="c7103" id="c7102">
+   <header>
+      <usage ms="Alb2" code="07031000">[89v] matins-n3-r12</usage>
+      <usage ms="Bat" code="07031000">[54r] matins-n2-r8</usage>
+      <usage ms="Cdm" code="07031000">[64v] matins-n3-r12</usage>
+      <usage ms="Ely" code="06011000">[75r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-V CAO-D CAO-F CAO-S CAO-L Alb2 Cdm Ely Bat"> Loquens Joseph fratribus suis
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S Alb2 Ely Bat"> et dixit</rdg>
+         <rdg wit="Cdm"> dixit</rdg>
+         <rdg wit="CAO-C"> et ait</rdg>
+         <rdg wit="CAO-L"> ait</rdg>
+      </app> pax vobis
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-F CAO-L Alb2 Cdm Ely Bat"> nolite timere</rdg>
+         <rdg wit="CAO-S"> nolite timere vos</rdg>
+      </app> pro salute enim vestra misit me dominus
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-F CAO-S CAO-L Alb2 Cdm Ely Bat"> ante vos</rdg>
+         <rdg wit="CAO-D"> ante <corr sic="vos">nos</corr>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S Alb2 Cdm Bat">
+         <app>
+            <rdg wit="CAO-D CAO-F Cdm Bat"> Elevavitque vocem cum fletu</rdg>
+            <rdg wit="Alb2"> Elevavit vocem cum fletu</rdg>
+            <rdg wit="CAO-S"> Elevata voce cum fletu</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F Alb2 Cdm Bat"> quam audierunt</rdg>
+            <rdg wit="CAO-D"> quem audierunt</rdg>
+            <rdg wit="CAO-S">
+               <corr sic="quam">quem</corr> audierunt</rdg>
+         </app> Aegyptii omnisque domus Pharaonis et dixit fratribus suis</vBody>
+      <vBody type="r" wit="CAO-C CAO-V CAO-L Ely"> Nolite timere nec 
+       <app>
+            <rdg wit="Ely"> durum vobis</rdg>
+            <rdg wit="CAO-C CAO-V CAO-L">vobis durum</rdg>
+         </app> esse videatur quod 
+       <app>
+            <rdg wit="CAO-C CAO-V CAO-L"> vendidistis</rdg>
+            <rdg wit="Ely"> vos vendidistis</rdg>
+         </app> me in his regionibus</vBody>
+      <rep type="r" wit="CAO-D CAO-S Alb2 Cdm Bat">Pax vobis</rep>
+      <rep type="r" wit="CAO-F">Nolite timere</rep>
+      <rep type="r" wit="CAO-C CAO-V CAO-L Ely">Pro</rep>
+   </verses>
+</res>

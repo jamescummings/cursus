@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2931" nextid="c2933" id="c2932">
+   <header>
+      <usage ms="Ely" code="01041000">[14v] nones</usage>
+      <usage ms="Evm" code="01041000">[25r] sext</usage>
+      <usage ms="Pet" code="01041000">[12r] lauds gosp</usage>
+      <usage ms="Wcb" code="01041000">[49v] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-L Evm Ely Wcb Pet"> Gaudete in domino semper iterum dico gaudete
+     <app>
+         <rdg wit="Evm Ely Wcb Pet"> dominus enim prope est nihil solliciti sitis</rdg>
+         <rdg wit="CAO-L"> dominus enim prope est alleluia</rdg>
+         <rdg wit="CAO-C"> dominus enim prope est</rdg>
+      </app>
+   </aBody>
+</ant>

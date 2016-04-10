@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7869" nextid="c7871" id="c7870">
+   <rBody wit="CAO-E CAO-M CAO-V CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-F CAO-S"> Vidi angelum ascendentem ab ortu solis</rdg>
+         <rdg wit="CAO-E"> Vidi angelum dei descendentem ab ortu solis</rdg>
+      </app> habentem signum dei vivi
+     <app>
+         <rdg wit="CAO-M CAO-F CAO-S"> et clamavit voce magna</rdg>
+         <rdg wit="CAO-E"> et clamabat voce magna</rdg>
+         <rdg wit="CAO-V"> et clamavit vocem magna</rdg>
+      </app> quatuor angelis quibus datum est nocere terrae et mari
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-F CAO-S"> dicens</rdg>
+         <rdg wit="CAO-V" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> nolite nocere terrae et mari neque arboribus quoadusque signemus servos dei nostri in frontibus eorum et audivi numerum signatorum centum quadraginta quatuor milia signati ex omni tribu filiorum Israel</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F CAO-M"> Et videbunt faciem eius
+      <app>
+            <rdg wit="CAO-E CAO-M"> et nomen eius</rdg>
+            <rdg wit="CAO-F"> et nomen patris eius</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-M"> scriptum in frontibus eorum</rdg>
+            <rdg wit="CAO-F"> scriptum in frontibus suis</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V"> Milia milium ministrabant ei et decies centena milia assistebant ei</vBody>
+      <vBody type="r" wit="CAO-S"> Vidi turbam magnam quam dinumerare nemo poterat stantes ante thronum</vBody>
+      <rep type="r" wit="CAO-E CAO-F CAO-M CAO-S">Et audivi</rep>
+      <rep type="r" wit="CAO-V">Ex omni</rep>
+   </verses>
+</res>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4203" nextid="c4205" id="c4204">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Pacem meam do vobis alleluia pacem relinquo vobis alleluia</aBody>
+</ant>

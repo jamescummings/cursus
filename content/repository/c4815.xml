@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4814" nextid="c4816" id="c4815">
+   <aBody wit="CAO-B CAO-M CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> Sapientiam sanctorum narrant populi</rdg>
+         <rdg wit="CAO-M"> Sapientiam sanctorum narrent populi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et laudem eorum pronuntiat omnis ecclesia</rdg>
+         <rdg wit="CAO-M"> et laudem eorum pronuntient omnis ecclesia</rdg>
+      </app>
+   </aBody>
+</ant>

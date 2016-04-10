@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3462" nextid="c3464" id="c3463">
+   <header>
+      <usage ms="Mch" code="06031000">[108v] lauds gosp</usage>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Cdm" code="06032000">lauds</usage>
+      <usage ms="Ely" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Glo" code="06031000">[57r] prime</usage>
+      <usage ms="Wcb" code="06031000">[90v] prime</usage>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Wor Alb2 Ely Evm Wcb Glo Cdm Mch"> Iter faciente Jesu
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Evm Glo Mch">dum ambularet Jericho</rdg>
+         <rdg wit="Wor Alb2 Cdm">dum pergeret Jericho</rdg>
+         <rdg wit="Wcb">dum appropinquaret Jericho</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Ely Evm Wcb Glo Mch">caecus clamabat ad eum</rdg>
+         <rdg wit="Wor Cdm">clamabat caecus ad eum</rdg>
+      </app> ut lumen recipere mereretur</aBody>
+</ant>

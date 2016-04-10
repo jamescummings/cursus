@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7625" nextid="c7627" id="c7626">
+   <header>
+      <usage ms="Alb2" code="07011000">[76r] matins-n2-r7</usage>
+      <usage ms="Bat" code="07011000">[47v] matins-n2-r6</usage>
+      <usage ms="Cdm" code="07011000">[57r] matins-n2-r6</usage>
+      <usage ms="Cht" code="07011000">[22r] matins-n2-r6</usage>
+      <usage ms="Ely" code="07011000">[66v] matins-n2-r6</usage>
+      <usage ms="Evm" code="07011000">[106r] matins-n2-r7</usage>
+      <usage ms="Hyd" code="07011000">[69r] matins-n2-r7</usage>
+      <usage ms="Mch" code="07011000">[115r] matins-n3-r9</usage>
+      <usage ms="Pet" code="07011000">[64r] matins-n2-r6</usage>
+      <usage ms="Wor" code="07011000">[43r] matins-n2-r6</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Verse in Evesham uses text of respond c6405</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-D CAO-F CAO-L CAO-V CAO-E Hyd Ely Wor Cht Pet Evm Alb2 Cdm Bat Mch"> Scindite corda vestra et non vestimenta vestra
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-E Hyd Ely Wor Cht Pet Evm Alb2 Cdm Bat Mch"> et convertimini ad dominum deum</rdg>
+         <rdg wit="CAO-V CAO-L"> et convertimini ad dominum deum vestrum</rdg>
+      </app> quia benignus et misericors est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-L CAO-V CAO-E Hyd Ely Wor Cht Pet Alb2 Cdm Bat Mch">
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-V Ely Wor Cht Pet Alb2 Cdm Bat Mch"> Revertimini unusquisque a via sua mala</rdg>
+            <rdg wit="Hyd"> Recedite unusquisque a via sua mala</rdg>
+            <rdg wit="CAO-E CAO-L"> Convertimi unusquisque a via sua mala</rdg>
+         </app> et
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-L CAO-V Hyd Ely Wor Pet Alb2 Cdm Bat"> a pessimis cogitationibus vestris</rdg>
+            <rdg wit="Cht Mch"> a pessimis cogitationibus suis</rdg>
+            <rdg wit="CAO-E"> ab iniquitate sua</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="Evm">Derelinquat impius viam suam et vir iniquus cogitationes suas et revertatur ad dominum et miserebitur <sic resp="DC">eius</sic>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-D CAO-F Hyd Ely Wor Cht Pet Alb2 Cdm Mch"> Et convertimini</rep>
+      <rep type="r" wit="CAO-L Evm"> Quia</rep>
+   </verses>
+</res>

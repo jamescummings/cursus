@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6278" nextid="c6280" id="c6279">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Christo quotidie sedulum exhibebat officium
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-F CAO-L"> et</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S"> ut</rdg>
+      </app> christianorum
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> animas quas</rdg>
+         <rdg wit="CAO-F"> animas quos</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="animas">animos</corr> quos</rdg>
+      </app> in tormentis videbat deficere
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L"> confortabat</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> confortaret</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-L"> Ad hoc tantum sub chlamyde terreni imperii Christi militem
+       <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> agebat</rdg>
+            <rdg wit="CAO-V CAO-L"> regebat</rdg>
+            <rdg wit="CAO-F"> tenebat</rdg>
+         </app> absconditum</vBody>
+      <vBody type="r" wit="CAO-E CAO-D CAO-S"> Erat enim in sermone verax in iudicio iustus</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R">Ut christianorum</rep>
+      <rep type="r" wit="CAO-E CAO-D CAO-V CAO-F CAO-L">Et christianorum</rep>
+      <rep type="r" wit="CAO-S"> Quas</rep>
+   </verses>
+</res>

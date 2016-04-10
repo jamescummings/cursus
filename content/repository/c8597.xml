@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8596" nextid="c8598" id="c8597">
+   <header>
+      <usage ms="Evm" code="02010200">[62v] vesp2 gosp</usage>
+      <usage ms="Pet" code="03031000">[34r] lauds-a3</usage>
+      <usage ms="Wcb" code="03021000">[65v] (unascribed)</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.161</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Wcb Pet"> Puer Jesus crescebat et confortabatur plenus sapientia et gratia dei
+     <app>
+         <rdg wit="Evm"> erat cum illo</rdg>
+         <rdg wit="Wcb Pet"> erat in illo</rdg>
+      </app>
+   </aBody>
+</ant>

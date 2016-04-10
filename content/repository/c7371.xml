@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7370" nextid="c7372" id="c7371">
+   <rBody wit="CAO-E CAO-V"> Peccavi domine nimis
+     <app>
+         <rdg wit="CAO-E"> excitata est</rdg>
+         <rdg wit="CAO-V"> exitata est</rdg>
+      </app> ira tua contra me quid faciam domine ubi fugiam nisi ad te quia magna est misericordia tua
+     <app>
+         <rdg wit="CAO-E"> super me</rdg>
+         <rdg wit="CAO-V"> super nos</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V">Miserere mei deus miserere mei quoniam in te confidit anima mea</vBody>
+      <rep type="r" wit="CAO-E CAO-V">Quid faciam</rep>
+   </verses>
+</res>

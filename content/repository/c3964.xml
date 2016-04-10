@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3963" nextid="c3965" id="c3964">
+   <header>
+      <usage ms="Bat" code="02122500">[15v] matins-n2-a11</usage>
+      <usage ms="Cdm" code="02122500">[22r] matins-n2-a11</usage>
+      <usage ms="Evm" code="02122500">[33v] matins-n2-a11</usage>
+      <usage ms="Hyd" code="02122500"/>
+      <usage ms="Pet" code="02122500">[16r] matins-n2-a11</usage>
+      <usage ms="Wcb" code="02122500">[54r] matins-n2-a11</usage>
+      <usage ms="Wor" code="02010100">[24v] matins-n2-a12</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Wor Pet"> Notum fecit dominus alleluia
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Wor Pet"> salutare suum alleluia</rdg>
+         <rdg wit="CAO-C"> salutare suum alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

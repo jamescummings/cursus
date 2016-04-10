@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3349" nextid="c3351" id="c3350">
+   <header>
+      <usage ms="Evm" code="02010100">[61v] vesp2-a6</usage>
+      <usage ms="Wcb" code="02122800">[63v] matins-n2-a7</usage>
+   </header>
+   <aBody wit="CAO-E Evm Wcb"> Innocentes et recti pro Christo interfecti sunt ab iniquo rege sed tu domine deus Israel
+     <app>
+         <rdg wit="Evm Wcb"> coronasti eos</rdg>
+         <rdg wit="CAO-E"> vindica illos</rdg>
+      </app>
+   </aBody>
+</ant>

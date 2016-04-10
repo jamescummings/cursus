@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2846" nextid="c2848" id="c2847">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Factus est repente de caelo sonus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> advenientis spiritus vehementis alleluia alleluia</rdg>
+         <rdg wit="CAO-M"> advenienti spiritu vehementi alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

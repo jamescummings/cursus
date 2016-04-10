@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7786" nextid="c7788" id="c7787">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tu es pastor ovium princeps apostolorum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> tibi tradidit</rdg>
+         <rdg wit="CAO-D"> cui tradidit</rdg>
+      </app> deus omnia regna mundi et ideo traditae sunt tibi claves regni caelorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-H"> Quodcumque ligaveris super terram erit ligatum et in caelis et quodcumque sol veris super terram erit solutum et in caelis</vBody>
+      <vBody type="r" wit="CAO-M"> Quodcumque</vBody>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-R"> Quodcumque ligaveris</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Tibi enim a domino collata est potestas ligandi
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> atque solvendi</rdg>
+            <rdg wit="CAO-L"> et solvendi</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et ideo</rep>
+   </verses>
+</res>

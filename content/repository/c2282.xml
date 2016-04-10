@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2281" nextid="c2283" id="c2282">
+   <aBody wit="CAO-H CAO-R CAO-D CAO-S">
+      <app>
+         <rdg wit="CAO-H CAO-R"> Dixit autem villicus intra se</rdg>
+         <rdg wit="CAO-S"> Ait villicus intra se</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="Dixit">Ait</corr> autem villicus intra se</rdg>
+      </app> quid faciam quia dominus meus aufert a me villicationem fodere non valeo mendicare erubesco scio quid faciam ut cum amotus fuero a villicatione recipiant me in domos suas</aBody>
+</ant>

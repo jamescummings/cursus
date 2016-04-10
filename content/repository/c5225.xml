@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5224" nextid="c5226" id="c5225">
+   <aBody wit="CAO-B CAO-D CAO-F CAO-S"> Tua sunt haec Christe opera qui sanctos tuos ita glorificas
+     <app>
+         <rdg wit="CAO-B"> ut etiam dignitatis gloriam in eis praeire miraculis facias</rdg>
+         <rdg wit="CAO-D"> ut etiam dignitatis gratiam in eis futuram perire miraculis facias</rdg>
+         <rdg wit="CAO-F"> ut etiam dignitatis gratiam in eis futuram praeire miraculis facias</rdg>
+         <rdg wit="CAO-S"> ut etiam dignitatis gratiam in eis futuram praeire miracula facias</rdg>
+      </app> tu insignes evangelii praedicatores animalium caelestium admirabili figura praesignasti his namque caeleste munus collatum gloriosis indiciis
+     <app>
+         <rdg wit="CAO-B CAO-D CAO-F"> es dignatus ostendere</rdg>
+         <rdg wit="CAO-S"> est dignatus ostendere</rdg>
+      </app> hinc laus hinc gloria tibi resonet in saecula</aBody>
+</ant>

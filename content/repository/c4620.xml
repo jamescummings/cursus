@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4619" nextid="c4621" id="c4620">
+   <header>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-D Hyd"> Respexit dominus humilitatem meam et fecit in me magna
+     <app>
+         <rdg wit="CAO-C CAO-H"> quia potens est</rdg>
+         <rdg wit="CAO-D Hyd"> qui potens est</rdg>
+      </app>
+   </aBody>
+</ant>

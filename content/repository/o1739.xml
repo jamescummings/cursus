@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1738" nextid="o1740" id="o1739">
+   <header>
+      <usage ms="Cdm" code="01031000">[15v] sext</usage>
+      <usage ms="Evm" code="01008000">[11r] </usage>
+      <usage ms="Hyd" code="01000000">[4v] </usage>
+      <usage ms="Mch" code="01031000">[12r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Evm Mch Cdm"> Praesta quaesumus omnipotens deus ut qui pro peccatis nostris mereamur affligi per adventum filii tui a cunctis adversitatibus
+     <app>
+         <rdg wit="Hyd Mch Cdm"> liberemur</rdg>
+         <rdg wit="Evm"> mereamur liberari</rdg>
+      </app>
+   </pBody>
+</prayer>

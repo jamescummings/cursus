@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7097" nextid="c7099" id="c7098">
+   <header>
+      <usage ms="Alb2" code="07041000">[92v] matins-n1-r1</usage>
+      <usage ms="Bat" code="07041000">[56r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="07041000">[67r] matins-n1-r1</usage>
+      <usage ms="Cht" code="07041000">[40r] matins-n1-r4</usage>
+      <usage ms="Ely" code="07041000">[77r] matins-n1-r1</usage>
+      <usage ms="Evm" code="07041000">[127r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="07041000">[81v] matins-n1-r1</usage>
+      <usage ms="Mch" code="07041000">[136r] matins-n1-r1</usage>
+      <usage ms="Pet" code="07041000">[75r] matins-r1</usage>
+      <usage ms="Wcb" code="07041000">[103r] matins-n1-r1</usage>
+      <usage ms="Wor" code="07041000">[50r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Locutus est dominus ad Moysen dicens descende in Aegyptum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Mch Bat"> dic Pharaoni</rdg>
+         <rdg wit="Cdm"> et dic Pharaoni</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch Bat"> ut dimittat populum meum</rdg>
+         <rdg wit="Evm"> ut dimittat populum <add place="interlined" resp="DC" hand="later">meum</add>
+         </rdg>
+      </app> induratum est cor Pharaonis non vult dimittere
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Ely Wor Hyd Evm Wcb Alb2 Mch"> populum meum nisi in manu forti</rdg>
+         <rdg wit="CAO-D CAO-L Cht Pet Cdm Bat"> populum nisi in manu forti</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Videns vidi afflictionem populi mei</rdg>
+            <rdg wit="CAO-R"> Videns vidi afflictionem meam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> qui est in Aegypto</rdg>
+            <rdg wit="CAO-F CAO-S"> qui est in Aegyptum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Cdm Bat"> et gemitum eorum audivi</rdg>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-S Alb2 Mch"> et gemitum eius audivi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-D Ely Wor Cht Hyd Pet Evm Wcb Cdm"> et descendi liberare eos</rdg>
+            <rdg wit="CAO-G CAO-B CAO-M CAO-R CAO-F CAO-S Alb2 Mch Bat"> et descendi liberare eum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Clamor filiorum Israel venit ad me vidique affiictionem eorum sed veni mittam te ad Pharaonem</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Pet Alb2 Cdm Mch Bat"> Induratum</rep>
+      <rep type="r" wit="Ely Wor Cht Hyd Evm Wcb"> In manu</rep>
+      <rep type="r" wit="CAO-L"> Ut <supplied>dimittat</supplied>
+      </rep>
+   </verses>
+</res>

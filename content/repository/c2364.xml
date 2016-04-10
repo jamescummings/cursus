@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2363" nextid="c2365" id="c2364">
+   <header>
+      <usage ms="Cht" code="05051000">[7v] lauds gosp</usage>
+      <usage ms="Hyd" code="05061000"/>
+   </header>
+   <aBody wit="CAO-C CAO-V CAO-D CAO-L Hyd Cht"> Domine nonne bonum semen seminasti in agro tuo
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-D Hyd Cht"> unde ergo habet zizania</rdg>
+         <rdg wit="CAO-L"> unde ergo habes zizania</rdg>
+      </app>
+      <app>
+         <rdg wit="Hyd Cht"> et ait</rdg>
+         <rdg wit="CAO-V"> et ait illis</rdg>
+         <rdg wit="CAO-L"> ait illi</rdg>
+         <rdg wit="CAO-C"> et ait illis Jesus</rdg>
+         <rdg wit="CAO-D" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-D Hyd Cht"> hoc fecit inimicus homo</rdg>
+         <rdg wit="CAO-C CAO-L"> inimicus homo hoc fecit</rdg>
+      </app>
+   </aBody>
+</ant>

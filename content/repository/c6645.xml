@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6644" nextid="c6646" id="c6645">
+   <rBody wit="CAO-H CAO-R"> Electus Dei Gallus pariter cum diacono prostravit se et huiusmodi preces
+      <app>
+         <rdg wit="CAO-R"> effudit</rdg>
+         <rdg wit="CAO-H"> emisit</rdg>
+      </app> Deus omnipotens iube hos daemones istum locum deserere ut sit sanctificatus
+      <app>
+         <rdg wit="CAO-R"> in honorem</rdg>
+         <rdg wit="CAO-H"> in honore</rdg>
+      </app> nominis tui</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R"> Praepara in hoc loco habitationem tuis servitiis aptam</vBody>
+      <rep type="r" wit="CAO-H CAO-R"> Ut sit</rep>
+   </verses>
+</res>

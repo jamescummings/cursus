@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4819" nextid="c4821" id="c4820">
+   <aBody wit="CAO-E CAO-M CAO-F Fec-B2">
+      <app>
+         <rdg wit="CAO-E CAO-F Fec-B2"> Saul et Jonathas</rdg>
+         <rdg wit="CAO-M"> Saul et Jonathan</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-F Fec-B2"> amabiles et decori in vita sua</rdg>
+         <rdg wit="CAO-E"> amabilis et decori in vita sua</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-F Fec-B2"> in morte quoque non sunt divisi</rdg>
+         <rdg wit="CAO-E"> in morte quoque non sunt seperati</rdg>
+      </app> aquilis velociores leonibus fortiores
+     <app>
+         <rdg wit="CAO-E CAO-M Fec-B2"> quomodo ceciderunt fortes in bello</rdg>
+         <rdg wit="CAO-F"> quomodo ceciderunt fortes in praelio</rdg>
+      </app> et perierunt arma bellica incliti Israel flete</aBody>
+</ant>

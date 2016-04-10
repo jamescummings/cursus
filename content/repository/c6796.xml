@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6795" nextid="c6797" id="c6796">
+   <rBody wit="CAO-D CAO-F"> Hac igitur crudelitate immanissimi tyranni confectus est sanctorum populus qui contempsit rem praesentium ob spem futurorum qui ut credimus cum illis angelorum legionibus iam
+      <app>
+         <rdg wit="CAO-D"> collaudant</rdg>
+         <rdg wit="CAO-F"> cum laudent</rdg>
+      </app> Deum in caelis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-D"> Ipse namque</rdg>
+            <rdg wit="CAO-F"> Ipse quoque</rdg>
+         </app> tamquam grex dominicus laniari se permisit et tamquam
+       <app>
+            <rdg wit="CAO-D"> ab irruentibus</rdg>
+            <rdg wit="CAO-F"> ab ingruentibus</rdg>
+         </app> lupis passi sunt</vBody>
+      <rep type="r" wit="CAO-F"> Qui ut</rep>
+   </verses>
+</res>

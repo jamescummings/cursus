@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7333" nextid="c7335" id="c7334">
+   <header>
+      <usage ms="Alb2" code="07021000">[84r] matins-r9</usage>
+      <usage ms="Bat" code="07021000">[51v] matins-n3-r9</usage>
+      <usage ms="Cdm" code="07021000">[61r] matins-n3-r9</usage>
+      <usage ms="Cht" code="07021000">[30v] matins-n3-r9</usage>
+      <usage ms="Ely" code="07021000">[71v] matins-n3-r9</usage>
+      <usage ms="Evm" code="07021000">[115v] matins-n3-r9</usage>
+      <usage ms="Hyd" code="07021000">[75r] matins-n3-r9</usage>
+      <usage ms="Mch" code="07021000">[123r] matins-n2-r8</usage>
+      <usage ms="Pet" code="07021000">[68v] matins-n3-r9</usage>
+      <usage ms="Wcb" code="07021000">[98r] matins-n3-r9</usage>
+      <usage ms="Wor" code="07021000">[46r] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Oravit Jacob et dixit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch"> domine qui dixisti mihi</rdg>
+         <rdg wit="CAO-F Ely Alb2"> domine tu dixisti mihi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Alb2 Cdm Bat Mch"> revertere in terram nativitatis tuae</rdg>
+         <rdg wit="Wcb"> revertere in locum nativitatis tuae</rdg>
+      </app> erue me de manu fratris mei quia valde eum timeo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Deus in cuius conspectu
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-L Ely Hyd Wor Cht Pet Evm Wcb Alb2 Cdm Bat"> ambulaverunt patres mei domine</rdg>
+            <rdg wit="CAO-V CAO-S Mch"> ambulaverunt patres nostri domine</rdg>
+            <rdg wit="CAO-E"> ambulaverunt fratres mei domine</rdg>
+            <rdg wit="CAO-F"> ambulaverunt patres <corr>mei</corr> domine</rdg>
+         </app> qui pascis me a iuventute mea</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Hyd Ely Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Erue</rep>
+   </verses>
+</res>

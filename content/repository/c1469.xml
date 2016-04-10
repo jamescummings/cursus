@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1468" nextid="c1470" id="c1469">
+   <header>
+      <usage ms="Alb2" code="07036000"/>
+      <usage ms="Bat" code="07036000">[55v] lauds gosp</usage>
+      <usage ms="Cdm" code="07036000">[66v] lauds-a1</usage>
+      <usage ms="Ely" code="07036000"/>
+      <usage ms="Evm" code="07036000"/>
+      <usage ms="Glo" code="07036000"/>
+      <usage ms="Hyd" code="07036000"/>
+      <usage ms="Pet" code="07036000"/>
+      <usage ms="Wcb" code="07036000"/>
+      <usage ms="Wor" code="07036000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Bat"> Aqua quam ego dedero</rdg>
+         <rdg wit="CAO-L"> Aquam quam ego dedero</rdg>
+         <rdg wit="CAO-C CAO-V"> Aqua qua ego dedero</rdg>
+      </app> qui biberit ex ea
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-R CAO-D Ely Wor Hyd Pet Cdm Bat"> non sitiet ultra</rdg>
+         <rdg wit="Evm Wcb Glo"> non sitiet ultra dicit dominus</rdg>
+         <rdg wit="CAO-G CAO-V CAO-H CAO-F CAO-S CAO-L Alb2"> non sitiet unquam</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4903" nextid="c4905" id="c4904">
+   <header>
+      <usage ms="Cht" code="07056000">[52v] sext</usage>
+      <usage ms="Glo" code="07056000">[72r] nones</usage>
+      <usage ms="Wcb" code="07056000">[110v] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-R CAO-L Cht Wcb Glo"> Si oportuerit me mori tecum non te negabo
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-L Cht Wcb Glo"> domine deus meus</rdg>
+         <rdg wit="CAO-C"> domine deus meus et patris mei</rdg>
+      </app>
+   </aBody>
+</ant>

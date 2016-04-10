@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7201" nextid="c7203" id="c7202">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Ne abscondas me domine a facie tua manum tuam longe fac a me et formido tua non me terreat</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Voca me</rdg>
+            <rdg wit="CAO-L"> Et voca me</rdg>
+         </app> et respondebo tibi aut certe loquar et tu responde mihi</vBody>
+      <vBody type="r" num="2" wit="CAO-F"> Corripe me domine in misericordia et non in furore tuo ne forte ad nihilum redigas me Manum</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-V CAO-D CAO-F CAO-L">Manum</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S Hyd">Et formido</rep>
+   </verses>
+</res>

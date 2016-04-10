@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6507" nextid="c6509" id="c6508">
+   <header>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <rBody wit="CAO-H CAO-D CAO-S Hyd"> Domine refugium
+      <app>
+         <rdg wit="CAO-D CAO-S Hyd"> factus es nobis</rdg>
+         <rdg wit="CAO-H"> tu factus es nobis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-D CAO-S Hyd"> A generatione
+       <app>
+            <rdg wit="CAO-D CAO-S Hyd"> et progenie</rdg>
+            <rdg wit="CAO-H"> in generationem</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-S"> Factus</rep>
+   </verses>
+</res>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6824" nextid="c6826" id="c6825">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Hic est Martinus electus Dei pontifex cui dominus post apostolos tantam gratiam conferre dignatus est ut in virtute Trinitatis
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> deificae</rdg>
+         <rdg wit="CAO-V">
+            <sic resp="Hesbert">deificet</sic>
+         </rdg>
+      </app> mereretur fieri trium mortuorum suscitator magnificus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sanctae trinitatis
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F"> fidem</rdg>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-S"> fide</rdg>
+            <rdg wit="CAO-L"> fidem ita</rdg>
+         </app> Martinus confessus est</vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Iste homo ab adolescentia sua partim meruit infirmos curare dedit illi Dominus gratiam</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ut in virtute</rep>
+   </verses>
+</res>

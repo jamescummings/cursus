@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4085" nextid="c4087" id="c4086">
+   <header>
+      <usage ms="Hyd" code="09011000">lauds</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L Hyd"> O vera summa sempiterna trinitas</rdg>
+         <rdg wit="CAO-F"> O vera summa sempiterna <corr sic="unitas">trinitas</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> pater et filius et spiritus sanctus</rdg>
+         <rdg wit="CAO-E"> pater <del status="unremarkable">et</del> filius et spiritus sanctus</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Tibi laus tibi gloria tibi gratiarum actio</vBody>
+      <vBody type="a" wit="CAO-E"> Miserere <corr sic="nobis">miserere nobis</corr>
+      </vBody>
+      <rep type="a" wit="CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L">O vera</rep>
+   </verses>
+</ant>

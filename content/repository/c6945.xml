@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6944" nextid="c6946" id="c6945">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> In visione Dei vidi et ecce ventus turbinis veniebat ab Aquilone nubesque magna et ignis involvens splendorque in circuitu eius et ex medio eorum similitudo quatuor animalium et aspectus hominis erat in eis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">De medio autem eius quasi species electri hoc est de medio ignis</vBody>
+      <rep type="r" wit="CAO-D CAO-S">Et ex</rep>
+      <rep type="r" wit="CAO-F CAO-L"> Et aspectus</rep>
+   </verses>
+</res>

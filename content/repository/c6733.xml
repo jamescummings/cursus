@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6732" nextid="c6734" id="c6733">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Fidelis sermo
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> et omni acceptione dignus</rdg>
+         <rdg wit="CAO-L"> et omni abiectione dignus</rdg>
+      </app> Michael archangelus
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> qui</rdg>
+         <rdg wit="CAO-F">
+            <gap reason="erasure" resp="Hesbert" extent="one word"/>
+         </rdg>
+      </app> pugnavit cum diabolo gratia Dei ille victor in caelis
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-R CAO-F CAO-S"> exstitit</rdg>
+         <rdg wit="CAO-E"> estitit</rdg>
+         <rdg wit="CAO-V CAO-L"> residet</rdg>
+         <rdg wit="CAO-H"> resedit</rdg>
+         <rdg wit="CAO-D"> praestitit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> et ille hostis antiquus patuit</rdg>
+         <rdg wit="CAO-D CAO-F"> et illi hosti antiquo patuit</rdg>
+         <rdg wit="CAO-L"> et ille hostis passus est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> ruinae magnae</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-L"> ruina magna</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-R CAO-F">
+         <app>
+            <rdg wit="CAO-F"> Gaudent angeli et <corr sic="exsultant">exsultent</corr> archangeli</rdg>
+            <rdg wit="CAO-C"> Gaudent angeli et exsultent archangeli</rdg>
+            <rdg wit="CAO-R"> Gaudete angeli et exsultate archangeli</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-F"> laetantur sancti</rdg>
+            <rdg wit="CAO-R" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R"> de Michael archangelo</rdg>
+            <rdg wit="CAO-F"> de Michaele archangelo</rdg>
+            <rdg wit="CAO-C"> congratulantur martyres</rdg>
+         </app>
+      </vBody>
+      <vBody id="c6733-1" type="r" num="2" wit="CAO-B"> Gaudent angeli et exsultant archangeli de Michael archangelo</vBody>
+      <rep corresp="c6733-1" type="r" wit="CAO-B"> Qui pugnavit</rep>
+      <vBody type="r" wit="CAO-E CAO-L"> Michael et angeli eius
+       <app>
+            <rdg wit="CAO-E"> pugnabant cum dracone</rdg>
+            <rdg wit="CAO-L"> pugnabat cum diabolo</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-H"> Milia milium</vBody>
+      <vBody id="c6733-2" type="r" wit="CAO-B"> Milia milium</vBody>
+      <rep corresp="c6733-2" type="r" wit="CAO-B">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio given for this verse in CAO-B</note>
+      </rep>
+      <vBody type="r" wit="CAO-M"> Dum proeliaretur</vBody>
+      <vBody type="r" wit="CAO-D"> Factum est silentium in caelo dum committeret bellum draco cum Michaele archangelo</vBody>
+      <vBody id="c6733-3" type="r" wit="CAO-V"> Gaudent angeli laetantur archangeli exsultant iusti congratulantur omnes cives caeli quia profectus est accusator fratrum nostrorum</vBody>
+      <rep corresp="c6733-3" type="r" wit="CAO-V"> Gratia</rep>
+      <vBody id="c6733-4" type="r" wit="CAO-V"> Stetit angelus</vBody>
+      <rep corresp="c6733-4" type="r" wit="CAO-V">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio given for this verse in CAO-V</note>
+      </rep>
+      <rep type="r" wit="CAO-E CAO-R CAO-D CAO-F CAO-L"> Gratia</rep>
+      <rep type="r" wit="CAO-C CAO-M CAO-H"> Et ille</rep>
+   </verses>
+</res>

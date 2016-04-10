@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1520" nextid="o1522" id="o1521">
+   <header>
+      <usage ms="Mch" code="07021000">[121r] vesp1</usage>
+      <usage ms="Alb2" code="07021000">[82v] vesp1</usage>
+      <usage ms="Cdm" code="07021000">[60r] vesp1</usage>
+      <usage ms="Ely" code="07021000">[71r] vesp1</usage>
+      <usage ms="Evm" code="07021000">[114r] vesp1</usage>
+      <usage ms="Hyd" code="07021000">[74r] vesp1</usage>
+      <usage ms="Wcb" code="07021000">[96v] vesp1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.202</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Evm Wcb Alb2 Cdm Mch">Deus qui conspicis omni nos virtute destitui interius exteriusque custodi ut et ab omnibus adversitatibus muniamur in corpore et a pravis cogitationibus mundemur in mente</pBody>
+</prayer>

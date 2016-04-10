@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1767" nextid="o1769" id="o1768">
+   <header>
+      <usage ms="Cdm" code="02122600">[25v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Fulda no.77</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Beatus martyr Stephanus domine quaesumus pro fidelibus tuis suffragator accedat qui dum bene sit placitus pro his etiam possit clementer audiri</pBody>
+</prayer>

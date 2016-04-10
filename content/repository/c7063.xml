@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7062" nextid="c7064" id="c7063">
+   <rBody wit="CAO-V CAO-R"> Laetabitur iustus in domino
+      <app>
+         <rdg wit="CAO-R"> et sperabit in eo</rdg>
+         <rdg wit="CAO-V"> et speravit in eo</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-R">Et laudabuntur omnes recti corde</vBody>
+      <rep type="r" wit="CAO-V"> Et speravit in eo</rep>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6077" nextid="c6079" id="c6078">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Alleluia revertere in thesauros tuos te benedicent angeli alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-D CAO-S"> Sola namque tenes principatum in conspectu Domini propterea revertere in thesauros tuos</vBody>
+      <vBody type="r" wit="CAO-E"> Sola namque tenes</vBody>
+      <vBody type="r" wit="CAO-M CAO-V"> Sola namque</vBody>
+      <vBody type="r" wit="CAO-F"> Angelus domini bonus comitetur tecum et bene disponat itinere tuo</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S">Te benedicent</rep>
+   </verses>
+</res>

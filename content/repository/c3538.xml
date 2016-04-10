@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3537" nextid="c3539" id="c3538">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-L"> Iustorum animae in manu dei sunt</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R"> Iustorum animae in manu dei sunt alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-L"> non tanget illos tormentum mortis</rdg>
+         <rdg wit="CAO-D"> et non tanget illos tormentum mortis</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R"> non tanget illos tormentum mortis alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> in pace sunt ea quae possident</rdg>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R"> in pace sunt ea quae possident alleluia</rdg>
+         <rdg wit="CAO-L"> in pace sunt omnia quae possident</rdg>
+      </app>
+   </aBody>
+</ant>

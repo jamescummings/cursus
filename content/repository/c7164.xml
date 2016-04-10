@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7163" nextid="c7165" id="c7164">
+   <header>
+      <usage ms="Hyd" code="10900000">matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Misit dominus angelum suum et conclusit ora leonum et non me contaminaverunt
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> quia coram eo</rdg>
+         <rdg wit="CAO-V"> quia caro mea</rdg>
+      </app> iustitia
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> inventa est</rdg>
+         <rdg wit="CAO-C"> inventum est</rdg>
+      </app> in me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Misit deus misericordiam suam et veritatem suam animam meam eripuit de medio catulorum leonum</vBody>
+      <vBody type="r" wit="CAO-C CAO-M"> Misit deus misericordiam suam</vBody>
+      <vBody type="r" wit="CAO-G"> Misit deus misericordiam suam et veritatem suam animam meam eripuit de</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et non</rep>
+   </verses>
+</res>

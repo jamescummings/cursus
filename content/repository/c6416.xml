@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6415" nextid="c6417" id="c6416">
+   <header>
+      <usage ms="Alb2" code="07011000">[78r] vesp2</usage>
+      <usage ms="Hyd" code="07011000">[71r] vesp2</usage>
+      <usage ms="Cht" code="07011000">[25r] vesp2</usage>
+      <usage ms="Wor" code="07011000">[44r] vesp2</usage>
+   </header>
+   <rBody wit="CAO-E CAO-R CAO-D CAO-F CAO-S Hyd Wor Cht Alb2"> Deum time et mandata eius observa hoc est omnis homo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-R CAO-D CAO-F CAO-S Hyd Wor Cht Alb2"> Timentibus deum nihil deest nec his qui eum diligunt in veritate</vBody>
+      <rep type="r" wit="CAO-E CAO-R CAO-D CAO-F CAO-S Hyd Wor Cht Alb2"> Hoc est</rep>
+      <dox type="r" wit="Wor Cht"> Gloria patri</dox>
+      <rep type="r" num="2" wit="Cht"> Deum time</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1008" nextid="o1010" id="o1009">
+   <header>
+      <usage ms="Alb2" code="06035000">[73r] </usage>
+      <usage ms="Bat" code="06035000">[46v] lauds</usage>
+      <usage ms="Cdm" code="06035000">[55v] lauds</usage>
+      <usage ms="Ely" code="06035000"/>
+      <usage ms="Evm" code="06035000"/>
+      <usage ms="Mch" code="06035000">[110v] lauds</usage>
+      <usage ms="Wcb" code="06035000"/>
+   </header>
+   <pBody wit="Alb2 Ely Evm Wcb Cdm Bat Mch"> Deus qui culpa offenderis paenitentia placaris
+     <app>
+         <rdg wit="Alb2 Ely Evm Cdm Bat Mch"> preces populi supplicantis</rdg>
+         <rdg wit="Wcb"> preces populi tui supplicantis</rdg>
+      </app> propitius respice et flagella tuae iracundiae quae pro peccatis nostris meremur averte</pBody>
+</prayer>

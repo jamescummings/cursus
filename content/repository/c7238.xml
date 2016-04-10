@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7237" nextid="c7239" id="c7238">
+   <rBody wit="CAO-D CAO-F CAO-S"> Nos autem gloriari oportet in cruce domini nostri Jesu Christi in quo est salus vita et resurrectio nostra per quam salvati et liberati sumus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F"> Absit nobis gloriari nisi in cruce domini mei Jesu Christi</vBody>
+      <vBody type="r" num="2" wit="CAO-F"> Absit mihi gloriari nisi in cruce domini mei Jesu Christi</vBody>
+      <vBody type="r" wit="CAO-D"> O crux benedicta quia in te pependit Salvator mundi et in te triumphavit Rex angelorum</vBody>
+      <vBody type="r" wit="CAO-S"> O crux gloriosa o crux adoranda o lignum pretiosum et admirabile signum</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Per quam</rep>
+      <rep type="r" wit="CAO-S">Per quem</rep>
+   </verses>
+</res>

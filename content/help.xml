@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Help (Frequently Asked Questions)</title>
+</head>
+<body>
+<h1>Help (Frequently Asked Questions)</h1>
+
+<h4>Where do I start?</h4>
+<p>If you simply want to read through a manuscript look at our 
+<a href="/manuscripts">Manuscripts</a> page 
+and choose one to begin.  If you know of a particular Antiphon, Respond or 
+Prayer Incipit and want to check where in the CURSUS edited manuscripts (and CAO) 
+it is used, then you might find our  
+<a href="/incipits/list">Incipits</a> list 
+of use.  
+</p>
+
+<h4>Can I read your copy of the Vulgate?</h4>
+<p>Although this copy of the Vulgate was encoded in XML 
+only to be used internally to provide the readings for our 
+manuscript editions, you may indeed read our copy of the 
+<a href="/vulgate">Vulgate</a>.
+</p>
+
+<h4>Can I download CURSUS files for my own use?</h4>
+<p>Yes, if you want to download the files, the latest versions are
+always available in our 
+<a href="/downloads">Downloads</a> 
+section.  You are allowed to use them for non-commercial personal research.  
+If you plan to make substantial (or commercial) use of them, please contact 
+us first at: <a href="mailto:James.Cummings@it.ox.ac.uk">James.Cummings@it.ox.ac.uk</a>
+</p>
+
+<h4>How do I search the files?</h4>
+<p>You use our very basic 
+<a href="/search">Search</a>
+form.  You may search antiphons, responds, prayers, the edited manuscripts, 
+or our copy of the vulgate.  Wildcards of '*' for any text and '?' for any 
+single missing character are able to be used.
+</p>
+
+<h4>Where can I find out more? or Why is my question not here?</h4>
+<p> If the web pages do not give you enough information, get in touch at <a href="mailto:James.Cummings@it.ox.ac.uk">James.Cummings@it.ox.ac.uk</a> and we will be happy to tell you more about the project.  If you have any questions you think should be here, feel free to send those as well.</p>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6366" nextid="c6368" id="c6367">
+   <rBody wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Cum inducerent puerum Jesum parentes eius
+      <app>
+         <rdg wit="CAO-E"> ut facerent secundum consuetudinum legis pro eo</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> accepit eum Simeon in ulnas suas et benedixit Deum et dixit nunc dimittis domine servum tuum in pace</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-L"> Quia viderunt oculi mei salutare tuum quod parasti ante faciem omnium populorum Nunc</vBody>
+      <vBody type="r" wit="CAO-F"> Accipiens Simeon puerum in manibus gratias agens benedixit Deum et dixit</vBody>
+      <vBody type="r" wit="CAO-V"> Responsum accepit Simeon</vBody>
+      <vBody type="r" wit="CAO-D"> Suscipiens puerum in manibus exclamavit dicens</vBody>
+      <rep type="r" wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> Nunc</rep>
+      <rep type="r" wit="CAO-V"> Et benedixit</rep>
+   </verses>
+</res>

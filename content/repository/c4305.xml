@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4304" nextid="c4306" id="c4305">
+   <header>
+      <usage ms="Alb2" code="01038000">[15r] vesp2 gosp</usage>
+      <usage ms="Bat" code="01021000">[6v] matins-n3</usage>
+      <usage ms="Bat" code="01041000">[12v] matins-n3</usage>
+      <usage ms="Cdm" code="01046000">[20r] lauds gosp</usage>
+      <usage ms="Ely" code="01026000">[9v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01021000">[14r] matins-n3</usage>
+      <usage ms="Hyd" code="01034009">[12r] vesp2 gosp</usage>
+      <usage ms="Mch" code="01048000">[19r] </usage>
+      <usage ms="Wcb" code="01021000">[44v] matins-n3</usage>
+      <usage ms="Wor" code="01034000">[9r] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Ponent domino gloriam et laudem eius
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> in insulis nuntiabunt</rdg>
+         <rdg wit="CAO-E"> et in insulis nuntiabunt</rdg>
+      </app> quia ecce veniet
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> et non tardabit</rdg>
+         <rdg wit="CAO-C"> et non tardavit</rdg>
+      </app>
+   </aBody>
+</ant>

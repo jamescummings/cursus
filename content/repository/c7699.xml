@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7698" nextid="c7700" id="c7699">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Statura erat rotarum et altitudo horribilis
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> totumque</rdg>
+         <rdg wit="CAO-L"> totum</rdg>
+      </app> corpus plenum oculis et aspectus
+     <app>
+         <rdg wit="CAO-F CAO-S CAO-L"> earum</rdg>
+         <rdg wit="CAO-D"> eorum</rdg>
+      </app> et opera velut si sit rota in medio rotae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-D CAO-S"> Per quatuor partes euntes ibant</rdg>
+            <rdg wit="CAO-F"> Per quatuor partes ibant</rdg>
+         </app> et non revertebantur cum ambularent</vBody>
+      <vBody type="r" wit="CAO-L"> Aspectus rotarum et opus erat quasi visio maris</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Et aspectus</rep>
+      <rep type="r" wit="CAO-L">Velut</rep>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9509" nextid="c9511" id="c9510">
+   <header>
+      <usage ms="Evm" code="06031000">[99r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="Evm"> Melchisadech rex Salem proferens panem et vinum erat enim sacerdos dei altissimi benedixitque Abraham a caede regum regresso</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Benedictus Abraham a deo excelso qui creavit caelum et terram et dedit ei Abraham decimas ex omnibus</vBody>
+      <rep type="r" wit="Evm">Erat</rep>
+   </verses>
+</res>

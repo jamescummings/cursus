@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6236" nextid="c6238" id="c6237">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-F CAO-L Hyd"> Benedicam dominum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S"> Benedicam domino</rdg>
+      </app> in omni tempore semper laus eius in ore meo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">In domino laudabitur
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> anima mea</rdg>
+            <rdg wit="CAO-S"> animam meam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L"> audiant</rdg>
+            <rdg wit="CAO-F CAO-S"> audient</rdg>
+            <rdg wit="Hyd"> audiantur</rdg>
+         </app> mansueti et laetentur</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Semper</rep>
+   </verses>
+</res>

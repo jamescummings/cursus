@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3798" nextid="c3800" id="c3799">
+   <header>
+      <usage ms="Alb2" code="07055000">[102v] vesp2</usage>
+      <usage ms="Cdm" code="07055000">[73r] vesp2</usage>
+      <usage ms="Cht" code="07061000">[53v] matins-n2</usage>
+      <usage ms="Cht" code="07062000">[57v] vesp2</usage>
+      <usage ms="Ely" code="07061000">[85r] matins-n2</usage>
+      <usage ms="Evm" code="07062000">[145r] vesp2</usage>
+      <usage ms="Glo" code="07062000">[78r] vesp2</usage>
+      <usage ms="Mch" code="07055000">[150r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07063000">[87r] sext</usage>
+      <usage ms="Wcb" code="07062000">[114r] vesp2</usage>
+      <usage ms="Wor" code="07055000">[55r] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch"> Mittens haec mulier in corpus meum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch">hoc unguentum</rdg>
+         <rdg wit="CAO-F">hoc unguento</rdg>
+      </app> ad sepeliendum me fecit</aBody>
+</ant>

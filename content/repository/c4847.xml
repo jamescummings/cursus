@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4846" nextid="c4848" id="c4847">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Secus decursus aquarum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-F CAO-L"> plantavit vineam iustorum</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D"> plantabis vineam iustorum</rdg>
+         <rdg wit="CAO-S"> plantabit vineam iustorum</rdg>
+         <rdg wit="CAO-H CAO-R"> plantavit viam iustorum</rdg>
+      </app> sed in lege domini fuit voluntas eorum</aBody>
+</ant>

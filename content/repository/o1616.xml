@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1615" nextid="o1617" id="o1616">
+   <header>
+      <usage ms="Cdm" code="07035000">[66v] sext</usage>
+      <usage ms="Wcb" code="07012000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.861</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb Cdm">Deus qui peccantium animas non vis perire sed culpas contine quam meremur iram et quam precamur super nos effunde clementiam ut de merore gaudium tuae misericordiae consequi mereamur</pBody>
+</prayer>

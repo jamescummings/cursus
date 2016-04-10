@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6867" nextid="c6869" id="c6868">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Homo Dei
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ducebatur</rdg>
+         <rdg wit="CAO-V"> ducebantur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ut crucifigerent eum</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> ut crucifigeretur</rdg>
+      </app> populus autem clamabat voce magna dicens
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> innocens eius sanguis</rdg>
+         <rdg wit="CAO-L"> innocens et iustus</rdg>
+      </app> sine causa
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> damnatur</rdg>
+         <rdg wit="CAO-E">
+            <corr sic="damnatus">damnatur</corr>
+         </rdg>
+         <rdg wit="CAO-C"> damnavit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cumque carnifices</rdg>
+            <rdg wit="CAO-V"> Cumque</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> ducerent eum</rdg>
+            <rdg wit="CAO-S"> eum ducerent</rdg>
+         </app> ut crucifigeretur
+       <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L"> factus est concursus</rdg>
+            <rdg wit="CAO-V CAO-S"> concursus factus est</rdg>
+         </app> populorum clamantium et dicentium</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V"> Filii alieni mentiti sunt mihi filii alieni
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-M"> inveteraverunt</rdg>
+            <rdg wit="CAO-V"> inveterati sunt</rdg>
+         </app> et claudicaverunt a semitis suis vivit dominus</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R"> Innocens</rep>
+      <rep type="r" wit="CAO-M CAO-L"> Populus</rep>
+   </verses>
+</res>

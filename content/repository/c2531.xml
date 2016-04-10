@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2530" nextid="c2532" id="c2531">
+   <aBody wit="CAO-E CAO-V"> Ecce nunc tempus acceptabile ecce nunc dies salutis
+     <app>
+         <rdg wit="CAO-V"> ecce dominus iterum spiritaliter inter homines ambulat</rdg>
+         <rdg wit="CAO-E"> ecce dominus inter discipulos ambulabat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V"> si quis vult post eum venire</rdg>
+         <rdg wit="CAO-E"> si quis vult post me venire</rdg>
+      </app> abneget semetipsum
+     <app>
+         <rdg wit="CAO-V"> tollat crucem suam</rdg>
+         <rdg wit="CAO-E"> et tollat crucem suam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V"> et sequatur eum</rdg>
+         <rdg wit="CAO-E"> et sequatur me</rdg>
+      </app>
+   </aBody>
+</ant>

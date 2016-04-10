@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2907" nextid="c2909" id="c2908">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D"> Fulgebunt iusti sicut sol</rdg>
+         <rdg wit="CAO-V CAO-F"> Iusti fulgebunt sicut sol</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R"> in regno patris eorum alleluia</rdg>
+         <rdg wit="CAO-D"> in conspectu dei alleluia</rdg>
+         <rdg wit="CAO-F"> in regno patris eorum dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

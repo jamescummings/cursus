@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4654" nextid="c4656" id="c4655">
+   <header>
+      <usage ms="Ely" code="01041000">[14v] prime</usage>
+      <usage ms="Evm" code="01041000">[25r] prime</usage>
+      <usage ms="Wcb" code="01041000">[49v] prime</usage>
+   </header>
+   <aBody wit="CAO-C Evm Ely Wcb"> Rex noster adveniet Christus quem Joannes praedicavit agnum esse
+     <app>
+         <rdg wit="CAO-C Evm"> futurum</rdg>
+         <rdg wit="Ely Wcb"> venturum</rdg>
+      </app>
+   </aBody>
+</ant>

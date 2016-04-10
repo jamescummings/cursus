@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6744" nextid="c6746" id="c6745">
+   <rBody wit="CAO-B CAO-H CAO-R"> Frater Maure curre velociter quia puer Placidus iam
+      <app>
+         <rdg wit="CAO-B CAO-R"> mergitur in amne</rdg>
+         <rdg wit="CAO-H"> mergitur</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-B CAO-H"> Benedictus Dei famulus</rdg>
+            <rdg wit="CAO-R"> Benedictus vir Dei famulus</rdg>
+         </app> cum hoc protinus agnovisset Maurum vocavit dicens curre velociter</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R"> Quia</rep>
+   </verses>
+</res>

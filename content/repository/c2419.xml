@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2418b" nextid="c2420" id="c2419">
+   <header>
+      <usage ms="Hyd" code="08065000">sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-L"> Dominus quidem Jesus postquam locutus est eis</rdg>
+         <rdg wit="CAO-D CAO-F Hyd"> Dominus Jesus postquam locutus est eis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Hyd"> ascendit in caelum</rdg>
+         <rdg wit="CAO-D"> assumptus est in caelum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-L Hyd"> et sedit a dextris dei alleluia</rdg>
+         <rdg wit="CAO-G CAO-R CAO-D"> et sedet a dextris dei alleluia</rdg>
+         <rdg wit="CAO-F"> et sedet ad dextris dei alleluia</rdg>
+         <rdg wit="CAO-V"> et sedit ad dextris dei alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

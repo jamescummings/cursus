@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1604" nextid="o1606" id="o1605">
+   <header>
+      <usage ms="Evm" code="07012000"/>
+      <usage ms="Wcb" code="07012000"/>
+   </header>
+   <pBody wit="Evm Wcb">Tua nos quaesumus domine gratia benedicat et ad vitam aeternum perducat;  et ad beneficia</pBody>
+</prayer>

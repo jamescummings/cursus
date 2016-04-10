@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7206" nextid="c7208" id="c7207">
+   <header>
+      <usage ms="Alb2" code="07051000">[99r] matins-n2-r7</usage>
+      <usage ms="Cht" code="07051000">[49r] vesp2</usage>
+      <usage ms="Ely" code="07052000">[83r] matins-r3</usage>
+      <usage ms="Evm" code="07051000">[134v] matins-n2-r7</usage>
+      <usage ms="Mch" code="07051000">[145r] matins-n2-r8</usage>
+      <usage ms="Wcb" code="07051000">[107r] matins-n2-r6</usage>
+      <usage ms="Wor" code="07051000">[54v] vesp2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Evm Wcb Alb2 Mch"> Ne perdas cum impiis deus animam meam
+      <app>
+         <rdg wit="CAO-G CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Evm Wcb Alb2 Mch"> et cum viris sanguinum</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-S CAO-L">et cum viri sanguinum</rdg>
+      </app> vitam meam redime me domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-F CAO-S Alb2"> Eripe me domine ab homine malo
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-F CAO-S"> a viro iniquo libera me</rdg>
+            <rdg wit="Alb2"> a viro iniquo</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-R CAO-D Ely Cht"> Eripe me de inimicis meis deus meus et ab insurgentibus in me</vBody>
+      <vBody type="r" wit="Mch"> Iudica me deus et discerne causam de gente non sancta ab homine iniquo et doloso</vBody>
+      <vBody type="r" wit="CAO-L Wor Evm Wcb"> Ne tradideris me in animas
+       <app>
+            <rdg wit="CAO-L"> persequentium</rdg>
+            <rdg wit="Wor Evm Wcb"> tribulantium</rdg>
+         </app> me quoniam insurrexerunt in me testes iniqui</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Evm Wcb Alb2 Mch">Redime</rep>
+      <rep type="r" wit="CAO-E CAO-S">Et cum</rep>
+      <rep type="r" num="2" wit="Wor Cht"> Ne perdas</rep>
+   </verses>
+</res>

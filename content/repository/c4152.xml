@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4151" nextid="c4153" id="c4152">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-F CAO-S"> Omnis qui se exaltat humiliabitur
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-S"> et qui se humiliat exaltabitur</rdg>
+         <rdg wit="CAO-F"> et qui se humiliat exaltabitur dicit dominus</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-V"> Omnis qui se exaltat humiliabitur</aBody>
+</ant>

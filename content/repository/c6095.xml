@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6094" nextid="c6096" id="c6095">
+   <header>
+      <usage ms="Cdm" code="08011000">[81r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="08011000">[99v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Angelus domini locutus est mulieribus dicens quem quaeritis an Jesum quaeritis iam surrexit venite et videte alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Cdm">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R Cdm"> Ecce praecedet vos</rdg>
+            <rdg wit="CAO-G CAO-M CAO-V CAO-D CAO-F CAO-S"> Ecce praecedit vos</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Cdm"> in Ga1ilaeam</rdg>
+            <rdg wit="CAO-V"> in Galilea</rdg>
+         </app> ibi eum videbitis
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> sicut dixit vobis</rdg>
+            <rdg wit="CAO-V Cdm"> sicut dixi vobis</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L Hyd"> Jesum quaeritis Nazarenum crucifixum surrexit non est hic</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-F CAO-S CAO-L">Venite</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-R CAO-D Hyd Cdm"> Iam</rep>
+   </verses>
+</res>

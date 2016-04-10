@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6127" nextid="c6129" id="c6128">
+   <header>
+      <usage ms="Alb2" code="01011000">[2r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="01011000">[9r] matins-n1-r2</usage>
+      <usage ms="Ely" code="01011000">[2v] matins-n1-r2</usage>
+      <usage ms="Evm" code="01011000">[4v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="01011000">[1v] matins-n1-r2</usage>
+      <usage ms="Mch" code="01011000">[1v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="01011000">[41v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely"> Aspiciebam in visu noctis et ecce in nubibus caeli filius hominis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely"> venit</rdg>
+         <rdg wit="CAO-M"> veniet</rdg>
+      </app> et datum est ei regnum et honor
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Wcb"> et omnis populus</rdg>
+         <rdg wit="Hyd Ely"> et omnis populi</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> et omnes populi</rdg>
+      </app> tribus et linguae servient ei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D"> Ecce dominator dominus cum virtute veniet</vBody>
+      <vBody type="r" wit="CAO-G CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely"> Potestas eius potestas aeterna quae non auferetur
+      <app>
+            <rdg wit="CAO-G CAO-D CAO-F Hyd Alb2 Evm Mch Cdm Wcb Ely"> et regnum eius</rdg>
+            <rdg wit="CAO-V"> et regnum in manu eius</rdg>
+            <rdg wit="CAO-S"> et regnum</rdg>
+         </app> quod non corrumpetur</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-D CAO-G CAO-V CAO-F CAO-S Hyd Alb2 Evm Mch Wcb Ely">Et datum</rep>
+      <rep type="r" wit="CAO-D Cdm"> Et omnis</rep>
+      <rep type="r" wit="CAO-R">Et omnes</rep>
+   </verses>
+</res>

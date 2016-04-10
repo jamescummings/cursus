@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9533" nextid="c9535" id="c9534">
+   <header>
+      <usage ms="Evm" code="02010100">[60v] matins-n3-r9</usage>
+      <usage ms="Wcb" code="02010100">[66v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="Evm Wcb"> Speciosus forma prae filium hominum diffusa est gratia in labiis tuis propterea benedixit te deus in aeternum</rBody>
+   <verses>
+      <vBody type="r" wit="Evm Wcb"> Dilexisti autem iustitiam et odisti iniquitatem</vBody>
+      <rep type="r" wit="Evm Wcb"> Propterea</rep>
+   </verses>
+</res>

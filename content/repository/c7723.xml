@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7722" nextid="c7724" id="c7723">
+   <header>
+      <usage ms="Hyd" code="10900000">matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Super muros tuos Jerusalem constitui custodes tota die et nocte non tacebunt laudare nomen domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Hyd"> Qui reminiscimini domini</rdg>
+            <rdg wit="CAO-V"> Qui reminiscimini domino</rdg>
+            <rdg wit="CAO-M"> Qui reminiscimini domine</rdg>
+         </app> ne taceatis et ne detis
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Hyd"> silentium ei</rdg>
+            <rdg wit="CAO-V"> scilentium ei</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Praedicabunt populis fortitudinem meam et annuntiabunt gentibus gloriam meam</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Tota die</rep>
+   </verses>
+</res>

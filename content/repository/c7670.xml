@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7669" nextid="c7671" id="c7670">
+   <rBody wit="CAO-D CAO-F CAO-S"> Similitudo aspectus animalium ut carbonum ignis ardentium et velut aspectus lampadarum ubi erat spiritus impetus
+     <app>
+         <rdg wit="CAO-F CAO-S"> illuc</rdg>
+         <rdg wit="CAO-D"> illic</rdg>
+      </app> gradiebantur cum ambularent</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-F CAO-S"> Et unumquodque eorum</rdg>
+            <rdg wit="CAO-D"> Et unumquoque eorum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D"> ambulabant ante facies suas</rdg>
+            <rdg wit="CAO-F"> ambulabat ante faciem suam</rdg>
+            <rdg wit="CAO-S"> ambulabat iuxta facies suas</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Ubi</rep>
+   </verses>
+</res>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6624" nextid="c6626" id="c6625">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ego autem
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-D CAO-L"> adiuvata a domino</rdg>
+         <rdg wit="CAO-G CAO-B CAO-R"> adiuta a domino</rdg>
+         <rdg wit="CAO-V CAO-F CAO-S"> adiuvata domino</rdg>
+      </app> perseverabo in confessione eius qui me salvam fecit et
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> consolatus est</rdg>
+         <rdg wit="CAO-S"> consolatus es</rdg>
+      </app> me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-D CAO-F CAO-S"> Gratias tibi ago
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-M CAO-H CAO-D CAO-F CAO-S"> domine Jesu Christe</rdg>
+            <rdg wit="CAO-B"> domine</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-D CAO-S"> qui</rdg>
+            <rdg wit="CAO-G"> quia</rdg>
+            <rdg wit="CAO-B CAO-H"> quia memor es mei et</rdg>
+            <rdg wit="CAO-F">
+               <add resp="Hesbert" hand="later"> quia memor es mei et</add>
+            </rdg>
+         </app> misisti ad me apostolum tuum</vBody>
+      <vBody type="r" wit="CAO-M CAO-V CAO-R"> Medicinam carnalem corpori meo numquam exhibui sed habeo dominum Jesum Christum</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Mens mea solidata est et in Christo fundata</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Qui me</rep>
+   </verses>
+</res>

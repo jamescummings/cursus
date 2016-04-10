@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6288" nextid="c6289a" id="c6289">
+   <rBody wit="CAO-C CAO-E CAO-V"> Cives apostolorum et domestici Dei advenerunt hodie portantes pacem
+      <app>
+         <rdg wit="CAO-C"> illuminantes patrias</rdg>
+         <rdg wit="CAO-V"> illuminantes patriam</rdg>
+         <rdg wit="CAO-E"> et illuminantes patriam</rdg>
+      </app> dare pacem gentibus et liberare populum domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum</vBody>
+      <rep type="r" wit="CAO-E CAO-V">Dare</rep>
+   </verses>
+</res>

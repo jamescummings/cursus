@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2203" nextid="c2205" id="c2204">
+   <header>
+      <usage ms="Alb2" code="01026000">[11r] lauds gosp</usage>
+      <usage ms="Bat" code="01026000">[8r] lauds gosp</usage>
+      <usage ms="Cdm" code="01026000">[14r] lauds gosp</usage>
+      <usage ms="Ely" code="01011000">[3r] matins-n3</usage>
+      <usage ms="Evm" code="01026000">[15v] lauds gosp</usage>
+      <usage ms="Glo" code="01026000">[13v] lauds gosp</usage>
+      <usage ms="Hyd" code="01026000">[9v] lauds gosp</usage>
+      <usage ms="Mch" code="01026000">[9v] lauds gosp</usage>
+      <usage ms="Wcb" code="01026000">[45v] lauds gosp</usage>
+      <usage ms="Wor" code="01026000">[6v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat"> Dicite pusillanimes confortamini</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R"> Dicite pusillanimis confortamini</rdg>
+      </app> ecce dominus deus noster veniet</aBody>
+</ant>

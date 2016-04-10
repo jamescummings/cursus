@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4751b" nextid="c4753" id="c4752">
+   <aBody wit="CAO-R CAO-D CAO-F CAO-S CAO-L"> Sanctissime confessor domini monachorum pater et dux Benedicte intercede
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> pro nostra omniumque salute</rdg>
+         <rdg wit="CAO-R"> pro nostra omnium salute</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-F" num="2"> Sanctissime confessor domini monachorum pater et dux Maure intercede pro nostra omniumque salute</aBody>
+</ant>

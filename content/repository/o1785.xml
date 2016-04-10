@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1784" nextid="o1786" id="o1785">
+   <header>
+      <usage ms="Cdm" code="01037000">[17v] sext</usage>
+      <usage ms="Mch" code="01037000">[16v] nones</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.799</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Mch Cdm">
+      <app>
+         <rdg wit="Mch"> Indignos nos quaesumus domine famulos tuos</rdg>
+         <rdg wit="Cdm"> Indignos nos famulos tuos quaesumus domine</rdg>
+      </app>
+      <app>
+         <rdg wit="Mch"> quod</rdg>
+         <rdg wit="Cdm"> quos</rdg>
+      </app> actionis proprie culpa contristat unigeniti filii tui adventu laetifica</pBody>
+</prayer>

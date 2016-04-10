@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6485" nextid="c6487" id="c6486">
+   <rBody wit="CAO-C CAO-E">
+      <app>
+         <rdg wit="CAO-E"> Doctrinam sapientiae</rdg>
+         <rdg wit="CAO-C"> Doctrina sapientiae</rdg>
+      </app> dedi in corde tuo dicit dominus et exaudivi te
+      <app>
+         <rdg wit="CAO-C"> ut protegam civitatem istam</rdg>
+         <rdg wit="CAO-E"> ut protegas gregem istum</rdg>
+      </app> et sit pax in diebus tuis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Elegisti domine principem et iudicem populo tuo in civitate tua</vBody>
+      <rep type="r" wit="CAO-C"> Et exaudivi</rep>
+      <rep type="r" wit="CAO-E"> Et <sic resp="Hesbert">exaudita</sic>
+      </rep>
+   </verses>
+</res>

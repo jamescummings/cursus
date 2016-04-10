@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1704" nextid="o1706" id="o1705">
+   <header>
+      <usage ms="Cdm" code="07011000">[58r] nones</usage>
+      <usage ms="Mch" code="07011000">[116v] nones</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm Mch">
+      <app>
+         <rdg wit="Cdm"> Adesto quaesumus domine</rdg>
+         <rdg wit="Mch"> Adesto domine quaesumus</rdg>
+      </app> supplicationibus nostris<app>
+         <rdg wit="Cdm"> et in misericordia tua confidentes</rdg>
+         <rdg wit="Mch"> et in tua misericordia confidentes</rdg>
+      </app> ab omni nos adversitate custodi</pBody>
+</prayer>

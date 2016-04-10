@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1410" nextid="c1412" id="c1411">
+   <aBody wit="CAO-B CAO-M CAO-R CAO-F CAO-S CAO-L"> Angelus domini astitit et lumen refulsit in habitaculo carceris percussoque latere Petri
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-F CAO-S CAO-L"> excitavit eum dicens</rdg>
+         <rdg wit="CAO-M"> suscitavit eum dicens</rdg>
+      </app> surge velociter
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-R"> et ceciderunt catenae</rdg>
+         <rdg wit="CAO-F CAO-S CAO-L"> et continuo ceciderunt catenae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-S CAO-B CAO-M CAO-R"> de manibus eius</rdg>
+         <rdg wit="CAO-F CAO-L"> de manibus eius alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

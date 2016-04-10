@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5026" nextid="c5028" id="c5027">
+   <header>
+      <usage ms="Bat" code="02122600">[19v] matins-n3</usage>
+      <usage ms="Cdm" code="02122600">[25r] matins-n3</usage>
+      <usage ms="Hyd" code="02122600"/>
+      <usage ms="Pet" code="02122600">[22r] matins-n2-a11</usage>
+      <usage ms="Wor" code="02122600">[17v] matins-n2-a12</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Bat Cdm Wor Pet"> Stephanus servus dei quem lapidabant Judaei vidit caelos apertos vidit et introivit
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-F Hyd Bat Cdm Wor Pet"> beatus homo cui caeli patebant</rdg>
+         <rdg wit="CAO-C CAO-S"> beatus homo cui caeli patebunt</rdg>
+         <rdg wit="CAO-E"> beatus homo ille cui caeli patebant</rdg>
+         <rdg wit="CAO-H CAO-R CAO-L"> beatus homo ille cui caeli patebunt</rdg>
+      </app>
+   </aBody>
+</ant>

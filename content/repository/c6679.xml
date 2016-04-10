@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6678" nextid="c6680" id="c6679">
+   <rBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-L"> Ex eius tumbae marmore</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F"> Ex eius tumba marmorea</rdg>
+         <rdg wit="CAO-S"> Ex eius tumbae marmoreae</rdg>
+      </app> sacrum
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-L"> resudat</rdg>
+         <rdg wit="CAO-S"> resudet</rdg>
+      </app> oleum quo liniti
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-L"> sanatur caeci</rdg>
+         <rdg wit="CAO-S"> sanatur caecis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S"> surdis auditus redditur</rdg>
+         <rdg wit="CAO-L"> surdis auditum redditur</rdg>
+      </app> et debilis quisque sospes
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-S CAO-L"> resiliet</rdg>
+         <rdg wit="CAO-B"> resiliit</rdg>
+         <rdg wit="CAO-D CAO-F"> regreditur</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Catervatim ruunt populi cernere cupientes quae per
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-D CAO-F CAO-L"> eum</rdg>
+            <rdg wit="CAO-R CAO-S"> eius</rdg>
+         </app> fiunt mirabilia</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-R CAO-S CAO-L"> Et debilis</rep>
+      <rep type="r" wit="CAO-D CAO-F"> Surdis</rep>
+      <prosula wit="CAO-F">
+         <l part="N">Sospitati reddit aegros olei perfusio</l>
+         <l part="N">Nicolaus naufragantum affuit praesidio</l>
+         <l part="N">Revelatur a defunctis defunctus in bivio</l>
+         <l part="N">Baptizatur auri viso Judaeus indicio</l>
+         <l part="N">Vas in mare mersum patri redditur cum filio</l>
+         <l part="N">O quam sanctum Dei probat farris augmentatio</l>
+         <l part="N">Laudans ergo Nicolaum concinat haec concio</l>
+         <l part="N">Nam qui corde quaerit illum propulsato vitio</l>
+         <l part="N">Sospes regreditur</l>
+      </prosula>
+   </verses>
+</res>

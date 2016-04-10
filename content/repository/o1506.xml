@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1505" nextid="o1507" id="o1506">
+   <header>
+      <usage ms="Alb2" code="07015000"/>
+      <usage ms="Cdm" code="07015000">[59v] lauds</usage>
+      <usage ms="Cht" code="07015000"/>
+      <usage ms="Ely" code="07015000"/>
+      <usage ms="Hyd" code="07015000"/>
+      <usage ms="Mch" code="07015000">[120r] lauds</usage>
+      <usage ms="Wcb" code="07015000"/>
+   </header>
+   <pBody wit="Ely Hyd Cht Wcb Alb2 Cdm Mch"> Omnipotens sempiterne deus
+     <app>
+         <rdg wit="Ely Hyd Cht Wcb Alb2 Mch"> qui nobis in observatione ieiunii</rdg>
+         <rdg wit="Cdm"> qui in observatione ieiunii</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely"> et eleemosinarum <gap extent="one word"/>
+         </rdg>
+         <rdg wit="Hyd Cht Wcb Mch"> et eleemosinarum semine</rdg>
+         <rdg wit="Alb2 Cdm"> et eleemosinarum largitione</rdg>
+      </app> posuisti nostrorum remedia peccatorum concede nos
+     <app>
+         <rdg wit="Ely Hyd Cht"> opere meritis et corporis</rdg>
+         <rdg wit="Wcb"> merite et corpore</rdg>
+         <rdg wit="Alb2 Cdm Mch"> mente et corpore</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Hyd Mch"> semper esse tibi devotos</rdg>
+         <rdg wit="Cht Wcb Alb2 Cdm"> semper tibi esse devotos</rdg>
+      </app>
+   </pBody>
+</prayer>

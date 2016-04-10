@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4943" nextid="c4945" id="c4944">
+   <header>
+      <usage ms="Alb2" code="07045000">[96v] vesp2</usage>
+      <usage ms="Cdm" code="07045000">[69v] vesp2</usage>
+      <usage ms="Cht" code="07045000">[45r] vesp2</usage>
+      <usage ms="Ely" code="07045000">[79v] vesp2</usage>
+      <usage ms="Evm" code="07045000">[131v] vesp2</usage>
+      <usage ms="Glo" code="07045000">[68v] </usage>
+      <usage ms="Hyd" code="07045000">[84v] vesp2</usage>
+      <usage ms="Mch" code="07045000">[142r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07045000"/>
+      <usage ms="Wcb" code="07045000"/>
+      <usage ms="Wor" code="07045000"/>
+   </header>
+   <aBody wit="CAO-F Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Sicut pater suscitat mortuos et vivificat sic et filius quos vult vivificat</aBody>
+</ant>

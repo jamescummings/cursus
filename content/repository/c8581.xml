@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8580" nextid="c8582" id="c8581">
+   <header>
+      <usage ms="Alb2" code="02122800">[38r] matins-n2-a11</usage>
+      <usage ms="Bat" code="02122800">[23r] matins-n2-a11</usage>
+      <usage ms="Cdm" code="02122800">[28v] matins-n2-a11</usage>
+      <usage ms="Evm" code="02122800">[47r] matins-n2-a11</usage>
+      <usage ms="Hyd" code="02122800">[26v] matins-n2-a12</usage>
+      <usage ms="Pet" code="02122800">[29v] matins-n2-a10</usage>
+      <usage ms="Wor" code="02122800">[22r] matins-n2-a10</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">An expanded version of c5039</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Hyd Alb2 Evm Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="Alb2 Evm Bat Cdm Wor Pet"> Sub altare dei</rdg>
+         <rdg wit="Hyd"> Sub throno dei</rdg>
+      </app> clamabant sancti dei vindica sanguinem nostrum et acceperunt divinum responsum adhuc sustinete modicum tempus dicit dominus donec impleatur numerus fratrum vestorum</aBody>
+</ant>

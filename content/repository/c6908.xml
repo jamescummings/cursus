@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6907" nextid="c6909" id="c6908">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L"> In isto loco</rdg>
+         <rdg wit="CAO-V CAO-D"> In illo loco</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L"> promissio vera est</rdg>
+         <rdg wit="CAO-G CAO-V"> promissio verax est</rdg>
+      </app> et peccatorum remissio splendor et lux perpetua et sine fine
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L"> laetitia</rdg>
+         <rdg wit="CAO-V"> laetitiae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R"> quam meruit</rdg>
+         <rdg wit="CAO-L"> quae meruit</rdg>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-S">quod meruit</rdg>
+      </app> Christi martyr Sebastianus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-S CAO-L"> Nolite timere non separabuntur a vobis sed vadunt
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-L"> in caelum</rdg>
+            <rdg wit="CAO-S"> in caelis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-L"> parare vobis</rdg>
+            <rdg wit="CAO-S"> praeparare vobis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-H CAO-R CAO-S"> sidereas mansiones</rdg>
+            <rdg wit="CAO-L"> syderias mansiones</rdg>
+            <rdg wit="CAO-G CAO-E CAO-V"> desideratas mansiones</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-B CAO-D"> In circuitu tuo domine lumen est quod numquam deficiet
+       <app>
+            <rdg wit="CAO-D"> et ubi requiescunt animae sanctorum</rdg>
+            <rdg wit="CAO-B"> ubi constituisti lucidissimam mansionem</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B">Quam</rep>
+      <rep type="r" wit="CAO-D">
+         <sic resp="Hesbert">Quem</sic>
+      </rep>
+      <rep type="r" wit="CAO-E CAO-V CAO-S">Quod</rep>
+      <rep type="r" wit="CAO-H CAO-R">
+         <sic resp="Hesbert">Quod</sic>
+      </rep>
+      <rep type="r" wit="CAO-L">Quae</rep>
+   </verses>
+</res>

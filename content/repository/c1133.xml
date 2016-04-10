@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1132" nextid="c1134" id="c1133">
+   <aBody wit="CAO-M CAO-V"> Regem iustum
+     <app>
+         <rdg wit="CAO-V"> levita beatus</rdg>
+         <rdg wit="CAO-M"> levita beatus es</rdg>
+      </app> in craticula deum non <corr sic="negavi" resp="Hesbert">negavit</corr>
+      <app>
+         <rdg wit="CAO-M"> venite adoremus</rdg>
+         <rdg wit="CAO-V"> beatus <name reg="Laurentius" type="saint">Laurentius</name>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

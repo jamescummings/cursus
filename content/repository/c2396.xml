@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2395" nextid="c2397" id="c2396">
+   <header>
+      <usage ms="Alb2" code="02122600">[31v] matins-n2-a9</usage>
+      <usage ms="Bat" code="02122600">[19r] matins-n2-a9</usage>
+      <usage ms="Cdm" code="02122600">[24v] matins-n2-a9</usage>
+      <usage ms="Evm" code="02122600">[39v] matins-n2-a9</usage>
+      <usage ms="Hyd" code="02122600">[22v] matins-n2-a9</usage>
+      <usage ms="Pet" code="02122600">[21v] matins-n2-a9</usage>
+      <usage ms="Wor" code="02122600">[17v] matins-n2-a9</usage>
+   </header>
+   <aBody wit="CAO-G CAO-S Alb2 Bat Evm Hyd Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-S Alb2 Bat Evm Cdm Wor Pet"> Domine virtus et laetitia rectorum</rdg>
+         <rdg wit="Hyd"> Domine virtus et laetitia iustorum</rdg>
+      </app> quoniam tu praevenisti dilectum tibi Stephanum dono gratuitae benedictionis
+     <app>
+         <rdg wit="CAO-G CAO-S Bat Evm Pet"> te primum secutus est</rdg>
+         <rdg wit="Alb2 Hyd Cdm Wor"> te primus secutus est</rdg>
+      </app> morte gloriosae passionis unde cum corona martyrii dedisti ei vitam in saeculum saeculi</aBody>
+</ant>

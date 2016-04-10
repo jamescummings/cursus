@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6183" nextid="c6185" id="c6184">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatissimae virginis Mariae nativitatem devotissime celebremus ut
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ipsa</rdg>
+         <rdg wit="CAO-V"> ipsam</rdg>
+         <rdg wit="CAO-E">
+            <corr sic="ipsam">ipsa</corr>
+         </rdg>
+      </app> pro nobis intercedat
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> ad dominum Jesum Christum</rdg>
+         <rdg wit="CAO-E CAO-S"> ad dominum Deum nostrum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R"> Hodie nata est
+       <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R"> beata virgo Maria</rdg>
+            <rdg wit="CAO-C"> virgo Maria</rdg>
+         </app> ex progenie David</vBody>
+      <vBody type="r" wit="CAO-E CAO-F"> Cum iucunditate nativitatem
+       <app>
+            <rdg wit="CAO-E CAO-F"> beatae Mariae</rdg>
+            <rdg wit="CAO-F"> sanctae Mariae</rdg>
+         </app> celebremus</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Dignum namque est ut ei summa cum devotione famulemur per quam
+       <app>
+            <rdg wit="CAO-S"> nobis</rdg>
+            <rdg wit="CAO-L" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> virginitatis insignia pullularunt</vBody>
+      <vBody type="r" wit="CAO-M CAO-D"> Gloriosae virginis Mariae ortum dignissimums recolamus</vBody>
+      <rep type="r" wit="CAO-V">Ut ipsam</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Ut ipsa</rep>
+   </verses>
+</res>

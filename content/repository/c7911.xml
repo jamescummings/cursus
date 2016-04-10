@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7910" nextid="c7911b" id="c7911">
+   <header>
+      <usage ms="Evm" code="06031000">[100v] matins-n3-r9</usage>
+      <usage ms="Mch" code="06034000">[109r] matins-r1</usage>
+      <usage ms="Wcb" code="06031000">[90r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F Evm Wcb Mch"> Vocavit angelus domini Abraham de caelo dicens benedicam tibi et multiplicabo te sicut stellas caeli</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-H CAO-R CAO-F Evm Wcb Mch">
+         <app>
+            <rdg wit="CAO-C CAO-F Wcb"> Et benedicentur in semine tuo omnes gentes terrae</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R Mch"> Et benedicentur in te omnes tribus terrae</rdg>
+            <rdg wit="Evm"> Et benedicentur in semine tuo omnes tribus terrae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-F Evm Wcb Mch"> quia oboedisti voci meae</rdg>
+            <rdg wit="CAO-R"> eo quod oboedisti voci meae</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E"> Benedicens benedicam tibi eo quod oboedisti voci meae</vBody>
+      <vBody type="r" wit="CAO-V"> Benedicens</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-H CAO-R Evm Mch">Et multiplicabo te</rep>
+      <rep type="r" wit="CAO-F Wcb">Benedicam</rep>
+      <rep type="r" wit="CAO-V">Sicut stellas</rep>
+   </verses>
+</res>

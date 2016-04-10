@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7857" nextid="c7859" id="c7858">
+   <header>
+      <usage ms="Alb2" code="07031000">[88r] matins-n1-r4</usage>
+      <usage ms="Bat" code="07031000">[53v] matins-n1-r3</usage>
+      <usage ms="Cdm" code="07031000">[64r] matins-n1-r3</usage>
+      <usage ms="Ely" code="07031000">[74r] matins-n1-r3</usage>
+      <usage ms="Evm" code="07031000">[121r] matins-n2-r5</usage>
+      <usage ms="Hyd" code="07031000">[78r] matins-n1-r3</usage>
+      <usage ms="Mch" code="07031000">[129v] matins-n1-r4</usage>
+      <usage ms="Pet" code="07031000">[71v] matins-r3</usage>
+      <usage ms="Wcb" code="07031000">[100v] matins-n1-r4</usage>
+      <usage ms="Wor" code="07031000">[48r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Evm Wcb Alb2 Cdm Mch Bat"> Videns Jacob vestimenta Joseph scidit vestimenta sua cum fletu
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Hyd Evm Wcb Alb2 Mch Bat"> et dixit</rdg>
+         <rdg wit="CAO-G Ely Cdm">et ait</rdg>
+      </app> fera pessima devoravit filium meum Joseph</rBody>
+   <rBody wit="Pet"> Videns Jacob vestimenta Jo<gap reason="torn corner of folio" resp="DC"/> scidit vestimenta sua cum fletu et dixit <gap reason="torn corner of folio" resp="DC"/> pessima devoravit filium meum Joseph</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Wor Evm Wcb Alb2 Cdm Bat">Vide si tunica filii tui sit an non et cum vidisset pater ait</vBody>
+      <vBody type="r" num="2" wit="Evm">Congregatis autem cunctis liberis eius ut delinirent dolorem patris noluit eos audire sed dixit</vBody>
+      <vBody type="r" wit="CAO-E CAO-M CAO-D Ely Hyd Mch">Congregatis autem cunctis liberis eius
+      <app>
+            <rdg wit="CAO-E CAO-D Mch">ut delinirent</rdg>
+            <rdg wit="Ely Hyd">ut consolarentur</rdg>
+            <rdg wit="CAO-M">ut leniret</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-M Ely Hyd Mch">dolorem patris</rdg>
+            <rdg wit="CAO-D">dolorem patris eius</rdg>
+         </app>
+      noluit eos audire
+      <app>
+            <rdg wit="CAO-D Ely Hyd Mch">sed dixit</rdg>
+            <rdg wit="CAO-E">sed ait</rdg>
+            <rdg wit="CAO-M">vocavit eos ad se</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="Pet">Congrega<gap reason="torn corner of folio" resp="DC"/> autem cunctis liberis eius ut delinirent dolorem patris noluit <gap reason="torn corner of folio" resp="DC"/>udire sed dixit</vBody>
+      <vBody type="r" wit="CAO-L">Tulerunt autem fratres ipsius tunicam eius mittentes ad patrem quam cum cognovisset pater ait</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">Fera</rep>
+      <dox type="r" wit="Pet">Gloria patri et filio et spiritui sancto</dox>
+   </verses>
+</res>

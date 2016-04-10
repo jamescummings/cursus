@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6119" nextid="c6121" id="c6120">
+   <header>
+      <usage ms="Hyd" code="08065008">vesp2</usage>
+   </header>
+   <rBody wit="CAO-B CAO-V CAO-H CAO-R CAO-S Hyd"> Ascendens Christus in altum alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-S">Captivam duxit captivitatem</rdg>
+            <rdg wit="Hyd">Captivam duxit captivitatem alleluia alleluia</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-S">Alleluia</rep>
+   </verses>
+</res>

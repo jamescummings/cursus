@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1947" nextid="c1949" id="c1948">
+   <header>
+      <usage ms="Alb2" code="07067000">[111v] matins-n2-a5</usage>
+      <usage ms="Cdm" code="07067000">[80r] matins-n2</usage>
+      <usage ms="Ely" code="07067000">[91r] matins-n2</usage>
+      <usage ms="Evm" code="07067000">[153v] matins-n2</usage>
+      <usage ms="Hyd" code="07067000">[97v] matins-n2</usage>
+      <usage ms="Mch" code="07067000">[163r] matins-n2-a5</usage>
+      <usage ms="Pet" code="07067000">[94r] matins-n2</usage>
+      <usage ms="Wcb" code="07067000">[117v] matins-n2</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Credo videre bona domini</rdg>
+         <rdg wit="CAO-S"> Credo videre bona domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> in terra viventium</rdg>
+         <rdg wit="CAO-C"> in terra</rdg>
+      </app>
+   </aBody>
+</ant>

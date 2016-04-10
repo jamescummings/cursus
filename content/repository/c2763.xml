@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2762" nextid="c2763b" id="c2763">
+   <aBody wit="CAO-E CAO-F"> Exaltata est gloriosa semper
+     <app>
+         <rdg wit="CAO-E"> virgo Maria</rdg>
+         <rdg wit="CAO-F"> Maria virgo</rdg>
+      </app> super choros angelorum venite omnes magnificemus Christum regem
+     <app>
+         <rdg wit="CAO-F"> cuius regnum regnum est</rdg>
+         <rdg wit="CAO-E"> cuius regni regnum est</rdg>
+      </app> omnium saeculorum</aBody>
+</ant>

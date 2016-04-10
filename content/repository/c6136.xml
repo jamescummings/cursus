@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6135" nextid="c6137" id="c6136">
+   <rBody wit="CAO-H CAO-R"> Athleta Dei Gallus triduo ieiunavit ut locum quem spiritali militiae providebat parsimoniae initiis consecraret</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R">In oratione quoque
+       <app>
+            <rdg wit="CAO-H"> pernoctavit</rdg>
+            <rdg wit="CAO-R"> pernoctabat</rdg>
+         </app> ut quod divino inchoabat amore</vBody>
+      <rep type="r" wit="CAO-H CAO-R">Parsimoniae</rep>
+   </verses>
+</res>

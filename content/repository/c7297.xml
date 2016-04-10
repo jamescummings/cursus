@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7296" nextid="c7298" id="c7297">
+   <header>
+      <usage ms="Alb2" code="02122500">[25r] matins-n1-r3</usage>
+      <usage ms="Bat" code="02122500">[15v] matins-n1-r3</usage>
+      <usage ms="Cdm" code="02122500">[21v] matins-n1-r3</usage>
+      <usage ms="Ely" code="02122500">[18v] matins-n2-r6</usage>
+      <usage ms="Evm" code="02122500">[35r] matins-n2-r7</usage>
+      <usage ms="Hyd" code="02122500">[18v] matins-n2-r7</usage>
+      <usage ms="Pet" code="02122500">[16v] matins-n2-r7</usage>
+      <usage ms="Wcb" code="02122500">[54v] matins-n2-r7</usage>
+      <usage ms="Wor" code="02122500">[15r] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> O regem caeli cui talia famulantur obsequia
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> stabulo</rdg>
+         <rdg wit="CAO-H CAO-R"> in stabulo</rdg>
+      </app> ponitur qui continet mundum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> iacet</rdg>
+         <rdg wit="CAO-L"> iacuit</rdg>
+      </app> in praesepio
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-R CAO-D Hyd Alb2 Bat Cdm Ely Wor"> et in nubibus tonat</rdg>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-F CAO-S CAO-L Evm Wcb Pet"> et in caelis regnat</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Angelicae auctor naturae in cunabulis involutus pannis in medio duum animalium verbum caro factum</vBody>
+      <vBody type="r" wit="Wor"> Christo stella coruscans famula terrae caelo</vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-H CAO-R CAO-D Alb2 Bat Cdm"> Domine audivi auditum tuum et timui consideravi opera tua et expavi in medio
+      <app>
+            <rdg wit="CAO-R CAO-D Alb2 Bat Cdm"> duum animalium</rdg>
+            <rdg wit="CAO-C CAO-H"> duorum animalium</rdg>
+            <rdg wit="CAO-G"> tuum animalium</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E"> Domine audivi auditum tuum et timui</vBody>
+      <vBody type="r" wit="CAO-B"> Domine audivi auditum tuum</vBody>
+      <vBody type="r" wit="CAO-V"> Domine audivi auditum</vBody>
+      <vBody type="r" wit="CAO-M"> Domine audivi</vBody>
+      <vBody type="r" wit="CAO-L"> Domus pudici pectoris templum repente fit dei intacta nesciens virum verbo concepit filium</vBody>
+      <vBody type="r" wit="Evm Wcb Pet">Ecce agnus dei ecce qui<app>
+            <rdg wit="Evm Wcb"> tollis</rdg>
+            <rdg wit="Pet"> tollit</rdg>
+         </app> peccata mundi</vBody>
+      <vBody type="r" wit="CAO-F Hyd Ely"> Qui caelum terramque regit
+      <app>
+            <rdg wit="CAO-F"> et cuncta gubernat</rdg>
+            <rdg wit="Hyd Ely"> per saecula sola</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Wcb Bat Cdm Ely Wor Pet">Iacet</rep>
+      <rep type="r" wit="CAO-L">Iacuit</rep>
+   </verses>
+</res>

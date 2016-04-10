@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1547" nextid="o1549" id="o1548">
+   <header>
+      <usage ms="Alb2" code="07043000">[96r] vesp2</usage>
+      <usage ms="Cdm" code="07043000">[69r] vesp2</usage>
+      <usage ms="Cht" code="07043000">[44r] vesp2</usage>
+      <usage ms="Ely" code="07043000">[79v] vesp2</usage>
+      <usage ms="Evm" code="07011000" corresp="o1548-1"/>
+      <usage ms="Evm" code="07043000">[131r] lauds</usage>
+      <usage ms="Hyd" code="07043000">[84r] vesp2</usage>
+      <usage ms="Mch" code="07043000">[141r] vesp2</usage>
+      <usage ms="Wcb" code="07043000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.267</note>
+         <note place="unspecified" anchored="yes">readings of o1603 incorporated 02 December 2003</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Ely Cht Hyd Alb2 Cdm Mch"> Miserere domine populo tuo</rdg>
+         <rdg wit="Evm"> Miserere quaesumus domine populo tuo</rdg>
+         <rdg wit="Wcb"> Miserere domine quaesumus populo tuo</rdg>
+      </app> et continuis tribulationibus laborantem propitius respirare concede</pBody>
+   <pBody id="o1548-1" wit="Evm" num="2">Miserere domine populo tuo et continuis tribulationibus laborantem celeri propitiatione laetifica</pBody>
+</prayer>

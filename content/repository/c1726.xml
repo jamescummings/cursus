@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1725" nextid="c1726b" id="c1726">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-D CAO-R Hyd"> Benedictus dominus Sidrach Misach
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-R"> Abdenago</rdg>
+         <rdg wit="CAO-G CAO-E Hyd"> et Abdenago</rdg>
+      </app> qui eruit servos suos
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-H CAO-D CAO-R Hyd"> de camino ignis ardentis</rdg>
+         <rdg wit="CAO-E"> in camino ignis ardentis</rdg>
+      </app> alleluia</aBody>
+</ant>

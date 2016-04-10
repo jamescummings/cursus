@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1713" nextid="o1715" id="o1714">
+   <header>
+      <usage ms="Cdm" code="07021000">[62r] sext</usage>
+      <usage ms="Mch" code="07021000">[124v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm Mch"> Praesta nobis quaesumus domine deus omnipotens ut placatione tuam promptis mentibus exoremus et peccatorum veniam consequentes a noxiis liberemur incursibus</pBody>
+</prayer>

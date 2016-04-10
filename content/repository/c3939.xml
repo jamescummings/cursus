@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3938" nextid="c3940" id="c3939">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-H CAO-R"> Non veritus incredulae gentis experiri feritatem</rdg>
+         <rdg wit="CAO-V CAO-D CAO-F"> Non veritus incredulae gentis expetere feritatem</rdg>
+         <rdg wit="CAO-C"> Non veritus incredulae gentis experiri feditatem</rdg>
+      </app> quia virtutem suam praeteritarum poenarum recordatio roborabat</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Tormentis expertus multis morte tandem assecuturum se vitam sciens</vBody>
+   </verses>
+</ant>

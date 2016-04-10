@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6138" nextid="c6139a" id="c6139">
+   <header>
+      <usage ms="Hyd" code="10100000">matins-n3-r12</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">The form as used by CAO sources in the Historia Regum</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Audi domine hymnum
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et orationem</rdg>
+         <rdg wit="CAO-V"> et oratione</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> quam</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H"> qua</rdg>
+      </app> servus tuus orat coram te
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> hodie</rdg>
+         <rdg wit="CAO-B CAO-L"> domine</rdg>
+      </app> ut sint oculi tui aperti et aures tuae
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> intentae</rdg>
+         <rdg wit="CAO-V"> intende</rdg>
+      </app> super domum istam die ac nocte</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Respice domine
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> de sanctuario tuo et</rdg>
+            <rdg wit="CAO-D" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> de excelso caelorum
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> habitaculo</rdg>
+            <rdg wit="CAO-M"> habitaculum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" num="2" wit="CAO-V"> Qui regis</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Super</rep>
+   </verses>
+</res>

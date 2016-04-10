@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7454" nextid="c7456" id="c7455">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quae est ista
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> quae processit</rdg>
+         <rdg wit="CAO-S"> quae ascendit</rdg>
+      </app> sicut sol et formosa tamquam Jerusalem viderunt eam filiae Sion et beatam dixerunt et reginae laudaverunt eam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-F"> Quae est ista quae ascendit per desertum sicut virgula fumi ex aromatibus myrrhae et thuris</vBody>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V"> Quae est ista quae ascendit</vBody>
+      <vBody type="r" wit="CAO-R"> Quae est ista</vBody>
+      <vBody type="r" wit="CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-L"> Sicut dies verni</rdg>
+            <rdg wit="CAO-S"> Et sicut dies verni</rdg>
+         </app> circumdabant eam flores rosarum et lilia convallium</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-S">Et beatam</rep>
+      <rep type="r" wit="CAO-R CAO-F CAO-L">Viderunt</rep>
+      <rep type="r" wit="CAO-V">Et reginae</rep>
+   </verses>
+</res>

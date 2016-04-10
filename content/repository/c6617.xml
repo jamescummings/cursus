@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6616" nextid="c6618" id="c6617">
+   <header>
+      <usage ms="Evm" code="02122800">[48r] matins-n3-r9</usage>
+      <usage ms="Wcb" code="02122800">[64r] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Evm Wcb"> Ecce vidi agnum stantem supra montem Sion et cum eo sanctorum millia et habebant nomen eius et nomen patris eius scriptum in frontibus suis</rBody>
+   <verses>
+      <vBody type="r" wit="Evm Wcb"> Et nemo poterat dicere canticum nisi illa centum quadraginta quatuor millia qui empti sunt de terra</vBody>
+      <vBody type="r" wit="CAO-B CAO-L">
+         <app>
+            <rdg wit="CAO-B"> Hi sunt</rdg>
+            <rdg wit="CAO-L"> Hii sunt</rdg>
+         </app> qui cum mulieribus non sunt coinquinati virgines enim sunt</vBody>
+      <vBody type="r" wit="CAO-R"> Hi sunt qui cum mulieribus</vBody>
+      <vBody type="r" wit="CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-F"> Hi sunt</rdg>
+            <rdg wit="CAO-D"> Hii sunt</rdg>
+         </app> qui tollentes crucem suam sequuntur agnum ubique</vBody>
+      <vBody type="r" wit="CAO-H"> Hi empti sunt ex hominibus primitiae deo et agno</vBody>
+      <vBody type="r" wit="CAO-C"> In excelso throno vidi sedere virum</vBody>
+      <vBody type="r" wit="CAO-S"> Quatuor animalia viginti quatuor seniores ceciderunt coram agno habentes singuli cytharas et phialas aureas</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Evm Wcb">Et habebant</rep>
+      <rep type="r" wit="CAO-L">Et nomen</rep>
+   </verses>
+</res>

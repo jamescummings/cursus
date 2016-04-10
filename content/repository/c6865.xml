@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6864" nextid="c6866" id="c6865">
+   <header>
+      <usage ms="Alb2" code="02122400">[23v] </usage>
+      <usage ms="Evm" code="02122400">[31v] lauds</usage>
+      <usage ms="Mch" code="02122400">[23r] lauds</usage>
+      <usage ms="Wcb" code="02122400">[52v] lauds</usage>
+   </header>
+   <rBody wit="CAO-B CAO-R CAO-S CAO-L Alb2 Evm Wcb Mch"> Hodie scietis quia veniet dominus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R CAO-S CAO-L Alb2 Evm Wcb Mch"> Et mane videbitis gloriam eius</vBody>
+      <dox type="r" wit="Alb2 Evm">Gloria</dox>
+      <rep type="r" wit="CAO-B"> Quia</rep>
+   </verses>
+</res>

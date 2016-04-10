@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3698" nextid="c3700" id="c3699">
+   <aBody wit="CAO-C CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-R CAO-S CAO-L"> Maria ergo unxit pedes Jesu</rdg>
+         <rdg wit="CAO-F"> Maria autem unxit pedes Jesu</rdg>
+         <rdg wit="CAO-C"> Maria autem unxit pedes Jesum</rdg>
+      </app> et extersit capillis suis et domus impleta est
+     <app>
+         <rdg wit="CAO-C CAO-R CAO-L"> ex odore unguenti</rdg>
+         <rdg wit="CAO-F CAO-S"> ex odore ungenti</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-F"> Dimissa sunt ei pec<supplied>cata</supplied>
+      </vBody>
+   </verses>
+</ant>

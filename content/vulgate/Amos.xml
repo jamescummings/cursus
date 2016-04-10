@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Amos">
+<body>
+  <rubric type="bible-incipit" id="B.Amos.incipit.001">
+    <reference>
+      <bookName>Amos</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AMOS PROPHETA</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Amos.001.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>verba Amos qui fuit in pastoralibus de Thecuae quae vidit super Israhel in diebus Oziae regis Iuda et in diebus Hieroboam filii Ioas regis Israhel ante duos annos terraemotus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>et dixit Dominus de Sion rugiet et de Hierusalem dabit vocem suam et luxerunt speciosa pastorum et exsiccatus est vertex Carmeli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>haec dicit Dominus super tribus sceleribus Damasci et super quattuor non convertam eum eo quod trituraverint in plaustris ferreis Galaad</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>et mittam ignem in domum Azahel et devorabit domos Benadad</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>et conteram vectem Damasci et disperdam habitatorem de campo Idoli et tenentem sceptrum de domo Voluptatis et transferetur populus Syriae Cyrenen dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>haec dicit Dominus super tribus sceleribus Gazae et super quattuor non convertam eum eo quod transtulerit captivitatem perfectam ut concluderet eam in Idumea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>et mittam ignem in murum Gazae et devorabit aedes eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>et disperdam habitatorem de Azoto et tenentem sceptrum de Ascalone et convertam manum meam super Accaron et peribunt reliqui Philisthinorum dicit Dominus Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>haec dicit Dominus super tribus sceleribus Tyri et super quattuor non convertam eum eo quod concluserint captivitatem perfectam in Idumea et non sint recordati foederis fratrum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>et emittam ignem in murum Tyri et devorabit aedes eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>haec dicit Dominus super tribus sceleribus Edom et super quattuor non convertam eum eo quod persecutus sit in gladio fratrem suum et violaverit misericordiam eius et tenuerit ultra furorem suum et indignationem suam servaverit usque in finem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>mittam ignem in Theman et devorabit aedes Bosrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>haec dicit Dominus super tribus sceleribus filiorum Ammon et super quattuor non convertam eum eo quod dissecuerit praegnantes Galaad ad dilatandum terminum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.014">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>et succendam ignem in muro Rabbae et devorabit aedes eius in ululatu in die belli et in turbine in die commotionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.001.015">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>et ibit Melchom in captivitatem ipse et principes eius simul dicit Dominus</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Amos.002.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>haec dicit Dominus super tribus sceleribus Moab et super quattuor non convertam eum eo quod incenderit ossa regis Idumeae usque ad cinerem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>et mittam ignem in Moab et devorabit aedes Carioth et morietur in sonitu Moab in clangore tubae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>et disperdam iudicem de medio eius et omnes principes eius interficiam cum eo dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>haec dicit Dominus super tribus sceleribus Iuda et super quattuor non convertam eum eo quod abiecerint legem Domini et mandata eius non custodierint deceperunt enim eos idola sua post quae abierant patres eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>et mittam ignem in Iuda et devorabit aedes Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>haec dicit Dominus super tribus sceleribus Israhel et super quattuor non convertam eum pro eo quod vendiderit argento iustum et pauperem pro calciamentis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>qui conterunt super pulverem terrae capita pauperum et viam humilium declinant et filius ac pater eius ierunt ad puellam ut violarent nomen sanctum meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>et super vestimentis pigneratis accubuerunt iuxta omne altare et vinum damnatorum bibebant in domo Dei sui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>ego autem exterminavi Amorreum a facie eorum cuius altitudo cedrorum altitudo eius et fortis ipse quasi quercus et contrivi fructum eius desuper et radices eius subter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>ego sum qui ascendere vos feci de terra Aegypti et eduxi vos in deserto quadraginta annis ut possideretis terram Amorrei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>et suscitavi de filiis vestris in prophetas et de iuvenibus vestris nazarenos numquid non ita est filii Israhel dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>et propinabatis nazarenis vino et prophetis mandabatis dicentes ne prophetetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>ecce ego stridebo super vos sicut stridet plaustrum onustum faeno</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.014">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>et peribit fuga a veloce et fortis non obtinebit virtutem suam et robustus non salvabit animam suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.015">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>et tenens arcum non stabit et velox pedibus suis non salvabitur et ascensor equi non salvabit animam suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.002.016">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>et robustus corde inter fortes nudus fugiet in die illa dicit Dominus</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Amos.003.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>audite verbum quod locutus est Dominus super vos filii Israhel super omni cognatione quam eduxi de terra Aegypti dicens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>tantummodo vos cognovi ex omnibus cognationibus terrae idcirco visitabo super vos omnes iniquitates vestras</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>numquid ambulabunt duo pariter nisi convenerit eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>numquid rugiet leo in saltu nisi habuerit praedam numquid dabit catulus leonis vocem de cubili suo nisi aliquid adprehenderit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>numquid cadet avis in laqueum terrae absque aucupe numquid auferetur laqueus de terra antequam quid ceperit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>si clanget tuba in civitate et populus non expavescet si erit malum in civitate quod Dominus non fecit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>quia non faciet Dominus Deus verbum nisi revelaverit secretum suum ad servos suos prophetas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>leo rugiet quis non timebit Dominus Deus locutus est quis non prophetabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>auditum facite in aedibus Azoti et in aedibus terrae Aegypti et dicite congregamini super montes Samariae et videte insanias multas in medio eius et calumniam patientes in penetrabilibus eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>et nescierunt facere rectum dicit Dominus thesaurizantes iniquitatem et rapinas in aedibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>propterea haec dicit Dominus Deus tribulabitur et circumietur terra et detrahetur ex te fortitudo tua et diripientur aedes tuae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>haec dicit Dominus quomodo si eruat pastor de ore leonis duo crura aut extremum auriculae sic eruentur filii Israhel qui habitant in Samaria in plaga lectuli et in Damasco grabatti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>audite et contestamini in domo Iacob dicit Dominus Deus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.014">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>quia in die cum visitare coepero praevaricationes Israhel super eum visitabo et super altaria Bethel et amputabuntur cornua altaris et cadent in terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.003.015">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>et percutiam domum hiemalem cum domo aestiva et peribunt domus eburneae et dissipabuntur aedes multae dicit Dominus</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Amos.004.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>audite verbum hoc vaccae pingues quae estis in monte Samariae quae calumniam facitis egenis et confringitis pauperes quae dicitis dominis vestris adferte et bibemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>iuravit Dominus Deus in sancto suo quia ecce dies venient super vos et levabunt vos in contis et reliquias vestras in ollis ferventibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>et per aperturas exibitis altera contra alteram et proiciemini in Armon dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>venite ad Bethel et impie agite ad Galgalam et multiplicate praevaricationem et offerte mane victimas vestras tribus diebus decimas vestras</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>et sacrificate de fermentato laudem et vocate voluntarias oblationes et adnuntiate sic enim voluistis filii Israhel dicit Dominus Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>unde et ego dedi vobis stuporem dentium in cunctis urbibus vestris et indigentiam panum in omnibus locis vestris et non estis reversi ad me dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>ego quoque prohibui a vobis imbrem cum adhuc tres menses superessent usque ad messem et plui super civitatem unam et super civitatem alteram non plui pars una conpluta est et pars super quam non plui aruit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>et venerunt duae et tres civitates ad civitatem unam ut biberent aquam et non sunt satiatae et non redistis ad me dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>percussi vos in vento urente et in aurugine multitudinem hortorum vestrorum et vinearum vestrarum oliveta vestra et ficeta vestra comedit eruca et non redistis ad me dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>misi in vos mortem in via Aegypti percussi in gladio iuvenes vestros usque ad captivitatem equorum vestrorum et ascendere feci putredinem castrorum vestrorum in nares vestras et non redistis ad me dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>subverti vos sicut subvertit Deus Sodomam et Gomorram et facti estis quasi torris raptus de incendio et non redistis ad me dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>quapropter haec faciam tibi Israhel postquam autem haec fecero tibi praeparare in occursum Dei tui Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.004.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>quia ecce formans montes et creans ventum et adnuntians homini eloquium suum faciens matutinam nebulam et gradiens super excelsa terrae Dominus Deus exercituum nomen eius</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Amos.005.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>audite verbum istud quod ego levo super vos planctum domus Israhel cecidit non adiciet ut resurgat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>virgo Israhel proiecta est in terram suam non est qui suscitet eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>quia haec dicit Dominus Deus urbs de qua egrediebantur mille relinquentur in ea centum et de qua egrediebantur centum relinquentur in ea decem in domo Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>quia haec dicit Dominus domui Israhel quaerite me et vivetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>et nolite quaerere Bethel et in Galgala nolite intrare et in Bersabee non transibitis quia Galgala captiva ducetur et Bethel erit inutilis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>quaerite Dominum et vivite ne forte conburatur ut ignis domus Ioseph et devorabit et non erit qui extinguat Bethel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>qui convertitis in absinthium iudicium et iustitiam in terra relinquitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>facientem Arcturum et Orionem et convertentem in mane tenebras et diem nocte mutantem qui vocat aquas maris et effundit eas super faciem terrae Dominus nomen eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>qui subridet vastitatem super robustum et depopulationem super potentem adfert</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>odio habuerunt in porta corripientem et loquentem perfecte abominati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>idcirco pro eo quod diripiebatis pauperem et praedam electam tollebatis ab eo domos quadro lapide aedificabitis et non habitabitis in eis vineas amantissimas plantabitis et non bibetis vinum earum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>quia cognovi multa scelera vestra et fortia peccata vestra hostes iusti accipientes munus et pauperes in porta deprimentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>ideo prudens in tempore illo tacebit quia tempus malum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.014">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>quaerite bonum et non malum ut vivatis et erit Dominus Deus exercituum vobiscum sicut dixistis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.015">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>odite malum et diligite bonum et constituite in porta iudicium si forte misereatur Dominus Deus exercituum reliquiis Ioseph</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.016">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>propterea haec dicit Dominus Deus exercituum Dominator in omnibus plateis planctus et in cunctis quae foris sunt dicetur vae vae et vocabunt agricolam ad luctum et ad planctum eos qui sciunt plangere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.017">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>et in omnibus vineis erit planctus quia pertransibo in medio tui dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.018">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>vae desiderantibus diem Domini ad quid eam vobis dies Domini ista tenebrae et non lux</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.019">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>quomodo si fugiat vir a facie leonis et occurrat ei ursus et ingrediatur domum et innitatur manu sua super parietem et mordeat eum coluber</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.020">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>numquid non tenebrae dies Domini et non lux et caligo et non splendor in ea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.021">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>odi et proieci festivitates vestras et non capiam odorem coetuum vestrorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.022">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>quod si adtuleritis mihi holocaustomata et munera vestra non suscipiam et vota pinguium vestrorum non respiciam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.023">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>aufer a me tumultum carminum tuorum et cantica lyrae tuae non audiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.024">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>et revelabitur quasi aqua iudicium et iustitia quasi torrens fortis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.025">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:25</verseNum>
+      </reference>
+      <l>numquid hostias et sacrificium obtulistis mihi in deserto quadraginta annis domus Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.026">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:26</verseNum>
+      </reference>
+      <l>et portastis tabernaculum Moloch vestro et imaginem idolorum vestrorum sidus dei vestri quae fecistis vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.005.027">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>5:27</verseNum>
+      </reference>
+      <l>et migrare vos faciam trans Damascum dixit Dominus Deus exercituum nomen eius</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Amos.006.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>vae qui opulenti estis in Sion et confiditis in monte Samariae optimates capita populorum ingredientes pompatice domum Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>transite in Chalanne et videte et ite inde in Emath magnam et descendite in Geth Palestinorum et ad optima quaeque regna horum si latior terminus eorum termino vestro est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>qui separati estis in diem malum et adpropinquatis solio iniquitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>qui dormitis in lectis eburneis et lascivitis in stratis vestris qui comeditis agnum de grege et vitulos de medio armenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>qui canitis ad vocem psalterii sicut David putaverunt se habere vasa cantici</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>bibentes in fialis vinum et optimo unguento delibuti et nihil patiebantur super contritione Ioseph</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>quapropter nunc migrabunt in capite transmigrantium et auferetur factio lascivientium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>iuravit Dominus Deus in anima sua dicit Dominus Deus exercituum detestor ego superbiam Iacob et domos eius odi et tradam civitatem cum habitatoribus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>quod si reliqui fuerint decem viri in domo una et ipsi morientur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>et tollet eum propinquus suus et conburet eum ut efferat ossa de domo et dicet ei qui in penetrabilibus domus est numquid adhuc est apud te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>et respondebit finis est et dicet ei tace et non recorderis nominis Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>quia ecce Dominus mandabit et percutiet domum maiorem ruinis et domum minorem scissionibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>numquid currere queunt in petris equi aut arari potest in bubalis quoniam convertistis in amaritudinem iudicium et fructum iustitiae in absinthium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.014">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>qui laetamini in nihili qui dicitis numquid non in fortitudine nostra adsumpsimus nobis cornua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.006.015">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>ecce enim suscitabo super vos domus Israhel dicit Dominus Deus exercituum gentem et conterent vos ab introitu Emath usque ad torrentem Deserti</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Amos.007.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>haec ostendit mihi Dominus Deus et ecce fictor lucustae in principio germinantium serotini imbris et ecce serotinus post tonsorem regis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>et factum est cum consummasset comedere herbam terrae et dixi Domine Deus propitius esto obsecro quis suscitabit Iacob quia parvulus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>misertus est Dominus super hoc non erit dixit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>haec ostendit mihi Dominus Deus et ecce vocabat iudicium ad ignem Dominus Deus et devoravit abyssum multam et comedit simul partem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>et dixi Domine Deus quiesce obsecro quis suscitabit Iacob quia parvulus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>misertus est Dominus super hoc sed et istud non erit dixit Dominus Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>haec ostendit mihi et ecce Dominus stans super murum litum et in manu eius trulla cementarii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>et dixit Dominus ad me quid tu vides Amos et dixi trullam cementarii et dixit Dominus ecce ego ponam trullam in medio populi mei Israhel non adiciam ultra superinducere eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>et demolientur excelsa idoli et sanctificationes Israhel desolabuntur et consurgam super domum Hieroboam in gladio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>et misit Amasias sacerdos Bethel ad Hieroboam regem Israhel dicens rebellavit contra te Amos in medio domus Israhel non poterit terra sustinere universos sermones eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>haec enim dicit Amos in gladio morietur Hieroboam et Israhel captivus migrabit de terra sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>et dixit Amasias ad Amos qui vides gradere fuge in terram Iuda et comede ibi panem et ibi prophetabis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>et in Bethel non adicies ultra ut prophetes quia sanctificatio regis est et domus regni est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.014">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>et respondit Amos et dixit ad Amasiam non sum propheta et non sum filius prophetae sed armentarius ego sum vellicans sycomoros</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.015">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>et tulit me Dominus cum sequerer gregem et dixit ad me Dominus vade propheta ad populum meum Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.016">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>et nunc audi verbum Domini tu dicis non prophetabis super Israhel et non stillabis super domum idoli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.007.017">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>propter hoc haec dicit Dominus uxor tua in civitate fornicabitur et filii tui et filiae tuae in gladio cadent et humus tua funiculo metietur et tu in terra polluta morieris et Israhel captivus migrabit de terra sua</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Amos.008.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>haec ostendit mihi Dominus Deus et ecce uncinus pomorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>et dixit quid tu vides Amos et dixi uncinum pomorum et dixit Dominus ad me venit finis super populum meum Israhel non adiciam ultra ut pertranseam eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>et stridebunt cardines templi in die illa dicit Dominus Deus multi morientur in omni loco proicietur silentium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>audite hoc qui conteritis pauperem et deficere facitis egenos terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>dicentes quando transibit mensis et venundabimus merces et sabbatum et aperiemus frumentum ut inminuamus mensuram et augeamus siclum et subponamus stateras dolosas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>ut possideamus in argento egenos et pauperes pro calciamentis et quisquilias frumenti vendamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>iuravit Dominus in superbia Iacob si oblitus fuero usque ad finem omnia opera eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>numquid super isto non commovebitur terra et lugebit omnis habitator eius et ascendet quasi fluvius universus et eicietur et defluet quasi rivus Aegypti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>et erit in die illa dicit Dominus occidet sol meridie et tenebrescere faciam terram in die luminis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>et convertam festivitates vestras in luctum et omnia cantica vestra in planctum et inducam super omne dorsum vestrum saccum et super omne caput calvitium et ponam eam quasi luctum unigeniti et novissima eius quasi diem amarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>ecce dies veniunt dicit Dominus et mittam famem in terram non famem panis neque sitim aquae sed audiendi verbum Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>et commovebuntur a mari usque ad mare et ab aquilone usque ad orientem circumibunt quaerentes verbum Domini et non invenient</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>in die illa deficient virgines pulchrae et adulescentes in siti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.008.014">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>qui iurant in delicto Samariae et dicunt vivit deus tuus Dan et vivit via Bersabee et cadent et non resurgent ultra</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Amos.009.001">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>vidi Dominum stantem super altare et dixit percute cardinem et commoveantur superliminaria avaritia enim in capite omnium et novissimum eorum in gladio interficiam non erit fuga eis fugiet et non salvabitur ex eis qui fugerit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.002">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>si descenderint usque ad infernum inde manus mea educet eos et si ascenderint usque ad caelum inde detraham eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.003">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>et si absconditi fuerint in vertice Carmeli inde scrutans auferam eos et si celaverint se ab oculis meis in fundo maris ibi mandabo serpenti et mordebit eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.004">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>et si abierint in captivitatem coram inimicis suis ibi mandabo gladio et occidet eos et ponam oculos meos super eos in malum et non in bonum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.005">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>et Dominus Deus exercituum qui tangit terram et tabescet et lugebunt omnes habitantes in ea et ascendet sicut rivus omnis et defluet sicut fluvius Aegypti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.006">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>qui aedificat in caelo ascensionem suam et fasciculum suum super terram fundavit qui vocat aquas maris et effundit eas super faciem terrae Dominus nomen eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.007">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>numquid non ut filii Aethiopum vos estis mihi filii Israhel ait Dominus numquid non Israhel ascendere feci de terra Aegypti et Palestinos de Cappadocia et Syros de Cyrene</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.008">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>ecce oculi Domini Dei super regnum peccans et conteram illud a facie terrae verumtamen conterens non conteram domum Iacob dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.009">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>ecce enim ego mandabo et concutiam in omnibus gentibus domum Israhel sicut concutitur in cribro et non cadet lapillus super terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.010">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>in gladio morientur omnes peccatores populi mei qui dicunt non adpropinquabit et non veniet super nos malum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.011">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>in die illo suscitabo tabernaculum David quod cecidit et reaedificabo aperturas murorum eius et ea quae corruerant instaurabo et reaedificabo eum sicut diebus antiquis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.012">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>ut possideant reliquias Idumeae et omnes nationes eo quod invocatum sit nomen meum super eos dicit Dominus faciens haec</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.013">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>ecce dies veniunt dicit Dominus et conprehendet arator messorem et calcator uvae mittentem semen et stillabunt montes dulcedinem et omnes colles culti erunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.014">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>et convertam captivitatem populi mei Israhel et aedificabunt civitates desertas et habitabunt et plantabunt vineas et bibent vinum earum et facient hortos et comedent fructus eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Amos.009.015">
+      <reference>
+        <bookName>Amos</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>et plantabo eos super humum suam et non evellam eos ultra de terra sua quam dedi eis dicit Dominus Deus tuus</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Amos.colophon.001">
+    <reference>
+      <bookName>Amos</bookName>
+      <verseNum>colophon:1TEXT&gt;</verseNum>
+    </reference>
+    <l>EXPLICIT AMOS PROPHETA</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6266" nextid="c6268" id="c6267">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cantantibus organis Caecilia virgo in corde suo soli domino decantabat dicens fiat domine cor meum et corpus meum immaculatum ut non confundar</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D"> Biduanis ac triduanis ieiuniis orans
+       <app>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-R CAO-D"> commendabat</rdg>
+            <rdg wit="CAO-H"> se commendabat</rdg>
+         </app> domino
+       <app>
+            <rdg wit="CAO-B CAO-V CAO-R CAO-D"> quod timebat</rdg>
+            <rdg wit="CAO-M CAO-H"> quem timebat</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-F CAO-S CAO-L"> Biduanis ac triduanis ieiuniis orans suam Domino pudicitiam
+       <app>
+            <rdg wit="CAO-E CAO-F CAO-S CAO-L"> commendabat dicens</rdg>
+            <rdg wit="CAO-C"> commendabat</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Fiat</rep>
+   </verses>
+</res>

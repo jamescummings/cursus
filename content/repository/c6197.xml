@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6196" nextid="c6198" id="c6197">
+   <rBody wit="CAO-C CAO-V CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-F"> Beatus Andreas de cruce clamabat</rdg>
+         <rdg wit="CAO-S"> Beatus Andreas clamabat</rdg>
+      </app> dicens domine
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S"> Jesu Christe magister bone</rdg>
+         <rdg wit="CAO-C"> Jesu Christe</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-F CAO-S"> non iubeas me deponi de ista cruce</rdg>
+         <rdg wit="CAO-D"> nonne iubeas de ista cruce deponi</rdg>
+      </app> nisi prius
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-F CAO-S"> accipias</rdg>
+         <rdg wit="CAO-D"> recipias</rdg>
+      </app> spiritum meum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V CAO-F"> Quoniam tu es protector meus domine in manus tuas commendo spiritum meum</vBody>
+      <vBody type="r" wit="CAO-C"> Domine exaudi orationem meam et clamor meus ad te veniat</vBody>
+      <vBody type="r" wit="CAO-V"> Gloria sit magno regi Deo nunc semper in saecula sempiterna</vBody>
+      <vBody type="r" wit="CAO-D"> Ne permittas domine Jesu Christe me famulum tuum qui propter nomen tuum pendit in cruce resolvi</vBody>
+      <vBody type="r" wit="CAO-S"> Tu es magister meus Christe quem dilexi quem cognovi quem confessus sum</vBody>
+      <rep type="r" wit="CAO-V CAO-D">Nisi</rep>
+      <rep type="r" wit="CAO-V CAO-F CAO-S">Non</rep>
+   </verses>
+</res>

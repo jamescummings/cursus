@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6803" nextid="c6804a" id="c6804">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for Sts John and Paul</note>
+   <rBody wit="CAO-C CAO-M CAO-H CAO-D CAO-F CAO-S"> Haec est vera fraternitas quae numquam potuit
+      <app>
+         <rdg wit="CAO-H CAO-D CAO-F CAO-S"> violari</rdg>
+         <rdg wit="CAO-C CAO-M"> violare</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-F CAO-S"> certamine</rdg>
+         <rdg wit="CAO-M"> certamina</rdg>
+      </app> qui effuso sanguine secuti sunt dominum contemnentes
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-F CAO-S"> aulam regiam</rdg>
+         <rdg wit="CAO-C CAO-D"> aulas regias</rdg>
+      </app> pervenerunt ad regna caelestia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-H CAO-D CAO-F"> Ecce quam bonum et quam iucundum habitare fratres in unum</vBody>
+      <vBody type="r" wit="CAO-S"> Tradiderunt corpora sua propter Deum ad supplicia</vBody>
+      <rep type="r" wit="CAO-C CAO-H CAO-D CAO-F CAO-S"> Contemnentes</rep>
+   </verses>
+</res>

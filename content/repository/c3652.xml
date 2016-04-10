@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3651" nextid="c3653" id="c3652">
+   <header>
+      <usage ms="Alb2" code="02122500">[29v] prime</usage>
+      <usage ms="Cdm" code="02122500">[23v] prime</usage>
+      <usage ms="Ely" code="02122500">[21r] prime</usage>
+      <usage ms="Evm" code="02122500">[35v] matins-n3</usage>
+      <usage ms="Hyd" code="02122500">[21r] prime</usage>
+      <usage ms="Pet" code="02122500">[17r] matins-n3</usage>
+      <usage ms="Wcb" code="02122500">[54v] matins-n3</usage>
+      <usage ms="Wor" code="02122500">[16r] prime</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.147</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Ely Wor Pet"> Lux orta est super nos
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Wcb Cdm Ely Wor Pet"> quia hodie natus est salvator alleluia</rdg>
+         <rdg wit="Hyd"> quia hodie natus est nobis salvator alleluia</rdg>
+         <rdg wit="CAO-S"> quia natus est salvator mundi alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

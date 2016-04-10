@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2890" nextid="c2892" id="c2891">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-L"> Formans me ex utero</rdg>
+         <rdg wit="CAO-B CAO-M CAO-D CAO-F CAO-S"> Formans me ab utero</rdg>
+         <rdg wit="CAO-R"> Formans me <corr sic="ex">ab</corr> utero</rdg>
+      </app> servum sibi dominus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in lucem gentium</rdg>
+         <rdg wit="CAO-M"> in luce gentium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D"> ut sim</rdg>
+         <rdg wit="CAO-E CAO-S"> ut sit</rdg>
+         <rdg wit="CAO-F"> ut sis</rdg>
+         <rdg wit="CAO-L"> ut sint</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> salus eius</rdg>
+         <rdg wit="CAO-E CAO-M CAO-F"> salus mea</rdg>
+      </app> ab extremis terrae</aBody>
+</ant>

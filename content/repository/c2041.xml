@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2040" nextid="c2042" id="c2041">
+   <aBody wit="CAO-C CAO-V"> Cum turbae irruerent
+     <app>
+         <rdg wit="CAO-C"> ut audirent verbum domini</rdg>
+         <rdg wit="CAO-V"> ut audirent verbum dei</rdg>
+      </app> et ipse stabat secus stagnum Genesareth piscatores autem descenderant
+     <app>
+         <rdg wit="CAO-C"> et lavabant retia in capturam</rdg>
+         <rdg wit="CAO-V"> et lavabant retia in captura</rdg>
+      </app>
+   </aBody>
+</ant>

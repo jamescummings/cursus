@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2661" nextid="c2663" id="c2662">
+   <header>
+      <usage ms="Glo" code="14032100"/>
+   </header>
+   <aBody wit="CAO-D CAO-F Glo"> Erat vir domini Benedictus vultu placido canis decoratus angelicis tantaque circa eum
+     <app>
+         <rdg wit="CAO-F Glo"> claritas excreverat</rdg>
+         <rdg wit="CAO-D"> caritas excreverat</rdg>
+      </app> ut in terris positus in caelestibus habitaret</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5491" nextid="c5493" id="c5492">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Vos amici mei estis si feceritis
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S"> quae praecipio vobis dicit dominus</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-L"> quae praecipio vobis alleluia</rdg>
+         <rdg wit="CAO-V"> quae praecipio vobis dicit dominus alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

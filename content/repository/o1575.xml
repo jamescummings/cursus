@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1574" nextid="o1576" id="o1575">
+   <header>
+      <usage ms="Cht" code="07063000">[58v] vesp2</usage>
+      <usage ms="Ely" code="07063000">[87v] vesp2</usage>
+      <usage ms="Hyd" code="07063000">[93r] vesp2</usage>
+   </header>
+   <pBody wit="Ely Cht Hyd"> Reminiscere miserationum tuarum domine et famulos tuos aeterna protectione sanctifica pro quibus
+     <app>
+         <rdg wit="Ely Cht"> Jesus Christus</rdg>
+         <rdg wit="Hyd"> Jesus</rdg>
+      </app> filius tuus per suum cruorem nobis instituit paschale misterium</pBody>
+</prayer>

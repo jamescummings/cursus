@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3709" nextid="c3711" id="c3710">
+   <aBody wit="CAO-C CAO-D CAO-F CAO-L"> Martine misit nos dominus tibi auxilium ferre
+     <app>
+         <rdg wit="CAO-D"> et rusticam multitudinem fugare</rdg>
+         <rdg wit="CAO-C"> et rustica multitudine effugare</rdg>
+         <rdg wit="CAO-F CAO-L"> et rustica multitudinem effugare</rdg>
+      </app>
+   </aBody>
+</ant>

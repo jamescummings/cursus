@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4484" nextid="c4486" id="c4485">
+   <aBody wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> Qui mihi ministrat me sequatur et ubi ego sum
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-S CAO-L"> ibi sit et minister meus</rdg>
+         <rdg wit="CAO-C CAO-D"> illic erit et minister meus</rdg>
+         <rdg wit="CAO-R"> illic sit et minister meus</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-S"> Si quis mihi ministraverit honorificabit eum pater meus qui est in caelis</vBody>
+   </verses>
+</ant>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1943" nextid="c1945" id="c1944">
+   <header>
+      <usage ms="Hyd" code="01012000">[5r] vesp2-a3</usage>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-L Hyd"> Credidi propter quod locutus sum</aBody>
+</ant>

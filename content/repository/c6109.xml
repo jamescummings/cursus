@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6108" nextid="c6110" id="c6109">
+   <header>
+      <usage ms="Hyd" code="10800000">matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Aperi caelos tuos domine et vide afflictionem nostram circumdederunt nos gentes
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> ad puniendum nos</rdg>
+         <rdg wit="CAO-E CAO-S"> ad expugnandum nos</rdg>
+      </app> sed tu domine extende brachium tuum et libera animas nostras</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-V CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-F Hyd"> Afflige opprimentes nos</rdg>
+            <rdg wit="CAO-L"> Afflige opprimente nos</rdg>
+            <rdg wit="CAO-S"> Afflige deprimentes nos</rdg>
+         </app> et
+      <app>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-F CAO-L Hyd"> contumeliam</rdg>
+            <rdg wit="CAO-S"> contumelias</rdg>
+         </app> facientes
+      <app>
+            <rdg wit="CAO-G CAO-V CAO-F CAO-S CAO-L Hyd"> in superbiam</rdg>
+            <rdg wit="CAO-D"> in superbia</rdg>
+         </app> et
+      <app>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-F CAO-L Hyd"> custodi</rdg>
+            <rdg wit="CAO-S"> custode</rdg>
+         </app> partem tuam</vBody>
+      <vBody type="r" wit="CAO-B CAO-R"> Congregatae sunt gentes in multitudine ut pugnent contra nos</vBody>
+      <vBody type="r" wit="CAO-H"> Qui regis Israel intende</vBody>
+      <vBody type="r" wit="CAO-E"> Tu domine cui humilium semper et mansuetorum placuit deprecatio</vBody>
+      <rep type="r" wit="CAO-G CAO-F Hyd">Et libera</rep>
+      <rep type="r" wit="CAO-B CAO-R CAO-V CAO-D CAO-S CAO-L CAO-H">Sed tu</rep>
+      <rep type="r" wit="CAO-E">Extende</rep>
+   </verses>
+</res>

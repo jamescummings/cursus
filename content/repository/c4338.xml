@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4337" nextid="c4339" id="c4338">
+   <aBody wit="CAO-E CAO-M CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-S CAO-L"> Postquam Lycaoniam praedicavit beatus Bartholomaeus</rdg>
+         <rdg wit="CAO-E"> Postquam Lyconiam praedicavit beatus Bartholomaeus</rdg>
+         <rdg wit="CAO-M"> Postquam Niconiam praedicavit beatus Bartholomaeus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L"> ad Indos veniens</rdg>
+         <rdg wit="CAO-M"> ad Indos venit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L"> convertit eos ad Christum</rdg>
+         <rdg wit="CAO-M"> convertit eos ad fidem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L"> et per martyrium penetravit caelos</rdg>
+         <rdg wit="CAO-M"> et per martyrium penetravit caelo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L"> ubi cum deo perpetue gloriosus exsultat</rdg>
+         <rdg wit="CAO-M"> ubi cum deo perpetua gloriosus exsultat</rdg>
+      </app>
+   </aBody>
+</ant>

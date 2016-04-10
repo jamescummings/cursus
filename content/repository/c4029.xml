@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4028" nextid="c4030" id="c4029">
+   <aBody wit="CAO-E CAO-M CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> O gloriosa genitrix virgo semper Maria</rdg>
+         <rdg wit="CAO-M CAO-L"> O gloriosa dei genitrix virgo semper Maria</rdg>
+      </app> quae dominum omnium meruisti portare et regem angelorum sola virgo lactare
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> nostri quaesumus pia memorare</rdg>
+         <rdg wit="CAO-L"> nostris quaesumus pia memorare</rdg>
+         <rdg wit="CAO-M"> nostri precibus pio memorare</rdg>
+      </app> et pro nobis Christum deprecare
+     <app>
+         <rdg wit="CAO-E CAO-D"> ut tuis fulti patrociniis</rdg>
+         <rdg wit="CAO-F"> ut tui fulti patrociniis</rdg>
+         <rdg wit="CAO-L"> ut tuis fultis patrociniis</rdg>
+         <rdg wit="CAO-M"> ut tuis fulti<del status="unremarkable">s</del> patrociniis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> ad caelestia regna mereamur pervenire</rdg>
+         <rdg wit="CAO-M"> ad caelestia regna pervenire mereamur</rdg>
+         <rdg wit="CAO-L"> ad caelestia regna mereamur pervenire alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

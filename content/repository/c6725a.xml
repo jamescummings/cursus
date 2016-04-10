@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6725" nextid="c6726" id="c6725a">
+   <rBody wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-S"> Felix namque es</rdg>
+         <rdg wit="CAO-M"> Felix namque</rdg>
+         <rdg wit="CAO-L"> Felix namque <del status="unremarkable">es</del>
+         </rdg>
+      </app> sacra virgo Maria et omni laude dignissima quia ex te ortus est sol iustitiae Christus Deus noster</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-L"> Ora pro populo interveni pro clero intercede pro devoto femineo sexu sentiant omnes tuum levamen quicumque celebrant tuam natalem</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-L"> Quia</rep>
+   </verses>
+</res>

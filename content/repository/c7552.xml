@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7551" nextid="c7553" id="c7552">
+   <header>
+      <usage ms="Alb2" code="01031000">[13v] lauds</usage>
+      <usage ms="Wor" code="01031000">[8r] lauds</usage>
+   </header>
+   <rBody wit="CAO-L Alb2 Wor"> Rorate caeli desuper et nubes pluant iustum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L Alb2 Wor"> Aperiatur terra et germinet salvatorem</vBody>
+      <dox type="r" wit="Alb2">Gloria</dox>
+   </verses>
+</res>

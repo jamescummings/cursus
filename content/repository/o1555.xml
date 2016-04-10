@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1554" nextid="o1556" id="o1555">
+   <header>
+      <usage ms="Alb2" code="07047000">[97v] lauds</usage>
+      <usage ms="Cdm" code="07047000">[70r] lauds</usage>
+      <usage ms="Ely" code="07047000">[80r] lauds</usage>
+      <usage ms="Evm" code="07047000">[132r] lauds</usage>
+      <usage ms="Hyd" code="07047000">[85r] lauds</usage>
+      <usage ms="Mch" code="07047000">[143r] lauds</usage>
+      <usage ms="Wcb" code="07047000"/>
+      <notesStmt>
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">Deshusses no.281</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Ely Hyd Wcb"> Fiat domine quaesumus per gratiam tuam</rdg>
+         <rdg wit="Alb2 Cdm Mch"> Fiat quaesumus domine per gratiam tuam</rdg>
+         <rdg wit="Evm"> Fiat domine per gratiam tuam</rdg>
+      </app> fructuosus nostrae devotionis affectus quia tunc nobis proderunt suscepta ieiunia si tuae sint placita pietati</pBody>
+</prayer>

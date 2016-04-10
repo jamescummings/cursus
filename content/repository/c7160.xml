@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7159" nextid="c7161" id="c7160">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <rBody wit="CAO-H CAO-S CAO-L Hyd"> Miserere mei deus miserere mei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-S CAO-L Hyd">Quoniam in te confidit anima mea</vBody>
+      <rep type="r" wit="CAO-S CAO-L">Miserere</rep>
+      <dox type="r" wit="Hyd">Gloria patri</dox>
+   </verses>
+</res>

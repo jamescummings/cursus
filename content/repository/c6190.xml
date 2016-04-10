@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6189" nextid="c6191" id="c6190">
+   <rBody wit="CAO-C CAO-D CAO-F"> Beatissimus Dionysius Christi martyr tradente beato Clemente
+      <app>
+         <rdg wit="CAO-D CAO-F"> eroganda</rdg>
+         <rdg wit="CAO-C"> parturienda</rdg>
+      </app> gentibus semina divina suscepit et quo amplius gentilitatis errorem fervere cognovit
+      <app>
+         <rdg wit="CAO-D CAO-F"> illuc</rdg>
+         <rdg wit="CAO-C"> illic</rdg>
+      </app> intrepidus et virtute fidei armatus
+      <app>
+         <rdg wit="CAO-D CAO-F"> accessit</rdg>
+         <rdg wit="CAO-C"> advenit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D CAO-F">Et Parisius domino ducente pervenit non veritus incredulae gentis expetere feritatem</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Et quo</rep>
+      <rep type="r" wit="CAO-C"> Illic</rep>
+   </verses>
+</res>

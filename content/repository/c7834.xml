@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7833" nextid="c7835" id="c7834">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L"> Venit Michael archangelus cum multitudine angelorum cui tradidit Deus animas sanctorum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L"> ut perducat eas</rdg>
+         <rdg wit="CAO-V"> ut perducas eas</rdg>
+         <rdg wit="CAO-M"> ut <corr sic="perducas">perducat</corr> eas</rdg>
+      </app> in paradisum exultationis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-R CAO-L"> Emitte domine spiritum tuum</rdg>
+            <rdg wit="CAO-H"> Emitte domine spiritum sanctum tuum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-H CAO-R CAO-L"> de caelo</rdg>
+            <rdg wit="CAO-C CAO-B"> de caelis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-R"> spiritum</rdg>
+            <rdg wit="CAO-E CAO-L"> spiritus</rdg>
+         </app> sapientiae et intellectus</vBody>
+      <vBody type="r" wit="CAO-M CAO-V"> Hic est Michael archangelus princeps militiae angelorum</vBody>
+      <vBody type="r" wit="CAO-D"> Data est potestas archangelo Michaeli super animas iustorum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L">Ut perducat</rep>
+      <rep type="r" wit="CAO-M CAO-V">Cui</rep>
+   </verses>
+</res>

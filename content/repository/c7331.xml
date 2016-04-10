@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7330" nextid="c7332" id="c7331">
+   <rBody wit="CAO-E CAO-S"> Orantibus in loco isto dimitte peccata
+     <app>
+         <rdg wit="CAO-S"> populi tui deus</rdg>
+         <rdg wit="CAO-E"> populi tui</rdg>
+      </app> et ostende eis viam bonam per quam ambulent et da gloriam in loco isto</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Domine exaudi orationem meam et clamor meus ad te perveniat</vBody>
+      <vBody type="r" wit="CAO-S">
+         <note type="editorial" resp="Hesbert" place="unspecified" anchored="yes">Verse largely illegible in CAO-S and supplied from the Breviary of Silos, London, British Library Ms Add30848</note> Sperate in eo omnis conventus plebis meae et effundite coram illo corda vestra</vBody>
+      <rep type="r" wit="CAO-E CAO-S">Et da</rep>
+   </verses>
+</res>

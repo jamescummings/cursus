@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2827" nextid="c2829" id="c2828">
+   <aBody wit="CAO-V CAO-L"> Fabricavi turrem excelsam et dicis
+     <app>
+         <rdg wit="CAO-V"> ut destruam eam</rdg>
+         <rdg wit="CAO-L"> ut destruas eam</rdg>
+      </app> magis dicam verba domini
+     <app>
+         <rdg wit="CAO-V"> ut salventur</rdg>
+         <rdg wit="CAO-L"> ut salvetur</rdg>
+      </app> in nomine ipsius</aBody>
+</ant>

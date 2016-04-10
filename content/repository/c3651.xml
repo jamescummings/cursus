@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3650" nextid="c3652" id="c3651">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-F CAO-S CAO-L"> Lux orta est iusto alleluia</rdg>
+         <rdg wit="CAO-H CAO-R CAO-D"> Lux orta est iustis alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-D CAO-F CAO-S CAO-L"> rectis corde laetitia alleluia</rdg>
+         <rdg wit="CAO-R"> et rectis corde laetitia alleluia</rdg>
+         <rdg wit="CAO-M"> recti corde laetitia alleluia</rdg>
+         <rdg wit="CAO-C"> rectis corde laetitia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

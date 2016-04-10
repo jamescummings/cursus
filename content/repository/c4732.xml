@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4731" nextid="c4733" id="c4732">
+   <aBody wit="CAO-C CAO-H CAO-R"> Sancti mei qui in isto saeculo certamen habuistis mercedem laborum
+     <app>
+         <rdg wit="CAO-C CAO-R"> ego reddam vobis</rdg>
+         <rdg wit="CAO-H"> ego reddo vobis</rdg>
+      </app>
+   </aBody>
+</ant>

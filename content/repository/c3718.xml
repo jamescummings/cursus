@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3717" nextid="c3719" id="c3718">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-L"> Martyres sancti inter acerrimos dolores</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R"> Martyres Christi inter acerrimos dolores</rdg>
+      </app> spe gaudentes
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D"> in tribulatione orabant dominum</rdg>
+         <rdg wit="CAO-L"> in tribulatione rogabant dominum</rdg>
+      </app> et dicebant
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-L"> iudica domine iudicium nostrum</rdg>
+         <rdg wit="CAO-E"> vindica domine iudicium nostrum</rdg>
+      </app> et libera nos ab homine iniquo et doloso</aBody>
+</ant>

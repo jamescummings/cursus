@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6876" nextid="c6878" id="c6877">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Igitur dissimulata Gamaliel deambulatione venit ad eum et virga
+      <app>
+         <rdg wit="CAO-F CAO-S"> quam</rdg>
+         <rdg wit="CAO-D CAO-L"> qua</rdg>
+      </app> manu
+      <app>
+         <rdg wit="CAO-D CAO-S CAO-L"> tenebat</rdg>
+         <rdg wit="CAO-F"> gestabat</rdg>
+      </app> tetigit illum vocans eum tertio Luciane Luciane Luciane surge</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">Cui sacerdos respondit
+       <app>
+            <rdg wit="CAO-F"> quis es</rdg>
+            <rdg wit="CAO-L"> qui es</rdg>
+            <rdg wit="CAO-D"> qui<add>s</add> es</rdg>
+            <rdg wit="CAO-S"> quis es<del status="unremarkable">t</del>
+            </rdg>
+         </app> domine at ille dixit ad eum</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L">Luciane</rep>
+   </verses>
+</res>

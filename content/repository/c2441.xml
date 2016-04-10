@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2440" nextid="c2442" id="c2441">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Dum complerentur dies pentecostes alleluia
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> venit laus in Jerusalem alleluia in Sion</rdg>
+         <rdg wit="CAO-V"> in Sion venit laus in Jerusalem alleluia</rdg>
+         <rdg wit="CAO-E"> in Sion venit laus in Jerusalem alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

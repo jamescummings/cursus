@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4128" nextid="c4130" id="c4129">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-S">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-S"> Omnes qui habebant infirmos variis languoribus</rdg>
+         <rdg wit="CAO-C CAO-D"> Omnes qui habebant infirmos</rdg>
+      </app> ducebant illos ad Jesum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-S"> et sanabantur</rdg>
+         <rdg wit="CAO-B CAO-R"> et curabantur</rdg>
+      </app>
+   </aBody>
+</ant>

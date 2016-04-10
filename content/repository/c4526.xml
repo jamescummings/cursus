@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4525" nextid="c4527" id="c4526">
+   <header>
+      <usage ms="Alb2" code="05031000"/>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-H CAO-R Alb2"> Quid mihi et tibi est mulier nondum venit hora mea
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R Alb2"> et convertit aquam in vinum</rdg>
+         <rdg wit="CAO-E"> sed convertit aquam in vinum</rdg>
+      </app> et crediderunt in eum discipuli eius hoc initium signorum fecit Jesus et manifestavit gloriam suam</aBody>
+   <aBody wit="CAO-C"> Quid mihi et tibi est mulier nondum venit hora mea</aBody>
+</ant>

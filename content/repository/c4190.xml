@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4189b" nextid="c4191" id="c4190">
+   <aBody wit="CAO-M CAO-F"> Oremus dilectissimi nobis deum patrem omnipotentem ut cunctis mundum purget erroribus morbos auferat
+     <app>
+         <rdg wit="CAO-M"> famem repellat aperiat carcerem</rdg>
+         <rdg wit="CAO-F"> famem depellat aperiat carceres</rdg>
+      </app> vincla dissolvat peregrinantibus reditum infirmantibus sanitatem
+     <app>
+         <rdg wit="CAO-M"> navigantibus portum salutis aperiat</rdg>
+         <rdg wit="CAO-F"> navigantibus portum salutis indulgeat</rdg>
+      </app> et pacem tribuat in diebus nostris
+     <app>
+         <rdg wit="CAO-M"> insurgentesque repellat inimicus</rdg>
+         <rdg wit="CAO-F"> insurgentesque repellat inimicos</rdg>
+      </app> et de manu inferni liberet nos
+     <app>
+         <rdg wit="CAO-M"> propter nomen suum</rdg>
+         <rdg wit="CAO-F"> propter nomen suum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

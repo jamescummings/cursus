@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6931" nextid="c6933" id="c6932">
+   <rBody wit="CAO-E CAO-V CAO-H"> In resurrectione tua Christe alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-H">
+         <app>
+            <rdg wit="CAO-V CAO-H"> Caelum et terra</rdg>
+            <rdg wit="CAO-E"> Caeli et terra</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-V"> laetentur</rdg>
+            <rdg wit="CAO-H"> laetantur</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-H">Alleluia</rep>
+   </verses>
+</res>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5328b" nextid="c5330" id="c5329">
+   <aBody wit="CAO-B CAO-V CAO-R CAO-S"> Veniat dilectus meus in hortum suum
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-S"> ut comedat fructum pomorum suorum</rdg>
+         <rdg wit="CAO-V"> ut comedat fructus pomorum suorum</rdg>
+      </app>
+   </aBody>
+</ant>

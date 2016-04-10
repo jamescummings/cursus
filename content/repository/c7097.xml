@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7096" nextid="c7098" id="c7097">
+   <header>
+      <usage ms="Alb2" code="06031000">[69v] matins-n1-r1</usage>
+      <usage ms="Bat" code="06031000">[45r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="06031000">[53r] matins-n1-r1</usage>
+      <usage ms="Ely" code="06031000">[62v] matins-n1-r1</usage>
+      <usage ms="Evm" code="06031000">[99r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="06031000">[65v] matins-n1-r1</usage>
+      <usage ms="Mch" code="06031000">[106r] matins-n1-r1</usage>
+      <usage ms="Pet" code="06031000">[60v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="06031000">[89r] matins-n1-r1</usage>
+      <usage ms="Wor" code="06031000">[40r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Evm Wcb Cdm Mch Bat"> Locutus est dominus ad Abraham dicens
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Alb2 Pet Ely Evm Wcb Cdm Mch Bat">egredere de terra</rdg>
+         <rdg wit="Hyd">egredere de terra tua</rdg>
+      </app> et de cognatione tua
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Evm Wcb Cdm Mch Bat"> et veni in terram</rdg>
+         <rdg wit="CAO-M CAO-V"> et veni in terra</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Wor Pet Ely Evm Wcb Cdm Mch Bat"> quam monstravero tibi</rdg>
+         <rdg wit="CAO-S"> qua monstravero tibi</rdg>
+      </app> et faciam te crescere in gentem magnam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Wor Pet Ely Evm Wcb Cdm Mch Bat"> Benedicens benedicam tibi et multiplicabo te</vBody>
+      <vBody type="r" wit="CAO-L"> Benedicam tibi et magnificabo nomen tuum erisque benedictus</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Evm Wcb Cdm Mch Bat">Et faciam</rep>
+   </verses>
+</res>

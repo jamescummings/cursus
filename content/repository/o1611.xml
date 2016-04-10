@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1610" nextid="o1612" id="o1611">
+   <header>
+      <usage ms="Wcb" code="06034000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.841</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb">Succurre quaesumus domine populo supplicanti et opem tuam tribue benignus infirmis ut sincera tibi mente devoti et praesentis vitae remediis gaudeant et futurae</pBody>
+</prayer>

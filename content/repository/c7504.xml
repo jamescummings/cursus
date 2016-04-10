@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7503" nextid="c7505" id="c7504">
+   <rBody wit="CAO-D"> Quomodo confitebor tibi domine deus meus quando veneris in iudicium tuum quia cor meum non custodivi animam meam in carne positam coinquinavi pollui templum corporis mei de opere iniquitatis precor te domine antequam discutias me miserere mei</rBody>
+   <verses>
+      <vBody id="c7504-1" type="r" wit="CAO-D"> Ubi sunt misericordiae tuae antiquae domine et mirabiles valde sicut nescius fallere iurasti David puero tuo in veritate</vBody>
+      <rep corresp="c7504-1" type="r" wit="CAO-D">Precor</rep>
+      <vBody id="c7504-2" type="r" num="2" wit="CAO-D"> Tibi soli peccavi domine</vBody>
+      <rep corresp="c7504-2" type="r" wit="CAO-D">Miserere</rep>
+   </verses>
+</res>

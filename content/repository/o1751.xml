@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1750" nextid="o1752" id="o1751">
+   <header>
+      <usage ms="Alb2" code="02122700">[37r] commemoration</usage>
+      <usage ms="Cdm" code="02122700">[28r] vesp2 commemoratio</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.78</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Cdm"> Deus qui licet sis magnus in magnis mirabilia tamen gloriosus operaris in minimis da nobis quaesumus in eorum celebritate gaudere qui filio tuo domino nostro testimonium praebuerunt etiam non loquentes</pBody>
+</prayer>

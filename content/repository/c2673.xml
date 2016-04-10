@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2672" nextid="c2674" id="c2673">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-L Hyd"> Eructavit cor meum</rdg>
+         <rdg wit="CAO-S"> Eructabit cor meum</rdg>
+      </app> verbum bonum</aBody>
+</ant>

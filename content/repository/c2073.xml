@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2072" nextid="c2074" id="c2073">
+   <aBody wit="CAO-B CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F"> Cumque sibi conspicerent illicita non licere</rdg>
+         <rdg wit="CAO-S"> Cumque sibi conspiceret illicita non licere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et assueta relinquere</rdg>
+         <rdg wit="CAO-F CAO-S"> assueta relinquere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> conati sunt eius mortem tractare</rdg>
+         <rdg wit="CAO-F CAO-S"> conati sunt de eius morte tractare</rdg>
+      </app>
+   </aBody>
+</ant>

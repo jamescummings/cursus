@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6109" nextid="c6111" id="c6110">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F Hyd"> Apparuerunt apostolis</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-S CAO-L"> Apparuerunt apostoli</rdg>
+      </app> dispertitae linguae tamquam ignis alleluia seditque supra singulos eorum spiritus sanctus alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-F CAO-S"> Loquebantur variis linguis apostoli magnalia Dei</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-V CAO-L Hyd"> Et coeperunt</rdg>
+            <rdg wit="CAO-E"> Et apparuerunt</rdg>
+         </app> loqui variis linguis prout spiritus sanctus dabat eloqui illis</vBody>
+      <vBody type="r" wit="CAO-G"> Et coeperunt loqui variis linguis apostoli magnalia Dei</vBody>
+      <vBody type="r" wit="CAO-D"> Repentino namque sonitu</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Seditque</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+   </verses>
+</res>

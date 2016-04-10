@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1774" nextid="c1776" id="c1775">
+   <header>
+      <usage ms="Alb2" code="07067000">[111v] matins-n1-a3</usage>
+      <usage ms="Cdm" code="07067000">[79v] matins-n1</usage>
+      <usage ms="Ely" code="07067000">[91r] matins-n1</usage>
+      <usage ms="Evm" code="07067000">[152v] matins-n1</usage>
+      <usage ms="Hyd" code="07067000">[97r] matins-n1</usage>
+      <usage ms="Mch" code="07067000">[162v] matins-n1-a3</usage>
+      <usage ms="Pet" code="07067000">[93v] matins-n1</usage>
+      <usage ms="Wcb" code="07067000">[117r] matins-n1</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Caro mea requiescet in spe</aBody>
+</ant>

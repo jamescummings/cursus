@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3919" nextid="c3921" id="c3920">
+   <header>
+      <usage ms="Alb2" code="07011000">[78r] terce</usage>
+      <usage ms="Bat" code="07011000">[47v] matins-n3-a2</usage>
+      <usage ms="Cdm" code="07011000">[57r] matins-n3-a2</usage>
+      <usage ms="Cht" code="07011000">[24v] terce</usage>
+      <usage ms="Evm" code="07011000">[108r] terce</usage>
+      <usage ms="Hyd" code="07011000">[69v] matins-n3</usage>
+      <usage ms="Mch" code="07011000">[116v] prime</usage>
+      <usage ms="Pet" code="07011000">[65v] vesp2</usage>
+      <usage ms="Wor" code="07011000">[43v] matins-n3-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-L Hyd Wor Cht Pet Evm Alb2 Cdm Bat Mch"> Non in solo pane vivit homo sed in omni verbo quod procedit de ore dei</aBody>
+</ant>

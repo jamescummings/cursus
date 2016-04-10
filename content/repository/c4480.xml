@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4479" nextid="c4481" id="c4480">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Qui me dignatus est ab omni plaga curare
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-D CAO-F CAO-S CAO-L"> et mamillam meam meo pectori restituere</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> et mamillas meas meo pectori restituere</rdg>
+         <rdg wit="CAO-V"> et mamilla mea meo pectori restituere</rdg>
+      </app> ipsum invoco deum vivum</aBody>
+</ant>

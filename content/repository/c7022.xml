@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7021" nextid="c7023" id="c7022">
+   <header>
+      <usage ms="Alb2" code="02122800">[38r] matins-n2-r6</usage>
+      <usage ms="Bat" code="02122800">[23r] matins-n2-r6</usage>
+      <usage ms="Cdm" code="02122800">[28v] matins-n2-r5</usage>
+      <usage ms="Evm" code="02122800">[47r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="02122800">[26v] matin-n2-r6</usage>
+      <usage ms="Pet" code="02122800">[30r] matins-n2-r6</usage>
+      <usage ms="Wcb" code="02122800">[63r] matins-n1-r3</usage>
+      <usage ms="Wor" code="02122800">[22v] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet"> Isti sunt sancti qui passi sunt</rdg>
+         <rdg wit="Bat"> Isti sunt qui passi sunt</rdg>
+      </app> propter te domine vindica eos quia clamant ad te quotidie</rBody>
+   <verses>
+      <vBody type="r" wit="Evm">Hii sunt qui cum mulieribus non sunt coinquinati virgines enim sunt</vBody>
+      <vBody type="r" wit="Hyd Wor">Isti sunt qui non inquinaverunt vestimenta sua quorum sanguinis innocenter effusus est</vBody>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-F CAO-S CAO-L Alb2 Bat Cdm Pet"> Vindica domine sanguinem sanctorum tuorum qui effusus est</vBody>
+      <vBody type="r" wit="CAO-C CAO-R"> Vindica domine sanguinem</vBody>
+      <vBody type="r" wit="CAO-B CAO-M CAO-D Wcb"> Vindica domine</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Alb2 Cdm Pet">Quia</rep>
+      <rep type="r" wit="Bat">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio shown</note>
+      </rep>
+      <rep type="r" wit="CAO-S Hyd Evm Wcb Wor"> Vindica</rep>
+   </verses>
+</res>

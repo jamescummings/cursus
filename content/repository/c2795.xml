@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2794" nextid="c2796" id="c2795">
+   <header>
+      <usage ms="Alb2" code="02122700">[34v] matins-n2-a8</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n2-a8</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n2-a8</usage>
+      <usage ms="Evm" code="02122700">[43v] matins-n2-a8</usage>
+      <usage ms="Hyd" code="02122700">[23v] matins-n2-a8</usage>
+      <usage ms="Pet" code="02122700">[26r] matins-n2-a8</usage>
+      <usage ms="Wcb" code="02122700">[61r] matins-n2-a8</usage>
+      <usage ms="Wor" code="02122700">[19v] matins-n2-a8</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Expandens manus suas ad deum dixit</rdg>
+         <rdg wit="CAO-E"> Expandit manus suas ad deum dicens</rdg>
+         <rdg wit="CAO-D"> Expandens manus suas amabilis ad deum dixit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-D CAO-S Hyd Alb2 Evm Wcb Cdm Wor Pet"> invitatus ad convivium tuum venio gratias agens</rdg>
+         <rdg wit="Bat"> gratias ago</rdg>
+         <rdg wit="CAO-M"> invitatus ad convivium tuum venio gratias ago</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-D CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> quia me dignatus es</rdg>
+         <rdg wit="CAO-V"> quia me dignatus est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-S Hyd Evm Wcb Bat Cdm Wor Pet"> domine Jesu Christe</rdg>
+         <rdg wit="Alb2"> domine meus Jesu Christe</rdg>
+      </app> ad tuas epulas invitare sciens
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-S Hyd Alb2 Evm Wcb Bat Wor Pet"> quod</rdg>
+         <rdg wit="Cdm"> quia</rdg>
+      </app> ex toto corde meo desiderabam te</aBody>
+</ant>

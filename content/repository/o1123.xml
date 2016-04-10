@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1122" nextid="o1124" id="o1123">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Cdm" code="07012000">[58r] lauds</usage>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[118r] prime</usage>
+      <usage ms="Wcb" code="07012000"/>
+   </header>
+   <pBody wit="Hyd Wcb Alb2 Cdm Mch"> Presta quaesumus omnipotens deus ut liberis tibi mentibus serviamus et ad beneficia recolenda quibus nos instaurare dignatus es tribuae venire gaudentes</pBody>
+</prayer>

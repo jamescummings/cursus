@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6432" nextid="c6434" id="c6433">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Deus qui sedes super thronum et iudicas aequitatem esto refugium pauperum in tribulatione quia tu solus laborem et dolorem consideras</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2"> Tibi enim</rdg>
+            <rdg wit="CAO-L"> Tibi autem</rdg>
+            <rdg wit="CAO-S Hyd"> Tibi enim domine</rdg>
+         </app> derelictus est pauper pupillo tu eris adiutor</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Hyd">Quia</rep>
+      <rep type="r" wit="CAO-L"> In tribulatione</rep>
+   </verses>
+</res>

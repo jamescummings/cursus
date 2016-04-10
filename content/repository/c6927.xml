@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6926" nextid="c6928" id="c6927">
+   <header>
+      <usage ms="Alb2" code="02122500">[28r] matins-n3-r11</usage>
+      <usage ms="Bat" code="02122500">[17r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="02122500">[22v] matins-n3-r11</usage>
+      <usage ms="Ely" code="02122500">[18v] matins-n1-r4</usage>
+      <usage ms="Evm" code="02122500">[36r] matins-n3-r11</usage>
+      <usage ms="Hyd" code="02122500">[20r] matins-n3-r10</usage>
+      <usage ms="Pet" code="02122500">[17r] matins-n3-r11</usage>
+      <usage ms="Wcb" code="02122500">[56r] matins-n3-r11</usage>
+      <usage ms="Wor" code="02122500">[15r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-E CAO-D Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> In principio erat verbum et verbum erat apud deum et deus erat verbum hoc erat in principio apud deum omnia per ipsum facta sunt et sine ipso factum est nihil</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet">Quod factum est in ipso vita erat et vita erat lux hominum</vBody>
+      <rep type="r" wit="CAO-E CAO-D Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet">Omnia</rep>
+   </verses>
+</res>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4109" nextid="c4111" id="c4110">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F"> Oculi tui sancta dei genitrix
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F"> sicut piscinae in Hesebon</rdg>
+         <rdg wit="CAO-C CAO-D"> sicut piscina in Hesebon</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F"> quae sunt in porta filiae multitudinis alleluia</rdg>
+         <rdg wit="CAO-D"> quae est in porta filiae multitudinis in aeternum</rdg>
+         <rdg wit="CAO-C"> quae sunt in porta filiae multitudinis in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

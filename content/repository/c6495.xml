@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6494" nextid="c6496" id="c6495">
+   <header>
+      <usage ms="Hyd" code="05027000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Domine exaudi orationem meam et clamor meus ad te
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-S CAO-L Hyd"> perveniat</rdg>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R"> veniat</rdg>
+         <rdg wit="CAO-F"> perveniet</rdg>
+      </app> quia non
+      <app>
+         <rdg wit="CAO-G CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> spernis</rdg>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-L"> spernit</rdg>
+      </app> deus preces pauperum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> De profundis clamavi ad te domine domine exaudi vocem meam</vBody>
+      <vBody type="r" wit="CAO-G"> In quacumque die invocavero te velociter exaudi me</vBody>
+      <vBody type="r" wit="CAO-L"> Ne avertas faciem tuam a me in quacumque die tribulor inclina ad me aurem tuam</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Quia</rep>
+   </verses>
+</res>

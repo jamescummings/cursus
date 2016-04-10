@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1550" nextid="o1552" id="o1551">
+   <header>
+      <usage ms="Alb2" code="07045000">[96v] lauds</usage>
+      <usage ms="Cdm" code="07045000">[69v] lauds</usage>
+      <usage ms="Cht" code="07045000">[45r] lauds</usage>
+      <usage ms="Ely" code="07045000">[79v] lauds</usage>
+      <usage ms="Evm" code="07045000">[131v] lauds</usage>
+      <usage ms="Wcb" code="07045000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.269</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Evm Wcb Alb2 Cdm">Praesta quaesumus omnipotens deus ut quos
+      <app>
+         <rdg wit="Ely Evm Wcb Alb2 Cdm"> ieiunia votiva castigant</rdg>
+         <rdg wit="Cht"> votiva castigant ieiunia</rdg>
+      </app> ipsa quoque devotio sancta laetificet ut terrenis affectibus mitigatis facilius caelestia capiamus</pBody>
+</prayer>

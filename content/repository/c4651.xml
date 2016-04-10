@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4650" nextid="c4652" id="c4651">
+   <aBody wit="CAO-C CAO-V CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-V"> Rex autem rogabat apostolum</rdg>
+         <rdg wit="CAO-S"> Rex autem rogabat apostolus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-S"> peto tibi vir dei ut eas</rdg>
+         <rdg wit="CAO-V"> peto tibi vir dei ut eos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> atque benedicas puero</rdg>
+         <rdg wit="CAO-V"> atque benedicas puerum</rdg>
+         <rdg wit="CAO-S"> et benedicas puerum</rdg>
+      </app> cum filia meas</aBody>
+</ant>

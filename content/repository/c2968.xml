@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2967" nextid="c2969" id="c2968">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gratia dei in me vacua non fuit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> sed gratia eius</rdg>
+         <rdg wit="CAO-E"> et gratia eius</rdg>
+      </app> semper in me manet</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">Gratia dei</rdg>
+            <rdg wit="CAO-S">Gratia autem dei</rdg>
+         </app> sum id quod sum</vBody>
+   </verses>
+</ant>

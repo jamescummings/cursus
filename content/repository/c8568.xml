@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8567" nextid="c8569" id="c8568">
+   <header>
+      <usage ms="Hyd" code="10200000">vesp1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">text is identical to body of respond c7204</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Hyd"> Ne derelinquas me domine pater et dominator vitae meae ut non corruam in conspectu adversariorum meorum ne gaudeat de me inimicus meus</aBody>
+</ant>

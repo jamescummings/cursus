@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7077b" nextid="c7079" id="c7078">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Laudate dominum deum nostrum qui non
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> deseruit</rdg>
+         <rdg wit="Hyd"> deserit</rdg>
+      </app> sperantes in se et in me adimplevit misericordiam suam
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> quam</rdg>
+         <rdg wit="CAO-V"> qua</rdg>
+      </app> promisit domui Israel</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-R CAO-D Hyd"> Laudate dominum omnes gentes et collaudate eum omnes populi</vBody>
+      <vBody id="c7078-1" type="r" wit="CAO-H"> Laudate dominum omnes gentes et collaudate eum omnes populi</vBody>
+      <rep corresp="c7078-1" type="r" wit="CAO-H"> Qui</rep>
+      <vBody id="c7078-2" type="r" num="2" wit="CAO-H"> Confitemini illi quoniam bonus quoniam in saeculum misericordia eius</vBody>
+      <rep corresp="c7078-2" type="r" wit="CAO-H"> Quam</rep>
+      <vBody type="r" wit="CAO-G CAO-F"> Confitemini illi quoniam bonus quoniam in saeculum misericordia eius</vBody>
+      <vBody type="r" wit="CAO-L"> Et interfecit hostem populi sui in manu mea in hac nocte</vBody>
+      <rep type="r" wit="CAO-F CAO-L">Et</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-R Hyd">Qui</rep>
+      <rep type="r" wit="CAO-D"> Quam</rep>
+   </verses>
+</res>

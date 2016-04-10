@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6275" nextid="c6277" id="c6276">
+   <rBody wit="CAO-B CAO-H"> Christe fili Dei vivi miserere nobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B"> Qui de virgine nasci dignatus es</vBody>
+      <rep type="r" wit="CAO-B">Miserere</rep>
+      <vBody type="r" wit="CAO-H"> Qui sedes ad dexteram patris</vBody>
+   </verses>
+</res>

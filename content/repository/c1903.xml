@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1902" nextid="c1904" id="c1903">
+   <header>
+      <usage ms="Alb2" code="02122600">[30v] matins-n1-a2</usage>
+      <usage ms="Bat" code="02122600">[18v] matins-n1-a2</usage>
+      <usage ms="Cdm" code="02122600">[24r] matins-n1-a2</usage>
+      <usage ms="Evm" code="02122600">[38v] matins-n1-a2</usage>
+      <usage ms="Hyd" code="02122600">[21v] matins-n1-a2</usage>
+      <usage ms="Pet" code="02122600">[20v] matins-n1-a2</usage>
+      <usage ms="Wor" code="02122600">[16v] matins-n1-a2</usage>
+   </header>
+   <aBody wit="CAO-G CAO-D CAO-S Alb2 Bat Evm Hyd Cdm Wor Pet"> Constitutus a deo praedicator praeceptorum eius in timore sancto
+     <app>
+         <rdg wit="CAO-G CAO-D CAO-S Alb2 Bat Evm Cdm Wor Pet"> illi servire</rdg>
+         <rdg wit="Hyd"> servire illi</rdg>
+      </app> studuit officioque fideliter peracto
+     <app>
+         <rdg wit="CAO-G CAO-D Alb2 Bat Hyd Cdm Wor Pet"> in montem sanctum eius</rdg>
+         <rdg wit="CAO-S Evm"> in monte sancto eius</rdg>
+      </app> ascendere dignus fuit</aBody>
+</ant>

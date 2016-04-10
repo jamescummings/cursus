@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1190" nextid="c1192" id="c1191">
+   <header>
+      <usage ms="Alb2" code="07067000">[113r] lauds-a4</usage>
+      <usage ms="Cdm" code="07067000">[80v] lauds-a4</usage>
+      <usage ms="Ely" code="07067000"/>
+      <usage ms="Evm" code="07067000">[155r] lauds</usage>
+      <usage ms="Hyd" code="07067000">[98r] lauds</usage>
+      <usage ms="Mch" code="07067000">[164r] lauds-a4</usage>
+      <usage ms="Wcb" code="07067000">[118v] lauds</usage>
+      <usage ms="Wor" code="07067000">[63v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Evm Wcb Alb2 Cdm Mch"> A porta inferi erue domine animam meam</aBody>
+</ant>

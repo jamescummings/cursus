@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7783" nextid="c7785" id="c7784">
+   <rBody wit="CAO-D CAO-F"> Triumpharunt sancti martyres Christi qui sub Maximiano mortem decreverunt suscipere et cum sancto Mauritio regna caelestia assumpserunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">Flagrabat in beatissimis martyribus gloriosus ardor
+      <app>
+            <rdg wit="CAO-D"> quia trucidanda</rdg>
+            <rdg wit="CAO-F"> qui ad trucidenda</rdg>
+         </app> colla submittunt</vBody>
+      <rep type="r" wit="CAO-D CAO-F"> Et cum</rep>
+   </verses>
+</res>

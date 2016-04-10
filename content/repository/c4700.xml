@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4699" nextid="c4701" id="c4700">
+   <header>
+      <usage ms="Evm" code="02122700">[45v] lauds commemoration</usage>
+      <usage ms="Wcb" code="02122500">[58r] vesp2 commemoration</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.161-162</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-B CAO-H CAO-D Evm Wcb"> Sancta et immaculata virginitas
+     <app>
+         <rdg wit="CAO-D Evm Wcb"> quibus te laudibus efferam nescio</rdg>
+         <rdg wit="CAO-B CAO-H"> quibus te laudibus referam nescio</rdg>
+      </app> quia quem caeli capere non poterant
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-D"> tuo gremio</rdg>
+         <rdg wit="Evm Wcb">tuis gremiis</rdg>
+      </app> contulisti</aBody>
+</ant>

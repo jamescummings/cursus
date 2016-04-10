@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2320" nextid="c2322" id="c2321">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Fec-B2"> Doleo super te frater mi
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-D CAO-F CAO-S Fec-B2"> Jonatha</rdg>
+         <rdg wit="CAO-M CAO-R"> Jonathan</rdg>
+         <rdg wit="CAO-E"> Jonathas</rdg>
+      </app> amabilis valde super
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S Fec-B2"> amorem</rdg>
+         <rdg wit="CAO-V"> amore</rdg>
+      </app> mulierum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S Fec-B2"> sicut</rdg>
+         <rdg wit="CAO-M"> nam sicut</rdg>
+      </app> mater unicum amat filium ita te
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S Fec-B2"> diligebam</rdg>
+         <rdg wit="CAO-V"> diligebat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Fec-B2"> sagitta Jonathae</rdg>
+         <rdg wit="CAO-E"> sagittas Jonathas</rdg>
+      </app> numquam
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S Fec-B2"> abiit</rdg>
+         <rdg wit="CAO-M"> habuit</rdg>
+      </app> retrorsum nec declinavit clipeus eius
+     <app>
+         <rdg wit="CAO-M CAO-D CAO-F CAO-S"> in bello</rdg>
+         <rdg wit="CAO-B CAO-E CAO-R Fec-B2"> de bello</rdg>
+         <rdg wit="CAO-V"> a bello</rdg>
+      </app> et hasta eius non est
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-D Fec-B2"> aversa</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-S"> adversa</rdg>
+         <rdg wit="CAO-F"> a<del status="unremarkable">d</del>versa</rdg>
+      </app>
+   </aBody>
+</ant>

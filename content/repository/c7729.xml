@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7728" nextid="c7730" id="c7729">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+   </header>
+   <rBody wit="CAO-R CAO-F CAO-S Alb2"> Surge illuminare Jerusalem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-S Alb2"> Quia venit lumen tuum</vBody>
+      <vBody type="r" wit="CAO-F"> Quia appropiavit lumen tuum</vBody>
+      <rep type="r" wit="CAO-F CAO-S Alb2">Jerusalem</rep>
+      <dox type="r" wit="Alb2">Gloria</dox>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3781" nextid="c3783" id="c3782">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-H CAO-R"> Misi digitos meos in fixuras clavorum</rdg>
+         <rdg wit="CAO-E CAO-L"> Misi digitum meum in fixuras clavorum</rdg>
+         <rdg wit="CAO-C CAO-B"> Misi digitos meos in fixuram clavorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-L"> et manus meas in latus eius</rdg>
+         <rdg wit="CAO-E CAO-R"> et manum meam in latus eius</rdg>
+      </app> et dixi dominus meus et deus meus alleluia</aBody>
+</ant>

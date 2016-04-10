@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5475" nextid="c5477" id="c5476">
+   <aBody wit="CAO-C CAO-H"> Visitavit nos dominus et illuminavit nos
+     <app>
+         <rdg wit="CAO-C"> et liberavit nos ab inimicis nostris</rdg>
+         <rdg wit="CAO-H"> et ab inimicis nostris liberavit nos</rdg>
+      </app>
+   </aBody>
+</ant>

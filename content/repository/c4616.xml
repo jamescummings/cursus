@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4615" nextid="c4617" id="c4616">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Reposita est mihi corona iustitiae quam reddet mihi dominus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D"> in illum diem iustus iudex</rdg>
+         <rdg wit="CAO-C"> in illa die iudex</rdg>
+         <rdg wit="CAO-H"> in <corr sic="illum diem">illo die</corr> iustus iudex</rdg>
+         <rdg wit="CAO-F CAO-S"> in illa die iustus iudex</rdg>
+         <rdg wit="CAO-L"> in illo die iustus iudex</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Cooperante gratia spiritus sancti</vBody>
+      <vBody type="a" wit="CAO-E"> Cooperante gratia spiritu sancti</vBody>
+   </verses>
+</ant>

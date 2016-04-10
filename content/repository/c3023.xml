@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3022" nextid="c3023b" id="c3023">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-L"> Helena desiderio plena orabat cum lacrimis dicens
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-L"> tu domine</rdg>
+         <rdg wit="CAO-E"> et tu domine</rdg>
+      </app> ostende lignum in quo salus nostra fuit suspensa
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1791" id="o1792">
+   <header>
+      <usage ms="Cht" code="05061000">[8r] vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Fulda no.319</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht"> Conserva populum tuum deus et tuo nomini fac devotum ut divinis subiectus officiis et temporalia viriliter agat et aeterna dona percipiat</pBody>
+</prayer>

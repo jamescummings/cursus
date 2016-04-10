@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5301" nextid="c5303" id="c5302">
+   <header>
+      <usage ms="Pet" code="07021000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S Pet"> Vade mulier semel tibi dixi si credideris
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S Pet"> videbis mirabilia</rdg>
+         <rdg wit="CAO-C"> videbis mirabilia dei</rdg>
+      </app>
+   </aBody>
+</ant>

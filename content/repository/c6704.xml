@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6703" nextid="c6705" id="c6704">
+   <header>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <rBody wit="CAO-L Hyd"> Exsultate deo adiutori nostro</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Iubilate deo Jacob</vBody>
+   </verses>
+</res>

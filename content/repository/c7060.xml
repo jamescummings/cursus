@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7059" nextid="c7061" id="c7060">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-S CAO-L"> Iustus germinavit</rdg>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F"> Iustus germinabit</rdg>
+      </app> sicut lilium et florebit in aeternum ante dominum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Plantatos in domo domini in atriis domus Dei nostri</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L">Et florebit</rep>
+      <rep type="r" wit="CAO-F"> Florebit</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5007b" nextid="c5009" id="c5008">
+   <aBody wit="CAO-V CAO-H CAO-R"> Spiritus ubi vult spirat alleluia
+     <app>
+         <rdg wit="CAO-H CAO-R"> et vocem eius audis alleluia</rdg>
+         <rdg wit="CAO-V"> et vocem eius audis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> et nescis unde veniat</rdg>
+         <rdg wit="CAO-V"> et non scis unde veniat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> aut quo vadat alleluia alleluia</rdg>
+         <rdg wit="CAO-V"> aut quo vadam alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

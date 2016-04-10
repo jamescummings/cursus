@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4365" nextid="c4367" id="c4366">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Hesbert gives a complete text for this antiphon taken from Ms Arras, Bibl.Mun. 734 (cf.Etudes Gregoriennes IV, 1961, 27, 39): Praesulis summi ac doctoris egregii votis solemnibus beati Vedasti festa celebremus ut per quem Christus fera gentium corda perdomuit superba principum subegit eius nos precibus muniat et ad gaudia superna perducat</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C" type="incipit"> Praesulis summi ac doctoris egregii</aBody>
+</ant>

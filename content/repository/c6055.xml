@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6054" nextid="c6056" id="c6055">
+   <header>
+      <usage ms="Alb2" code="06021000">[68v] matins-n3-r9</usage>
+      <usage ms="Cdm" code="06021000">[51v] matins-n3-r9</usage>
+      <usage ms="Cht" code="06021000">[14r] matins-n3-r2</usage>
+      <usage ms="Ely" code="06021000">[61v] matins-n3-r9</usage>
+      <usage ms="Evm" code="06021000">[97r] matins-n3-r9</usage>
+      <usage ms="Glo" code="06021000">[56r] vesp1</usage>
+      <usage ms="Hyd" code="06021000">[64r] matins-n3-r9</usage>
+      <usage ms="Mch" code="06021000">[104v] matins-n3-r11</usage>
+      <usage ms="Pet" code="06021000">[58v] matins-n3-r9</usage>
+      <usage ms="Wcb" code="06021000">[88r] matins-n3-r10</usage>
+      <usage ms="Wor" code="06021000">[39r] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch"> Aedificavit Noe altare domino
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L Hyd Cht Wor Pet Ely Wcb Evm Glo Cdm"> offerens super illud holocaustum</rdg>
+         <rdg wit="CAO-H CAO-S Alb2 Mch"> offerens super illud holocausta</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch"> odoratus est dominus odorem suavitatis</rdg>
+         <rdg wit="CAO-L"> odoratusque est dominus odorem suavitatis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch"> et benedixit eis</rdg>
+         <rdg wit="CAO-L Hyd"> et benedixit eis dicens</rdg>
+         <rdg wit="CAO-S"> et benedixit ei</rdg>
+      </app> crescite et multiplicamini et replete terram</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Pet Ely Wcb Evm Glo Mch">Ecce ego statuam pactum meum vobiscum</rdg>
+            <rdg wit="Wor Cdm">Ego statuam pactum meum vobiscum</rdg>
+         </app> et cum semine vestro post vos</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Cht Wor Pet Wcb Evm Glo Mch"> Crescite</rep>
+      <rep type="r" wit="CAO-S Cdm">Et benedixit</rep>
+      <dox type="r" wit="Glo">Gloria patri et filio et spiritui sancto</dox>
+   </verses>
+</res>

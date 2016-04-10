@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3379" nextid="c3381" id="c3380">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R"> Interrogatus Joannes ab Herode dicens</rdg>
+         <rdg wit="CAO-D"> Interrogatus Joannes ab Herode dixit</rdg>
+         <rdg wit="CAO-F"> Interrogatus Joannes ab Herode dicente</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-F"> si licitum est fratris coniugem accipere</rdg>
+         <rdg wit="CAO-D"> inlicitum est fratris uxorem accipere</rdg>
+         <rdg wit="CAO-E"> si licitum est fratri coniugem accipere</rdg>
+      </app>
+   </aBody>
+</ant>

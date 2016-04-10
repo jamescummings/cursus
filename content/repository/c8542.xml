@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8541" nextid="c8543" id="c8542">
+   <header>
+      <usage ms="Cht" code="05051000">[6r] vesp1 gosp</usage>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="Hyd Cht"> Caritas fraternitatis maneat in vobis et deus pacis et dilectionis erit vobiscum</aBody>
+</ant>

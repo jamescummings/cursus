@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7150" nextid="c7152" id="c7151">
+   <rBody wit="CAO-R CAO-M CAO-F CAO-V CAO-L">Michael et angeli eius
+      <app>
+         <rdg wit="CAO-R CAO-F CAO-V"> pugnabant</rdg>
+         <rdg wit="CAO-L"> pugnabat</rdg>
+         <rdg wit="CAO-M"> pugnavit</rdg>
+      </app> cum diabolo et ille hostis antiquus victus est
+      <app>
+         <rdg wit="CAO-R CAO-V"> ab eo</rdg>
+         <rdg wit="CAO-L"> ab illo</rdg>
+         <rdg wit="CAO-F"> ab <corr sic="eo">eis</corr>
+         </rdg>
+         <rdg wit="CAO-M"> a Deo</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Angelus archangelus Michael Dei nuntius de animabus iustis</vBody>
+      <vBody type="r" wit="CAO-M"> Dum proeliaretur Michael archangelus cum dracone audita est vox milia milium dicentium salus Deo nostro</vBody>
+      <vBody type="r" wit="CAO-F"> Factum est proelium in coelo Michael et angeli eius proeliabantur cum dracone</vBody>
+      <vBody type="r" wit="CAO-V"> Interroga patrem tuum et annuntiabit tibi seniores tuos et dicent tibi</vBody>
+      <vBody type="r" wit="CAO-L"> Qui dicebat in corde suo super astra coeli exaltabo solium meum</vBody>
+      <rep type="r" wit="CAO-R CAO-M CAO-F CAO-V CAO-L">Et ille</rep>
+   </verses>
+</res>

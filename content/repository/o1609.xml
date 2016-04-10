@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1608" nextid="o1610" id="o1609">
+   <header>
+      <usage ms="Cdm" code="07015000">[59v] vesp2</usage>
+      <usage ms="Evm" code="07015000"/>
+      <usage ms="Mch" code="07015000">[120r] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.187</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Cdm Mch">Da quaesumus domine populis christianis et quae profitentur agnoscere et caeleste munus diligere quod frequentant</pBody>
+</prayer>

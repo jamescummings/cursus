@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5508" nextid="c5510" id="c5509">
+   <aBody wit="CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> Vox laetitiae in tabernaculis iustorum</rdg>
+         <rdg wit="CAO-S"> Vox laetitiae in tabernaculis sanctorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S CAO-L"> alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-E"> alleluia alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

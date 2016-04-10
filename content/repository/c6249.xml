@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6248" nextid="c6250" id="c6249">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Benedictus dominus deus Israel
+      <app>
+         <rdg wit="CAO-G CAO-H CAO-F CAO-S Hyd"> qui facit</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R CAO-D CAO-L"> qui facis</rdg>
+         <rdg wit="CAO-E"> quid facis</rdg>
+      </app> mirabilia solus et benedictum nomen maiestatis eius in aeternum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Replebitur maiestate eius omnis terra fiat fiat</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et benedictum</rep>
+   </verses>
+</res>

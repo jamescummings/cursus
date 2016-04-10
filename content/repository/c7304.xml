@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7303" nextid="c7305" id="c7304">
+   <rBody wit="CAO-E CAO-S CAO-L"> Obsecrante sancto apostolo statim apparuit angelus splendens sicut sol sculpens digito suo in saxis signum sanctae crucis
+     <app>
+         <rdg wit="CAO-L"> quod</rdg>
+         <rdg wit="CAO-E CAO-S"> quo</rdg>
+      </app> christicolae suis frontibus infigerent</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-S CAO-L">Circumvolans igitur per quatuor angulos templi subito scripsit mirabiliter</vBody>
+      <rep type="r" wit="CAO-E CAO-S CAO-L">Signum</rep>
+   </verses>
+</res>

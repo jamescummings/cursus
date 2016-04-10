@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6256" nextid="c6258" id="c6257">
+   <header>
+      <usage ms="Alb2" code="07021000">[84v] lauds</usage>
+      <usage ms="Bat" code="07021000">[52v] lauds</usage>
+      <usage ms="Cdm" code="07021000">[61v] lauds</usage>
+      <usage ms="Cht" code="07021000">[31v] lauds</usage>
+      <usage ms="Ely" code="07021000">[72r] lauds</usage>
+      <usage ms="Evm" code="07021000">[116v] lauds</usage>
+      <usage ms="Hyd" code="07021000">[75v] lauds</usage>
+      <usage ms="Mch" code="07031000">[132r] lauds</usage>
+      <usage ms="Pet" code="07021000">[69r] lauds</usage>
+      <usage ms="Wcb" code="07021000">[99r] lauds</usage>
+      <usage ms="Wor" code="07021000">[46r] lauds</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Bonum mihi domine quod humiliasti me bonum mihi lex oris tui super milia auri et argenti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Cht Pet Evm Wcb Alb2 Cdm Bat Mch">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Pet Alb2 Cdm Bat"> Manus tuae domine fecerunt me</rdg>
+            <rdg wit="Cht Evm Wcb Mch"> Manus tuae fecerunt me</rdg>
+         </app> et plasmaverunt me
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Hyd Pet Alb2 Cdm Bat"> da mihi intellectum</rdg>
+            <rdg wit="Cht Evm Wcb Mch"> da mihi intellectum domine</rdg>
+         </app> ut discam mandata tua</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D Ely Wor Cht Pet Evm Wcb Alb2 Cdm"> Bonum mihi</rep>
+      <rep type="r" wit="CAO-G CAO-S"> Super</rep>
+      <rep type="r" wit="Hyd">Super milia</rep>
+      <dox type="r" wit="Pet Wcb">Gloria</dox>
+   </verses>
+</res>

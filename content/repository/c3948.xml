@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3947" nextid="c3949" id="c3948">
+   <header>
+      <usage ms="Hyd" code="10100000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Fec-B2 Hyd"> Nonne iste est David de quo canebant
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Fec-B2 Hyd"> in choro</rdg>
+         <rdg wit="CAO-F"> per choros</rdg>
+      </app> dicentes Saul percussit mille et David decem milia in milibus suis</aBody>
+</ant>

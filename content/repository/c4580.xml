@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4579" nextid="c4581" id="c4580">
+   <header>
+      <usage ms="Ely" code="01012000">[5v] matins-n1-a1</usage>
+      <usage ms="Hyd" code="01012000">[4v] matins-n1-a1</usage>
+      <usage ms="Hyd" code="05022000"/>
+      <usage ms="Mch" code="07052000">[148r] matins-n1-a1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd Mch Ely"> Rectos decet collaudatio</aBody>
+</ant>

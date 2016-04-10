@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3121" nextid="c3123" id="c3122">
+   <aBody wit="CAO-E CAO-M CAO-F">
+      <app>
+         <rdg wit="CAO-F"> Hodie Simon Petrus ascendit crucis patibulum</rdg>
+         <rdg wit="CAO-E CAO-M"> Hodie Simon Petrus ascendit in crucis patibulum alleluia</rdg>
+      </app> hodie clavicularius regni gaudens
+     <app>
+         <rdg wit="CAO-E CAO-M"> migravit ad Christum</rdg>
+         <rdg wit="CAO-F"> migravit ad <corr sic="dominum">Christum</corr>
+         </rdg>
+      </app> hodie Paulus apostolus
+     <app>
+         <rdg wit="CAO-F"> luminare orbis terrae</rdg>
+         <rdg wit="CAO-E CAO-M"> lumen orbis terrae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> inclinato capite martyrio coronatus est alleluia</rdg>
+         <rdg wit="CAO-E"> inclinato capite propter nomen domini martyrio coronatus est alleluia</rdg>
+         <rdg wit="CAO-M"> inclinato capite propter nomen domini martyrio coronati sunt alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4667" nextid="c4669" id="c4668">
+   <header>
+      <usage ms="Alb2" code="01033000">[15r] lauds-a1</usage>
+      <usage ms="Bat" code="01033000">[10r] lauds-a1</usage>
+      <usage ms="Cdm" code="01033000">[16r] lauds-a1</usage>
+      <usage ms="Ely" code="01033000">[11v] lauds-a1</usage>
+      <usage ms="Evm" code="01035000">[26r] lauds-a1</usage>
+      <usage ms="Evm" code="01043000">[25r] lauds-a1</usage>
+      <usage ms="Hyd" code="01043000">[15r] lauds-a1</usage>
+      <usage ms="Mch" code="01033000">[13r] lauds-a1</usage>
+      <usage ms="Wcb" code="01045000">[50v] lauds-a1</usage>
+      <usage ms="Wor" code="01033000">[8v] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Rorate caeli desuper et nubes pluant iustum aperiatur terra et germinet salvatorem</aBody>
+</ant>

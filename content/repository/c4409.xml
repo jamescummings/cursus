@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4408" nextid="c4410" id="c4409">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Puellae saltanti imperavit mater
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> nihil aliud petas</rdg>
+         <rdg wit="CAO-L"> nihil aliud petat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> nisi caput Joannis</rdg>
+         <rdg wit="CAO-V"> nisi caput Joannis baptistae</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7045" nextid="c7047" id="c7046">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iuravit dominus</rdg>
+         <rdg wit="CAO-V"> Iuravi dominus</rdg>
+      </app> et non paenibit eum tu es sacerdos in aeternum secundum ordinem Melchisadech</rBody>
+   <verses>
+      <prosula wit="CAO-L"> Obtulit primum sacraficium Deo Melchisadech</prosula>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Dixit dominus</rdg>
+            <rdg wit="CAO-L"> Dicit dominus</rdg>
+         </app> domino meo sede
+       <app>
+            <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-L"> a dextris meis</rdg>
+            <rdg wit="CAO-E CAO-V CAO-F CAO-S"> ad dextris meis</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Secundum</rep>
+      <rep type="r" wit="CAO-H CAO-R"> Tu es</rep>
+   </verses>
+</res>

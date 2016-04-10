@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4668" nextid="c4670" id="c4669">
+   <header>
+      <usage ms="Alb2" code="02010100">[47v] lauds-a3</usage>
+      <usage ms="Cdm" code="02010100">[34r] lauds-a3</usage>
+      <usage ms="Evm" code="02010100">[61r] lauds-a3</usage>
+      <usage ms="Hyd" code="02010100">[34v] lauds-a3</usage>
+      <usage ms="Pet" code="02010100">[37r] lauds-a3</usage>
+      <usage ms="Wcb" code="02010100">[67r] lauds-a3</usage>
+      <usage ms="Wor" code="02010100">[25r] lauds-a3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.155</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet"> Rubum quem viderat Moyses incombustum</rdg>
+         <rdg wit="CAO-F"> Rubum quam viderat Moyses incombustum</rdg>
+      </app> conservatam agnovimus tuam laudabilem virginitatem dei genitrix intercede pro nobis</aBody>
+</ant>

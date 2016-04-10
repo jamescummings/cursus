@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7458" nextid="c7460" id="c7459">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Quam magna multitudo</rdg>
+         <rdg wit="CAO-S"> Quam magnam multitudo</rdg>
+      </app> dulcedinis tuae domine quam abscondisti timentibus te</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R"> Perfecisti eis</rdg>
+            <rdg wit="CAO-D"> Et perfecisti eam</rdg>
+            <rdg wit="CAO-F"> Perfecisti autem eis</rdg>
+            <rdg wit="CAO-L Hyd"> Perfecisti eam</rdg>
+            <rdg wit="CAO-S"> Perfecisti ei</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S"> qui sperant</rdg>
+            <rdg wit="CAO-G CAO-D CAO-L Hyd"> sperantibus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L Hyd"> in te</rdg>
+            <rdg wit="CAO-V CAO-F CAO-S"> in te domine</rdg>
+         </app> in conspectu filiorum hominum</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Quam abscondisti</rep>
+   </verses>
+</res>

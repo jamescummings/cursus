@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4604" nextid="c4606" id="c4605">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F"> Relicta domo rebusque patris</rdg>
+         <rdg wit="CAO-S CAO-L"> Relicta domo rebusque patri</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-L"> soli deo placere desiderans</rdg>
+         <rdg wit="CAO-D CAO-F"> soli deo placere cupiens</rdg>
+         <rdg wit="CAO-C CAO-S"> soli deo placere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-L"> sanctae conversationis habitum quaesivit</rdg>
+         <rdg wit="CAO-C"> sanctae conversationis habitu quaesivit</rdg>
+         <rdg wit="CAO-S"> et sanctae conversationis habitum quaesivit</rdg>
+      </app>
+   </aBody>
+</ant>

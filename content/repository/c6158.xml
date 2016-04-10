@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6157" nextid="c6159" id="c6158">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-L"> Aversio parvulorum</rdg>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-F"> Adversio parvulorum</rdg>
+      </app> interficiet eos et prosperitas stultorum perdet
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-D CAO-F CAO-L"> illos</rdg>
+         <rdg wit="CAO-B CAO-V"> eos</rdg>
+      </app> qui autem me
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-D CAO-F CAO-L"> audierit</rdg>
+         <rdg wit="CAO-E"> audierint</rdg>
+      </app> absque
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-D CAO-F"> terrore quiescet</rdg>
+         <rdg wit="CAO-E"> terrore quiescent</rdg>
+         <rdg wit="CAO-B"> terrore <corr sic="quiescit" resp="Hesbert">quiescet</corr>
+         </rdg>
+         <rdg wit="CAO-L"> terror requiescet</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-F CAO-L"> O viri</rdg>
+            <rdg wit="CAO-D"> O vir</rdg>
+         </app> ad vos clamito et vox mea ad filios hominum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L">Qui autem</rep>
+   </verses>
+</res>

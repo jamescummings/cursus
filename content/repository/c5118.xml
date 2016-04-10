@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5117" nextid="c5119" id="c5118">
+   <aBody wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S"> Te gloriosus apostolorum chorus te prophetarum laudabilis numerus te martyrum candidatus laudat exercitus
+     <app>
+         <rdg wit="CAO-E CAO-D"> te omnes electi voce confitentur unanimes</rdg>
+         <rdg wit="CAO-V"> tibi omnes electi voces confitentur unanimis</rdg>
+         <rdg wit="CAO-R"> tibi omnes electi voce confitentur unanimi</rdg>
+         <rdg wit="CAO-F"> te omnes electi voce confitentur <corr sic="unanimes">unanimi</corr>
+         </rdg>
+         <rdg wit="CAO-S"> tibi omnes electi voce confitentur unanimes</rdg>
+      </app> beata trinitas unus deus</aBody>
+</ant>

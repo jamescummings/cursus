@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1109" nextid="c1111" id="c1110">
+   <header>
+      <usage ms="Alb2" code="07011000">[74v] matins</usage>
+      <usage ms="Bat" code="07011000">[47r] matins inv</usage>
+      <usage ms="Cdm" code="07011000">[56v] matins inv</usage>
+      <usage ms="Cht" code="07011000">[21v] matins</usage>
+      <usage ms="Ely" code="07011000">[66r] matins</usage>
+      <usage ms="Evm" code="07021000">[114r] matins</usage>
+      <usage ms="Hyd" code="07011000">[68v] matins</usage>
+      <usage ms="Mch" code="07011000">[112r] matins inv</usage>
+      <usage ms="Pet" code="07011000">[63r] matins</usage>
+      <usage ms="Wcb" code="07021000">[96v] matins</usage>
+      <usage ms="Wor" code="07011000">[42v] matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Non sit vobis vanum
+     <app>
+         <rdg wit="CAO-D CAO-L Ely Wor Pet Cht Evm Wcb Cdm Bat Mch"> surgere ante lucem</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2"> mane surgere ante lucem</rdg>
+      </app> quia promisit dominus coronam vigilantibus</aBody>
+</ant>

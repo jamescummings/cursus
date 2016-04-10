@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2711" nextid="c2713" id="c2712">
+   <aBody wit="CAO-E CAO-V CAO-F"> Et omnes angeli stabant in circuitu throni et ceciderunt in conspectu throni
+     <app>
+         <rdg wit="CAO-E CAO-F"> in facies suas</rdg>
+         <rdg wit="CAO-V"> et seniorum et ceciderunt in facies suas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F"> et adoraverunt deum</rdg>
+         <rdg wit="CAO-V"> et adoraverunt deum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3045" nextid="c3047" id="c3046">
+   <aBody wit="CAO-R">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N">Hic ab adolescentia</l>
+         <l part="N"> divina fretus gratia</l>
+         <l part="N"> anhelare non desiit</l>
+         <l part="N"> ad regnum vitae perpetis</l>
+      </lg>
+   </aBody>
+</ant>

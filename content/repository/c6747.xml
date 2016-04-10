@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6746" nextid="c6748" id="c6747">
+   <header>
+      <usage ms="Alb2" code="07061000">[103v] matins-n1-r2</usage>
+      <usage ms="Bat" code="07061000">[62r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="07061000">[74r] matins-r2</usage>
+      <usage ms="Cht" code="07061000">[53r] matins-n1-r2</usage>
+      <usage ms="Ely" code="07061000">[85r] matins-n1-r2</usage>
+      <usage ms="Evm" code="07061000">[141r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="07061000">[90r] matins-n1-r2</usage>
+      <usage ms="Mch" code="07061000">[151v] matins-n1-r2</usage>
+      <usage ms="Pet" code="07061000">[83v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="07061000">[111r] matins-n1-r2</usage>
+      <usage ms="Wor" code="07061000">[55r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch Bat"> Fratres mei elongaverunt a me</rdg>
+         <rdg wit="Alb2"> Fratres mei se elongaverunt a me</rdg>
+      </app> et noti mei quasi alieni recesserunt a me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R Mch"> Amici mei adversum me
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M"> appropiaverunt</rdg>
+            <rdg wit="CAO-H CAO-R Mch">appropinquaverunt</rdg>
+         </app> et proximi mei</vBody>
+      <vBody type="r" wit="CAO-C"> Amici mei et proximi mei appropinquaverunt et steterunt</vBody>
+      <vBody type="r" wit="CAO-G CAO-V CAO-D Ely Wor Pet Alb2 Cdm Bat"> Amici mei et proximi mei</vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L Cht Hyd Evm Wcb"> Dereliquerunt me proximi mei et qui me
+       <app>
+            <rdg wit="CAO-S CAO-L"> noverunt</rdg>
+            <rdg wit="CAO-F Cht Hyd Evm Wcb"> noverant</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">Quasi</rep>
+   </verses>
+</res>

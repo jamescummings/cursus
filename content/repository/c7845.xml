@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7844b" nextid="c7846" id="c7845">
+   <rBody wit="CAO-F">
+      <verse type="stanza">
+         <l part="N">Vernans purpurea caelitus in toga</l>
+         <l part="N">nos Clemens iugiter ut pater adiuva</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F">
+         <verse type="stanza">
+            <l part="N">Martyr martyrii maxima gloria</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-F">Nos</rep>
+      <prosula wit="CAO-F">Adiutor omnis periclitantis Israel Qui liberasti morsu leonum David Et in fornace protegis tres illos insontes Servas in Aegypto iustum venumdatum Joseph Nunc aggeraatem laudum favos catervam pie Deus suscipias Eamque donis virtutum fecundatam continue possideas Christe precantes quaesumus adiuva</prosula>
+   </verses>
+</res>

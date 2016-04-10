@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2341" nextid="c2343" id="c2342">
+   <header>
+      <usage ms="Bat" code="07021000">[52v] sext</usage>
+      <usage ms="Cdm" code="07021000">[62r] sext</usage>
+      <usage ms="Cht" code="07021000">[31v] prime</usage>
+      <usage ms="Ely" code="07021000"/>
+      <usage ms="Hyd" code="07021000"/>
+      <usage ms="Pet" code="07021000"/>
+      <usage ms="Wor" code="07021000"/>
+   </header>
+   <aBody wit="CAO-H CAO-R CAO-D CAO-F Ely Wor Hyd Cht Pet Cdm Bat">
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-F Ely Wor Hyd Cht Pet Cdm Bat"> Domine dimitte eam quia clamat post nos</rdg>
+         <rdg wit="CAO-D"> Domine dimitte illam quia clamat post nos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-F Ely Wor Cht Pet Cdm"> ait illis Jesus</rdg>
+         <rdg wit="CAO-R CAO-D Hyd Bat"> ait illi Jesus</rdg>
+      </app> non sum missus nisi ad oves quae perierunt domus Israel</aBody>
+</ant>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6846" nextid="c6847" id="c6846b">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">respond omitted from CAO vol.3</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-E Hyd"> Hodie caeli aperti sunt super eum et vox de caelo sonuit dicens hic est filius meus dilectus
+     <app>
+         <rdg wit="CAO-E"> in quo mihi complacuit</rdg>
+         <rdg wit="Hyd"> in quo mihi complacui</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Caeli aperti sunt super eum et vox patris audita est</vBody>
+      <vBody type="r" wit="Hyd">In columbae specie spiritus sanctus visus est paterna vox audita est</vBody>
+      <rep type="r" wit="CAO-E Hyd"> Hic est</rep>
+   </verses>
+</res>

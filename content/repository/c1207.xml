@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1206b" nextid="c1208" id="c1207">
+   <header>
+      <usage ms="Alb2" code="07013000"/>
+      <usage ms="Bat" code="07013000">[50v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07013000">[59r] vesp2</usage>
+      <usage ms="Cht" code="07013000"/>
+      <usage ms="Ely" code="07013000"/>
+      <usage ms="Ely" code="07014000"/>
+      <usage ms="Hyd" code="07013000"/>
+      <usage ms="Pet" code="07013000"/>
+      <usage ms="Wor" code="07013000"/>
+   </header>
+   <aBody wit="CAO-D Hyd Wor Cht Pet Alb2 Cdm Bat"> Abiit Jesus foras extra civitatem in Bethaniam ibique docebat eos de regno dei</aBody>
+</ant>

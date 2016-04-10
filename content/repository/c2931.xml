@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2930" nextid="c2932" id="c2931">
+   <aBody wit="CAO-E CAO-F CAO-L"> Gaudete et exultate quia nomina vestra scripta sunt
+     <app>
+         <rdg wit="CAO-E CAO-L"> in caelis</rdg>
+         <rdg wit="CAO-F"> in caelis dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

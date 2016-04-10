@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1616" nextid="o1618" id="o1617">
+   <header>
+      <usage ms="Cdm" code="07027000">[63v] sext</usage>
+      <usage ms="Wcb" code="07012000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.873</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb Cdm">Averte quaesumus domine iram tuam propitiatus a nobis et facinora nostra quibus indignationem tuam provocamus expelle</pBody>
+</prayer>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1712" nextid="c1714" id="c1713">
+   <header>
+      <usage ms="Alb2" code="02122600">[30v] matins-n1-a5</usage>
+      <usage ms="Bat" code="02122600">[18v] matins-n1-a5</usage>
+      <usage ms="Cdm" code="02122600">[24r] matins-n1-a5</usage>
+      <usage ms="Evm" code="02122600">[38v] matins-n1-a5</usage>
+      <usage ms="Hyd" code="02122600">[22r] matins-n1-a5</usage>
+      <usage ms="Pet" code="02122600">[21r] matins-n1-a5</usage>
+      <usage ms="Wor" code="02122600">[16v] matins-n1-a5</usage>
+   </header>
+   <aBody wit="CAO-G CAO-D CAO-S Alb2 Bat Evm Hyd Cdm Wor Pet"> Benedictionis tuae domine munere iustificatus et scuto tuae protectionis in passione munitus
+     <app>
+         <rdg wit="CAO-G CAO-D Alb2 Bat Evm Hyd Wor Pet"> nominis sui</rdg>
+         <rdg wit="Cdm"> nominis <corr sic="sui">tui</corr>
+         </rdg>
+         <rdg wit="CAO-S"> nominis tui</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-S Alb2 Bat Evm Hyd Cdm Wor Pet"> coronam</rdg>
+         <rdg wit="CAO-G"> corona</rdg>
+      </app> Stephanus
+     <app>
+         <rdg wit="CAO-G CAO-D Alb2 Bat Evm Hyd Cdm Wor Pet"> a te</rdg>
+         <rdg wit="CAO-S"> ad te</rdg>
+      </app> percipere meruit</aBody>
+</ant>

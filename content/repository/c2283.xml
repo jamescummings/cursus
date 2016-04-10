@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2282" nextid="c2283b" id="c2283">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Dixit Caesar ad Hippolytum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> nunc magus factus es</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S"> tu magus factus es</rdg>
+      </app> respondens Hippolytus dixit ad Decium non sum ego magus
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S"> sed sum servus domini mei Jesu Christi</rdg>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R"> sed servus domini mei Jesu Christi</rdg>
+         <rdg wit="CAO-M"> nisi servus domini mei Jesu Christi</rdg>
+      </app>
+   </aBody>
+</ant>

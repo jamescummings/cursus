@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1763" nextid="o1765" id="o1764">
+   <header>
+      <usage ms="Cdm" code="02010100">[33r] vesp1</usage>
+      <usage ms="Bat" code="14123100">[27r] vesp2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.13*: Fulda no.105</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Bat Cdm"> Deus qui nobis nati salvatoris diem celebrare concedis octavuum fac nos quaesumus eius perpetua divinitate muniri cuius sumus carnali commercio reparati</pBody>
+</prayer>

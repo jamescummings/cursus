@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2819" nextid="c2821" id="c2820">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-D Hyd"> Exsultet spiritus meus</rdg>
+         <rdg wit="CAO-C CAO-H"> Exsultat spiritus meus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-D Hyd"> in domino deo</rdg>
+         <rdg wit="CAO-E"> in deo</rdg>
+      </app> salutari meo</aBody>
+</ant>

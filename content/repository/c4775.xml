@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4774" nextid="c4776" id="c4775">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F"> Sanctus Dionysius qui tradente beato Clemente Petri apostoli successore verbi divini semina gentibus
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R"> parturienda susceperat</rdg>
+         <rdg wit="CAO-D CAO-F"> eroganda susceperat</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Quae Atheniensium magister Paulo docente didicerat Galliis mimstravit</vBody>
+   </verses>
+</ant>

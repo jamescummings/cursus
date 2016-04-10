@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4805" nextid="c4807" id="c4806">
+   <aBody wit="CAO-C CAO-V"> Sanctus vir Quintinus cum beato Lucio
+     <app>
+         <rdg wit="CAO-C"> ab urbe Roma</rdg>
+         <rdg wit="CAO-V"> ab urbe Romae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> se in hac transtulerunt regionem</rdg>
+         <rdg wit="CAO-V"> in hanc se transtulerunt regionem</rdg>
+      </app>
+   </aBody>
+</ant>

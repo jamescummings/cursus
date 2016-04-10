@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8608" nextid="c8610" id="c8609">
+   <header>
+      <usage ms="Ely" code="01021000">[8r] prime</usage>
+      <usage ms="Glo" code="01021000">[12v] terce</usage>
+      <usage ms="Wcb" code="01021000">[45v] terce</usage>
+   </header>
+   <aBody wit="Wcb Ely Glo"> Nolite timere neque formidetis pusillanimes confortamini ecce dominus deus noster veniet</aBody>
+</ant>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3495" nextid="c3497" id="c3496">
+   <header>
+      <usage ms="Alb2" code="01031000">[13v] lauds gosp</usage>
+      <usage ms="Bat" code="01031000">[9v] lauds gosp</usage>
+      <usage ms="Cdm" code="01031000">[15v] lauds gosp</usage>
+      <usage ms="Ely" code="01031000">[10v] lauds gosp</usage>
+      <usage ms="Evm" code="01031000">[18r] lauds gosp</usage>
+      <usage ms="Hyd" code="01031000">[11r] lauds gosp</usage>
+      <usage ms="Mch" code="01031000">[12r] lauds gosp</usage>
+      <usage ms="Wcb" code="01031000">[47v] lauds gosp</usage>
+      <usage ms="Wor" code="01031000">[8r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Joannes autem cum audisset in vinculis opera Christi mittens duos de discipulis suis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> ait illi</rdg>
+         <rdg wit="CAO-V"> ait illis</rdg>
+      </app> tu es qui venturus es an alium exspectamus</aBody>
+</ant>

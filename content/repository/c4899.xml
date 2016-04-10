@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4898" nextid="c4900" id="c4899">
+   <aBody wit="CAO-M CAO-H CAO-D CAO-L">
+      <app>
+         <rdg wit="CAO-D"> Si iniquitates observaveris</rdg>
+         <rdg wit="CAO-M"> Si iniquitatem observaberis</rdg>
+         <rdg wit="CAO-H CAO-L"> Si iniquitates observaberis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-D CAO-L"> domine domine quis sustinebit</rdg>
+         <rdg wit="CAO-M"> domine domine qui sustinebit</rdg>
+      </app>
+   </aBody>
+</ant>

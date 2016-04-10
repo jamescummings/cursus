@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5483" nextid="c5485" id="c5484">
+   <header>
+      <usage ms="Alb2" code="06011000">[66r] matins-n2-a1</usage>
+      <usage ms="Bat" code="06011000">[42r] matins-n3-a1</usage>
+      <usage ms="Cdm" code="06011000">[49v] matins-n3-a3</usage>
+      <usage ms="Cht" code="06011000">[12v] nones-a1</usage>
+      <usage ms="Ely" code="06011000">[60v] lauds gosp</usage>
+      <usage ms="Evm" code="06011000">[94v] sext</usage>
+      <usage ms="Glo" code="06018000">[50r] </usage>
+      <usage ms="Hyd" code="06018000">[62r]  gosp</usage>
+      <usage ms="Mch" code="06011000">[102r] vesp2 gosp</usage>
+      <usage ms="Pet" code="06011000">[55v] matins-n3</usage>
+      <usage ms="Wor" code="06011000">[36v] matins-n3-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Pet Ely Evm Glo Cdm Bat Mch"> Voca operarios et redde illis mercedem suam dicit dominus</aBody>
+</ant>

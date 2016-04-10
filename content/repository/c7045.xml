@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7044" nextid="c7046" id="c7045">
+   <header>
+      <usage ms="Alb2" code="01041000">[19r] matins-n2-r7</usage>
+      <usage ms="Bat" code="01041000">[12v] matins-n3-r9</usage>
+      <usage ms="Cdm" code="01041000">[18v] matins-n3-r9</usage>
+      <usage ms="Ely" code="01041000">[14r] matins-n3-r9</usage>
+      <usage ms="Evm" code="01041000">[23v] matins-n2-r7</usage>
+      <usage ms="Hyd" code="01041000">[13v] matins-n3-r9</usage>
+      <usage ms="Mch" code="01041000">[17v] matins-n2-r7</usage>
+      <usage ms="Pet" code="01041000">[11r] matins-n3-r9</usage>
+      <usage ms="Wcb" code="01041000">[48v] matins-n2-r7</usage>
+      <usage ms="Wor" code="01041000">[11v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Iuravi dicit dominus ut ultra iam
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> non irascar</rdg>
+         <rdg wit="CAO-C"> irascar</rdg>
+      </app> super terram montes enim et colles
+      <app>
+         <rdg wit="CAO-H CAO-L Hyd Alb2 Evm Ely Wcb Pet Bat"> suscipient</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-R CAO-D CAO-F Mch Cdm Wor"> suscipiant</rdg>
+         <rdg wit="CAO-M CAO-S"> suscipiunt</rdg>
+         <rdg wit="CAO-V">
+            <corr sic="suscipiant">suscipiunt</corr>
+         </rdg>
+      </app> iustitiam meam et testamentum pacis erit in Jerusalem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-H"> A solis ortu et occasu</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M"> A solis ortu</vBody>
+      <vBody type="r" wit="CAO-R"> A solis</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Iuxta est salus mea ut veniat et iustitia mea ut reveletur</vBody>
+      <rep type="r" wit="CAO-C CAO-V"> Suscipiant</rep>
+      <rep type="r" wit="CAO-B">
+         <sic resp="DC">Suscipient</sic>
+      </rep>
+      <rep type="r" wit="CAO-H CAO-R Hyd Alb2 Evm Mch Cdm Ely Wcb Pet Bat"> Et testamentum</rep>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-L Wor"> Montes</rep>
+      <rep type="r" wit="CAO-M CAO-S"> Erit</rep>
+   </verses>
+</res>

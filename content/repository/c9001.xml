@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c8619" nextid="c9002" id="c9001">
+   <header>
+      <usage ms="Alb2" code="06021000">[68r] matins-n1-r4</usage>
+      <usage ms="Bat" code="06021000">[43v] matins-n1-r4</usage>
+      <usage ms="Cdm" code="06021000">[51v] matins-n1-r4</usage>
+      <usage ms="Ely" code="06021000">[61r] matins-n1-r4</usage>
+      <usage ms="Hyd" code="06021000">[63r] matins-n1-r3</usage>
+      <usage ms="Mch" code="06021000">[103r] matins-n1-r4</usage>
+      <usage ms="Pet" code="06021000">[58r] matins-n1-r4</usage>
+      <usage ms="Wcb" code="06021000">[87v] matins-n2-r5</usage>
+      <usage ms="Wor" code="06021000">[38v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch"> Archa ferebatur super aquas et aqua nimium praevalante operti sunt montes excelsi sub universo caelo</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch"> Aqua cubitis quindecim supergrediens montes quos
+      <app>
+            <rdg wit="Hyd Wor Pet Ely Wcb Cdm Bat Mch">operverat</rdg>
+            <rdg wit="Alb2">operverunt</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch">Operti</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

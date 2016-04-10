@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7810" nextid="c7812" id="c7811">
+   <header>
+      <usage ms="Alb2" code="07062000">[106r] vesp2</usage>
+      <usage ms="Cdm" code="07062000">[76r] vesp2-r1</usage>
+      <usage ms="Cht" code="07051000">[46r] matins-n1-r3</usage>
+      <usage ms="Cht" code="07063000">[58v] vesp2</usage>
+      <usage ms="Ely" code="07051000">[81r] matins-n1-r3</usage>
+      <usage ms="Evm" code="07051000">[133v] matins-n1-r3</usage>
+      <usage ms="Evm" code="07062000">[145r] vesp2</usage>
+      <usage ms="Glo" code="07051000">[70r] vesp1</usage>
+      <usage ms="Hyd" code="07051000">[85v] matins-n1-r3</usage>
+      <usage ms="Mch" code="07051000">[147v] vesp2</usage>
+      <usage ms="Pet" code="07051000">[79v] matins-r3</usage>
+      <usage ms="Wcb" code="07051000">[107r] matins-n1-r3</usage>
+      <usage ms="Wor" code="07062000">[57r] vesp2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> Usquequo exaltabitur inimicus meus super me</rdg>
+         <rdg wit="CAO-G"> Usquequo exaltabitur super me</rdg>
+      </app> respice et exaudi me domine deus meus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Glo Cdm"> Qui tribulant me exsultabunt si motus fuero ego autem in misericordia tua speravi</vBody>
+      <vBody type="r" wit="CAO-L Alb2 Mch"> Nequando dicat inimicus meus praevalui adversus eum</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2">Respice</rep>
+      <rep type="r" num="2" wit="Wor Cht Evm Alb2"> Usquequo</rep>
+   </verses>
+</res>

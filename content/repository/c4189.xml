@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4188" nextid="c4189b" id="c4189">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02010608"/>
+      <usage ms="Alb2" code="02011300"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-D Alb2 Hyd Pet"> Ordines angelorum videntes invisibilem venientem
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D Alb2 Pet"> in aquis</rdg>
+         <rdg wit="Hyd"> in aquas</rdg>
+      </app> timore perterriti cogitabant
+     <app>
+         <rdg wit="CAO-C CAO-D Alb2 Hyd Pet"> quomodo invisibilis deus formam servi suscepit</rdg>
+         <rdg wit="CAO-E"> quomodo immutabilis deus formam servi suscepit</rdg>
+         <rdg wit="CAO-V"> quomodo invisibilis deus formam servi suscepi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D Hyd Pet"> et apparescens mundum illuminavit</rdg>
+         <rdg wit="CAO-E CAO-V Alb2"> et apparens mundum illuminavit</rdg>
+      </app> benedictus es domine deus Israel</aBody>
+</ant>

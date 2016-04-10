@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6265" nextid="c6267" id="c6266">
+   <header>
+      <usage ms="Alb2" code="02122800">[38v] matins-n3-r9</usage>
+      <usage ms="Bat" code="02122800">[23v] matins-n3-r11</usage>
+      <usage ms="Cdm" code="02122800">[29r] matins-n3-r9</usage>
+      <usage ms="Evm" code="02122800">[47v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="02122800">[26r] matins-n1-r2</usage>
+      <usage ms="Pet" code="02122800">[31r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="02122800">[63v] matins-n2-r6</usage>
+      <usage ms="Wor" code="02122800">[22v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Cantabant sancti canticum novum ante sedem dei et agni et resonabat terra
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S Evm Bat Cdm Wor Pet"> in voces illorum</rdg>
+         <rdg wit="CAO-B CAO-R Hyd Alb2 Wcb"> in voces eorum</rdg>
+         <rdg wit="CAO-L"> voces illorum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Effuderunt sanguinem sanctorum tuorum velut aqua in circuitu Jerusalem et non erat qui sepeliret
+
+      <vBody type="r" wit="CAO-B CAO-E CAO-H"> Isti sunt qui venerunt ex magna tribulatione et laverunt stolas suas in sanguine agni</vBody>
+         <vBody type="r" wit="CAO-G CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Sub throno dei
+       <app>
+               <rdg wit="CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> omnes sancti</rdg>
+               <rdg wit="CAO-G CAO-R"> sancti</rdg>
+            </app>
+            <app>
+               <rdg wit="CAO-G CAO-V CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> clamant</rdg>
+               <rdg wit="CAO-R CAO-S"> clamabant</rdg>
+            </app> vindica sanguinem nostrum deus noster</vBody>
+         <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor">Et resonabat</rep>
+         <prosula wit="CAO-D">
+            <note type="editorial" resp="Hesbert" place="unspecified" anchored="yes">Prosula in CAO-D constructed from Sap. 3:8</note>Iudicabunt innocentes atque cuncti cum Christo sancti nationes ac gentes orbis terrae omnes et domino iuncti dominabuntur populis et regna ascendentes supera cum victoriae palma ubi cum beata gloria nova canunt deo cantica festa celebrantes immortalia atque cum eis in pace regnabit illorum rex in aeterna luce donans eis perenne sertum quorum partem nobis ipsum rogamus esse pium ut queamus caelicum cum eis scandere regnum gaudere et in aeternum</prosula>
+      </vBody>
+   </verses>
+</res>

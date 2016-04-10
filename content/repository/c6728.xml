@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6727" nextid="c6729" id="c6728">
+   <header>
+      <usage ms="Alb2" code="01021000">[9r] matins-n3-r12</usage>
+      <usage ms="Bat" code="01031000">[9r] matins-n2-r8</usage>
+      <usage ms="Cdm" code="01031000">[15r] matins-n2-r8</usage>
+      <usage ms="Ely" code="01031000">[10v] matins-n3-r10</usage>
+      <usage ms="Evm" code="01031000">[17v] matins-n3-r11</usage>
+      <usage ms="Glo" code="01031000">[15v] vesp1</usage>
+      <usage ms="Hyd" code="01031000">[10v] matins-n3-r9</usage>
+      <usage ms="Mch" code="01031000">[11v] matins-n3-r12</usage>
+      <usage ms="Wcb" code="01031000">[47r] matins-n3-r11</usage>
+      <usage ms="Wor" code="01031000">[7v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat"> Festina ne tardaveris domine et libera populum tuum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Veni domine et noli tardare relaxa facinora
+      <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Cdm Ely Wor Wcb Glo Bat"> plebis tuae</rdg>
+            <rdg wit="Mch"> plebis tuae Israel</rdg>
+            <rdg wit="Hyd"> plebi tuae</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E CAO-V">
+         <app>
+            <rdg wit="CAO-E"> Excita domine</rdg>
+            <rdg wit="CAO-V"> Exita</rdg>
+         </app> potentiam tuam et veni</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wcb Glo Bat"> Et libera</rep>
+      <dox type="r" wit="CAO-V Glo"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-V"> Populum</rep>
+   </verses>
+</res>

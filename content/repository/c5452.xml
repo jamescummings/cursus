@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5451" nextid="c5453" id="c5452">
+   <header>
+      <usage ms="Alb2" code="02122500">[26v] matins-n3</usage>
+      <usage ms="Bat" code="02122500">[16r] matins-n3</usage>
+      <usage ms="Cdm" code="02122500">[22r] matins-n3</usage>
+      <usage ms="Ely" code="02122500">[21r] sext</usage>
+      <usage ms="Evm" code="02122500">[32v] commemoration</usage>
+      <usage ms="Hyd" code="02122500">[21r] sext</usage>
+      <usage ms="Pet" code="02122508">[20r] </usage>
+      <usage ms="Wcb" code="02122500">[57v]vesp2 commemoration</usage>
+      <usage ms="Wor" code="02122500">[15r] matins-n3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.157</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Virgo hodie fidelis et si verbum genuit incarnatum virgo mansit et post partum
+     <app>
+         <rdg wit="CAO-B CAO-M Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> quam laudantes omnes dicimus</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R CAO-D CAO-S CAO-L"> quem laudantes omnes dicimus</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="quem">quam</corr> laudantes omnes dicimus</rdg>
+         <rdg wit="CAO-H"> quam laudantes omnes dicamus</rdg>
+      </app> benedicta tu in mulieribus</aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9542" nextid="c9544" id="c9543">
+   <header>
+      <usage ms="Ely" code="01031000">[11r] vesp2</usage>
+   </header>
+   <rBody wit="Ely"> Memento nostri domine in beneplacito tuo</rBody>
+   <verses>
+      <vBody type="r" wit="Ely"> Visita nos in salutari tuo</vBody>
+      <rep type="r" wit="Ely">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">no regressio shown in Ely</note>
+      </rep>
+   </verses>
+</res>

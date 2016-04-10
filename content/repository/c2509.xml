@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2508" nextid="c2510" id="c2509">
+   <header>
+      <usage ms="Alb2" code="01011000">[4v] lauds-a3</usage>
+      <usage ms="Bat" code="01011000">[4r] lauds-a3</usage>
+      <usage ms="Cdm" code="01011000">[10r] lauds-a3</usage>
+      <usage ms="Ely" code="01011000">[4v] lauds-a3</usage>
+      <usage ms="Evm" code="01011000">[7r] lauds-a3</usage>
+      <usage ms="Hyd" code="01011000">[3v] lauds-a3</usage>
+      <usage ms="Mch" code="01011000">[4v] lauds-a3</usage>
+      <usage ms="Wcb" code="01011000">[43v] lauds-a3</usage>
+      <usage ms="Wor" code="01011000">[3r] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Ecce dominus veniet et omnes sancti eius cum eo et erit in die illa lux magna alleluia</aBody>
+</ant>

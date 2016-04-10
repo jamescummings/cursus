@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2982" nextid="c2984" id="c2983">
+   <aBody wit="CAO-R">
+      <lg type="verse" org="uniform" sample="complete" part="N">
+         <l part="N"> Gregorius ut creditur</l>
+         <l part="N"> divinitus sic dicitur</l>
+         <l part="N"> qui sibi et ecclesiae</l>
+         <l part="N"> vigilavit catholicae</l>
+      </lg>
+   </aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3689" nextid="c3691" id="c3690">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] sext</usage>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Mane nobiscum quoniam advesperascit</rdg>
+         <rdg wit="Cdm"> Mane nobiscum domine quoniam advesperascit</rdg>
+      </app> et inclinata est iam dies
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cdm"> alleluia alleluia</rdg>
+         <rdg wit="CAO-M"> alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2162" nextid="c2164" id="c2163">
+   <header>
+      <usage ms="Alb2" code="01036000">[16v] lauds-a4</usage>
+      <usage ms="Bat" code="01036000">[11r] lauds-a4</usage>
+      <usage ms="Cdm" code="01036000">[17r] lauds-a4</usage>
+      <usage ms="Ely" code="01036000">[12v] lauds-a4</usage>
+      <usage ms="Evm" code="01036009">[21r] lauds-a4</usage>
+      <usage ms="Evm" code="01046000">[25v] lauds-a4</usage>
+      <usage ms="Mch" code="01036000">[15r] lauds-a4</usage>
+      <usage ms="Pet" code="01036009">[9r] lauds-a4</usage>
+      <usage ms="Wcb" code="01046000">[51r] lauds-a4</usage>
+      <usage ms="Wor" code="01036000">[9v] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Deus a Libano veniet et splendor eius sicut lumen erit</aBody>
+</ant>

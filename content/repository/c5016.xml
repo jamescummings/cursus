@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5015" nextid="c5017" id="c5016">
+   <aBody wit="CAO-G CAO-E CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-F"> Stans beata Agatha in medio carceris</rdg>
+         <rdg wit="CAO-D"> Sans beata Agathes in medio carceris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-D CAO-F"> expansis manibus</rdg>
+         <rdg wit="CAO-E"> expassis manibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E"> tota mente collaudabat dominum</rdg>
+         <rdg wit="CAO-D CAO-F"> tota mente orabat ad dominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-D CAO-F"> domine Jesu Christe magister bone gratias ago tibi</rdg>
+         <rdg wit="CAO-E"> domine rex omnipotens</rdg>
+      </app> qui me fecisti vincere tormenta carnificum iube me domine ad tuam immarcescibilem gloriam feliciter pervenire</aBody>
+</ant>

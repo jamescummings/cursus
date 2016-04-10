@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9521" nextid="c9523" id="c9522">
+   <header>
+      <usage ms="Pet" code="02010600"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. antiphon c4120</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Pet">Omnes de Saba venient aurum et thus deferentes</rBody>
+   <verses>
+      <vBody type="r" wit="Pet">Et laudem domino annuntiantes</vBody>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

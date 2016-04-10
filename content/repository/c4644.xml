@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4643" nextid="c4645" id="c4644">
+   <aBody wit="CAO-E CAO-M CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L"> Revelante apostolo Polymium ordinarunt antistitem</rdg>
+         <rdg wit="CAO-M"> Revelante apostolo Paulimius ordinavit antistitem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-S CAO-L"> qui multa in Christi nomine</rdg>
+         <rdg wit="CAO-M"> qui pro Christi nomine</rdg>
+      </app> coepit miracula facere</aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4729" nextid="c4731" id="c4730">
+   <aBody wit="CAO-M CAO-V CAO-L"> Sancti martyres dum torquerentur dixerunt domine Jesu Christe
+     <app>
+         <rdg wit="CAO-M CAO-L"> libera nos a laqueo diaboli</rdg>
+         <rdg wit="CAO-V"> libera nos a laqueos diaboli</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> et a filio eius Lixiae praesidi</rdg>
+         <rdg wit="CAO-V"> et a filio eius Lisio praeside</rdg>
+         <rdg wit="CAO-L"> et a filio eius Lisio praesidi</rdg>
+      </app>
+   </aBody>
+</ant>

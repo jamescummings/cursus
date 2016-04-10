@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7621" nextid="c7623" id="c7622">
+   <rBody wit="CAO-E CAO-F"> Saulus adhuc spirans minarum et caedis in discipulos domini abiit ad principes sacerdotum et petiit illos
+     <app>
+         <rdg wit="CAO-E"> ut ubi inveniret</rdg>
+         <rdg wit="CAO-F"> ut si quos inveniret</rdg>
+      </app> huius viae viros vinctos perduceret Jerusalem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F">Ibat igitur Saulus furia invectus dirumque toto pectore virus efflabat</vBody>
+      <rep type="r" wit="CAO-E CAO-F">Ut</rep>
+   </verses>
+</res>

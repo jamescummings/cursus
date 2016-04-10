@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5016" nextid="c5018" id="c5017">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S"> Stans beata Agnes in medio flammae</rdg>
+         <rdg wit="CAO-F CAO-L"> Stans beata Agnes in medio flammarum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> expansis manibus orabat ad dominum</rdg>
+         <rdg wit="CAO-B CAO-E"> expassis manibus orabat ad dominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> omnipotens adorande colende tremende benedico te</rdg>
+         <rdg wit="CAO-E"> omnipotens venerande colende tremende benedico te</rdg>
+      </app> et glorifico nomen tuum in aeternum</aBody>
+</ant>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1374" nextid="c1376" id="c1375">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Amen amen dico vobis</rdg>
+         <rdg wit="CAO-C"> Amen dico vobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> quia plorabitis et flebitis vos</rdg>
+         <rdg wit="CAO-C"> plorabitis et flebitis vos</rdg>
+         <rdg wit="CAO-S"> quia plorabitis et flevitis vos</rdg>
+      </app> mundus autem gaudebit
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> vos autem contristabimini</rdg>
+         <rdg wit="CAO-C" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> sed tristitia vestra vertetur in gaudium</rdg>
+         <rdg wit="CAO-C"> tristitia vestra vertetur in gaudium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

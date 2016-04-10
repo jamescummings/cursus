@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8602" nextid="c8604" id="c8603">
+   <header>
+      <usage ms="Mch" code="07031000">[132r] lauds-a3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">text from Ps.62:4</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Mch"> Melior est misericordia tua super vitam</aBody>
+</ant>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2976" nextid="c2978" id="c2977">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gratias tibi deus gratias tibi vera una trinitas
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-L"> una et trina veritas</rdg>
+         <rdg wit="CAO-M CAO-D CAO-F"> una et summa veritas</rdg>
+         <rdg wit="CAO-S"> una et summa deitas</rdg>
+         <rdg wit="CAO-B"> una et trina deitas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-L"> trina et una unitas</rdg>
+         <rdg wit="CAO-M CAO-F"> sancta et una unitas</rdg>
+         <rdg wit="CAO-D"> sancta et una deitas</rdg>
+         <rdg wit="CAO-S"> sancta et vera deitas</rdg>
+         <rdg wit="CAO-V"> trina et vera unitas</rdg>
+      </app>
+   </aBody>
+</ant>

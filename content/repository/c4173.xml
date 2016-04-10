@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4172" nextid="c4174" id="c4173">
+   <aBody wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> Orabat sanctus Benedictus</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> Oravit sanctus Benedictus</rdg>
+      </app> domine non aspicias peccata mea sed fidem huius hominis
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> qui rogat resuscitari filium suum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> qui resuscitari filium suum rogat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F"> et sub oculis omnium</rdg>
+         <rdg wit="CAO-S"> et sub oculis hominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-F CAO-S"> viventem puerum reddidit patri suo</rdg>
+         <rdg wit="CAO-B"> viventem puerum reddidit matri suo</rdg>
+         <rdg wit="CAO-D"> viventem iuvenum reddidit patri suo</rdg>
+      </app>
+   </aBody>
+</ant>

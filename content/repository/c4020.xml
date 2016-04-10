@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4019" nextid="c4021" id="c4020">
+   <aBody wit="CAO-M CAO-V CAO-H CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-F"> O crux viride lignum</rdg>
+         <rdg wit="CAO-V"> O crux viride ligno</rdg>
+         <rdg wit="CAO-L"> O crux sacratissima</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-F CAO-L"> quia super te pependit redemptor Israel</rdg>
+         <rdg wit="CAO-V"> quia in te est redemptor Israel</rdg>
+      </app> o quam dulce lignum
+     <app>
+         <rdg wit="CAO-M CAO-F CAO-L"> quam dulces clavos</rdg>
+         <rdg wit="CAO-V"> quam dulce clavos</rdg>
+         <rdg wit="CAO-H"> quam dulci clavo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-F CAO-L"> quam dulcia ferens pondera</rdg>
+         <rdg wit="CAO-V"> dulcia ferens pondera</rdg>
+      </app> o quam pretiosum lignum
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-H CAO-L"> quam pretiosa gemma</rdg>
+         <rdg wit="CAO-F"> quam speciosa gemma</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-F CAO-L"> quae Christum meruit portare</rdg>
+         <rdg wit="CAO-V"> qui Christum meruit sustinere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-L"> per quem salus mundi facta est alleluia</rdg>
+         <rdg wit="CAO-F"> per quam salus mundi facta est alleluia</rdg>
+         <rdg wit="CAO-M"> per quem salus mundi facta est</rdg>
+      </app>
+   </aBody>
+</ant>

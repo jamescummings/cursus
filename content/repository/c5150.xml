@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5149" nextid="c5151" id="c5150">
+   <header>
+      <usage ms="Hyd" code="01015000">[6r] lauds-a1</usage>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Tibi soli peccavi domine
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-S CAO-L Hyd"> miserere mei</rdg>
+         <rdg wit="CAO-H"> et miserere mei</rdg>
+      </app>
+   </aBody>
+</ant>

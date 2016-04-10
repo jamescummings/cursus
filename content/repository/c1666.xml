@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1665" nextid="c1667" id="c1666">
+   <header>
+      <usage ms="Alb2" code="02122500">[30r] commemoration</usage>
+      <usage ms="Evm" code="02122600">[41v] terce</usage>
+      <usage ms="Pet" code="02122600">[24r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="02122600">[60r] terce</usage>
+      <usage ms="Wor" code="02122600">[19r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-V CAO-D CAO-F CAO-S Alb2 Evm Wcb Wor Pet"> Beatus Stephanus levita magnificus sicut ante alios
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-S Alb2 Wor Pet"> dominicae passionis et pietatis</rdg>
+         <rdg wit="CAO-F Evm Wcb"> dominicae pietatis et passionis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S Alb2 Evm Wcb Wor Pet">enituit imitator</rdg>
+         <rdg wit="CAO-V">emicuit imitator</rdg>
+      </app> sic domine apud te pro nobis sit
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-F Alb2 Evm Wcb Wor Pet"> perpetuus intercessor</rdg>
+         <rdg wit="CAO-S"> perpetus intercessor</rdg>
+      </app>
+   </aBody>
+</ant>

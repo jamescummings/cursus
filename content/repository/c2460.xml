@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2459" nextid="c2461" id="c2460">
+   <aBody wit="CAO-C CAO-E CAO-R">
+      <app>
+         <rdg wit="CAO-R"> Dum iter per mare fecisset</rdg>
+         <rdg wit="CAO-C"> Dum iter maris coepisset</rdg>
+         <rdg wit="CAO-E"> Cum iter mare coepisset</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E"> populus voce magna clamabat</rdg>
+         <rdg wit="CAO-R"> populus voce magna clamavit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-R"> domine Jesu Christe salva illum</rdg>
+         <rdg wit="CAO-C"> domine salva eum</rdg>
+      </app> et Clemens cum lacrimis dicebat
+     <app>
+         <rdg wit="CAO-C CAO-R"> accipe pater spiritum meum</rdg>
+         <rdg wit="CAO-E"> suscipe pater spiritum meum</rdg>
+      </app>
+   </aBody>
+</ant>

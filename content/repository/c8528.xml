@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8527" nextid="c8529" id="c8528">
+   <header>
+      <usage ms="Evm" code="07057000">[140v] nones</usage>
+      <usage ms="Glo" code="07057000">[72r] nones</usage>
+      <usage ms="Wcb" code="07057000">[110v] nones</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes"> verse of respond c6630 in CAO-D CAO-F CAO-S CAO-L</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Wcb Glo"> Ecce Satanas expetivit vos ut cribraret sicut triticum ego autem rogavi Petre pro te ut non deficiat fides tua</aBody>
+</ant>

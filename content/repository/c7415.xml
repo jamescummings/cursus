@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7414" nextid="c7416" id="c7415">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Posuit coronam capiti meo et circumdedit me
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> vestimento salutis</rdg>
+         <rdg wit="CAO-C CAO-D"> muro salutis</rdg>
+      </app> ad expugnandas gentes et omnes inimicos</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iudica domine nocentes me expugna impugnantes me apprehende arma et scutum
+      <app>
+            <rdg wit="CAO-C CAO-E CAO-D CAO-F"> et exsurge in adiutorium mihi</rdg>
+            <rdg wit="CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Ad</rep>
+   </verses>
+</res>

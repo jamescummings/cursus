@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2279" nextid="c2281" id="c2280">
+   <header>
+      <usage ms="Ely" code="07027000"/>
+      <usage ms="Hyd" code="07027000">[77v] nones</usage>
+      <usage ms="Mch" code="07031000">[128r] vesp1 gosp</usage>
+      <usage ms="Pet" code="07027000"/>
+      <usage ms="Wor" code="07027000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Pet Mch"> Dixit autem pater ad servos suos cito proferte stolam primam et induite illum et date annulum in manu eius et calceamenta
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Mch">in pedibus eius</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L Ely Hyd Pet">in pedes eius</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Wor" num="2">
+      <gap reason="verbal and musical text erased" resp="DC"/> ad servos suos cito proferte stolam <gap reason="verbal text erased" resp="DC"/>
+   </aBody>
+</ant>

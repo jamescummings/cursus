@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3868" nextid="c3870" id="c3869">
+   <header>
+      <usage ms="Mch" code="07021000">[121r] vesp1 gosp</usage>
+      <usage ms="Alb2" code="07021000">[82v] vesp1</usage>
+      <usage ms="Cht" code="07017000"/>
+      <usage ms="Ely" code="07021000">[71r] vesp1</usage>
+      <usage ms="Evm" code="07017000"/>
+      <usage ms="Hyd" code="07017000"/>
+      <usage ms="Pet" code="07021000">[67r] vesp1</usage>
+      <usage ms="Wor" code="07021000">[45r] vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Alb2 Mch"> Nemini dixeritis visionem
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Alb2 Mch"> donec filius hominis a mortuis resurgat</rdg>
+         <rdg wit="CAO-G CAO-M"> donec a mortuis resurgat filius hominis</rdg>
+      </app>
+   </aBody>
+</ant>

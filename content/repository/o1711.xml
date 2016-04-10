@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1710" nextid="o1712" id="o1711">
+   <header>
+      <usage ms="Cdm" code="07016000">[60r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Deus qui delinquentes perire non pateris sed expectas ut convertantur et vivant ddebitam quaesumus peccatis nostris suspende vindictam et praesta propitius ne dissimulatio cumulet ultionem sed potius per ieiunium emendatio possit inveniri culparum</pBody>
+</prayer>

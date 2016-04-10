@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4700" nextid="c4702" id="c4701">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Sancta legio Agaunensium martyrum
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> dum resisterent adversariis</rdg>
+         <rdg wit="CAO-C CAO-V"> dum resisteret adversariis</rdg>
+         <rdg wit="CAO-D CAO-F"> dum resisteret adversarii</rdg>
+         <rdg wit="CAO-E"> dum resisterent adversarii</rdg>
+      </app> sacro duce Mauritio interveniente
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> immortalitatis compendium acquisierunt</rdg>
+         <rdg wit="CAO-E"> immortalitatis compendio acquisierunt</rdg>
+      </app>
+   </aBody>
+</ant>

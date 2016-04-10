@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4902" nextid="c4904" id="c4903">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Si offers munus tuum ante altare</rdg>
+         <rdg wit="CAO-C CAO-L"> Si offers munus tuum ad altare</rdg>
+         <rdg wit="CAO-D"> Si offeres munus tuum ad altare</rdg>
+      </app> et recordatus fueris quia frater tuus habet aliquid
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> adversum te</rdg>
+         <rdg wit="CAO-H">
+            <corr sic="adversus">adversum</corr> te</rdg>
+         <rdg wit="CAO-L"> adversus te</rdg>
+      </app> relinque ibi munus tuum ante altare
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> et vade prius reconciliari fratri tuo</rdg>
+         <rdg wit="CAO-D"> et vade prius <sic resp="Hesbert">reconliari</sic> fratri tuo</rdg>
+         <rdg wit="CAO-L"> et vade prius reconciliare fratri tuo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-F CAO-S"> et tunc veniens</rdg>
+         <rdg wit="CAO-V CAO-R CAO-D CAO-L"> et tunc venies</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> offeres munus tuum alleluia</rdg>
+         <rdg wit="CAO-D"> offer munus tuum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1572" nextid="o1574" id="o1573">
+   <header>
+      <usage ms="Alb2" code="07062000">[106v] vesp2</usage>
+      <usage ms="Cdm" code="07062000">[76r] vesp2</usage>
+      <usage ms="Cht" code="07062000">[57v] vesp2</usage>
+      <usage ms="Ely" code="07062000">[87r] vesp2</usage>
+      <usage ms="Evm" code="07062000">[145r] vesp2</usage>
+      <usage ms="Hyd" code="07062000">[92r] vesp2</usage>
+      <usage ms="Mch" code="07062000">[156r] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.318</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Alb2 Cdm Mch">Adiuva nos deus salutaris noster et ad beneficia recolenda quibus nos instaurare dignatus es tribue venire gaudentes</pBody>
+</prayer>

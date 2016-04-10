@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6250" nextid="c6252" id="c6251">
+   <header>
+      <usage ms="Alb2" code="02010100">[46r] matins-n2-r6</usage>
+      <usage ms="Bat" code="02123000">[25r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="02123000">[31r] matins-n2-r5</usage>
+      <usage ms="Ely" code="02122500">[20r] matins-n3-r11</usage>
+      <usage ms="Evm" code="02010100">[60v] matins-n3-r10</usage>
+      <usage ms="Evm" code="02122500">[37r] lauds</usage>
+      <usage ms="Hyd" code="02011300" corresp="c6251-3">matins-n2-r6</usage>
+      <usage ms="Hyd" code="02122500">lauds</usage>
+      <usage ms="Hyd" code="03021000" corresp="c6251-3">matins-n1-r3</usage>
+      <usage ms="Pet" code="02122500">[18r] lauds</usage>
+      <usage ms="Wcb" code="02122500">[57r] lauds</usage>
+      <usage ms="Wor" code="02010100">[24r] vesp1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Benedictus qui venit in nomine domini deus dominus et illuxit nobis
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Wcb Bat Ely Wor Pet" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-L">alleluia alleluia</rdg>
+         <rdg wit="Hyd"> alleluia alleluia alleluia</rdg>
+      </app>
+   </rBody>
+   <rBody id="c6251-3" wit="Hyd" num="2"> Benedictus qui venit in nomine domini deus dominus et illuxit nobis alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Ely Wor Pet"> Lapidem quem reprobaverunt aedificantes hic factus est in caput anguli</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-H CAO-R"> Lapidem quem reprobaverunt aedificantes hic factus est in caput anguli a domino factum est istud et est mirabile in oculis nostris</vBody>
+      <vBody type="r" wit="CAO-V CAO-S"> A domino factum est istud et est mirabile in oculis nostris</vBody>
+      <vBody type="r" wit="CAO-L"> Haec dies quam fecit dominus exsultemus et laetemur in ea</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Wcb Bat Cdm Wor Pet">Deus</rep>
+      <rep type="r" wit="Evm">Dominus</rep>
+      <rep type="r" wit="CAO-V Ely">Et illuxit</rep>
+      <rep type="r" wit="CAO-C CAO-G CAO-L Hyd">Alleluia</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+      <rep type="r" num="2" wit="Evm">Benedictus</rep>
+   </verses>
+</res>

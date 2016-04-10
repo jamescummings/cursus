@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7359" nextid="c7361" id="c7360">
+   <rBody wit="CAO-C CAO-M CAO-H CAO-R CAO-L"> Pater cum essem cum eis ego servabam eos quos dedisti mihi alleluia nunc autem ad te venio non rogo
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-L"> ut tollas eos</rdg>
+         <rdg wit="CAO-M"> ut tollat eos</rdg>
+      </app> de mundo sed ut serves eos a malo alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-H CAO-R"> Pater sancte serva eos in nomine tuo quos dedisti mihi</vBody>
+      <vBody type="r" wit="CAO-L"> Dedi eis sermonem tuum et mundus eos odio habuit</vBody>
+      <rep type="r" wit="CAO-C CAO-H CAO-R">Non</rep>
+      <rep type="r" wit="CAO-M CAO-L">Nunc</rep>
+   </verses>
+</res>

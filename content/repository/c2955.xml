@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2954" nextid="c2956" id="c2955">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-F"> Gloriosa genitrix Symphoriano dixit
+     <app>
+         <rdg wit="CAO-E CAO-F"> sursum cor suspende</rdg>
+         <rdg wit="CAO-C CAO-V"> sursum corda suspende</rdg>
+      </app> fili tibi vita non tollitur
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-F"> sed mutatur in melius</rdg>
+         <rdg wit="CAO-V"> sed mutantur in melius</rdg>
+      </app>
+   </aBody>
+</ant>

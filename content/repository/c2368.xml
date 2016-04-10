@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2367" nextid="c2369" id="c2368">
+   <header>
+      <usage ms="Alb2" code="05041000"/>
+      <usage ms="Bat" code="06035000">[46v] lauds-a1</usage>
+      <usage ms="Cdm" code="06035000">[55v] lauds</usage>
+      <usage ms="Cht" code="06035000"/>
+      <usage ms="Ely" code="06035000"/>
+      <usage ms="Hyd" code="06035000"/>
+      <usage ms="Pet" code="06035000">[62v] </usage>
+      <usage ms="Wor" code="06035000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cht Wor Pet Hyd Ely Alb2 Cdm Bat"> Domine puer meus iacet
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cht Wor Pet Hyd Ely Alb2 Bat"> paralyticus in domo</rdg>
+         <rdg wit="Cdm"> in domo paralyticus</rdg>
+      </app> et male torquetur amen dico tibi ego veniam et curabo eum</aBody>
+</ant>

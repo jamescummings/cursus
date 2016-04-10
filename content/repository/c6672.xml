@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6671" nextid="c6672b" id="c6672">
+   <header>
+      <usage ms="Alb2" code="01041000">[19v] matins-n3-r9</usage>
+      <usage ms="Ely" code="01041000">[13v] matins-n2-r5</usage>
+      <usage ms="Evm" code="01011000">[6v] matins-n3-r12</usage>
+      <usage ms="Hyd" code="01041000">[13r] matins-n1-r2</usage>
+      <usage ms="Mch" code="01021000">[8r] matins-n3-r10</usage>
+      <usage ms="Wcb" code="01011000">[43r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-R CAO-L Alb2 Evm Mch Wcb Ely">
+      <app>
+         <rdg wit="CAO-L Alb2 Evm Mch Wcb Ely"> Erumpant montes</rdg>
+         <rdg wit="CAO-R"> Erumpent montes</rdg>
+      </app> iucunditatem et colles
+      <app>
+         <rdg wit="CAO-R Alb2 Evm Mch Wcb Ely"> iustitiam</rdg>
+         <rdg wit="CAO-L"> laetitiam</rdg>
+      </app> quia lux mundi dominus cum potentia
+      <app>
+         <rdg wit="CAO-R Alb2 Evm Mch Wcb Ely"> venit</rdg>
+         <rdg wit="CAO-L"> veniet</rdg>
+      </app>
+   </rBody>
+   <rBody wit="Hyd">
+      <note type="editorial" resp="DC" place="unspecified" anchored="yes">Body of respond missing as a result of lost folio.  Identity presumed on the basis of the text of the regressio</note>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Evm Wcb"> De Sion exibit lex et verbum domini de Jerusalem</vBody>
+      <vBody type="r" wit="CAO-L"> Domus Jacob venite et ambulemus in lumine domini</vBody>
+      <vBody type="r" wit="CAO-R"> Laetamini cum Jerusalem et exsultate in ea omnes qui diligitis eam</vBody>
+      <vBody type="r" wit="Alb2 Mch Ely"> Leva Jerusalem oculos et vide potentiam regis</vBody>
+      <rep type="r" wit="CAO-R CAO-L Hyd Alb2 Mch Ely"> Quia</rep>
+      <rep type="r" wit="Evm Wcb">Cum potentia</rep>
+      <dox type="r" wit="Evm Wcb">Gloria</dox>
+   </verses>
+</res>

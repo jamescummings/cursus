@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1700" nextid="c1702" id="c1701">
+   <header>
+      <usage ms="Hyd" code="01014000">[5v] matins-n1-a2</usage>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-V CAO-S Hyd">
+      <app>
+         <rdg wit="CAO-S"> Benedicite gentes deo nostro</rdg>
+         <rdg wit="CAO-V Hyd"> Benedicite gentes deum nostrum</rdg>
+      </app>
+   </aBody>
+</ant>

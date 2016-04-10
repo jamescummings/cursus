@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4598" nextid="c4600" id="c4599">
+   <aBody wit="CAO-E CAO-V">
+      <app>
+         <rdg wit="CAO-E"> Regnavit dominus praecinctus fortitudine</rdg>
+         <rdg wit="CAO-V"> Regnavit dominus praecinctus fortitudinem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> cum decoris virtute</rdg>
+         <rdg wit="CAO-V"> cum decore virtutis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> cuius sedes parata est in aeternum</rdg>
+         <rdg wit="CAO-V"> cuius sede parata est in aeternum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

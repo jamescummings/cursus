@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4255" nextid="c4257" id="c4256">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+   </header>
+   <aBody wit="CAO-C CAO-D CAO-F CAO-L Hyd Pet">
+      <app>
+         <rdg wit="CAO-D CAO-F Hyd Pet"> Peccati aculeus conteritur hodie</rdg>
+         <rdg wit="CAO-C"> Peccati aculeo conteretur hodie</rdg>
+         <rdg wit="CAO-L"> Peccati aculeus conteretur hodie</rdg>
+      </app> baptizato domino
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-L Hyd Pet"> et nobis donata est regeneratio</rdg>
+         <rdg wit="CAO-C"> et nobis data est regeneratio</rdg>
+      </app>
+   </aBody>
+</ant>

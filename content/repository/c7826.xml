@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7825" nextid="c7827" id="c7826">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Veni electa mea et ponam in te thronum meum quia concupivit rex speciem tuam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H"> Specie tua et pulchritudine tua intende prospere procede et regna</vBody>
+      <vBody type="r" wit="CAO-M"> Specie tua</vBody>
+      <vBody id="c7826-1" type="r" wit="CAO-D"> Specie tua</vBody>
+      <rep corresp="c7826-1" type="r" wit="CAO-D">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-D</note>
+      </rep>
+      <vBody type="r" wit="CAO-R CAO-F CAO-S CAO-L"> Audi filia et vide et inclina aurem tuam</vBody>
+      <vBody type="r" wit="CAO-E CAO-V CAO-L">
+         <app>
+            <rdg wit="CAO-L"> Surge virgo regia</rdg>
+            <rdg wit="CAO-E CAO-V"> Surgens virgo regia</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-L"> et aeterno digna decore</rdg>
+            <rdg wit="CAO-V"> et aeterna digna decora</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-L"> conscende praeclarum palatium</rdg>
+            <rdg wit="CAO-V"> transcendens praeclara palatia</rdg>
+         </app> regis aeterni</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">Quia</rep>
+      <dox type="r" wit="CAO-V"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-V">Speciem</rep>
+   </verses>
+</res>

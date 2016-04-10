@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1022a" nextid="c1023" id="c1022b">
+   <header>
+      <usage ms="Glo" code="06011000">[49r] vesp1</usage>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Pet" code="07067000">[95v] vesp2-a1</usage>
+   </header>
+   <aBody wit="Pet Glo Hyd">Alleluia alleluia alleluia alleluia alleluia alleluia</aBody>
+</ant>

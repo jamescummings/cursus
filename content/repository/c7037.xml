@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7036b" nextid="c7038" id="c7037">
+   <header>
+      <usage ms="Cdm" code="07031000">[64r] matins-n1-r4</usage>
+      <usage ms="Cht" code="07033000">[38v] matins-r1</usage>
+      <usage ms="Ely" code="07031000">[74r] matins-n1-r4</usage>
+      <usage ms="Evm" code="07031000">[121r] matins-n2-r6</usage>
+      <usage ms="Hyd" code="07031000">[78r] matins-n1-r4</usage>
+      <usage ms="Mch" code="07031000">[129v] matins-n2-r5</usage>
+      <usage ms="Pet" code="07031000">[71v] matins-r4</usage>
+      <usage ms="Wcb" code="07031000">[100v] matins-n2-r5</usage>
+      <usage ms="Wor" code="07031000">[48r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch"> Joseph dum intraret
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F Wor Cht Hyd Pet Evm Wcb Cdm Mch"> in terram Aegypti</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-S CAO-L Ely"> in terra Aegypti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch"> linguam</rdg>
+         <rdg wit="CAO-M CAO-S CAO-L"> lingua</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Mch"> quam non novit audivit</rdg>
+         <rdg wit="CAO-G CAO-L Cht"> quam non noverat audivit</rdg>
+         <rdg wit="Cdm"> quam novit audivit</rdg>
+      </app> manus eius in laboribus servierunt
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Cdm Mch"> et lingua eius</rdg>
+         <rdg wit="Cht"> et lingua</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch"> inter principes loquebatur sapientiam</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L"> inter principes loquebatur sapientia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Cht Hyd Pet Evm Wcb Cdm Mch"> Divertit ab oneribus dorsum eius</vBody>
+      <vBody type="r" wit="CAO-L Wor"> Humiliaverunt in compedibus pedes eius ferrum pertransivit animam eius donec veniret verbum eius</vBody>
+      <vBody type="r" wit="CAO-G"> Fuitque dominus cum eo et erat vir in cunctis prospera agens</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Cdm Mch"> Manus</rep>
+      <rep type="r" wit="CAO-L"> Et lingua</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

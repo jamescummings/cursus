@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6160" nextid="c6162" id="c6161">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beata Caecilia dixit
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Tiburtio</rdg>
+         <rdg wit="CAO-L"> Tiburtium</rdg>
+         <rdg wit="CAO-C CAO-D"> ad Tiburtium</rdg>
+      </app> hodie
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> te fateor</rdg>
+         <rdg wit="CAO-C"> fateor te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S"> meum esse</rdg>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-D"> esse meum</rdg>
+         <rdg wit="CAO-L"> esse meus</rdg>
+      </app> cognatum quia amor Dei te fecit esse contemptorem idolorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Suscipe domine seminum fructus quos
+       <app>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> in Caecilia</rdg>
+            <rdg wit="CAO-C CAO-E"> in Caeciliam</rdg>
+         </app> seminasti</vBody>
+      <vBody type="r" wit="CAO-F CAO-S"> Vade
+       <app>
+            <rdg wit="CAO-F"> cum fratre tuo</rdg>
+            <rdg wit="CAO-S"> cum fratri tuo</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F"> ad antistitem</rdg>
+            <rdg wit="CAO-S"> ad credendum</rdg>
+         </app> ut purificeris</vBody>
+      <vBody type="r" wit="CAO-V"> Vade cum fratre tuo et dic ei</vBody>
+      <vBody type="r" wit="CAO-L"> Sicut enim amor Dei mihi fratrem tuum coniugem fecit ita te meum cognatum contemptus faciet idolorum</vBody>
+      <vBody type="r" wit="CAO-D"> Sicut enim mihi Deus fratrem tuum coniugi fecit ita te mihi cognatum faciet</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Quia amor</rep>
+   </verses>
+</res>

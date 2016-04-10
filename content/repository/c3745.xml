@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3744" nextid="c3746" id="c3745">
+   <aBody wit="CAO-C CAO-V CAO-R CAO-S">
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-S"> Mensuram bonam et confertam</rdg>
+         <rdg wit="CAO-C"> Messuram bonam et confersam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-S"> et coagitatam et supereffluentem</rdg>
+         <rdg wit="CAO-R"> et coagitatam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-S"> dabunt in sinum vestrum</rdg>
+         <rdg wit="CAO-R"> dabunt in sinum vestrum alleluia</rdg>
+         <rdg wit="CAO-C"> dabunt in sino vestro</rdg>
+      </app>
+   </aBody>
+</ant>

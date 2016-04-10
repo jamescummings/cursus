@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6280" nextid="c6282" id="c6281">
+   <header>
+      <usage ms="Alb2" code="02122700">[35v] matins-n2-r8</usage>
+      <usage ms="Wor" code="02122700">[20v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Wor">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L"> Cibavit illum dominus pane vitae</rdg>
+         <rdg wit="Alb2"> Cibavit eum dominus pane vitae</rdg>
+         <rdg wit="Wor"> Cibavit illum pane vitae</rdg>
+         <rdg wit="CAO-C"> Cibavit illum panem vitae</rdg>
+         <rdg wit="CAO-S"> Cibavit illum dominus panem vitae</rdg>
+      </app> et intellectus et aqua sapientiae salutaris
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-R CAO-F CAO-S CAO-L Alb2"> potavit eum</rdg>
+         <rdg wit="CAO-C CAO-H Wor"> potavit illum</rdg>
+         <rdg wit="CAO-E"> potabit illum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L Alb2"> et exaltavit eum apud proximos suos</rdg>
+         <rdg wit="CAO-C"> et exultavit eum apud proximos suos</rdg>
+         <rdg wit="CAO-E"> et inaltabit eum apud proximos suos</rdg>
+         <rdg wit="CAO-G"> et exaltavit illum apud proximos suos</rdg>
+         <rdg wit="Wor" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">[silent reading]</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Wor"> In medio ecclesiae
+       <app>
+            <rdg wit="CAO-E CAO-F CAO-S CAO-L Alb2 Wor"> aperuit</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R"> aperuit dominus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L Alb2 Wor"> os eius</rdg>
+            <rdg wit="CAO-S"> os suum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-R CAO-F CAO-S CAO-L Alb2"> et implevit eum dominus</rdg>
+            <rdg wit="CAO-B CAO-H Wor"> et implevit eum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F Alb2 Wor"> spiritu sapientiae</rdg>
+            <rdg wit="CAO-S CAO-L"> spiritus sapientiae</rdg>
+         </app> et intellectus</vBody>
+      <vBody type="r" wit="CAO-C"> In medio ecclesiae aperuit os eius</vBody>
+      <vBody type="r" wit="CAO-G"> Et nomine aeterno hereditavit illum dominus Deus noster</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-R CAO-F CAO-S CAO-L Alb2">Et exaltavit</rep>
+      <rep type="r" wit="CAO-H Wor">Et aqua</rep>
+   </verses>
+</res>

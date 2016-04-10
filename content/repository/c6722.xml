@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6721" nextid="c6723" id="c6722">
+   <rBody wit="CAO-D CAO-L"> Felix Maria
+      <app>
+         <rdg wit="CAO-L"> unxit</rdg>
+         <rdg wit="CAO-D"> quae unxit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> pedes Jesu</rdg>
+         <rdg wit="CAO-L"> pedes eius</rdg>
+      </app> et extersit
+      <app>
+         <rdg wit="CAO-D"> capillis suis</rdg>
+         <rdg wit="CAO-L"> capillis</rdg>
+      </app> et domus
+      <app>
+         <rdg wit="CAO-D"> impleta est</rdg>
+         <rdg wit="CAO-L"> repleta est</rdg>
+      </app> ex odore unguenti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-L">
+         <app>
+            <rdg wit="CAO-D">
+               <sic corr="Mixto" resp="Hesbert">Misto</sic>
+            </rdg>
+            <rdg wit="CAO-L">
+               <sic corr="Mixto" resp="Hesbert">Mixtum</sic>
+            </rdg>
+         </app> rore balsami fracto fudit alabastro quae unguento pretioso pedes unxit Domini</vBody>
+      <rep type="r" wit="CAO-L"> Et extersit</rep>
+      <rep type="r" wit="CAO-D"> Et domus</rep>
+   </verses>
+</res>

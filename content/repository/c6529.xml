@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6528" nextid="c6530" id="c6529">
+   <header>
+      <usage ms="Alb2" code="07011000">[77v] matins-n3-r12</usage>
+      <usage ms="Bat" code="07011000">[48v] matins-n3-r12</usage>
+      <usage ms="Cdm" code="07011000">[57v] matins-n3-r12</usage>
+      <usage ms="Cht" code="07011000">[23v] matins-n3-r10</usage>
+      <usage ms="Ely" code="07011000">[67v] matins-n3-r11</usage>
+      <usage ms="Evm" code="07011000">[106v] matins-n3-r9</usage>
+      <usage ms="Hyd" code="07011000">[70r] matins-n3-r11</usage>
+      <usage ms="Mch" code="07011000">[115v] matins-n3-r12</usage>
+      <usage ms="Pet" code="07011000">[64v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="07011000">[93v] matins-n3-r9</usage>
+      <usage ms="Wor" code="07011000">[43v] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Ductus est Jesus in desertum
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> a spiritu</rdg>
+         <rdg wit="CAO-S"> ab spiritu</rdg>
+         <rdg wit="CAO-D"> spiritu</rdg>
+      </app> ut temptaretur a diabolo et accedens temptator dixit ei si filius dei es dic ut lapides isti panes fiant</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Et cum ieiunasset quadraginta diebus et quadraginta noctibus postea esuriit</vBody>
+      <rep type="r" wit="CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Bat Mch"> Et accedens</rep>
+   </verses>
+</res>

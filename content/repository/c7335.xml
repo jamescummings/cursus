@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7334" nextid="c7336" id="c7335">
+   <rBody wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-L"> Oravit sanctus Andreas</rdg>
+         <rdg wit="CAO-S"> Orabit sanctus Andreas</rdg>
+      </app> dum respiceret
+     <app>
+         <rdg wit="CAO-R CAO-D CAO-F"> caelos</rdg>
+         <rdg wit="CAO-C CAO-E CAO-S CAO-L"> caelum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-S"> voce magna clamavit</rdg>
+         <rdg wit="CAO-L"> voce magna</rdg>
+      </app> et dixit tu es deus meus
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-S CAO-L"> quem vidi</rdg>
+         <rdg wit="CAO-F"> quam vidi</rdg>
+      </app> ne me patiaris ab impio iudice deponi quia virtutem sanctae crucis agnovi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-S">Tu es magister meus Christe
+      <app>
+            <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-S"> quem dilexi</rdg>
+            <rdg wit="CAO-F"> quam dilexi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-S"> quem cognovi</rdg>
+            <rdg wit="CAO-F"> quam cognovi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-R CAO-D CAO-S"> quem confessus sum</rdg>
+            <rdg wit="CAO-F"> quam confessus sum</rdg>
+            <rdg wit="CAO-C"> quem confessum</rdg>
+         </app> tantummodo in ista voce
+      <app>
+            <rdg wit="CAO-E CAO-R CAO-S"> exaudi me</rdg>
+            <rdg wit="CAO-C CAO-D"> exaudi</rdg>
+            <rdg wit="CAO-F"> me exaudi</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Tu es magister meus Christe quem dilexisti quem cognovi quem confessus sum</vBody>
+      <rep type="r" wit="CAO-C CAO-R CAO-D CAO-F CAO-L">Ne</rep>
+      <rep type="r" wit="CAO-E CAO-S">Quia</rep>
+   </verses>
+</res>

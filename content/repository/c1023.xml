@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1022b" nextid="c1024" id="c1023">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+      <usage ms="Hyd" code="08021000">matins</usage>
+      <usage ms="Hyd" code="08031000">matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd"> Alleluia alleluia alleluia</aBody>
+</ant>

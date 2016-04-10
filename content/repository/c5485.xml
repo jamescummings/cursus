@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5484" nextid="c5486" id="c5485">
+   <header>
+      <usage ms="Evm" code="01034009">[19v] terce</usage>
+      <usage ms="Hyd" code="01034009">[12r] lauds-a3</usage>
+      <usage ms="Wcb" code="01044000">[50v] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E Hyd Evm Wcb"> Vocabitur nomen eius Emmanuel quod interpretatur nobiscum deus</aBody>
+</ant>

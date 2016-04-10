@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2698b" nextid="c2700" id="c2699">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] matins-n2-a2</usage>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cdm"> Et ecce terraemotus factus est magnus</rdg>
+         <rdg wit="CAO-L"> Ecce terraemotus factus est magnus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L"> angelus autem domini</rdg>
+         <rdg wit="CAO-C CAO-H CAO-D Hyd Cdm"> angelus enim domini</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cdm"> descendit de caelo</rdg>
+         <rdg wit="Hyd">descendebat de caelis</rdg>
+      </app> alleluia</aBody>
+</ant>

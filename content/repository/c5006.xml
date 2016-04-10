@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5005" nextid="c5007" id="c5006">
+   <header>
+      <usage ms="Alb2" code="01011000">[5r] lauds gosp</usage>
+      <usage ms="Bat" code="01011000">[4r] lauds gosp</usage>
+      <usage ms="Cdm" code="01011000">[10r] lauds gosp</usage>
+      <usage ms="Ely" code="01011000">[5r] commemoration</usage>
+      <usage ms="Evm" code="01011000">[7r] lauds gosp</usage>
+      <usage ms="Evm" code="01012000">[8r] commemoration</usage>
+      <usage ms="Evm" code="01017000">[12r] lauds-a2</usage>
+      <usage ms="Glo" code="01017000">[12r] vesp2 gosp</usage>
+      <usage ms="Glo" code="14032500" id="c5006-1" corresp="c5006-2">[69r] terce</usage>
+      <usage ms="Mch" code="01011000">[4v] lauds gosp</usage>
+      <usage ms="Wcb" code="01011000">[43v] lauds gosp</usage>
+      <usage ms="Wor" code="01011000">[3v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Mch Cdm Wcb Ely Wor Glo Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Alb2 Evm Mch Cdm Wcb Ely Wor Glo Bat"> Spiritus sanctus in te descendet Maria</rdg>
+         <rdg wit="CAO-F"> Spiritus sanctus in te descendit Maria</rdg>
+      </app> ne timeas
+     <app>
+         <rdg wit="CAO-G CAO-V CAO-D Alb2 Mch Cdm Ely Wor Bat"> habens in utero filium dei alleluia</rdg>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-S Wcb Glo"> habebis in utero filium dei alleluia</rdg>
+         <rdg wit="Evm"> habebis in utero filium dei</rdg>
+         <rdg wit="CAO-F"> habens in utero filium dei</rdg>
+         <rdg wit="CAO-M"> habes in utero filium dei alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit" id="c5006-2" corresp="c5006-1"> Spiritus sanctus in te descendet Maria</aBody>
+</ant>

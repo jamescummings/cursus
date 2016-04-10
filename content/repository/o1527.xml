@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1526" nextid="o1528" id="o1527">
+   <header>
+      <usage ms="Alb2" code="07024000"/>
+      <usage ms="Bat" code="07024000">[53r] vesp2</usage>
+      <usage ms="Cdm" code="07024000">[63r] vesp2</usage>
+      <usage ms="Cht" code="07024000"/>
+      <usage ms="Ely" code="07024000"/>
+      <usage ms="Evm" code="07024000"/>
+      <usage ms="Hyd" code="07024000"/>
+      <usage ms="Mch" code="07024000">[126v] vesp2</usage>
+      <usage ms="Wcb" code="07024000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.216</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="Ely Hyd Cht Evm Wcb Alb2 Mch Bat">Deus innocentiae restitutor et amator</rdg>
+         <rdg wit="Cdm">Deus innocentiae restitutor et rector</rdg>
+      </app> dirige ad te tuorum corda servorum ut spiritus tui fervore concepto et in fide inveniantur stabiles et in opere efficaces</pBody>
+</prayer>

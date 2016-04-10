@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7744" nextid="c7746" id="c7745">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Suscipiens Jesum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in ulnas suas</rdg>
+         <rdg wit="CAO-E"> in ulnis suis</rdg>
+      </app> Simeon exclamavit et dixit tu es vere lumen
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> ad illuminationem gentium</rdg>
+         <rdg wit="CAO-L"> ad revelationem gentium</rdg>
+      </app> et gloriam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> plebis tuae Israel</rdg>
+         <rdg wit="CAO-M"> plebi tuae Israel</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-V CAO-H"> Responsum accepit Simeon</rdg>
+            <rdg wit="CAO-R"> Responsum acceperat Simeon</rdg>
+            <rdg wit="CAO-H"> Responsum acceperat <add place="margin">vel accepit</add> Simeon</rdg>
+         </app> a spiritu sancto non visurum se mortem
+      <app>
+            <rdg wit="CAO-B CAO-R"> nisi prius videret</rdg>
+            <rdg wit="CAO-C CAO-V"> nisi videret</rdg>
+            <rdg wit="CAO-H"> nisi prius videret <add place="margin">vel nisi videret</add>
+            </rdg>
+         </app> Christum domini</vBody>
+      <vBody type="r" wit="CAO-E CAO-S"> Lumen ad revelationem gentium et gloriam plebis tuae Israel</vBody>
+      <vBody type="r" wit="CAO-M"> Accipiens Simeon</vBody>
+      <vBody type="r" wit="CAO-L"> Cum inducerent puerum Jesum parentes eius et ipse accepit eum in ulnas suas et benedixit deum et dixit</vBody>
+      <vBody type="r" wit="CAO-F"> Cum inducerent puerum Jesum parentes eius in templum accepit eum Simeon in ulnas suas et dixit</vBody>
+      <vBody type="r" wit="CAO-G"> Quod parasti ante faciem omnium populorum lumen ad revelationem gentium</vBody>
+      <vBody type="r" wit="CAO-D"> Simeon in manibus infirmitatem accepit sed maiestatem intus agnovit et dixit</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-H CAO-R CAO-S">Et gloriam</rep>
+      <rep type="r" wit="CAO-C CAO-V"> Ad</rep>
+      <rep type="r" wit="CAO-E CAO-M CAO-D CAO-F CAO-L">Tu es</rep>
+   </verses>
+</res>

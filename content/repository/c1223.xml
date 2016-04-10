@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1222" nextid="c1223b" id="c1223">
+   <header>
+      <usage ms="Mch" code="06021000">[105v] vesp2 gosp</usage>
+      <usage ms="Ely" code="06021000">[62v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-G Ely Mch">
+      <app>
+         <rdg wit="CAO-G Ely"> Accesserunt ad Jesum discipuli</rdg>
+         <rdg wit="Mch"> Accedentes ad Jesum discipuli</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G Ely"> dicentes edissere nobis parabolam</rdg>
+         <rdg wit="Mch"> dixerunt edissere nobis parabolam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G Mch">et respondens ait</rdg>
+         <rdg wit="Ely">qui respondens ait</rdg>
+      </app> vobis datum est nosse mysterium regni dei ceteris autem in parabolis
+    </aBody>
+</ant>

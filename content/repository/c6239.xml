@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6238" nextid="c6240" id="c6239">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Benedicamus patrem et filium cum sancto spiritu laudemus et superexaltemus eum in saecula</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Benedictus es domine in firmamento caeli et laudabilis et gloriosus</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">In saecula</rep>
+   </verses>
+</res>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9513" nextid="c9515" id="c9514">
+   <header>
+      <usage ms="Glo" code="14022200"/>
+   </header>
+   <rBody wit="Glo"> O princeps apostolorum o piscator hominum quem vocavit Christus Petrum ob magnum misterium solve nexus et et cathenas nostrorum peccaminum</rBody>
+   <verses>
+      <vBody type="r" wit="Glo"> Qui ligandi et solvendi possides imperium</vBody>
+      <rep type="r" wit="Glo">Solve</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

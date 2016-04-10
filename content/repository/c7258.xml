@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7257" nextid="c7259" id="c7258">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> O beatum virum Martinum antistitem qui nec mori
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> timuit</rdg>
+         <rdg wit="CAO-V"> timui</rdg>
+      </app> nec vivere
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> recusavit</rdg>
+         <rdg wit="CAO-V"> recusavi</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> Domine si adhuc populo tuo sum necessarius
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> non recuso laborem fiat voluntas tua</rdg>
+            <rdg wit="CAO-S"> non recuso subire propter eos laborem</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Beatus Martinus obitum suum longe ante praescivit dixitque fratribus dissolutionem sui corporis imminere</vBody>
+      <vBody type="r" wit="CAO-L"> O beatum virum in cuius transitu sanctorum canit numerus angelorum exsultat chorus omniumque caelestium virtutum occurrit psallentiam exercitus</vBody>
+      <vBody type="r" wit="CAO-F"> O virum ineffabilem nec labore victum nec morte vincendum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Qui nec</rep>
+   </verses>
+</res>

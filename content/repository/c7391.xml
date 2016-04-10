@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7390" nextid="c7391b" id="c7391">
+   <header>
+      <usage ms="Alb2" code="06021000">[68v] matins-n3-r10</usage>
+      <usage ms="Bat" code="06021000">[44r] matins-n3-r9</usage>
+      <usage ms="Cdm" code="06021000">[51v] matins-n3-r10</usage>
+      <usage ms="Cht" code="06021000">[14v] matins-n3-r11</usage>
+      <usage ms="Ely" code="06021000">[62r] matins-n3-r11</usage>
+      <usage ms="Evm" code="06021000">[97v] matins-n3-r11</usage>
+      <usage ms="Hyd" code="06021000">[64r] matins-n3-r11</usage>
+      <usage ms="Mch" code="06021000">[104r] matins-n3-r9</usage>
+      <usage ms="Pet" code="06021000">[58v] matins-n3-r10</usage>
+      <usage ms="Wor" code="06021000">[39r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat Mch"> Ponam arcum meum in nubibus caeli
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Mch"> dixit dominus ad Noe</rdg>
+         <rdg wit="CAO-C CAO-R Bat"> dicit dominus ad Noe</rdg>
+      </app> et recordabor foederis mei
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat Mch"> quod pepigi tecum</rdg>
+         <rdg wit="CAO-S"> quod <corr sic="pepigit">pepigi</corr> tecum</rdg>
+         <rdg wit="CAO-M"> quod <corr sic="pepegi">pepigi</corr> tecum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Pet Hyd Cht Wor Ely Evm Cdm Bat Mch"> Cumque obduxero nubibus
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Alb2 Pet Hyd Cht Wor Ely Evm Cdm Bat Mch"> caelum</rdg>
+            <rdg wit="CAO-F">
+               <corr sic="caeli">caelum</corr>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Pet Ely Evm Cdm Bat Mch"> apparebit arcus meus in nubibus</rdg>
+            <rdg wit="Alb2"> apparebit arcus meus</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Evm Cdm Bat Mch">Et recordabor</rep>
+   </verses>
+</res>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4689" nextid="c4691" id="c4690">
+   <aBody wit="CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> Salvator mundi salva nos qui per crucem et sanguinem redemisti nos
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-F CAO-S"> auxiliare nobis te deprecamur deus noster</rdg>
+         <rdg wit="CAO-R"> auxiliare nobis te deprecamur deus noster alleluia</rdg>
+         <rdg wit="CAO-L"> auxiliare nobis te supplicamus deus noster</rdg>
+      </app>
+   </aBody>
+</ant>

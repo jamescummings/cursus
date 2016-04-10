@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2705" nextid="c2707" id="c2706">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-S CAO-L"> Et incipiens a Moyse
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-S"> et omnibus prophetis</rdg>
+         <rdg wit="CAO-L"> et <del type="rubout" status="unremarkable">aliis</del> prophetis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R"> interpretabatur illis scripturas</rdg>
+         <rdg wit="CAO-L"> interpretabantur illis scripturas</rdg>
+         <rdg wit="CAO-C"> interpretabatur illis scripturis</rdg>
+         <rdg wit="CAO-S"> interpretabatur illis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R"> de omnibus quae de ipso erant alleluia</rdg>
+         <rdg wit="CAO-C CAO-S"> in omnibus quae de ipso erant alleluia</rdg>
+         <rdg wit="CAO-L"> quae de ipso erant alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

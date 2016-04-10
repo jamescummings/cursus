@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2269" nextid="c2271" id="c2270">
+   <aBody wit="CAO-C CAO-V CAO-R CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-F"> Dixit autem discipulus</rdg>
+         <rdg wit="CAO-C"> Dicit discipulus</rdg>
+         <rdg wit="CAO-V CAO-R CAO-L"> Dixit discipulus ille</rdg>
+      </app> quem diligebat Jesus Petro
+     <app>
+         <rdg wit="CAO-C CAO-R CAO-L"> dominus est</rdg>
+         <rdg wit="CAO-V CAO-F"> dominus est alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8001" nextid="c8003" id="c8002">
+   <header>
+      <usage ms="Mch" code="06021000">[102v] vesp1 gosp</usage>
+      <usage ms="Alb2" code="06021000">[67r] vesp1 gosp</usage>
+      <usage ms="Bat" code="06021000">[43v] vesp1-a1</usage>
+      <usage ms="Cdm" code="06021000">[51r] vesp1-a2</usage>
+      <usage ms="Ely" code="06021000">[61r] vesp1</usage>
+      <usage ms="Hyd" code="06021000">[63r] vesp1 gosp</usage>
+      <usage ms="Pet" code="06021000">[57v] vesp1</usage>
+   </header>
+   <aBody wit="Hyd Alb2 Wor Pet Ely Cdm Bat Mch"> Loquens dominus ad Noe dixit ponam archum meum in nubibus caeli et erit 
+     <app>
+         <rdg wit="Hyd Alb2 Wor Pet Ely Cdm Bat"> signum foederis</rdg>
+         <rdg wit="Mch"> signum</rdg>
+      </app>
+      <app>
+         <rdg wit="Hyd Alb2 Wor Pet Ely Bat Mch"> inter me et inter terram</rdg>
+         <rdg wit="Cdm"> inter me et terram</rdg>
+      </app>
+   </aBody>
+</ant>

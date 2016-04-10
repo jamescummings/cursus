@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2734" nextid="c2736" id="c2735">
+   <aBody wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L"> Euntes docete omnes gentes baptizantes eos
+     <app>
+         <rdg wit="CAO-R CAO-F CAO-L"> in nomine patris et filii et spiritus sancti alleluia</rdg>
+         <rdg wit="CAO-B CAO-H"> in nomine patris alleluia</rdg>
+         <rdg wit="CAO-E"> in nomine patris et filii et spiritus sancti</rdg>
+      </app>
+   </aBody>
+</ant>

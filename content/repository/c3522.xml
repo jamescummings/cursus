@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3521" nextid="c3523" id="c3522">
+   <header>
+      <usage ms="Glo" code="14022200"/>
+      <usage ms="Glo" code="14040400">[77v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iuravit dominus et non paenitebit eum</rdg>
+         <rdg wit="CAO-V"> Iuravi dominus et non paenitebit eum</rdg>
+      </app> tu es sacerdos in aeternum</aBody>
+   <aBody wit="Glo" type="incipit"> Iuravit dominus</aBody>
+</ant>

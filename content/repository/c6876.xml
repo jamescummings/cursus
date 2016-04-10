@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6875" nextid="c6877" id="c6876">
+   <rBody wit="CAO-C"> Igitur beatus Benedictus cumque conspiceret nutricem suam flere moxque se cum lacrimis in orationem dedit et ei sanum capisterium reparavit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C">Ipsum quoque capisterium in ecclesiae ingressu <corr sic="suspenso" resp="Hesbert">suspensum</corr> quatenus et <corr sic="praesentis" resp="Hesbert">praesentes</corr> et secuturi omnes agnoscerent Benedictus puer conversationis gratia a quanta perfectione coepisset</vBody>
+      <rep type="r" wit="CAO-C">Moxque</rep>
+   </verses>
+</res>

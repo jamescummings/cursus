@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2499" nextid="c2501" id="c2500">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Ecce crucem domini</rdg>
+         <rdg wit="CAO-L"> Ecce crux domini</rdg>
+      </app> fugite partes adversae vicit leo de tribu Juda
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> radix David alleluia</rdg>
+         <rdg wit="CAO-H"> radix David in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

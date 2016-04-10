@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1688" nextid="o1690" id="o1689">
+   <header>
+      <usage ms="Hyd" code="08062000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Praesta quaesumus omnipotens deus ut qui in afflictione nostra de tua pietate confidimus contra adversa omnia tua semper protectione muniamur</pBody>
+</prayer>

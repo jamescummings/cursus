@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1152" nextid="c1154" id="c1153">
+   <aBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">Regi regnorum concordes <gap reason="text erased" resp="Hesbert" extent="five syllables"/>
+            <supplied reason="original text erased" resp="Hesbert">psallimus hymnum</supplied>
+         </l>
+         <l part="N">
+            <gap reason="text erased" resp="Hesbert" extent="three or four syllables"/>
+            <supplied reason="original text erased" resp="Hesbert">Sacris his</supplied> festis vero moderamine cordis</l>
+         <l part="N">Qui sibi <name reg="Maria Magdalena" type="saint">Mariam</name> superam transvexit ad arcem</l>
+      </verse>
+   </aBody>
+</ant>

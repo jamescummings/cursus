@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2524" nextid="c2526" id="c2525">
+   <header>
+      <usage ms="Alb2" code="01024000">[11r] lauds gosp</usage>
+      <usage ms="Bat" code="01024000">[7v] lauds gosp</usage>
+      <usage ms="Cdm" code="01024000">[13v] lauds gosp</usage>
+      <usage ms="Ely" code="01011000">[4v] lauds gosp</usage>
+      <usage ms="Evm" code="01031000">[18v] sext</usage>
+      <usage ms="Glo" code="01031000">[16r] sext</usage>
+      <usage ms="Hyd" code="01024000">[9r] lauds gosp</usage>
+      <usage ms="Mch" code="01024000">[9v] lauds gosp</usage>
+      <usage ms="Wcb" code="01031000">[47v] sext</usage>
+      <usage ms="Wor" code="01024000">[6v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat"> Ecce mitto angelum meum
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-D Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat"> qui praeparabit viam tuam</rdg>
+         <rdg wit="CAO-G CAO-B CAO-R CAO-F"> qui praeparabit viam</rdg>
+         <rdg wit="CAO-C CAO-S"> qui praeparavit viam tuam</rdg>
+         <rdg wit="CAO-M"> qui <corr sic="praeparavit">praeparabit</corr> viam tuam</rdg>
+      </app> ante faciem tuam</aBody>
+</ant>

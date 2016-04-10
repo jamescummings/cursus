@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3510" nextid="c3512" id="c3511">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] lauds-a1</usage>
+      <usage ms="Bat" code="02122400">[14r] lauds-a1</usage>
+      <usage ms="Cdm" code="02122400">[21r] lauds-a1</usage>
+      <usage ms="Ely" code="02122400">[17r] lauds-a1</usage>
+      <usage ms="Evm" code="02122400">[31v] lauds-a1</usage>
+      <usage ms="Hyd" code="02122400">[16v] lauds-a1</usage>
+      <usage ms="Mch" code="02122400">[22v] lauds-a1</usage>
+      <usage ms="Pet" code="02122400">[14r] lauds-a1</usage>
+      <usage ms="Wcb" code="02122400">[52v] lauds-a1</usage>
+      <usage ms="Wor" code="02122400">[13r] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor"> Judaea et Jerusalem</rdg>
+         <rdg wit="Evm Wcb Mch Pet"> O Juda et Jerusalem</rdg>
+      </app> nolite timere cras egrediemini
+     <app>
+         <rdg wit="CAO-D CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> et dominus erit vobiscum</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> et dominus erit vobiscum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7861" nextid="c7863" id="c7862">
+   <rBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N">Videns Romae vir beatus</l>
+         <l part="N">Anglorum forte pueros</l>
+         <l part="N">Bene inquit bene Angli</l>
+         <l part="N">Vultu nitent ut angeli</l>
+         <l part="N">Oportet illis monstrari</l>
+         <l part="N">Iter salutis aeternae</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R">Quoniam domini est regnum et ipse dominabitur gentium</vBody>
+      <rep type="r" wit="CAO-R">Oportet</rep>
+   </verses>
+</res>

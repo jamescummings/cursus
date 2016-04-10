@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7501" nextid="c7503" id="c7502">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quo progrederis sine filio pater
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> quo</rdg>
+         <rdg wit="CAO-L"> quos</rdg>
+      </app> sacerdos sancte
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> sine diacono</rdg>
+         <rdg wit="CAO-M"> sine <sic resp="Hesbert">diacone</sic>
+         </rdg>
+      </app> properas tu numquam
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> sine ministro</rdg>
+         <rdg wit="CAO-L"> sine ministros</rdg>
+      </app> sacrificium offerre consueveras</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quid in me ergo displicuit
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> paternitati tuae</rdg>
+            <rdg wit="CAO-L"> paternitatis tuae</rdg>
+            <rdg wit="CAO-E"> paternitas tua</rdg>
+            <rdg wit="CAO-D"> pater</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-L"> numquid degenerem probasti</rdg>
+            <rdg wit="CAO-M">
+               <corr sic="num">numquid</corr> degenere probasti</rdg>
+            <rdg wit="CAO-D"> num degenerem probasti</rdg>
+            <rdg wit="CAO-L"> numquid degenerem probasti me</rdg>
+            <rdg wit="CAO-V"> numquid degenere probasti</rdg>
+            <rdg wit="CAO-F CAO-S"> numquid degenerem me probasti</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> experire</rdg>
+            <rdg wit="CAO-L" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> certe utrum
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> idoneum</rdg>
+            <rdg wit="CAO-C" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> ministrum
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-D CAO-F CAO-L"> elegeris</rdg>
+            <rdg wit="CAO-S"> eligeris</rdg>
+            <rdg wit="CAO-M CAO-H CAO-R"> eligeres</rdg>
+         </app> cui commisisti dominici
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> sanguinis</rdg>
+            <rdg wit="CAO-D"> sanguinis et corporis</rdg>
+            <rdg wit="CAO-M"> corporis et sanguinis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> consecrationem</rdg>
+            <rdg wit="CAO-V"> consecratione</rdg>
+            <rdg wit="CAO-F"> dispensationem</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Tu numquam</rep>
+   </verses>
+</res>

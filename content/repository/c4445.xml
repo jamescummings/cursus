@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4444" nextid="c4446" id="c4445">
+   <header>
+      <usage ms="Hyd" code="10300000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F Hyd"> Quantas habeo iniquitates et peccata
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F Hyd"> ostende mihi</rdg>
+         <rdg wit="CAO-H CAO-R"> responde mihi</rdg>
+      </app> cur faciem tuam abscondis
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F Hyd"> et arbitraris me inimicum tibi</rdg>
+         <rdg wit="CAO-E"> et arbitreris me inimicum tuum</rdg>
+      </app>?</aBody>
+</ant>

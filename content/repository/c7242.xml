@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7241" nextid="c7243" id="c7242">
+   <header>
+      <usage ms="Ely" code="02122500">[21r] lauds</usage>
+      <usage ms="Hyd" code="02010100">lauds-r1</usage>
+   </header>
+   <rBody wit="CAO-B CAO-R CAO-D CAO-L Hyd Ely"> Notum fecit dominus salutare suum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R CAO-D CAO-L Hyd Ely">In conspectu gentium revelavit iustitiam suam</vBody>
+      <rep type="r" wit="CAO-B">Salutare</rep>
+   </verses>
+</res>

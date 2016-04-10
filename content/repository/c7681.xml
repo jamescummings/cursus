@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7680" nextid="c7682" id="c7681">
+   <rBody wit="CAO-D CAO-F CAO-S"> Species firmamenti super caput animalium quasi aspectus crystalli horribilis sub quo erant pennae eorum rectae alterius ad alterum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-D CAO-F"> Unumquodque duabus alis</rdg>
+            <rdg wit="CAO-S"> Unumqoque duabus alis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F CAO-S"> velabat corpus suum</rdg>
+            <rdg wit="CAO-D"> velabat corpus</rdg>
+         </app> et alterum similiter velabatur</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Sub quo</rep>
+   </verses>
+</res>

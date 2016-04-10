@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3266" nextid="c3268" id="c3267">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> In patientia vestra possidebitis animas vestras</aBody>
+   <aBody id="c3267-1" wit="CAO-H" type="incipit" num="2"> In patientia vestra</aBody>
+   <verses>
+      <vBody corresp="c3267-1" type="a" wit="CAO-H">Et capillus de capis vestro non peribit</vBody>
+   </verses>
+</ant>

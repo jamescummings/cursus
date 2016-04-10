@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3751" nextid="c3753" id="c3752">
+   <header>
+      <usage ms="Ely" code="07036000"/>
+      <usage ms="Hyd" code="07036000"/>
+      <usage ms="Pet" code="07036000"/>
+      <usage ms="Wor" code="07036000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D Ely Wor Hyd Pet"> Meus cibus est ut faciam voluntatem patris mei</aBody>
+</ant>

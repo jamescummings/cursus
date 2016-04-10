@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7225" nextid="c7227" id="c7226">
+   <header>
+      <usage ms="Hyd" code="08071000">matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-H CAO-R CAO-D Hyd"> Non conturbetur cor vestrum ego vado ad patrem et mittam vobis spiritum veritatis
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et ille vos docebit</rdg>
+         <rdg wit="CAO-C CAO-D Hyd"> et ipse vos docebit</rdg>
+      </app> quae sunt praecepta vitae alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-H Hyd"> Nisi ego abiero paraclitus non veniet dum assumptus fuero mittam vobis eum</vBody>
+      <vBody type="r" wit="CAO-R"> Nisi ego</vBody>
+      <vBody type="r" wit="CAO-D"> Nisi ego abiero</vBody>
+      <rep type="r" wit="CAO-B CAO-H">Et ille</rep>
+      <rep type="r" wit="CAO-D Hyd">Et ipse</rep>
+      <rep type="r" wit="CAO-R">Spiritum</rep>
+   </verses>
+</res>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6221" nextid="c6223" id="c6222">
+   <header>
+      <usage ms="Glo" code="14120600">[13v] vesp1</usage>
+   </header>
+   <rBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Glo"> Beatus Nicolaus iam triumpho potitus novit suis famulis praebere caelestia commoda qui toto corde poscunt eius
+      <app>
+         <rdg wit="CAO-D CAO-F Glo"> largitiones</rdg>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-S"> petitiones</rdg>
+      </app> illi nimirum tota nos devotione oportet
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F Glo"> committere</rdg>
+         <rdg wit="CAO-S"> committeret</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Glo">Ut apud Christum eius patrociniis adiuvemur semper</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F"> Illi</rep>
+      <rep type="r" wit="CAO-S"> Oportet</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

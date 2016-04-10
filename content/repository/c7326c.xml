@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7326b" nextid="c7327" id="c7326c">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">For the Feast of St Clement</note>
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ora pro nobis beate Clemens ut digni efficiamur
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-D CAO-L"> promissione</rdg>
+         <rdg wit="CAO-E CAO-F CAO-S"> promissionibus</rdg>
+         <rdg wit="CAO-C CAO-V"> promissiones</rdg>
+      </app> Christi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-F CAO-S"> Tu autem
+      <app>
+            <rdg wit="CAO-H CAO-R"> martyr Christi beate Clemens</rdg>
+            <rdg wit="CAO-S"> martyr dei beate Clemens</rdg>
+            <rdg wit="CAO-F"> sacer Christi beate Clemens</rdg>
+            <rdg wit="CAO-E"> Clemens confessor Christi</rdg>
+         </app> ora pro nobis
+      <app>
+            <rdg wit="CAO-E CAO-S"> deum</rdg>
+            <rdg wit="CAO-H CAO-R CAO-F" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-M CAO-V"> Orante sancto Clemente</vBody>
+      <vBody type="r" num="2" wit="CAO-H"> Nos sumus indigni promissa superna mereri sed tu pro nobis funde preces superis</vBody>
+      <vBody type="r" wit="CAO-L"> Offert deo pro grege sibi commisso sanctissimas preces</vBody>
+      <vBody type="r" wit="CAO-D"> Quam reddet unicuique secundum suum laborem nobis quoque tribuat secundum gratiae dignitatem</vBody>
+      <vBody type="r" wit="CAO-C"> Sperate in eo omnis conventus plebis effundite coram illo corda vestra</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Ut digni</rep>
+   </verses>
+</res>

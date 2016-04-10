@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6053b" nextid="c6055" id="c6054">
+   <rBody wit="CAO-E CAO-L"> Aedificatum est templum et gloria domini replevit atrium eius et laetatus est rex et dixit benedictus dominus deus Israel in omnibus quae locutus est ad David patrem meum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-L">Et inclinavit Salomon genua sua in terra
+      <app>
+            <rdg wit="CAO-E"> et dixit</rdg>
+            <rdg wit="CAO-L"> et ait</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-L">Benedictus</rep>
+   </verses>
+</res>

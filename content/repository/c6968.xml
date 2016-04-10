@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6967" nextid="c6969" id="c6968">
+   <rBody wit="CAO-D CAO-F"> Inito consilio venenum vino miscuere quo oblato ex more ad benedicendum Patri vir Dei
+      <app>
+         <rdg wit="CAO-D"> signo</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="signo">signum</corr>
+         </rdg>
+      </app> crucis edidit et vas pestiferi potus ita
+      <app>
+         <rdg wit="CAO-F"> confractum</rdg>
+         <rdg wit="CAO-D"> confrauctum</rdg>
+      </app> est ac si pro signo lapidem dedisset</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">Intellegit protinus vir Dei quia potum mortis habuerat quod portare non potuit signum vitae</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Ac si</rep>
+   </verses>
+</res>

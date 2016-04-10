@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2427" nextid="c2429" id="c2428">
+   <header>
+      <usage ms="Bat" code="07013000">[50v] lauds gosp</usage>
+      <usage ms="Cdm" code="07013000">[59r] lauds</usage>
+      <usage ms="Cht" code="07013000"/>
+      <usage ms="Ely" code="07013000"/>
+      <usage ms="Hyd" code="07013000"/>
+      <usage ms="Mch" code="07013000">[119r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07013000"/>
+      <usage ms="Wor" code="07013000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Cdm Mch Bat"> Domus mea domus orationis vocabitur</aBody>
+</ant>

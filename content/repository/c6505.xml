@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6504" nextid="c6506" id="c6505">
+   <rBody wit="CAO-C CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Domine praevenisti eum
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-F CAO-S"> in benedictionibus</rdg>
+         <rdg wit="CAO-L"> in benedictione</rdg>
+      </app> dulcedinis posuisti in capite eius coronam de lapide pretioso</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-D CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-M CAO-S"> Vitam petiit ad te</rdg>
+            <rdg wit="CAO-L"> Vitam petiit</rdg>
+            <rdg wit="CAO-D"> Vitam petiit a te</rdg>
+         </app> et tribuisti ei
+       <app>
+            <rdg wit="CAO-C CAO-M CAO-D CAO-S CAO-L"> longitudinem</rdg>
+            <rdg wit="CAO-S"> longitudine</rdg>
+         </app> dierum in saeculum
+       <app>
+            <rdg wit="CAO-M CAO-D CAO-S CAO-L"> saeculi</rdg>
+            <rdg wit="CAO-C"> et in saeculum saeculi</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-V CAO-F"> Vitam petiit ad te tribuisti ei
+       <app>
+            <rdg wit="CAO-F"> domine</rdg>
+            <rdg wit="CAO-V" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Posuisti</rep>
+   </verses>
+</res>

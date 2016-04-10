@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5448" nextid="c5450" id="c5449">
+   <aBody wit="CAO-C CAO-E"> Virgo electus a domino
+     <app>
+         <rdg wit="CAO-E"> virgo in aevum permansit alleluia</rdg>
+         <rdg wit="CAO-C"> vir in aevum permansit alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8008" nextid="c8010" id="c8009">
+   <header>
+      <usage ms="Alb2" code="06011000">[69v] matins inv</usage>
+      <usage ms="Bat" code="06031000">[45r] matins inv</usage>
+      <usage ms="Cdm" code="06031000">[53r] matins inv</usage>
+      <usage ms="Evm" code="06031000">[98v] matins</usage>
+      <usage ms="Mch" code="06021000">[102v] matins inv</usage>
+      <usage ms="Pet" code="06031000">[60r] matins</usage>
+      <usage ms="Wcb" code="06031000">[89r] matins</usage>
+      <usage ms="Wor" code="06031000">[40r] matins inv</usage>
+   </header>
+   <aBody wit="Wor Pet Evm Wcb Cdm Mch Bat Alb2"> Dominum qui fecit mare et aridam fundavit venite adoremus</aBody>
+</ant>

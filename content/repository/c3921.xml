@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3920" nextid="c3922" id="c3921">
+   <header>
+      <usage ms="Mch" code="06018000">[102r] gospel</usage>
+      <usage ms="Cht" code="06018000">[13r] -a1</usage>
+      <usage ms="Evm" code="06018000">[95r] </usage>
+      <usage ms="Glo" code="06018000">[50v] </usage>
+      <usage ms="Hyd" code="06018000">[62r]  gosp</usage>
+      <usage ms="Pet" code="06011000">[57r] vesp2</usage>
+      <usage ms="Wor" code="06018000">[37v] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Pet Evm Glo Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Cht Wor Pet Evm Glo Mch"> Non licet mihi facere quod volo</rdg>
+         <rdg wit="CAO-F"> Non licet mihi quod volo facere</rdg>
+      </app> an oculus tuus nequam est quia ego bonus sum dicit dominus</aBody>
+</ant>

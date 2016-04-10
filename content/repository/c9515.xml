@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9514" nextid="c9516" id="c9515">
+   <header>
+      <usage ms="Glo" code="14032500">[69v] vesp2</usage>
+      <usage ms="Glo" code="14120800">[15r] vesp2</usage>
+   </header>
+   <rBody wit="Glo"> Speciosa facta es et suavis</rBody>
+   <verses>
+      <vBody type="r" wit="Glo"> In deliciis tuis sancta dei genitrix</vBody>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

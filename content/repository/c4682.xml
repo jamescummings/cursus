@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4681" nextid="c4683" id="c4682">
+   <header>
+      <usage ms="Evm" code="02010200">[62r] matins-n2</usage>
+      <usage ms="Evm" code="02122800">[49r] lauds commemoratio</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.155</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-D CAO-L Evm"> Salus aeterna mundo apparuit ut hominem perditum
+     <app>
+         <rdg wit="CAO-D Evm"> ad caelestia revocaret</rdg>
+         <rdg wit="CAO-L"> ad caelestia revocare</rdg>
+      </app>
+   </aBody>
+</ant>

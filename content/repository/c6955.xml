@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6954" nextid="c6955a" id="c6955">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for St Agnes</note>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Induit me dominus vestimento salutis et indumento
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> laetitiae</rdg>
+         <rdg wit="CAO-E"> iustitiae</rdg>
+      </app> circumdedit me et tamquam sponsam
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-L"> decoravit me coronam</rdg>
+         <rdg wit="CAO-S"> decorabit me coronam</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> decoravit me corona</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R"> Induit me dominus cyclade auro texta et immensis monilibus ornavit me</vBody>
+      <vBody type="r" wit="CAO-M"> Induit me</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L"> Tradidit auribus meis inaestimabiles margaritas et circumdedit me vernantibus atque coruscantibus gemmis</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Et tamquam</rep>
+   </verses>
+</res>

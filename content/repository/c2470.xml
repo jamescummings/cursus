@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2469" nextid="c2471" id="c2470">
+   <header>
+      <usage ms="Glo" code="14022400"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Glo"> Dum steteritis ante reges et praesides
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R"> nolite praemeditari qualiter respondeatis</rdg>
+         <rdg wit="CAO-F CAO-S Glo"> nolite cogitare qualiter respondeatis</rdg>
+      </app> dabitur enim vobis in illa hora quid loquamini</aBody>
+   <aBody wit="CAO-D" num="2"> Dum steteritis ante reges et praesides nolite cogitare quomodo aut quid loquamini alleluia</aBody>
+</ant>

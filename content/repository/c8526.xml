@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8525" nextid="c8527" id="c8526">
+   <header>
+      <usage ms="Evm" code="07032000"/>
+      <usage ms="Glo" code="07032000"/>
+      <usage ms="Wcb" code="07032000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">from Luke 004029</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Wcb Glo">Surrexerunt pharisei et eiecerunt dominum extra civitatem et duxerunt illum usque ad supercilium montis supra quem civitas illorum erat aedificata ut praecipitarent eum</aBody>
+</ant>

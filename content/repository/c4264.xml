@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4263" nextid="c4265" id="c4264">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> Per signum crucis</rdg>
+         <rdg wit="CAO-L"> Per lignum sanctae crucis</rdg>
+      </app> de inimicis nostris libera nos
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> deus noster</rdg>
+         <rdg wit="CAO-C"> deus Israel alleluia</rdg>
+         <rdg wit="CAO-L"> domine deus noster</rdg>
+      </app>
+   </aBody>
+</ant>

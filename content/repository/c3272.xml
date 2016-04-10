@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3271" nextid="c3273" id="c3272">
+   <aBody wit="CAO-H">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> In praesepio iacebat</l>
+         <l part="N"> et in caelis fulgebat</l>
+         <l part="N"> ad nos veniebat</l>
+         <l part="N"> et apud patrem manebat</l>
+      </lg>
+   </aBody>
+</ant>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6702" nextid="c6704" id="c6703">
+   <header>
+      <usage ms="Alb2" code="02122800">[37v] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-E CAO-H CAO-R CAO-S Alb2"> Exsultabunt sancti in gloria laetabuntur in cubilibus suis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R Alb2">
+         <app>
+            <rdg wit="CAO-H"> Iusti epulentur</rdg>
+            <rdg wit="CAO-E CAO-R Alb2"> Epulentur</rdg>
+         </app> et exsultent in conspectu dei
+       <app>
+            <rdg wit="CAO-H CAO-R"> et delectentur in laetitia</rdg>
+            <rdg wit="CAO-E Alb2" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S"> Cantate domino canticum novum laus eius in ecclesia santorum</vBody>
+      <rep type="r" wit="CAO-E CAO-H CAO-R CAO-S Alb2"> Laetabuntur</rep>
+   </verses>
+</res>

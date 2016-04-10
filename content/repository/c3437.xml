@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3436" nextid="c3438" id="c3437">
+   <aBody wit="CAO-E CAO-M CAO-L">
+      <app>
+         <rdg wit="CAO-E"> Isti sunt angelica solidata claritatis inclyti martyres</rdg>
+         <rdg wit="CAO-M"> Isti sunt angelica solidati claritate martyres inclyti</rdg>
+         <rdg wit="CAO-L"> Isti sunt angelicis educati documentis martyres inclyti</rdg>
+      </app> Gervasius et Protasius
+     <app>
+         <rdg wit="CAO-M CAO-L"> quorum germanitas</rdg>
+         <rdg wit="CAO-E"> quoniam germanitas</rdg>
+      </app> a Christo
+     <app>
+         <rdg wit="CAO-E CAO-M"> inter immania fuit fulcita tormenta</rdg>
+         <rdg wit="CAO-L"> inter crudelia fuit munita tormenta</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> ideoque precamur</rdg>
+         <rdg wit="CAO-M"> omnes precemur</rdg>
+         <rdg wit="CAO-L"> omnes precamur</rdg>
+      </app> ut eorum intercessione
+     <app>
+         <rdg wit="CAO-E"> ad dominum sublimemur</rdg>
+         <rdg wit="CAO-M"> a domino sublimemur</rdg>
+         <rdg wit="CAO-L"> a domino protegamur</rdg>
+      </app>
+   </aBody>
+</ant>

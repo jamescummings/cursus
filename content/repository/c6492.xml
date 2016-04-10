@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6491" nextid="c6493" id="c6492">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Domine deus qui conteris bella ab initio
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> eleva</rdg>
+         <rdg wit="CAO-E"> leva</rdg>
+      </app> brachium tuum super gentes quae cogitat servis tuis mala et dextera tua
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> glorificetur</rdg>
+         <rdg wit="CAO-G"> glorificatur</rdg>
+      </app> in nobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-D CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-F CAO-S"> Allide virtutem eorum</rdg>
+            <rdg wit="CAO-E"> Allidet virtutem eorum</rdg>
+            <rdg wit="CAO-D Hyd"> Allide virtute illorum</rdg>
+         </app> in virtute tua
+       <app>
+            <rdg wit="CAO-C CAO-D CAO-F CAO-S Hyd"> cadat</rdg>
+            <rdg wit="CAO-E"> et cadat</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-D CAO-S Hyd"> virtus eorum</rdg>
+            <rdg wit="CAO-F"> virtus illorum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-D CAO-F Hyd"> in iracundia tua</rdg>
+            <rdg wit="CAO-S"> in iracundia terre</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-B CAO-M CAO-R">
+         <app>
+            <rdg wit="CAO-M CAO-R"> Erige brachium tuum</rdg>
+            <rdg wit="CAO-B"> Dirige brachium tuum</rdg>
+         </app> sicut ab initio et allide virtutem eorum</vBody>
+      <vBody id="c6492-1" type="r" wit="CAO-C"> Allide virtutem eorum in virtute tua cadat virtus eorum in iracundia tua</vBody>
+      <rep corresp="c6492-1" type="r" wit="CAO-C"> Et dextera</rep>
+      <vBody type="r" wit="CAO-G CAO-V">
+         <app>
+            <rdg wit="CAO-V"> Disrumpam</rdg>
+            <rdg wit="CAO-G"> Dirumpam</rdg>
+         </app> vincula populi mei dicit dominus et disperdam omnia mala quae induxi super eum</vBody>
+      <vBody type="r" wit="CAO-H"> Disrumpe vincula populi tui Deus noster et disperde omnia mala quae invenerunt super eum</vBody>
+      <vBody type="r" wit="CAO-L"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody id="c6492-2" type="r" wit="CAO-C"> Qui regis</vBody>
+      <rep corresp="c6492-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio given with this verse in CAO-C</note>
+      </rep>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-B CAO-M CAO-R CAO-V CAO-H CAO-L Hyd"> Et dextera</rep>
+   </verses>
+</res>

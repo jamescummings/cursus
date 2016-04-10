@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3987" nextid="c3989" id="c3988">
+   <header>
+      <usage ms="Alb2" code="01048010">[21v] </usage>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="01048010">[15r] </usage>
+      <usage ms="Evm" code="01048010">[30r] </usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="01048000">[21r] </usage>
+      <usage ms="Pet" code="01048010">[12r] </usage>
+      <usage ms="Wcb" code="01048010">[49v] </usage>
+      <usage ms="Wor" code="01048010">[10v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> O Adonai et dux domus Israel
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> qui Moysi in igne flammae rubi apparuisti</rdg>
+         <rdg wit="CAO-E"> qui Moysi in ignis flamma rubi apparuisti</rdg>
+         <rdg wit="CAO-L"> qui Moysi in ignem flammae rubi apparuisti</rdg>
+      </app> et ei in Sina legem dedisti veni ad redimendum nos in brachio extento</aBody>
+</ant>

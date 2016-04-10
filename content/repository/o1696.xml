@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1695" nextid="o1697" id="o1696">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n3-r12</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.526</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus qui hodierna die corda fidelium sancti spiritus illustratione docuisti da nobis in eodem spiritu recta sapere et de eius semper consolatione gaudere</pBody>
+</prayer>

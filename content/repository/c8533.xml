@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8532" nextid="c8534" id="c8533">
+   <header>
+      <usage ms="Glo" code="07061000">[74v] procession-a15</usage>
+   </header>
+   <aBody wit="Glo"> Gloria laus et honor tibi sit rex Christe redemptor cui puerile decus prompsit hosanna pium</aBody>
+   <verses>
+      <vBody type="a" wit="Glo">Israel es tu rex Davidis et inclita proles nomine qui in domini rex benedicte venis</vBody>
+      <rep type="a" wit="Glo">Cui</rep>
+      <vBody type="a" num="2" wit="Glo">Coetus in excelsis te laudat coelitus omnis et mortalis homo et cuncta creata simul</vBody>
+      <rep type="a" wit="Glo">Cui</rep>
+      <vBody type="a" num="3" wit="Glo">Plebs Hebraea tibi cum palmis obvia venit cum prece voto humnis assumus ecce tibi</vBody>
+      <rep type="a" wit="Glo">Gloria</rep>
+   </verses>
+</ant>

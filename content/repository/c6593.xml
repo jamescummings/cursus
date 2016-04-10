@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6592" nextid="c6594" id="c6593">
+   <header>
+      <usage ms="Evm" code="02122700">[43v] matins-n2-r5</usage>
+      <usage ms="Wcb" code="02122700">[61v] matins-n2-r5</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">For verse of Evm etc cf. verse of c6940</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C Evm Wcb">
+      <app>
+         <rdg wit="Evm Wcb"> Ecce honoratus es</rdg>
+         <rdg wit="CAO-C"> Ecce honorandus es</rdg>
+      </app> in conspectu meo
+     <app>
+         <rdg wit="Evm Wcb"> corona gloriae dicit dominus</rdg>
+         <rdg wit="CAO-C"> coronavi te dicit dominus</rdg>
+      </app> et ego dilexi valde noli timere quia tecum sum semper
+     <app>
+         <rdg wit="Evm Wcb"> ut adiuvem te</rdg>
+         <rdg wit="CAO-C"> ut adiuvi te</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="Evm Wcb">Invoca me in die tribulationis tuae eripiam te et magnificabis me</vBody>
+      <vBody type="r" wit="CAO-C"> In tribulatione</vBody>
+      <rep type="r" wit="Evm">Quia tecum</rep>
+   </verses>
+</res>

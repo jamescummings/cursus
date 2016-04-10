@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4050" nextid="c4052" id="c4051">
+   <header>
+      <usage ms="Glo" code="14120600">[13v] vesp1 gosp</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Glo"> O pastor aeterne o clemens et bone custos qui dum devoti gregis preces
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S CAO-L Glo"> attenderes</rdg>
+         <rdg wit="CAO-B CAO-R"> attenderas</rdg>
+      </app> voce lapsa de caelo praesuli sanctissimo dignum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Glo"> episcopatu Nicolaum</rdg>
+         <rdg wit="CAO-L"> episcopatum Nicolaum</rdg>
+      </app> ostendisti tuum famulum</aBody>
+</ant>

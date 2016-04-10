@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4533" nextid="c4535" id="c4534">
+   <header>
+      <usage ms="Alb2" code="07053000">[102r] vesp2</usage>
+      <usage ms="Cdm" code="07053000">[72v] vesp2</usage>
+      <usage ms="Cht" code="07053000">[51r] vesp2-a1</usage>
+      <usage ms="Ely" code="07053000">[83v] vesp2</usage>
+      <usage ms="Evm" code="07053000">[138v] vesp2</usage>
+      <usage ms="Glo" code="07053000">[71r] vesp2</usage>
+      <usage ms="Hyd" code="07053000">[88v] vesp2</usage>
+      <usage ms="Mch" code="07053000">[149r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07053000">[82v] vesp2-a1</usage>
+      <usage ms="Wcb" code="07053000">[110r] vesp2-a1</usage>
+      <usage ms="Wor" code="07053000">[54v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">Quidam autem Judaei dicebant</rdg>
+         <rdg wit="CAO-H CAO-D">Quidam enim Judaei dicebant</rdg>
+      </app> quia bonus est alii autem dicebant non
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> sed seducit turbas</rdg>
+         <rdg wit="CAO-R"> sed seducit turbam</rdg>
+      </app>
+   </aBody>
+</ant>

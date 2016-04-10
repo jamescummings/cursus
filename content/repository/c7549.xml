@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7548" nextid="c7550" id="c7549">
+   <rBody wit="CAO-V"> Rogamus te domine deus quia peccavimus tibi veniam petimus quam non meremur si exspectas non corripimur et si vindicas non duramus manum tuam porrige lapsi qui latroni confitenti paradisi ianuas aperuisti</rBody>
+   <verses>
+      <vBody id="c7549-1" type="r" wit="CAO-V"> Vita nostra in dolore suspirat et in opere non emendat</vBody>
+      <rep corresp="c7549-1" type="r" wit="CAO-V">Si exspectas</rep>
+      <vBody id="c7549-2" type="r" num="2" wit="CAO-V"> Sicut misertus est deus latroni in cruce memento mei domine in regno tuo</vBody>
+      <rep corresp="c7549-2" type="r" wit="CAO">Manum</rep>
+   </verses>
+</res>

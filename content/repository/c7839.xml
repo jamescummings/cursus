@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7838" nextid="c7840" id="c7839">
+   <header>
+      <usage ms="Alb2" code="02122500">[29r] lauds</usage>
+      <usage ms="Bat" code="02122500">[18r] lauds</usage>
+      <usage ms="Cdm" code="02122500">[24r] vesp2</usage>
+      <usage ms="Wor" code="02122500">[16r] lauds</usage>
+   </header>
+   <rBody wit="CAO-R Alb2 Bat Cdm Wor"> Verbum caro factum est et habitavit in nobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R Alb2 Bat Cdm Wor">Et vidimus gloriam eius
+      <app>
+            <rdg wit="CAO-R Alb2 Bat"> quasi</rdg>
+            <rdg wit="Cdm Wor"> gloriam quasi</rdg>
+         </app> unigeniti a patre</vBody>
+      <dox type="r" wit="Alb2">Gloria</dox>
+      <rep type="r" wit="Alb2">Et <supplied resp="DC">habitavit</supplied>
+      </rep>
+      <rep type="r" wit="Cdm"> Et habitavit</rep>
+   </verses>
+</res>

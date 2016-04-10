@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6750" nextid="c6752" id="c6751">
+   <rBody wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Fuit vir vitae venerabilis
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> gratia Benedictus</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> gratia Dei Benedictus</rdg>
+         <rdg wit="CAO-L"> gratia</rdg>
+      </app> et nomine ab ipso
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> pueritae suae</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F"> pueritae</rdg>
+      </app> tempore cor gerens
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> senile</rdg>
+         <rdg wit="CAO-L"> senilem</rdg>
+      </app> aetatem quippe moribus transiens nulli animum voluptati dedit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D CAO-F CAO-S CAO-L"> Recessit igitur scienter nescius et sapienter indoctus</vBody>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R"> Despexit igitur quo temporaliter libere uti potuisset sanctae conversationis habitum quaesivit</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Aetatem</rep>
+      <rep type="r" wit="CAO-C"> Ab ipso</rep>
+   </verses>
+</res>

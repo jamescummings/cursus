@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1725" nextid="o1727" id="o1726">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] matins-n2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Deus qui nos fecisti paschalia festa celebrare fac nos quaesumus in caelesti regno gaudere</pBody>
+</prayer>

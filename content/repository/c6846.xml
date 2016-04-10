@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6845" nextid="c6846b" id="c6846">
+   <rBody wit="CAO-C CAO-E CAO-L"> Hodie caeli aperti sunt et mare dulce factum est terra exsultat montes et colles laetantur
+      <app>
+         <rdg wit="CAO-L"> quia a Joanne</rdg>
+         <rdg wit="CAO-E"> quia</rdg>
+         <rdg wit="CAO-C"> quia Joannes</rdg>
+      </app> in Jordane Christus baptizatus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Quid est tibi mare quod fugisti et tu Jordanis quia conversus es retrorsum</vBody>
+      <vBody type="r" wit="CAO-C"> Quid est tibi mare</vBody>
+      <vBody type="r" wit="CAO-L"> Mare vidit et fugit Jordanis conversus est retrorsum</vBody>
+      <rep type="r" wit="CAO-E CAO-L"> Quia</rep>
+   </verses>
+</res>

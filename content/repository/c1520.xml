@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1519" nextid="c1521" id="c1520">
+   <header>
+      <usage ms="Hyd" code="08081000">prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F Hyd"> Audistis quia dixi vobis</rdg>
+         <rdg wit="CAO-C CAO-L"> Audistis quia dictum est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-R CAO-F CAO-L Hyd"> vado et venio ad vos</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H"> vado et veniam ad vos</rdg>
+      </app> si diligeretis me gauderetis utique
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> quia ad patrem vado</rdg>
+         <rdg wit="Hyd"> quia vado ad patrem</rdg>
+      </app> quia pater maior me est alleluia</aBody>
+</ant>

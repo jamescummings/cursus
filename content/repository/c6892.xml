@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6891" nextid="c6892b" id="c6892">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> In columbae specie spiritus sanctus visus est paterna vox audita est hic est filius meus dilectus in quo mihi
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-R CAO-D Alb2 Hyd"> bene complacui</rdg>
+         <rdg wit="CAO-V CAO-H CAO-F CAO-S CAO-L Pet"> bene complacuit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Alb2 Hyd Pet"> ipsum audite</rdg>
+         <rdg wit="CAO-D CAO-S" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Caeli aperti sunt super eum et vox patris audita est</vBody>
+      <vBody id="c6892-1" type="r" wit="CAO-C CAO-G"> Caeli aperti sunt</vBody>
+      <rep corresp="c6892-1" type="r" wit="CAO-C CAO-G">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C or CAO-G</note>
+      </rep>
+      <vBody id="c6892-2" type="r" num="2" wit="CAO-C"> Vox domini super aquas deus maiestatis intonuit dominus super aquas multas</vBody>
+      <rep corresp="c6892-2" type="r" wit="CAO-C"> Paterna</rep>
+      <vBody id="c6892-3" type="r" wit="CAO-V"> Vox domini super aquas deus maiestatis intonuit dominus super aquas multas</vBody>
+      <rep corresp="c6892-3" type="r" wit="CAO-V">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-V</note>
+      </rep>
+      <vBody type="r" wit="Alb2 Pet"> Vox domini super aquas deus maiestatis intonuit dominus super aquas multas</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd">Hic est</rep>
+   </verses>
+</res>

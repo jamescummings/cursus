@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5148" nextid="c5150" id="c5149">
+   <header>
+      <usage ms="Cht" code="07054000">[51v] terce</usage>
+      <usage ms="Evm" code="07054000">[139r] terce</usage>
+      <usage ms="Glo" code="07054000">[71v] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-F CAO-L Cht Evm Glo">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-F CAO-L Cht Glo"> Tibi revelavi causam meam</rdg>
+         <rdg wit="Evm"> Tibi revelavi causam animae meae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-F CAO-L Cht Glo"> domine defensor vitae meae</rdg>
+         <rdg wit="CAO-C Evm Cdm"> defensor vitae meae</rdg>
+      </app> domine deus meus</aBody>
+</ant>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c5517" nextid="c6002" id="c6001">
+   <rBody wit="CAO-E CAO-F CAO-L"> A Christo de caelo vocatus
+     <app>
+         <rdg wit="CAO-E CAO-F"> et in terra</rdg>
+         <rdg wit="CAO-L"> et in terram</rdg>
+      </app> prostratus ex persecutore effectus est vas electionis et plus omnibus
+     <app>
+         <rdg wit="CAO-E CAO-F"> laborans multo</rdg>
+         <rdg wit="CAO-L"> laboravit multos</rdg>
+      </app> latius inter omnes verbi
+     <app>
+         <rdg wit="CAO-E CAO-L"> gratiam</rdg>
+         <rdg wit="CAO-F"> gratia</rdg>
+      </app> seminavit atque doctrinam evangelicam sua praedicatione complevit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F CAO-L">Inter apostolos
+      <app>
+            <rdg wit="CAO-E CAO-F"> vocatione</rdg>
+            <rdg wit="CAO-L"> vocatus</rdg>
+         </app> novissimus
+      <app>
+            <rdg wit="CAO-E CAO-F"> praedicatione</rdg>
+            <rdg wit="CAO-L"> praedicator</rdg>
+         </app> primus nomen Christi multarum manifestavit gentium populis</vBody>
+      <rep type="r" wit="CAO-E CAO-F CAO-L"> Atque</rep>
+   </verses>
+</res>

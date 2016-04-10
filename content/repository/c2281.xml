@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2280" nextid="c2282" id="c2281">
+   <header>
+      <usage ms="Bat" code="06018000">[43r] </usage>
+      <usage ms="Cdm" code="06018000">[50r] -a2</usage>
+      <usage ms="Cht" code="06018000">[13r]  gosp</usage>
+      <usage ms="Ely" code="06011000">[61r] vesp2 gosp</usage>
+      <usage ms="Evm" code="06018000">[95r] </usage>
+      <usage ms="Glo" code="06011000">[49v] sext</usage>
+      <usage ms="Hyd" code="06018000">[62r]  gosp</usage>
+      <usage ms="Pet" code="06011000">[57r] vesp2</usage>
+      <usage ms="Wcb" code="06011000">[86v] sext</usage>
+      <usage ms="Wor" code="06018000">[37v] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Pet Ely Wcb Evm Glo Cdm Bat"> Dixit autem paterfamilias amice non facio tibi iniuriam nonne ex denario convenisti mecum tolle quod tuum est et vade</aBody>
+</ant>

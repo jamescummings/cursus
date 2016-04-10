@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6776" nextid="c6778" id="c6777">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N">Gloria patri genitaeque proli</l>
+         <l part="N">et tibi compar utriusque semper</l>
+         <l part="N">spiritus alme deus unus omni</l>
+         <l part="N">tempore saecli</l>
+      </lg>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <lg type="CDATA" org="uniform" sample="complete" part="N">
+            <l part="N">Da gaudiorum praemia</l>
+            <l part="N">da gratiarum munera</l>
+            <l part="N">dissolve litis vincula</l>
+            <l part="N">astringe pacis foedera</l>
+         </lg>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Omni</rep>
+   </verses>
+</res>

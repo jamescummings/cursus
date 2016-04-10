@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7030" nextid="c7032" id="c7031">
+   <header>
+      <usage ms="Alb2" code="01021000">[7v] matins-n1-r1</usage>
+      <usage ms="Bat" code="01021000">[5v] matins-n1-r1</usage>
+      <usage ms="Cdm" code="01021000">[12r] matins-n1-r1</usage>
+      <usage ms="Ely" code="01021000">[7r] matins-n1-r1</usage>
+      <usage ms="Evm" code="01021000">[12v] matins-n1-r1</usage>
+      <usage ms="Hyd" code="01021000">[7r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="01022000" corresp="c7031-1">[9r] matins-n1-r1</usage>
+      <usage ms="Mch" code="01021000">[6r] matins-n1-r1</usage>
+      <usage ms="Wcb" code="01021000">[44r] matins-n1-r1</usage>
+      <usage ms="Wor" code="01021000">[4v] matins-r1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Alb2 has three verses (c7031-3, c7031-6, c7031-10) plus one for ferias (c7031-1)</note>
+         <note place="unspecified" anchored="yes">Evm Mch Cdm Ely Wcb give only c7031-1 as verse on Dom.2</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Jerusalem cito veniet salus tua quare moerore consumeris numquid consiliarius non est tibi
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R Hyd Alb2 Evm Mch Ely Wor Wcb"> quia innovabit te</rdg>
+         <rdg wit="CAO-D CAO-F Cdm Bat"> quia innovavit te</rdg>
+         <rdg wit="CAO-M"> quia innovavi te</rdg>
+         <rdg wit="CAO-S"> quia innovabi te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> dolor</rdg>
+         <rdg wit="CAO-C"> dolus</rdg>
+      </app> salvabo te et liberabo te noli timere</rBody>
+   <verses>
+      <vBody id="c7031-1" type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Mch Cdm Ely Wor Wcb Bat"> Israel si me audieris non erit in te deus recens neque adorabis deum alienum
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Evm Mch Cdm Ely Wor Wcb Bat"> ego enim dominus</rdg>
+            <rdg wit="Hyd"> ego enim sum dominus</rdg>
+         </app>
+      </vBody>
+      <rep corresp="c7031-1" type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Evm Cdm Ely Wor Wcb Bat"> Salvabo</rep>
+      <vBody id="c7031-2" type="r" wit="CAO-G"> Ego enim sum dominus deus tuus sanctus Israel salvator tuus</vBody>
+      <rep corresp="c7031-2" type="r" wit="CAO-G">Salvabo</rep>
+      <vBody id="c7031-3" type="r" num="2" wit="CAO-E Alb2"> Ego enim sum dominus deus tuus sanctus Israel salvator tuus delevi ut nubem iniquitates tuas et quasi nebulas peccata tua</vBody>
+      <rep corresp="c7031-3" type="r" wit="CAO-E Alb2">Quare</rep>
+      <vBody id="c7031-4" type="r" num="2" wit="CAO-D"> Ego enim sum dominus deus tuus sanctus Israel salvator tuus delebo ut nubem iniquitatem tuam et quasi nebulam peccata tua</vBody>
+      <rep corresp="c7031-4" type="r" wit="CAO-D">Salvabo</rep>
+      <vBody id="c7031-5" type="r" num="3" wit="CAO-E CAO-D"> Popule meus Israel Jacob quem elegi ab oriente adducam semen tuum et ab occidente congregabo te</vBody>
+      <rep corresp="c7031-5" type="r" wit="CAO-E CAO-D">Quia</rep>
+      <vBody id="c7031-6" type="r" num="4" wit="CAO-E CAO-D Hyd Alb2"> Quare dicis Jacob
+       <app>
+            <rdg wit="CAO-D Hyd Alb2"> et loqueris</rdg>
+            <rdg wit="CAO-E"> eloqueris</rdg>
+         </app> Israel abscondita est via mea a domino et a deo meo iudicium meum
+       <app>
+            <rdg wit="CAO-D Hyd Alb2"> transivit</rdg>
+            <rdg wit="CAO-E"> transibo</rdg>
+         </app>
+      </vBody>
+      <rep corresp="c7031-6" type="r" wit="CAO-E CAO-D Hyd Alb2">Numquid</rep>
+      <vBody id="c7031-7" type="r" num="5" wit="CAO-E"> Audi serve meus Jacob quem elegi ego ab utero auxiliator tuus</vBody>
+      <rep corresp="c7031-7" type="r" wit="CAO-E">Noli timere</rep>
+      <vBody id="c7031-8" type="r" num="6" wit="Hyd"> Ego enim sum dominus deus tuus sanctus Israel salvator tuus delevi ut nubem iniquitates tuas et quasi nebulas peccata tua</vBody>
+      <rep corresp="c7031-8" type="r" wit="Hyd">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in Hyde</note>
+      </rep>
+      <vBody id="c7031-9" type="r" num="7" wit="Hyd"> Popule meus Israel Jacob quem elegi ab oriente adducam semen tuum et ab occidente congregabo te</vBody>
+      <rep corresp="c7031-9" type="r" wit="Hyd"> Et liberabo</rep>
+      <vBody id="c7031-10" type="r" num="8" wit="Alb2"> Popule meus Israel Jacob quem elegi ab oriente adducam semen tuum et ab occidente congregabo te</vBody>
+      <rep corresp="c7031-10" type="r" wit="Alb2">Salvabo</rep>
+   </verses>
+</res>

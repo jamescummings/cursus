@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3904" nextid="c3906" id="c3905">
+   <aBody wit="CAO-E CAO-V CAO-H">
+      <app>
+         <rdg wit="CAO-E CAO-V"> Non confundetur dum loquetur inimicis suis in porta</rdg>
+         <rdg wit="CAO-H"> Non confundentur dum loquentur inimicis suis in porta</rdg>
+      </app>
+   </aBody>
+</ant>

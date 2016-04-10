@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1533" nextid="o1535" id="o1534">
+   <header>
+      <usage ms="Cht" code="07032000"/>
+      <usage ms="Ely" code="07032000"/>
+      <usage ms="Evm" code="07032000"/>
+      <usage ms="Hyd" code="07032000"/>
+      <usage ms="Wcb" code="07032000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.235</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb">Subveniat nobis domine misericordia tua ut ab imminentibus peccatorum nostrorum periculis te mereamur protegente salvari</pBody>
+</prayer>

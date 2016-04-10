@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2946" nextid="c2948" id="c2947">
+   <header>
+      <usage ms="Hyd" code="09011000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+      <verse type="stanza">
+         <l part="N">Gloria laudis resonet
+       <app>
+               <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> in ore</rdg>
+               <rdg wit="CAO-E CAO-S"> ab ore</rdg>
+            </app>
+         </l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">omnium patri</rdg>
+               <rdg wit="CAO-E">hominum patri</rdg>
+               <rdg wit="CAO-G CAO-V">omnium patris</rdg>
+            </app>
+            <app>
+               <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Hyd"> genitaeque proli</rdg>
+               <rdg wit="CAO-S"> genitoque proli</rdg>
+               <rdg wit="CAO-G CAO-V"> genitaeque prolis</rdg>
+            </app>
+         </l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D Hyd">spiritui sancto</rdg>
+               <rdg wit="CAO-E">
+                  <corr sic="spiritui">spiritus</corr> sancto</rdg>
+               <rdg wit="CAO-G CAO-V">spiritus sancti</rdg>
+               <rdg wit="CAO-F CAO-S">spiritu sancti</rdg>
+            </app> pariter resultet</l>
+         <l part="N">laude perenni</l>
+      </verse>
+   </aBody>
+</ant>

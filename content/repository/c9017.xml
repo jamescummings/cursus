@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9016" nextid="c9500" id="c9017">
+   <header>
+      <usage ms="Alb2" code="06031000">[70v] matins-n2-r8</usage>
+      <usage ms="Bat" code="06031000">[45v] matins-n2-r8</usage>
+      <usage ms="Cdm" code="06031000">[53v] matins-n2-r8</usage>
+      <usage ms="Cht" code="06031000">[16v] matins-n2-r6</usage>
+      <usage ms="Ely" code="06031000">[63r] matins-n2-r8</usage>
+      <usage ms="Mch" code="06031000">[107v] matins-n2-r8</usage>
+      <usage ms="Pet" code="06031000">[61r] matins-n2-r8</usage>
+      <usage ms="Wcb" code="06031000">[89v] matins-n2-r8</usage>
+      <usage ms="Wor" code="06031000">[40v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="Cht Alb2 Wor Pet Ely Wcb Cdm Mch Bat"> Ascendens ergo deus ab Abraham
+     <app>
+         <rdg wit="Cht Wor Pet Ely Wcb Cdm Mch Bat"> pluit</rdg>
+         <rdg wit="Alb2">misit</rdg>
+      </app>
+      <app>
+         <rdg wit="Cht Alb2 Wor Pet Wcb Cdm Mch Bat"> ignem et sulphur super Sodomam</rdg>
+         <rdg wit="Ely">ignem super Sodomam</rdg>
+      </app> Abraham mane surgens stetit et eversas urbes a longe conspexit</rBody>
+   <verses>
+      <vBody type="r" wit="Cht Alb2 Wor Pet Ely Wcb Cdm Mch Bat"> Recordatus est deus Abrahe et liberavit Loth de subversione Sodomae</vBody>
+      <rep type="r" wit="Cht Alb2 Wor Pet Ely Wcb Cdm Mch Bat">Abraham</rep>
+      <dox type="r" wit="Wor Pet">Gloria patri et filio et spiritui sancto</dox>
+      <rep type="r" wit="Wor Pet">Abraham</rep>
+   </verses>
+</res>

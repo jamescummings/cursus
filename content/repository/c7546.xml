@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7545" nextid="c7547" id="c7546">
+   <header>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-C CAO-D CAO-L Hyd Pet"> Rex magnus natus est in Israel et venerunt reges terrae
+     <app>
+         <rdg wit="CAO-C CAO-D Hyd Pet"> adorare eum</rdg>
+         <rdg wit="CAO-L"> adorare dominum</rdg>
+      </app> et obtulerunt ei munera aurum thus et myrrham</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Descendet dominus sicut pluvia in vellus et sicut stillicidia stillantia super terram</vBody>
+      <vBody type="r" wit="CAO-D"> Et intrantes domum invenerunt eum</vBody>
+      <vBody type="r" wit="CAO-C"> Et intrantes domum invenerunt puerum cum Maria matre eius et procidentes adoraverunt eum</vBody>
+      <vBody type="r" wit="Hyd">In auro venerantes regem in thure deum in myrrha dominicam sepulturam</vBody>
+      <vBody type="r" wit="Pet">Ab oriente magi venerunt in Bethlehem adorare dominum</vBody>
+      <rep type="r" wit="CAO-C CAO-D CAO-L Hyd Pet">Et obtulerunt</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7854" nextid="c7856" id="c7855">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V"> Videns crucem Andreas</rdg>
+         <rdg wit="CAO-L"> Vidit crucem Andreas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-L"> exclamavit dicens</rdg>
+         <rdg wit="CAO-M"> exclamabat dicens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M"> o crux admirabilis o crux inenarrabilis</rdg>
+         <rdg wit="CAO-C"> o crux admirabilis</rdg>
+         <rdg wit="CAO-V CAO-L"> o crux inenarrabilis o crux inaestimabilis</rdg>
+      </app> o crux quae per totum mundum
+     <app>
+         <rdg wit="CAO-C CAO-M"> fulgida es</rdg>
+         <rdg wit="CAO-E CAO-V"> fulgebas</rdg>
+         <rdg wit="CAO-L"> fulget</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V"> suscipe discipulum eius</rdg>
+         <rdg wit="CAO-C"> suscipe discipulum Christi</rdg>
+         <rdg wit="CAO-L" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> non me dimittas errare</rdg>
+         <rdg wit="CAO-C"> non dimittis errare</rdg>
+         <rdg wit="CAO-E"> non me permittas errantem</rdg>
+         <rdg wit="CAO-V"> non me permittas errare</rdg>
+         <rdg wit="CAO-L"> non me dimittas errantem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-L"> sicut ovem non habentem pastorem</rdg>
+         <rdg wit="CAO-M"> sicut oves non habentem pastorem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody id="c7855-1" type="r" wit="CAO-C"> Vivens pendebat in cruce Christi nomine beatus Andreas et docebat populum</vBody>
+      <rep corresp="c7855-1" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody type="r" wit="CAO-E"> Biduo vivens pendebat in cruce Christi nomine beatus Andreas et docebat populum et dixit</vBody>
+      <vBody type="r" wit="CAO-L"> Beatus Andreas comprehensus ab Aegea ductus ad crucem dicebat</vBody>
+      <vBody type="r" wit="CAO-M"> Beatus Andreas orabat dicens</vBody>
+      <vBody type="r" wit="CAO-V"> Erravi sicut ovis quae perierat require servum tuum domine quia mandata tua non sum oblitus</vBody>
+      <vBody id="c7855-2" type="r" num="2" wit="CAO-C"> Salve crux pretiosa suscipe discipulum eius qui pependit in te magister meus Christus</vBody>
+      <rep corresp="c7855-2" type="r" wit="CAO-C"> Non</rep>
+      <rep type="r" wit="CAO-E">Non</rep>
+      <rep type="r" wit="CAO-L">O crux inenarrabilis</rep>
+      <rep type="r" wit="CAO-M">O crux admirabilis</rep>
+      <rep type="r" wit="CAO-V">Suscipe</rep>
+   </verses>
+</res>

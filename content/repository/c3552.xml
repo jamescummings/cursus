@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3551" nextid="c3553" id="c3552">
+   <aBody wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> Iustus ut palma florebit
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-D CAO-S"> sicut cedrus Libani</rdg>
+         <rdg wit="CAO-R CAO-F"> ut cedrus Libani</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S"> multiplicabitur</rdg>
+         <rdg wit="CAO-E"> multiplicabitur in domo domini</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1937" nextid="c1939" id="c1938">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L">
+      <name reg="Cosmas" type="saint">Cosmas</name> et <name reg="Damianus" type="saint">Damianus</name> Anthimus Leontius Euprepius
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-L"> hi quinque fratres</rdg>
+         <rdg wit="CAO-E CAO-M CAO-R"> hii quinque fratres</rdg>
+      </app> a deo coronati sunt</aBody>
+</ant>

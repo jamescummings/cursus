@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8591" nextid="c8593" id="c8592">
+   <header>
+      <usage ms="Evm" code="02122800">[49v] vesp2 commemoratio</usage>
+      <usage ms="Wcb" code="02122600">[58v] matins-n2-a7</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">[Mon Jan 24 10:54:02 2005] cf. verse, currently Evm and Alb2, of respond c6887</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Wcb"> Exclamantes continuerunt aures suas et impetum fecerunt unanimiter in eum</aBody>
+</ant>

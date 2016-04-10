@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Malachai">
+<body>
+  <rubric type="bible-incipit" id="B.Malachai.incipit.001">
+    <reference>
+      <bookName>Malachai</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT MALACHI PROPHETA</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Malachai.001.001">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>onus verbi Domini ad Israhel in manu Malachi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.002">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>dilexi vos dicit Dominus et dixistis in quo dilexisti nos nonne frater erat Esau Iacob dicit Dominus et dilexi Iacob</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.003">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>Esau autem odio habui et posui montes eius in solitudinem et hereditatem eius in dracones deserti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.004">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>quod si dixerit Idumea destructi sumus sed revertentes aedificabimus quae deserta sunt haec dicit Dominus exercituum isti aedificabunt et ego destruam et vocabuntur Termini impietatis et Populus cui iratus est Dominus usque in aeternum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.005">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>et oculi vestri videbunt et vos dicetis magnificetur Dominus super terminum Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.006">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>filius honorat patrem et servus dominum suum si ergo pater ego sum ubi est honor meus et si dominus ego sum ubi est timor meus dicit Dominus exercituum ad vos o sacerdotes qui despicitis nomen meum et dixistis in quo despeximus nomen tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.007">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>offertis super altare meum panem pollutum et dicitis in quo polluimus te in eo quod dicitis mensa Domini despecta est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.008">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>si offeratis caecum ad immolandum nonne malum est et si offeratis claudum et languidum nonne malum est offer illud duci tuo si placuerit ei aut si susceperit faciem tuam dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.009">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et nunc deprecamini vultum Dei ut misereatur vestri de manu enim vestra factum est hoc si quo modo suscipiat facies vestras dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.010">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>quis est in vobis qui claudat ostia et incendat altare meum gratuito non est mihi voluntas in vobis dicit Dominus exercituum et munus non suscipiam de manu vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.011">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>ab ortu enim solis usque ad occasum magnum est nomen meum in gentibus et in omni loco sacrificatur et offertur nomini meo oblatio munda quia magnum nomen meum in gentibus dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.012">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>et vos polluistis illud in eo quod dicitis mensa Domini contaminata est et quod superponitur contemptibile est cum igni qui illud devorat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.013">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>et dixistis ecce de labore et exsuflastis illud dicit Dominus exercituum et intulistis de rapinis claudum et languidum et intulistis munus numquid suscipiam illud de manu vestra dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.001.014">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>maledictus dolosus qui habet in grege suo masculum et votum faciens immolat debile Domino quia rex magnus ego dicit Dominus exercituum et nomen meum horribile in gentibus</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Malachai.002.001">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>et nunc ad vos mandatum hoc o sacerdotes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.002">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>si nolueritis audire et si nolueritis ponere super cor ut detis gloriam nomini meo ait Dominus exercituum mittam in vos egestatem et maledicam benedictionibus vestris et maledicam illis quoniam non posuistis super cor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.003">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>ecce ego proiciam vobis brachium et dispergam super vultum vestrum stercus sollemnitatum vestrarum et adsumet vos secum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.004">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>et scietis quia misi ad vos mandatum istud ut esset pactum meum cum Levi dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.005">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>pactum meum fuit cum eo vitae et pacis et dedi ei timorem et timuit me et a facie nominis mei pavebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.006">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>lex veritatis fuit in ore eius et iniquitas non est inventa in labiis eius in pace et in aequitate ambulavit mecum et multos avertit ab iniquitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.007">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>labia enim sacerdotis custodient scientiam et legem requirent ex ore eius quia angelus Domini exercituum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.008">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>vos autem recessistis de via et scandalizastis plurimos in lege irritum fecistis pactum Levi dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.009">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>propter quod et ego dedi vos contemptibiles et humiles omnibus populis sicut non servastis vias meas et accepistis faciem in lege</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.010">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>numquid non pater unus omnium nostrum numquid non Deus unus creavit nos quare ergo despicit unusquisque nostrum fratrem suum violans pactum patrum nostrorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.011">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>transgressus est Iuda et abominatio facta est in Israhel et in Hierusalem quia contaminavit Iudas sanctificationem Domini quam dilexit et habuit filiam dei alieni</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.012">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>disperdat Dominus virum qui fecerit hoc magistrum et discipulum de tabernaculis Iacob et offerentem munus Domino exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.013">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>et hoc rursum fecistis operiebatis lacrimis altare Domini fletu et mugitu ita ut ultra non respiciam ad sacrificium nec accipiam placabile quid de manu vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.014">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>et dixistis quam ob causam quia Dominus testificatus est inter te et uxorem pubertatis tuae quam tu despexisti et haec particeps tua et uxor foederis tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.015">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>nonne unus fecit et residuum spiritus eius est et quid unus quaerit nisi semen Dei custodite ergo spiritum vestrum et uxorem adulescentiae tuae noli despicere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.016">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>cum odio habueris dimitte dicit Dominus Deus Israhel operiet autem iniquitas vestimentum eius dicit Dominus exercituum custodite spiritum vestrum et nolite despicere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.002.017">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>laborare fecistis Dominum in sermonibus vestris et dixistis in quo eum fecimus laborare in eo cum diceretis omnis qui facit malum bonus est in conspectu Domini et tales ei placent aut certe ubi est Deus iudicii</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Malachai.003.001">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>ecce ego mittam angelum meum et praeparabit viam ante faciem meam et statim veniet ad templum suum dominator quem vos quaeritis et angelus testamenti quem vos vultis ecce venit dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.002">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>et quis poterit cogitare diem adventus eius et quis stabit ad videndum eum ipse enim quasi ignis conflans et quasi herba fullonum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.003">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>et sedebit conflans et emundans argentum et purgabit filios Levi et colabit eos quasi aurum et quasi argentum et erunt Domino offerentes sacrificia in iustitia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.004">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>et placebit Domino sacrificium Iuda et Hierusalem sicut dies saeculi et sicut anni antiqui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.005">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>et accedam ad vos in iudicio et ero testis velox maleficis et adulteris et periuris et qui calumniantur mercedem mercennarii viduas et pupillos et opprimunt peregrinum nec timuerunt me dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.006">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>ego enim Dominus et non mutor et vos filii Iacob non estis consumpti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.007">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>a diebus enim patrum vestrorum recessistis a legitimis meis et non custodistis revertimini ad me et revertar ad vos dicit Dominus exercituum et dixistis in quo revertemur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.008">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>si adfiget homo Deum quia vos configitis me et dixistis in quo confiximus te in decimis et in primitivis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.009">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>et in penuria vos maledicti estis et me vos configitis gens tota</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.010">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>inferte omnem decimam in horreum et sit cibus in domo mea et probate me super hoc dicit Dominus si non aperuero vobis cataractas caeli et effudero vobis benedictionem usque ad abundantiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.011">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>et increpabo pro vobis devorantem et non corrumpet fructum terrae vestrae nec erit sterilis vinea in agro dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.012">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>et beatos vos dicent omnes gentes eritis enim vos terra desiderabilis dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.013">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>invaluerunt super me verba vestra dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.014">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>et dixistis quid locuti sumus contra te dixistis vanus est qui servit Deo et quod emolumentum quia custodivimus praecepta eius et quia ambulavimus tristes coram Domino exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.015">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>ergo nunc beatos dicimus arrogantes siquidem aedificati sunt facientes impietatem et temptaverunt Deum et salvi facti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.016">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>tunc locuti sunt timentes Deum unusquisque cum proximo suo et adtendit Dominus et audivit et scriptus est liber monumenti coram eo timentibus Dominum et cogitantibus nomen eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.017">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>et erunt mihi ait Dominus exercituum in die qua ego facio in peculium et parcam eis sicut parcit vir filio suo servienti sibi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.003.018">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>et convertemini et videbitis quid sit inter iustum et impium et inter servientem Deo et non servientem ei</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Malachai.004.001">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>ecce enim dies veniet succensa quasi caminus et erunt omnes superbi et omnes facientes impietatem stipula et inflammabit eos dies veniens dicit Dominus exercituum quae non relinquet eis radicem et germen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.004.002">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>et orietur vobis timentibus nomen meum sol iustitiae et sanitas in pinnis eius et egrediemini et salietis sicut vituli de armento</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.004.003">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>et calcabitis impios cum fuerint cinis sub planta pedum vestrorum in die qua ego facio dicit Dominus exercituum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.004.004">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>mementote legis Mosi servi mei quam mandavi ei in Choreb ad omnem Israhel praecepta et iudicia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.004.005">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>ecce ego mittam vobis Heliam prophetam antequam veniat dies Domini magnus et horribilis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Malachai.004.006">
+      <reference>
+        <bookName>Malachai</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>et convertet cor patrum ad filios et cor filiorum ad patres eorum ne forte veniam et percutiam terram anathemate</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Malachai.colophon.001">
+    <reference>
+      <bookName>Malachai</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT MALACHI PROPHETA</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

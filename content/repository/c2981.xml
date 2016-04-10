@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2980" nextid="c2982" id="c2981">
+   <aBody wit="CAO-R">
+      <lg type="verse" org="uniform" sample="complete" part="N">
+         <l part="N"> Gregorius ortus Romae ex senatorum sanguine</l>
+         <l part="N"> fulsit mundo velut gemma auro superaddita</l>
+         <l part="N"> dum praeclarior praeclaris hic accessit atavis</l>
+      </lg>
+   </aBody>
+</ant>

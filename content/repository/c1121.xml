@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1120" nextid="c1122" id="c1121">
+   <header>
+      <usage ms="Ely" code="07063000">[87r] matins</usage>
+      <usage ms="Evm" code="07051000"/>
+      <usage ms="Wcb" code="07051000">[106v] matins</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Ely Evm Wcb">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S Ely Evm Wcb"> Quadraginta annis offensus fui</rdg>
+         <rdg wit="CAO-E CAO-F"> Quadraginta annis proximus fui</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-R CAO-F CAO-S Ely">generationi huic</rdg>
+         <rdg wit="CAO-E CAO-H Evm Wcb">generationi illi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-R CAO-F CAO-S"> et dixi semper hi errant corde</rdg>
+         <rdg wit="CAO-E CAO-H Ely Evm Wcb"> et dixi semper errant corde</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2911" nextid="c2913" id="c2912">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-F CAO-S"> Fundamenta templi huius sapientia sua
+     <app>
+         <rdg wit="CAO-C CAO-F CAO-S"> fundavit deus</rdg>
+         <rdg wit="CAO-E CAO-M"> fundavit eam</rdg>
+         <rdg wit="CAO-H"> fundavit ea</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-F CAO-S"> in quo</rdg>
+         <rdg wit="CAO-E CAO-H"> in qua</rdg>
+      </app> dominum caeli collaudant angeli
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-F"> si irruant venti</rdg>
+         <rdg wit="CAO-S"> si irruunt venti</rdg>
+         <rdg wit="CAO-E"> si ruant venti</rdg>
+         <rdg wit="CAO-M"> si finiant venti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-F"> et fluant flumina</rdg>
+         <rdg wit="CAO-S"> et fluunt flumina</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> non poterunt illud movere unquam</rdg>
+         <rdg wit="CAO-C"> non potuerunt illud movere unquam</rdg>
+         <rdg wit="CAO-M"> non possunt ea<del status="unremarkable">m</del> movere unquam</rdg>
+         <rdg wit="CAO-E"> non possunt eam movere unquam</rdg>
+         <rdg wit="CAO-H"> non possunt ea movere unquam</rdg>
+         <rdg wit="CAO-S"> non poterunt ea movere unquam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F"> fundatum enim est</rdg>
+         <rdg wit="CAO-E CAO-M CAO-H"> fundata enim erat</rdg>
+         <rdg wit="CAO-S"> fundata enim est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-F"> supra petram</rdg>
+         <rdg wit="CAO-C"> super petram</rdg>
+         <rdg wit="CAO-S"> supra firmam petram</rdg>
+      </app>
+   </aBody>
+</ant>

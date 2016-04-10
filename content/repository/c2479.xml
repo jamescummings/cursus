@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2478b" nextid="c2480" id="c2479">
+   <aBody wit="CAO-C CAO-D CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-D"> Dum venisset Hippolytus</rdg>
+         <rdg wit="CAO-S"> Cum venisset Hippolytus</rdg>
+      </app> in praesentiam Decii subridens Decius dixit tu magus factus es
+     <app>
+         <rdg wit="CAO-C CAO-S"> quia abstulisti corpus Laurentii</rdg>
+         <rdg wit="CAO-D"> qui abstulisti corpus Laurentii</rdg>
+      </app>
+   </aBody>
+</ant>

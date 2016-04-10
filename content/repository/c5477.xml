@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5476" nextid="c5478" id="c5477">
+   <header>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-C CAO-D Hyd">
+      <app>
+         <rdg wit="CAO-C Hyd"> Visitavit nos oriens ex alto</rdg>
+         <rdg wit="CAO-D"> Visitavit nos oriens exacto</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D"> benedictus dominus</rdg>
+         <rdg wit="Hyd"> benedicens dominus</rdg>
+      </app>
+   </aBody>
+</ant>

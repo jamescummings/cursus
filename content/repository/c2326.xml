@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2325" nextid="c2327" id="c2326">
+   <header>
+      <usage ms="Hyd" code="01016000">[6v] lauds-a4</usage>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-G CAO-V CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-S CAO-L Hyd"> Domine audivi auditum tuum</rdg>
+         <rdg wit="CAO-G"> Domine audivi auditionem tuam</rdg>
+      </app> et timui</aBody>
+</ant>

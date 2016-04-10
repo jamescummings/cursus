@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4202" nextid="c4204" id="c4203">
+   <header>
+      <usage ms="Alb2" code="07054000">[102r] lauds</usage>
+      <usage ms="Cdm" code="07054000">[72v] lauds gosp</usage>
+      <usage ms="Cht" code="07054000">[51v] prime</usage>
+      <usage ms="Ely" code="07054000">[83v] lauds</usage>
+      <usage ms="Evm" code="07054000">[139r] prime</usage>
+      <usage ms="Glo" code="07054000">[71v] prime</usage>
+      <usage ms="Hyd" code="07054000">[88v] lauds</usage>
+      <usage ms="Mch" code="07054000">[149v] lauds gosp</usage>
+      <usage ms="Pet" code="07054000">[82v] nones-a1</usage>
+      <usage ms="Wcb" code="07054000">[110r] prime</usage>
+      <usage ms="Wor" code="07054000">[54v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-S Ely Wor Cht Hyd Pet Alb2 Cdm"> Oves meae vocem meam audiunt</rdg>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-D CAO-F Evm Wcb Glo Mch">  Oves meae vocem meam audient</rdg>
+      </app> et ego dominus agnosco eas</aBody>
+</ant>

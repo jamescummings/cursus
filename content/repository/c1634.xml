@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1633" nextid="c1635" id="c1634">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus ille servus
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> cum venerit dominus eius</rdg>
+         <rdg wit="CAO-D"> quem cum venerit dominus eius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et pulsaverit ianuam</rdg>
+         <rdg wit="CAO-C"> et pulsaverit ianuas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> et invenerit eum vigilantem</rdg>
+         <rdg wit="CAO-D"> invenerit vigilantem</rdg>
+      </app>
+   </aBody>
+</ant>

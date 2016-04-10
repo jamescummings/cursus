@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1553" nextid="o1555" id="o1554">
+   <header>
+      <usage ms="Alb2" code="07046000">[97r] vesp2</usage>
+      <usage ms="Cdm" code="07046000">[70r] vesp2</usage>
+      <usage ms="Cht" code="07046000">[45v] vesp2</usage>
+      <usage ms="Ely" code="07046000">[80r] vesp2</usage>
+      <usage ms="Evm" code="07046000">[132r] vesp2</usage>
+      <usage ms="Hyd" code="07046000">[84v] vesp2</usage>
+      <usage ms="Mch" code="07046000">[142v] vesp2</usage>
+      <usage ms="Wcb" code="07046000"/>
+      <notesStmt>
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">Deshusses no.280</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch"> Da quaesumus omnipotens deus ut qui infirmitatis nostrae conscii
+     <app>
+         <rdg wit="Ely Wcb Alb2 Cdm Mch"> de tua virtute confidimus</rdg>
+         <rdg wit="Cht Hyd Evm"> de tua pietate confidimus</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Evm"> sub tua semper pietate gaudeamus</rdg>
+         <rdg wit="Cht Hyd Alb2 Cdm"> sub tua semper protectione gaudeamus</rdg>
+         <rdg wit="Mch"> sub tua protectione gaudeamus</rdg>
+         <rdg wit="Wcb"> sub tua pietate gaudeamus</rdg>
+      </app>
+   </pBody>
+</prayer>

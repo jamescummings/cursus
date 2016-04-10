@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1009" nextid="c1011" id="c1010">
+   <header>
+      <usage ms="Wor" code="02122800">[21v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-F CAO-L Wor">
+      <app>
+         <rdg wit="CAO-F Wor"> Adoremus deum</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-L"> Adoremus dominum</rdg>
+      </app> qui in sanctis gloriosus est</aBody>
+</ant>

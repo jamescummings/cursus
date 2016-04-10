@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7152" nextid="c7154" id="c7153">
+   <header>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <rBody wit="CAO-V CAO-D CAO-L Hyd">Mihi autem adhaerere deo bonum est ponere in domino deo spem meam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-D CAO-L Hyd"> Ut annuntiem
+       <app>
+            <rdg wit="CAO-D CAO-L"> omnes laudes tuas</rdg>
+            <rdg wit="CAO-V"> omnes laudationes tuas</rdg>
+            <rdg wit="Hyd"> omnes praedicationes tuas</rdg>
+         </app> in portis filiae Sion</vBody>
+      <rep type="r" wit="CAO-V CAO-L Hyd">Ponere</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5391b" nextid="c5393" id="c5392">
+   <header>
+      <usage ms="Hyd" code="08065000">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Videntibus illis elevatus est et nubes suscepit eum
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> in caelo alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R Hyd"> in caelum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

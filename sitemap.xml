@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<site-map document-root="/home/richard/uea/cursus">
+
+<components>
+  <!--<data-source type="swishe" name="swish-idx-all" src="content/swishe/full.index" />-->
+  <data-source type="swishe" name="swish-idx-incipits" src="content/swishe/incipits.index" />
+  <data-source type="swishe" name="swish-idx-mss" src="content/swishe/mss.index" />
+  <data-source type="swishe" name="swish-idx-vulgate" src="content/swishe/vulgate.index" />
+</components>
+
+<pipelines>
+
+  <pipeline name="default">
+
+    <match type="uri" pattern="/favicon.ico">
+      <read src="images/favicon.ico" />
+    </match>
+
+    <match type="uri" pattern="css/*.css">
+      <read src="css/{$1}.css" />
+    </match>
+
+    <match type="uri" pattern="images/*.gif">
+      <read src="images/{$1}.gif" />
+    </match>
+    
+    <match type="uri" pattern="images/*.jpg">
+      <read src="images/{$1}.jpeg" />
+    </match>
+
+    <match type="uri" pattern="ed/*">
+      <generate type="file" src="content/repository/{$1}.xml"/>
+      <transform type="xslt" src="xslt/crit-ed.xslt" />
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="edxml/*">
+      <read src="content/repository/{$1}.xml"/>
+    </match>
+
+    <match type="uri" pattern="ed/*?cocoon-view=content">
+      <read src="content/repository/{$1}.xml"/>
+    </match>
+
+    <match type="uri" pattern="manuscripts">
+      <generate type="file" src="content/mss/mss.xml.html"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="ms">
+      <generate type="file" src="content/mss/mss.xml.html"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+    
+    <match type="uri" pattern="manuscripts-generate">
+      <generate type="file" src="content/mss/mss.xml"/>
+      <transform type="xslt" src="xslt/manuscripts.xslt" />
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="manuscriptsxml">
+      <read src="content/mss/mss.xml"/>
+    </match>
+
+    <match type="uri" pattern="ind/*?wit=*">
+      <generate type="file" src="content/repository/{$1}.xml"/>
+      <transform type="xslt" src="xslt/ind2rdg.xslt">
+	<parameter name="wit" value="{uri:query:wit}"/>
+      </transform>
+      <transform type="xslt" src="xslt/rdg2html.xslt">
+	<parameter name="wit" value="{uri:query:wit}"/>
+      </transform>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="indxml/*?wit=*">
+      <generate type="file" src="content/repository/{$1}.xml"/>
+      <transform type="xslt" src="xslt/ind2rdg.xslt">
+	<parameter name="wit" value="{uri:query:wit}"/>
+      </transform>
+      <serialize type="xml" />
+    </match>
+
+    <match type="uri" pattern="ms/*">
+      <generate type="file" src="content/mss/{$1}.xml.html"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="msxml/*">
+      <read src="content/mss/{$1}.xml"/>
+    </match>
+
+    <match type="uri" pattern="vulgate">
+      <generate type="file" src="content/vulgate/index.html"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="vulgate/index.html">
+      <generate type="file" src="content/vulgate/index.html"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+    
+    <match type="uri" pattern="vulgate/*">
+      <generate type="file" src="content/vulgate/{$1}.xml.html"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="vulgatexml/*">
+      <generate type="file" src="content/vulgate/{$1}.xml"/>
+      <transform type="xslt" src="xslt/vulgate-ref.xslt">
+	<parameter name="ref" value="{uri:query:ref}"/>
+      </transform>
+      <serialize type="xhtml" />
+    </match>
+    
+    <!--<match type="uri" pattern="ed-form">
+      <redirect-to uri="ed/{uri:query:id}"/>
+    </match>-->
+
+    <match type="uri" pattern="incipits/list">
+      <generate type="file" src="content/incipits/index.html"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="incipits/**">
+      <generate type="file" src="content/incipits/{$1}"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt"/>
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="about">
+      <generate type="file" src="content/about.xml" />
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="explore">
+      <generate type="file" src="content/explore.xml" />
+      <transform type="xslt" src="xslt/simple-cursus2html.xslt"/>
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="help">
+      <generate type="file" src="content/help.xml" />
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+    
+    <match type="uri" pattern="editorial">
+      <generate type="file" src="content/editorial.xml" />
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+    
+    <match type="uri" pattern="technology">
+      <generate type="file" src="content/technology.xml" />
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+    
+    <match type="uri" pattern="emacs">
+      <generate type="file" src="content/emacs.xml" />
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+    
+    <match type="uri" pattern="downloads">
+      <generate type="file" src="content/downloads.xml" />
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+
+    <match type="uri" pattern="feastsxml">
+      <read src="cantus/feast.xml" />
+    </match>
+
+    <match type="uri" pattern="downloads/**">
+      <read src="content/downloads/{$1}" />
+    </match>
+
+    <!--
+    <match type="uri" pattern="search" allow-query="no">
+      <generate type="file" src="content/search.xml" />
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+    -->
+
+    <!--
+    <match type="uri" pattern="search" allow-query="yes">
+      <select type="request-parameter" parameter="collection">
+	<!- -
+	<when test="all">
+	  <generate type="swishe" src="swish-idx-all" query="%(terms)s" custom-properties="id">
+	    <parameter name="terms" value="{uri:query:terms}" />
+	  </generate>
+	</when>
+	- ->
+	<when test="incipits">
+	  <generate type="swishe" src="swish-idx-incipits" query="%(terms)s" custom-properties="id">
+	    <parameter name="terms" value="{uri:query:terms}" />
+	  </generate>
+	</when>
+	<when test="ant">
+	  <generate type="swishe" src="swish-idx-incipits" query="type=ant %(terms)s" custom-properties="id">
+	    <parameter name="terms" value="{uri:query:terms}" />
+	  </generate>
+	</when>
+	<when test="res">
+	  <generate type="swishe" src="swish-idx-incipits" query="type=res %(terms)s" custom-properties="id">
+	    <parameter name="terms" value="{uri:query:terms}" />
+	  </generate>
+	</when>
+	<when test="prayer">
+	  <generate type="swishe" src="swish-idx-incipits" query="type=prayer %(terms)s" custom-properties="id">
+	    <parameter name="terms" value="{uri:query:terms}" />
+	  </generate>
+	</when>
+	<when test="vulgate">
+	  <generate type="swishe" src="swish-idx-vulgate" query="%(terms)s" custom-properties="id">
+	    <parameter name="terms" value="{uri:query:terms}" />
+	  </generate>
+	</when>
+	<when test="mss">
+	  <generate type="swishe" src="swish-idx-mss" query="%(terms)s" custom-properties="id">
+	    <parameter name="terms" value="{uri:query:terms}" />
+	  </generate>
+	</when>
+      </select>
+      <transform type="xslt" src="xslt/search-results2html.xslt">
+	<parameter name="collection" value="{uri:query:collection}" />
+	<parameter name="terms" value="{uri:query:terms}" />
+	<parameter name="from" value="{uri:query:from}" />
+	<parameter name="number" value="{uri:query:number}" />
+      </transform>
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+    -->
+
+    <match type="uri" pattern="/">
+      <generate type="file" src="content/index.xml" />
+      <transform type="xslt" src="xslt/page-furniture.xslt" />
+      <serialize type="xhtml" />
+    </match>
+
+  </pipeline>
+
+</pipelines>
+
+</site-map>

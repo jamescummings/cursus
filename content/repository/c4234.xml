@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4233" nextid="c4235" id="c4234">
+   <header>
+      <usage ms="Evm" code="07061000">[141r] vesp1</usage>
+      <usage ms="Glo" code="07061000">[72v] vesp1</usage>
+      <usage ms="Pet" code="07057000">[83r] nones-a1</usage>
+      <usage ms="Wcb" code="07061000">[111r] vesp2</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L Pet Evm Wcb Glo">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-L Pet Evm Wcb"> Pater iuste mundus te non cognovit</rdg>
+         <rdg wit="Glo"> Pater iuste mundus te cognovit</rdg>
+         <rdg wit="CAO-R"> Pater mundus te non cognovit</rdg>
+         <rdg wit="CAO-V"> Pater sancte mundus te non cognovit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V Pet Evm Glo"> ego autem agnovi te</rdg>
+         <rdg wit="Wcb"> ego <add place="interlined" resp="DC" hand="scribe">autem</add> agnovi te</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-L"> ego autem cognovi te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Pet Evm Wcb Glo"> quia tu me misisti</rdg>
+         <rdg wit="CAO-L"> et hi cognoverunt quia tu me misisti</rdg>
+      </app>
+   </aBody>
+</ant>

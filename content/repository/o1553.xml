@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1552" nextid="o1554" id="o1553">
+   <header>
+      <usage ms="Alb2" code="07046000">[97r] lauds</usage>
+      <usage ms="Cdm" code="07046000">[70r] lauds</usage>
+      <usage ms="Cht" code="07046000">[45v] lauds</usage>
+      <usage ms="Ely" code="07046000">[80r] lauds</usage>
+      <usage ms="Evm" code="07046000">[132r] lauds</usage>
+      <usage ms="Hyd" code="07046000">[84v] lauds</usage>
+      <usage ms="Mch" code="07046000">[142v] lauds</usage>
+      <usage ms="Wcb" code="07046000"/>
+      <notesStmt>
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">Deshusses no.277</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch"> Deus qui ineffabilibus mundum renovas sacramentis praesta quaesumus ut ecclesia tua
+      <app>
+         <rdg wit="Ely Alb2 Cdm Mch"> et aeternis proficiat institutis</rdg>
+         <rdg wit="Cht Hyd Evm Wcb"> aeternis proficiat institutis</rdg>
+      </app> et temporalibus non destituatur auxiliis</pBody>
+</prayer>

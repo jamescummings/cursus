@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1724" nextid="o1726" id="o1725">
+   <header>
+      <usage ms="Cdm" code="08011000">[81v] none</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.390</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Praesta quaesumus omnipotens deus ut qui resurrectionis dominicae sollemnia colimus ereptionis nostrae laetitiam suscipere mereamur</pBody>
+</prayer>

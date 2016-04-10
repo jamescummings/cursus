@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7084" nextid="c7086" id="c7085">
+   <header>
+      <usage ms="Alb2" code="01021000">[8v] matins-n3-r11</usage>
+      <usage ms="Evm" code="01011000">[6r] matins-n3-r10</usage>
+      <usage ms="Mch" code="01021000">[8r] matins-n3-r9</usage>
+      <usage ms="Wcb" code="01011000">[43r] matins-n3-r10</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes"> Text of Alb2 verse = antiphon c3606</note>
+         <note place="unspecified" anchored="yes"> Text of Evm verse = verse of respond c7034</note>
+         <note place="unspecified" anchored="yes"> Text of Mch verse = verse of respond c6672 in Alb2</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-E Alb2 Evm Mch Wcb"> Leva Jerusalem oculos et vide potentiam regis ecce salvator veniet solvere te a vinculo</rBody>
+   <verses>
+      <vBody type="r" wit="Mch"> De Sion exibit lex et verbum domini de Jerusalem</vBody>
+      <vBody type="r" wit="CAO-E">Ecce dominator dominus</vBody>
+      <vBody type="r" wit="Evm Wcb">Leva in circuitu oculos tuos et vide et contemplare</vBody>
+      <vBody type="r" wit="Alb2"> Leva Jerusalem oculos et vide potentiam regis ecce salvator venit solvere te a vinculo</vBody>
+      <rep type="r" wit="CAO-E">Solvere</rep>
+      <rep type="r" wit="Alb2 Evm Wcb">Ecce salvator</rep>
+   </verses>
+</res>

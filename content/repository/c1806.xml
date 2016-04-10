@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1805" nextid="c1807" id="c1806">
+   <header>
+      <usage ms="Mch" code="06011000">[102r] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-R Mch"> Circa undecimam vero horam exiit paterfamilias foras
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-R"> et invenit alios otiosos stantes</rdg>
+         <rdg wit="CAO-C"> et invenit alios in foros otiosos</rdg>
+         <rdg wit="Mch"> et invenit alios in fore otiosos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-R Mch"> et illis dixit</rdg>
+         <rdg wit="CAO-C"> et dixit illis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-R"> ite et vos in vineam meam</rdg>
+         <rdg wit="Mch"> ite et vos in vineam meam et quod iustum fuerit dabo vos</rdg>
+      </app>
+   </aBody>
+</ant>

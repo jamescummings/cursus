@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3068" nextid="c3070" id="c3069">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Hic vir despiciens mundum</rdg>
+         <rdg wit="CAO-E"> Hic vir despicies mundum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S"> et terrena triumphans</rdg>
+         <rdg wit="CAO-C"> et terrenae triumphans</rdg>
+         <rdg wit="CAO-L"> et terrenas triumphans</rdg>
+         <rdg wit="CAO-E"> et terrena triumpha</rdg>
+         <rdg wit="CAO-M"> et terrena triumphat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> divitias caelo condidit</rdg>
+         <rdg wit="CAO-S"> divitias caeli condidit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-D CAO-F CAO-S CAO-L"> ore manu</rdg>
+         <rdg wit="CAO-M CAO-R"> ore et manu</rdg>
+      </app>
+   </aBody>
+</ant>

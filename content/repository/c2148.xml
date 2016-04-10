@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2147" nextid="c2149" id="c2148">
+   <header>
+      <usage ms="Hyd" code="01011000">[1r] vesp1-a3</usage>
+      <usage ms="Hyd" code="05021000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Deo nostro iucunda sit laudatio</aBody>
+</ant>

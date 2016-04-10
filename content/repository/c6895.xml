@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6894" nextid="c6896" id="c6895">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> In conspectu gentium</rdg>
+         <rdg wit="CAO-C"> In conspectu angelorum</rdg>
+      </app> nolite metuere vos enim in cordibus vestris adorate et timete dominum angelus enim eius
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> vobiscum est</rdg>
+         <rdg wit="CAO-L"> nobiscum est</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R"> Stetit angelus iuxta aram templi habens thuribulum aureum
+       <app>
+            <rdg wit="CAO-B CAO-H CAO-R"> in manu sua</rdg>
+            <rdg wit="CAO-E"> in manus suas</rdg>
+         </app> et data sunt ei incensa multa
+       <app>
+            <rdg wit="CAO-E"> et ascendit fumus aromatum in conspectu domini</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-V CAO-D"> Stetit angelus iuxta aram templi habens thuribulum aureum
+       <app>
+            <rdg wit="CAO-C CAO-D"> in manu sua</rdg>
+            <rdg wit="CAO-V"> in manus sua</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-M CAO-V"> Cantate domino canticum novum bene psallite ei
+       <app>
+            <rdg wit="CAO-M"> in iubilatione</rdg>
+            <rdg wit="CAO-V"> in vociferatione</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Angelus qui fuit cum Jacob sit mecum in terra peregrinationis meae et bene disponat vias meas Deus meus</vBody>
+      <vBody type="r" wit="CAO-F"> Nolite timere opprobria hominum et blasphemias eorum ne metuatis</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-F CAO-L">Angelus</rep>
+      <rep type="r" wit="CAO-R">Vos enim</rep>
+   </verses>
+</res>

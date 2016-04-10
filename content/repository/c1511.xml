@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1510b" nextid="c1512" id="c1511">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Attendite a falsis prophetis</rdg>
+         <rdg wit="CAO-V"> Attendite ad falsis prophetis</rdg>
+      </app> qui veniunt ad vos in vestimentis ovium intrinsecus autem sunt lupi rapaces
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S"> a fructibus eorum cognoscetis eos alleluia</rdg>
+         <rdg wit="CAO-C CAO-V CAO-D"> a fructibus eorum cognoscetis eos</rdg>
+         <rdg wit="CAO-M CAO-F"> a fructibus eorum cognoscetis eos dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

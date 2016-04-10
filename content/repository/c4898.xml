@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4897" nextid="c4899" id="c4898">
+   <header>
+      <usage ms="Alb2" code="07031000">[90r] prime</usage>
+      <usage ms="Bat" code="07031000">[55r] prime</usage>
+      <usage ms="Cdm" code="07031000">[65r] prime-a1</usage>
+      <usage ms="Cht" code="07031000">[37r] prime</usage>
+      <usage ms="Ely" code="07031000">[75v] prime</usage>
+      <usage ms="Evm" code="07031000">[123v] prime</usage>
+      <usage ms="Glo" code="07031000">[65r] prime</usage>
+      <usage ms="Hyd" code="07031000">[79v] prime</usage>
+      <usage ms="Mch" code="07031000">[130v] matins-n3-a3</usage>
+      <usage ms="Pet" code="07031000">[73v] terce-a1</usage>
+      <usage ms="Wcb" code="07031000"/>
+      <usage ms="Wor" code="07031000">[49v] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Si in digito dei eicio daemonia profecto venit in vos regnum dei</aBody>
+</ant>

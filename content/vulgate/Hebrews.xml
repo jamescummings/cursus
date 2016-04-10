@@ -1,0 +1,2169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Hebrews">
+<body>
+  <rubric type="bible-incipit" id="B.Hebrews.incipit.001">
+    <reference>
+      <bookName>Hebrews</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT AD HEBRAEOS</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Hebrews.001.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>multifariam et multis modis olim Deus loquens patribus in prophetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>novissime diebus istis locutus est nobis in Filio quem constituit heredem universorum per quem fecit et saecula</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>qui cum sit splendor gloriae et figura substantiae eius portansque omnia verbo virtutis suae purgationem peccatorum faciens sedit ad dexteram Maiestatis in excelsis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>tanto melior angelis effectus quanto differentius prae illis nomen hereditavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>cui enim dixit aliquando angelorum Filius meus es tu ego hodie genui te et rursum ego ero illi in Patrem et ipse erit mihi in Filium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et cum iterum introducit primogenitum in orbem terrae dicit et adorent eum omnes angeli Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>et ad angelos quidem dicit qui facit angelos suos spiritus et ministros suos flammam ignis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>ad Filium autem thronus tuus Deus in saeculum saeculi et virga aequitatis virga regni tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>dilexisti iustitiam et odisti iniquitatem propterea unxit te Deus Deus tuus oleo exultationis prae participibus tuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>et tu in principio Domine terram fundasti et opera manuum tuarum sunt caeli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>ipsi peribunt tu autem permanebis et omnes ut vestimentum veterescent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>et velut amictum involves eos et mutabuntur tu autem idem es et anni tui non deficient</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>ad quem autem angelorum dixit aliquando sede a dextris meis quoadusque ponam inimicos tuos scabillum pedum tuorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.001.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>nonne omnes sunt administratorii spiritus in ministerium missi propter eos qui hereditatem capient salutis</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Hebrews.002.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>propterea abundantius oportet observare nos ea quae audivimus ne forte pereffluamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>si enim qui per angelos dictus est sermo factus est firmus et omnis praevaricatio et inoboedientia accepit iustam mercedis retributionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>quomodo nos effugiemus si tantam neglexerimus salutem quae cum initium accepisset enarrari per Dominum ab eis qui audierunt in nos confirmata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>contestante Deo signis et portentis et variis virtutibus et Spiritus Sancti distributionibus secundum suam voluntatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>non enim angelis subiecit orbem terrae futurum de quo loquimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>testatus est autem in quodam loco quis dicens quid est homo quod memor es eius aut filius hominis quoniam visitas eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>minuisti eum paulo minus ab angelis gloria et honore coronasti eum et constituisti eum super opera manuum tuarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>omnia subiecisti sub pedibus eius in eo enim quod ei omnia subiecit nihil dimisit non subiectum ei nunc autem necdum videmus omnia subiecta ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>eum autem qui modico quam angeli minoratus est videmus Iesum propter passionem mortis gloria et honore coronatum ut gratia Dei pro omnibus gustaret mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>decebat enim eum propter quem omnia et per quem omnia qui multos filios in gloriam adduxerat auctorem salutis eorum per passiones consummare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>qui enim sanctificat et qui sanctificantur ex uno omnes propter quam causam non confunditur fratres eos vocare dicens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>nuntiabo nomen tuum fratribus meis in medio ecclesiae laudabo te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>et iterum ego ero fidens in eum et iterum ecce ego et pueri mei quos mihi dedit Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>quia ergo pueri communicaverunt sanguini et carni et ipse similiter participavit hisdem ut per mortem destrueret eum qui habebat mortis imperium id est diabolum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>et liberaret eos qui timore mortis per totam vitam obnoxii erant servituti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>nusquam enim angelos adprehendit sed semen Abrahae adprehendit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>unde debuit per omnia fratribus similare ut misericors fieret et fidelis pontifex ad Deum ut repropitiaret delicta populi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.002.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>in eo enim in quo passus est ipse temptatus potens est eis qui temptantur auxiliari</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Hebrews.003.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>unde fratres sancti vocationis caelestis participes considerate apostolum et pontificem confessionis nostrae Iesum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>qui fidelis est ei qui fecit illum sicut et Moses in omni domo illius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>amplioris enim gloriae iste prae Mose dignus habitus est quanto ampliorem honorem habet domus qui fabricavit illam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>omnis namque domus fabricatur ab aliquo qui autem omnia creavit Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>et Moses quidem fidelis erat in tota domo eius tamquam famulus in testimonium eorum quae dicenda erant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>Christus vero tamquam filius in domo sua quae domus sumus nos si fiduciam et gloriam spei usque ad finem firmam retineamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>quapropter sicut dicit Spiritus Sanctus hodie si vocem eius audieritis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>nolite obdurare corda vestra sicut in exacerbatione secundum diem temptationis in deserto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>ubi temptaverunt me patres vestri probaverunt et viderunt opera mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>quadraginta annos propter quod infensus fui generationi huic et dixi semper errant corde ipsi autem non cognoverunt vias meas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>sicut iuravi in ira mea si introibunt in requiem meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>videte fratres ne forte sit in aliquo vestrum cor malum incredulitatis discedendi a Deo vivo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>sed adhortamini vosmet ipsos per singulos dies donec hodie cognominatur ut non obduretur quis ex vobis fallacia peccati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>participes enim Christi effecti sumus si tamen initium substantiae usque ad finem firmum retineamus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>dum dicitur hodie si vocem eius audieritis nolite obdurare corda vestra quemadmodum in illa exacerbatione</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>quidam enim audientes exacerbaverunt sed non universi qui profecti sunt ab Aegypto per Mosen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>quibus autem infensus est quadraginta annos nonne illis qui peccaverunt quorum cadavera prostrata sunt in deserto</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>quibus autem iuravit non introire in requiem ipsius nisi illis qui increduli fuerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.003.019">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>et videmus quia non potuerunt introire propter incredulitatem</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Hebrews.004.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>timeamus ergo ne forte relicta pollicitatione introeundi in requiem eius existimetur aliqui ex vobis deesse</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>etenim et nobis nuntiatum est quemadmodum et illis sed non profuit illis sermo auditus non admixtis fidei ex his quae audierunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>ingrediemur enim in requiem qui credidimus quemadmodum dixit sicut iuravi in ira mea si introibunt in requiem meam et quidem operibus ab institutione mundi factis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>dixit enim quodam loco de die septima sic et requievit Deus die septima ab omnibus operibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>et in isto rursum si introibunt in requiem meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>quoniam ergo superest quosdam introire in illam et hii quibus prioribus adnuntiatum est non introierunt propter incredulitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>iterum terminat diem quendam hodie in David dicendo post tantum temporis sicut supra dictum est hodie si vocem eius audieritis nolite obdurare corda vestra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>nam si eis Iesus requiem praestitisset numquam de alio loqueretur posthac die</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>itaque relinquitur sabbatismus populo Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>qui enim ingressus est in requiem eius etiam ipse requievit ab operibus suis sicut a suis Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>festinemus ergo ingredi in illam requiem ut ne in id ipsum quis incidat incredulitatis exemplum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>vivus est enim Dei sermo et efficax et penetrabilior omni gladio ancipiti et pertingens usque ad divisionem animae ac spiritus conpagum quoque et medullarum et discretor cogitationum et intentionum cordis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>et non est ulla creatura invisibilis in conspectu eius omnia autem nuda et aperta sunt oculis eius ad quem nobis sermo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>habentes ergo pontificem magnum qui penetraverit caelos Iesum Filium Dei teneamus confessionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>non enim habemus pontificem qui non possit conpati infirmitatibus nostris temptatum autem per omnia pro similitudine absque peccato</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.004.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>adeamus ergo cum fiducia ad thronum gratiae ut misericordiam consequamur et gratiam inveniamus in auxilio oportuno</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Hebrews.005.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>omnis namque pontifex ex hominibus adsumptus pro hominibus constituitur in his quae sunt ad Deum ut offerat dona et sacrificia pro peccatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>qui condolere possit his qui ignorant et errant quoniam et ipse circumdatus est infirmitate</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>et propter eam debet quemadmodum et pro populo ita etiam pro semet ipso offerre pro peccatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>nec quisquam sumit sibi honorem sed qui vocatur a Deo tamquam Aaron</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>sic et Christus non semet ipsum clarificavit ut pontifex fieret sed qui locutus est ad eum Filius meus es tu ego hodie genui te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>quemadmodum et in alio dicit tu es sacerdos in aeternum secundum ordinem Melchisedech</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>qui in diebus carnis suae preces supplicationesque ad eum qui possit salvum illum a morte facere cum clamore valido et lacrimis offerens et exauditus pro sua reverentia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>et quidem cum esset Filius didicit ex his quae passus est oboedientiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>et consummatus factus est omnibus obtemperantibus sibi causa salutis aeternae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>appellatus a Deo pontifex iuxta ordinem Melchisedech</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>de quo grandis nobis sermo et ininterpretabilis ad dicendum quoniam inbecilles facti estis ad audiendum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>etenim cum deberetis magistri esse propter tempus rursum indigetis ut vos doceamini quae sint elementa exordii sermonum Dei et facti estis quibus lacte opus sit non solido cibo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>omnis enim qui lactis est particeps expers est sermonis iustitiae parvulus enim est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.005.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>perfectorum autem est solidus cibus eorum qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Hebrews.006.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>quapropter intermittentes inchoationis Christi sermonem ad perfectionem feramur non rursum iacientes fundamentum paenitentiae ab operibus mortuis et fidei ad Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>baptismatum doctrinae inpositionis quoque manuum ac resurrectionis mortuorum et iudicii aeterni</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>et hoc faciemus siquidem permiserit Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>inpossibile est enim eos qui semel sunt inluminati gustaverunt etiam donum caeleste et participes sunt facti Spiritus Sancti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>gustaverunt nihilominus bonum Dei verbum virtutesque saeculi venturi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>et prolapsi sunt renovari rursus ad paenitentiam rursum crucifigentes sibimet ipsis Filium Dei et ostentui habentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>terra enim saepe venientem super se bibens imbrem et generans herbam oportunam illis a quibus colitur accipit benedictionem a Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>proferens autem spinas ac tribulos reproba est et maledicto proxima cuius consummatio in conbustionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>confidimus autem de vobis dilectissimi meliora et viciniora saluti tametsi ita loquimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>non enim iniustus Deus ut obliviscatur operis vestri et dilectionis quam ostendistis in nomine ipsius qui ministrastis sanctis et ministratis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>cupimus autem unumquemque vestrum eandem ostentare sollicitudinem ad expletionem spei usque in finem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>ut non segnes efficiamini verum imitatores eorum qui fide et patientia hereditabunt promissiones</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>Abrahae namque promittens Deus quoniam neminem habuit per quem iuraret maiorem iuravit per semet ipsum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>dicens nisi benedicens benedicam te et multiplicans multiplicabo te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>et sic longanimiter ferens adeptus est repromissionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>homines enim per maiorem sui iurant et omnis controversiae eorum finis ad confirmationem est iuramentum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>in quo abundantius volens Deus ostendere pollicitationis heredibus inmobilitatem consilii sui interposuit iusiurandum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>ut per duas res inmobiles quibus inpossibile est mentiri Deum fortissimum solacium habeamus qui confugimus ad tenendam propositam spem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.019">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>quam sicut anchoram habemus animae tutam ac firmam et incedentem usque in interiora velaminis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.006.020">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>ubi praecursor pro nobis introiit Iesus secundum ordinem Melchisedech pontifex factus in aeternum</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Hebrews.007.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>hic enim Melchisedech rex Salem sacerdos Dei summi qui obviavit Abrahae regresso a caede regum et benedixit ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>cui decimas omnium divisit Abraham primum quidem qui interpretatur rex iustitiae deinde autem et rex Salem quod est rex pacis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>sine patre sine matre sine genealogia neque initium dierum neque finem vitae habens adsimilatus autem Filio Dei manet sacerdos in perpetuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>intuemini autem quantus sit hic cui et decimam dedit de praecipuis Abraham patriarcha</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>et quidem de filiis Levi sacerdotium accipientes mandatum habent decimas sumere a populo secundum legem id est a fratribus suis quamquam et ipsi exierunt de lumbis Abrahae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>cuius autem generatio non adnumeratur in eis decimas sumpsit Abraham et hunc qui habebat repromissiones benedixit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>sine ulla autem contradictione quod minus est a meliore benedicitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>et hic quidem decimas morientes homines accipiunt ibi autem contestatus quia vivit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>et ut ita dictum sit per Abraham et Levi qui decimas accipit decimatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>adhuc enim in lumbis patris erat quando obviavit ei Melchisedech</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>si ergo consummatio per sacerdotium leviticum erat populus enim sub ipso legem accepit quid adhuc necessarium secundum ordinem Melchisedech alium surgere sacerdotem et non secundum ordinem Aaron dici</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>translato enim sacerdotio necesse est ut et legis translatio fiat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>in quo enim haec dicuntur de alia tribu est de qua nullus altario praesto fuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>manifestum enim quod ex Iuda ortus sit Dominus noster in qua tribu nihil de sacerdotibus Moses locutus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>et amplius adhuc manifestum est si secundum similitudinem Melchisedech exsurgit alius sacerdos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>qui non secundum legem mandati carnalis factus est sed secundum virtutem vitae insolubilis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:17</verseNum>
+      </reference>
+      <l>contestatur enim quoniam tu es sacerdos in aeternum secundum ordinem Melchisedech</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:18</verseNum>
+      </reference>
+      <l>reprobatio quidem fit praecedentis mandati propter infirmitatem eius et inutilitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.019">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:19</verseNum>
+      </reference>
+      <l>nihil enim ad perfectum adduxit lex introductio vero melioris spei per quam proximamus ad Deum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.020">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:20</verseNum>
+      </reference>
+      <l>et quantum est non sine iureiurando alii quidem sine iureiurando sacerdotes facti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.021">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:21</verseNum>
+      </reference>
+      <l>hic autem cum iureiurando per eum qui dixit ad illum iuravit Dominus et non paenitebit tu es sacerdos in aeternum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.022">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:22</verseNum>
+      </reference>
+      <l>in tantum melioris testamenti sponsor factus est Iesus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.023">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:23</verseNum>
+      </reference>
+      <l>et alii quidem plures facti sunt sacerdotes idcirco quod morte prohiberentur permanere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.024">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:24</verseNum>
+      </reference>
+      <l>hic autem eo quod maneat in aeternum sempiternum habet sacerdotium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.025">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:25</verseNum>
+      </reference>
+      <l>unde et salvare in perpetuo potest accedentes per semet ipsum ad Deum semper vivens ad interpellandum pro eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.026">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:26</verseNum>
+      </reference>
+      <l>talis enim decebat ut nobis esset pontifex sanctus innocens inpollutus segregatus a peccatoribus et excelsior caelis factus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.027">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:27</verseNum>
+      </reference>
+      <l>qui non habet cotidie necessitatem quemadmodum sacerdotes prius pro suis delictis hostias offerre deinde pro populi hoc enim fecit semel se offerendo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.007.028">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>7:28</verseNum>
+      </reference>
+      <l>lex enim homines constituit sacerdotes infirmitatem habentes sermo autem iurisiurandi qui post legem est Filium in aeternum perfectum</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Hebrews.008.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>capitulum autem super ea quae dicuntur talem habemus pontificem qui consedit in dextera sedis Magnitudinis in caelis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>sanctorum minister et tabernaculi veri quod fixit Dominus et non homo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>omnis enim pontifex ad offerenda munera et hostias constituitur unde necesse est et hunc habere aliquid quod offerat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>si ergo esset super terram nec esset sacerdos cum essent qui offerrent secundum legem munera</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>qui exemplari et umbrae deserviunt caelestium sicut responsum est Mosi cum consummaret tabernaculum vide inquit omnia facito secundum exemplar quod tibi ostensum est in monte</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>nunc autem melius sortitus est ministerium quanto et melioris testamenti mediator est quod in melioribus repromissionibus sanctum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>nam si illud prius culpa vacasset non utique secundi locus inquireretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>vituperans enim eos dicit ecce dies veniunt dicit Dominus et consummabo super domum Israhel et super domum Iuda testamentum novum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>non secundum testamentum quod feci patribus eorum in die qua adprehendi manum illorum ut educerem illos de terra Aegypti quoniam ipsi non permanserunt in testamento meo et ego neglexi eos dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>quia hoc testamentum quod disponam domui Israhel post dies illos dicit Dominus dando leges meas in mentem eorum et in corde eorum superscribam eas et ero eis in Deum et ipsi erunt mihi in populum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>et non docebit unusquisque proximum suum et unusquisque fratrem suum dicens cognosce Dominum quoniam omnes scient me a minore usque ad maiorem eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>quia propitius ero iniquitatibus eorum et peccatorum illorum iam non memorabor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.008.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>dicendo autem novum veteravit prius quod autem antiquatur et senescit prope interitum est</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Hebrews.009.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>habuit quidem et prius iustificationes culturae et sanctum saeculare</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>tabernaculum enim factum est primum in quo inerant candelabra et mensa et propositio panum quae dicitur sancta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>post velamentum autem secundum tabernaculum quod dicitur sancta sanctorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>aureum habens turibulum et arcam testamenti circumtectam ex omni parte auro in qua urna aurea habens manna et virga Aaron quae fronduerat et tabulae testamenti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>superque eam cherubin gloriae obumbrantia propitiatorium de quibus non est modo dicendum per singula</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>his vero ita conpositis in priori quidem tabernaculo semper introibant sacerdotes sacrificiorum officia consummantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>in secundo autem semel in anno solus pontifex non sine sanguine quem offert pro sua et populi ignorantia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>hoc significante Spiritu Sancto nondum propalatam esse sanctorum viam adhuc priore tabernaculo habente statum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>quae parabola est temporis instantis iuxta quam munera et hostiae offeruntur quae non possunt iuxta conscientiam perfectum facere servientem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>solummodo in cibis et in potibus et variis baptismis et iustitiis carnis usque ad tempus correctionis inpositis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>Christus autem adsistens pontifex futurorum bonorum per amplius et perfectius tabernaculum non manufactum id est non huius creationis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>neque per sanguinem hircorum et vitulorum sed per proprium sanguinem introivit semel in sancta aeterna redemptione inventa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>si enim sanguis hircorum et taurorum et cinis vitulae aspersus inquinatos sanctificat ad emundationem carnis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>quanto magis sanguis Christi qui per Spiritum Sanctum semet ipsum obtulit inmaculatum Deo emundabit conscientiam vestram ab operibus mortuis ad serviendum Deo viventi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>et ideo novi testamenti mediator est ut morte intercedente in redemptionem earum praevaricationum quae erant sub priore testamento repromissionem accipiant qui vocati sunt aeternae hereditatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>ubi enim testamentum mors necesse est intercedat testatoris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>testamentum enim in mortuis confirmatum est alioquin nondum valet dum vivit qui testatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:18</verseNum>
+      </reference>
+      <l>unde ne primum quidem sine sanguine dedicatum est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.019">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:19</verseNum>
+      </reference>
+      <l>lecto enim omni mandato legis a Mose universo populo accipiens sanguinem vitulorum et hircorum cum aqua et lana coccinea et hysopo ipsum quoque librum et omnem populum aspersit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.020">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:20</verseNum>
+      </reference>
+      <l>dicens hic sanguis testamenti quod mandavit ad vos Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.021">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:21</verseNum>
+      </reference>
+      <l>etiam tabernaculum et omnia vasa ministerii sanguine similiter aspersit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.022">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:22</verseNum>
+      </reference>
+      <l>et omnia paene in sanguine mundantur secundum legem et sine sanguinis fusione non fit remissio</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.023">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:23</verseNum>
+      </reference>
+      <l>necesse est ergo exemplaria quidem caelestium his mundari ipsa autem caelestia melioribus hostiis quam istis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.024">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:24</verseNum>
+      </reference>
+      <l>non enim in manufactis sanctis Iesus introiit exemplaria verorum sed in ipsum caelum ut appareat nunc vultui Dei pro nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.025">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:25</verseNum>
+      </reference>
+      <l>neque ut saepe offerat semet ipsum quemadmodum pontifex intrat in sancta per singulos annos in sanguine alieno</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.026">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:26</verseNum>
+      </reference>
+      <l>alioquin oportebat eum frequenter pati ab origine mundi nunc autem semel in consummatione saeculorum ad destitutionem peccati per hostiam suam apparuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.027">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:27</verseNum>
+      </reference>
+      <l>et quemadmodum statutum est hominibus semel mori post hoc autem iudicium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.009.028">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>9:28</verseNum>
+      </reference>
+      <l>sic et Christus semel oblatus ad multorum exhaurienda peccata secundo sine peccato apparebit expectantibus se in salutem</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.Hebrews.010.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>umbram enim habens lex bonorum futurorum non ipsam imaginem rerum per singulos annos hisdem ipsis hostiis quas offerunt indesinenter numquam potest accedentes perfectos facere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>alioquin non cessassent offerri ideo quod nullam haberent ultra conscientiam peccati cultores semel mundati</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>sed in ipsis commemoratio peccatorum per singulos annos fit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>inpossibile enim est sanguine taurorum et hircorum auferri peccata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>ideo ingrediens mundum dicit hostiam et oblationem noluisti corpus autem aptasti mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>holocaustomata et pro peccato non tibi placuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>tunc dixi ecce venio in capitulo libri scriptum est de me ut faciam Deus voluntatem tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>superius dicens quia hostias et oblationes et holocaustomata et pro peccato noluisti nec placita sunt tibi quae secundum legem offeruntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>tunc dixit ecce venio ut faciam Deus voluntatem tuam aufert primum ut sequens statuat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>in qua voluntate sanctificati sumus per oblationem corporis Christi Iesu in semel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>et omnis quidem sacerdos praesto est cotidie ministrans et easdem saepe offerens hostias quae numquam possunt auferre peccata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>hic autem unam pro peccatis offerens hostiam in sempiternum sedit in dextera Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>de cetero expectans donec ponantur inimici eius scabillum pedum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:14</verseNum>
+      </reference>
+      <l>una enim oblatione consummavit in sempiternum sanctificatos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:15</verseNum>
+      </reference>
+      <l>contestatur autem nos et Spiritus Sanctus postquam enim dixit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:16</verseNum>
+      </reference>
+      <l>hoc autem testamentum quod testabor ad illos post dies illos dicit Dominus dando leges meas in cordibus eorum et in mente eorum superscribam eas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:17</verseNum>
+      </reference>
+      <l>et peccatorum et iniquitatium eorum iam non recordabor amplius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:18</verseNum>
+      </reference>
+      <l>ubi autem horum remissio iam non oblatio pro peccato</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.019">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:19</verseNum>
+      </reference>
+      <l>habentes itaque fratres fiduciam in introitu sanctorum in sanguine Christi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.020">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:20</verseNum>
+      </reference>
+      <l>quam initiavit nobis viam novam et viventem per velamen id est carnem suam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.021">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:21</verseNum>
+      </reference>
+      <l>et sacerdotem magnum super domum Dei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.022">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:22</verseNum>
+      </reference>
+      <l>accedamus cum vero corde in plenitudine fidei aspersi corda a conscientia mala et abluti corpus aqua munda</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.023">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:23</verseNum>
+      </reference>
+      <l>teneamus spei nostrae confessionem indeclinabilem fidelis enim est qui repromisit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.024">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:24</verseNum>
+      </reference>
+      <l>et consideremus invicem in provocationem caritatis et bonorum operum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.025">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:25</verseNum>
+      </reference>
+      <l>non deserentes collectionem nostram sicut est consuetudinis quibusdam sed consolantes et tanto magis quanto videritis adpropinquantem diem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.026">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:26</verseNum>
+      </reference>
+      <l>voluntarie enim peccantibus nobis post acceptam notitiam veritatis iam non relinquitur pro peccatis hostia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.027">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:27</verseNum>
+      </reference>
+      <l>terribilis autem quaedam expectatio iudicii et ignis aemulatio quae consumptura est adversarios</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.028">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:28</verseNum>
+      </reference>
+      <l>irritam quis faciens legem Mosi sine ulla miseratione duobus vel tribus testibus moritur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.029">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:29</verseNum>
+      </reference>
+      <l>quanto magis putatis deteriora mereri supplicia qui Filium Dei conculcaverit et sanguinem testamenti pollutum duxerit in quo sanctificatus est et Spiritui gratiae contumeliam fecerit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.030">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:30</verseNum>
+      </reference>
+      <l>scimus enim qui dixit mihi vindictam ego reddam et iterum quia iudicabit Dominus populum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.031">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:31</verseNum>
+      </reference>
+      <l>horrendum est incidere in manus Dei viventis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.032">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:32</verseNum>
+      </reference>
+      <l>rememoramini autem pristinos dies in quibus inluminati magnum certamen sustinuistis passionum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.033">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:33</verseNum>
+      </reference>
+      <l>et in altero quidem obprobriis et tribulationibus spectaculum facti in altero autem socii taliter conversantium effecti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.034">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:34</verseNum>
+      </reference>
+      <l>nam et vinctis conpassi estis et rapinam bonorum vestrorum cum gaudio suscepistis cognoscentes vos habere meliorem et manentem substantiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.035">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:35</verseNum>
+      </reference>
+      <l>nolite itaque amittere confidentiam vestram quae magnam habet remunerationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.036">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:36</verseNum>
+      </reference>
+      <l>patientia enim vobis necessaria est ut voluntatem Dei facientes reportetis promissionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.037">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:37</verseNum>
+      </reference>
+      <l>adhuc enim modicum quantulum qui venturus est veniet et non tardabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.038">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:38</verseNum>
+      </reference>
+      <l>iustus autem meus ex fide vivit quod si subtraxerit se non placebit animae meae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.010.039">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>10:39</verseNum>
+      </reference>
+      <l>nos autem non sumus subtractionis in perditionem sed fidei in adquisitionem animae</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.Hebrews.011.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>est autem fides sperandorum substantia rerum argumentum non parentum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>in hac enim testimonium consecuti sunt senes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>fide intellegimus aptata esse saecula verbo Dei ut ex invisibilibus visibilia fierent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>fide plurimam hostiam Abel quam Cain obtulit Deo per quam testimonium consecutus est esse iustus testimonium perhibente muneribus eius Deo et per illam defunctus adhuc loquitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>fide Enoch translatus est ne videret mortem et non inveniebatur quia transtulit illum Deus ante translationem enim testimonium habebat placuisse Deo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>sine fide autem inpossibile placere credere enim oportet accedentem ad Deum quia est et inquirentibus se remunerator fit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>fide Noe responso accepto de his quae adhuc non videbantur metuens aptavit arcam in salutem domus suae per quam damnavit mundum et iustitiae quae per fidem est heres est institutus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>fide qui vocatur Abraham oboedivit in locum exire quem accepturus erat in hereditatem et exiit nesciens quo iret</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>fide moratus est in terra repromissionis tamquam in aliena in casulis habitando cum Isaac et Iacob coheredibus repromissionis eiusdem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>expectabat enim fundamenta habentem civitatem cuius artifex et conditor Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>fide et ipsa Sarra sterilis virtutem in conceptionem seminis accepit etiam praeter tempus aetatis quoniam fidelem credidit esse qui promiserat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>propter quod et ab uno orti sunt et haec emortuo tamquam sidera caeli in multitudinem et sicut harena quae est ad oram maris innumerabilis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:13</verseNum>
+      </reference>
+      <l>iuxta fidem defuncti sunt omnes isti non acceptis repromissionibus sed a longe eas aspicientes et salutantes et confitentes quia peregrini et hospites sunt supra terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:14</verseNum>
+      </reference>
+      <l>qui enim haec dicunt significant se patriam inquirere</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:15</verseNum>
+      </reference>
+      <l>et si quidem illius meminissent de qua exierunt habebant utique tempus revertendi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:16</verseNum>
+      </reference>
+      <l>nunc autem meliorem appetunt id est caelestem ideo non confunditur Deus vocari Deus eorum paravit enim illis civitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:17</verseNum>
+      </reference>
+      <l>fide obtulit Abraham Isaac cum temptaretur et unigenitum offerebat qui susceperat repromissiones</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:18</verseNum>
+      </reference>
+      <l>ad quem dictum est quia in Isaac vocabitur tibi semen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.019">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:19</verseNum>
+      </reference>
+      <l>arbitrans quia et a mortuis suscitare potens est Deus unde eum et in parabola accepit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.020">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:20</verseNum>
+      </reference>
+      <l>fide et de futuris benedixit Isaac Iacob et Esau</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.021">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:21</verseNum>
+      </reference>
+      <l>fide Iacob moriens singulis filiorum Ioseph benedixit et adoravit fastigium virgae eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.022">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:22</verseNum>
+      </reference>
+      <l>fide Ioseph moriens de profectione filiorum Israhel memoratus est et de ossibus suis mandavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.023">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:23</verseNum>
+      </reference>
+      <l>fide Moses natus occultatus est mensibus tribus a parentibus suis eo quod vidissent elegantem infantem et non timuerunt regis edictum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.024">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:24</verseNum>
+      </reference>
+      <l>fide Moses grandis factus negavit se esse filium filiae Pharaonis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.025">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:25</verseNum>
+      </reference>
+      <l>magis eligens adfligi cum populo Dei quam temporalis peccati habere iucunditatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.026">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:26</verseNum>
+      </reference>
+      <l>maiores divitias aestimans thesauro Aegyptiorum inproperium Christi aspiciebat enim in remunerationem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.027">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:27</verseNum>
+      </reference>
+      <l>fide reliquit Aegyptum non veritus animositatem regis invisibilem enim tamquam videns sustinuit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.028">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:28</verseNum>
+      </reference>
+      <l>fide celebravit pascha et sanguinis effusionem ne qui vastabat primitiva tangeret eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.029">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:29</verseNum>
+      </reference>
+      <l>fide transierunt mare Rubrum tamquam per aridam terram quod experti Aegyptii devorati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.030">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:30</verseNum>
+      </reference>
+      <l>fide muri Hiericho ruerunt circuiti dierum septem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.031">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:31</verseNum>
+      </reference>
+      <l>fide Raab meretrix non periit cum incredulis excipiens exploratores cum pace</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.032">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:32</verseNum>
+      </reference>
+      <l>et quid adhuc dicam deficiet enim me tempus enarrantem de Gedeon Barac Samson Iepthae David et Samuhel et prophetis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.033">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:33</verseNum>
+      </reference>
+      <l>qui per fidem devicerunt regna operati sunt iustitiam adepti sunt repromissiones obturaverunt ora leonum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.034">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:34</verseNum>
+      </reference>
+      <l>extinxerunt impetum ignis effugerunt aciem gladii convaluerunt de infirmitate fortes facti sunt in bello castra verterunt exterorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.035">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:35</verseNum>
+      </reference>
+      <l>acceperunt mulieres de resurrectione mortuos suos alii autem distenti sunt non suscipientes redemptionem ut meliorem invenirent resurrectionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.036">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:36</verseNum>
+      </reference>
+      <l>alii vero ludibria et verbera experti insuper et vincula et carceres</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.037">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:37</verseNum>
+      </reference>
+      <l>lapidati sunt secti sunt temptati sunt in occisione gladii mortui sunt circumierunt in melotis in pellibus caprinis egentes angustiati adflicti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.038">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:38</verseNum>
+      </reference>
+      <l>quibus dignus non erat mundus in solitudinibus errantes et montibus et speluncis et in cavernis terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.039">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:39</verseNum>
+      </reference>
+      <l>et hii omnes testimonio fidei probati non acceperunt repromissionem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.011.040">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>11:40</verseNum>
+      </reference>
+      <l>Deo pro nobis melius aliquid providente ut ne sine nobis consummarentur</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.Hebrews.012.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>ideoque et nos tantam habentes inpositam nubem testium deponentes omne pondus et circumstans nos peccatum per patientiam curramus propositum nobis certamen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>aspicientes in auctorem fidei et consummatorem Iesum qui pro proposito sibi gaudio sustinuit crucem confusione contempta atque in dextera sedis Dei sedit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>recogitate enim eum qui talem sustinuit a peccatoribus adversum semet ipsos contradictionem ut ne fatigemini animis vestris deficientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>nondum usque ad sanguinem restitistis adversus peccatum repugnantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>et obliti estis consolationis quae vobis tamquam filiis loquitur dicens fili mi noli neglegere disciplinam Domini neque fatigeris dum ab eo argueris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>quem enim diligit Dominus castigat flagellat autem omnem filium quem recipit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>in disciplina perseverate tamquam filiis vobis offert Deus quis enim filius quem non corripit pater</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>quod si extra disciplinam estis cuius participes facti sunt omnes ergo adulteri et non filii estis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>deinde patres quidem carnis nostrae habuimus eruditores et reverebamur non multo magis obtemperabimus Patri spirituum et vivemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>et illi quidem in tempore paucorum dierum secundum voluntatem suam erudiebant nos hic autem ad id quod utile est in recipiendo sanctificationem eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>omnis autem disciplina in praesenti quidem videtur non esse gaudii sed maeroris postea autem fructum pacatissimum exercitatis per eam reddit iustitiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>propter quod remissas manus et soluta genua erigite</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>et gressus rectos facite pedibus vestris ut non claudicans erret magis autem sanetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>pacem sequimini cum omnibus et sanctimoniam sine qua nemo videbit Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:15</verseNum>
+      </reference>
+      <l>contemplantes ne quis desit gratiae Dei ne qua radix amaritudinis sursum germinans inpediat et per illam inquinentur multi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:16</verseNum>
+      </reference>
+      <l>ne quis fornicator aut profanus ut Esau qui propter unam escam vendidit primitiva sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:17</verseNum>
+      </reference>
+      <l>scitote enim quoniam et postea cupiens hereditare benedictionem reprobatus est non enim invenit paenitentiae locum quamquam cum lacrimis inquisisset eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:18</verseNum>
+      </reference>
+      <l>non enim accessistis ad tractabilem et accensibilem ignem et turbinem et caliginem et procellam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.019">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:19</verseNum>
+      </reference>
+      <l>et tubae sonum et vocem verborum quam qui audierunt excusaverunt se ne eis fieret verbum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.020">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:20</verseNum>
+      </reference>
+      <l>non enim portabant quod dicebatur et si bestia tetigerit montem lapidabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.021">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:21</verseNum>
+      </reference>
+      <l>et ita terribile erat quod videbatur Moses dixit exterritus sum et tremebundus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.022">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:22</verseNum>
+      </reference>
+      <l>sed accessistis ad Sion montem et civitatem Dei viventis Hierusalem caelestem et multorum milium angelorum frequentiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.023">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:23</verseNum>
+      </reference>
+      <l>et ecclesiam primitivorum qui conscripti sunt in caelis et iudicem omnium Deum et spiritus iustorum perfectorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.024">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:24</verseNum>
+      </reference>
+      <l>et testamenti novi mediatorem Iesum et sanguinis sparsionem melius loquentem quam Abel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.025">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:25</verseNum>
+      </reference>
+      <l>videte ne recusetis loquentem si enim illi non effugerunt recusantes eum qui super terram loquebatur multo magis nos qui de caelis loquentem nobis avertimur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.026">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:26</verseNum>
+      </reference>
+      <l>cuius vox movit terram tunc modo autem repromittit dicens adhuc semel ego movebo non solum terram sed et caelum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.027">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:27</verseNum>
+      </reference>
+      <l>quod autem adhuc semel dicit declarat mobilium translationem tamquam factorum ut maneant ea quae sunt inmobilia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.028">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:28</verseNum>
+      </reference>
+      <l>itaque regnum inmobile suscipientes habemus gratiam per quam serviamus placentes Deo cum metu et reverentia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.012.029">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>12:29</verseNum>
+      </reference>
+      <l>etenim Deus noster ignis consumens est</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.Hebrews.013.001">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>caritas fraternitatis maneat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.002">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>hospitalitatem nolite oblivisci per hanc enim latuerunt quidam angelis hospitio receptis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.003">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>mementote vinctorum tamquam simul vincti et laborantium tamquam et ipsi in corpore morantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.004">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>honorabile conubium in omnibus et torus inmaculatus fornicatores enim et adulteros iudicabit Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.005">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>sint mores sine avaritia contenti praesentibus ipse enim dixit non te deseram neque derelinquam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.006">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>ita ut confidenter dicamus Dominus mihi adiutor non timebo quid faciat mihi homo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.007">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>mementote praepositorum vestrorum qui vobis locuti sunt verbum Dei quorum intuentes exitum conversationis imitamini fidem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.008">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>Iesus Christus heri et hodie ipse et in saecula</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.009">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>doctrinis variis et peregrinis nolite abduci optimum enim est gratia stabiliri cor non escis quae non profuerunt ambulantibus in eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.010">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>habemus altare de quo edere non habent potestatem qui tabernaculo deserviunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.011">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>quorum enim animalium infertur sanguis pro peccato in sancta per pontificem horum corpora cremantur extra castra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.012">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>propter quod et Iesus ut sanctificaret per suum sanguinem populum extra portam passus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.013">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>exeamus igitur ad eum extra castra inproperium eius portantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.014">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>non enim habemus hic manentem civitatem sed futuram inquirimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.015">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:15</verseNum>
+      </reference>
+      <l>per ipsum ergo offeramus hostiam laudis semper Deo id est fructum labiorum confitentium nomini eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.016">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:16</verseNum>
+      </reference>
+      <l>beneficientiae autem et communionis nolite oblivisci talibus enim hostiis promeretur Deus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.017">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:17</verseNum>
+      </reference>
+      <l>oboedite praepositis vestris et subiacete eis ipsi enim pervigilant quasi rationem pro animabus vestris reddituri ut cum gaudio hoc faciant et non gementes hoc enim non expedit vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.018">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:18</verseNum>
+      </reference>
+      <l>orate pro nobis confidimus enim quia bonam conscientiam habemus in omnibus bene volentes conversari</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.019">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:19</verseNum>
+      </reference>
+      <l>amplius autem deprecor vos hoc facere ut quo celerius restituar vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.020">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:20</verseNum>
+      </reference>
+      <l>Deus autem pacis qui eduxit de mortuis pastorem magnum ovium in sanguine testamenti aeterni Dominum nostrum Iesum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.021">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:21</verseNum>
+      </reference>
+      <l>aptet vos in omni bono ut faciatis voluntatem eius faciens in vobis quod placeat coram se per Iesum Christum cui gloria in saecula saeculorum amen</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.022">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:22</verseNum>
+      </reference>
+      <l>rogo autem vos fratres sufferatis verbum solacii etenim perpaucis scripsi vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.023">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:23</verseNum>
+      </reference>
+      <l>cognoscite fratrem nostrum Timotheum dimissum cum quo si celerius venerit videbo vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.024">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:24</verseNum>
+      </reference>
+      <l>salutate omnes praepositos vestros et omnes sanctos salutant vos de Italia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hebrews.013.025">
+      <reference>
+        <bookName>Hebrews</bookName>
+        <verseNum>13:25</verseNum>
+      </reference>
+      <l>gratia cum omnibus vobis amen</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Hebrews.colophon.001">
+    <reference>
+      <bookName>Hebrews</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA AD HEBRAEOS</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

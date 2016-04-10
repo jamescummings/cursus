@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5067" nextid="c5069" id="c5068">
+   <header>
+      <usage ms="Alb2" code="02122700">[34r] matins-n1-a2</usage>
+      <usage ms="Bat" code="02122700">[20v] matins-n1-a2</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins-n1-a2</usage>
+      <usage ms="Evm" code="02122700">[42v] matins-n1-a2</usage>
+      <usage ms="Hyd" code="02122700">[23r] matins-n1-a2</usage>
+      <usage ms="Pet" code="02122700">[25r] matins-n1-a2</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins-n1-a2</usage>
+      <usage ms="Wor" code="02122700">[19r] matins-n1-a2</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Alb2 Evm Wcb Bat Cdm Wor"> Supra pectus domini Jesu</rdg>
+         <rdg wit="Hyd Pet"> Supra pectus domini</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Alb2 Evm Wcb Bat Cdm Wor"> recumbens</rdg>
+         <rdg wit="Pet"> cena recumbens</rdg>
+         <rdg wit="Hyd"> in cena recumbens</rdg>
+      </app> evangelii fluenta de ipso sacro
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Wor Pet"> dominici</rdg>
+         <rdg wit="Cdm"> dominice</rdg>
+      </app> pectoris fonte potavit</aBody>
+</ant>

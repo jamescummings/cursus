@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7785" nextid="c7787" id="c7786">
+   <header>
+      <usage ms="Hyd" code="10800000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Tu domine universorum qui nullam habes indigentiam voluisti templum tuum fieri in nobis conserva domum istam immaculatam in aeternum domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Qui regis Israel intende qui deducis velut ovem Joseph qui sedes super cherubim</vBody>
+      <vBody type="r" wit="CAO-C"> Qui regis</vBody>
+      <vBody type="r" wit="CAO-V CAO-R"> Qui regis Israel</vBody>
+      <vBody type="r" wit="CAO-H"> Qui regis Israel intende</vBody>
+      <vBody type="r" wit="CAO-S"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" wit="CAO-D CAO-F"> Qui liberas Israel de omni malo qui fecisti patres electos et sanctificasti eos</vBody>
+      <vBody type="r" wit="CAO-E"> Disrumpam vincula populi mei dicit dominus et dispergam omnia mala quae induxi super eos</vBody>
+      <vBody type="r" num="2" wit="CAO-V"> Domum tuam domine</vBody>
+      <vBody type="r" wit="CAO-M"> Et nunc domine deus noster miserere nobis</vBody>
+      <vBody type="r" wit="CAO-G"> Tu elegisti domum istam domine ad invocandum nomen tuum in ea ut esset domus orationis et obsecrationis populo tuo</vBody>
+      <vBody type="r" wit="Hyd"> Sacerdotes praetendentes manus in caelum invocabant deum dicentes</vBody>
+      <rep type="r" wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Conserva</rep>
+      <rep type="r" wit="CAO-E"> Voluisti</rep>
+      <rep type="r" wit="CAO-G CAO-M"> In aeternum</rep>
+   </verses>
+</res>

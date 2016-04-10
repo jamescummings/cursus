@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6273" nextid="c6275" id="c6274">
+   <rBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F"> Certamen magnum habuerunt
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F"> sancti Dei</rdg>
+         <rdg wit="CAO-C"> sancti</rdg>
+         <rdg wit="CAO-V"> sancti tui domine</rdg>
+      </app> transierunt per ignem et aquam
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-F"> et salvi facti sunt</rdg>
+         <rdg wit="CAO-C" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> et coronas acceperunt a domino Deo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R"> Isti sunt sancti qui pro testamento dei sua corpora tradiderunt</vBody>
+      <vBody type="r" wit="CAO-F"> Immania enim pro Christo in suis corporibus pertulerunt tormenta</vBody>
+      <rep type="r" wit="CAO-E"> Transierunt</rep>
+      <rep type="r" wit="CAO-C CAO-V CAO-H CAO-R CAO-F">Et coronas</rep>
+   </verses>
+</res>

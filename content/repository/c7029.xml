@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7028" nextid="c7030" id="c7029">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iam corpus eius</rdg>
+         <rdg wit="CAO-E"> Iam corpus meum</rdg>
+      </app> corpori meo sociatum est et sanguis eius ornavit
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> genas meas</rdg>
+         <rdg wit="CAO-V"> genus meum</rdg>
+      </app> cuius mater virgo est cuius pater feminam nescit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Ipsi sum desponsata</rdg>
+            <rdg wit="CAO-M"> Ipsi sum disponsata</rdg>
+         </app> cui angeli serviunt
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> cuius pulchritudinem</rdg>
+            <rdg wit="CAO-M"> cuius pulchritudine</rdg>
+         </app> sol et luna mirantur</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Induit me dominus ciclade auro
+       <app>
+            <rdg wit="CAO-S"> texta</rdg>
+            <rdg wit="CAO-L"> textam</rdg>
+         </app> et immensis monilibus ornavit me</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Cuius mater</rep>
+   </verses>
+</res>

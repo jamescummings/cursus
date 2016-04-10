@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7112" nextid="c7114" id="c7113">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Magna enim sunt iudicia tua domine et inenarrabilia verba tua magnificasti populum tuum et honorasti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Deduxisti sicut oves populum tuum in manu Moysi et Aaron</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Transtulistit illos Mare Rubrum
+       <app>
+            <rdg wit="CAO-S"> et transvexisti eos</rdg>
+            <rdg wit="CAO-L"> et transvexisti</rdg>
+         </app> per aquam nimiam</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-S">Magnificasti</rep>
+      <rep type="r" wit="CAO-F"> Et honorasti</rep>
+      <rep type="r" wit="CAO-S"> Magnificasti</rep>
+      <rep type="r" wit="CAO-L">Et inenarrabilia</rep>
+   </verses>
+</res>

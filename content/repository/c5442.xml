@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5441" nextid="c5443" id="c5442">
+   <aBody wit="CAO-B CAO-V CAO-H CAO-R CAO-S CAO-L"> Virgam virtutis tuae emittet dominus
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> in splendoribus sanctorum</rdg>
+         <rdg wit="CAO-L"> in splendoribus sanctorum tuorum</rdg>
+         <rdg wit="CAO-S"> ex Sion</rdg>
+         <rdg wit="CAO-V">
+            <add hand="later">in splendoribus sanctorum</add>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

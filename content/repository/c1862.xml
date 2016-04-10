@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1861" nextid="c1863" id="c1862">
+   <header>
+      <usage ms="Alb2" code="02122500">[23v] vesp1-a3</usage>
+      <usage ms="Bat" code="02122500">[14v] vesp1-a3</usage>
+      <usage ms="Cdm" code="02122400">[21r] vesp2-a3</usage>
+      <usage ms="Evm" code="02122500">[32r] vesp1-a3</usage>
+      <usage ms="Hyd" code="02122400">[17r] sext</usage>
+      <usage ms="Mch" code="02122400">[23v] vesp2-a4</usage>
+      <usage ms="Pet" code="02122500">[14v] vesp1-a3</usage>
+      <usage ms="Wcb" code="02122400">[53r] vesp2-a3</usage>
+      <usage ms="Wor" code="02122400">[13v] vesp2-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Wor Pet"> Completi sunt dies Mariae ut pareret filium suum primogenitum</aBody>
+</ant>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6872" nextid="c6874" id="c6873">
+   <rBody wit="CAO-E CAO-D CAO-F"> Ibant gaudentes a conspectu concilii quoniam digni habiti sunt pro nomine Jesu
+      <app>
+         <rdg wit="CAO-D CAO-F"> contumeliam</rdg>
+         <rdg wit="CAO-E"> contumelias</rdg>
+      </app> pati
+      <app>
+         <rdg wit="CAO-F"> alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-E CAO-D" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F">Non sunt loquelae neque sermones quorum
+       <app>
+            <rdg wit="CAO-E CAO-D"> non audiantur</rdg>
+            <rdg wit="CAO-F"> non audientur</rdg>
+         </app> voces eorum</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F">Quoniam</rep>
+   </verses>
+</res>

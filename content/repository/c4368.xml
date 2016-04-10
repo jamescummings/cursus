@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4367" nextid="c4369" id="c4368">
+   <header>
+      <usage ms="Hyd" code="10100000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Fec-B2 Hyd"> Praevaluit David
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-L Hyd"> in Philisthaeo</rdg>
+         <rdg wit="CAO-F CAO-S Fec-B2"> in Philisthaeum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Fec-B2 Hyd"> in funda et lapide</rdg>
+         <rdg wit="CAO-C CAO-L"> in funda et lapidem</rdg>
+      </app> in nomine domini</aBody>
+</ant>

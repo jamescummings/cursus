@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4082" nextid="c4084" id="c4083">
+   <header>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="14122100">[15v] </usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="01048000">[21r] </usage>
+      <usage ms="Pet" code="14122100">[13r] </usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Mch Cdm Ely Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Mch Cdm Ely Pet"> O Thoma Didyme per Christum quem meruisti tangere</rdg>
+         <rdg wit="CAO-L"> O Thoma Didyme qui meruisti Christum tangere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-R CAO-S CAO-L Mch Cdm Pet"> te precibus rogamus altissonis</rdg>
+         <rdg wit="Hyd Ely"> te deprecamur vocibus altissonis</rdg>
+         <rdg wit="CAO-D CAO-F"> te precibus oramus altissonis</rdg>
+         <rdg wit="CAO-E"> te <corr sic="petimus">oramus</corr> altissonis</rdg>
+         <rdg wit="CAO-V"> te deprecor altissoni</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Mch Cdm Pet"> succurre nobis miseris</rdg>
+         <rdg wit="Hyd Ely"> nobis succurre miseris</rdg>
+         <rdg wit="CAO-L"> pro nobis miseris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Hyd Mch Cdm Ely Pet"> ne damnemur cum impiis</rdg>
+         <rdg wit="CAO-M"> ne perdas cum impiis</rdg>
+         <rdg wit="CAO-V"> ne dampnemus cum impiis</rdg>
+         <rdg wit="CAO-L"> ut non pereamus cum impiis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Mch Cdm Ely Pet"> in adventu iudicis</rdg>
+         <rdg wit="CAO-M"> in adventum iudicis</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1707" nextid="o1709" id="o1708">
+   <header>
+      <usage ms="Cdm" code="07012000">[58v] none</usage>
+      <usage ms="Cdm" code="07024000">[62v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm">Ecclesiam tuam quaesumus domine perpetua miseratione prosequere ut salubris expiata ieiuniis et praesenti prosperitate laetetur et aeternam beatitudinem percipere mereatur</pBody>
+</prayer>

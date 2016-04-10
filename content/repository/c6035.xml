@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6034" nextid="c6036" id="c6035">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Adesto dolori meo deus
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> nimium fatigor</rdg>
+         <rdg wit="CAO-S"> nimio fatigor</rdg>
+      </app> et cecidit in luctum cythara mea et cantatio mea
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L"> in plorationem</rdg>
+         <rdg wit="CAO-V CAO-F"> in ploratione</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-L"> Versa est
+      <app>
+            <rdg wit="CAO-H CAO-L"> in luctum</rdg>
+            <rdg wit="CAO-E"> in luctu</rdg>
+         </app> cythara mea et organum meum
+      <app>
+            <rdg wit="CAO-H"> in vocem</rdg>
+            <rdg wit="CAO-E CAO-L"> in voce</rdg>
+         </app> flentium</vBody>
+      <vBody type="r" wit="CAO-V CAO-D"> Versa est in luctum cythara mea</vBody>
+      <vBody type="r" wit="CAO-B CAO-R"> Versa est in luctum cythara mea et organum meum</vBody>
+      <vBody type="r" wit="CAO-F CAO-S"> Interiora mea
+      <app>
+            <rdg wit="CAO-S"> ferbuerunt</rdg>
+            <rdg wit="CAO-F"> efferbuerunt</rdg>
+         </app> absque ulla requie
+      <app>
+            <rdg wit="CAO-F"> praevenerunt me</rdg>
+            <rdg wit="CAO-S"> petierunt me</rdg>
+         </app> dies affiictionis</vBody>
+      <rep type="r" wit="CAO-E CAO-F CAO-S"> Et cecidit</rep>
+      <rep type="r" wit="CAO-V CAO-H CAO-D CAO-L"> Et cantatio</rep>
+      <rep type="r" wit="CAO-B CAO-R"> In plorationem</rep>
+   </verses>
+</res>

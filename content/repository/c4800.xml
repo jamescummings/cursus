@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4799" nextid="c4801" id="c4800">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-F"> Sanctus Symphorianus extra murum ductus
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-F"> et a percussore prostratus</rdg>
+         <rdg wit="CAO-E"> et a persecutore prostratus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> voto habuit</rdg>
+         <rdg wit="CAO-E CAO-M CAO-F"> votum vovit deo</rdg>
+      </app>
+   </aBody>
+</ant>

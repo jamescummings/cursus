@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5231" nextid="c5233" id="c5232">
+   <header>
+      <usage ms="Hyd" code="08015000">[104r] prime-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Tulerunt dominum meum et nescio ubi posuerunt eum si tu sustulisti eum dicito mihi alleluia
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et ego eum tollam alleluia</rdg>
+         <rdg wit="CAO-C"> et ego eum tollam alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4448" nextid="c4450" id="c4449">
+   <header>
+      <usage ms="Cht" code="06037000"/>
+      <usage ms="Mch" code="06035000">[111r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Cht Mch"> Quare ieiunavimus et non aspexisti humiliavimus animas nostras et
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Mch"> nescisti</rdg>
+         <rdg wit="Cht"> vecisti</rdg>
+      </app>
+   </aBody>
+</ant>

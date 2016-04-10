@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6829" nextid="c6831" id="c6830">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Hic est vere martyr qui pro Christi nomine sanguinem suum fudit qui minas
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> iudicum</rdg>
+         <rdg wit="CAO-D"> iudicium</rdg>
+      </app> non timuit nec terrenae dignitatis gloriam quaesivit sed ad caelestia regna
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> pervenit</rdg>
+         <rdg wit="CAO-E"> feliciter pervenit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-S"> Iustum deduxit dominus</rdg>
+            <rdg wit="CAO-E"> Iustum deduxit</rdg>
+         </app> per vias rectas et ostendit illi regnum dei</vBody>
+      <vBody type="r" wit="CAO-M"> Iustum deduxit dominus</vBody>
+      <vBody type="r" wit="CAO-L"> Iste sanctus pro lege dei sui certavit usque ad mortem et a verbis impiorum non timuit</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S">Qui minas</rep>
+      <rep type="r" wit="CAO-L">Nec terrenae</rep>
+   </verses>
+</res>

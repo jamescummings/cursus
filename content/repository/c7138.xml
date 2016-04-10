@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7137b" nextid="c7139" id="c7138">
+   <rBody wit="CAO-D CAO-F"> Mecum est maxima merces tua et his qui audierint te salus in regno meo nunc facies fortiter et erit nomen tuum in laude</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">Dilectio et benignitas quam habes semper pro quibuscumque
+       <app>
+            <rdg wit="CAO-D"> petieris impetrabis</rdg>
+            <rdg wit="CAO-F">
+               <corr sic="petieris impetrabis">petierit impetrabit</corr>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-F">Nunc</rep>
+   </verses>
+</res>

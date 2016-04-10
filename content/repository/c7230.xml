@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7229" nextid="c7231" id="c7230">
+   <header>
+      <usage ms="Hyd" code="08081000" corresp="c7230-1">vesp1-r1</usage>
+      <usage ms="Hyd" code="08065000">matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-V CAO-D CAO-F Hyd"> Non relinquam vos orphanos alleluia
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-F"> vado et venio ad vos</rdg>
+         <rdg wit="Hyd"> vado et venit ad vos</rdg>
+      </app> et gaudebit cor vestrum alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F">Nisi ego abiero paraclitus non veniet ad vos si autem abiero mittam vobis eum</vBody>
+      <vBody type="r" wit="CAO-V CAO-D">Nisi ego abiero</vBody>
+      <vBody type="r" wit="Hyd"> Pacem meam do vobis pacem relinquo vobis</vBody>
+      <vBody id="c7230-1" type="r" wit="Hyd">Elevatis Jesus manibus benedixit discipulis suis dicens sedete in civitate quousque induamini virtute ex alto et ego mittam promissum patris in vos</vBody>
+      <rep type="r" wit="CAO-D CAO-F Hyd">Et gaudebit</rep>
+      <rep type="r" wit="CAO-V">Vado</rep>
+   </verses>
+</res>

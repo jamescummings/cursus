@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2987" nextid="c2989" id="c2988">
+   <header>
+      <usage ms="Hyd" code="01013000">[5v] vesp2-a4</usage>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-H CAO-S Hyd"> Habitare fratres in unum</aBody>
+</ant>

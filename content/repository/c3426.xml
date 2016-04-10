@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3425" nextid="c3427" id="c3426">
+   <header>
+      <usage ms="Cdm" code="02010100">[33r] commemoration</usage>
+      <usage ms="Glo" code="14040400">[77v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-R CAO-D CAO-F Cdm"> Iste est qui ante deum magnas virtutes operatus est et omnis terra doctrina eius repleta est
+     <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F Cdm"> ipse intercedat</rdg>
+         <rdg wit="CAO-C"> ipse intercedit</rdg>
+      </app> pro peccatis omnium populorum</aBody>
+   <aBody wit="Glo" type="incipit">Iste est qui ante deum</aBody>
+   <aBody wit="Alb2" type="incipit">Iste est qui ante deum magnas virtutes</aBody>
+</ant>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1825" nextid="c1827" id="c1826">
+   <header>
+      <usage ms="Bat" code="07061000">[62r] vesp1 gosp</usage>
+      <usage ms="Cdm" code="07061000">[74r] vesp1-a1</usage>
+      <usage ms="Ely" code="07061000">[84v] vesp1</usage>
+      <usage ms="Evm" code="07057000">[140v] lauds</usage>
+      <usage ms="Glo" code="07057000">[72r] lauds</usage>
+      <usage ms="Hyd" code="08064000">lauds</usage>
+      <usage ms="Mch" code="07061000">[151r] vesp1 gosp</usage>
+      <usage ms="Pet" code="07061000">[83v] vesp1</usage>
+      <usage ms="Wcb" code="07057000">[110v] lauds</usage>
+      <usage ms="Wor" code="07061000">[55r] vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Pet Evm Wcb Hyd Cdm Mch Bat"> Clarifica me pater
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D Ely Wor Pet Evm Wcb Hyd Cdm Mch Bat">apud temetipsum claritate</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-L">apud temetipsum claritatem</rdg>
+         <rdg wit="CAO-F CAO-S">apud temetipsum claritate<del rend="erased" hand="contemp" status="unremarkable">m</del>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Pet Evm Wcb Cdm Mch Bat"> quam habui priusquam mundus fieret</rdg>
+         <rdg wit="Hyd"> quam habui priusquam mundus fieret alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Clarifica me pater</aBody>
+</ant>

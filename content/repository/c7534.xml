@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7533" nextid="c7535" id="c7534">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-D CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-S"> Requisitus a Decio</rdg>
+         <rdg wit="CAO-D"> Requisitus <corr sic="ad">a</corr> Decio</rdg>
+         <rdg wit="CAO-M"> Requisitus ad Decium</rdg>
+      </app> sanctus Hippolytus de corpore Laurentii
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D"> ut quid</rdg>
+         <rdg wit="CAO-M"> ut qui</rdg>
+         <rdg wit="CAO-S"> pro <add place="margin">ut</add> quid</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-S"> sepelisset eum</rdg>
+         <rdg wit="CAO-C CAO-M"> sepelisset</rdg>
+      </app> respondens Hippolytus dixit christianus ego sum et Christi
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-S"> martyrem</rdg>
+         <rdg wit="CAO-M"> martyres</rdg>
+      </app> diligenter sepelivi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-D CAO-S">
+         <app>
+            <rdg wit="CAO-D"> Miror valde praeses</rdg>
+            <rdg wit="CAO-C CAO-M"> Miror mihi valde praeses</rdg>
+            <rdg wit="CAO-S"> Mirum mihi est valde praeses</rdg>
+            <rdg wit="CAO-E"> Miror praeses valde</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-M"> pro quid</rdg>
+            <rdg wit="CAO-S"> ut qui</rdg>
+            <rdg wit="CAO-D CAO-E"> ut quid</rdg>
+         </app> ore polluto
+      <app>
+            <rdg wit="CAO-C CAO-E CAO-M"> martyrem</rdg>
+            <rdg wit="CAO-D CAO-S"> martyrem Christi</rdg>
+         </app> nominasti</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M">Respondens</rep>
+      <rep type="r" wit="CAO-D CAO-S">Christianus</rep>
+   </verses>
+</res>

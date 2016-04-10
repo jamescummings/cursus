@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6601" nextid="c6603" id="c6602">
+   <rBody wit="CAO-S CAO-L"> Ecce praepositus Indorum
+      <app>
+         <rdg wit="CAO-L"> ambulans</rdg>
+         <rdg wit="CAO-S"> ambulabat</rdg>
+      </app> in foro rerum venalium cui a domino quid comparare vellet dictum est quia hominem
+      <app>
+         <rdg wit="CAO-L"> architectonica</rdg>
+         <rdg wit="CAO-S"> architectonicam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> instructum palatium domino suo ad construendum</rdg>
+         <rdg wit="CAO-S"> instructum ad palatium domino suo construendum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-L"> Habeo servum idoneum</rdg>
+            <rdg wit="CAO-S"> Habeo servum</rdg>
+         </app> quidquid laborat mihi mercedes apportat cum honore
+       <app>
+            <rdg wit="CAO-L"> fac eum ad me remeare</rdg>
+            <rdg wit="CAO-S"> fac eum remeare</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-L"> Quia</rep>
+      <rep type="r" wit="CAO-S"> Ad palatium</rep>
+   </verses>
+</res>

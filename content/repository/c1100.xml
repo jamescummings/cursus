@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1099" nextid="c1101" id="c1100">
+   <header>
+      <usage ms="Hyd" code="10300000">matins</usage>
+   </header>
+   <aBody wit="CAO-V Hyd">
+      <app>
+         <rdg wit="CAO-V"> Laudemus dominum quem laudant angeli</rdg>
+         <rdg wit="Hyd"> Laudemus Jesum Christum</rdg>
+      </app> quia ipse est redemptor omnium saeculorum</aBody>
+</ant>

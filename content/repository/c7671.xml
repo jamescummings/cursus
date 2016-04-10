@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7670" nextid="c7672" id="c7671">
+   <rBody wit="CAO-D CAO-F CAO-S"> Similitudo vultus animalium facies hominis et facies leonis a dextris ipsorum quatuor facies vero vituli atque aquilae a sinistris ipsorum quatuor et facies et pennae extentae desuper erant</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S">Duae pennae singulorum iungebantur et duae tegebant
+      <app>
+            <rdg wit="CAO-D CAO-S"> corpora eorum</rdg>
+            <rdg wit="CAO-F"> eorum corpora</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Et facies</rep>
+   </verses>
+</res>

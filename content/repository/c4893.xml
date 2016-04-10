@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4892" nextid="c4894" id="c4893">
+   <aBody wit="CAO-E CAO-M CAO-H CAO-D"> Si ergo vos cum sitis mali
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-H"> nostis bona data dare filiis vestris</rdg>
+         <rdg wit="CAO-D"> nostis bona dare filiis vestris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H"> quanto magis pater vester de caelo</rdg>
+         <rdg wit="CAO-D"> quanto magis pater vester qui in caelis est</rdg>
+      </app> dabit bona petentibus se alleluia</aBody>
+</ant>

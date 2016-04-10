@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1716" nextid="c1718" id="c1717">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-D CAO-F CAO-L"> Benedictus deus Israel</rdg>
+         <rdg wit="Hyd"> Benedictus dominus deus Israel</rdg>
+      </app>
+   </aBody>
+</ant>

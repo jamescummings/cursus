@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1012b" nextid="c1014" id="c1013">
+   <header>
+      <usage ms="Alb2" code="02122700">[34r] matins inv</usage>
+      <usage ms="Bat" code="02122700">[20v] matins inv</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins inv</usage>
+      <usage ms="Evm" code="02122700">[42r] matins inv</usage>
+      <usage ms="Hyd" code="02122700">[23r] matins inv</usage>
+      <usage ms="Pet" code="02122700">[24v] matins inv</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins inv</usage>
+      <usage ms="Wor" code="02122700">[19r] matins inv</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Adoremus regem apostolorum qui privilegio amoris Joannem dilexit apostolum</aBody>
+</ant>

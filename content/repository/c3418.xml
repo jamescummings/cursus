@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3417" nextid="c3419" id="c3418">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-D CAO-F CAO-S"> Iste cognovit iustitiam</rdg>
+         <rdg wit="CAO-H CAO-R"> Iste cognovit iustitiam alleluia</rdg>
+      </app> et vidit mirabilia magna
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S"> et exoravit altissimum</rdg>
+         <rdg wit="CAO-E"> exoravit altissimum</rdg>
+         <rdg wit="CAO-D"> et oravit altissimum</rdg>
+      </app> et inventus est
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-R CAO-D CAO-F CAO-S"> in numero sanctorum</rdg>
+         <rdg wit="CAO-E"> in numero sanctorum alleluia</rdg>
+         <rdg wit="CAO-H"> in numero sanctorum alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

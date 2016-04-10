@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2983" nextid="c2985" id="c2984">
+   <aBody wit="CAO-R">
+      <lg type="verse" org="uniform" sample="complete" part="N">
+         <l part="N">Gregorius vigiliis</l>
+         <l part="N"> confectus et ieiuniis</l>
+         <l part="N"> etsi marcebat corpore</l>
+         <l part="N"> ex spe vigebat animae</l>
+      </lg>
+   </aBody>
+</ant>

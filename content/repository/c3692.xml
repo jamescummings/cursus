@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3691" nextid="c3693" id="c3692">
+   <header>
+      <usage ms="Cht" code="05041000">[5r] vesp1 gosp</usage>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-C CAO-F Hyd Cht">
+      <app>
+         <rdg wit="CAO-C"> Maneat in nobis spes fides caritas</rdg>
+         <rdg wit="CAO-F Hyd"> Maneant in nobis spes fides caritas</rdg>
+         <rdg wit="Cht"> Maneant in vobis spes fides caritas</rdg>
+      </app> tria haec
+     <app>
+         <rdg wit="CAO-C"> maior autem his est caritas alleluia</rdg>
+         <rdg wit="Hyd"> maior autem hiis est caritas</rdg>
+         <rdg wit="Cht"> maior autem horum est caritas</rdg>
+         <rdg wit="CAO-F"> maior autem horum caritas</rdg>
+      </app>
+   </aBody>
+</ant>

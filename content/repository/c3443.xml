@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3442" nextid="c3444" id="c3443">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D"> Isti sunt sancti qui pro lege dei
+     <app>
+         <rdg wit="CAO-D"> sui morti se tradere non dubitaverunt</rdg>
+         <rdg wit="CAO-C"> sui mortis se tradere non dubitaverunt</rdg>
+         <rdg wit="CAO-H CAO-R"> sui morti se tradiderunt et non dubitaverunt</rdg>
+      </app> ab iniquis interfecti sunt et in aeternum vivunt cum Christo agnum secuti sunt et acceperunt palmam</aBody>
+</ant>

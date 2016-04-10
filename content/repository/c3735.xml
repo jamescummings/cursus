@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3734" nextid="c3736" id="c3735">
+   <header>
+      <usage ms="Hyd" code="10600000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-V CAO-D CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-L Hyd"> Memento domine et ostende te nobis</rdg>
+         <rdg wit="CAO-C"> Memento domine et ostende nobis</rdg>
+      </app> in tempore tribulationis</aBody>
+</ant>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3000" nextid="c3002" id="c3001">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Haec est quae nescivit</rdg>
+         <rdg wit="CAO-V"> Haec est quem nescivit</rdg>
+         <rdg wit="CAO-S"> Haec est quem nescivi</rdg>
+      </app> torum in delicto
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> habebit fructum</rdg>
+         <rdg wit="CAO-M CAO-V"> habebis fructum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in respectione animarum sanctarum</rdg>
+         <rdg wit="CAO-C"> in respersione animarum sanctarum</rdg>
+         <rdg wit="CAO-M CAO-V"> in refectione animarum sanctarum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3912" nextid="c3914" id="c3913">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Non est hic aliud nisi domus dei
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> et porta caeli</rdg>
+         <rdg wit="CAO-V"> et portas caeli</rdg>
+      </app>
+   </aBody>
+</ant>

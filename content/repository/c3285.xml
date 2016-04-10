@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3284" nextid="c3286" id="c3285">
+   <header>
+      <usage ms="Cht" code="05027000">[3r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L Cht"> In sanctitate serviamus domino
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-D CAO-F Cht"> et liberabit nos</rdg>
+         <rdg wit="CAO-C CAO-L"> et liberavit nos</rdg>
+         <rdg wit="CAO-V"> et <corr sic="liberavit">liberabit</corr> nos</rdg>
+      </app> ab inimicis nostris</aBody>
+</ant>

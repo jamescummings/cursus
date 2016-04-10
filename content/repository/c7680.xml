@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7679" nextid="c7681" id="c7680">
+   <rBody wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-L"> Specie tua et pulchritudine tua intende
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-L"> prospere</rdg>
+         <rdg wit="CAO-L"> et prospere</rdg>
+      </app> procede et regna</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-F"> Diffusa est gratia in labiis tuis propterea benedixit te deus in aeternum</vBody>
+      <vBody type="r" wit="CAO-C"> Dilexisti iustitiam et odisti iniquitatem</vBody>
+      <vBody type="r" wit="CAO-L"> Propter veritatem et mansuetudinem et iustitiam</vBody>
+      <rep type="r" wit="CAO-E CAO-R CAO-F CAO-L">Intende</rep>
+      <rep type="r" wit="CAO-H">Procede</rep>
+   </verses>
+</res>

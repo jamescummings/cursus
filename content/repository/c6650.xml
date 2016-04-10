@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6649" nextid="c6651" id="c6650">
+   <header>
+      <usage ms="Hyd" code="08065000">lauds</usage>
+   </header>
+   <rBody wit="CAO-D Hyd"> Elevata est magnificentia tua
+     <app>
+         <rdg wit="CAO-D"> alleluia alleluia</rdg>
+         <rdg wit="Hyd">alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D Hyd"> Super caelos deus</vBody>
+      <rep type="r" wit="CAO-D"> Alleluia alleluia</rep>
+   </verses>
+</res>

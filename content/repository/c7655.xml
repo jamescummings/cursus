@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7654" nextid="c7656" id="c7655">
+   <header>
+      <usage ms="Alb2" code="02122700">[36r] matins-n3-r11</usage>
+      <usage ms="Bat" code="02122700">[21v] matins-n2-r8</usage>
+      <usage ms="Cdm" code="02122700">[27r] matins-n2-r8</usage>
+      <usage ms="Hyd" code="02122700">[24v] matins-n3-r10</usage>
+      <usage ms="Pet" code="02122700">[27r] matins-n2-r7</usage>
+      <usage ms="Wcb" code="02122700">[62v] matins-n3-r12</usage>
+      <usage ms="Wor" code="02122700">[20v] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-D CAO-F CAO-S Hyd Alb2 Wcb Bat Cdm Wor Pet"> Sic eum volo manere donec
+     <app>
+         <rdg wit="CAO-D CAO-F Hyd Alb2 Wcb Bat Cdm Wor Pet"> veniam</rdg>
+         <rdg wit="CAO-S"> veniat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-S Hyd Alb2 Wcb Bat Cdm Wor Pet"> quid ad te</rdg>
+         <rdg wit="CAO-D"> quid a te</rdg>
+      </app> tu me sequere</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd"> Conversus Petrus vidit illum discipulum quem diligebat Jesus de quo interrogabat eum dicens domine hic autem quid cui Jesus respondit</vBody>
+      <vBody type="r" wit="CAO-S"> Exiit sermo inter fratres quod discipulus ille non moritur</vBody>
+      <vBody type="r" wit="CAO-D CAO-F Alb2 Wcb Bat Cdm Wor Pet"> Hunc ergo cum vidisset Petrus
+      <app>
+            <rdg wit="CAO-F Alb2"> dixit ad Jesum</rdg>
+            <rdg wit="Wcb Bat Cdm Wor Pet"> dicit Jesu</rdg>
+            <rdg wit="CAO-D"> dixit Jesu</rdg>
+         </app> domine hic autem quid</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S Hyd Alb2 Wcb Bat Cdm Wor Pet">Quid</rep>
+   </verses>
+</res>

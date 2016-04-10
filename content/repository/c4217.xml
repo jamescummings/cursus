@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4216" nextid="c4218" id="c4217">
+   <header>
+      <usage ms="Bat" code="01036000">[11r] lauds-a2</usage>
+      <usage ms="Cdm" code="01036000">[17r] lauds-a2</usage>
+      <usage ms="Ely" code="01043000">[15r] lauds-a2</usage>
+      <usage ms="Evm" code="01012000">[8v] prime</usage>
+      <usage ms="Evm" code="01032000">[18v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01046000">[25v] lauds-a2</usage>
+      <usage ms="Hyd" code="01031000">[10v] matins-n3</usage>
+      <usage ms="Wcb" code="01032000">[47v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01012000">[4r] prime</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Evm Cdm Ely Wor Wcb Bat"> Paratus esto Israel in occursum domini quoniam venit</aBody>
+</ant>

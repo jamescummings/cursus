@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5492" nextid="c5494" id="c5493">
+   <header>
+      <usage ms="Alb2" code="07053000">[102r] lauds</usage>
+      <usage ms="Cdm" code="07053000">[72v] lauds gosp</usage>
+      <usage ms="Cht" code="07053000">[51r] nones-a1</usage>
+      <usage ms="Ely" code="07053000">[83v] lauds</usage>
+      <usage ms="Evm" code="07053000">[138r] lauds</usage>
+      <usage ms="Hyd" code="07053000">[88v] lauds</usage>
+      <usage ms="Mch" code="07053000">[149r] lauds gosp</usage>
+      <usage ms="Pet" code="07053000">[82r] </usage>
+      <usage ms="Wor" code="07053000">[54v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch"> Vos ascendite ad diem festum hunc
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Wor Cht Hyd Pet Evm Alb2 Cdm Mch">ego</rdg>
+         <rdg wit="CAO-L Ely">ego autem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch">non ascendam</rdg>
+         <rdg wit="CAO-H CAO-L">non ascendo</rdg>
+      </app> quia tempus meum nondum advenit</aBody>
+</ant>

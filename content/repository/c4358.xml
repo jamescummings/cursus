@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4357" nextid="c4359" id="c4358">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Alb2 Hyd Pet"> Praecursor Joannes exsultat</rdg>
+         <rdg wit="CAO-M CAO-S"> Praecursor Joannis exsultat</rdg>
+         <rdg wit="CAO-D"> Praecursor Joannes exsultet</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Hyd Pet"> cum Jordane baptizato domino</rdg>
+         <rdg wit="CAO-C CAO-L"> cum in Jordane baptizato domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Alb2"> facta est orbis terrarum exsultatio</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R Hyd Pet"> facta est orbi terrarum exsultatio</rdg>
+      </app> facta est peccatorum nostrorum remissio
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Hyd Pet"> sanctificans aquas</rdg>
+         <rdg wit="CAO-S"> sanctificans aqua</rdg>
+      </app> ipsi omnes clamemus miserere nobis</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-L">Orietur stella ex Jacob et exsurget homo ex Israel</vBody>
+      <vBody type="a" num="2" wit="CAO-L">Flos illa de radice Jesse et lux illa splendida matutina</vBody>
+      <vBody type="a" num="3" wit="CAO-L">Jordanis fluvius se retinuit intrante domino aqua contremuit nova creatio surgit de flumine quae illuminat omne saeculum</vBody>
+      <vBody type="a" num="4" wit="CAO-L">Dum nostra crimina baptismo suo lavisset et suum dominum ac redemptorem sensisset</vBody>
+   </verses>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3706" nextid="c3707b" id="c3707">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L"> Maria virgo assumpta est ad aethereum thalamum</rdg>
+         <rdg wit="CAO-V CAO-H"> Maria virgo assumpta est ad aetherium thalamum</rdg>
+      </app> in quo rex regum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> stellato sedet solio</rdg>
+         <rdg wit="CAO-L"> stellatum sedet solio</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1584" nextid="o1586" id="o1585">
+   <header>
+      <usage ms="Alb2" code="07044000">[96r] vesp2</usage>
+      <usage ms="Cdm" code="07044000">[69v] vesp2</usage>
+      <usage ms="Cht" code="07044000">[44v] vesp2</usage>
+      <usage ms="Evm" code="07044000">[131v] vesp2</usage>
+      <usage ms="Hyd" code="07044000">[84r] vesp2</usage>
+      <usage ms="Mch" code="07044000">[141v] vesp2</usage>
+      <usage ms="Wcb" code="07044000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.272</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Hyd Evm Wcb Alb2 Cdm Mch">Pateant aures misericordiae tuae domine
+     <app>
+         <rdg wit="Cht Hyd"> precibus supplicatum</rdg>
+         <rdg wit="Evm Wcb Alb2 Cdm Mch"> precibus supplicantum</rdg>
+      </app> et ut petentibus desiderata concedas
+     <app>
+         <rdg wit="Cht Evm Wcb Alb2 Cdm Mch"> fac eos quae tibi sunt placita postulare</rdg>
+         <rdg wit="Hyd"> fac eos tibi quae sunt placita postulare</rdg>
+      </app>
+   </pBody>
+</prayer>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4123" nextid="c4125" id="c4124">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Omnes gentes per gyrum
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-L"> crediderunt Christo domino</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S"> crediderunt Christum dominum</rdg>
+         <rdg wit="CAO-C"> crediderunt Christum domini</rdg>
+      </app>
+   </aBody>
+</ant>

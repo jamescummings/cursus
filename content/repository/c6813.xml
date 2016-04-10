@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6812" nextid="c6814" id="c6813">
+   <rBody wit="CAO-D CAO-F"> Hi igitur milites christianae religionis ritum orientali traditione susceperant ab Jerosolymitanae urbis episcopo fideique sacrae virtutem armis omnibus praeponebant</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Eamdem christianitatis fidem
+       <app>
+            <rdg wit="CAO-D"> quam</rdg>
+            <rdg wit="CAO-F"> quem</rdg>
+         </app> acceperant confirmantes ut ante gladiis perirent quam sacram fidem violarent</vBody>
+      <rep type="r" wit="CAO-D CAO-F"> Fideique</rep>
+   </verses>
+</res>

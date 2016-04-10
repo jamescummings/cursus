@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1690" nextid="c1692" id="c1691">
+   <aBody wit="CAO-D CAO-F"> Benedicat nos deus pater custodiat nos Jesus Christus illuminet nos spiritus sanctus omnibus diebus vitae nostrae confirmet nos virtus Christi
+     <app>
+         <rdg wit="CAO-D"> intercedentibus sanctis suis <name reg="Dionysius" type="saint">Dionysio</name>
+            <name reg="Rusticus" type="saint">Rustico</name> et <name reg="Eleutherius" type="saint">Eleutherio</name>
+         </rdg>
+         <rdg wit="CAO-F"> intercedentibus sanctis suis <name reg="Petrus" type="saint">Petro</name> et <name reg="Paulus" type="saint">Paulo</name>
+         </rdg>
+      </app> indulgeat nobis dominus universa delicta nostra alleluia</aBody>
+</ant>

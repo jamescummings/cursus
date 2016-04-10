@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2482" nextid="c2484" id="c2483">
+   <aBody wit="CAO-V CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-V CAO-F"> Duo homines ascenderunt in templum ut orarent</rdg>
+         <rdg wit="CAO-L"> Duo homines ascendebant in templum ut orarent</rdg>
+      </app> unus pharisaeus et alter publicanus descendit hic iustificatus
+     <app>
+         <rdg wit="CAO-V CAO-L"> in domum suam ab illo alleluia</rdg>
+         <rdg wit="CAO-F"> in domum suam ab illo</rdg>
+      </app>
+   </aBody>
+</ant>

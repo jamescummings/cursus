@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6220" nextid="c6222" id="c6221">
+   <rBody wit="CAO-E CAO-S CAO-L"> Beatus namque apostolus Bartholomaeus a
+      <app>
+         <rdg wit="CAO-E CAO-L"> saevissimo</rdg>
+         <rdg wit="CAO-S"> assevissimo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-S CAO-L"> Astrige rege</rdg>
+         <rdg wit="CAO-E"> Astrage rege</rdg>
+      </app> crudeliter
+      <app>
+         <rdg wit="CAO-E CAO-S"> fustigatus est</rdg>
+         <rdg wit="CAO-L"> fustigatus es</rdg>
+      </app> et in morem follis eo praecipiente decoriatus vivens et laetus pro Christo persistit atque ad extremum capite
+      <app>
+         <rdg wit="CAO-S CAO-L"> plexus</rdg>
+         <rdg wit="CAO-E"> caesus</rdg>
+      </app> caelum triumphator ascendit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-S CAO-L">Cum autem nuntiatum esset tyranno regi
+       <app>
+            <rdg wit="CAO-E CAO-S"> corruisse</rdg>
+            <rdg wit="CAO-L"> corruisset</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E"> scilicet Waldach</rdg>
+            <rdg wit="CAO-S"> Baldach</rdg>
+            <rdg wit="CAO-L"> scilicet Valdat</rdg>
+         </app> deum suum scidit vestimenta sua
+       <app>
+            <rdg wit="CAO-E CAO-L"> atque eo jubente</rdg>
+            <rdg wit="CAO-S" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-L">Crudeliter</rep>
+      <rep type="r" wit="CAO-S"> Et in morem</rep>
+   </verses>
+</res>

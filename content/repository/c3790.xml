@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3789" nextid="c3791" id="c3790">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S"> Misso Herodes spiculatore</rdg>
+         <rdg wit="CAO-C CAO-V CAO-L"> Misso Herode spiculatore</rdg>
+         <rdg wit="CAO-D"> Misso <corr sic="Herode">Herodes</corr> spiculatore</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> praecepit amputare caput Joannis</rdg>
+         <rdg wit="CAO-C CAO-B CAO-D CAO-F CAO-S"> praecepit amputari caput Joannis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> in carcere</rdg>
+         <rdg wit="CAO-E CAO-L"> in carcerem</rdg>
+      </app> quo audito discipuli eius venerunt et tulerunt corpus eius et posuerunt illud in monumento</aBody>
+</ant>

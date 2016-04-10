@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7554" nextid="c7556" id="c7555">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Sacerdos dei Lucianus prostravit se in oratione
+     <app>
+         <rdg wit="CAO-F CAO-S"> laudans deum</rdg>
+         <rdg wit="CAO-D"> orans <add place="margin">deum</add>
+         </rdg>
+         <rdg wit="CAO-L"> ortus diem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> et dicens</rdg>
+         <rdg wit="CAO-L"> et dixit</rdg>
+      </app> domine Jesu Christe si est haec visio ex te praesta ut iterum ac tertio manifestetur mihi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-S CAO-L"> Ut confisus</rdg>
+            <rdg wit="CAO-D CAO-F"> Ut confessus</rdg>
+         </app> fiducialiter annuntiem revelationem sanctorum servorum tuorum</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L">Praesta</rep>
+   </verses>
+</res>

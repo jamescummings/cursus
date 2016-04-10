@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1974" nextid="c1976" id="c1975">
+   <aBody wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cum appropinquaret dominus Jerusalem</rdg>
+         <rdg wit="CAO-B CAO-M"> Dum appropinquaret dominus Jerusalem</rdg>
+      </app> videns civitatem flevit super illam
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et dixit</rdg>
+         <rdg wit="CAO-M"> et dicens</rdg>
+      </app> quia si cognovisses et tu
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L"> quia venient dies in te</rdg>
+         <rdg wit="CAO-S"> et venient dies in te</rdg>
+         <rdg wit="CAO-M"> quia veniet dies in te</rdg>
+      </app> et circumdabunt te et coangustabunt te undique
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et ad terram prosternent te</rdg>
+         <rdg wit="CAO-M"> et a terra prosternent te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> eo quod non cognovisti tempus visitationis tuae alleluia</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S"> eo quod non cognoveris tempus visitationis tuae alleluia</rdg>
+         <rdg wit="CAO-M"> eo quod non cognoveris tempus visitationis tuae dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

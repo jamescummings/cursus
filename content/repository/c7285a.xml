@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7285" nextid="c7286" id="c7285a">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for Sts John and Paul</note>
+   <rBody wit="CAO-S">  O quam gloriosum est regnum in quo cum Christo gaudent omnes <add place="supralinear">isti</add> sancti amicti stolis albis agnum sequuntur quocumque ierit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Beata regio civium supernorum in quo cum Christo isti sancti gaudent sine fine</vBody>
+      <rep type="r" wit="CAO-S">Amicti</rep>
+   </verses>
+</res>

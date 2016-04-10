@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2535" nextid="c2537" id="c2536">
+   <header>
+      <usage ms="Alb2" code="02122700">[36v] lauds-a3</usage>
+      <usage ms="Bat" code="02122700">[22r] lauds-a3</usage>
+      <usage ms="Cdm" code="02122700">[27v] lauds-a3</usage>
+      <usage ms="Evm" code="02122700">[45r] lauds-a2</usage>
+      <usage ms="Hyd" code="02122700">[25v] lauds-a1</usage>
+      <usage ms="Pet" code="02122700">[28r] lauds-a3</usage>
+      <usage ms="Wcb" code="02122700">[62v] lauds-a2</usage>
+      <usage ms="Wor" code="02122700">[21r] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Bat Cdm Wor Pet"> Ecce puer meus electus quem elegi posui super eum spiritum meum</aBody>
+</ant>

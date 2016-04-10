@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7017" nextid="c7019" id="c7018">
+   <rBody wit="CAO-E CAO-M CAO-V"> Isti sunt qui pro testamento Dei sua corpora tradiderunt et in sanguine agni laverunt stolas suas congregamini omnes qui timetis Deum et videte quantam gloriam dedit dominus sanctis suis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V">Isti sunt qui contempserunt
+       <app>
+            <rdg wit="CAO-E CAO-V"> vanam</rdg>
+            <rdg wit="CAO-M"> tantam</rdg>
+         </app> huius mundi gloriam et pervenerunt ad caelestia regna</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V">Congregamini</rep>
+      <dox type="r" wit="CAO-V"/>
+      <rep type="r" num="2" wit="CAO-V">Quantam</rep>
+   </verses>
+</res>

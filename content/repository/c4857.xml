@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4856" nextid="c4858" id="c4857">
+   <header>
+      <usage ms="Alb2" code="07024000"/>
+      <usage ms="Bat" code="07024000">[53r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07024000">[62v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Alb2 Cdm Bat"> Sedere autem mecum non est meum dare vobis sed quibus paratum est a patre meo</aBody>
+</ant>

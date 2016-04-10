@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1471" nextid="c1473" id="c1472">
+   <aBody wit="CAO-B CAO-H CAO-D CAO-F"> Archangele Christi per gratiam quam meruisti
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-D CAO-F"> deprecamur</rdg>
+         <rdg wit="CAO-B CAO-H CAO-D"> deprecamur te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F"> et per unigenitum dominum nostrum</rdg>
+         <rdg wit="CAO-B CAO-H"> per unigenitum dominum nostrum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H"> ut eripias nos de laqueo mortis alleluia</rdg>
+         <rdg wit="CAO-D CAO-F"> ut eripias nos a laqueo mortis</rdg>
+      </app>
+   </aBody>
+</ant>

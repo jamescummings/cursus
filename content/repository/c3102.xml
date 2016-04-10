@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3101" nextid="c3103" id="c3102">
+   <aBody wit="CAO-D CAO-F"> Hodie illuxit nobis laetus dies in quo summi regis senatores apostolorum principes Petrus et Paulus ad supernam angelorum curiam alter cruce alter gladio
+     <app>
+         <rdg wit="CAO-D"> pervenire</rdg>
+         <rdg wit="CAO-F"> pervenere</rdg>
+      </app> quapropter laeto ore
+     <app>
+         <rdg wit="CAO-D"> dicamus omnes alleluia</rdg>
+         <rdg wit="CAO-F"> dicamus omnes alleluia amen</rdg>
+      </app>
+   </aBody>
+</ant>

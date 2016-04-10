@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7517b" nextid="c7519" id="c7518">
+   <header>
+      <usage ms="Hyd" code="10800000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Refulsit sol in clypeos aureos</rdg>
+         <rdg wit="CAO-C CAO-L"> Refulsit sol in clypeis aureis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et resplenduerunt montes ab eis</rdg>
+         <rdg wit="Hyd"> et splenduerunt montes ab eis</rdg>
+      </app> et fortitudo gentium dissipata est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Erat enim exercitus magnus</rdg>
+            <rdg wit="Hyd"> Erat exercitus magnus</rdg>
+         </app> valde et fortis
+      <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-D CAO-L"> et appropiavit Judas</rdg>
+            <rdg wit="CAO-S"> et adpropriabit Judas</rdg>
+            <rdg wit="CAO-F Hyd"> et appropinquavit Judas</rdg>
+            <rdg wit="CAO-B CAO-R"> et appropinquabat Judas</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et exercitus eius</rdg>
+            <rdg wit="CAO-V"> et exercitu eius</rdg>
+            <rdg wit="CAO-E" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-F CAO-L Hyd"> in praelium</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R"> ad praelium</rdg>
+            <rdg wit="CAO-V CAO-D CAO-S"> in praelio</rdg>
+            <rdg wit="CAO-E"> in <corr sic="praelium">praelio</corr>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-M"> Disrumpam vincula populi mei dicit dominus et disperdam omnia mala quae indugi
+      <app>
+            <rdg wit="CAO-C"> super eum</rdg>
+            <rdg wit="CAO-M"> super eos</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-H"> Et ut appropinquavit Judas et exercitus eius in praelium ceciderunt ex parte regis sexcenti viri</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et fortitudo</rep>
+   </verses>
+</res>

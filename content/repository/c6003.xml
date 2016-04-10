@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6002" nextid="c6004" id="c6003">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> A facie furoris tui deus conturbata est omnis terra sed tu domine
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> miserere</rdg>
+         <rdg wit="CAO-V"> et miserere</rdg>
+      </app> et ne facias
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> consummationem</rdg>
+         <rdg wit="CAO-M"> consummatione</rdg>
+         <rdg wit="CAO-L"> consummationes</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Converte nos deus salutaris noster et averte iram tuam a nobis</vBody>
+      <vBody type="r" wit="CAO-C CAO-E"> Qui regis Israel intende</vBody>
+      <vBody type="r" wit="CAO-V"> De profundis clamavi ad te domine domine exaudi vocem meam</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Et ne facias</rep>
+   </verses>
+</res>

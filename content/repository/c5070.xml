@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5069" nextid="c5071" id="c5070">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> Surge aquilo et veni auster perfla hortum meum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L"> et fluent aromata illius</rdg>
+         <rdg wit="CAO-C"> et fluant aromata illius</rdg>
+         <rdg wit="CAO-D"> et fluent aromata</rdg>
+      </app>
+   </aBody>
+</ant>

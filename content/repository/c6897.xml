@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6896" nextid="c6898" id="c6897">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> In dedicatione templi decantabat populus
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> laudem</rdg>
+         <rdg wit="CAO-M"> laude</rdg>
+      </app> et in ore eorum
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> dulcis</rdg>
+         <rdg wit="CAO-S"> dulci</rdg>
+      </app> resonabat sonus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V CAO-H CAO-R"> Fundata est domus domini super verticem montium
+       <app>
+            <rdg wit="CAO-E CAO-V CAO-H CAO-R"> et venient ad eam omnes gentes</rdg>
+            <rdg wit="CAO-M"> et exaltata est super omnes colles</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-D CAO-S"> In hymnis et confessionibus benedicebant dominum</vBody>
+      <vBody type="r" wit="CAO-F CAO-L"> Obtulerunt sacrificium super altare
+       <app>
+            <rdg wit="CAO-L"> domino</rdg>
+            <rdg wit="CAO-F"> domini</rdg>
+         </app> et ceciderunt in facies suas et adoraverunt Deum</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et in ore</rep>
+   </verses>
+</res>

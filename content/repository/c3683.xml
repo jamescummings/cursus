@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3682" nextid="c3684" id="c3683">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Magnus sanctus Paulus vas electionis</rdg>
+         <rdg wit="CAO-M"> Manus sanctus Paulus vas electionis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> vere digne est glorificandus</rdg>
+         <rdg wit="CAO-C CAO-V CAO-L"> vere digne est glorificatus</rdg>
+      </app> qui et meruit thronum duodecimum possidere</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">In regeneratione cum sederit filius hominis
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> in sede maiestatis suae</rdg>
+            <rdg wit="CAO-V"> in sede maiestati suae</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

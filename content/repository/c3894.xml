@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3893" nextid="c3895" id="c3894">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Nolite iudicare ut non iudicemini</rdg>
+         <rdg wit="CAO-L"> Nolite iudicare et non iudicabimi</rdg>
+      </app> in quo enim iudicio iudicaveritisc
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> iudicabimini dicit dominus</rdg>
+         <rdg wit="CAO-L"> iudicabimini</rdg>
+      </app>
+   </aBody>
+</ant>

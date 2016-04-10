@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5337" nextid="c5339" id="c5338">
+   <header>
+      <usage ms="Ely" code="01042000">[15r] lauds-a4</usage>
+      <usage ms="Evm" code="01037009">[21v] lauds-a1</usage>
+      <usage ms="Wcb" code="01046000">[51r] lauds-a1</usage>
+      <usage ms="Wor" code="01037000">[10r] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C Evm Ely Wor Wcb Pet"> Veniet dominus
+     <app>
+         <rdg wit="CAO-C Ely Wcb"> in potestate magna</rdg>
+         <rdg wit="Evm Wor Pet"> cum potestate magna</rdg>
+      </app>
+      <app>
+         <rdg wit="Evm Ely Wor Wcb Pet"> et videbit eum omnis caro et salvabit nos</rdg>
+         <rdg wit="CAO-C"> et videbit eum omnis caro</rdg>
+      </app>
+   </aBody>
+</ant>

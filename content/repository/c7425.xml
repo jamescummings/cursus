@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7424" nextid="c7426" id="c7425">
+   <header>
+      <usage ms="Hyd" code="10100000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Praeparate corda vestra
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> domino</rdg>
+         <rdg wit="CAO-C"> a domino</rdg>
+      </app> et servite illi soli
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> et liberabit vos</rdg>
+         <rdg wit="CAO-C CAO-S CAO-L Hyd"> et liberavit vos</rdg>
+      </app> de manibus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> inimicorum vestrorum</rdg>
+         <rdg wit="CAO-V"> inimicorum meorum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> Auferte deos alienos de medio vestri</vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Convertimini
+      <app>
+            <rdg wit="CAO-S CAO-L"> ad eum</rdg>
+            <rdg wit="CAO-F"> ad deum</rdg>
+         </app> in toto corde vestro et auferte deos alienos de medio vestri</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">Et liberabit</rep>
+      <rep type="r" wit="CAO-C CAO-S CAO-L Hyd"> Et liberavit</rep>
+   </verses>
+</res>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6115" nextid="c6117" id="c6116">
+   <rBody wit="CAO-E CAO-S"> Apparuit Thomae dominus in visu noctis dicens ei ne timeas descendere in Indiam quia
+     <app>
+         <rdg wit="CAO-E"> ego te non derelinquo</rdg>
+         <rdg wit="CAO-S"> ego non te derelinquam</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Domine mitte me ubi vis praeter <sic resp="Hesbert">aliunde</sic> et dixit dominus ad eum</vBody>
+      <vBody type="r" wit="CAO-E"> Domine quovis mitte me praeter ad Indos et respondens dominus dixit</vBody>
+      <rep type="r" wit="CAO-E CAO-S">Ne timeas</rep>
+   </verses>
+</res>

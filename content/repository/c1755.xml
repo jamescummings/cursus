@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1754" nextid="c1756" id="c1755">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd"> Caminus ardebat septies
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-H CAO-R CAO-D Hyd"> quam solebat</rdg>
+         <rdg wit="CAO-V"> quam solebant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R Hyd"> et pueri tui domine</rdg>
+         <rdg wit="CAO-M"> ut pueri tui domine</rdg>
+         <rdg wit="CAO-D"> et sancti tui domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-H CAO-R CAO-D Hyd"> in medio psallebant</rdg>
+         <rdg wit="CAO-V"> in medio flammarum</rdg>
+      </app> Ananias dicebat sanctus deus Azarias psallebat sanctus fortis Misael
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R Hyd"> voce magna</rdg>
+         <rdg wit="CAO-D"> una voce</rdg>
+      </app> clamabat
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd"> sanctus et immortalis</rdg>
+         <rdg wit="CAO-G"> sancte immortalis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-D"> miserere nobis</rdg>
+         <rdg wit="CAO-E"> miserere nobis alleluia</rdg>
+         <rdg wit="CAO-M CAO-V CAO-H CAO-R Hyd"> alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

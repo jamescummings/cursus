@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1379" nextid="c1380b" id="c1380">
+   <header>
+      <usage ms="Alb2" code="07032000"/>
+      <usage ms="Bat" code="07032000">[55r] lauds gosp</usage>
+      <usage ms="Cdm" code="07032000">[65v] lauds gosp</usage>
+      <usage ms="Cht" code="07032000"/>
+      <usage ms="Ely" code="07032000"/>
+      <usage ms="Evm" code="07032000"/>
+      <usage ms="Glo" code="07032000"/>
+      <usage ms="Hyd" code="07032000"/>
+      <usage ms="Mch" code="07032000">[133r] lauds gosp</usage>
+      <usage ms="Pet" code="07032000"/>
+      <usage ms="Wcb" code="07032000"/>
+      <usage ms="Wor" code="07032000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch Bat"> Amen dico vobis</rdg>
+         <rdg wit="Wcb"> Amen amen dico vobis</rdg>
+      </app> quia nemo propheta
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Hyd Pet Evm Wcb Alb2 Mch Bat"> acceptus est</rdg>
+         <rdg wit="CAO-C CAO-V Wor Cdm"> susceptus est</rdg>
+      </app> in patria sua</aBody>
+   <aBody wit="Glo" type="incipit">Amen dico vobis quia nemo propheta</aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2422" nextid="c2423b" id="c2423">
+   <header>
+      <usage ms="Alb2" code="01041000">[20r] lauds-a3</usage>
+      <usage ms="Bat" code="01041000">[13r] lauds-a4</usage>
+      <usage ms="Cdm" code="01041000">[19r] lauds-a4</usage>
+      <usage ms="Ely" code="01041000">[14v] lauds-a4</usage>
+      <usage ms="Ely" code="02122400">[16r] matins-n1-a1</usage>
+      <usage ms="Evm" code="01041000">[24v] lauds-a4</usage>
+      <usage ms="Hyd" code="01041000">[14r] lauds-a4</usage>
+      <usage ms="Mch" code="01041000">[19r] lauds-a3</usage>
+      <usage ms="Pet" code="01041000">[12r] lauds-a4</usage>
+      <usage ms="Wcb" code="01041000">[49v] lauds-a4</usage>
+      <usage ms="Wor" code="01036000">[9v] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Dominus veniet occurrite illi dicentes magnum principium et regni eius non erit finis deus fortis dominator princeps pacis alleluia alleluia</aBody>
+</ant>

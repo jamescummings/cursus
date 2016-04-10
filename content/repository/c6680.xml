@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6679" nextid="c6681" id="c6680">
+   <header>
+      <usage ms="Cdm" code="02122800">[29v] lauds</usage>
+      <usage ms="Evm" code="02122800">[49r] lauds</usage>
+      <usage ms="Hyd" code="02122800">[27v] lauds</usage>
+      <usage ms="Pet" code="02010400">[32r] vesp2</usage>
+      <usage ms="Wcb" code="02122800">[65r] lauds</usage>
+      <usage ms="Wor" code="02122800">[23v] lauds</usage>
+   </header>
+   <rBody wit="Hyd Evm Wcb Cdm Wor Pet"> Ex ore infantium simul et lactantium</rBody>
+   <rBody wit="CAO-V"> Ex ore infantium et lactantium deus perfecisti laudem propter inimicos tuos domine deus noster</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Evm Wcb Cdm Wor Pet"> Perfecisti laudem domine deus</vBody>
+      <vBody type="r" wit="CAO-V">Quoniam elevata est magnificentia tua super caelos</vBody>
+      <rep type="r" wit="CAO-V">Domine</rep>
+      <dox type="r" wit="Evm Wcb">Gloria</dox>
+   </verses>
+</res>

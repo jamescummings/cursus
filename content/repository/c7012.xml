@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7011" nextid="c7013" id="c7012">
+   <header>
+      <usage ms="Hyd" code="08011000">[99v] matins-n3-r10</usage>
+      <usage ms="Hyd" code="08014000">[103v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Isti sunt agni novelli qui annuntiaverunt alleluia modo venerunt
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> ad fontes</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> ad fontem</rdg>
+      </app> repleti sunt
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F Hyd"> claritate</rdg>
+         <rdg wit="CAO-E CAO-V CAO-S CAO-L"> claritatem</rdg>
+      </app> alleluia alleluia</rBody>
+   <verses>
+      <vBody id="c7012-1" type="r" wit="CAO-C"> Ecce praecedet vos in Galilaeam ibi eum videbitis sicut dixit vobis</vBody>
+      <rep corresp="c7012-1" type="r" wit="CAO-C">Modo</rep>
+      <vBody id="c7012-2" type="r" num="2" wit="CAO-C"> In omnem terram exivit sonus eorum</vBody>
+      <rep corresp="c7012-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Hyd"> In conspectu agni
+       <app>
+            <rdg wit="CAO-D CAO-F CAO-S Hyd"> amicti</rdg>
+            <rdg wit="CAO-G CAO-L"> amicti sunt</rdg>
+         </app> stolis albis et palmae in manibus eorum</vBody>
+      <rep type="r" wit="CAO-G CAO-F CAO-L">Modo</rep>
+      <rep type="r" wit="CAO-D Hyd"> Repleti</rep>
+      <vBody type="r" wit="CAO-V CAO-R"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum</vBody>
+      <vBody type="r" wit="CAO-B CAO-H"> In omnem terram</vBody>
+      <rep type="r" wit="CAO-B CAO-V"> Modo</rep>
+      <rep type="r" wit="CAO-R"> Repleti</rep>
+      <vBody id="c7012-4" type="r" wit="CAO-E"> Ecce praecedet vos in Galilaeam ibi eum videbitis sicut dixit vobis</vBody>
+      <rep corresp="c7012-4" type="r" wit="CAO-E">Modo</rep>
+      <vBody id="c7012-3" type="r" num="2" wit="CAO-V"> Ecce praecedet vos</vBody>
+      <rep corresp="c7012-3" type="r" wit="CAO-V">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-V</note>
+      </rep>
+      <vBody id="c7012-5" type="r" num="2" wit="CAO-H"> Ecce praecedet vos in Galilaeam ibi eum videbitis sicut dixit vobis</vBody>
+      <rep corresp="c7012-5" type="r" wit="CAO-H">Modo</rep>
+   </verses>
+</res>

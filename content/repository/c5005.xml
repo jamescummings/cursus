@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5004" nextid="c5006" id="c5005">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> Spiritus sanctus docebit vos alleluia</rdg>
+         <rdg wit="CAO-F"> Spiritus sanctus docebit vos omnia alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-L"> quaecumque dixero vobis alleluia</rdg>
+         <rdg wit="CAO-M CAO-H CAO-S"> quaecumque dixero vobis alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

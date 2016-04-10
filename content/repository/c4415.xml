@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4414" nextid="c4416" id="c4415">
+   <header>
+      <usage ms="Alb2" code="07061000">[105v] prime</usage>
+      <usage ms="Cdm" code="07061000">[75r] prime</usage>
+      <usage ms="Cht" code="07061000">[55v] lauds</usage>
+      <usage ms="Ely" code="07061000">[85v] matins-n3</usage>
+      <usage ms="Evm" code="07061000">[142v] matins-n3</usage>
+      <usage ms="Glo" code="07061000">[72v] prime</usage>
+      <usage ms="Hyd" code="07062000">[92r] lauds</usage>
+      <usage ms="Mch" code="07061000">[154v] sext</usage>
+      <usage ms="Wcb" code="07061000">[112r] matins-n3</usage>
+      <usage ms="Wor" code="07061000">[56v] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Glo Alb2 Cdm Mch"> Pueri Hebraeorum tollentes ramos olivarum obviaverunt domino clamantes et dicentes hosanna in excelsis</aBody>
+</ant>

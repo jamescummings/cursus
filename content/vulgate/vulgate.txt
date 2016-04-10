@@ -1,0 +1,9 @@
+
+This file contains and XML encoded version of 
+St Jerome's Vulgate. These files are intended 
+for CURSUS use in providing standardised biblical 
+readings for our manuscript files and are provided 
+here on an as-is basis.
+
+-CURSUS Project
+James.Cummings@it.ox.ac.uk

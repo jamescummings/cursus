@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7882" nextid="c7884" id="c7883">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Vidisti domine et exspectasti agonem meum quomodo pugnavi in stadio
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> sed quia</rdg>
+         <rdg wit="CAO-B"> et quia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> nolui obedire</rdg>
+         <rdg wit="CAO-G"> volui obedire</rdg>
+         <rdg wit="CAO-V"> voluit obedire</rdg>
+      </app> mandatis principum iussa sum
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-R CAO-S CAO-L"> in mamilla torqueri</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-D"> in mamillas torqueri</rdg>
+         <rdg wit="CAO-F"> in mamillam torqueri</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Propter veritatem et mansuetudinem et iustitiam</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Iussa</rep>
+   </verses>
+</res>

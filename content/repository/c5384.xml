@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5383" nextid="c5385" id="c5384">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R"> Videns dominus civitatem Jerusalem</rdg>
+         <rdg wit="CAO-V CAO-L"> Videns Jesus civitatem Jerusalem</rdg>
+      </app> flevit super illam dicens
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R"> quia si cognovisses quae ad pacem tibi</rdg>
+         <rdg wit="CAO-C CAO-L"> quia si cognovisses et tu quae ad pacem tibi sunt</rdg>
+      </app> nunc autem abscondita sunt ab oculis tuis</aBody>
+</ant>

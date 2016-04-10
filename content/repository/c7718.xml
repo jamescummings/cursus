@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7717b" nextid="c7718b" id="c7718">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Summae trinitati</rdg>
+         <rdg wit="CAO-V"> Summae trinitatis</rdg>
+      </app> simplici deo una divinitas aequalis gloria
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> coaeterna</rdg>
+         <rdg wit="CAO-E"> quo aeterna</rdg>
+      </app> maiestas patri prolique sanctoque
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-D CAO-F CAO-S CAO-L Hyd"> flamini</rdg>
+         <rdg wit="CAO-V"> flaminis</rdg>
+         <rdg wit="CAO-H CAO-R"> pneumati</rdg>
+      </app> qui totum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> subdit</rdg>
+         <rdg wit="CAO-M"> subdidit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> suis</rdg>
+         <rdg wit="CAO-E"> sibi</rdg>
+      </app> orbem legibus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Praestet nobis gratiam deitas
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> beata</rdg>
+            <rdg wit="CAO-E CAO-M CAO-V"> beatam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S"> patris ac nati</rdg>
+            <rdg wit="CAO-V"> patri ac nati</rdg>
+            <rdg wit="CAO-L Hyd"> patri et nati</rdg>
+            <rdg wit="CAO-F"> patris et nati</rdg>
+         </app> pariterque
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> spiritus almi</rdg>
+            <rdg wit="CAO-L"> spiritus alme</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Qui totum</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1698" nextid="c1700" id="c1699">
+   <aBody wit="CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-R CAO-H"> Benedicite domino omnes virtutes eius</rdg>
+         <rdg wit="CAO-F"> Benedicite dominum omnes angeli eius</rdg>
+      </app> benedicite ministri eius qui facitis voluntatem eius
+     <app>
+         <rdg wit="CAO-H CAO-R"> benedicite domino</rdg>
+         <rdg wit="CAO-F"> benedicite dominum</rdg>
+      </app>
+   </aBody>
+</ant>

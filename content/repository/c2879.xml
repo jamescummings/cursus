@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2878" nextid="c2880" id="c2879">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Filii hominum scitote</rdg>
+         <rdg wit="CAO-C"> Fili hominum scitote</rdg>
+      </app> quia dominus
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L"> sanctum suum</rdg>
+         <rdg wit="CAO-M CAO-H CAO-R"> sanctos suos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> mirificavit</rdg>
+         <rdg wit="CAO-S"> mirificabit</rdg>
+      </app>
+   </aBody>
+</ant>

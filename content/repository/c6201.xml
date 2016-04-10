@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6200" nextid="c6202" id="c6201">
+   <rBody wit="CAO-E CAO-D CAO-F"> Beatus Dei athleta Vincentius horrendo clausus ergastulo carceris psalmum Deo et hymnum angelorum frequentia relevatus laetus dicebat quorum vallatus<app>
+         <rdg wit="CAO-D CAO-F"> caterva</rdg>
+         <rdg wit="CAO-E"> catervis</rdg>
+      </app> venerando fovebatur obsequio et mulcebatur alloquio</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F">Dantur ergo laudes Deo altissimo et resonante organo
+       <app>
+            <rdg wit="CAO-E CAO-D"> vocis angelicae</rdg>
+            <rdg wit="CAO-F"> angelicae vocis</rdg>
+         </app> modulata suavitas procul diffunditur</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F">Quorum</rep>
+   </verses>
+</res>

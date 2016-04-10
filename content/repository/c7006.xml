@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7005" nextid="c7007" id="c7006">
+   <rBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iste homo ab adolescentia sua
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-F"> partim</rdg>
+         <rdg wit="CAO-E CAO-H CAO-D"> partem</rdg>
+         <rdg wit="CAO-C CAO-S"> parti</rdg>
+         <rdg wit="CAO-L"> parte</rdg>
+      </app> meruit infirmos curare dedit illi dominus claritatem
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> magnam</rdg>
+         <rdg wit="CAO-V"> magna</rdg>
+      </app> caecos illuminare et daemones effugare</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Ecce homo sine querela verus Dei cultor
+       <app>
+            <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> abstinens se</rdg>
+            <rdg wit="CAO-E"> se abstinens</rdg>
+            <rdg wit="CAO-V">
+               <sic resp="Hesbert">abstinent</sic> se</rdg>
+         </app> ab omni opere malo et permanens
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> in innocentia sua</rdg>
+            <rdg wit="CAO-F"> in innocentiam suam</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Dedit</rep>
+   </verses>
+</res>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3137" nextid="c3139" id="c3138">
+   <aBody wit="CAO-C CAO-V CAO-L">
+      <app>
+         <rdg wit="CAO-C"> Hortus conclusus est dei genitrix hortus conclusus</rdg>
+         <rdg wit="CAO-L"> Hortus conclusus dei genitrix hortus conclusus</rdg>
+         <rdg wit="CAO-V"> Hortus conclusus est dei genitrix hortus conclusus est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> et fons signatus</rdg>
+         <rdg wit="CAO-C"> fons signatus</rdg>
+         <rdg wit="CAO-V"> et fons signatum</rdg>
+      </app>
+   </aBody>
+</ant>

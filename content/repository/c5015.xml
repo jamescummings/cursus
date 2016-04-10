@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5014" nextid="c5016" id="c5015">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Bat" code="06031000">[46r] vesp2-a1</usage>
+      <usage ms="Cdm" code="06031000">vesp2</usage>
+      <usage ms="Cht" code="06031000"/>
+      <usage ms="Ely" code="06031000"/>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Glo" code="06031000">[57v] vesp2</usage>
+      <usage ms="Hyd" code="06031000"/>
+      <usage ms="Mch" code="06031000">[109r] vesp2 gosp</usage>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[90v] vesp2</usage>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-M CAO-V CAO-F CAO-S CAO-L Hyd Cht Wor Alb2 Pet Ely Evm Wcb Glo Cdm Mch Bat"> Stans autem Jesus iussit caecum adduci ad se et ait illi quid vis faciam tibi domine ut videam
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-F CAO-S CAO-L Hyd Cht Wor Alb2 Pet Ely Cdm"> et Jesus ait illi</rdg>
+         <rdg wit="Evm Mch Bat"> at Jesus ait illi</rdg>
+         <rdg wit="Wcb Glo"> at Jesus dixit ei</rdg>
+         <rdg wit="CAO-V"> et Jesus dixit illi</rdg>
+      </app> respice fides tua te salvum fecit et confestim vidit
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-F CAO-S CAO-L Alb2"> et sequebatur illum magnificans deum</rdg>
+         <rdg wit="CAO-M Hyd Cht Wor Pet Ely Cdm Mch Bat"> et sequebatur eum magnificans deum</rdg>
+         <rdg wit="Evm Wcb Glo"> et secutus est eum magnificans deum</rdg>
+         <rdg wit="CAO-V"> et secutus est illud magnificans deum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6174" nextid="c6176" id="c6175">
+   <rBody wit="CAO-C CAO-B CAO-R CAO-D CAO-F"> Beati estis sancti Dei omnes qui meruistis consortes fieri caelestium virtutum et perfrui aeternae claritatis
+      <app>
+         <rdg wit="CAO-B CAO-D">gloria</rdg>
+         <rdg wit="CAO-C CAO-R">gloriae</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="gloriae">gloria</corr>
+         </rdg>
+      </app> ideoque precamur ut memores nostri intercedere dignemini pro nobis
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-F"> ad Dominum Deum nostrum</rdg>
+         <rdg wit="CAO-B">ad dominum Jesum Christum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R CAO-D"> Gaudete et exsultate omnes sancti
+       <app>
+            <rdg wit="CAO-B CAO-R">quoniam</rdg>
+            <rdg wit="CAO-D">quia</rdg>
+         </app> nomina vestra scripta sunt in caelis</vBody>
+      <vBody type="r" wit="CAO-E CAO-F CAO-C"> Gaudete et
+       <app>
+            <rdg wit="CAO-E">exsultate quoniam</rdg>
+            <rdg wit="CAO-F CAO-C">exsultate ecce enim</rdg>
+         </app> merces vestra
+       <app>
+            <rdg wit="CAO-E CAO-F">multa est</rdg>
+            <rdg wit="CAO-C">multa</rdg>
+         </app> in caelo</vBody>
+      <rep type="r" wit="CAO-B CAO-R CAO-D CAO-F">Ideoque</rep>
+   </verses>
+</res>

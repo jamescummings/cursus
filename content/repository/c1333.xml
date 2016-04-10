@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1332" nextid="c1334" id="c1333">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Hyd" code="08021000">prime</usage>
+   </header>
+   <aBody wit="CAO Hyd"> Alleluia alleluia alleluia alleluia alleluia alleluia alleluia alleluia</aBody>
+</ant>

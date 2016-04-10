@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3179" nextid="c3180b" id="c3180">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Illo quoque negante iussit afferri sibi infantem cumque oblatus fuisset
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> triginta ab ortu habens dies</rdg>
+         <rdg wit="CAO-C"> triginta ab ortu dies habens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-F"> ait ad eum Briccius</rdg>
+         <rdg wit="CAO-H"> dixit ad eum Briccius</rdg>
+      </app> adiuro te per deum ut si ego te generavi
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F"> coram cunctis edicas</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V"> coram cunctis et dicas</rdg>
+         <rdg wit="CAO-M"> coram cunctis haec dicas</rdg>
+      </app>
+   </aBody>
+</ant>

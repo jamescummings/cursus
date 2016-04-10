@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3205" nextid="c3207" id="c3206">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D"> In camino ignis ardentis pueri tres
+     <app>
+         <rdg wit="CAO-V CAO-H CAO-R"> et in medio eorum deambulabat rex</rdg>
+         <rdg wit="CAO-E"> et in medio illorum deambulabat rex</rdg>
+         <rdg wit="CAO-D"> et in medio eorum deambulabant rex</rdg>
+         <rdg wit="CAO-C"> et in medio eorum deus erat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D"> una voce dicebant</rdg>
+         <rdg wit="CAO-V"> uno ore clamantes</rdg>
+      </app> benedictus es deus</aBody>
+</ant>

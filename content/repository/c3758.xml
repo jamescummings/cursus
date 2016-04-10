@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3757" nextid="c3759" id="c3758">
+   <aBody wit="CAO-E CAO-V CAO-S CAO-L"> Migdonia cum nollet virum suum
+     <app>
+         <rdg wit="CAO-E CAO-S"> ille autem a rege impetravit</rdg>
+         <rdg wit="CAO-L"> ille autem a rege imperavit</rdg>
+         <rdg wit="CAO-V"> rege autem iussit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> ut apostolum in carcerem mitteretur</rdg>
+         <rdg wit="CAO-V"> ut apostolum in carcere mitteretur</rdg>
+         <rdg wit="CAO-S CAO-L"> ut apostolus in carcere mitteretur</rdg>
+      </app>
+   </aBody>
+</ant>

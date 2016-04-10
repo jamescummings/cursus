@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2103" nextid="c2105" id="c2104">
+   <header>
+      <usage ms="Alb2" code="01022000">[10v] lauds gosp</usage>
+      <usage ms="Bat" code="01022000">[7v] lauds gosp</usage>
+      <usage ms="Cdm" code="01022000">[13v] lauds gosp</usage>
+      <usage ms="Ely" code="01022000">[8v] lauds gosp</usage>
+      <usage ms="Evm" code="01022000">[15v] lauds gosp</usage>
+      <usage ms="Glo" code="01022000">[13r] lauds gosp</usage>
+      <usage ms="Hyd" code="01022000">[9r] lauds gosp</usage>
+      <usage ms="Mch" code="01022000">[9r] lauds gosp</usage>
+      <usage ms="Wcb" code="01022000">[45v] lauds gosp</usage>
+      <usage ms="Wor" code="01022000">[6r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat"> De caelo veniet dominator dominus et in manu eius
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Mch Cdm Ely Wor Wcb Glo Bat"> honor et imperium</rdg>
+         <rdg wit="Alb2"> potestas et imperium</rdg>
+      </app>
+   </aBody>
+</ant>

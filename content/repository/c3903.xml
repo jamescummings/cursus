@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3902" nextid="c3904" id="c3903">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-L"> Non cessabant ministri regis succendentes flammam</rdg>
+         <rdg wit="CAO-C CAO-E"> Non cessabant ministri regis succedentes flammam</rdg>
+         <rdg wit="CAO-H CAO-R"> Non cessabant ministri regis succendere flammas</rdg>
+         <rdg wit="CAO-V"> Non cessabant ministri regis succedentes flammas</rdg>
+         <rdg wit="CAO-F"> Non cessabant ministri regis succendentes flammas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F"> ut sanctos dei pueros comburerent</rdg>
+         <rdg wit="CAO-M"> ut sanctos dei martyres comburerent</rdg>
+         <rdg wit="CAO-D"> ut sanctos dei pueros comburent</rdg>
+         <rdg wit="CAO-L"> ut sanctos dei pueros combureret</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-R CAO-D CAO-F CAO-L"> de caelo venit</rdg>
+         <rdg wit="CAO-M CAO-H"> e caelo venit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> tamquam spiritus roris flantis</rdg>
+         <rdg wit="CAO-E"> tamquam spiritum roris flantis</rdg>
+         <rdg wit="CAO-M"> tamquam spiritum roris flantes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-F"> refrigerium praestabat sanctis alleluia</rdg>
+         <rdg wit="CAO-M"> refrigerium praestabant sanctus alleluia</rdg>
+         <rdg wit="CAO-V"> refrigerium praestabant sanctis alleluia</rdg>
+         <rdg wit="CAO-L"> refrigerium praestabant sanctus alleluia alleluia</rdg>
+         <rdg wit="CAO-C"> refrigerium praestabat sanctis</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3135" nextid="c3137" id="c3136">
+   <aBody wit="CAO-M CAO-L">
+      <app>
+         <rdg wit="CAO-M"> Hortus conclusus est dei genitrix hortus conclusus</rdg>
+         <rdg wit="CAO-L"> Hortus conclusus es dei genitrix hortus conclusus es</rdg>
+      </app> et fons signatus
+     <app>
+         <rdg wit="CAO-M"> surge propera amica mea</rdg>
+         <rdg wit="CAO-L"> surge amica mea</rdg>
+      </app> quam pulchra es et decora oculi tui columbarum</aBody>
+</ant>

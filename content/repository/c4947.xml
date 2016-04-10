@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4946b" nextid="c4948" id="c4947">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C"> Signavit dominus Petro</rdg>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Significavit dominus Petro</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> qua morte clarificaturus esset deum alleluia</rdg>
+         <rdg wit="CAO-V"> qua morte clarificaturus esse deum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

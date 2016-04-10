@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6935" nextid="c6937" id="c6936">
+   <rBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R"> In servis suis alleluia consolabitur deus alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> Iudicabit dominus populum suum et in servis suis</vBody>
+      <rep type="r" wit="CAO-B CAO-M CAO-V CAO-H CAO-R">Consolabitur</rep>
+      <vBody type="r" wit="CAO-C"> Loquebantur variis linguis apostoli magnalia Dei</vBody>
+   </verses>
+</res>

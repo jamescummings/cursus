@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6610" nextid="c6612" id="c6611">
+   <header>
+      <usage ms="Alb2" code="07065000">[109r] matins-n3-r8</usage>
+      <usage ms="Evm" code="07065000">[148v] matins-n2-r5</usage>
+      <usage ms="Wcb" code="07065000">[115r] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-H CAO-L Evm Wcb Alb2"> Ecce turba et qui vocabatur Judas venit
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H Evm Wcb Alb2"> et dum appropinquaret ad Jesum</rdg>
+         <rdg wit="CAO-L"> et cum appropinquaret ad Jesum</rdg>
+      </app> ut eum oscularetur Jesus dixit ad eum Juda osculo tradis filium hominis ad crucifigendum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-H Evm Wcb Alb2"> Filius quidem hominis vadit sicut scriptum est
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-E Evm Alb2"> de illo</rdg>
+            <rdg wit="CAO-H Wcb"> de eo</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-H Evm Wcb Alb2"> vae autem</rdg>
+            <rdg wit="CAO-C"> vae</rdg>
+         </app> homini illi per quem tradetur</vBody>
+      <vBody type="r" wit="CAO-L"> Et confestim accedens ad Jesum osculatus est eum dixitque illi Jesus</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-H Evm Wcb Alb2">Ad crucifigendum</rep>
+      <rep type="r" wit="CAO-G CAO-L">Juda</rep>
+   </verses>
+</res>

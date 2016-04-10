@@ -1,0 +1,3115 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE CURSUS PUBLIC "-//TEI P3//DTD Main Document Type//EN" "../dtd/tei2.dtd" [<!ENTITY % TEI.prose  "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "../dtd/cursus.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "../dtd/cursus.dtd">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE"><!ENTITY % TEI.header "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE"><!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY title 'A diurnal/antiphoner of the Use of the Abbey of St Peter, Gloucester (Oxford, Bodleian Library Ms Jesus College 10)'>
+<!ENTITY subtitle 'An electronic edition of Oxford, Bodleian Library Ms Jesus College 10'>
+<!ENTITY classMark 'Oxford, Bodleian Library Ms Jesus College 10'>
+<!ENTITY publisher '[Original Publisher]'> <!ENTITY pubPlace '[Original PubPlace, i.e. Provenance]'>
+<!ENTITY folios '? Folios'> <!ENTITY filesize '(1 file : ca. 0 Kb)'>
+<!ENTITY pubDate  '[Date or estimated Date of Composition/publication]'><!ENTITY author 'Unknown'>
+<!ENTITY creationDate '<date value="2001-09-23">12 December, 2000</date>'>
+<!ENTITY versionDate '<date value="2006-04-24">Monday 24 April 2006</date>'>
+<!ENTITY changes '<change><date value="date"><!-- DATE --></date><respStmt><name>David Chadd</name><resp>encoding</resp></respStmt><item><!-- Description of Change --></item></change>'>
+]>
+<CURSUS> &teiHeader;
+<!-- *********************END OF HEADER ********************* -->
+
+  <text n="Glo">
+    <body>
+
+      <gap desc="liturgical calendar" reason="not yet encoded" extent="6 folios"/>
+      <milestone n="7r" unit="page"/>
+<!--
+* Advent
+ -->
+<!--
+**  Sunday 1
+ -->
+      <Day num="1" code="01011000">
+        <rubric type="dayTitle">Sabbato primo adventus domini</rubric>
+<!--
+***   First Vespers
+ -->
+        <service name="vesp1">
+          <rubric type="general">incipietur responsorium istud a duobus ebdomadariis &punctus; </rubric>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c6583)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c6583)"/>
+            </hi>
+          </respond>
+          <hymn>&Y;
+            <hVerse num="1"><l>Conditor alme siderum</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="2"><l>Qui condolens interitu</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="3"><l>Vergente mundi vespere</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+<milestone n="7v" unit="page"/>
+            <hVerse num="4"><l>Cuius forti potentiae</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="5"><l>Te deprecamur agie</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="6"><l>Laus honor virtus gloria</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+          </hymn>
+          <incipit type="versicle">&V; Rorate caeli desuper &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2527)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+        <gap desc="rubric on coincidence suring advent, and cues for antiphons for commemoration of BVM at Vespers and Matins" reason="not encoded" resp="DC"/>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3967)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Beati immaculati &punctus;</hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2671)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Legem &punctus;</hi></incipit>
+        </service>
+<!--
+***   Procession
+ -->
+        <service name="procession"><note type="editorial" resp="DC">procession inferential but likely</note>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3792)"/></hi></antiphon>
+          <rubric type="general">ad ingressum</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce dies veniunt &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2201)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Portio &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Memento nostri domine in beneplacito populi tui &punctus; </incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2809)"/></hi></antiphon>
+<milestone n="8r" unit="page"/>
+          <incipit type="psalm"><hi rend="music">&P; Defecit &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Domine deus virtutum &punctus; </incipit>
+        </service>
+<!--
+***   Second Vespers
+ -->
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus domino &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Donec ponam &punctus;</hi></incipit>
+          <incipit type="antiphon" init="F">&A; <hi rend="music"> Fidelia omnia &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Confitebor &punctus;</hi></incipit>
+          <incipit type="antiphon" init="I">&A; <hi rend="music"> In mandatis &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Beatus vir &punctus;</hi></incipit>
+          <incipit type="antiphon" init="S">&A; <hi rend="music"> Sit nomen &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c7823)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c7823)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music">Conditor alme &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Rorate caeli desuper &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3863)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+        <gap desc="extensive material for St Andrew" reason="not yet encoded" resp="DC"/>
+<milestone n="8v" unit="page"/>
+<milestone n="9r" unit="page"/>
+<milestone n="9v" unit="page"/>
+<milestone n="10r" unit="page"/>
+<milestone n="10v" unit="page"/>
+<milestone n="11r" unit="page"/>
+'<!--
+**  Monday
+ -->
+      <Day num="2" code="01012000">
+        <rubric type="dayTitle">Feria secunda &punctus; </rubric>
+<!--
+***   Matins
+ -->
+        <service name="matins">
+          <incipit type="invitatory" init="R">&I; <hi rend="music"> Regem venturum &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Venite &punctus;</hi></incipit>
+          <incipit type="hymn">&Y; <hi rend="music">Verbum supernum &punctus;</hi></incipit>
+<!--
+****    First Nocturn
+ -->
+          <nocturn num="1">
+            <rubric type="nocturnTitle"> In primo nocturno &punctus;</rubric>
+            <incipit type="antiphon" init="R">&A; <hi rend="music"> Rectos decet collaudatio &punctus; </hi></incipit>
+            <incipit type="psalm"><hi rend="music">&P; Exsultate iusti &punctus;</hi></incipit>
+            <incipit type="antiphon" init="E">&A; <hi rend="music"> Expugna &punctus; </hi></incipit>
+            <incipit type="psalm"><hi rend="music">&P; Iudica domine &punctus;</hi></incipit>
+            <incipit type="antiphon" init="S">&A; <hi rend="music"> Spera in domino &punctus; </hi></incipit><!-- NB in Hyde -->
+            <incipit type="psalm"><hi rend="music">&P; Noli aemulare &punctus;</hi></incipit>
+            <incipit type="antiphon" init="N">&A; <hi rend="music"> Ne in ira tua &punctus; </hi></incipit>
+            <incipit type="psalm"><hi rend="music">&P; Domine ne in furore &punctus;</hi></incipit>
+            <incipit type="versicle">&V; Ex Sion species decoris eius &punctus; </incipit>
+            <rubric type="general">Ista responsoria</rubric>
+            <incipit type="respond" init="A">&R; Aspiciebam &punctus; </incipit>
+            <incipit type="respond" init="S">&R; Salvatorem &punctus; </incipit>
+            <incipit type="respond" init="A">&R; Audite verbum domini gentes &punctus; </incipit>
+            <rubric type="general">feria secunda dicentur et alia</rubric>
+            <incipit type="respond" init="A">&R; Aspiciens &punctus; </incipit>
+            <incipit type="respond" init="M">&R; Missus est &punctus; </incipit>
+            <incipit type="respond" init="A">&R; Ave Maria &punctus; </incipit>
+            <rubric type="general">Non dicentur in feriis &punctus; </rubric>
+          </nocturn>
+<!--
+****    Second Nocturn
+ -->
+          <nocturn num="2">
+            <rubric type="nocturnTitle"> In secundo nocturno &punctus;</rubric>
+            <incipit type="antiphon" init="A">&A; <hi rend="music"> Alleluya &punctus; </hi></incipit>
+            <incipit type="psalm"><hi rend="music">&P; Dixi custodi &punctus;</hi></incipit>
+            <incipit type="versicle">&V; Egredietur virga de radice Jesse &punctus; </incipit>
+            <rubric type="general"> &etc; </rubric>
+          </nocturn>
+        </service>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="M">&A; <hi rend="music"> Miserere mei deus &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Secundum misericordiam &punctus;</hi></incipit>
+          <incipit type="antiphon" init="I">&A; <hi rend="music"> Intellige &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Verba mea &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Domine in caelo &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Dixit iniustus &punctus;</hi></incipit>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Conversus est &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Confitebor &punctus;</hi></incipit>
+          <incipit type="antiphon" init="I">&A; <hi rend="music"> In excelsis &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c7728)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c7728)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Vox clara intonat &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Emitte agnum &punctus; </incipit>
+          <incipit type="antiphon" init="A">&AE; <hi rend="music"> Angelus domini &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="S">&A; <hi rend="music"> Servite domino &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Beatus vir &punctus;</hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="A">&A; <hi rend="music"> Adiuva me &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Lucerna &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Timebunt gentes &punctus; </incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="A">&A; <hi rend="music"> Aspice in me &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Mirabilia &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Memento nostri domine &punctus; </incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="F">&A; <hi rend="music"> Fiat manus tua domine &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Vide humilitatem &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Domine deus virtutum &punctus; </incipit>
+        </service>
+        <gap desc="rubric for mass items" reason="not encoded" resp="DC"/>
+<!--
+***   Second Vespers
+ -->
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <incipit type="antiphon" init="F">&A; <hi rend="music"> Facta est Judea &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; In exitu Israel &punctus;</hi></incipit>
+          <incipit type="antiphon" init="I">&A; <hi rend="music"> Inclinavit &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Dilexi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="L">&A; <hi rend="music"> Laudate &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Credidi &punctus;</hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+<milestone n="11v" unit="page"/>
+          <incipit type="antiphon" init="B">&A; <hi rend="music"> Benediximus vobis &punctus; </hi></incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c7823)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c7823)"/>
+            </hi>
+          </respond>
+          <hymn>&Y;
+            <hVerse num="1"><l>Conditor alme siderum</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="2"><l>Qui condolens interitu</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="3"><l>Vergente mundi vespere</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="4"><l>Cuius forti potentiae</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="5"><l>Te deprecamur agie</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+            <hVerse num="6"><l>Laus honor virtus gloria</l><gap reason="not encoded" resp="DC" extent="rest of verse" /></hVerse>
+          </hymn>
+          <incipit type="versicle">&V; Rorate caeli desuper &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3606)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Tuesday
+ -->
+      <Day num="3" code="01013000">
+        <rubric type="dayTitle">Feria tertia &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="Q">&AE; <hi rend="music"> Quaerite dominum dum inveniri &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Benedictus &punctus;</hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music">
+<xptr href="Antiphons" type="aBody" from="ID(c2675)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Wednesday
+ -->
+      <Day num="4" code="01014000">
+        <rubric type="dayTitle">Feria quarta &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> De Sion exibit lex &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5229)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Thursday
+ -->
+      <Day num="5" code="01015000">
+        <rubric type="dayTitle">Feria quinta &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="B">&A; <hi rend="music"> Benedicta tu in mulieribus &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1574)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Friday
+ -->
+      <Day num="6" code="01016000">
+        <rubric type="dayTitle">Feria sexta &punctus; </rubric>
+        <service name="lauds">
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2549)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<milestone n="12r" unit="page"/>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2743)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Saturday
+ -->
+      <Day num="7" code="01017000">
+        <rubric type="dayTitle">Sabbato &punctus; </rubric>
+        <service name="lauds">
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4969)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <rubric type="general">De sancta Maria</rubric>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c6155)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c6155)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Ave maris &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Elegit eam deus &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5006)"/></hi></antiphon>
+        </service>
+<!--
+***   Memoria of Advent
+ -->
+        <service name="commemoration"><rubric type="serviceTitle"> Postea dicatur commemoratio de adventu &punctus; </rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ex Aegypto &punctus; </hi></incipit>
+        </service>
+
+
+
+      </Day>
+<milestone n="12v" unit="page"/>
+<!-- 
+**  Sunday 2
+ -->
+      <Day num="1" code="01021000">
+<!--
+***   First Vespers
+ -->
+        <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c7034)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c7034)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Conditor alme &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Rorate caeli desuper &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5321)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+        <gap desc="material for mandatum" reason="not encoded" resp="DC"/>
+        <gap desc="material for mass" reason="not encoded" resp="DC"/>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce virgo concipiet &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Beati &punctus;</hi></incipit>
+          <incipit type="hymn">&Y; <hi rend="music"> Nunc sancte nobis spiritus &punctus;</hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8609)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Legem pone &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Timebunt omnes &punctus; </incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2921)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Portio &punctus;</hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2516)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Defecit &punctus;</hi></incipit>
+        </service>
+<!--
+***   Procession
+ -->
+        <service name="procession"><rubric type="serviceTitle"> Ad processionem &punctus; </rubric>
+<milestone n="13r" unit="page"/>
+          <incipit type="antiphon" init="M">&A; <hi rend="music"> Missus est &punctus; </hi></incipit>
+          <rubric type="general">Ad ingressum chori </rubric>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c7547)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c7547)"/>
+            </hi>
+          </respond>
+          <incipit type="versicle">&V; Emitte agnum &punctus; </incipit>
+        </service>
+        <gap desc="brief material for mass" reason="not encoded" resp="DC"/>
+<!--
+***   Second Vespers
+ -->
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; Dixit dominus &punctus; </incipit><rubric type="general"> &etc; quaere retro &punctus; </rubric>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c7823)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c7823)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Conditor alme siderum &punctus;</hi></incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1565)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Monday
+ -->
+      <Day num="2" code="01022000">
+        <rubric type="dayTitle">Feria secunda &punctus; </rubric>
+        <service name="lauds">
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2104)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2543)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Tuesday
+ -->
+      <Day num="3" code="01023000">
+        <rubric type="dayTitle">Feria tertia &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="S">&AE; <hi rend="music"> Super te Jerusalem &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5506)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Wednesday
+ -->
+      <Day num="4" code="01024000">
+        <rubric type="dayTitle">Feria quarta &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="V">&AE; <hi rend="music"> Veniet fortior me &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4970)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Thursday
+ -->
+      <Day num="5" code="01025000">
+        <rubric type="dayTitle">Feria quinta &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="T">&AE; <hi rend="music"> Tu es qui venturus es domine &punctus; </hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4493)"/></hi></antiphon>
+        </service>
+      </Day>
+<milestone n="13v" unit="page"/>
+<!--
+**  Friday
+ -->
+      <Day num="6" code="01026000">
+        <rubric type="dayTitle">Feria sexta &punctus; </rubric>
+        <service name="lauds"><rubric type="serviceTitle">Matutinis</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2204)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2316)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Saturday
+ -->
+      <Day num="7" code="01027000">
+        <rubric type="dayTitle">Sabbato &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="L">&AE; <hi rend="music"> Levabit dominus signum &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!-- 
+* St Nicholas
+ -->
+      <Day num="1" code="14120600">
+        <rubric type="dayTitle">In festo sancti Nicolai &punctus; </rubric>
+<!--
+***   First Vespers
+ -->
+        <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas coram altare ipsius &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2126)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Dixit dominus &punctus;</hi></incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c6222)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c6222)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Iste confessor &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Ecce sacerdos magnus &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4051)"/></hi></antiphon>
+<milestone n="14r" unit="page"/>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+        <gap desc="mention of memoria of advent" reason="not encoded" resp="DC"/>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="hymn">&Y; <hi rend="music"> Iam lucis orto sidere &punctus;</hi></incipit>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1651)"/>&Ev; </hi></antiphon>
+        </service>
+        <gap desc="rubric about mass" reason="not encoded" resp="DC"/>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2562)"/>&Ev; </hi></antiphon>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3532)"/>&Ev; </hi></antiphon>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4052)"/>&Ev; </hi></antiphon>
+          <incipit type="versicle">&V; Iustus ut palma &punctus; </incipit>
+        </service>
+<!--
+***   Second Vespers
+ -->
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3888)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Dixit dominus &punctus;</hi></incipit>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3049)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Beatus vir &punctus;</hi></incipit>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3469)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4336)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P;  &punctus;</hi></incipit>
+<milestone n="14v" unit="page"/>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4008)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus; &Ev; </hi></incipit>
+        </service>
+      </Day>
+      <gap desc="rubric on co-incidences" reason="not encoded" resp="DC"/>
+<!-- 
+* Conception BVM
+ -->
+      <Day num="1" code="14120800">
+        <rubric type="dayTitle">In conceptione beatae Mariae &punctus; </rubric>
+<!--
+***   First Vespers
+ -->
+        <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas altaris &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3002)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Dixit dominus &punctus;</hi></incipit>
+          <incipit type="psalm">&P; Laetatus sum  &punctus; </incipit>
+          <incipit type="psalm">&P; Nisi dominus &punctus; </incipit>
+          <incipit type="psalm">&P; Memento &punctus; </incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c6024)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c6024)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Ave maris stella &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Elegit eam &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1596)"/></hi></antiphon>
+<milestone n="15r" unit="page"/>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+        <gap desc="rubric for commmoration of advent" reason="not encoded" resp="DC"/>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="hymn">&Y; <hi rend="music"> Iam lucis orto sidere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="H">&A; <hi rend="music"> Hodie concepta est &punctus; &Ev; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="hymn">&Y; <hi rend="music"> Nunc sancte nobis spiritus &punctus;</hi></incipit>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1572)"/>&Ev; </hi></antiphon>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4591)"/>&Ev; </hi></antiphon>
+          <incipit type="versicle">&V; Sicut myrrha &punctus; </incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Corde et animo Christo canamus gloriam &punctus; </hi></incipit>
+        </service>
+<!--
+***   Second Vespers
+ -->
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <incipit type="antiphon" init="G">&A; <hi rend="music"> Gloriose &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Dixit dominus &punctus;</hi></incipit>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Cum iucunditate conceptionem &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laetatus &punctus;</hi></incipit>
+          <incipit type="antiphon" init="H">&A; <hi rend="music"> Hodie concepta est &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Nisi dominus &punctus;</hi></incipit>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Conceptio est gloriose &punctus; </hi></incipit><note type="editorial" resp="DC">Not know to me</note>
+          <incipit type="psalm"><hi rend="music">&P; Memento &punctus;</hi></incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c9515)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c9515)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Ave maris &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Elegit eam &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8619)"/></hi></antiphon>
+<milestone n="15v" unit="page"/>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+        <gap desc="rubric about co-incidence" reason="not encoded" resp="DC"/>
+<!-- 
+**  Sunday 3
+ -->
+      <Day num="1" code="01031000">
+<!--
+***   First Vespers
+ -->
+        <service name="vesp1">
+          <incipit type="antiphon" init="R">&A; <hi rend="music"> Regnum tuum &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Confiteantur &punctus;</hi></incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c6728)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c6728)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Conditor &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Rorate caeli &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1436)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="hymn">&Y; <hi rend="music"> Iam lucis orto sidere &punctus;</hi></incipit>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3459)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Beati immaculati &punctus;</hi></incipit>
+        </service>
+        <gap desc="rubric about mass" reason="not encoded" resp="DC"/>
+<!--
+***   Procession
+ -->
+        <service name="procession"><rubric type="serviceTitle"> Processio &punctus; </rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5354)"/></hi></antiphon>
+<milestone n="16r" unit="page"/>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3993)"/></hi></antiphon>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4090)"/></hi></antiphon>
+          <rubric type="general">ad ingressum chori &punctus; </rubric>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c6587)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c6587)"/>
+            </hi>
+          </respond>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="hymn">&Y; <hi rend="music"> Nunc sancte nobis spiritus &punctus;</hi></incipit>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5349)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Legem pone &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Timebunt gentes &punctus; </incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2525)"/></hi></antiphon>
+<milestone n="16v" unit="page"/>
+          <incipit type="psalm"><hi rend="music">&P; Portio &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Memento nostri domine in beneplacito &punctus; </incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <antiphon>&A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2685)"/></hi></antiphon>
+          <incipit type="psalm"><hi rend="music">&P; Defecit &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Domine deus virtutum &punctus; </incipit>
+        </service>
+<!--
+***   Second Vespers
+ -->
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Donec &punctus;</hi></incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c7790)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c7790)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Conditor alme &punctus;</hi></incipit>
+          <incipit type="versicle">&V; Rorate caeli desuper &punctus; </incipit>
+          <antiphon>&AE; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5209)"/></hi></antiphon>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!-- 
+**  when Dominical Letter is B...
+ -->
+      <rubric type="general">Quando dominicalis littera currit per B Dominica tertia adventus domini</rubric>
+<!-- 
+**  Ember Day: Wednesday
+ -->
+      <Day num="4" code="01034009">
+        <rubric type="dayTitle">Feria quarta ieiunii &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="P">type="antiphon">&A; <hi rend="music"> Prophetae praedicaverunt &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="S">&A; <hi rend="music"> Spiritus domini super me &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Exaudi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="P">&A; <hi rend="music"> Propter Sion &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Te decet &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce veniet dominus ut sedeat &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Exsultavit &punctus;</hi></incipit>
+          <incipit type="antiphon" init="A">&A; <hi rend="music"> Annuntiate populis &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <respond num="1">
+            <hi rend="music">
+              &R; <xptr href="Responds" type="rBody" from="ID(c7343)"/>
+              &V; <xptr href="Responds" type="vBody" from="ID(c7343)"/>
+            </hi>
+          </respond>
+          <incipit type="hymn">&Y; <hi rend="music"> Vox clara &punctus;</hi></incipit>
+          <incipit type="antiphon" init="M">&AE; <hi rend="music"> Missus est Gabriel angelus &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce virgo concipiet &punctus; &Ev; </hi></incipit>
+        </service>
+<milestone n="17r" unit="page"/>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="V">&A; <hi rend="music"> Vocabitur nomen eius &punctus; </hi></incipit>
+          <incipit type="versicle">&V; Timebunt gentes &punctus; </incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dabit ei dominus sedem &punctus; </hi></incipit>
+          <incipit type="versicle">&V; Memento nostri domine in beneplacito &punctus; </incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce ancilla &punctus; </hi></incipit>
+          <incipit type="versicle">&V; Domine deus virtutum &punctus; </incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <incipit type="antiphon" init="E">&AE; <hi rend="music"> Ecce concipies in utero &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Thursday
+ -->
+      <Day num="5" code="01035009">
+        <rubric type="dayTitle">Feria quinta &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds">
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce veniet propheta &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Exsulta satis &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine deus salutis &punctus;</hi></incipit>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Convertere domine &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine refugium &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce deus meus &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Cantemus domino &punctus;</hi></incipit>
+          <incipit type="antiphon" init="S">&A; <hi rend="music"> Sion noli timere &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="V">&AE; <hi rend="music"> Venat iterum &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="P">&A; <hi rend="music"> Ponam in Sion &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Consolamini &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="L">&A; <hi rend="music"> Laetamini cum Jerusalem &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="H">&A; <hi rend="music"> Hoc est testimonium &punctus; </hi></incipit>
+        </service>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <incipit type="antiphon" init="Q">&AE; <hi rend="music"> Quomodo fiet istud angele dei quia virum &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus;</hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Friday
+ -->
+      <Day num="6" code="01036009">
+        <rubric type="dayTitle">Feria sexta &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds">
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> De Sion veniet dominus omnipotens &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> De Sion veniet qui regnaturus est &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Notus in Iudea &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Exspectabo dominum salvatorem meum &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Bonum est &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Deus a Libano veniet &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine audivi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dominus legifer noster &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&AE; <hi rend="music"> Ex quo facta est &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime">
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> De caelo veniet dominator dominus &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce veniet propheta &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="V">&A; <hi rend="music"> Vox clamantis &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="V">&A; <hi rend="music"> Veniet fortior &punctus; </hi></incipit>
+        </service>
+<milestone n="17v" unit="page"/>
+        <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas &punctus;</rubric>
+          <incipit type="antiphon" init="O">&A; <hi rend="music"> O sapientia &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Saturday
+ -->
+      <Day num="7" code="01037009">
+        <rubric type="dayTitle">Sabbato &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="V">&A; <hi rend="music"> Veniet dominus in potestate &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="A">&A; <hi rend="music"> Ad te domine &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine exaudi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Exspectetur sicut pluvia &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Audite caeli &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ego autem ad dominum aspiciam &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="O">&AE; <hi rend="music"> Omnis vallis &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="S">&A; <hi rend="music"> Sion renovaberis &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="T">&A; <hi rend="music"> Tu es qui venturus est domine &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="Q">&A; <hi rend="music"> Qui post me venit &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dicite pusillanimes &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!-- 
+**  Sunday 4 (Dom. Letter B)
+ -->
+      <Day num="1" code="01041000">
+        <service name="lauds">
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Canite <supplied resp="DC">tuba</supplied> &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Monday
+ -->
+      <Day num="2" code="01042000">
+        <rubric type="dayTitle">Feria secunda &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce veniet dominus princeps regum &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dum venerit filius hominis &punctus; </hi></incipit>
+          <incipit type="antiphon" init="V">&A; <hi rend="music"> Verba mea &punctus; </hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce iam veniet plenitudo temporis &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Dixit iniustus &punctus;</hi></incipit>
+          <incipit type="antiphon" init="H">&A; <hi rend="music"> Haurietis aquas in gaudio &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Confitebor &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Egredietur dominus de loco &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&AE; <hi rend="music"> Egredietur virga de radice Iesse &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dicit dominus paenitentiam agite &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="P">&A; <hi rend="music"> Paratus esto Israel &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Consurge &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Elevare &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Tuesday
+ -->
+      <Day num="3" code="01043000">
+        <rubric type="dayTitle">Feria tertia &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="R">&A; <hi rend="music"> Rorate caeli desuper &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Emitte agnum domine &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Iudica me &punctus;</hi></incipit>
+          <incipit type="antiphon" init="U">&A; <hi rend="music"> Ut cognoscamus &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus; iij &punctus; </hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Da mercedem domini &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Ego dixi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="L">&A; <hi rend="music"> Lex per Moysen &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="T">&AE; <hi rend="music"> Tu Bethleem terra Iuda &punctus; </hi></incipit>
+<milestone n="18r" unit="page"/>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="L">&A; <hi rend="music"> Levabit dominus signum &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce veniet deus et homo &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="T">&A; <hi rend="music"> Tuam domine &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Docebit nos &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Wednesday (St Thomas the Apostle)
+ -->
+      <Day num="4" code="01044000">
+        <rubric type="dayTitle">Feria quarta &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="N">&AE; <hi rend="music"> Nolite timere &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Thursday
+ -->
+      <Day num="5" code="01045000">
+        <rubric type="dayTitle">Feria quinta &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds">
+          <incipit type="antiphon" init="V">&A; <hi rend="music"> Veniat iterum &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="I">&A; <hi rend="music"> Intuemini &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine deus &punctus;</hi></incipit>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Convertere domine &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine refugium &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce deus meus &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Cantemus domino &punctus;</hi></incipit>
+          <incipit type="antiphon" init="A">&A; <hi rend="music"> A finibus terrae &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&AE; <hi rend="music"> Estote parati &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dies domini &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce rex venit dominus terrae &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="G">&A; <hi rend="music"> Gaude et laetare &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="H">&A; <hi rend="music"> Hoc est testamentum &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Friday
+ -->
+      <Day num="6" code="01046000">
+        <rubric type="dayTitle">Feria sexta &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Constantes estote &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="P">&A; <hi rend="music"> Paratus esto Israel &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Notus in Israel &punctus;</hi></incipit>
+          <incipit type="antiphon" init="V">&A; <hi rend="music"> Veni domine et noli tardare &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Bonum est &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Deus a Libano &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine audivi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ego autem ad dominum aspiciam &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="V">&AE; <hi rend="music"> Vigilate animo &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="L">&A; <hi rend="music"> Laetamini cum Jerusalem &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dominus veniet occurrite &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="O">&A; <hi rend="music"> Omnipotens <supplied resp="DC">sermo tuus</supplied> &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="G">&A; <hi rend="music"> Gaudete in domino semper &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Saturday (i.e. Christmas Eve)
+ -->
+      <Day num="7" code="01047000">
+        <rubric type="dayTitle">Sabbato &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="O">&A; O Juda et Jerusalem &punctus; </incipit>
+          <rubric type="general">et cetera ut in vigilia</rubric>
+        </service>
+      </Day>
+<!-- 
+**  Sunday 3 when Dominical Letter A (17 December)
+ -->
+      <Day num="1" code="01031000">
+        <rubric type="dayTitle">quando dominicalis littera currit per A Dominica tertia adventus</rubric>
+      </Day>
+<!--
+**  Monday
+ -->
+      <Day num="2" code="01032000">
+        <rubric type="dayTitle">Feria secunda &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce veniet dominus princeps &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dum venerit &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Verba &punctus;</hi></incipit>
+<milestone n="18v" unit="page"/>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce iam veniet &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Dixit iniustus &punctus;</hi></incipit>
+          <incipit type="antiphon" init="H">&A; <hi rend="music"> Haurietis aquas &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Confitebor &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Egredietur dominus de loco &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&AE; <hi rend="music"> Egredietur virga &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dicit dominus paenitentiam &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="P">&A; <hi rend="music"> Parataus esto &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Consurge &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Elevare &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Tuesday
+ -->
+      <Day num="3" code="01033000">
+        <rubric type="dayTitle">Feria tertia &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="R">&A; <hi rend="music"> Rorate caeli desuper &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Emitte agnum domine &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Iudica me deus &punctus;</hi></incipit>
+          <incipit type="antiphon" init="U">&A; <hi rend="music"> Ut cognoscamus &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus; iij &punctus; </hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Da mercedem domine &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Ego dixi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="L">&A; <hi rend="music"> Lex per Moysen &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="T">&AE; <hi rend="music"> Tu Bethleem &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="P">&A; <hi rend="music"> Ponam in Sion salutem &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Consolamini &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="L">&A; <hi rend="music"> Laetamini &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="H">&A; <hi rend="music"> Hoc est testimonium &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Wednesday
+ -->
+      <Day num="4" code="01034000">
+        <rubric type="dayTitle">Feria quarta &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="P">&A; <hi rend="music"> Prophetae praedicaverunt &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere mei &punctus;</hi></incipit>
+          <incipit type="antiphon" init="S">&A; <hi rend="music"> Spiritus domini &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Exaudi deus orationem &punctus;</hi></incipit>
+          <incipit type="antiphon" init="P">&A; <hi rend="music"> Propter Sion &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Te decet &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce veniet dominus ut sedeat &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Exsultabit cor meum &punctus;</hi></incipit>
+          <incipit type="antiphon" init="A">&A; <hi rend="music"> Annuntiate &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="M">&AE; <hi rend="music"> Missus est &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+	</service>
+<!--
+***   Hours
+ -->
+          <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+            <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce virgo &punctus; </hi></incipit>
+          </service>
+          <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+            <incipit type="antiphon" init="V">&A; <hi rend="music"> Vocabitur &punctus; </hi></incipit>
+          </service>
+          <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+            <incipit type="antiphon" init="D">&A; <hi rend="music"> Dabit ei dominus &punctus; </hi></incipit>
+          </service>
+          <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+            <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce ancilla &punctus; </hi></incipit>
+          </service>
+      </Day>
+<!--
+**  Thursday
+ -->
+      <Day num="5" code="01035000">
+        <rubric type="dayTitle">Feria quinta &punctus; </rubric>
+        <service name="lauds">
+          <incipit type="antiphon" init="N">&AE; <hi rend="music"> Nolite timere &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Friday
+ -->
+      <Day num="6" code="01036000">
+        <rubric type="dayTitle">Feria sexta &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> De Sion veniet &punctus; </hi></incipit>
+<milestone n="19r" unit="page"/>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> De Sion veniet qui regnaturus &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Notus in Iudea &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Exspectabo dominum &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Bonum &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Deus a Libano &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine audivi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dominus legifer &punctus; </hi></incipit>
+          <incipit type="antiphon" init="E">&AE; <hi rend="music"> Ex quo facta est &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="V">&A; <hi rend="music"> Veniet dominus in potestate &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="I">&A; <hi rend="music"> Intuemini &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ecce concipies in utero &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="Q">&A; <hi rend="music"> Quomodo fiet istud angele &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!--
+**  Saturday
+ -->
+      <Day num="7" code="01037000">
+        <rubric type="dayTitle">Sabbato &punctus; </rubric>
+<!--
+***   Lauds
+ -->
+        <service name="lauds"><rubric type="serviceTitle">In laudibus &punctus;</rubric>
+          <incipit type="antiphon" init="C">&A; <hi rend="music"> Constantes estote &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Miserere &punctus;</hi></incipit>
+          <incipit type="antiphon" init="A">&A; <hi rend="music"> Ad te domine &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Domine exaudi &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Exspectetur &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Audite caeli &punctus;</hi></incipit>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Ego autem ad dominum aspiciam &punctus; </hi></incipit>
+          <incipit type="psalm"><hi rend="music">&P; Laudate &punctus;</hi></incipit>
+          <incipit type="antiphon" init="V">&AE; <hi rend="music"> Vigilate animo &punctus; </hi></incipit>
+          <incipit type="psalm">&P; <hi rend="music">Benedictus &punctus;</hi></incipit>
+        </service>
+<!--
+***   Hours
+ -->
+        <service name="prime"><rubric type="serviceTitle"> Ad primam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dies domini &punctus; </hi></incipit>
+        </service>
+        <service name="terce"><rubric type="serviceTitle"> Ad tertiam &punctus;</rubric>
+          <incipit type="antiphon" init="E">&A; <hi rend="music"> Erunt prava &punctus; </hi></incipit>
+        </service>
+        <service name="sext"><rubric type="serviceTitle"> Ad sextam &punctus;</rubric>
+          <incipit type="antiphon" init="D">&A; <hi rend="music"> Dominus veniet &punctus; </hi></incipit>
+        </service>
+        <service name="nones"><rubric type="serviceTitle"> Ad nonam &punctus;</rubric>
+          <incipit type="antiphon" init="O">&A; <hi rend="music"> Omnipotens &punctus; </hi></incipit>
+        </service>
+      </Day>
+<!-- 
+**  Sunday, Vigil of Nativity
+ -->
+      <Day num="1" code="02122400">
+        
+
+      </Day>
+
+
+
+
+
+
+
+<!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
+   <gap desc="first part of manuscript" reason="not yet encoded" resp="DC" extent="folios 1r-48v inclusive"/>
+
+<milestone n="49r" unit="page"/>
+
+   <gap desc="the first part of folio 49r" reason="not yet encoded" resp="DC" extent="3.5 lines"/>
+<!--
+* Septuagesima
+ -->
+<!--
+**  Sunday
+ -->
+   <Day feast="Septuagesima" desc="Septuagesima Sunday" num="1" code="06011000">
+    <rubric type="dayTitle">Dominica septuagesima</rubric>
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &A; <rubric type="general">super psalmos</rubric> <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1022b)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Confiteantur. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6943)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6943)"/>
+      </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; O lux beata trinitas.</hi></incipit>
+     <incipit type="versicle">&V; Vespertina oratio.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1336)"/> &Ev; </hi> </antiphon>
+     <incipit type="misc">Benedicamus domino alleluia alleluia</incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1915)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beati immaculati. </hi></incipit>
+    </service>
+    <service name="procession"><rubric type="serviceTitle"> Dominica septuagesima&punctus; Sexagesima&punctus; et Quinquagesima&punctus; ad processionem</rubric>
+     <antiphon> &A; <xptr href="Antiphons" type="aBody" from="ID(c2032)"/> </antiphon>
+<milestone n="49v" unit="page"/>
+     <rubric type="general">Ad ingressum dicetur de sancto Petro&punctus;</rubric>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2305)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Legem.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Ego dixi domine miserere mei&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2281)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Portio. </hi></incipit>
+     <incipit type="versicle">&V; Dominus regit me.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4921)"/> </hi></antiphon>
+<milestone n="50r" unit="page"/>
+     <incipit type="psalm">&P; <hi rend="music"> Defecit. </hi></incipit>
+     <versicle>
+      <vslVerse>&V; Ab occultis meis munda me domine&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Donec. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7687)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7687)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Lucis creator.</hi></incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1989)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Week
+ -->
+   <Week code="06018000">
+     <rubric type="general"><add place="margin" hand="later">iste antiphonae <gap reason="margin trimmed"/> ad matu<supplied reason="margin trimmed">tinas</supplied> et ad Ve<supplied reason="margin trimmed">speras</supplied> In eva<supplied reason="margin trimmed">ngelio</supplied></add></rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4524)"/> &Ev; </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5484)"/> &Ev; </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3040)"/> &Ev; </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1384)"/> &Ev; </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5157)"/> &Ev; </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3921)"/> &Ev; </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" num="2" type="aBody" from="ID(c4921)"/> &Ev; </hi></antiphon>
+<milestone n="50v" unit="page"/>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3834)"/> &Ev; </hi></antiphon>
+   </Week>
+
+    <gap desc="material for feasts of saints Fabian and Sebastian, Agnes, Vincent, Paul, Purificatio BVM" reason="not yet encoded" extent="from line 3 of fol.50v to line 8 of fol.56r"/>
+
+<milestone n="56r" unit="page"/>
+<!--
+* Sexagesima
+ -->
+<!--
+**  Sunday
+ -->
+   <Day num="1" code="06021000">
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <respond num="1"><rubric type="general">incipiet Cantor ebdomadarius</rubric><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6055)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6055)"/>
+      </hi></respond>
+     <incipit type="hymn"> O lux beata.</incipit>
+     <incipit type="versicle">&V; Vespertina.</incipit>
+<milestone n="56v" unit="page"/>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3833)"/> &Ev; </hi> </antiphon>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2789)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beati immaculati. </hi></incipit>
+    </service>
+    <gap desc="rubric relating to mass" reason="not encoded" resp="DC"/>
+    <service name="procession">
+     <rubric type="serviceTitle"> Ad processionem&punctus; </rubric>
+     <incipit type="antiphon" init="C">&A; <hi rend="music"> Cum sederit.</hi></incipit>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4862)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Legem pone. </hi></incipit>
+     <incipit type="versicle">&V; Ego dixi.</incipit>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4915)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Portio. </hi></incipit>
+     <incipit type="versicle">&V; Dominus regit.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4882)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Defecit.</hi></incipit>
+     <incipit type="versicle">&V; Ab occultis.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus.</hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7687)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7687)"/>
+       </hi></respond>
+     <incipit type="hymn">&Y; Lucis creator.</incipit>
+     <incipit type="versicle">&V; Dirige domine.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5483)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Week
+ -->
+   <Week code="06028000">
+    <rubric type="dayTitle">Feriae ad Benedictus et ad Magnificat</rubric>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4859)"/> &Ev; </hi></antiphon>
+<milestone n="57r" unit="page"/>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4860)"/> &Ev; </hi></antiphon>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3490)"/> &Ev; </hi></antiphon>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4557)"/> &Ev; </hi></antiphon>
+   </Week>
+<!--
+* Quinquagesima
+ -->
+<!--
+**  Sunday
+ -->
+   <Day num="1" code="06031000">
+    <service name="vesp1"><rubric type="serviceTitle"> Ad primas vesperas.</rubric>
+     <respond num="1"><hi rend="music"><rubric type="general">incipiet cantor ebdomadarius&punctus;</rubric>
+       &R; <xptr href="Responds" type="rBody" from="ID(c6563)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6563)"/>
+       </hi></respond>
+     <incipit type="hymn">&Y; O lux beata.</incipit>
+     <incipit type="versicle">&V; Vespertina oratio.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4503)"/> &Ev; </hi> </antiphon>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3463)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beati immaculati. </hi></incipit>
+    </service>
+    <rubric type="general">Missa matutinalis dicetur de Trinitate ut supra in alia Dominica&punctus;</rubric>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1978)"/> &Ev; </hi></antiphon>
+<milestone n="57v" unit="page"/>
+     <versicle>
+      <vslVerse>&V; Ego dixi domine miserere mei&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2716)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Portio. </hi></incipit>
+     <incipit type="versicle">&V; Dominus regit.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1751)"/> </hi></antiphon>
+     <incipit type="versicle">&V; Ab occultis.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="antiphon" init="D">&A; Dixit dominus.</incipit>
+     <incipit type="respond" init="S">&R; Spes mea.</incipit>
+     <incipit type="hymn">&Y; Lucis creator.</incipit>
+     <incipit type="versicle">&V; Dirigatur domine.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5015)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Week
+ -->
+   <Week code="06038000">
+    <rubric type="dayTitle">Feriae</rubric>
+    <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5165)"/> &Ev; </hi> </antiphon>
+    <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1752)"/> &Ev; </hi> </antiphon>
+    <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3776)"/> &Ev; </hi> </antiphon>
+    <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4149)"/> &Ev; </hi> </antiphon>
+   </Week>
+<!--
+**  Ash Wednesday
+ -->   <Day num="4" code="06034000">
+    <rubric type="dayTitle">Feria quarta&punctus; </rubric>
+<!--
+***   Lauds
+ -->
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2014)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; Benedictus.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5142)"/> </hi> </antiphon>
+     <incipit type="antiphon" init="E"><rubric type="general">post absolutionem Incipiet Cantor</rubric> &A; <hi rend="music"> Exsurge domine.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Deus auribus nostris&punctus;</hi> &Ev; <add place="interlined" hand="contemp">sine gloria</add></incipit>
+     <incipit type="versicle">&V; Domine non secundum peccata.</incipit>
+     <incipit type="kyrie">Kyrie&punctus;</incipit>
+     <incipit type="prayer">Pater noster&punctus; Et ne nos&punctus;</incipit>
+     <incipit type="psalm">&P; Deus misereatur.</incipit>
+     <incipit type="versicle">&V; Domine ne me.</incipit>
+<milestone n="58r" unit="page"/>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2770)"/> </hi></antiphon>
+     <incipit type="versicle">&V; Ne reminisceris.</incipit>
+     <incipit type="kyrie">Kyrie&punctus;</incipit>
+     <incipit type="prayer">Pater noster&punctus; Et <supplied resp="DC">ne nos</supplied>&punctus;</incipit>
+     <incipit type="psalm">&P; Deus in adiutorium.</incipit>
+     <incipit type="versicle">&V; Ostende nobis domine misericordiam.</incipit>
+     <ab>
+      <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3193)"/> </hi></antiphon>
+      <incipit type="psalm">&P; <hi rend="music"> Deus misereatur nostri&punctus; &Ev;</hi></incipit>
+      <incipit type="antiphon">&A; <hi rend="music">Immutemur&punctus;</hi></incipit>
+      <incipit type="psalmVerse">&P; <hi rend="music">Ut cognoscamus.</hi></incipit>
+      <incipit type="antiphon">&A; <hi rend="music"> Immutemur&punctus;</hi></incipit>
+     </ab>
+     <incipit type="misc"><hi rend="music">Propitius esto&punctus;</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3554)"/> </hi></antiphon>
+    </service>
+   </Day>
+<!--
+**  Thursday
+ -->
+   <Day num="5" code="06035000">
+    <rubric type="dayTitle">Feria quinta.</rubric>
+    <service name="lauds"><rubric type="serviceTitle">Laudes</rubric>
+     <incipit type="antiphon"> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4184)"/> </hi></incipit>
+
+     <incipit type="psalm">&P; Benedictus.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1923)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; Magnificat.</incipit>
+    </service>
+   </Day>
+<!--
+**  Friday
+ -->
+   <Day num="6" code="06036000">
+    <rubric type="dayTitle">Feria sexta.</rubric>
+    <service name="lauds">
+     <incipit type="antiphon"> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2683)"/> </hi></incipit>
+     <incipit type="psalm">&P; Benedictus.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2005)"/> </hi></antiphon>
+     <incipit type="psalm">&P; Magnificat.</incipit>
+    </service>
+   </Day>
+<!--
+**  Saturday
+ -->
+   <Day num="7" code="06037000">
+    <rubric type="dayTitle">Sabbato.</rubric>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5193)"/> </hi></antiphon>
+    <incipit type="psalm">&P; Benedictus.</incipit>
+   </Day>
+<milestone n="58v" unit="page"/>
+<!--
+* Quadragesima
+ -->
+<!--
+**  First Sunday
+ -->
+   <Day num="1" code="07011000">
+    <rubric type="dayTitle">Dominica prima quadragesimae</rubric>
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <respond num="1"><hi rend="music">
+       &R; <rubric type="general">ebdomadarius cantor incipiet</rubric>
+       <xptr href="Responds" type="rBody" from="ID(c6653)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6653)"/>
+       </hi></respond>
+      <hymn>
+        <hVerse num="1"><hi rend="music">Summe largitor praemii <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+        <hVerse num="2">Nostra te conscientia <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+        <hVerse num="3"><hi rend="music">Si renuis quis tribuet <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi></hVerse>
+        <hVerse num="4"><hi rend="music">Ergo acceptare nostrum <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi></hVerse>
+        <hVerse num="5"><hi rend="music">Summa nobis hoc conferat <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+    </hymn>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1922)"/> &Ev; </hi> </antiphon>
+    </service>
+<!--
+***   Mandatum
+ -->
+    <service name="mandatum">
+    <rubric type="serviceTitle"> Ad mandatum</rubric>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3688)"/> </hi></antiphon>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3224)"/> </hi></antiphon>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1888)"/> </hi></antiphon>
+<milestone n="59r" unit="page"/>
+    <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+    </service>
+<!--
+***   Hours
+ -->
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2690)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beati immaculati. </hi></incipit>
+    </service>
+    <gap desc="rubrical directions for Mass" reason="not encoded" resp="DC"/>
+    <service name="procession">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1784)"/> </hi></antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+<milestone n="59v" unit="page"/>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5239)"/> </hi></antiphon>
+     <incipit type="psalm">&P; Legem.</incipit>
+     <incipit type="versicle">&V; Dicet domino.</incipit>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5303)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Portio.</hi></incipit>
+     <incipit type="versicle">&V; Ipse liberabit me.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle">Nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4609)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Defecit. </hi></incipit>
+     <incipit type="versicle">&V; Scapulis suis obumbrabit.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus.</hi></incipit>
+     <incipit type="psalm">&P; Donec ponam.</incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6006)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6006)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Summe largitor.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2532)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Monday
+ -->
+   <Day num="2" code="07012000">
+    <rubric type="dayTitle">Feria secunda.</rubric>
+    <service name="lauds"><rubric type="serviceTitle">Ad matutinas <supplied>laudes</supplied></rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5350)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus</hi>.</incipit>
+     <hymn>
+      <hVerse num="1"> <hi rend="music">Dei fide qua vivimus <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+<milestone n="60r" unit="page"/>
+      <hVerse num="2"> Qui ductus hora tertia <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="3"> Precamur ergo subditi <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="4"> Gloria tibi trinitas <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+     </hymn>
+     <incipit type="versicle">&V; Dicet domino.</incipit>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <hymn>
+      <hVerse num="1"> Qua Christus hora sitiit <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="2"> Quibus sit et esuries <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="3"> Carissima sancti spiritus <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="4"> Gloria tibi trinitas <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+     </hymn>
+     <incipit ttype="versicle">&V; Ipse liberabit me.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Nonam.</rubric>
+     <hymn>
+      <hVerse num="1"> Ternis ter horis numerus <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="2"> Latronis en confessio <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="3"> Mors per crucem <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="4"> Gloria tibi trinitas&punctus;</hVerse>
+     </hymn>
+     <versicle>
+      <vslVerse>&V; Scapulis suis obumbravit tibi&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <gap desc="listing of Psalmi Prostrati and details of Masses for the week" resp="DC" extent="11 lines of text, wihout music notation"/>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3960)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> In exitu.</hi></incipit>
+     <incipit type="antiphon" init="I">&A; <hi rend="music"> Inclinavit.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Dilexi. </hi></incipit>
+     <incipit type="antiphon" init="L">&A; <hi rend="music"> Laudate.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Credidi. </hi></incipit>
+     <incipit type="antiphon" init="B">&A; <hi rend="music"> Benediximus.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Saepe. </hi></incipit>
+     <incipit type="respond" init="A">&R; <hi rend="music"> Ab omni via mala prohibui.</hi></incipit>
+     <hymn>
+      <hVerse num="1"><hi rend="music">Summe largitor praemii <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+      <hVerse num="2">Nostra te conscientia <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="3"><hi rend="music">Si renuis quis tribuet <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi></hVerse>
+<milestone n="60v" unit="page"/>
+      <hVerse num="4"><hi rend="music">Ergo acceptare nostrum <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi></hVerse>
+      <hVerse num="5"><hi rend="music">Summa nobis hoc conferat <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+     </hymn>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4560)"/> &Ev; </hi> </antiphon>
+    </service>
+    <rubric type="general">Psalmi prostrati <incipit type="psalm">&P; Qui confidunt.</incipit> <incipit type="psalm">&P; Dp,ome clamavi.</incipit> <incipit type="psalm">&P; Domine exaudi.</incipit> <incipit type="kyrie">Kyrieleison.</incipit></rubric>
+   </Day>
+<!--
+**  Tuesday
+ -->
+   <Day num="3" code="07013000">
+    <rubric type="dayTitle">Feria tertia.</rubric>
+    <gap desc="Rubric on masses for Tuesdays in Quadragesima" resp="DC" extent="17 helf-lines of text, without music notations"/>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3385)"/> &Ev; </hi> </antiphon>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2116)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Domine exaudi vocem meam.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4990)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Domine non est.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2713)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Memento. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2537)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Habitare. </hi></incipit>
+     <incipit type="respond" init="A">&R; <hi rend="music"> Ab omni.</hi> &V; <hi rend="music">Summe&punctus; </hi></incipit>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4836)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Wednesday
+ -->
+   <Day num="4" code="07014000">
+    <rubric type="dayTitle">Feria quarta.</rubric>
+    <service name="lauds">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4934)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2306)"/> &Ev; </hi> </antiphon>
+    </service>
+<milestone n="61r" unit="page"/>
+    <gap desc="Details of masses for Feria Quarta Quatuor Temporum" reason="not encoded" resp="DC" extent="6 lines of text, without music notations"/>
+   </Day>
+<!--
+**  Thursday
+ -->
+   <Day num="5" code="07015000">
+    <rubric type="dayTitle">Feria quinta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <rubric type="general">Ad Benedictus</rubric><hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4918)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2573)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Friday
+ -->
+   <Day num="6" code="07016000">
+    <rubric type="dayTitle">Sexta feria.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1412)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4483)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat anima mea dominum.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Saturday
+ -->
+   <Day num="7" code="07017000">
+    <rubric type="dayTitle">Sabbato.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1501)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <gap desc="Details of masses for Sabbato in Quatuor Temporum" reason="not encoded" resp="DC" extent="12 lines of text, without music notations"/>
+   </Day>
+<milestone n="61v" unit="page"/>
+<!--
+* Cathedra Sancti Petri
+ -->
+   <Day num="1" code="14022200">
+    <rubric type="dayTitle">Cathedra sancti Petri</rubric>
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c9514)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c9514)"/>
+       </hi></respond>
+     <hymn>
+      <hVerse num="1"> <hi rend="music">Iam bone pastor Petre clemens accipe vota <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+      <hVerse num="2"> <hi rend="music">Annue Christe&punctus;</hi> </hVerse>
+     </hymn>
+     <versicle>
+      <vslVerse>&V; Annuntiaverunt opera dei&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5207)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis oro sidere.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4981)"/> &Ev; </hi></antiphon>
+    </service>
+    <gap desc="Details of masses for the day, and of arrangements for concurrence with either Septuagesima or Sexagesima Sundays" reason="not encoded" resp="DC" extent="12 lines of text, without music notations"/>
+<milestone n="62r" unit="page"/>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4885)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; Constitues eos principes super omnem terram&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5208)"/> &Ev; </hi></antiphon>
+     <incipit type="versicle">&V; Nimis honorati sunt amici.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3522)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Dixit dominus. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7503)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7503)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam bone pastor.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Annuntiaverunt opera dei&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1624)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat. </hi></incipit>
+    </service>
+   </Day>
+<!--
+* Sancti Matthiae
+ -->
+   <Day num="1" code="14022400">
+    <service name="vesp1">
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6918)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6918)"/>
+       </hi></respond>
+     <hymn>
+      <hVerse num="1"><hi rend="music"> Mathia iuste duodeno solio residens <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hi></hVerse>
+      <hVerse num="2"><hi rend="music"> Annue&punctus;</hi> </hVerse>
+     </hymn>
+     <versicle>
+      <vslVerse>&V; Annuntiaverunt opera dei&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2470)"/> &Ev; </hi></antiphon>
+    </service>
+    <rubric type="general">Missa matutinalis dicetur de apostolo cum una oratione tantum In qua missa dicetur <incipit type="credo">Credo in unum&punctus;</incipit> et praefatio <incipit type="misc">Et te suppliciter&punctus;</incipit> Missa maior dicetur de Ieiunia&punctus;  In qua missa dicentur vericuli <supplied>et</supplied> oratio&punctus; Prima oratio dicetur de Ieiunia&punctus;</rubric>
+   </Day>
+<milestone n="62v" unit="page"/>
+<!--
+**  Second Sunday of Quadragesima
+ -->
+   <Day num="1" code="07021000">
+    <rubric type="dayTitle">Dominica secunda&punctus;</rubric>
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4600)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Confiteatur. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6540)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6540)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Summe largitor.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3968)"/> &Ev; </hi> </antiphon>
+    </service>
+<!--
+***   Hours
+ -->
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8522)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beati immaculati. </hi></incipit>
+    </service>
+    <service name="procession"><incipit type="antiphon">&A; <hi rend="music"> Christe pater.</hi></incipit></service>
+    <gap desc="directions for morning mass" reason="not encoded" resp="DC" extent="3 half-lines of rubric"/>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3795)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Legem. </hi></incipit>
+     <incipit type="versicle">&V; Dicet domino.</incipit>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8523)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Portio. </hi></incipit>
+     <incipit type="versicle">&V; Ipse liberavit me.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4046)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Defecit. </hi></incipit>
+     <incipit type="versicle">&V; Scapulis suis obumbravit.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus.</hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7645)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7645)"/>
+       </hi></respond>
+<milestone n="63r" unit="page"/>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2287)"/> </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Monday
+ -->
+   <Day num="2" code="07022000">
+    <rubric type="dayTitle">Feria secunda.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c8524)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4482)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Tuesday
+ -->
+   <Day num="3" code="07023000">
+    <rubric type="dayTitle">Feria tertia.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4121)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <gap desc="directions for the morning mass for Tuesday" reason="not encoded" resp="DC" extent="five half-lines of rubric, without music notations"/>
+    <service name="vesp2">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4477)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Wednesday
+ -->
+   <Day num="4" code="07024000">
+    <rubric type="dayTitle">Feria quarta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2494)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c8525)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Thursday
+ -->
+   <Day num="5" code="07025000">
+    <rubric type="dayTitle">Feria quinta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2577)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4160)"/> </hi> </antiphon>
+<milestone n="63v" unit="page"/>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat &punctus; </hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Friday
+ -->
+   <Day num="6" code="07026000">
+    <rubric type="dayTitle">Feria sexta.</rubric>
+    <service name="lauds">
+    <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c8019)"/> </hi> </antiphon>
+    <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3687)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Saturday
+ -->
+   <Day num="7" code="07027000">
+    <rubric type="dayTitle">Sabbato.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5299)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <gap desc="details of the masses for Saturdays up to Palm Sunday" reason="not encoded" resp="DC" extent="14 half-lines of rubric, without music notations"/>
+   </Day>
+<!--
+* Saint Gregory
+ -->
+   <Day num="1" code="14031200">
+    <rubric type="dayTitle">Festivitas Gregorii</rubric>
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6997)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6997)"/>
+       </hi></respond>
+     <hymn>
+      <hVerse num="1"> <hi rend="music">Jesu redemptor omnium <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hi></hVerse>
+      <hVerse num="2"> <hi rend="music">Tui sacri qua nominis <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hi></hVerse>
+      <hVerse num="3"> <hi rend="music">Qui rite mundi gaudia  <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hi></hVerse>
+      <hVerse num="4"> <hi rend="music">Huius benigne annue <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hi></hVerse>
+      <hVerse num="5"> <hi rend="music">Sit Christe rex piissime <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hi></hVerse>
+     </hymn>
+<milestone n="64r" unit="page"/>
+     <versicle>
+      <vslVerse>&V; Ecce sacerdos magnus&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4370)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+<!--
+***   Hours
+ -->
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1631)"/> &Ev; </hi></antiphon>
+    </service>
+    <gap desc="details for the morning and major masses" reason="not encoded" resp="DC" extent="7 half-lines of rubric, without music notations"/>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3019)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3433)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3789)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2982)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Dixit dominus. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1630)"/> </hi></antiphon>
+<milestone n="64v" unit="page"/>
+     <incipit type="psalm">&P; <hi rend="music"> Beatus. </hi></incipit>
+     <incipit type="antiphon" init="I">&A; <hi rend="music"> Iste sanctus.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Laudate. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3984)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Credidi. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7579)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7579)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Iste confessor.</hi></incipit>
+     <incipit type="versicle">&V; Ecce sacerdos.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2615)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Third Sunday of Quadragesima
+ -->
+   <Day num="1" code="07031000">
+    <rubric type="dayTitle">Dominica tertia&punctus;</rubric>
+    <service name="vesp1"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="antiphon" init="R">&A; <hi rend="music"> Regnum tuum.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Confiteantur. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6878)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6878)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Summe largitor.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+<milestone n="65r" unit="page"/>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2136)"/> &Ev; </hi> </antiphon>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4898)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beati immaculati. </hi></incipit>
+    </service>
+    <gap desc="details for the morning mass" reason="not encoded" resp="DC" extent="4 half-lines of rubric, without music notation"/>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2456)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Legem pone. </hi></incipit>
+     <incipit type="versicle">&V; Dicet domino.</incipit>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4486)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Portio. </hi></incipit>
+     <incipit type="versicle">&V; Ipse liberavit me.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2009)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Defecit. </hi></incipit>
+     <versicle>
+      <vslVerse>&V; Scpaulis suis obumbravit tibi&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Donec ponam. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7639)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7639)"/>
+       </hi></respond>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2827)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<milestone n="65v" unit="page"/>
+<!--
+**  Monday
+ -->
+   <Day num="2" code="07032000">
+    <rubric type="dayTitle">Feria secunda.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1380)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c8526)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Tuesday
+ -->
+   <Day num="3" code="07033000">
+    <rubric type="dayTitle">Feria tertia.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4888)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <gap desc="details of masses for Tuesday, and notes about possible concurrences" reason="not encoded" resp="DC" extent="15 half-lines of rubric, without music notation"/>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5258)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Wednesday
+ -->
+   <Day num="4" code="07034000">
+    <rubric type="dayTitle">Feria quarta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1522)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3922)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Thursday
+ -->
+   <Day num="5" code="07035000">
+    <rubric type="dayTitle">Feria quinta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4161)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+    <gap desc="details of morning mass for Thursday" reason="not encoded" resp="DC" extent="5 half-lines of rubric, without music notations"/>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4209)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Friday
+ -->
+   <Day num="6" code="07036000">
+    <rubric type="dayTitle">Feria sexta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1469)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus.</hi></incipit>
+    </service>
+<milestone n="66r" unit="page"/>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5367)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Saturday
+ -->
+   <Day num="7" code="07037000">
+    <rubric type="dayTitle">Sabbato.</rubric>
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3320)"/> </hi></antiphon>
+    <gap desc="details of morning mass for Saturday" reason="not encoded" resp="DC"/>
+   </Day>
+<!--
+* Saint Benedict
+ -->
+   <Day num="1" code="14032100">
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas sancti Benedicti.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2906)"/> </hi></antiphon>
+     <incipit type="psalm">&P; Beatus.</incipit>
+     <incipit type="psalm">&P; Laudate pueri.</incipit>
+     <incipit type="psalm">&P; Credidi.</incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7609)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7609)"/>
+       </hi></respond>
+     <hymn>
+      <hVerse num="1"> Magno canentes annua nunc Benedicto <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="2"> Qui fulsit ut sidus novum <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="3"> Miraculorum praepotens afflatus <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="4"> Non ante seclis cognitum <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+<milestone n="66v" unit="page"/>
+      <hVerse num="5"> Sit trinitati gloria <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+     </hymn>
+     <versicle>
+      <vslVerse>&V; Os iusti meditabitur sapientiam&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2819)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat.</hi></incipit>
+    </service>
+<!--
+***   Hours
+ -->
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1673)"/> &Ev; </hi></antiphon>
+    </service>
+    <gap desc="details of morning and major masses for St Benedict's day" reason="not encoded" resp="DC"/>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2662)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="sext">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2965)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; Iustum deduxit dominus per vias rectas&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5435)"/> &Ev; </hi></antiphon>
+    </service>
+<!--
+***   Second Vespers
+ -->
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2906)"/> </hi></antiphon>
+<milestone n="67r" unit="page"/>
+     <incipit type="psalm">&P; <hi rend="music"> Dixit dominus. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1204)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beatus. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2457)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Laudate. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3626)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Credidi. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7579)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7579)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Magno canentes.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Os iusti meditabitur sapientiam&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3115)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Fourth Sunday of Quadragesima
+ -->
+   <Day num="1" code="07041000">
+    <rubric type="dayTitle">Dominica <supplied reason="edge of page torn" resp="DC">quarta</supplied> </rubric>
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <incipit type="antiphon" init="R">&A; <hi rend="music"> Regnum tuum.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Confiteantur. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7708)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7708)"/>
+       </hi></respond>
+<milestone n="67v" unit="page"/>
+     <incipit type="hymn"><hi rend="music"> &Y; Summe largitor.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Angelis suis deus mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3873)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+<!--
+***   Hours
+ -->
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2036)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beati&punctus;</hi></incipit>
+    </service>
+    <gap desc="details of the morning mass" reason="not encoded" resp="DC"/>
+<!-- CHECK: What is the illegible mark in the gutter at the end of the rubric?  Does it relate to the following item? -->
+    <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8529)"/> </hi></antiphon>
+<milestone n="68r" unit="page"/>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1217)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Legem. </hi></incipit>
+     <incipit type="versicle">&V; Dicet domino.</incipit>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2117)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Portio. </hi></incipit>
+     <incipit type="versicle">&V; Ipse liberabit me.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3177)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; Scapulis suis obumbravit tibi&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Donec. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6622)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6622)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Summe largitor.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Angelis suis mandavit de te&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2049)"/> </hi> </antiphon>
+<milestone n="68v" unit="page"/>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Monday
+ -->
+   <Day num="2" code="07042000">
+    <rubric type="dayTitle">Feria secunda.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1530)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4982)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Tuesday
+ -->
+   <Day num="3" code="07043000">
+    <rubric type="dayTitle">Feria tertia.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3726)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3871)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Wednesday
+ -->
+   <Day num="4" code="07044000">
+    <rubric type="dayTitle">Feria quarta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4571)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1194)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+    <gap desc="details of morning masses for Tuesday, Thursday and Saturday of the week" reason="not encoded" resp="DC" extent="16 part-lines of rubric, without music notations"/>
+<!--
+**  Thursday
+ -->
+   <Day num="5" code="07045000">
+    <rubric type="dayTitle">Feria quinta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4233)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4944)"/> </hi> </antiphon>
+    <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+   </Day>
+<!--
+**  Friday
+ -->
+   <Day num="6" code="07046000">
+    <rubric type="dayTitle">Feria sexta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3603)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2383)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Saturday
+ -->
+   <Day num="7" code="07047000">
+    <rubric type="dayTitle">Sabbato.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2592)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+* Annunciation BVM
+ -->
+   <Day num="1" code="14032500">
+    <rubric type="dayTitle">In Annuntiatione&punctus;</rubric>
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <rubric type="general">Ante altare Sanctae Mariae super psalmos</rubric>
+     <incipit type="antiphon" init="A">&A; <hi rend="music"> Ave Maria gratia plena.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Dixit dominus. </hi></incipit>
+     <incipit type="psalm">&P; Laetatus.</incipit>
+     <incipit type="psalm">&P; Nisi dominus.</incipit>
+     <incipit type="psalm">&P; Memento.</incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6963)"/>
+<milestone n="69r" unit="page"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6963)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Ave maris stella.</hi></incipit>
+     <incipit type="versicle">&V; Elegit eam deus.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3339)"/> &Ev; </hi> </antiphon>
+     <respond num="2"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6278)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6278)"/>
+       </hi></respond>
+    </service>
+<!--
+***   Hours
+ -->
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1414)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5006)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; Benedicta tu in mulieribus&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="procession">
+     <rubric type="serviceTitle"> Ad processionem&punctus;</rubric>
+     <incipit type="respond" init="C">&R; <hi rend="music"> Christi virgo.</hi></incipit>
+     <incipit type="respond" init="A">&R; <hi rend="music"> Ave Maria gratia plena.</hi></incipit>
+     <incipit type="respond" init="I"><rubric type="general">Ad ingressum</rubric> &R; <hi rend="music"> Ingressus.</hi></incipit>
+    </service>
+    <gap desc="directions for the morning mass" reason="not encoded" resp="DC" extent="7 part-lines of rubric, without music notations"/>
+<milestone n="69v" unit="page"/>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4563)"/> &Ev; </hi></antiphon>
+     <incipit type="versicle">&V; Sicut mirra electa.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2491)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; Speciosa facta es et suavis&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4392)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Dixit dominus. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2612)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Laetatus. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2613)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Nisi dominus. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2557)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Memento. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c9515)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c9515)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Ave Maria.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Elegit eam deus et praeelegit eam&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c2920)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+<milestone n="70r" unit="page"/>
+    </service>
+   </Day>
+<!--
+* Passiontide
+ -->
+<!--
+**  Passion Sunday
+ -->
+   <Day num="1" code="07051000">
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1">
+     <incipit type="antiphon" init="R">&A; <hi rend="music"> Regnum tuum.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Confiteantur.</hi></incipit>
+     <respond num="1"><hi rend="music"><rubric type="general">ebdomadarius</rubric>
+       &R; <xptr href="Responds" type="rBody" from="ID(c7811)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7811)"/>
+       </hi></respond>
+     <hymn>
+      <hVerse num="1"> <l><hi rend="music">Vexilla regis prodeunt</hi></l> <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="2"> <l><hi rend="music">Quo vulneratus insuper</hi></l> <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="3"> <l><hi rend="music">Impleta sunt qui concinet</hi></l> <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="4"> <l><hi rend="music">Arbor decora et fulgida</hi></l> <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="5"> <l><hi rend="music">Beata cuius brachiis</hi></l> <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="6"> <l><hi rend="music">O crux ave spes unica</hi></l> <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="7"> <l><hi rend="music">Te summa deus trinitas</hi></l> <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+     </hymn>
+<milestone n="70v" unit="page"/>
+     <versicle>
+      <vslVerse>&V; Eripe me domine ab homine malo&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3617)"/> &Ev; </hi> </antiphon>
+     <rubric type="general">Commemoratio de Trinitate fiet sed de cruce silebitur usque post pentecosten&punctus;</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+    </service>
+<!--
+***   Hours
+ -->
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1377)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beati immaculati. </hi></incipit>
+    </service>
+    <gap desc="details for the morrow mass" reason="not encoded" resp="DC" extent="5 part-lines of rubric, without music notations"/>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1210)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Legem pone. </hi></incipit>
+     <versicle>
+      <vslVerse>&V; Erue a framea deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2570)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Portio. </hi></incipit>
+     <versicle>
+      <vslVerse>&V; De ore leonis libera me domine</vslVerse>
+     </versicle>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5234)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Defecit. </hi></incipit>
+     <versicle>
+      <vslVerse>&V; Ne perdas cum impiis deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="antiphon" init="D">&A; <hi rend="music"> Dixit dominus.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Donec. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6395)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6395)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Vexilla regis.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Eripe me domine ab homine malo&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c8503)"/> &Ev; </hi> </antiphon>
+    </service>
+   </Day>
+<milestone n="71r" unit="page"/>
+<!--
+**  Monday
+ -->
+   <Day num="2" code="07052000">
+    <rubric type="dayTitle">Feria secunda.</rubric>
+    <service name="lauds">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3221)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1419)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Tertiam.</rubric>
+     <incipit type="antiphon" init="L">&A; <hi rend="music"> Libera me domine. &Ev;</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Erue a framea deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4312)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; De ore leonis libera me domine</vslVerse>
+     </versicle>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3972)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; Ne perdas cum impiis deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="antiphon" init="N">&A; <hi rend="music"> Nos qui vivimus.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> In exitu Israel. </hi></incipit>
+     <incipit type="versicle">&V; De ore leonis.</incipit>
+     <incipit type="hymn">&Y; Vexilla regis.</incipit>
+     <incipit type="versicle">&V; Eripe domine ab homine.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4497)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Tuesday
+ -->
+   <Day num="3" code="07053000">
+    <rubric type="dayTitle">Feria tertia.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5131)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3518)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4932)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5512)"/> </hi></antiphon>
+     <add rend="keyed by cue to end of previous antiphon" place="lower margin" resp="DC" hand="later">
+      <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3933)"/> &Ev; </hi></antiphon>
+     </add>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4534)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+    <gap desc="details of morning an major masses for Tuesday" reason="not encoded" resp="DC" extent="4 lines of rubric, without music notations"/>
+   </Day>
+<milestone n="71v" unit="page"/>
+<!--
+**  Wednesday
+ -->
+   <Day num="4" code="07054000">
+    <rubric type="dayTitle">Feria quarta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1810)"/> </hi> </antiphon>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4203)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c5149)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3398)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4577)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3827)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+    <gap desc="details of the morrow and major masses for Friday and Saturday" reason="not encoded" resp="DC" extent="5 lines of rubric, without music notation"/>
+<!--
+**  Thursday
+ -->
+   <Day num="5" code="07055000">
+    <rubric type="dayTitle">Feria quinta.</rubric>
+    <service name="lauds">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4660)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="antiphon" init="L">&A; <hi rend="music"> Libera me domine. &Ev;</hi></incipit>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="antiphon" init="I">&A; <hi rend="music"> Iudicasti domine causam animae meae. &Ev;</hi></incipit>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <incipit type="antiphon" init="N">&A; <hi rend="music"> Numquid redditur pro bono. &Ev;</hi></incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3332)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c8527)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Friday
+ -->
+   <Day num="6" code="07056000">
+    <rubric type="dayTitle">Feria sexta.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" num="2" type="aBody" from="ID(c4380)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4507)"/> &Ev; </hi></antiphon>
+    </service>
+<milestone n="72r" unit="page"/>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4615)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4663)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4904)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1465)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Saturday
+ -->
+   <Day num="7" code="07057000">
+    <rubric type="dayTitle">Sabbato.</rubric>
+    <service name="lauds">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1826)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3974)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3657)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2161)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8528)"/> &Ev; </hi></antiphon>
+    </service>
+   </Day>
+   <rubric type="general">
+    <hi rend="cap">S</hi>i Annuntiatio beate Mariae evenerit in aliquam Dominica quadragesimae protelabitur in secundam feriam&punctus; <hi rend="cap">S</hi>imiliter fiet in Cathedra sancti Petri&punctus; hoc modo&punctus; <hi rend="cap">D</hi>ictis psalmis de dominica ad secundas Vesperas&punct-el; dicetur Capitulum de festo Post <incipit type="misc">Benedicamus domino</incipit>&punct-el; fiet commemoratio de Dominica&punctus;  <hi rend="cap">S</hi>i Annuntiatio evenerit in Dominica palmarum&punct-el; protelabitur in secunda feria&punctus; hoc ordine celebranda&punctus; <hi rend="cap">D</hi>ictis psalmis et capitulum et Responsoria et hymno et antiphonae de Dominica ad secundas Vesperas&punct-el; incipiet cantor <incipit type="respond" init="I">&R; Ingressus angelus</incipit>&punctus; quod concinendo mox fiet processio ad sanctum Paulum&punctus; et dicto versu cum <incipit type="doxology">Gloria patri</incipit> a duobus ebdomadariis&punct-el; dicetur ab uno iuvene versiculus <incipit type="versicle">Elegit eam deus</incipit>&punctus;  Postea incipiet <incipit type="misc">Domine vobiscum</incipit> solemniter&punctus; Deinde orationem cum <incipit type="misc">per dominum</incipit>&punctus;
+   </rubric>
+<!--
+* Holy Week
+ -->
+<!--
+**  Palm Sunday
+ -->
+   <Day num="1" code="07061000">
+    <rubric type="dayTitle">Dominica Palmarum </rubric>
+<!--
+***   First Vespers
+ -->
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <incipit type="antiphon" init="R">&A; <hi rend="music"> Regnum tuum.</hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Confiteantur.</hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c9500)"/>
+<milestone n="72v" unit="page"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c9500)"/>
+       </hi></respond>
+     <incipit type="hymn"><hi rend="music"> &Y; Vexilla regis.</hi></incipit>
+     <versicle>
+      <vslVerse>&V; Eripe me domine ab homine malo&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4234)"/> &Ev; </hi> </antiphon>
+     <antiphon> &A; <xptr href="Antiphons" type="aBody" from="ID(c3688)"/> </antiphon>
+     <incipit type="respond" init="D">&R; Dominus Jesus.</incipit>
+    </service>
+<!--
+***   Prime
+ -->
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Iam lucis orto sidere.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4415)"/> &Ev; </hi></antiphon>
+    </service>
+<!--
+***   Procession
+ -->
+    <service name="procession">
+     <rubric type="general">
+      <gap reason="damage to manuscript" resp="DC" extent="one third of a line of text"/> Dominica cum una oratione tantum et evangelio&punctus; <hi rend="cap">C</hi>um appropinquassent <gap reason="damage to manuscript" resp="DC" extent="one third of a line of text"/> alicuius sancti fuerit&punctus; <hi rend="cap">S</hi>i autem festum alicuius sancti fuerit <gap reason="damage to manuscript" resp="DC" extent="one third of a line of text"/> sancto cuius festum fuerit&punctus;  In qua missa&punct-el; dicetur tres orationes&punctus; <gap reason="damage to manuscript" resp="DC" extent="one third of a line of text"/> oratio dicetur de Dominica Tertia&punct-el; Omnium Sanctorum&punctus; Si vero festum alicuius sancti duodecimum lectionum fuerit&punct-el; differetur in secundam Feria et tunc dicetur missa matutinale de sancto cuius festum fuerit&punct-el; cum una oratione tantum&punctus;  <hi rend="cap">F</hi>inita igitur missa matutinali&punct-el; sacerdos ebdomadarius aquam sanctificabit&punctus;  Qua aspersa&punct-el; sonabitur et cantabitur Tertia&punctus; ipso interim officinas cum cruce et aqua circumeunte&punctus; et benedictiones faciente&punctus;  Quibus expletis&punct-el; stolam non deponet&punctus; sed chorus ingrediens&punctus; horam tertiam cum psalmis familiaribus terminaturus&punctus;  Qua hora terminata&punct-el; stolam deponet cum manipulo&punctus; et in ordine suo procedet&punctus;  Deinde dominus Abbas si praesens fuerit&punctus; cappa et stola indutus&punct-el; ad palmas coram altare procedet&punctus;  Qui si defuit&punct-el; protinebit hoc ministerium ad ipsum qui missam caniturus est&punctus; Et sciendum quod ille qui benedictiones daturus est&punctus; <incipit type="misc">Dominus vobiscum</incipit>&punctus; non solemniter&punct-el; sed plane praemittet&punctus;  eodem modo&punct-el; orationes dicturus&punctus; Quibus dictis&punct-el; aquam benedictam super palmas aspergit&punctus; Deinde thurificato altari&punct-el; thurificet et ipsas palmas&punctus; Postea sacrista palmam unam accipiet&punctus; eamque abbati vel sacerdoti cum osculo manu&punct-el; sacerdoti offeret&punctus;  Quam dum ipse suscepit&punct-el; cantor prope stans incipiet</rubric>
+     <incipit type="antiphon" init="P">&A; <hi rend="music"> Pueri Hebraeorum <sic resp="DC">tollens</sic> ramos.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4416)"/> </hi></antiphon>
+     <rubric type="general">
+      Deinde ordinabit cantor et subdiaconus processionem&punctus; hoc modo&punctus; Primitus&punct-el; exibunt duo vexilla cum aqua benedicta et cruce discooperta&punctus; et candelabris melioribus illuminatis quos sequitur unus novitius cum thuribulario e diaconus cum texto&punctus; Quibus non depositis <gap reason="erasure" resp="DC"/> in medio choro stantibus&punct-el; incipiet cantor</rubric>
+<milestone n="73r" unit="page"/>
+          <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8530)"/> </hi></antiphon>
+          <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8539)"/> </hi></antiphon>
+          <rubric type="general">hic exibit processio&punctus;</rubric>
+          <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1976)"/> </hi></antiphon>
+<milestone n="73v" unit="page"/>
+          <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1437)"/> </hi></antiphon>
+          <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8531)"/> </hi></antiphon>
+          <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4107)"/> </hi></antiphon>
+          <ab>
+            <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8532)"/> </hi></antiphon>
+<milestone n="74r" unit="page"/>
+            <biblical src="PsalmsG"><xptr type="Bible" href="Psalmsg" from="ID(085.010)"/></biblical>
+            <incipit type="antiphon" init="D">&A; <hi rend="music"> Dignus es.</hi></incipit>
+            <biblical src="PsalmsG"><xptr type="Bible" href="Psalmsg" from="ID(064.002)"/></biblical>
+            <incipit type="antiphon" init="D">&A; <hi rend="music"> Dignus es.</hi></incipit>
+            <biblical src="PsalmsG"><xptr type="Bible" href="Psalmsg" from="ID(074.002)" to="ID(074.002) PATTERN(nomen tuum)"/></biblical>
+            <del type="erasure" resp="DC"><incipit type="antiphon">&A; <hi rend="music"> Dignus es.</hi></incipit></del>
+     </ab>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3142)"/> </hi></antiphon>
+     <rubric type="general">Post evangelium &punctus; </rubric><antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1983)"/> </hi></antiphon>
+          <rubric type="general">Abbas cum duobus </rubric><add place="margin" hand="later">flectans</add><antiphon>&A; <xptr href="Antiphons" type="aBody" from="ID(c1543)"/></antiphon>
+<milestone n="74v" unit="page"/>
+     <antiphon>
+      <rubric type="general">Cantor &punctus; </rubric><hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8533)"/></hi>
+      <rubric type="general">pueri</rubric> &V; <hi rend="music"><xptr href="Antiphons" type="vBody" from="ID(c8533)"/></hi>
+      <rubric type="general">pueri</rubric> &V; <hi rend="music"><xptr href="Antiphons" num="2" type="vBody" from="ID(c8533)"/></hi>
+      <rubric type="general">pueri</rubric> &V; <hi rend="music"><xptr href="Antiphons" num="3" type="vBody" from="ID(c8533)"/></hi>
+     </antiphon>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6961)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6961)"/>
+       </hi></respond>
+     <antiphon>
+      &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1852)"/> </hi>
+<milestone n="75r" unit="page"/>
+      &V; <rubric type="general">a tribus</rubric><xptr href="Antiphons" type="vBody" from="ID(c1852)"/>
+     </antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4380)"/> </hi></antiphon>
+     <respond num="2"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6287)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6287)"/>
+       </hi></respond>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3830)"/> </hi></antiphon>
+    </service>
+<milestone n="75v" unit="page"/>
+<!--
+***   Mass
+ -->
+     <gap desc="chants for the Palm Sunday mass" reason="not encoded" resp="DC" extent="line 2 of fol.75v to line 9 of fol.76v"/>
+<milestone n="76v" unit="page"/>
+<!--
+***   Terce, Sext, Nones, Second Vespers
+ -->
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <incipit type="hymn"><hi rend="music"> &Y; Nunc sancte nobis spiritus.</hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4416)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Legem pone. </hi></incipit>
+     <versicle>
+      <vslVerse>&V; Erue a framea deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3142)"/> </hi></antiphon>
+<milestone n="77r" unit="page"/>
+     <incipit type="psalm">&P; <hi rend="music"> Portio mea. </hi></incipit>
+     <versicle>
+      <vslVerse>&V; De ore leonis libera me domine&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4117)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Defecit. </hi></incipit>
+     <versicle>
+      <vslVerse>&V; Ne perdas cum impiis deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="psalm">&P; <hi rend="music"> Dixit dominus. </hi></incipit>
+     <incipit type="psalm">&P; <hi rend="music"> Donec ponam. </hi></incipit>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c6287)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c6287)"/>
+       </hi></respond>
+     <incipit type="hymn">&Y; Vexilla regis prodeunt.</incipit>
+     <versicle>
+      <vslVerse>&V; Eripe me domine ab homine malo&punctus;</vslVerse>
+     </versicle>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4835)"/> </hi> </antiphon>
+    </service>
+    <gap desc="details for concurrence of Annunciation and Palm Sunday" reason="not encoded" resp="DC" extent="6 lines of rubric, without music notations"/>
+   </Day>
+<!--
+* Saint Ambrose
+ -->
+   <Day num="1" code="14040400">
+    <rubric type="dayTitle">In Festivitate Sancti Ambrosii</rubric>
+    <service name="vesp1"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <respond num="1"><hi rend="music">
+       &R; <xptr href="Responds" type="rBody" from="ID(c7579)"/>
+       &V; <xptr href="Responds" type="rVerse" from="ID(c7579)"/>
+       </hi></respond>
+<milestone n="77v" unit="page"/>
+     <hymn>
+      <hVerse num="1"> <hi rend="music"><supplied reason="damage to manuscript" resp="DC">Jesu redemptor</supplied> omnium <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+      <hVerse num="2"> <hi rend="music">Tui sacri qua nominis <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+      <hVerse num="3"> <hi rend="music">Qui rite mundi gaudia <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+      <hVerse num="4"> <hi rend="music">Huius benigne annue <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+      <hVerse num="5"> <hi rend="music">Sit rex Christe piissime <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+     </hymn>
+     <incipit type="versicle">&V; Ecce sacerdos.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c8534)"/> &Ev; </hi> </antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8535)"/> &Ev; </hi></antiphon>
+    </service>
+    <gap desc="details of the morrow and major masses for St Ambrose's day" reason="not encoded" resp="DC" extent="6 half-lines of rubric, without music notations"/>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8536)"/> &Ev; </hi></antiphon>
+     <incipit type="versicle">&V; Amavit.</incipit>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4718)"/> &Ev; </hi></antiphon>
+     <incipit type="versicle">&V; Iustus ut palma.</incipit>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3522)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Dixit dominus. </hi></incipit>
+     <incipit type="respond" init="S">&R; <hi rend="music"> Sancte Ambrosi confessor.</hi></incipit>
+     <incipit type="hymn"><hi rend="music"> &Y; Iste confessor.</hi></incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3426)"/> </hi> </antiphon>
+    </service>
+   </Day>
+<!--
+**  Monday
+ -->
+   <Day num="2" code="07062000">
+    <rubric type="dayTitle">Feria secunda.</rubric>
+    <service name="lauds">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4965)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2405)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Beatus. </hi></incipit>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3515)"/> &Ev; </hi></antiphon>
+<milestone n="78r" unit="page"/>
+     <versicle>
+      <vslVerse>&V; Erue a framea deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1884)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; De ore leonis libera me domine&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4527)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; Ne perdas cum impiis deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Ad vesperas.</rubric>
+     <incipit type="respond" init="C">&R; Circumdederunt.</incipit>
+     <incipit type="hymn">&Y; Vexilla regis.</incipit>
+     <incipit type="versicle">&V; Eripe me domine ab.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c3799)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Tuesday
+ -->
+   <Day num="3" code="07063000">
+    <service name="lauds">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1432)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Benedictus&punctus;</hi></incipit>
+    </service>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4318)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4959)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2848)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1894)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c5111)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+<!--
+**  Wednesday
+ -->
+   <Day num="4" code="07064000">
+    <service name="lauds">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4570)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+<milestone n="78v" unit="page"/>
+    <service name="prime"><rubric type="serviceTitle"> Ad primam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3874)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="terce"><rubric type="serviceTitle"> Ad tertiam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c4349)"/> &Ev; </hi></antiphon>
+    </service>
+    <service name="sext"><rubric type="serviceTitle"> Ad sextam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1394)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; De ore leonis libera me domine&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="nones"><rubric type="serviceTitle"> Ad nonam.</rubric>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3916)"/> &Ev; </hi></antiphon>
+     <versicle>
+      <vslVerse>&V; Ne perdas cum impiis deus animam meam&punctus;</vslVerse>
+     </versicle>
+    </service>
+    <service name="vesp2"><rubric type="serviceTitle"> Vesperas.</rubric>
+     <incipit type="antiphon" init="L">&A; <hi rend="music"> Laudate.</hi></incipit>
+     <incipit type="respond" init="C"><rubric type="general">Ebdomadarius</rubric> &R; <hi rend="music"> Circumdederunt.</hi></incipit>
+     <incipit type="hymn">&Y; Vexilla.</incipit>
+     <incipit type="versicle">&V; Eripe me.</incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c4292)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+   <gap desc="details of ceremonies and ritual for Maundy Thursday" reason="not yet encoded" resp="DC" extent="one and one-half pages of rubric"/>
+<milestone n="79r" unit="page"/>
+<!--
+**  Maudy Thursday
+ -->
+   <Day num="5" code="07065000">
+    <service name="vesp2">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1754)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Credidi. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2008)"/> </hi></antiphon>
+<milestone n="79v" unit="page"/>
+     <incipit type="psalm">&P; <hi rend="music"> Ad dominum. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1199)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Eripe me. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2082)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Domine clamavi. </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1891)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Voce mea. </hi></incipit>
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1781)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+   </Day>
+
+   <Day num="6" code="07066000">
+    <rubric type="dayTitle">Feria sexta.</rubric>
+    <service name="vesp1">
+     <antiphon> &AE; <hi rend="music"> <xptr href="Antiphons" type="aBody" from="ID(c1970)"/> </hi> </antiphon>
+     <incipit type="psalm">&P; <hi rend="music">Magnificat&punctus;</hi></incipit>
+    </service>
+    <gap desc="details of ceremonies and ritual for Good Friday" reason="not yet encoded" resp="DC" extent="38 lines of rubric"/>
+<milestone n="80r" unit="page"/>
+    <service name="mandatum">
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2413)"/> </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c3688)"/> </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c2231)"/> </hi></antiphon>
+     <incipit type="psalm">&P; <hi rend="music"> Magnus dominus. &Ev; </hi></incipit>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1772)"/> </hi></antiphon>
+<milestone n="80v" unit="page"/>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c8537)"/> </hi></antiphon>
+     <antiphon> &A; <hi rend="music"><xptr href="Antiphons" type="aBody" from="ID(c1431)"/> </hi></antiphon>
+     <hymn>
+      <hVerse num="1"> <hi rend="music">Tellus ac aethra iubilent <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+      <hVerse num="2"> <hi rend="music">Hac nocte sanctorum omnium <gap reason="not encoded" resp="DC" extent="rest of verse" /></hi> </hVerse>
+<milestone n="81r" unit="page"/>
+      <hVerse num="3"> A celsis surgens dapibus <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="4"> Pallet servus obsequio <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="5"> Permitte Simon ablui <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="6"> Lavator thoris accubat <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="7"> Trux lupe Juda pessime <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="8"> Nexi solvuntur hodie <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+      <hVerse num="9"> Victori mortis inclitam <gap reason="not encoded" resp="DC" extent="rest of verse" /> </hVerse>
+     </hymn>
+     <rubric type="general">Postea ibunt in dormitorium ut supradictum est</rubric>
+    </service>
+    <gap desc="details of Good Friday ceremonial" reason="not yet encoded" resp="DC" extent="10 lines of rubric"/>
+   </Day>
+   <gap desc="remainder of manuscript" reason="not yet encoded" resp="DC"/>
+
+
+</body>
+</text>
+</CURSUS>
+<!--
+Local variables:
+mode: xml
+mode: outline-minor
+sgml-omittag:nil
+sgml-shorttag:nil
+sgml-namecase-general:nil
+sgml-general-insert-case:lower
+sgml-minimize-attributes:nil
+sgml-always-quote-attributes:t
+sgml-indent-step:2
+sgml-indent-data:t
+sgml-parent-document:nil
+sgml-default-dtd-file:"evesham.ced"
+sgml-exposed-tags:nil
+sgml-local-catalogs:nil
+sgml-local-ecat-files:nil
+End:
+-->

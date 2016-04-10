@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5348" nextid="c5350" id="c5349">
+   <header>
+      <usage ms="Ely" code="01031000">[11r] prime</usage>
+      <usage ms="Evm" code="01031000">[18v] terce</usage>
+      <usage ms="Glo" code="01031000">[16r] terce</usage>
+      <usage ms="Hyd" code="01014000">[6r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="01031000">[47v] terce</usage>
+   </header>
+   <aBody wit="CAO-C Hyd Evm Ely Wcb Glo"> Venite ascendamus ad montem domini quia de Sion exivit lex et verbum domini de Jerusalem</aBody>
+</ant>

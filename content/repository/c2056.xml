@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2055" nextid="c2057" id="c2056">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cumque ascendisset Judas de lacu perrexit ad locum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ubi iacebat sancta crux</rdg>
+         <rdg wit="CAO-M"> ubi sancta crux iacebat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

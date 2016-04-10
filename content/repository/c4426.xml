@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4425" nextid="c4427" id="c4426">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Quae mulier habens drachmas decem</rdg>
+         <rdg wit="CAO-L"> Quae mulier habet drachmas decem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R"> et si perdiderit drachmam unam</rdg>
+         <rdg wit="CAO-V CAO-F CAO-S CAO-L"> si perdiderit drachmam unam</rdg>
+      </app> nonne accendit lucernam
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-F CAO-L"> et evertit domum</rdg>
+         <rdg wit="CAO-B CAO-R CAO-S"> et everrit domum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> et quaerit diligenter donec inveniat</rdg>
+         <rdg wit="CAO-V"> et quaerit diligenter donec inveniam</rdg>
+      </app>
+   </aBody>
+</ant>

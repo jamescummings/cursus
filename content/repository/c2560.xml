@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2559" nextid="c2561" id="c2560">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F"> Ecclesia illisque necdum in locis erat
+     <app>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-D CAO-F"> et populus ille novam construxit</rdg>
+         <rdg wit="CAO-C"> populus ille novam construxit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-D CAO-F"> ac officia servientium clericorum</rdg>
+         <rdg wit="CAO-C"> a quo officia servientium clericorum</rdg>
+      </app> ex more constituit probatasque personas
+     <app>
+         <rdg wit="CAO-D CAO-F"> honore secundi ordinis ampliavit</rdg>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R"> honoris secundi ordinis ampliavit</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D"> Restituens populos creatori quos a devio cultu revocaverat creaturae</vBody>
+   </verses>
+</ant>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1164" nextid="c1166" id="c1165">
+   <header>
+      <usage ms="Cdm" code="01011000">[9r] matins inv</usage>
+      <usage ms="Hyd" code="01011000">[1r] matins inv</usage>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd"> Surgite vigilemus venite adoremus</rdg>
+         <rdg wit="CAO-L"> Surgite vigilemus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-R CAO-H Hyd Cdm"> quia nescitis horam</rdg>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-L"> quia nescimus hora</rdg>
+         <rdg wit="CAO-M"> quia nescimus horam</rdg>
+         <rdg wit="CAO-S"> quia nescitis hora</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L Hyd Cdm"> quando veniet dominus</rdg>
+         <rdg wit="CAO-H"> quando veniat dominus</rdg>
+      </app>
+   </aBody>
+</ant>

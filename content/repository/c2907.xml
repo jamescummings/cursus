@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2906" nextid="c2908" id="c2907">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Fulgebunt iusti et tamquam scintillae in arundineto discurrent</rdg>
+         <rdg wit="CAO-C"> Fulgebunt iusti et tamquam stille in arundineto discurrent</rdg>
+      </app> iudicabunt nationes
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S"> et regnabunt in aeternum</rdg>
+         <rdg wit="CAO-L"> et vivent in aeternum</rdg>
+         <rdg wit="CAO-E CAO-R"> et regnabunt in aeternum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

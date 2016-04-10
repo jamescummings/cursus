@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7132" nextid="c7134" id="c7133">
+   <rBody wit="CAO-B CAO-R"> Martinus sacerdos Dei cui post apostolos tantam gratiam dominus contulit ut tres mortuos suscitaret et alias virtutes praeclaras
+      <app>
+         <rdg wit="CAO-B CAO-R"> ostendit</rdg>
+         <rdg wit="CAO-R"> ostenderet</rdg>
+      </app> et inter alios confessores et martyres ut rosa fulget in Gallia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R">Corpore quidem virgineo blandum habebat eloquium gratus erat in moribus intenta mente caelo suspensus est</vBody>
+      <rep type="r" wit="CAO-B CAO-R">Et inter</rep>
+   </verses>
+</res>

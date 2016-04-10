@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3236" nextid="c3238" id="c3237">
+   <header>
+      <usage ms="Hyd" code="08016000">[104v] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F Hyd"> In Galilaea Jesum videbitis
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-R CAO-D CAO-F Hyd"> sicut dixit vobis alleluia</rdg>
+         <rdg wit="CAO-H"> sicut dixi vobis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

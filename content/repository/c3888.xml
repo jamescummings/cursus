@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3887" nextid="c3889" id="c3888">
+   <header>
+      <usage ms="Glo" code="14120600">[14r] vesp2-a1</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Glo"> Nobilissimis siquidem natalibus ortus
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S Glo"> velut lucifer Nicolaus emicuit</rdg>
+         <rdg wit="CAO-B CAO-R CAO-L"> velut lucifer Nicolaus enituit</rdg>
+      </app>
+   </aBody>
+</ant>

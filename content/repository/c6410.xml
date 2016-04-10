@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6409" nextid="c6411" id="c6410">
+   <header>
+      <usage ms="Alb2" code="02122500">[28v] matins-n3-r12</usage>
+      <usage ms="Evm" code="02122500">[33v] matins-n1-r4</usage>
+      <usage ms="Pet" code="02122500">[17v] matins-n3-r12</usage>
+      <usage ms="Wcb" code="02122500">[54r] matins-n1-r4</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Pet has extended 'Fabrice mundi' melisma for regressio</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-V CAO-F CAO-S CAO-L Alb2 Evm Wcb Pet"> Descendit de caelis deus verus
+      <app>
+         <rdg wit="CAO-F CAO-S CAO-L Alb2 Evm Wcb Pet"> a patre genitus</rdg>
+         <rdg wit="CAO-V"> et homo natus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F Alb2 Evm Wcb Pet"> introivit in uterum</rdg>
+         <rdg wit="CAO-S"> introibit in uterum</rdg>
+         <rdg wit="CAO-L"> introivit in utero</rdg>
+         <rdg wit="CAO-V"> introivit per uterum</rdg>
+      </app> virginis nobis
+      <app>
+         <rdg wit="CAO-V CAO-F CAO-L Alb2 Evm Wcb Pet"> ut appareret visibilis</rdg>
+         <rdg wit="CAO-S"> ut apparere visibilis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-S CAO-L Evm Wcb Pet"> indutus carne humana protoparentis edita</rdg>
+         <rdg wit="Alb2"> indutus forma protoparentis Adae</rdg>
+         <rdg wit="CAO-V"> indutus carne humana sine creatum semine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-F CAO-L Alb2 Evm Wcb Pet"> et exivit</rdg>
+         <rdg wit="CAO-S"> et exibit</rdg>
+      </app> per clausam portam
+      <app>
+         <rdg wit="CAO-F CAO-L Alb2"> deus et homo</rdg>
+         <rdg wit="CAO-V"> deus et homo verus</rdg>
+         <rdg wit="CAO-S Evm Wcb Pet" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-F Alb2"> lux et vita conditor mundi</rdg>
+         <rdg wit="Evm Wcb Pet"> conditor caelorum et universae fabrice mundi</rdg>
+         <rdg wit="CAO-L"> lux et decus conditor mundi</rdg>
+         <rdg wit="CAO-S"> lux et decus universae conditor mundi</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-F CAO-S CAO-L Alb2 Evm Wcb Pet"> Tamquam sponsus dominus procedens de thalamo suo</vBody>
+      <rep type="r" wit="CAO-V CAO-F CAO-L Alb2 Evm Wcb"> Et exivit</rep>
+      <rep type="r" wit="CAO-S"> Et exibit</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+      <rep type="r" wit="Pet">Fabrice mundi</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1474" nextid="c1476" id="c1475">
+   <aBody wit="CAO-E CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F"> Archangeli <name reg="Michael archang" type="saint">Michaelis</name> interventione suffulti</rdg>
+         <rdg wit="CAO-L"> Archangeli <name reg="Michael archang" type="saint">Michaelis</name> intercessione suffulti</rdg>
+      </app> te domine deprecamur
+     <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F"> ut quos honore prosequimur</rdg>
+         <rdg wit="CAO-L"> ut quod ore percepimus</rdg>
+      </app> contingamus
+     <app>
+         <rdg wit="CAO-R CAO-D CAO-F CAO-L"> et mente alleluia</rdg>
+         <rdg wit="CAO-E"> et meritis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

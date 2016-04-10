@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3553" nextid="c3555" id="c3554">
+   <header>
+      <usage ms="Glo" code="06034000">[58r] vesp2-a6</usage>
+   </header>
+   <aBody wit="CAO-M CAO-F Glo">
+      <app>
+         <rdg wit="CAO-M CAO-F"> Iusta vestibulum et altare</rdg>
+         <rdg wit="Glo"> Iuxta vestibulum et altare</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> plorabunt sacerdotes</rdg>
+         <rdg wit="CAO-F Glo"> plorabant sacerdotes</rdg>
+      </app> et levitae ministri domini
+     <app>
+         <rdg wit="CAO-M CAO-F"> et dicent</rdg>
+         <rdg wit="Glo"> dicentes</rdg>
+      </app> parce domine parce populo tuo et ne dissipes ora
+     <app>
+         <rdg wit="CAO-M CAO-F"> canentium ad te domine</rdg>
+         <rdg wit="Glo"> clamantium ad te domine</rdg>
+      </app>
+   </aBody>
+</ant>

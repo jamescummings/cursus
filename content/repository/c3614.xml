@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3613" nextid="c3615" id="c3614">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Libenter gloriabor in infirmitatibus meis ut inhabitet in me virtus Christi</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Quando enim infirmor</rdg>
+            <rdg wit="CAO-E CAO-F"> Quando autem infirmor</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> tunc fortior sum et potens</rdg>
+            <rdg wit="CAO-C"> tunc fortior sum</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2289" nextid="c2291" id="c2290">
+   <aBody wit="CAO-E CAO-V CAO-L"> Dixit dominus Thomae rex Gundophorus misit ad Syriam quaerere hominem arte architectonica eruditum
+     <app>
+         <rdg wit="CAO-E"> veni mittam te ad eum</rdg>
+         <rdg wit="CAO-V"> venit mittam te ad eum</rdg>
+         <rdg wit="CAO-L"> veni mittam ad eum</rdg>
+      </app>
+   </aBody>
+</ant>

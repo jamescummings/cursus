@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4566" nextid="c4568" id="c4567">
+   <header>
+      <usage ms="Hyd" code="01014000">[6r] vesp2-a2</usage>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-S Hyd"> Quoniam in aeternum</rdg>
+         <rdg wit="CAO-L"> Quoniam in saeculum</rdg>
+      </app> misericordia eius</aBody>
+</ant>

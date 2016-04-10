@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5179" nextid="c5181" id="c5180">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Tres video viros
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-H CAO-R CAO-D CAO-F"> ambulantes per medium ignis</rdg>
+         <rdg wit="CAO-E"> ambulantem per medium ignis</rdg>
+      </app> et aspectus quarti
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-F"> similitudo est filio dei alleluia</rdg>
+         <rdg wit="CAO-G"> similitudo filio dei alleluia</rdg>
+         <rdg wit="CAO-C CAO-H CAO-R"> similitudo est filii dei alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

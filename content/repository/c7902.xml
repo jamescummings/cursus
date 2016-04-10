@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7901" nextid="c7903" id="c7902">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Virgo gloriosa</rdg>
+         <rdg wit="CAO-L"> Virgo Caecilia</rdg>
+      </app> semper evangelium Christi gerebat
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in pectore</rdg>
+         <rdg wit="CAO-E"> in pectorem</rdg>
+      </app> et non diebus neque noctibus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> vacabat a colloquiis</rdg>
+         <rdg wit="CAO-S"> cessabat <sic resp="Hesbert">ad conloquis</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> divinis et oratione</rdg>
+         <rdg wit="CAO-V"> divinis et oratione<del status="unremarkable">m</del>
+         </rdg>
+         <rdg wit="CAO-L"> divinis et orationes</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-S"> Est secretum Valeriane quod tibi volo dicere
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-S"> angelum dei habeo amatorem</rdg>
+            <rdg wit="CAO-M"> angelum domini habeo amatorem</rdg>
+            <rdg wit="CAO-V"> angelum dei habeo amatore</rdg>
+         </app> qui nimio zelo custodit corpus meum</vBody>
+      <vBody id="c7902-1" type="r" wit="CAO-C CAO-H"> Est secretum Valeriane quod tibi volo dicere angelum dei habeo amatorem qui nimio zelo custodit corpus meum</vBody>
+      <rep corresp="c7902-1" type="r" wit="CAO-C CAO-H"> Et non</rep>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F CAO-L"> Cilicio Caecilia membra domabat deum gemitibus exorabat </vBody>
+      <vBody id="c7902-2" type="r" num="2" wit="CAO-C"> Fiat domine cor meum et corpus meum immaculatum ut non confundar</vBody>
+      <rep corresp="c7902-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody id="c7902-3" type="r" wit="CAO-H"> Astitit regina</vBody>
+      <rep corresp="c7902-3" type="r" wit="CAO-H">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-H</note>
+      </rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-L CAO-S">Et non</rep>
+      <rep type="r" wit="CAO-V">A colloquiis</rep>
+   </verses>
+</res>

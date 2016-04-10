@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1735" nextid="o1737" id="o1736">
+   <header>
+      <usage ms="Cdm" code="01011000">[10r] sext</usage>
+      <usage ms="Ely" code="01000000">[5v] </usage>
+      <usage ms="Hyd" code="01000000">[4v] </usage>
+      <usage ms="Mch" code="01036000">[15v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Mch Cdm Ely"> Festina quaesumus ne tardaveris domine deus noster et a diabolico furore nos potenter libera</pBody>
+</prayer>

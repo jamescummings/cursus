@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1566" nextid="o1568" id="o1567">
+   <header>
+      <usage ms="Alb2" code="07055000">[102v] vesp2</usage>
+      <usage ms="Cdm" code="07055000">[73r] vesp2</usage>
+      <usage ms="Cht" code="07055000">[52r] vesp2</usage>
+      <usage ms="Ely" code="07055000">[84r] vesp2</usage>
+      <usage ms="Evm" code="07055000">[139v] vesp2</usage>
+      <usage ms="Hyd" code="07055000">[89r] vesp2</usage>
+      <usage ms="Mch" code="07055000">[150v] vesp2</usage>
+      <usage ms="Wcb" code="07055000">[110r] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.303</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Ely Cht Hyd Wcb Cdm Mch">Esto quaesumus domine propitius plebi tuae</rdg>
+         <rdg wit="Alb2">Esto domine quaesumus propitius plebi tuae</rdg>
+         <rdg wit="Evm">Adesto quaesumus domine propitius plebi tuae</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Cht Hyd Evm Wcb Cdm Mch"> ut quae tibi non placent respuentes</rdg>
+         <rdg wit="Alb2"> ut quae tibi non placeant respuentes</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Cht"> tuorum repleatur</rdg>
+         <rdg wit="Hyd Evm Wcb"> tuorum potius repleatur</rdg>
+         <rdg wit="Alb2 Cdm Mch"> tuorum potius repleantur</rdg>
+      </app> delectationibus mandatorum</pBody>
+</prayer>

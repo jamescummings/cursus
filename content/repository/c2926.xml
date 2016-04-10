@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2925" nextid="c2927" id="c2926">
+   <header>
+      <usage ms="Alb2" code="02010100">[46r] matins-n2-a12</usage>
+      <usage ms="Alb2" code="02010108">[30r] commemoration</usage>
+      <usage ms="Cdm" code="02010100">[33v] matins-n2-a12</usage>
+      <usage ms="Cdm" code="02122600">[26r] commemoration</usage>
+      <usage ms="Cdm" code="14122900">[30v] vesp2 commemoratio</usage>
+      <usage ms="Ely" code="02122500">[21r] nones</usage>
+      <usage ms="Hyd" code="02122500">[21r] nones</usage>
+      <usage ms="Pet" code="02122508">[19v] </usage>
+      <usage ms="Wcb" code="02122500">[58r] commemoration</usage>
+      <usage ms="Wor" code="02122500">[16r] sext</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.144</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wcb Cdm Ely Wor Pet">Gaudeamus omnes fideles salvator noster natus est
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F Alb2 Wcb"> in mundo</rdg>
+         <rdg wit="CAO-B CAO-D CAO-S Hyd Cdm Ely Wor Pet"> in mundum</rdg>
+         <rdg wit="CAO-L"> in terris</rdg>
+      </app> hodie processit
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L Wcb Cdm Pet"> proles magnifici germinis</rdg>
+         <rdg wit="Alb2"> proles magnifici generis</rdg>
+         <rdg wit="CAO-D Hyd Ely Wor"> proles magnifico germine</rdg>
+         <rdg wit="CAO-C"> prolis magnificae germinis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Wcb Cdm Ely Wor Pet"> et perseverat pudor virginitatis</rdg>
+         <rdg wit="Alb2"> et perseveravit pudor virginitatis</rdg>
+         <rdg wit="CAO-C"> et perseveret pudor virginitatis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

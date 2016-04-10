@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7561" nextid="c7563" id="c7562">
+   <header>
+      <usage ms="Alb2" code="01011000">[2v] matins-n2-r5</usage>
+      <usage ms="Bat" code="01011000">[2r] matins-n2-r5</usage>
+      <usage ms="Cdm" code="01011000">[9v] matins-n2-r5</usage>
+      <usage ms="Ely" code="01011000">[3r] matins-n2-r7</usage>
+      <usage ms="Evm" code="01011000">[5r] matins-n2-r5</usage>
+      <usage ms="Hyd" code="01011000">[2r] matins-n2-r7</usage>
+      <usage ms="Mch" code="01011000">[2v] matins-n2-r6</usage>
+      <usage ms="Wcb" code="01011000">[41v] matins-n2-r5</usage>
+      <usage ms="Wor" code="01011000">[2r] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Salvatorem exspectamus dominum Jesum Christum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Mch Cdm Ely Wor"> qui reformavit</rdg>
+         <rdg wit="Alb2 Evm Wcb Bat"> qui reformabit</rdg>
+      </app> corpus humilitatis nostrae configuratum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> corpori</rdg>
+         <rdg wit="CAO-M CAO-V"> corporis</rdg>
+      </app> claritatis suae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Mch"> Praeoccupemus faciem eius in confessione et in psalmis iubilemus ei</vBody>
+      <vBody type="r" wit="CAO-G CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Wcb Ely Wor Bat"> Sobrie et iuste et pie vivamus in hoc saeculo exspectantes beatam spem et adventum gloriae magni dei</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Mch Cdm Ely Wor Bat">Qui reformavit</rep>
+      <rep type="r" wit="Alb2 Evm Wcb Bat">Qui reformabit</rep>
+      <rep type="r" wit="CAO-B CAO-M">Configuratum</rep>
+   </verses>
+</res>

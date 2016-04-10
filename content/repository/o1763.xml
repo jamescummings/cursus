@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1762" nextid="o1764" id="o1763">
+   <header>
+      <usage ms="Bat" code="02010400">[28r] lauds</usage>
+      <usage ms="Wcb" code="02122800">[65r] nones</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Fulda no.101</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb Bat"> Ipsi nobis
+     <app>
+         <rdg wit="Wcb"> domine quaesumus</rdg>
+         <rdg wit="Bat"> quaesumus domine</rdg>
+      </app> postulent mentium puritatem quorum innocentiam hodie solemniter celebramus</pBody>
+</prayer>

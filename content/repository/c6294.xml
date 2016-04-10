@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6293" nextid="c6295" id="c6294">
+   <rBody wit="CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-F"> Clarissimis viris</rdg>
+         <rdg wit="CAO-R"> Clarissimis quotidie viris</rdg>
+      </app> Marcelliano et Marco
+      <app>
+         <rdg wit="CAO-F"> per singulos dies</rdg>
+         <rdg wit="CAO-R" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> suadebat saeculi blandimenta respuere et momentanea tormentorum genera non timere</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Beatus Sebastianus suadebat Marcelliano et Marco respuere blandimenta mulierum</vBody>
+      <vBody type="r" wit="CAO-F"> Ut vidit beatus Sebastianus athletas Dei immenso certaminis pondere fatigari in medio eorum se obiiciens suadebat saeculi blandimenta respuere</vBody>
+      <rep type="r" wit="CAO-R CAO-F">Et momentanea</rep>
+   </verses>
+</res>

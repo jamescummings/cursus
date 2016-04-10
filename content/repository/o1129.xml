@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1127" nextid="o1130" id="o1129">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Cdm" code="07012000">[58v] vesp2</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[119r] vesp2</usage>
+   </header>
+   <pBody wit="Hyd Cht Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Hyd Cht Cdm"> Vide domine infirmitates nostras</rdg>
+         <rdg wit="Alb2"> Vide domine infirmitatem nostram</rdg>
+         <rdg wit="Mch"> Vide domine fragilitates nostras</rdg>
+      </app>
+      <app>
+         <rdg wit="Hyd Cht Alb2 Cdm"> et celeri</rdg>
+         <rdg wit="Mch"> et sceleri</rdg>
+      </app> nobis pietate succurre et ad beneficia recolenda</pBody>
+</prayer>

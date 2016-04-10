@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4162" nextid="c4164" id="c4163">
+   <header>
+      <usage ms="Cdm" code="08013000">[83r] sext</usage>
+      <usage ms="Hyd" code="08013000">[103r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-D CAO-F CAO-L Hyd Cdm"> Oportebat pati Christum
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-L Hyd Cdm"> et resurgere a mortuis alleluia</rdg>
+         <rdg wit="CAO-C"> et resurgere a mortuis</rdg>
+      </app>
+   </aBody>
+</ant>

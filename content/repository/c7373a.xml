@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7373" nextid="c7373b" id="c7373a">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">For St Denys</note>
+   <rBody wit="CAO-C CAO-D CAO-F"> Per beatum Dionysium
+     <app>
+         <rdg wit="CAO-D CAO-F"> fiunt</rdg>
+         <rdg wit="CAO-C"> fiunt hic</rdg>
+      </app> divina mysteria per orationes eius caeci illuminantur et natale eius daemones effugantur et infirmi sanantur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Iustorum autem animae in manu dei sunt et non tanget illos tormentum malitiae</vBody>
+      <vBody type="r" wit="CAO-F"> Peccatorum indulgentia condonatur et reorum vincula relaxantur</vBody>
+      <rep type="r" wit="CAO-F">Et infirmi</rep>
+   </verses>
+</res>

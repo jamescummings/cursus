@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1659" nextid="o1661" id="o1660">
+   <header>
+      <usage ms="Alb2" code="02122500">[29v] terce</usage>
+      <usage ms="Bat" code="02122500">[18r] lauds</usage>
+      <usage ms="Cdm" code="02122500">[23v] terce</usage>
+      <usage ms="Ely" code="02122500">[21r] lauds</usage>
+      <usage ms="Evm" code="02122500">[37v] terce</usage>
+      <usage ms="Hyd" code="02122500">[21r] lauds</usage>
+      <usage ms="Wcb" code="02122500">[57v] terce</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.49</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Wcb Bat Cdm Ely"> Concede quaesumus omnipotens deus ut nos unigeniti tui nova per carnem nativitas liberet quos sub peccati iugo vetusta servitus tenet</pBody>
+</prayer>

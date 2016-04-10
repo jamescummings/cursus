@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1328" nextid="c1330" id="c1329">
+   <header>
+      <usage ms="Pet" code="06011000">[54r] vesp1</usage>
+      <usage ms="Wor" code="06011000">[35v] vesp1-a1</usage>
+   </header>
+   <aBody wit="CAO Wor Pet"> Alleluia alleluia alleluia alleluia</aBody>
+</ant>

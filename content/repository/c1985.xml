@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1984b" nextid="c1986" id="c1985">
+   <header>
+      <usage ms="Alb2" code="05041000"/>
+      <usage ms="Cht" code="05031000">[4v] lauds gosp</usage>
+      <usage ms="Hyd" code="05041000"/>
+      <usage ms="Pet" code="05041000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet Cht"> Cum autem descendisset Jesus de monte</rdg>
+         <rdg wit="CAO-E"> Cum descendisset Jesus de monte</rdg>
+      </app> ecce leprosus veniens adorabat eum dicens domine si vis potes me mundare et extendens manum tetigit eum dicens volo mundare</aBody>
+</ant>

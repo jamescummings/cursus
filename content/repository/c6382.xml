@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6381" nextid="c6383" id="c6382">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Cumque sanctus Benedictus
+      <app>
+         <rdg wit="CAO-D CAO-S CAO-L"> in cellam</rdg>
+         <rdg wit="CAO-F"> in cella</rdg>
+      </app> consisteret elevatis sursum oculis vidit sororis suae animam de corpore eius
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> egressam</rdg>
+         <rdg wit="CAO-S"> egressa</rdg>
+      </app> in columbae specie caeli secreta
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> penetrare</rdg>
+         <rdg wit="CAO-L"> penetravit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Qui tantae eius gloriae
+       <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> congaudens omnipotenti Deo</rdg>
+            <rdg wit="CAO-L"> congaudens in hymnis et laudibus</rdg>
+         </app> gratias
+       <app>
+            <rdg wit="CAO-F CAO-S"> retulit</rdg>
+            <rdg wit="CAO-D"> reddidit</rdg>
+            <rdg wit="CAO-L"> referens</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> eiusque</rdg>
+            <rdg wit="CAO-L"> eius</rdg>
+         </app> obitum fratribus denuntiavit</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L">In columbae</rep>
+   </verses>
+</res>

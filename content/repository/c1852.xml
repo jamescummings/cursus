@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1851" nextid="c1853" id="c1852">
+   <header>
+      <usage ms="Glo" code="07061000">[74v] procession-a15</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Glo shows no regression.  The pseudo-regression at 'Ne forte' reprises the melody of the verse only from '[ve-]niant Romani'</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-D CAO-F Glo"> Collegerunt pontifices et pharisaei concilium et dicebant
+     <app>
+         <rdg wit="CAO-H CAO-F Glo"> quid facimus</rdg>
+         <rdg wit="CAO-C"> quid faciemus</rdg>
+         <rdg wit="CAO-D"> quid fecimus</rdg>
+      </app> quia hic homo multa signa facit
+     <app>
+         <rdg wit="CAO-H CAO-D CAO-F Glo"> si dimittimus eum sic</rdg>
+         <rdg wit="CAO-C"> si dimittimus eum sit</rdg>
+      </app> omnes credent in eum
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-D CAO-F"> ne forte veniant Romani</rdg>
+         <rdg wit="Glo"> et veniant Romani</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-F"> et tollant nostrum locum et gentem</rdg>
+         <rdg wit="CAO-C CAO-D Glo"> et tollent nostrum locum et gentem</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-H CAO-D CAO-F"> Unus autem ex ipsis Caiphas nomine cum esset pontifex anni illius prophetavit dicens
+      <app>
+            <rdg wit="CAO-H CAO-F"> expedit vobis</rdg>
+            <rdg wit="CAO-D"> expedit nobis</rdg>
+         </app> ut unus moriatur homo pro populo et non tota gens pereat ab illo ergo die
+      <app>
+            <rdg wit="CAO-H CAO-D"> cogitaverunt interficere</rdg>
+            <rdg wit="CAO-F"> cogitaverunt ut interficerent</rdg>
+         </app> eum dicentes</vBody>
+      <vBody type="a" num="2" wit="CAO-C">Unus autem ex illis Caphas nomine cum esset pontifex anni illius prophetavit dicens expedit nobis ut unus moriatur homo pro populo et non tota gens pereat</vBody>
+      <vBody type="a" wit="Glo"> Unus autem ex illis Caiphas nomine cum esset pontifex anni illius prophetavit dicens expedit vobis ut unus moriatur homo pro populo et non tota gens pereat ab <corr sic="illegible">illo <gap reason="illegible" resp="DC" extent="one word of two syllables"/>
+         </corr> die cogitaverunt interficere eum dicentes ne forte veniant Romani et tollent nostrum locum et gentem</vBody>
+      <rep type="a" wit="CAO-C CAO-H CAO-D CAO-F"> Ne forte</rep>
+   </verses>
+</ant>

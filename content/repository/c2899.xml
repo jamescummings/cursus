@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2898" nextid="c2900" id="c2899">
+   <aBody wit="CAO-C CAO-V">
+      <app>
+         <rdg wit="CAO-C"> Fratres glorificate et portate deum</rdg>
+         <rdg wit="CAO-V"> Fratres glorificate et portate dominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> in corpore vestro</rdg>
+         <rdg wit="CAO-V"> in corpore vestro alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

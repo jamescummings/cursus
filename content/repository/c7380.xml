@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7379" nextid="c7381" id="c7380">
+   <rBody wit="CAO-C CAO-E"> Petit puella caput Joannis
+     <app>
+         <rdg wit="CAO-E"> in disco</rdg>
+         <rdg wit="CAO-C"> in carcere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> quo accepto</rdg>
+         <rdg wit="CAO-C"> quo ablato</rdg>
+      </app> dedit
+     <app>
+         <rdg wit="CAO-E"> matri suae</rdg>
+         <rdg wit="CAO-C"> matris suae</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Herodes funestus iussit interficere et afferri caput Joannis in disco</vBody>
+      <vBody type="r" wit="CAO-C"> Puellae saltanti imperavit mater nihil aliud petas nisi caput Joannis baptistae</vBody>
+      <rep type="r" wit="CAO-E">Quo accepto</rep>
+      <rep type="r" wit="CAO-C">Quo ablato</rep>
+   </verses>
+</res>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8579" nextid="c8581" id="c8580">
+   <header>
+      <usage ms="Alb2" code="02122600">[31v] matins-n2-a11</usage>
+      <usage ms="Evm" code="02122600">[39v] matins-n2-a11</usage>
+   </header>
+   <aBody wit="Alb2 Evm"> Illius praeceptum beatus Stephanus gestabat in animo pro inimicis orando cuius praesentiam cernebat in caelo</aBody>
+</ant>

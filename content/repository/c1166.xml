@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1165" nextid="c1167" id="c1166">
+   <header>
+      <usage ms="Cdm" code="08012000">[81v] matins-inv</usage>
+      <usage ms="Hyd" code="08012000">[101v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Cdm"> Surrexit dominus vere
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Cdm"> alleluia</rdg>
+         <rdg wit="CAO-G"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

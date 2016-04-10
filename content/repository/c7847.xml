@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7846" nextid="c7848" id="c7847">
+   <rBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">Verus amor turmis quia iunxit te duodenis</l>
+         <l part="N">Ut pariter posses illarum ferre labores</l>
+         <l part="N">Nos fac consortes caelorum civibus omnes</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <verse type="stanza">
+            <l part="N">Non nos tartarei demergant infima claustri</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-L">Nos</rep>
+   </verses>
+</res>

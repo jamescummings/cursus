@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Laodiceans">
+<body>
+  <rubric type="bible-incipit" id="B.Laodiceans.incipit.001">
+    <reference>
+      <bookName>Laodiceans</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT EPISTULA AD LAODICENSES</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Laodiceans.001.001">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Paulus apostolus non ab hominibus neque per hominem sed per Iesum Christum, fratribus qui sunt Laodiciae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.002">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>gratia vobis et pax a Deo Patre et Domino Iesu Christo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.003">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>gratias ago Christo per omnem orationem meam, quod permanentes estis in eo et perseverantes in operibus eius , promissum expectantes in diem iudicii .</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.004">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>neque destituant vos quorundam vaniloquia insinuantium, ut vos evertant a veritate evangelii quod a me praedicatur.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.005">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>et nunc faciet Deus , ut qui sunt ex me ad profectum veritatis evangelii deservientes et facientes benignitatem operum quae salutis vitae aeternae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.006">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et nunc palam sunt vincula mea quae patior in Christo; quibus laetor et gaudeo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.007">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>et hoc mihi est ad salutem perpetuam; quod ipsum factum orationibus vestris et administrantem Spiritum Sanctum, sive per vitam sive per mortem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.008">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>est enim mihi vere vita in Christo et mori gaudium.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.009">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et in ipsum in vobis faciet misericordiam suam , ut eandem dilectionem habeatis et sitis unianimes.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.010">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>ergo, dilectissimi, ut audistis praesentia mei , ita retinete et facite in timore Dei, et erit vobis vita in aeternum;</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.011">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>est enim Deus qui operatur in vos .</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.012">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>et facite sine retractu quaecumque facitis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.013">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>et quod est , dilectissimi, gaudete in Christo. et praecavete sordidos in lucro .</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.014">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>omnes sint petitiones vestrae palam apud Deum . et estote firmi in sensu Christi.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.015">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>et quae integra et vera et pudica et iusta et amabilia facite.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.016">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>et quae audistis et accepistis, in corde retinete, et erit vobis pax.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.017">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l/>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.018">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>salutant vos sancti .</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.019">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>gratia Domini Iesu cum spiritu vestro.</l>
+    </verse>
+    <verse type="bible-verse" id="B.Laodiceans.001.020">
+      <reference>
+        <bookName>Laodiceans</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>et facite legi Colosensium vobis .</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Laodiceans.colophon.001">
+    <reference>
+      <bookName>Laodiceans</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT AD LAODICENSES</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

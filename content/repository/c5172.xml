@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5171" nextid="c5173" id="c5172">
+   <header>
+      <usage ms="Alb2" code="06031000">[71r] matins-n3-a1</usage>
+      <usage ms="Bat" code="06031000">[46r] prime</usage>
+      <usage ms="Cdm" code="06031000">terce</usage>
+      <usage ms="Ely" code="06031000">[63r] matins-n3</usage>
+      <usage ms="Evm" code="06031000">[100v] matins-n3</usage>
+      <usage ms="Hyd" code="06031000">[66r] matins-n3 inv</usage>
+      <usage ms="Mch" code="06031000">[107v] matins-n3</usage>
+      <usage ms="Mch" code="06031000">[108v] prime</usage>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[89v] matins-n3</usage>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Wor Pet Ely Evm Wcb Cdm Mch Bat"> Transeunte domino clamabat caecus ad eum miserere mei fili David</aBody>
+</ant>

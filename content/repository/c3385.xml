@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3384" nextid="c3386" id="c3385">
+   <header>
+      <usage ms="Cht" code="07013000"/>
+      <usage ms="Evm" code="07013000"/>
+      <usage ms="Wcb" code="07013000"/>
+   </header>
+   <aBody wit="CAO-E CAO-F Cht Evm Wcb">
+      <app>
+         <rdg wit="CAO-E Cht Evm Wcb"> Intravit Jesus in templum dei</rdg>
+         <rdg wit="CAO-F"> Intravit Jesus in templum</rdg>
+      </app> et eiiciebat omnes vendentes et ementes et mensas nummulariorum cathedras vendentium columbas evertit</aBody>
+   <aBody wit="Glo" type="incipit"> Intravit Jesus in templum dei</aBody>
+</ant>

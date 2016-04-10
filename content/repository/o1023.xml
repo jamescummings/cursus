@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1022" nextid="o1024" id="o1023">
+   <header>
+      <usage ms="Mch" code="06034000">[110r] terce</usage>
+      <usage ms="Ely" code="06037000"/>
+   </header>
+   <pBody wit="Ely Mch"> Da nobis quaesumus omnipotens deus sic peragere inchoata ieiunia ut in die resurrectionis purificatis meritibus ad sanctam mereamur accedere pascha</pBody>
+</prayer>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5083" nextid="c5085" id="c5084">
+   <header>
+      <usage ms="Alb2" code="02010100">[45v] matins-n1-a5</usage>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Alb2" code="02122500">[24v] matins-n1-a4</usage>
+      <usage ms="Bat" code="02122500">[15r] matins-n1-a4</usage>
+      <usage ms="Cdm" code="02010100">[33r] matins-n1-a5</usage>
+      <usage ms="Cdm" code="02122500">[21v] matins-n1-a4</usage>
+      <usage ms="Ely" code="02122500">[18r] matins-n1-a5</usage>
+      <usage ms="Evm" code="02122500">[32v] matins-n1-a5</usage>
+      <usage ms="Hyd" code="02010100">matins-n1</usage>
+      <usage ms="Hyd" code="02122500">matins-n1-a5</usage>
+      <usage ms="Pet" code="02122500">[15r] matins-n1-a5</usage>
+      <usage ms="Wcb" code="02122500">[53v] matins-n1-a5</usage>
+      <usage ms="Wor" code="02122500">[13v] matins-n1-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Evm Wcb Bat Cdm Ely Wor Pet"> Suscepimus deus misericordiam tuam in medio templi tui</aBody>
+</ant>

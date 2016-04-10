@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4841" nextid="c4843" id="c4842">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sebastianus dixit Marcelliano et Marco
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R"> non vos seducant blandimenta mulierum</rdg>
+         <rdg wit="CAO-V CAO-D CAO-F CAO-S CAO-L"> non vos seducat blandimenta mulierum</rdg>
+      </app>
+   </aBody>
+</ant>

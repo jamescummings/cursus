@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3482b" nextid="c3484" id="c3483">
+   <header>
+      <usage ms="Cdm" code="08014000">[83r] matins-n1-a1</usage>
+      <usage ms="Hyd" code="08000000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. c8559</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R Hyd"> Jesum quem quaeritis non est hic</rdg>
+         <rdg wit="CAO-C CAO-F CAO-L Cdm"> Jesum quem quaeris non est hic</rdg>
+         <rdg wit="CAO-D"> Jesum quem <corr sic="quaerit">quaeris</corr> non est hic</rdg>
+      </app>sed surrexit
+     <app>
+         <rdg wit="CAO-D CAO-F Hyd Cdm"> recordare qualiter locutus est vobis</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R"> recordamini qualiter locutus est vobis</rdg>
+         <rdg wit="CAO-C"> recordare qualiter locutus sit vobis</rdg>
+         <rdg wit="CAO-L"> recordare qualiter locutus sum vobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-D CAO-L Cdm"> dum adhuc in Galilaea esset alleluia</rdg>
+         <rdg wit="CAO-R"> cum adhuc in Galilaea esset alleluia</rdg>
+         <rdg wit="CAO-F"> dum adhuc in Galilaeam esset alleluia</rdg>
+         <rdg wit="Hyd"> dum esset in Galilea alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6510" nextid="c6512" id="c6511">
+   <header>
+      <usage ms="Hyd" code="10500000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Domine rex omnipotens in ditione tua cuncta sunt posita
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et non est qui</rdg>
+         <rdg wit="CAO-G"> et non qui</rdg>
+      </app> possit resistere voluntati tuae libera nos propter nomen tuum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Hyd"> Exaudi orationem nostram</rdg>
+            <rdg wit="CAO-G"> Exaudi domine orationem nostram</rdg>
+            <rdg wit="CAO-D"> Exaudi deprecationem nostram</rdg>
+         </app> et converte luctum nostrum in gaudium</vBody>
+      <vBody id="c6511-1" type="r" wit="CAO-C"> Exaudi orationem nostram et converte luctum nostrum in gaudium</vBody>
+      <rep corresp="c6511-1" type="r" wit="CAO-C"> Propter</rep>
+      <vBody id="c6511-2" type="r" wit="CAO-C"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <rep corresp="c6511-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody type="r" wit="CAO-B CAO-M"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" wit="CAO-L"> Tu fecisti caelum et terram et quidquid caeli ambitu continentur</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-B CAO-M CAO-L"> Libera</rep>
+      <rep type="r" wit="Hyd"> Propter nomen</rep>
+   </verses>
+</res>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5202" nextid="c5204" id="c5203">
+   <header>
+      <usage ms="Hyd" code="02125400">[5v] matins-n1-a2</usage>
+      <usage ms="Hyd" code="07011000">[71r] sext</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Tu es deus qui facis mirabilia</aBody>
+</ant>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1914" nextid="c1916" id="c1915">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] prime-a1</usage>
+      <usage ms="Bat" code="06011000">[43r] prime</usage>
+      <usage ms="Cdm" code="06011000">[50r] prime-a1</usage>
+      <usage ms="Cht" code="06011000">[12v] prime-a1</usage>
+      <usage ms="Ely" code="06011000">[60v] prime-a1</usage>
+      <usage ms="Evm" code="06011000">[94v] prime</usage>
+      <usage ms="Glo" code="06011000">[49r] prime</usage>
+      <usage ms="Hyd" code="06011000">[62r] prime gosp</usage>
+      <usage ms="Mch" code="06011000">[102r] prime</usage>
+      <usage ms="Pet" code="06011000">[56v] terce</usage>
+      <usage ms="Wcb" code="06011000">[86v] prime</usage>
+      <usage ms="Wor" code="06011000">[37v] prime-a1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-R CAO-D CAO-F Hyd Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-D CAO-F Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch"> Conventione autem facta cum operariis</rdg>
+         <rdg wit="Hyd Bat"> Conventione autem facta cum operarios</rdg>
+         <rdg wit="CAO-R"> Conventione autem facta</rdg>
+      </app> ex denario diurno
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-D CAO-F Hyd Alb2 Cht Wor Pet Ely Wcb Evm Glo Cdm Mch Bat"> misit eos in vineam suam</rdg>
+         <rdg wit="CAO-R"> misit eos dominus in vineam suam</rdg>
+      </app>
+   </aBody>
+</ant>

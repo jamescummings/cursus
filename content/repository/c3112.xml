@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3111" nextid="c3113" id="c3112">
+   <header>
+      <usage ms="Evm" code="02122500">[38r] nones</usage>
+      <usage ms="Pet" code="02122500">[18v] nones</usage>
+      <usage ms="Wcb" code="02122500">[57v] nones</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.159</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-H CAO-R Evm Wcb Pet"> Hodie natus est nobis rex regum dominus hodie venit nobis salus mundi redemptio nostra alleluia</aBody>
+</ant>

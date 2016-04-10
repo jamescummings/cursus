@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6230" nextid="c6232" id="c6231">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Beatus vir qui metuit dominum</rdg>
+         <rdg wit="CAO-C"> Beatus vir qui timet dominum</rdg>
+      </app> alleluia in mandatis eius cupit nimis
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-E CAO-H"> alleluia alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Potens in terra erit semen eius generatio rectorum benedicetur</vBody>
+      <vBody type="r" wit="CAO-L"> Gloria et divitiae in domo eius et justitia eius manet in saeculum saeculi</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">In mandatis</rep>
+      <rep type="r" wit="CAO-S"> Alleluia</rep>
+   </verses>
+</res>

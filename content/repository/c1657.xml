@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1656" nextid="c1658" id="c1657">
+   <aBody wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-F CAO-S"> Beatus <name reg="Petrus" type="saint">Petrus</name> dum penderet in cruce</rdg>
+         <rdg wit="CAO-V"> Beatus <name reg="Petrus" type="saint">Petrus</name> dum penderet in crucem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R CAO-F CAO-S"> alacri vultu dominum deprecabatur</rdg>
+         <rdg wit="CAO-M"> alacri vultu domino deprecatus est</rdg>
+         <rdg wit="CAO-V"> alacri vultu domino deprecabatur</rdg>
+         <rdg wit="CAO-C"> alacri vultu dominum deprecabat</rdg>
+         <rdg wit="CAO-H"> alacri vultu dominum deprecabatur dicens</rdg>
+      </app> domine Jesu Christe commendo tibi
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-F CAO-S"> oves quas tradidisti mihi</rdg>
+         <rdg wit="CAO-V"> oves quos tradidisti mihi</rdg>
+      </app>
+   </aBody>
+</ant>

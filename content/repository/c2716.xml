@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2715" nextid="c2717" id="c2716">
+   <header>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Glo" code="06031000">[57v] sext</usage>
+      <usage ms="Wcb" code="06031000">[90v] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-F CAO-S Evm Wcb Glo"> Et qui praeibant increpabant eum ut taceret
+     <app>
+         <rdg wit="CAO-E CAO-F CAO-S Evm Wcb Glo"> ipse vero multo magis clamabat</rdg>
+         <rdg wit="CAO-C"> ipse autem magis et magis clamabat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F Evm Wcb Glo"> miserere mei fili David</rdg>
+         <rdg wit="CAO-C CAO-S"> fili David miserere mei</rdg>
+      </app>
+   </aBody>
+</ant>

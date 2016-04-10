@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6182" nextid="c6184" id="c6183">
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R CAO-F"> Beati qui persecutionem patiuntur propter justitiam quoniam ipsorum est regnum caelorum
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> beati pacifici quoniam filii Dei vocabuntur</rdg>
+         <rdg wit="CAO-E CAO-F" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R"> Beati mundo corde quoniam ipsi Deum videbunt</vBody>
+      <vBody type="r" wit="CAO-E"> Beati pacifici beati mundo corde quoniam ipsi Deum videbunt</vBody>
+      <vBody type="r" wit="CAO-F"> Beati pacifici quoniam filii Dei vocabuntur beati mundo corde</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R">Beati</rep>
+      <rep type="r" wit="CAO-E CAO-F">Quoniam ipsorum</rep>
+   </verses>
+</res>

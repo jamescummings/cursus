@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9539" nextid="c9541" id="c9540">
+   <header>
+      <usage ms="Alb2" code="06011000">[65v] matins-n2-r6</usage>
+      <usage ms="Cdm" code="06011000">[49r] matins-n2-r6</usage>
+      <usage ms="Ely" code="06011000">[59v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="06011000">[61r] matins-n2-r6</usage>
+      <usage ms="Pet" code="06011000">[55r] matins-n2-r6</usage>
+      <usage ms="Wcb" code="06011000">[85v] matins-n2-r8</usage>
+      <usage ms="Wor" code="06011000">[36v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="Hyd Pet Ely Wcb Alb2 Wor Cdm"> Dixit dominus ad Adam de ligno quod est in medio paradisi ne comedas
+     <app>
+         <rdg wit="Hyd Pet Ely Wor Cdm"> in qua hora</rdg>
+         <rdg wit="Alb2 Wcb"> in quacumque die</rdg>
+      </app> comederis morte morieris</rBody>
+   <verses>
+      <vBody type="r" wit="Pet Ely Hyd"> Ex omni ligno paradisi comede de ligno autem scientiae boni et mali ne comedas</vBody>
+      <vBody type="r" wit="Wcb Alb2 Cdm Wor"> Praecepitque ei dominus deus dicens <app>
+            <rdg wit="Alb2 Wor">de omni ligno paradisi comede</rdg>
+            <rdg wit="Wcb Cdm">ex omni ligno paradisi comede</rdg>
+         </app> de ligno autem scientiae boni et mali ne comedas</vBody>
+      <rep type="r" wit="Alb2 Wcb"> In quacumque</rep>
+      <rep type="r" wit="Pet Ely Wor Cdm Hyd"> In qua</rep>
+   </verses>
+</res>

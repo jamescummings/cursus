@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6685" nextid="c6687" id="c6686">
+   <header>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <rBody wit="CAO-H CAO-S CAO-L Hyd"> Exaudi nos deus salutaris noster</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-S CAO-L Hyd"> Spes omnium finium terrae et in mari longe</vBody>
+      <rep type="r" wit="CAO-S"> Salutaris</rep>
+      <dox type="r" wit="Hyd">Gloria patri</dox>
+   </verses>
+</res>

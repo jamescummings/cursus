@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6245" nextid="c6247" id="c6246">
+   <rBody wit="CAO-F"> Benedictione postulata atque percepta ad sancti patris Benedicti imperium concitus perrexit Maurus ambulansque super aquas Placidum puerum per capillos tenuit et illaesus cum eo velociter rediit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F">Patris ad imperium pergens Maurus Benedicti currit in undoso gurgite more Petri</vBody>
+      <rep type="r" wit="CAO-F">Ambulansque</rep>
+      <prosula wit="CAO-F">
+         <verse type="stanza">
+            <l part="N">Veloci adminiculo</l>
+            <l part="N">Subvenit condiscipulo</l>
+            <l part="N">In supremo periculo</l>
+            <l part="N">Mortis et in articulo</l>
+            <l part="N">Maurus fisus in domino</l>
+            <l part="N">Oboediens imperio</l>
+            <l part="N">Non exspectat dum Placido</l>
+            <l part="N">Deducat ravim naufrago</l>
+            <l part="N">Sed caelesti remigio</l>
+            <l part="N">Utitur pro navigio</l>
+            <l part="N">Pontem velut in solido</l>
+            <l part="N">Fides facit in liquido</l>
+            <l part="N">Sic patrato miraculo</l>
+            <l part="N">Quod raro fit in saeculo</l>
+            <l part="N">Necnon patris imperio</l>
+            <l part="N">Cum Dei adiutorio</l>
+         </verse>
+      </prosula>
+      <rep type="p" wit="CAO-F">Velociter rediit</rep>
+   </verses>
+</res>

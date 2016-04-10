@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7557" nextid="c7559" id="c7558">
+   <rBody wit="CAO-G CAO-E CAO-M CAO-D CAO-F"> Sacram praesentis diei solemnitatem humili celebremus devotione qua invictus Christi martyr Vincentius tyranno devicto insignem victoriae palmam caelo gaudens intulit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-M CAO-D CAO-F">Peracto passionis suae venerando triumpho angelorum
+      <app>
+            <rdg wit="CAO-E"> civibus comitatur</rdg>
+            <rdg wit="CAO-G CAO-M"> coetibus comitatur</rdg>
+            <rdg wit="CAO-D CAO-F"> civibus comitatus</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-M CAO-D CAO-F">Insignem</rep>
+   </verses>
+</res>

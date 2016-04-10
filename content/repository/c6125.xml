@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6124" nextid="c6126" id="c6125">
+   <rBody wit="CAO-B CAO-V CAO-H CAO-R CAO-S"> Ascendo ad patrem meum
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R"> et</rdg>
+         <rdg wit="CAO-S"> et ad</rdg>
+      </app> patrem vestrum
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R"> alleluia alleluia</rdg>
+         <rdg wit="CAO-S"> alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-S">Deum meum et Deum vestrum</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-S">Alleluia</rep>
+   </verses>
+</res>

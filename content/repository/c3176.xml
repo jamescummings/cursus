@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3175" nextid="c3177" id="c3176">
+   <header>
+      <usage ms="Hyd" code="08065000">none</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Illi autem profecti praedicaverunt ubique
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> deo cooperante</rdg>
+         <rdg wit="CAO-E CAO-L Hyd"> domino cooperante</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F Hyd"> et sermonem confirmante</rdg>
+         <rdg wit="CAO-C"> sermonem confirmante</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> sermone confirmante</rdg>
+         <rdg wit="CAO-L"> et sermonem confirmantem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> sequentibus signis alleluia alleluia</rdg>
+         <rdg wit="Hyd"> sequentibus signis</rdg>
+      </app>
+   </aBody>
+</ant>

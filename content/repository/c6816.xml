@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6815" nextid="c6817" id="c6816">
+   <header>
+      <usage ms="Evm" code="02122800">[48v] matins-n3-r10</usage>
+      <usage ms="Wcb" code="02122800">[64r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-R Evm Wcb"> Hi sunt qui cum mulieribus non sunt coinquinati virgines enim sunt et sequuntur agnum quocumque ierit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R Evm Wcb"> Hi empti sunt
+      <app>
+            <rdg wit="Evm Wcb"> ex omnibus</rdg>
+            <rdg wit="CAO-R"> ex hominibus</rdg>
+         </app> primitiae deo et agno et in ore eorum non est inventum mendacium</vBody>
+      <rep type="r" wit="Evm Wcb">Et sequuntur</rep>
+      <rep type="r" wit="CAO-R"> Virgines</rep>
+   </verses>
+</res>

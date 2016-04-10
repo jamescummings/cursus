@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6199" nextid="c6201" id="c6200">
+   <rBody wit="CAO-B CAO-H CAO-R"> Beatus Benedictus dum in hac terra esset quo temporaliter libere uti potuisset iam quasi aridum mundum cum flore despexit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R">Relicta domo rebusque patris soli Deo placere desiderans
+       <app>
+            <rdg wit="CAO-H CAO-R"> sanctae conversationis</rdg>
+            <rdg wit="CAO-B"> sacrae conversationis</rdg>
+         </app> habitum quaesivit</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R">Iam</rep>
+   </verses>
+</res>

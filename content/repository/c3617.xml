@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3616" nextid="c3618" id="c3617">
+   <header>
+      <usage ms="Cht" code="07052000">[50r] nones</usage>
+      <usage ms="Ely" code="07062000">[87r] nones-a1</usage>
+      <usage ms="Evm" code="07051000"/>
+      <usage ms="Evm" code="07052000">[137v] terce</usage>
+      <usage ms="Glo" code="07051000">[70v] vesp1</usage>
+      <usage ms="Pet" code="07052000">[82r] prime</usage>
+      <usage ms="Wcb" code="07051000">[106v] vesp1</usage>
+      <usage ms="Wor" code="07052000">[54v] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Pet Evm Wcb Glo"> Libera me domine et pone me iuxta te
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Pet Evm Wcb Glo">et cuiusvis manus pugnet contra me</rdg>
+         <rdg wit="CAO-B">cuiusvis manus pugnet contra me</rdg>
+      </app>
+   </aBody>
+</ant>

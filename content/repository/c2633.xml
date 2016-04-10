@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2632" nextid="c2634" id="c2633">
+   <header>
+      <usage ms="Alb2" code="01038000">[15r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01033000">[16r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01045000">[20r] lauds gosp</usage>
+      <usage ms="Ely" code="01032000">[11r] </usage>
+      <usage ms="Evm" code="01033000">[18v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01036009">[21r] sext</usage>
+      <usage ms="Hyd" code="01035000">[12v] lauds gosp</usage>
+      <usage ms="Mch" code="01048000">[19r] </usage>
+      <usage ms="Wcb" code="01033000">[47v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01034000">[9r] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb"> Elevare elevare consurge Jerusalem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb"> solve vincla colli tui</rdg>
+         <rdg wit="CAO-C CAO-D CAO-L"> solve vincula colli tui</rdg>
+      </app> captiva filia Sion</aBody>
+</ant>

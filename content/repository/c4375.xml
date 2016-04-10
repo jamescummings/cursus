@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4374" nextid="c4376" id="c4375">
+   <header>
+      <usage ms="Pet" code="02122600">[23r] matins-n3</usage>
+      <usage ms="Wor" code="02122600">[18r] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-D Wor Pet"> Pretiosus martyr Christi Stephanus levita gloriosus hodierna die migravit ad dominum et
+     <app>
+         <rdg wit="CAO-D"> ideo</rdg>
+         <rdg wit="Wor Pet"> exultans</rdg>
+      </app> regnat cum Christo in aeternum</aBody>
+</ant>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7536" nextid="c7538" id="c7537">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Responsum acceperat Simeon
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> a spiritu sancto</rdg>
+         <rdg wit="CAO-C CAO-E CAO-S CAO-L"> ab spiritu sancto</rdg>
+      </app> non visurum se mortem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> nisi videret</rdg>
+         <rdg wit="CAO-M"> nisi videre</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Christum domini</rdg>
+         <rdg wit="CAO-V CAO-S"> Christum dominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-D CAO-F CAO-S CAO-L"> et benedixit deum</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R"> et benedixit eum</rdg>
+      </app> et dixit
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> nunc dimittis</rdg>
+         <rdg wit="CAO-C"> nunc dimittis domine</rdg>
+      </app> servum tuum in pace quia viderunt oculi mei salutare tuum domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> Lumen ad revelationem gentium et gloriam
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-F"> plebis</rdg>
+            <rdg wit="CAO-M"> plebi</rdg>
+         </app> tuae Israel</vBody>
+      <vBody id="c7537-1" type="r" wit="CAO-E"> Lumen ad revelationem</vBody>
+      <rep corresp="c7537-1" type="r" wit="CAO-E">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-E</note>
+      </rep>
+      <vBody type="r" wit="CAO-S"> Cum inducerent puerum Jesum parentes eius accepit eum Simeon in ulnas suas et dixit</vBody>
+      <vBody id="c7537-2" type="r" num="2" wit="CAO-E"> Cum inducerent puerum Jesum parentes eius in templum accepit eum Simeon in ulnas suas et benedixit deum et dixit</vBody>
+      <rep corresp="c7537-2" type="r" wit="CAO-E"> Nunc</rep>
+      <vBody type="r" wit="CAO-L"> Cum inducerent puerum Jesum parentes eius ut facerent secundum consuetudinem legis pro eo et ipse accepit eum in ulnas suas et dixit</vBody>
+      <vBody type="r" wit="CAO-D"> Cum ergo cognovisset accepit eum in ulnas suas et portabat a quo portabatur et dixit</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F">Quia</rep>
+      <rep type="r" wit="CAO-G CAO-M CAO-D CAO-S CAO-L">Nunc</rep>
+   </verses>
+</res>

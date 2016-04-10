@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1562" nextid="o1564" id="o1563">
+   <header>
+      <usage ms="Alb2" code="07053000">[102r] vesp2</usage>
+      <usage ms="Cdm" code="07053000">[72v] vesp2</usage>
+      <usage ms="Cht" code="07053000">[51r] vesp2</usage>
+      <usage ms="Ely" code="07053000">[83v] vesp2</usage>
+      <usage ms="Evm" code="07053000">[138v] vesp2</usage>
+      <usage ms="Hyd" code="07053000">[88v] vesp2</usage>
+      <usage ms="Mch" code="07053000">[149v] vesp2</usage>
+      <usage ms="Wcb" code="07053000">[110r] vesp2</usage>
+      <notesStmt>
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">Deshusses no.295</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Ely Mch"> Da nobis domine quaesumus</rdg>
+         <rdg wit="Cht Hyd Evm Wcb Alb2 Cdm"> Da nobis quaesumus domine</rdg>
+      </app>
+      <app>
+         <rdg wit="Ely Cht Evm Wcb Alb2 Cdm Mch"> perseverantem in tua voluntate famulatum</rdg>
+         <rdg wit="Hyd"> in tua voluntate perseverantem famulatum</rdg>
+      </app> ut in diebus nostris et merito et numero populus tibi serviens augeatur</pBody>
+</prayer>

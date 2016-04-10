@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2230" nextid="c2232" id="c2231">
+   <header>
+      <usage ms="Glo" code="07066000">[80r] mandatum</usage>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-H"> Diligamus nos invicem</rdg>
+         <rdg wit="CAO-F"> Diligamus nos in invicem</rdg>
+      </app> quia caritas ex deo est et qui diligit fratrem suum ex deo natus est
+     <app>
+         <rdg wit="CAO-C CAO-F"> et videt deum</rdg>
+         <rdg wit="CAO-H"> et vivit in eo</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Diligamus nos in invicem</aBody>
+</ant>

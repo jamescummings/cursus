@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1028" nextid="c1030" id="c1029">
+   <header>
+      <usage ms="Hyd" code="08065000">matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R"> Alleluia regem ascendentem in caelum</rdg>
+         <rdg wit="CAO-C CAO-G CAO-F CAO-S Hyd"> Alleluia Christum ascendentem in caelum</rdg>
+         <rdg wit="CAO-V CAO-L"> Alleluia Christum dominum ascendentem in caelum</rdg>
+         <rdg wit="CAO-M"> Alleluia regem ascendentem in caelo</rdg>
+         <rdg wit="CAO-H"> Alleluia regem ascendentem in caelos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> venite adoremus alleluia</rdg>
+         <rdg wit="CAO-C"> venite adoremus</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4278" nextid="c4280" id="c4279">
+   <header>
+      <usage ms="Hyd" code="08061000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Petite et accipietis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> ut gaudium vestrum plenum sit</rdg>
+         <rdg wit="CAO-D CAO-F Hyd"> ut gaudium vestrum sit plenum</rdg>
+      </app> ipse enim pater amat vos
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> quia vos me amastis et credidistis alleluia</rdg>
+         <rdg wit="CAO-C CAO-L Hyd"> quia vos me amatis et credidistis alleluia</rdg>
+         <rdg wit="CAO-D"> quia vos me amatis et credidisti alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

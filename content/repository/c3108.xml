@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3107" nextid="c3109" id="c3108">
+   <aBody wit="CAO-V CAO-R CAO-F"> Hodie nata est beata virgo Maria ex progenie David
+     <app>
+         <rdg wit="CAO-V CAO-F"> per quam salus mundi credentibus apparuit</rdg>
+         <rdg wit="CAO-R"> alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

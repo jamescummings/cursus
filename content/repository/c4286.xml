@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4285" nextid="c4287" id="c4286">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-L"> Petrus autem servabatur in carcere</rdg>
+         <rdg wit="CAO-E"> Petrus quidem servabatur in carcere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-L"> et oratio fiebat pro eo</rdg>
+         <rdg wit="CAO-E"> et oratio fiebat</rdg>
+         <rdg wit="CAO-V"> oratio fiebat</rdg>
+      </app> sine intermissione ab ecclesia ad deum</aBody>
+</ant>

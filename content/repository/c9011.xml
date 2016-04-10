@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9010" nextid="c9012" id="c9011">
+   <header>
+      <usage ms="Alb2" code="06031000">[71r] matins-n3-r10</usage>
+      <usage ms="Bat" code="06031000">[45v] matins-n3-r10</usage>
+      <usage ms="Cdm" code="06031000">[54r] matins-n3-r10</usage>
+      <usage ms="Cht" code="06031000">[17r] matins-n3-r10</usage>
+      <usage ms="Ely" code="06031000">[63v] matins-n3-r10</usage>
+      <usage ms="Hyd" code="06031000">[65v] matins-n2-r7</usage>
+      <usage ms="Mch" code="06031000">[108r] matins-n3-r10</usage>
+      <usage ms="Pet" code="06031000">[61v] matins-n3-r10</usage>
+      <usage ms="Wor" code="06031000">[41r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="Hyd Cht Alb2 Wor Pet Ely Cdm Mch Bat"> Igitur Abraham de nocte consurgens abiit
+     <app>
+         <rdg wit="Hyd Alb2 Wor Pet Ely Cdm Mch Bat"> ad montem</rdg>
+         <rdg wit="Cht">in montem</rdg>
+      </app> quem monstraturus erat ei deus ut immolaret Isaac quem genuit</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Cht Alb2 Wor Pet Ely Cdm Mch Bat">
+         <app>
+            <rdg wit="Hyd Wor Alb2 Pet Ely Cdm Mch Bat">Aedificato</rdg>
+            <rdg wit="Cht">
+               <sic corr="Aedificato">Aedificabo</sic>
+            </rdg>
+         </app> altari et desuper lignis impositis gladium arripuit manuum erexit</vBody>
+      <rep type="r" wit="Hyd Cht Alb2 Wor Pet Ely Cdm Mch Bat">Ut immolaret</rep>
+   </verses>
+</res>

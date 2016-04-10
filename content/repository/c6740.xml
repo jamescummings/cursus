@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6739" nextid="c6741" id="c6740">
+   <rBody wit="CAO-F">
+      <verse type="stanza">
+         <l part="N">Fortis miles et invictus protomartyr Stephanus</l>
+         <l part="N">Levitali stola comptus gaudet in caelestibus</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F">
+         <verse type="stanza">
+            <l part="N">Principatum pure tenens inter sanctos martyres</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-F"> Levitali</rep>
+   </verses>
+</res>

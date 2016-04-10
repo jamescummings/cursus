@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3802" nextid="c3804" id="c3803">
+   <header>
+      <usage ms="Hyd" code="08041000">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Modicum et non videbitis me dicit dominus</rdg>
+         <rdg wit="CAO-G"> Modicum et non videbitis me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> iterum modicum et videbitis me</rdg>
+         <rdg wit="CAO-G"> iterum modicum et non videbitis me</rdg>
+      </app> quia vado ad patrem alleluia alleluia</aBody>
+</ant>

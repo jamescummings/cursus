@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3599" nextid="c3601" id="c3600">
+   <header>
+      <usage ms="Hyd" code="09011000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Laus deo patri parilique proli</l>
+         <l part="N"> et tibi sancte
+       <app>
+               <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> studio perenni</rdg>
+               <rdg wit="CAO-M"> studio perennis</rdg>
+            </app>
+         </l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">spiritus</rdg>
+               <rdg wit="CAO-D">spiritu</rdg>
+               <rdg wit="Hyd">spiritui</rdg>
+            </app> nostro resonet
+       <app>
+               <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> ab ore</rdg>
+               <rdg wit="CAO-B CAO-H CAO-R"> in ore</rdg>
+            </app>
+         </l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> omne per aevum</rdg>
+               <rdg wit="CAO-V"> per aevum</rdg>
+            </app>
+         </l>
+      </lg>
+   </aBody>
+</ant>

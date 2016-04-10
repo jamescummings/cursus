@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9543" nextid="c9545" id="c9544">
+   <header>
+      <usage ms="Wor" code="01048000">[12v] vesp2</usage>
+   </header>
+   <rBody wit="Wor"> Egredietur dominus de loco suo</rBody>
+   <verses>
+      <vBody type="r" wit="Wor"> Veniet ut salvet populum suum</vBody>
+      <dox type="r" wit="Wor">Gloria</dox>
+   </verses>
+</res>

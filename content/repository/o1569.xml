@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1568" nextid="o1570" id="o1569">
+   <header>
+      <usage ms="Cht" code="07056000">[52v] vesp2</usage>
+      <usage ms="Ely" code="07056000">[84r] vesp2</usage>
+      <usage ms="Hyd" code="07056000">[89v] vesp2</usage>
+   </header>
+   <pBody wit="Ely Cht Hyd"> Concede nobis quaesumus domine veniam peccatorum et religionis augmentum atque ut in nobis tua dona multiplices tuis fac
+     <app>
+         <rdg wit="Ely Cht"> mandatis</rdg>
+         <rdg wit="Hyd"> mandatis promptiores</rdg>
+      </app>
+   </pBody>
+</prayer>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1005" nextid="c1006b" id="c1006">
+   <aBody wit="CAO-B CAO-D CAO-F"> Adoremus Christum regem confessorum dominum qui aeterna
+     <app>
+         <rdg wit="CAO-D"> sanctum <name reg="Hilarus" type="saint">Hilarum</name>
+         </rdg>
+         <rdg wit="CAO-B CAO-F"> sanctum <name reg="Martinus" type="saint">Martinum</name>
+         </rdg>
+      </app> coronavit gloria</aBody>
+</ant>

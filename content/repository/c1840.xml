@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1839" nextid="c1841" id="c1840">
+   <header>
+      <usage ms="Ely" code="07061000">[86v] vesp2</usage>
+      <usage ms="Hyd" code="07061000">[91v] vesp2</usage>
+      <usage ms="Pet" code="07061000">[86r] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-S CAO-L Ely Hyd Pet"> Coeperunt omnes turbae descendentium gaudentes</rdg>
+         <rdg wit="CAO-F"> Coeperunt omnes turbae descendentium de monte</rdg>
+      </app> laudare deum voce magna
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Pet"> super omnibus quas viderant virtutibus</rdg>
+         <rdg wit="CAO-C"> super omnibus quae viderant virtutibus</rdg>
+      </app> dicentes benedictus qui venit rex in nomine domini
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S Hyd Pet">pax in caelo</rdg>
+         <rdg wit="CAO-H CAO-R">pax de caelis</rdg>
+         <rdg wit="CAO-L Ely">pax in terra</rdg>
+      </app> et gloria in excelsis</aBody>
+</ant>

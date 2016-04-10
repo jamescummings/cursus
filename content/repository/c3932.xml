@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3931" nextid="c3932b" id="c3932">
+   <aBody wit="CAO-D CAO-F CAO-S"> Non recedet memoria eorum et nomen eorum requiretur
+     <app>
+         <rdg wit="CAO-D CAO-S"> a generatione et generatione</rdg>
+         <rdg wit="CAO-F"> a generatione et generationem</rdg>
+      </app>
+   </aBody>
+</ant>

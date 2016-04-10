@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4096" nextid="c4098" id="c4097">
+   <header>
+      <usage ms="Alb2" code="07065000">[109r] lauds-a5</usage>
+      <usage ms="Cdm" code="07065000">[78r] lauds-a5</usage>
+      <usage ms="Cht" code="07065000">[61r] lauds</usage>
+      <usage ms="Ely" code="07065000">[89r] lauds</usage>
+      <usage ms="Evm" code="07065000">[149v] lauds</usage>
+      <usage ms="Hyd" code="07065000">[95v] lauds</usage>
+      <usage ms="Mch" code="07065000">[159v] lauds-a5</usage>
+      <usage ms="Pet" code="07065000">[90v] lauds</usage>
+      <usage ms="Wcb" code="07065000">[115v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Hyd Evm Wcb Alb2 Cdm Mch"> Oblatus est quia ipse voluit</rdg>
+         <rdg wit="CAO-V Wor Pet"> Oblatus est quia ipse noluit</rdg>
+      </app> et peccata nostra ipse portavit</aBody>
+</ant>

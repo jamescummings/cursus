@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6443" nextid="c6444a" id="c6444">
+   <header>
+      <usage ms="Evm" code="02122500">[33v] matins-n1-r3</usage>
+      <usage ms="Hyd" code="02122500">matins-n1-r3</usage>
+      <usage ms="Hyd" code="03021000">matins-n1-r4</usage>
+      <usage ms="Pet" code="02122500">[15v] matins-n1-r3</usage>
+      <usage ms="Wcb" code="02122500">[54r] matins-n1-r3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">The version for Christmas in CAO sources</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-E CAO-S CAO-L Hyd Evm Wcb Pet"> Dies sanctificatus illuxit nobis venite gentes et adorate dominum quia hodie
+      <app>
+         <rdg wit="CAO-E CAO-L Hyd Evm Wcb Pet"> descendit</rdg>
+         <rdg wit="CAO-S"> apparuit</rdg>
+      </app> lux magna in terris</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E Hyd Evm Wcb Pet"> Venite adoremus eum quia ipse est dominus deus noster</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Haec dies
+       <app>
+            <rdg wit="CAO-L"> quam</rdg>
+            <rdg wit="CAO-S"> quem</rdg>
+         </app> fecit dominus exsultemus et laetemur in ea</vBody>
+      <rep type="r" wit="CAO-E CAO-S CAO-L Hyd Evm Wcb Pet"> Quia</rep>
+   </verses>
+</res>

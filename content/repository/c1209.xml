@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1208" nextid="c1210" id="c1209">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H"> Abraham et semen eius</rdg>
+         <rdg wit="CAO-D"> Abraham et semini eius</rdg>
+      </app> usque in saeculum
+     <app>
+         <rdg wit="CAO-C"> magnificans dominum</rdg>
+         <rdg wit="CAO-H CAO-D"> magnificat dominum</rdg>
+         <rdg wit="CAO-E"> magnificet dominum</rdg>
+      </app>
+   </aBody>
+</ant>

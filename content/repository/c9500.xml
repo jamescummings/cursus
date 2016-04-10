@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9017" nextid="c9501" id="c9500">
+   <header>
+      <usage ms="Alb2" code="07061000">[104v] matins-n3-r9</usage>
+      <usage ms="Bat" code="07061000">[62v] matins-n3-r9</usage>
+      <usage ms="Cdm" code="07061000">[74v] matins-n3-r9</usage>
+      <usage ms="Cht" code="07061000">[54v] matins-n3-r9</usage>
+      <usage ms="Ely" code="07061000">[85v] matins-n3-r9</usage>
+      <usage ms="Evm" code="07061000">[142v] matins-n3-r9</usage>
+      <usage ms="Glo" code="07061000">[72r] vesp1</usage>
+      <usage ms="Hyd" code="07062000">[92r] matins-r1</usage>
+      <usage ms="Mch" code="07062000">[155v] matins-n1-r1</usage>
+      <usage ms="Pet" code="07061000">[84v] matins-n3-r9</usage>
+      <usage ms="Wcb" code="07061000">[112r] matins-n3-r9</usage>
+      <usage ms="Wor" code="07061000">[56r] matins-n3-r9</usage>
+   </header>
+   <rBody wit="Ely Wor Cht Hyd Evm Wcb Glo Alb2 Pet Cdm Mch Bat"> Dominus Jesus ante sex dies paschae venit Bethaniam ubi fuerat Lazarus mortuus quem suscitavit Jesus</rBody>
+   <verses>
+      <vBody type="r" wit="Ely Wor Cht Hyd Evm Wcb Glo Alb2 Pet Cdm Mch Bat">
+         <app>
+            <rdg wit="Ely Wor Hyd Evm Wcb Glo Alb2 Pet Cdm Mch Bat"> Convenerunt autem ibi multi Judeorum</rdg>
+            <rdg wit="Cht">
+               <sic resp="DC">Cognoverunt</sic> autem ibi multi Judeorum</rdg>
+         </app> ut Lazarum viderent</vBody>
+      <rep type="r" wit="Ely Wor Hyd Evm Wcb Glo Alb2 Pet Cdm Mch Bat">Quem</rep>
+   </verses>
+</res>

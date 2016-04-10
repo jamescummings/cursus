@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2942" nextid="c2944" id="c2943">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n2</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Gloria et honor deo
+     <app>
+         <rdg wit="CAO-E"> in unitate et trinitate</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R"> in unitate trina</rdg>
+         <rdg wit="CAO-D CAO-F"> in unitate trina<del status="unremarkable">s</del>
+         </rdg>
+         <rdg wit="CAO-S CAO-L Hyd"> in unitate trinitatis</rdg>
+      </app> patri et filio
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> cum sancto spiritu</rdg>
+         <rdg wit="CAO-H"> cum sancto spiritui</rdg>
+      </app> in sempiterna saecula</aBody>
+</ant>

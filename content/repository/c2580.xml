@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2579" nextid="c2581" id="c2580">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ego plantavi
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Apollo rigavit</rdg>
+         <rdg wit="CAO-V"> Apollo rigavi</rdg>
+      </app> deus autem incrementum dedit alleluia</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Unusquisque propriam mercedem accipiet</rdg>
+            <rdg wit="CAO-B">Unusquisque enim propriam mercedem accipiet</rdg>
+         </app> secundum suum laborem</vBody>
+   </verses>
+</ant>

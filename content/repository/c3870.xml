@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3869" nextid="c3871" id="c3870">
+   <aBody wit="CAO-C CAO-R CAO-F CAO-L"> Nemo ascendit in caelum
+     <app>
+         <rdg wit="CAO-C CAO-F CAO-L"> nisi qui de caelo descendit</rdg>
+         <rdg wit="CAO-R"> nisi qui descendit de caelo</rdg>
+      </app> filius hominis
+     <app>
+         <rdg wit="CAO-C CAO-R CAO-L"> qui est in caelo alleluia</rdg>
+         <rdg wit="CAO-F"> qui est in caelis dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

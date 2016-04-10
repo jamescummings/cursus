@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4638" nextid="c4640" id="c4639">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Responsum accepit Simeon a spiritu sancto</rdg>
+         <rdg wit="CAO-C CAO-S CAO-L"> Responsum accepit Simeon ab spiritu sancto</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> non visurum se mortem</rdg>
+         <rdg wit="CAO-G"> non visurum se morte</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> nisi videret dominum</rdg>
+         <rdg wit="CAO-M"> nisi videre dominum</rdg>
+         <rdg wit="CAO-S"> donec videret dominum</rdg>
+      </app>
+   </aBody>
+</ant>

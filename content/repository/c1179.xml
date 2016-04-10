@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1178" nextid="c1180" id="c1179">
+   <header>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Hyd" code="05022000"/>
+      <usage ms="Hyd" code="07012000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-F CAO-S CAO-L Hyd Cht"> Venite exsultemus domino</aBody>
+</ant>

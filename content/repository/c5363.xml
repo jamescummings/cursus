@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5362" nextid="c5364" id="c5363">
+   <header>
+      <usage ms="Bat" code="14123100">[26v] lauds gosp</usage>
+      <usage ms="Evm" code="02122600">[41v] commemoration</usage>
+      <usage ms="Pet" code="02122508">[19r] </usage>
+      <usage ms="Wor" code="02122600">[18v] commemoration</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">This antiphon uses a different melody from c5361 and c5362</note>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.155-156</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F Evm Bat Wor Pet"> Verbum caro factum est
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-R CAO-D CAO-F Bat Wor Pet"> et habitavit in nobis</rdg>
+         <rdg wit="CAO-H Evm"> et habitabit in nobis</rdg>
+      </app> et vidimus gloriam eius gloriam quasi unigeniti a patre
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F Bat Wor Pet"> plenum gratiae et veritatis alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-H CAO-R"> plenum gratia et veritate alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-V Evm"> plenum gratiae et veritatis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

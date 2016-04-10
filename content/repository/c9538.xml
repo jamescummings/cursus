@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9537" nextid="c9539" id="c9538">
+   <header>
+      <usage ms="Cdm" code="02122600">[25v] matins-n3-r12</usage>
+      <usage ms="Pet" code="02122600">[22v] matins-n2-r8</usage>
+      <usage ms="Wor" code="02122600">[18r] matins-n3-r12</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Cf c7599</note>
+         <note place="unspecified" anchored="yes">Wor has a partly-deleted prosa to conclude this respond</note>
+         <note place="unspecified" anchored="yes">Pet has a long melisma on 'Conserva---re'</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Cdm Wor Pet"> Sanctissimi martyris Stephani solemnitatem recolentes te Christe deprecamur ut nos semper intercessione illius conservare digneris</rBody>
+   <verses>
+      <vBody type="r" wit="Cdm Wor Pet"> Tibi iunctus igitur cum triumpho nitente nobis pius ostendat</vBody>
+      <rep type="r" wit="Cdm Wor Pet"> Ut nos</rep>
+      <dox type="r" wit="Wor Pet">Gloria</dox>
+      <rep type="r" wit="Wor" num="2">Sanctissimi</rep>
+      <rep type="r" wit="Pet" num="2">Conservare</rep>
+   </verses>
+</res>

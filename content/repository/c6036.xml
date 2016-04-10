@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6035" nextid="c6037" id="c6036">
+   <header>
+      <usage ms="Alb2" code="07051000">[98v] matins-n1-r4</usage>
+      <usage ms="Cht" code="07052000">[49v] matins-n1-r3</usage>
+      <usage ms="Ely" code="07052000">[83r] matins-r2</usage>
+      <usage ms="Hyd" code="07051000">[86v] matins-n3-r14</usage>
+      <usage ms="Mch" code="07051000">[145r] matins-n2-r7</usage>
+      <usage ms="Pet" code="07051000">[81r] matins-r14</usage>
+      <usage ms="Wcb" code="07051000">[108r] matins-n3-r12</usage>
+      <usage ms="Wor" code="07051000">[54r] matins-n3-r13</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Mch"> Adiutor et susceptor meus tu es domine
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Wcb Alb2 Mch"> et in verbum tuum speravi</rdg>
+         <rdg wit="CAO-L">et in verbo tuo speravi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Mch"> declinate a me maligni</rdg>
+         <rdg wit="CAO-M"> declinate ad me maligni</rdg>
+      </app> et scrutabor mandata dei mei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-H"> Eripe me de inimicis meis deus meus et ab insurgentibus in me
+      <app>
+            <rdg wit="CAO-C CAO-E CAO-H"> libera me</rdg>
+            <rdg wit="CAO-M"> et libera me</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-B CAO-V CAO-R"> Eripe me de inimicis meis
+      <app>
+            <rdg wit="CAO-V"> deus meus</rdg>
+            <rdg wit="CAO-B CAO-R"> deus</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Mch"> Iniquos odio habui et legem tuam dilexi</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Wcb Alb2 Mch">Declinate</rep>
+      <rep type="r" num="2" wit="Cht"> Adiutor</rep>
+   </verses>
+</res>

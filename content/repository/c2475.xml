@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2474" nextid="c2476" id="c2475">
+   <aBody wit="CAO-M CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-F"> Dum multa turba esset cum Jesu</rdg>
+         <rdg wit="CAO-L"> Cum turba multa esset cum Jesu</rdg>
+         <rdg wit="CAO-M"> Cum turba plurima esset cum Jesu</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-L"> nec haberent quod manducarent</rdg>
+         <rdg wit="CAO-M"> nec haberet quod manducaret</rdg>
+      </app> convocatis discipulis ait illis
+     <app>
+         <rdg wit="CAO-M CAO-L"> misereor super turbam</rdg>
+         <rdg wit="CAO-F"> misereor turbae huic</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-L"> quia ecce iam triduo sustinent me</rdg>
+         <rdg wit="CAO-M"> quia iam triduo sustinent me</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> nec habent quod manducent alleluia</rdg>
+         <rdg wit="CAO-F"> nec habent quod manducent</rdg>
+         <rdg wit="CAO-L"> nec habent quod manducent et si dimisero eos ieiunos deficient in via alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

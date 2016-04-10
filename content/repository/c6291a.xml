@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6291" nextid="c6292" id="c6291a">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Civitatem istam tu circumda domine et
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> angeli tui custodiant</rdg>
+         <rdg wit="CAO-V"> angelis tuis custodiat</rdg>
+         <rdg wit="CAO-S"> angeli tui custodiat</rdg>
+      </app> muros eius exaudi domine populum tuum cum misericordia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-R CAO-F CAO-S"> Avertatur furor tuus domine</rdg>
+            <rdg wit="CAO-D CAO-L"> Avertatur obsecro furor tuus domine</rdg>
+            <rdg wit="CAO-G CAO-D"> Avertatur furor tuus</rdg>
+         </app> a populo tuo et a civitate sancta tua</vBody>
+      <vBody type="r" wit="CAO-M"> Qui regis</vBody>
+      <vBody type="r" wit="CAO-H"> Qui regis Israel intende</vBody>
+      <vBody type="r" wit="CAO-V"> Aperi oculos tuos et vide desolationem nostram et civitatem super quam invocatum est nomen tuum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Exaudi</rep>
+      <rep type="r" wit="CAO-G"> Et angeli</rep>
+   </verses>
+</res>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7234" nextid="c7236" id="c7235">
+   <rBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Nonne cognoscit deus vias meas et cunctos gressus meos
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> dinumerat quod si ambulavi</rdg>
+         <rdg wit="CAO-M">
+            <sic resp="Hesbert">dignum erat</sic> si</rdg>
+      </app> in vanitate
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F"> aut festinavit</rdg>
+         <rdg wit="CAO-E CAO-M"> aut festinavi</rdg>
+      </app> in dolo pes meus appendat me in statera
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> iusta</rdg>
+         <rdg wit="CAO-D"> iuxta</rdg>
+      </app> et probet deus innocentiam meam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D"> Quis det ut veniat petitio mea
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D"> et quod</rdg>
+            <rdg wit="CAO-V"> aut quod</rdg>
+         </app> exspecto tribuat mihi deus</vBody>
+      <vBody id="c7235-1" type="r" wit="CAO-F"> Quis det ut veniat petitio mea et quod exspecto tribuat mihi</vBody>
+      <rep corresp="c7235-1" type="r" wit="CAO-F">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-F</note>
+      </rep>
+      <vBody type="r" wit="CAO-M"> Domine Deus meus si feci istud</vBody>
+      <vBody id="c7235-2" type="r" num="2" wit="CAO-F"> Si declinavi gressus meos de via et si secutus est oculus meus cor meum et in manibus meis adhaesit macula</vBody>
+      <rep corresp="c7235-2" type="r" wit="CAO-F"> Appendat</rep>
+      <rep type="r" wit="CAO-M CAO-V CAO-H CAO-D">Appendat</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-R">Et probet</rep>
+   </verses>
+</res>

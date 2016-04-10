@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2145" nextid="c2147" id="c2146">
+   <aBody wit="CAO-M CAO-H CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-M"> Delicta iuventutis meae et ignorantias meas</rdg>
+         <rdg wit="CAO-L"> Delicta iuventutis et ignorantiae meae</rdg>
+         <rdg wit="CAO-S"> Delicta iuventutis <add>meae</add> et <corr sic="ignorantia mea">ignorantias meas</corr>
+         </rdg>
+         <rdg wit="CAO-H"> Delicta iuventutis meae et ignorantias mea</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-L"> ne memineris domine</rdg>
+         <rdg wit="CAO-M CAO-S"> ne memineris</rdg>
+      </app>
+   </aBody>
+</ant>

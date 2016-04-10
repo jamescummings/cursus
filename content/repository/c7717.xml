@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7716" nextid="c7717b" id="c7717">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Sufficiebat nobis paupertas nostra
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-R CAO-F"> ut divitiae computarentur</rdg>
+         <rdg wit="CAO-V CAO-L"> ut divitiae computaretur</rdg>
+         <rdg wit="CAO-S"> ut divitiae computaremus</rdg>
+         <rdg wit="CAO-H CAO-D Hyd"> ut divitias computaremus</rdg>
+      </app> numquam fuisset
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S Hyd"> pecunia ipsa</rdg>
+         <rdg wit="CAO-B CAO-D"> pecunia ista</rdg>
+         <rdg wit="CAO-C"> pecunia illa</rdg>
+         <rdg wit="CAO-V CAO-L"> pecuniam ipsam</rdg>
+      </app> pro qua
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> misisti</rdg>
+         <rdg wit="CAO-C"> emisisti</rdg>
+      </app> filium nostrum baculum senectutis nostrae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Heu me
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> fili mi</rdg>
+            <rdg wit="CAO-L Hyd"> fili</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> ut quid</rdg>
+            <rdg wit="CAO-V CAO-S"> ut qui</rdg>
+            <rdg wit="Hyd">
+               <sic corr="ut quid">inqui<del type="erasure" status="unremarkable"/>
+               </sic>
+            </rdg>
+         </app> te misimus peregrinari
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> lumen oculorum nostrorum</rdg>
+            <rdg wit="CAO-E CAO-M CAO-L"> lumen oculorum meorum</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Baculum</rep>
+      <rep type="r" wit="CAO-V">Numquam</rep>
+   </verses>
+</res>

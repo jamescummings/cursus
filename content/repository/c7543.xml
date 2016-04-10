@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7542" nextid="c7544" id="c7543">
+   <header>
+      <usage ms="Cdm" code="07065000">[78r] matins-n3-r8</usage>
+      <usage ms="Cht" code="07065000">[60v] matins-n3-r5</usage>
+      <usage ms="Ely" code="07065000">[89r] matins-n3-r8</usage>
+      <usage ms="Hyd" code="07066000"/>
+      <usage ms="Pet" code="07065000">[89v] matins-n3-r8</usage>
+      <usage ms="Wcb" code="07065000">[115v] matins-n3-r9</usage>
+      <usage ms="Wor" code="07065000">[60r] matins-n3-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm"> Revelabunt caeli iniquitatem Judae</rdg>
+         <rdg wit="CAO-G CAO-E CAO-S"> Revelabunt caeli iniquitates Judae</rdg>
+         <rdg wit="CAO-V"> Revelabunt caeli <corr sic="iniquitates" resp="DC">iniquitatem</corr> Judae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Cdm"> et terra</rdg>
+         <rdg wit="CAO-L"> et terram</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Cdm"> adversus eum consurget</rdg>
+         <rdg wit="Wcb"> adversus eum consurge<del type="underscore" resp="DC" status="unremarkable">n</del>t</rdg>
+         <rdg wit="CAO-B"> adversus eum consurgit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Cdm"> et manifestum erit peccatum illius</rdg>
+         <rdg wit="Ely"> et manifestum erit peccatum ipsius</rdg>
+      </app> in die furoris domini cum eis qui dixerunt
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Cdm"> domino deo recede a nobis</rdg>
+         <rdg wit="CAO-C"> domino meo recede a nobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Cdm"> scientiam viarum tuarum nolumus</rdg>
+         <rdg wit="CAO-L"> scientia viarum tuarum nolumus</rdg>
+         <rdg wit="CAO-V"> scientiam viarum suarum nolumus</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Fiat mensa eorum coram ipsis in laqueum
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R"> et in retributiones</rdg>
+            <rdg wit="CAO-B CAO-M"> et in retributionem</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> et in scandalum</rdg>
+            <rdg wit="CAO-G"> et in laqueum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L Wor Ely Cht Hyd Pet Evm Wcb Cdm">
+         <app>
+            <rdg wit="CAO-S CAO-L Ely Cht Pet Evm Wcb"> In die perditionis</rdg>
+            <rdg wit="CAO-D CAO-F Wor Hyd Cdm"> In diem perditionis</rdg>
+         </app> servabitur et ad diem ultionis ducetur</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Evm Wcb Cdm">Cum</rep>
+      <rep type="r" wit="Hyd">Revelabunt</rep>
+      <rep type="r" num="2" wit="Wcb">Revelabunt</rep>
+   </verses>
+</res>

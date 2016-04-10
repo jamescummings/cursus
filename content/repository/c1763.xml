@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1762" nextid="c1764" id="c1763">
+   <header>
+      <usage ms="Alb2" code="01026000">[11r] vesp2 gosp</usage>
+      <usage ms="Bat" code="01011000">[2v] matins-n3</usage>
+      <usage ms="Bat" code="01026000">[8r] vesp2 gosp</usage>
+      <usage ms="Bat" code="01031000">[9r] matins-n3</usage>
+      <usage ms="Cdm" code="01026000">[14r] vesp2 gosp</usage>
+      <usage ms="Ely" code="01032000">[11r] </usage>
+      <usage ms="Evm" code="01011000">[5v] matins-n3</usage>
+      <usage ms="Hyd" code="01026000">[9v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01026000">[9v] vesp2 gosp</usage>
+      <usage ms="Wcb" code="01011000">[42r] matins-n3</usage>
+      <usage ms="Wor" code="01026000">[6v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Cantate domino canticum novum laus eius ab extremis terrae</aBody>
+</ant>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7657" nextid="c7659" id="c7658">
+   <header>
+      <usage ms="Alb2" code="07041000">[94r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="07041000">[68r] matins-n3-r12</usage>
+      <usage ms="Cht" code="07042000">[42v] matins-r1</usage>
+      <usage ms="Ely" code="07042000">[79r] matins-r1</usage>
+      <usage ms="Hyd" code="07042000">[83r] matins-r1</usage>
+      <usage ms="Pet" code="07041000">[76v] matins-r12</usage>
+      <usage ms="Wcb" code="07041000">[104v] matins-n3-r11</usage>
+      <usage ms="Wor" code="07041000">[50v] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2 Cdm"> Sicut fui cum Moyse ita ero tecum dicit dominus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Pet Wcb Alb2 Cdm"> confortare</rdg>
+         <rdg wit="Cht Hyd"> confortare Iosue</rdg>
+      </app> et esto robustus introduces populum meum ad terram lacte et melle manantem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Ely Wor Cht Hyd Pet Wcb Alb2 Cdm">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-F Ely Wor Cht Hyd Wcb Alb2 Cdm"> Quoniam tecum est dominus deus tuus</rdg>
+            <rdg wit="CAO-E CAO-D Pet"> Quoniam tecum sum dominus deus tuus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-F Ely Wor Cht Hyd Pet Wcb Alb2 Cdm"> in omnibus ad quaecumque perrexeris</rdg>
+            <rdg wit="CAO-V CAO-R CAO-D"> in omnibus at quaecumque perrexeris</rdg>
+            <rdg wit="CAO-E"> in omnibus quocumque perrexeris</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Noli metuere quoniam tecum sum ad quaecumque perrexeris non dimittam te neque derelinquam</vBody>
+      <vBody type="r" wit="CAO-C"> Ego sum dominus deus vester qui eduxi vos de terra Aegypti</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Alb2">Confortare</rep>
+      <rep type="r" wit="Cdm"> Ad terram</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

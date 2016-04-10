@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2738" nextid="c2740" id="c2739">
+   <header>
+      <usage ms="Hyd" code="08065000">terce</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L Hyd"> Euntes in mundum universum praedicate evangelium omni creaturae alleluia qui crediderit et baptizatus fuerit salvus erit alleluia
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-D CAO-F Hyd"> qui vero non crediderit condemnabitur alleluia</rdg>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-L"> qui autem non crediderit condemnabitur alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

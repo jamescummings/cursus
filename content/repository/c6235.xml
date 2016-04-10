@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6234" nextid="c6236" id="c6235">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Benedic Domine domum istam quam aedificavi nomini tuo
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> venientium</rdg>
+         <rdg wit="CAO-H CAO-R CAO-L"> venientum</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> venientes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-S"> in loco isto</rdg>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-L"> in locum istum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> exaudi preces</rdg>
+         <rdg wit="CAO-E"> exaudies preces</rdg>
+         <rdg wit="CAO-M"> exaudies</rdg>
+         <rdg wit="CAO-C"> exaudi domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> in excelso solio</rdg>
+         <rdg wit="CAO-F"> in <corr sic="excelso">excelsis</corr> solio</rdg>
+         <rdg wit="CAO-C CAO-L"> in excelso solium</rdg>
+      </app> gloriae tuae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-D CAO-F CAO-S"> Beati qui habitant in domo tua domine in saecula saeculorum laudabunt te</vBody>
+      <vBody type="r" wit="CAO-M CAO-H CAO-R"> Domum tuam domine decet sanctitudo in longitudine dierum</vBody>
+      <vBody type="r" wit="CAO-C CAO-L"> Audi domine preces quas fundit famulus tuus coram te ut aperias oculos tuos super domum istam</vBody>
+      <vBody type="r" wit="CAO-V"> Domine si conversus fuerit populus tuus et oraverit ad sanctuarium tuum</vBody>
+      <rep type="r" wit="CAO-C CAO-V CAO-D CAO-S CAO-L">Exaudi</rep>
+      <rep type="r" wit="CAO-F CAO-H CAO-R"> Venientium</rep>
+      <rep type="r" wit="CAO-E CAO-M"> Venientes</rep>
+      <rep type="r" wit="CAO-C">Quam</rep>
+   </verses>
+</res>

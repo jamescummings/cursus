@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2731" nextid="c2733" id="c2732">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Euge serve bone et fidelis
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> quia in pauca fuisti fidelis</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> quia super pauca fuisti fidelis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> supra multa te constituam</rdg>
+         <rdg wit="CAO-H CAO-R"> super multa te constituam</rdg>
+      </app> dicit dominus</aBody>
+</ant>

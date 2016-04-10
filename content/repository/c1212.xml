@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1211" nextid="c1213" id="c1212">
+   <aBody wit="CAO-E CAO-H CAO-R CAO-F CAO-L"> Absterget deus omnem lacrimam ab oculis sanctorum
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F"> et iam non erit amplius</rdg>
+         <rdg wit="CAO-L"> iam non erit amplius</rdg>
+      </app> aeque luctus neque clamor sed nec ullus dolor
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-L"> quoniam priora transierunt</rdg>
+         <rdg wit="CAO-F"> quoniam priora transierunt alleluia</rdg>
+         <rdg wit="CAO-E"> quoniam priora transierunt alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

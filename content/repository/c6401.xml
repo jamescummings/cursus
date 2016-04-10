@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6400" nextid="c6402" id="c6401">
+   <header>
+      <usage ms="Alb2" code="07031000">[90r] lauds</usage>
+      <usage ms="Bat" code="07031000">[55r] lauds</usage>
+      <usage ms="Cdm" code="07031000">[65r] lauds</usage>
+      <usage ms="Cht" code="07031000">[37r] lauds</usage>
+      <usage ms="Ely" code="07031000">[75v] lauds</usage>
+      <usage ms="Evm" code="07031000">[123r] lauds</usage>
+      <usage ms="Hyd" code="07031000">[79v] lauds</usage>
+      <usage ms="Mch" code="07041000">[139r] lauds</usage>
+      <usage ms="Pet" code="07031000">[73v] lauds</usage>
+      <usage ms="Wcb" code="07031000">[102r] lauds</usage>
+      <usage ms="Wor" code="07031000">[49v] lauds</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Declara super nos deus
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> tuam misericordiam</rdg>
+         <rdg wit="CAO-E"> tua misericordia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Declaratio sermonum tuorum
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> dat intellectum domine</rdg>
+            <rdg wit="CAO-E CAO-S"> da intellectum domine</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Ely Wor Cht Hyd Evm Wcb Alb2 Mch"> Tuam</rep>
+      <dox type="r" wit="Ely Wor Cht Pet Evm Alb2"> Gloria</dox>
+      <rep type="r" wit="Ely Wor Evm Alb2"> Declara</rep>
+      <rep type="r" wit="Cht">
+         <sic resp="DC"> Declaratio</sic>
+      </rep>
+   </verses>
+</res>

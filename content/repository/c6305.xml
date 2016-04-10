@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6304" nextid="c6306" id="c6305">
+   <rBody wit="CAO-V CAO-D CAO-F CAO-S"> Concede nobis domine quaesumus veniam delitorum et intercedentibus sanctis quorum hodie solemnia
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> celebramus</rdg>
+         <rdg wit="CAO-V"> celebremus</rdg>
+      </app> talem nobis
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> tribue</rdg>
+         <rdg wit="CAO-V"> tribuens</rdg>
+      </app> devotionem ut ad eorum pervenire mereamur
+      <app>
+         <rdg wit="CAO-V CAO-D CAO-F"> societatem</rdg>
+         <rdg wit="CAO-S"> societate</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-D CAO-F CAO-S"> Adjuvent nos eorum merita quos propria
+       <app>
+            <rdg wit="CAO-V CAO-F CAO-S"> impediunt</rdg>
+            <rdg wit="CAO-D"> impedivit</rdg>
+         </app> scelera
+       <app>
+            <rdg wit="CAO-D"> excuset</rdg>
+            <rdg wit="CAO-S"> excusat</rdg>
+            <rdg wit="CAO-V">
+               <sic resp="Hesbert">excusset</sic>
+            </rdg>
+            <rdg wit="CAO-F"> adiuvet</rdg>
+         </app> intercessio accusat quos
+       <app>
+            <rdg wit="CAO-V CAO-D CAO-F CAO-S"> actio</rdg>
+            <rdg wit="CAO-V">
+               <sic resp="Hesbert">docio</sic>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> et qui</rdg>
+            <rdg wit="CAO-V"> et quis</rdg>
+         </app> eis tribuisti caelestis
+       <app>
+            <rdg wit="CAO-D CAO-S"> palmam</rdg>
+            <rdg wit="CAO-V CAO-F"> palma</rdg>
+         </app> triumphi nobis veniam non deneges peccati</vBody>
+      <rep type="r" wit="CAO-V CAO-D CAO-F">Talem (VDF)</rep>
+      <rep type="r" wit="CAO-S"> Ut ad</rep>
+      <prosula wit="CAO-F"> Perpetua mereamur gaudia paradisi in aula Quam superna majestas claritate illustrat In qua phalanx angelica cum turma gaudet apostolica Laureata et milia martyrum datur palma rosea Veneranda exsultat confessorum caterva Candidata radiat virginalis chorea Salve sancta tibi proclamat Trinitas Quae et vota nostra sic reddant placita Quorum ut per merita optatam adipiscamur societatem</prosula>
+   </verses>
+</res>

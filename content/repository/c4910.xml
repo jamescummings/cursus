@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4909" nextid="c4911" id="c4910">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Si quis mihi ministraverit
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-L"> honorificabit eum pater meus</rdg>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-S"> honorificavit eum pater meus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> qui est in caelis dicit dominus</rdg>
+         <rdg wit="CAO-V"> qui in caelis est dicit dominus</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-F"> Dixit Jesus discipulis suis</vBody>
+   </verses>
+</ant>

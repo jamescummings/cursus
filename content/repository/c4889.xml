@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4888" nextid="c4890" id="c4889">
+   <aBody wit="CAO-C CAO-H CAO-F CAO-L"> Si ego dominus et magister vester
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-L"> lavi vobis pedes</rdg>
+         <rdg wit="CAO-F"> lavi vestros pedes</rdg>
+      </app> quanto magis vos debetis alter alterius
+     <app>
+         <rdg wit="CAO-H CAO-F CAO-L"> lavare pedes</rdg>
+         <rdg wit="CAO-C"> lavari pedes</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-C" num="2"> Si ego dominus et magister lavi vobis pedes quanto magis vos debetis alter alterius lavare pedes</aBody>
+</ant>

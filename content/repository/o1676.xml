@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1675" nextid="o1677" id="o1676">
+   <header>
+      <usage ms="Alb2" code="02010500">[50r] matins-n3</usage>
+      <usage ms="Hyd" code="14010520">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.[55]</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2"> Corda nostra quaesumus domine venture festivitatis splendor illustret quo mundi huius tenebris carere valeamus
+     <app>
+         <rdg wit="Hyd"> et perveniamus</rdg>
+         <rdg wit="Alb2"> et pervenire</rdg>
+      </app> ad patriam claritatis aeterne</pBody>
+</prayer>

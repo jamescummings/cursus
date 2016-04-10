@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5163" nextid="c5165" id="c5164">
+   <aBody wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Tradent enim vos in conciliis et in synagogis suis flagellabunt vos et ante reges
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et praesides ducemini propter me</rdg>
+         <rdg wit="CAO-V"> et praesides ducimini propter me</rdg>
+         <rdg wit="CAO-C"> et praesides ducemini propter</rdg>
+         <rdg wit="CAO-M"> et praesides ducemini propter vos</rdg>
+      </app> in testimonium illis et gentibus</aBody>
+</ant>

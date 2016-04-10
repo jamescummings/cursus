@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2125" nextid="c2127" id="c2126">
+   <header>
+      <usage ms="Glo" code="14120600">[13v] vesp1-a1</usage>
+   </header>
+   <aBody wit="CAO-D CAO-F Glo">
+      <verse type="stanza">
+         <l part="N">Decantandae speciosis Nicolae canticis</l>
+         <l part="N">Laudes tibi persolvisse fac sit nobis utile</l>
+      </verse>
+   </aBody>
+</ant>

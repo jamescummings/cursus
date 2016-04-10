@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2897" nextid="c2899" id="c2898">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-H Hyd"> Fratres existimo enim quod non
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H"> sunt condignae</rdg>
+         <rdg wit="Hyd"> fuit condignae</rdg>
+      </app> passiones huius temporis ad futuram gloriam
+     <app>
+         <rdg wit="CAO-B CAO-H"> quae revelabitur in nobis alleluia</rdg>
+         <rdg wit="CAO-C Hyd"> quae revelabitur in nobis</rdg>
+      </app>
+   </aBody>
+</ant>

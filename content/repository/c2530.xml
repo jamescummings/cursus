@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2529" nextid="c2531" id="c2530">
+   <header>
+      <usage ms="Hyd" code="08062000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F CAO-L Hyd"> Ecce nunc palam loqueris et proverbium nullum dicis nunc scimus quia scis omnia et non opus est tibi ut quis te interroget
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F"> alleluia</rdg>
+         <rdg wit="Hyd"> alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> in hoc credimus quia a deo existis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6924" nextid="c6926" id="c6925">
+   <header>
+      <usage ms="Alb2" code="06011000">[65r] matins-n1-r2</usage>
+      <usage ms="Bat" code="06011000">[42r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="06011000">[49r] matins-n1-r2</usage>
+      <usage ms="Cht" code="06011000">[11r] matins-n1-r2</usage>
+      <usage ms="Ely" code="06011000">[60r] matins-n2-r8</usage>
+      <usage ms="Evm" code="06011000">[91v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="06011000">[60v] matins-n1-r2</usage>
+      <usage ms="Mch" code="06011000">[99r] matins-n1-r1</usage>
+      <usage ms="Pet" code="06011000">[54v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="06011000">[84v] matins-n1-r2</usage>
+      <usage ms="Wor" code="06011000">[36r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> In principio
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Pet Ely Wcb Evm Bat Mch"> deus creavit</rdg>
+         <rdg wit="Alb2 Cdm">creavit deus</rdg>
+      </app> caelum et terram et spiritus domini ferebatur super aquas
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat Mch"> et vidit deus cuncta quae fecerat</rdg>
+         <rdg wit="Wcb"> et vidit deus cuncta quae fecera<gap reason="erasure" extent="one letter"/>t</rdg>
+      </app> et erant valde bona</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Bat Mch"> Igitur perfecti sunt caeli
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Bat Mch"> et terra</rdg>
+            <rdg wit="CAO-S Cdm"> et terrae</rdg>
+         </app> et omnis ornatus eorum</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Pet Ely Wcb Evm Cdm Mch Alb2">Et vidit</rep>
+   </verses>
+</res>

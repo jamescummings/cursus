@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6634" nextid="c6636" id="c6635">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Ego sum vitis vera et vos
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> palmites</rdg>
+         <rdg wit="CAO-E"> palmites alleluia</rdg>
+      </app> qui manet
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L"> in me et ego
+        <app>
+               <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-L"> in eo</rdg>
+               <rdg wit="CAO-C CAO-G CAO-M CAO-V"> in eum</rdg>
+               <rdg wit="CAO-E"> in eo alleluia</rdg>
+            </app> hic fert fructum multum
+        <app>
+               <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> alleluia alleluia</rdg>
+               <rdg wit="CAO-E"> alleluia</rdg>
+            </app>
+         </rdg>
+         <rdg wit="CAO-F" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-D CAO-F"> Manete in dilectione mea sicut dilexi vos</vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-M CAO-V"> Manete in dilectione mea dicit dominus</vBody>
+      <vBody type="r" wit="CAO-L"> Sicut dilexit me pater et ego dilexi vos manete in dilectione mea</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> Qui</rep>
+      <rep type="r" wit="CAO-E CAO-V"> Hic</rep>
+   </verses>
+</res>

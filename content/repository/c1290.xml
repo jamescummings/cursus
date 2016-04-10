@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1289" nextid="c1291" id="c1290">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="01011000">[2r] matins-n2-a7</usage>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Mch" code="01011000">[2r] matins-n2-a5</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Alb2 Hyd Mch">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd Mch"> Adorate dominum</rdg>
+         <rdg wit="Alb2"> Adorate dominum alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd Mch"> in aula sancta eius</rdg>
+         <rdg wit="Alb2"> in aula sancta eius alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4495" nextid="c4497" id="c4496">
+   <header>
+      <usage ms="Mch" code="07047000">[143r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Mch"> Qui sequitur me non ambulat in tenebris</rdg>
+         <rdg wit="CAO-R"> Qui sequitur me non ambulabit in tenebris</rdg>
+      </app> sed habebit lumen vitae dicit dominus</aBody>
+</ant>

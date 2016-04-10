@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2017" nextid="c2019" id="c2018">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D"> Cum iustitia et sanctitate serviamus domino
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-D"> et liberabit nos ab inimicis nostris</rdg>
+         <rdg wit="CAO-C"> et liberavit nos ab inimicis nostris</rdg>
+      </app>
+   </aBody>
+</ant>

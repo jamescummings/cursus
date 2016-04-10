@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4940" nextid="c4941b" id="c4941">
+   <aBody wit="CAO-C CAO-M CAO-L"> Sicut misit me pater alleluia
+     <app>
+         <rdg wit="CAO-C CAO-L"> et ego mitto vos alleluia</rdg>
+         <rdg wit="CAO-M"> ita et ego mitto vos alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

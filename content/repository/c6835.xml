@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6834" nextid="c6836" id="c6835">
+   <rBody wit="CAO-B CAO-H CAO-D CAO-L"> Hic in annis adolescentiae Deo coepit devotus exsistere
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-L"> et</rdg>
+         <rdg wit="CAO-D">
+            <add>et</add>
+         </rdg>
+      </app> ad
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-L"> supernae</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="superno">supernae</corr>
+         </rdg>
+      </app> vitae patriam totis desideriis
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-D"> anhelare</rdg>
+         <rdg wit="CAO-L"> anhelaret</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-L"> Qui mortem quoque
+       <app>
+            <rdg wit="CAO-B CAO-H"> quae</rdg>
+            <rdg wit="CAO-L" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> pene cunctis poena est
+       <app>
+            <rdg wit="CAO-B CAO-H"> quasi</rdg>
+            <rdg wit="CAO-L"> quasi in</rdg>
+         </app> ingressum vitae
+       <app>
+            <rdg wit="CAO-B CAO-L"> amabat</rdg>
+            <rdg wit="CAO-H"> ita amabat</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Cuncta quoque quae habere potuit ad pietatis opus distribuere coepit</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-D CAO-L"> Et</rep>
+   </verses>
+</res>

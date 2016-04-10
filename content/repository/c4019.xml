@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4018b" nextid="c4020" id="c4019">
+   <aBody wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> O crux splendidior cunctis astris</rdg>
+         <rdg wit="CAO-D"> O crux splendidior cunctis atris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L"> mundo celebris</rdg>
+         <rdg wit="CAO-M"> mundi celebris</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="mundi">mundo</corr> celebris</rdg>
+      </app> hominibus multum amabilis sanctior universis quae sola fuisti digna
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-F CAO-S"> portare talentum mundi</rdg>
+         <rdg wit="CAO-D"> portare talenta mundi</rdg>
+         <rdg wit="CAO-B CAO-R"> portare salutem mundi</rdg>
+         <rdg wit="CAO-L"> portare redemptorem mundi</rdg>
+      </app> dulce lignum dulces clavos
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> dulcia ferens pondera</rdg>
+         <rdg wit="CAO-L"> dulcia ferens pondere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> salva praesentem catervam</rdg>
+         <rdg wit="CAO-L"> salva praesentem caterva</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-R"> in tuis hodie laudibus congregatam</rdg>
+         <rdg wit="CAO-S"> in tuis hodie laudibus congregata</rdg>
+         <rdg wit="CAO-H"> in tuis hodie laudibus congregatam alleluia</rdg>
+         <rdg wit="CAO-D CAO-F"> in tuis hodie laudibus congregatam alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-M"> in tuis hodie laudibus congregatam alleluia alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> in tuis hodie laudibus congregata alleluia alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

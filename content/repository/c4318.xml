@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4317" nextid="c4319" id="c4318">
+   <header>
+      <usage ms="Cht" code="07063000">[58v] terce</usage>
+      <usage ms="Evm" code="07063000">[146r] prime</usage>
+      <usage ms="Glo" code="07063000">[78r] prime</usage>
+      <usage ms="Pet" code="07064000">[87v] prime</usage>
+      <usage ms="Wcb" code="07063000">[114r] prime</usage>
+   </header>
+   <aBody wit="CAO-F Cht Pet Evm Wcb Glo"> Positis autem genibus Jesus orabat dicens pater non mea voluntas sed tua fiat</aBody>
+</ant>

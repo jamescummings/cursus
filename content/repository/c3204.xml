@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3203" nextid="c3205" id="c3204">
+   <header>
+      <usage ms="Hyd" code="01016000">[6v] vesp2-a3</usage>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S Hyd"> In aeternum et in saeculum saeculi</aBody>
+</ant>

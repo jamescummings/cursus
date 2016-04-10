@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5305" nextid="c5306b" id="c5306">
+   <header>
+      <usage ms="Hyd" code="08051000">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Vado ad eum qui misit me sed quia haec locutus sum vobis
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-L Hyd"> tristitia implevit cor vestrum alleluia</rdg>
+         <rdg wit="CAO-G CAO-V CAO-D CAO-F"> tristitia implebit cor vestrum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

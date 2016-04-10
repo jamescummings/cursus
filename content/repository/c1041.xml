@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1040" nextid="c1042" id="c1041">
+   <aBody wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D"> Ave Maria</rdg>
+         <rdg wit="CAO-F"> Ave sancta Maria</rdg>
+      </app> gratia plena dominus tecum</aBody>
+</ant>

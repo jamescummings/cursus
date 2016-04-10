@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5402" nextid="c5404" id="c5403">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-D CAO-F"> Vidi aquam egredientem de templo a latere dextro alleluia
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-D CAO-F"> et omnes ad quos pervenit aqua ista</rdg>
+         <rdg wit="CAO-V"> et omnis ad quos pervenit aqua ista</rdg>
+      </app> salvi facti sunt
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-D CAO-F"> et dicent alleluia alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

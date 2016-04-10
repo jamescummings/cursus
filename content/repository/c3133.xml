@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3132" nextid="c3133b" id="c3133">
+   <aBody wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Homo quidam erat dives et induebatur purpura et bysso et epulabatur quotidie splendide et erat quidam mendicus nomine Lazarus qui iacebat ad ianuam eius ulceribus plenus cupiens saturari de micis quae cadebant de mensa divitis
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S"> et nemo illi dabat</rdg>
+         <rdg wit="CAO-V"> et nemo illi dabant</rdg>
+      </app> sed et canes veniebant
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S"> et lingebant ulcera eius alleluia</rdg>
+         <rdg wit="CAO-V"> et lignebant ulcera eius alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

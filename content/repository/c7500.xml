@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7499" nextid="c7501" id="c7500">
+   <header>
+      <usage ms="Bat" code="07021000">[51r] matins-n1-r4</usage>
+      <usage ms="Alb2" code="07021000">[83r] matins-n2-r5</usage>
+      <usage ms="Evm" code="07021000">[114v] matins-n1-r4</usage>
+      <usage ms="Wcb" code="07021000">[97r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-E CAO-V CAO-F CAO-L Evm Wcb Alb2 Bat"> Quis igitur ille est qui dudum
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-F Evm Wcb Alb2 Bat"> captam</rdg>
+         <rdg wit="CAO-L"> capta</rdg>
+      </app> venationem attulit mihi et comedi ex omnibus priusquam tu venires
+     <app>
+         <rdg wit="CAO-E CAO-F Wcb Alb2 Bat"> benedixique ei</rdg>
+         <rdg wit="CAO-V CAO-L"> benedixitque ei</rdg>
+         <rdg wit="Evm"> benedixi<del status="unremarkable">t</del>que ei</rdg>
+      </app> et erit benedictus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-F CAO-L Bat Evm Wcb"> Dominum tuum illum constitui et omnes fratres eius servituti illius subiugavi
+      <app>
+            <rdg wit="CAO-F Bat"> frumento quoque et vino stabilivi eum</rdg>
+            <rdg wit="CAO-L"> frumento et vino stabilivi ei</rdg>
+            <rdg wit="CAO-V Evm Wcb" type="silent">[silent reading]</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E"> Venit germanus tuus fraudulenter et accepit benedictionem tuam</vBody>
+      <vBody type="r" wit="Alb2"> Frumento et vino stabilivi eum et tibi fili mi ultra quid faciam</vBody>
+      <rep type="r" wit="CAO-E CAO-F Evm Wcb Alb2 Bat">Benedixique</rep>
+      <rep type="r" wit="CAO-V CAO-L">Benedixitque</rep>
+   </verses>
+</res>

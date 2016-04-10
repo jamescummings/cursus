@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6377" nextid="c6379" id="c6378">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-F CAO-S"> Cum vidisset beatus Andreas crucem</rdg>
+         <rdg wit="CAO-C"> Cum videret beatus Andreas crucem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-F"> exclamavit et dixit</rdg>
+         <rdg wit="CAO-S"> exclamavit dicens</rdg>
+      </app> salve crux
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-F"> quamdiu</rdg>
+         <rdg wit="CAO-S"> iam diu</rdg>
+      </app> fatigaris exspectans me sicut exspectasti dominum et magistrum meum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R"> Exspecta me sancta crux humilem propter dominum</vBody>
+      <vBody type="r" wit="CAO-F"> O bona crux diu desiderata et iam concupiscenti animo praeparata</vBody>
+      <vBody type="r" wit="CAO-S"> Securus et gaudens venio ad te ita ut et tu exsultans suscipias me</vBody>
+      <vBody type="r" wit="CAO-C"> Suscipe beata crux humilem propter dominum suscipe discipulum eius qui pependit in te</vBody>
+      <rep type="r" wit="CAO-H CAO-R"> Sicut</rep>
+      <rep type="r" wit="CAO-F CAO-S"> Exspecta</rep>
+      <rep type="r" wit="CAO-C"> Salve</rep>
+   </verses>
+</res>

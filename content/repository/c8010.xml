@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8009" nextid="c8011" id="c8010">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Bat" code="06031000">[46r] lauds-a4</usage>
+      <usage ms="Cdm" code="06031000">lauds</usage>
+      <usage ms="Mch" code="06031000">[108v] lauds-a4</usage>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="Alb2 Wor Pet Cdm Mch Bat"> Benedicamus patrem et filium in saecula cum sancto spiritu</aBody>
+</ant>

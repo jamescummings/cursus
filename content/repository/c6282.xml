@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6281" nextid="c6283" id="c6282">
+   <header>
+      <usage ms="Bat" code="02122700">[21v] matins-n3-r10</usage>
+      <usage ms="Wor" code="02122700">[20v] matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-D Bat Wor">
+      <app>
+         <rdg wit="CAO-D Wor"> Cibavit illum pane vitae</rdg>
+         <rdg wit="Bat"> Cibavit illum dominus pane vitae</rdg>
+         <rdg wit="CAO-C"> Cibavit illum panem vitae</rdg>
+      </app> et intellectus et aqua sapientiae salutaris
+     <app>
+         <rdg wit="CAO-C CAO-D"> potavit eum</rdg>
+         <rdg wit="Bat Wor">potavit illum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D Bat"> Custodivit eum ab inimicis et a seductoribus tutavit
+       <app>
+            <rdg wit="CAO-D Bat"> illum</rdg>
+            <rdg wit="CAO-C"> eum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Iustum deduxit dominus</vBody>
+      <rep type="r" wit="CAO-C CAO-D Bat">Et aqua</rep>
+   </verses>
+</res>

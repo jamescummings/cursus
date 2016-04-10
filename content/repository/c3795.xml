@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3794" nextid="c3796" id="c3795">
+   <header>
+      <usage ms="Alb2" code="07021000"/>
+      <usage ms="Bat" code="07021000">[52v] nones</usage>
+      <usage ms="Cdm" code="07021000">[62r] none</usage>
+      <usage ms="Cht" code="07021000">[30r] matins-n3</usage>
+      <usage ms="Ely" code="07021000">[71v] matins-n3</usage>
+      <usage ms="Glo" code="07021000"/>
+      <usage ms="Hyd" code="07021000">[75r] matins-n3-a1</usage>
+      <usage ms="Mch" code="07021000">[124v] sext</usage>
+      <usage ms="Wcb" code="07021000">[98r] matins-n3</usage>
+      <usage ms="Wor" code="07021000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Ely Hyd Wor Cht Wcb Glo Alb2 Cdm Mch Bat"> Missus sum ad oves
+     <app>
+         <rdg wit="CAO-G CAO-V CAO-H CAO-R CAO-F CAO-S Ely Wor Cht Wcb Glo Cdm Bat"> quae perierant</rdg>
+         <rdg wit="CAO-C CAO-E Hyd Alb2 Mch"> quae perierunt</rdg>
+      </app> domus Israel dicit dominus</aBody>
+</ant>

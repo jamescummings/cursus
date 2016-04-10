@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3793" nextid="c3795" id="c3794">
+   <header>
+      <usage ms="Alb2" code="01034000">[16r] lauds gosp</usage>
+      <usage ms="Bat" code="01034000">[10v] lauds gosp</usage>
+      <usage ms="Cdm" code="01034000">[16v] lauds gosp</usage>
+      <usage ms="Evm" code="01011000">[4r] commemoration</usage>
+      <usage ms="Evm" code="01034009">[19v] lauds gosp</usage>
+      <usage ms="Hyd" code="01034009">[12r] lauds gosp</usage>
+      <usage ms="Mch" code="01034000">[14r] lauds gosp</usage>
+      <usage ms="Wcb" code="01044000">[50v] lauds gosp</usage>
+      <usage ms="Wor" code="01034000">[9r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Wor Wcb Bat"> Missus est Gabriel angelus ad Mariam virginem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Wor Wcb Bat"> desponsatam Joseph</rdg>
+         <rdg wit="CAO-C"> desponsata Joseph</rdg>
+      </app>
+   </aBody>
+</ant>

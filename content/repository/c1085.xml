@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1084" nextid="c1086" id="c1085">
+   <header>
+      <usage ms="Bat" code="07051000">[58r] matins inv</usage>
+      <usage ms="Cdm" code="07051000">[70v] matins</usage>
+      <usage ms="Ely" code="07051000">[80v] matins</usage>
+      <usage ms="Evm" code="07011000">[104v] matins</usage>
+      <usage ms="Hyd" code="07051000">[85r] matins</usage>
+      <usage ms="Mch" code="07051000">[143v] matins inv</usage>
+      <usage ms="Pet" code="07051000">[79r] matins-a3</usage>
+      <usage ms="Wcb" code="07011000">[91v] matins</usage>
+      <usage ms="Wor" code="07051000">[52v] matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Cdm Mch Bat"> Hodie si vocem domini audieritis nolite obdurare corda vestra</aBody>
+</ant>

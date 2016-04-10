@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2093" nextid="c2095" id="c2094">
+   <header>
+      <usage ms="Alb2" code="01031000">[13r] lauds-a3</usage>
+      <usage ms="Bat" code="01031000">[9v] lauds-a3</usage>
+      <usage ms="Cdm" code="01031000">[15v] lauds-a3</usage>
+      <usage ms="Ely" code="01031000">[10v] lauds-a3</usage>
+      <usage ms="Evm" code="01031000">[18r] lauds-a3</usage>
+      <usage ms="Hyd" code="01031000">[11r] lauds-a3</usage>
+      <usage ms="Mch" code="01031000">[12r] lauds-a3</usage>
+      <usage ms="Wcb" code="01031000">[47v] lauds-a3</usage>
+      <usage ms="Wor" code="01031000">[8r] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Dabo in Sion salutem et in Jerusalem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-D CAO-S CAO-L Hyd Alb2 Evm Mch Ely Wor Wcb Bat"> gloriam meam</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-F"> gloria mea</rdg>
+      </app> alleluia</aBody>
+</ant>

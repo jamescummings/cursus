@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2243" nextid="c2245" id="c2244">
+   <aBody wit="CAO-M CAO-H CAO-S CAO-L"> Dirige domine deus meus in conspectu tuo
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-L"> viam meam</rdg>
+         <rdg wit="CAO-S"> via mea</rdg>
+      </app>
+   </aBody>
+</ant>

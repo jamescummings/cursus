@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6915" nextid="c6917" id="c6916">
+   <header>
+      <usage ms="Alb2" code="07065000">[107v] matins-n1-r1</usage>
+      <usage ms="Cdm" code="07065000">[77r] matins-n1-r1</usage>
+      <usage ms="Evm" code="07065000">[147v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="07065000">[95r] matins-n1-r3</usage>
+      <usage ms="Mch" code="07065000">[158r] matins-n1-r1</usage>
+      <usage ms="Pet" code="07065000">[88r] matins-n1-r1</usage>
+      <usage ms="Wcb" code="07065000">[114v] matins-n1-r2</usage>
+      <usage ms="Wor" code="07065000">[59r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">In monte Oliveti</rdg>
+         <rdg wit="CAO-C CAO-G">In montem Oliveti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-S Ely Wor Hyd Evm Alb2 Cdm Mch">oravi ad patrem</rdg>
+         <rdg wit="CAO-H CAO-F Pet Wcb">oravit ad patrem</rdg>
+         <rdg wit="CAO-D">oravi<del resp="DC" hand="unknown" status="unremarkable">t</del> ad patrem</rdg>
+         <rdg wit="CAO-L">oravit Jesus ad patrem</rdg>
+      </app> pater si fieri potest transeat a me calix iste spiritus quidem promptus est caro autem infirma fiat voluntas tua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Pet Alb2 Cdm Mch">Verumtamen non sicut ego volo sed sicut tu vis</vBody>
+      <vBody type="r" wit="Wor Evm Wcb"> Vigilate et orate dicit dominus ut non intretis in temptationem</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Ely Pet Alb2 Mch">Fiat</rep>
+      <rep type="r" wit="CAO-B CAO-S Wor Hyd Evm Wcb">Spiritus quidem</rep>
+      <rep type="r" wit="CAO-L">Pater</rep>
+      <rep type="r" num="2" wit="Hyd">In monte</rep>
+   </verses>
+</res>

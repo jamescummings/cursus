@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6708" nextid="c6710" id="c6709">
+   <rBody wit="CAO-D CAO-F CAO-S"> Facies et pennas per quatuor partes habebant incedentes non revertebantur
+      <app>
+         <rdg wit="CAO-D CAO-F"> sed unumquodque</rdg>
+         <rdg wit="CAO-S"> sed unumquoque</rdg>
+      </app> ibat
+      <app>
+         <rdg wit="CAO-F CAO-S"> ante faciem suam</rdg>
+         <rdg wit="CAO-D"> ante facies suas</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Pedes eorum pedes recti planta pedis ut planta vituli</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S"> Incedentes</rep>
+   </verses>
+</res>

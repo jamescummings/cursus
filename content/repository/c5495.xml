@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5494" nextid="c5496" id="c5495">
+   <aBody wit="CAO-C CAO-V CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-V"> Vos autem estote fortes</rdg>
+         <rdg wit="CAO-S"> Vos state fortes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> et custodite quae a me accepistis</rdg>
+         <rdg wit="CAO-V"> et ovservate quae a me accepistis</rdg>
+         <rdg wit="CAO-S"> et custodite quae accepistis</rdg>
+      </app> quia non videbitis ultra faciem meam</aBody>
+</ant>

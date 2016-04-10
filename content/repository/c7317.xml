@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7316" nextid="c7318" id="c7317">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Omni tempore benedic
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd"> deum</rdg>
+         <rdg wit="CAO-F"> deo</rdg>
+      </app> et pete ab eo ut vias tuas dirigat et omni tempore consilia tua in ipso
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H Hyd"> permaneant</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L"> permaneat</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="permaneat">permaneant</corr>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> Memor esto fili quoniam pauperem vitam gerimus habebis multa bona si timueris deum</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Inquire ut facias quae placita sunt illi in veritate et in tota virtute tua</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et omni</rep>
+   </verses>
+</res>

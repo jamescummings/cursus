@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7863" nextid="c7865" id="c7864">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Videntes stellam magi gavisi sunt gaudio magno et intrantes domum invenerunt puerum cum Maria matre eius et procidentes adoraverunt eum et apertis thesauris suis obtulerunt ei munera aurum thus et myrrham</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R"> Reges Tharsis et insulae munera offerent reges Arabum et Saba dona adducent</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V"> Reges Tharsis et insulae</vBody>
+      <vBody type="r" wit="CAO-G CAO-S CAO-L Alb2">
+         <app>
+            <rdg wit="CAO-G CAO-S Alb2"> Stella quam viderant in oriente</rdg>
+            <rdg wit="CAO-L"> Stella quam viderunt magi in oriente</rdg>
+         </app> antecedebat eos
+      <app>
+            <rdg wit="CAO-G CAO-S Alb2"> usque dum veniens staret</rdg>
+            <rdg wit="CAO-L"> donec veniret</rdg>
+         </app> supra ubi erat puer</vBody>
+      <vBody type="r" wit="CAO-D CAO-F Hyd Pet"> Ab oriente venerunt magi in Bethleem adorare dominum</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et apertis</rep>
+      <rep type="r" wit="CAO-E CAO-M Alb2">Et intrantes</rep>
+      <rep type="r" wit="CAO-C CAO-V">Aurum</rep>
+   </verses>
+</res>

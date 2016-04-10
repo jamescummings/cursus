@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5482" nextid="c5484" id="c5483">
+   <header>
+      <usage ms="Alb2" code="06021000">[68v] matins-n3-a1</usage>
+      <usage ms="Cht" code="06021000">[14r] matins-n3-a1</usage>
+      <usage ms="Ely" code="06021000">[61v] matins-n3</usage>
+      <usage ms="Evm" code="06021000">[98v] vesp2</usage>
+      <usage ms="Glo" code="06021000">[56v] vesp2</usage>
+      <usage ms="Hyd" code="06021000">[63v] matins-n3 inv</usage>
+      <usage ms="Mch" code="06028000">[105v] gospel</usage>
+      <usage ms="Pet" code="06021000">[58v] matins-n3</usage>
+      <usage ms="Wcb" code="06021000">[88v] vesp2</usage>
+      <usage ms="Wor" code="06021000">[38v] matins-n3-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Wcb Glo Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Wor Pet Ely Evm Wcb Glo Mch"> Vobis datum est nosse mysterium regni dei</rdg>
+         <rdg wit="Alb2 Cht"> Vobis datum est nosce mysterium regni dei</rdg>
+      </app> ceteris autem in parabolis dixit Jesus discipulis suis</aBody>
+</ant>

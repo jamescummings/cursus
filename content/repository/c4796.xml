@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4795" nextid="c4797" id="c4796">
+   <aBody wit="CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sanctus sanctus sanctus dominus deus omnipotens
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-F CAO-S"> qui erat et qui est et qui venturus est</rdg>
+         <rdg wit="CAO-D"> qui eras et qui es et qui venturus es</rdg>
+         <rdg wit="CAO-L"> qui eras et qui es et qui venturus es miserere nobis</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7819" nextid="c7821" id="c7820">
+   <header>
+      <usage ms="Hyd" code="05027000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Velociter exaudi me domine quia defecerunt sicut fumus dies mei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Dies mei sicut umbra declinaverunt et ego sicut foenum arui</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Quia</rep>
+   </verses>
+</res>

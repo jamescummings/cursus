@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6384" nextid="c6386" id="c6385">
+   <rBody wit="CAO-V CAO-F">
+      <app>
+         <rdg wit="CAO-V"> Custodi nos domine</rdg>
+         <rdg wit="CAO-F"> Custodi me domine</rdg>
+      </app> ut pupillam oculi sub umbra alarum tuarum
+      <app>
+         <rdg wit="CAO-V"> protege nos domine</rdg>
+         <rdg wit="CAO-F"> protege me</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-F"> Mirifica misericordias tuas qui salvos <corr sic="facit">facis</corr> sperantes in te</vBody>
+      <rep type="r" wit="CAO-V CAO-F"> Sub umbra</rep>
+   </verses>
+</res>

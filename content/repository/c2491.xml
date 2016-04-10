@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2490" nextid="c2492" id="c2491">
+   <header>
+      <usage ms="Bat" code="01034000">[10v] vesp2-gosp</usage>
+      <usage ms="Evm" code="01017000">[12v] lauds-a5</usage>
+      <usage ms="Evm" code="01034009">[19v] nones</usage>
+      <usage ms="Glo" code="14032500"/>
+      <usage ms="Mch" code="01048000">[21r] </usage>
+      <usage ms="Wcb" code="01044000">[50v] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Evm Mch Wcb Bat"> Ecce ancilla domini fiat mihi secundum verbum tuum</aBody>
+   <aBody wit="Glo" type="incipit"> Ecce ancilla domini</aBody>
+</ant>

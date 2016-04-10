@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6675" nextid="c6677" id="c6676">
+   <rBody wit="CAO-E CAO-D CAO-F CAO-S"> Et valde mane una sabbatorum veniunt ad monumentum orto iam sole alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Maria Magdalene et Maria Jacobi et Salame emerunt aromata ut venientes ungerent Jesum</vBody>
+      <vBody type="r" wit="CAO-D"> Et respicientes viderunt revolutum lapidem ab ostio monumenti</vBody>
+      <vBody type="r" wit="CAO-F"> Maria Magdalene et Maria Jacobi et Salome venerunt diluculo ad monumentum</vBody>
+      <vBody type="r" wit="CAO-S"> Mulieres emerunt aromata summo diluculo veniunt ad monumentum</vBody>
+      <vBody type="r" num="2" wit="CAO-S"> Hodie resurrexit dominus</vBody>
+      <vBody type="r" num="3" wit="CAO-S"> Hodie apparens mulieribus</vBody>
+      <vBody type="r" num="4" wit="CAO-S"> Venitque Maria prima sabbati</vBody>
+      <vBody type="r" num="5" wit="CAO-S"> Diluculo veniunt illae mulieres</vBody>
+      <vBody type="r" num="6" wit="CAO-S"> Sepulcrum vacuum inveniunt</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-S"> Orto iam sole alleluia</rep>
+   </verses>
+</res>

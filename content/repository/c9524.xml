@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9523" nextid="c9525" id="c9524">
+   <header>
+      <usage ms="Hyd" code="02122700"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Text of respond identical to that of antiphon c2791</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Hyd"> Exiit sermo inter fratres quod discipulus ille non moritur et non dixit Jesus non moritur sed sic eum volo manere donec veniam</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Respondens Jesus dixit Petro tu me sequere </vBody>
+      <rep type="r" wit="Hyd">Sed sic </rep>
+   </verses>
+</res>

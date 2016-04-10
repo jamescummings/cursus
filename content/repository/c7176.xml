@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7175" nextid="c7177" id="c7176">
+   <header>
+      <usage ms="Hyd" code="10100000">matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Montes Gelboe nec ros nec pluvia
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-L Hyd"> veniant</rdg>
+         <rdg wit="CAO-C CAO-B CAO-R CAO-S"> veniat</rdg>
+      </app> super vos ubi ceciderunt fortes Israel
+      <app>
+         <rdg wit="CAO-L"> Saul et Jonathas</rdg>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Omnes montes
+       <app>
+            <rdg wit="CAO-C CAO-M CAO-D CAO-F Hyd"> qui in circuitu eius sunt</rdg>
+            <rdg wit="CAO-R"> in circuitu</rdg>
+            <rdg wit="CAO-B CAO-H"> in circuitu eius</rdg>
+            <rdg wit="CAO-V"> qui in circuitu eius estis</rdg>
+            <rdg wit="CAO-E CAO-S"> qui estis in circuitu eius</rdg>
+         </app> visitet
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> dominus</rdg>
+            <rdg wit="CAO-E"> dominum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R"> a Gelboe transeat</rdg>
+            <rdg wit="CAO-M CAO-S"> ad Gelboe transeat</rdg>
+            <rdg wit="CAO-D CAO-F Hyd"> a Gelboe autem transeat</rdg>
+            <rdg wit="CAO-V"> a Gelboe transeat a <corr sic="longne" resp="Hesbert">longe</corr>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Neque sint ibi agri primitiarum quia ibi abiectus est clypeus fortium</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Ubi</rep>
+      <rep type="r" wit="CAO-L">Saul</rep>
+   </verses>
+</res>

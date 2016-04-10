@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1583" nextid="c1585" id="c1584">
+   <aBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">Beati Mauri cognita praesentia</l>
+         <l part="N">caecus <corr sic="precatus" resp="Hesbert">precatur</corr> ut lumen recipiat</l>
+         <l part="N">cuius vir sanctus prece motus nimia</l>
+         <l part="N">orando sibi quod deposcit impetrat</l>
+      </verse>
+   </aBody>
+</ant>

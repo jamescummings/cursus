@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1330" nextid="c1332" id="c1331">
+   <header>
+      <usage ms="Hyd" code="08021000">matins-n1</usage>
+      <usage ms="Hyd" code="08021000">none</usage>
+      <usage ms="Wcb" code="06011000">[84v] vesp1</usage>
+   </header>
+   <aBody wit="CAO Wcb Hyd"> Alleluia alleluia alleluia alleluia alleluia alleluia</aBody>
+</ant>

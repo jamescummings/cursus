@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8604" nextid="c8606" id="c8605">
+   <header>
+      <usage ms="Mch" code="07051000">[143v] vesp1 gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Text is John 008.019</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Mch"> Dicebant ergo Pharisei ubi est pater tuus respondit Jesus et dixit neque me scitis neque patrem meum si me sciretis forsitan et patrem meum sciretis</aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1376" nextid="c1378" id="c1377">
+   <header>
+      <usage ms="Cht" code="07051000">[49r] prime</usage>
+      <usage ms="Evm" code="07051000">[136v] prime</usage>
+      <usage ms="Glo" code="07051000">[70v] prime</usage>
+      <usage ms="Wcb" code="07051000">[108v] prime</usage>
+   </header>
+   <aBody wit="CAO-C CAO-D Cht Evm Wcb Glo"> Amen amen dico vobis si quis sermonem meum servaverit mortem
+     <app>
+         <rdg wit="CAO-D Evm Wcb"> non gustabit in aeternum</rdg>
+         <rdg wit="CAO-C Cht Glo"> non videbit in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

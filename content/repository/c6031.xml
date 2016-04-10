@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6030" nextid="c6032" id="c6031">
+   <rBody wit="CAO-C CAO-V CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-F"> Adduxisti sanctos tuos</rdg>
+         <rdg wit="CAO-V"> Adduxistis sanctos tuos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R"> in praeparationem</rdg>
+         <rdg wit="CAO-V CAO-F"> in praeparatione</rdg>
+      </app> quam praeparaverunt manus tuae domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-H CAO-R CAO-F"> Altaria tua domine virtutum rex meus et deus meus beati qui habitant in domo tua</vBody>
+      <vBody type="r" wit="CAO-C"> Haec est domus domini et porta caeli</vBody>
+      <rep type="r" wit="CAO-V CAO-H CAO-R CAO-F"> Quam</rep>
+   </verses>
+</res>

@@ -1,0 +1,151 @@
+ body {margin-left: 0px;margin-top:0px; margin-right: 10px; background-image: url("/images/lightpaper.gif"); font-family: "Times New Roman", Times, serif; color: black; font-weight: normal; font-size: 110%; text-align:left;}     
+.DayHeader{display:block; background-color:#FFFFDD;}
+.Day{display:block; padding:10px;}
+.Week{display:block; padding:10px;}
+.aBody {display:inline;}
+.aBodywits {display: inline; font-size: 60%; width:30%;  color:#B99;} 
+.aBodywits {display: inline; font-size: 70%;} 
+.ant {display: block;margin-left:2%; }
+.antglyph {display: inline; font-size: 120%;}
+.antglyph {display: inline; font-size: 200%; color:BB0000;font-weight:bold;}
+.app {display: block; margin-left:2%; }
+.bibleref {font-size: 70%; font-weight:bold;}
+.bible {background-color:#EEEEFF;}
+.cap {font-size: 110%;}
+.chapter {display:block;}
+.code{display:block;}
+.corr{display:inline; color:#000099;}
+.del {display:inline; color:#009900;}
+.description{display:block;}
+.dox {display: block;}
+.doxwits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.feast{display:block;}
+.gap {display:inline; color:#990000;}
+.headerTitle {display:inline; font-weight:bold;}
+.incipit {display:block;}
+.incipit a {text-decoration:none; display:inline;}
+.l {display:block; margin-left:30%;}
+.l {display:block; margin-left:30%;}
+.lection{display:block; margin-left:20px; padding:2px;}
+.navtext {font-size:95%; color:#DD0000; font-weight:bold; font:Garamond, Times New Roman, serif; margin-left:15px;margin-right:0px;}
+.arrow img {text-decoration:none; border:0; vertical-align:middle;padding:0px; margin-left:10px;display:inline;}
+.nocturn {display:block; padding:2px;}
+.note {color:red; font-size:75%;}
+.pBody {display: inline; }
+.pBodywits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.pageNumber {display:block; text-align:right; font-size:90%;}
+.prayer {display: block;margin-left:2%; }
+.prayerglyph {display: inline; font-size: 200%; color:BB0000;font-weight:bold;}
+.prosulawits{display: inline; font-size: 60%; width:30%;}
+.prosula{display: block; margin-left:5%;}
+.rBody {display: inline;}
+.rBodywits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.rdgwits {display: inline; font-size: 60%; width:30%; color:#999;}
+.rdg{display: block; font-size:120%; font-weight:bold; color:#955;}
+.ref {dislay:inline}
+.ref {dislay:inline}
+.rep {display: inline;font-weight:normal;margin-left:5px;}
+.repwits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.repwits {display: inline; font-size: 70%;}
+.res {display: block;margin-left:2%; }
+.resglyph {display: inline; font-size: 200%; color:BB0000;font-weight:bold;}
+.respond {display:block; margin-left:30px; padding:2px;}
+.rubric-antiphon   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-bible-colophon    {color:#660000; font-size:110%; display:block;font-weight:bold;}
+.rubric-bible-incipit    {color:#660000; font-size:110%; display:block; font-weight:bold;}
+.rubric-biblicalTitle    {color:#660000; font-size:110%;display:block; font-weight:bold;}
+.rubric-cant    {color:#660000; font-size:110%; display:inline; font-weight:bold;}
+.rubric-cantica    {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-chapterTitle    {color:#660000; font-size:110%;display:inline; font-weight:bold;}
+.rubric-dayTitle    {color:#990000; font-size:120%; display:block; font-weight:bold;}
+.rubric-evangelio    {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-evovae    {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-feriaTitle   {color:#660000; font-size:120%; display:block;font-weight:bold;}
+.rubric-general    {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-hymn   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-invitatory   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-lectionTitle   {color:#660000; font-size:110%; display:block;font-weight:bold;}
+.rubric-levis   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-levis;{color:red; font-size:110%;font-weight:bold;}
+.rubric-nocturnTitle   {color:#660000; font-size:115%; display:block;font-weight:bold;}
+.rubric-oratio   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-preces   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-psalm   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-psalmumIpsum   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-respond   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-serviceTitle   {color:#990000; font-size:120%; display:block;font-weight:bold;}
+.rubric-unknown   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.rubric-verse   {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+.service{display:block; margin:10px;}
+.sic {display:inline; color:#000990;}
+.sic {display:inline; color:#000990;}
+.supplied {display: inline;color:#008877; }
+.supplied {display: inline;color:#008877; }
+.toc {display: block; font-size:85%;}
+.unclear {display:inline; color:#009900;}
+.unclear {display:inline; color:#009900;}
+.vBody {display: inline}
+.vBodywits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.verse {display:block; }
+.verseglyph {display: inline; font-size: 200%; color:BB0000;font-weight:bold;}
+.verses {display:block; margin-left:10%; margin-top:5px;}
+div {padding: 2px;}
+h1 {color:#006600;}
+table {border-width:1px;border:none;margin-bottom:5px; width:70%;}
+td{padding: 2px; border-width:thin; border-style:solid; border-color:#BBB; margin-right:2%;}
+.readingbuttons {display:block; text-align:right; font-size:95%; color:#660066; font-weight:bold;}
+.readingbuttons form {display:inline;}
+.views a {text-decoration:none; color:#55C;}
+.usagefooter {font-size:90%; padding:0%; font-weight:bold;}
+.usagefooter a {text-decoration:none; color:#55C;}
+.views a:hover {text-decoration:none; color:#000;background-color:#FFFFEE;}
+.readingbuttons a:hover {text-decoration:none; color:#000;background-color:#FFFFEE;}
+.usagefooter a:hover {text-decoration:none; color:#000;background-color:#FFFFEE;}
+.header {margin-top:0px;font-size:150%;padding-top:20px;padding-bottom:15px; padding-left:25px;background-color:#ccddff;display:block;color:#444444; 
+font-family: Garamond; font-weight:bold;
+border-bottom:1px solid #000099;
+width:100%;
+}
+.logo a {font-weight:bolder; font-size:110%;font:Garamond,serif; color:#660000; text-decoration:none; }
+.logo {letter-spacing:0.33em;}
+.footer {margin:0px;padding-top:5px;padding-bottom:5px;;display:block;color:#444444; padding-left:15px;text-align:center;clear:both;}
+.footermailto a {color:#444;}
+.footerlogo   a {color:#444;}
+.sidebar {float:left; 
+margin-left:0px;
+ margin-right:5px;
+ width:15%;
+ border-right:1px solid #000099; 
+ padding: 10px; 
+ padding-left:2px; 
+ background-color:#ccddff; 
+ font-size:70%; 
+ clear:left; 
+ border-bottom:1px solid #000099;}
+.sidebar a{text-decoration:none; color:#660000;}
+.main {margin-left:18%; margin-right:5%;}
+.main hr {margin-left:-2%;}
+.sidebar ul li {font-weight:bold;}
+.sidebar ul li ul li {font-weight:normal;}
+.smallmain {font-size:70%;}
+.searchresultsheader{display:block;text-align:center;color:#55C;}
+.searchresultsfooter{display:block;text-align:center;color:#55C;}
+.searchresultsprev a{text-align:left;padding-right:20%;color:#55C;}
+.searchresultsnew a{text-align:center;color:#55C;}
+.searchresultsnext a{text-align:right;padding-left:20%;color:#55C;}
+.heading {font-weight:bold;}
+.msdetails {margin-top:0px;}
+.title {font-variant:italics;}
+.anchor a {text-decoration:none;padding-right:5px; color:#55C; font-weight:normal; font-size:80%;}
+a {text-decoration:none; color:#55C;}
+
+
+
+
+
+
+
+
+
+
+

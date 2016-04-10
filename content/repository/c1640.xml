@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1639" nextid="c1641" id="c1640">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> dixit</rdg>
+         <rdg wit="CAO-C CAO-E CAO-F CAO-L"> Beatus <name reg="Laurentius" type="saint">Laurentius</name> orabat dicens</rdg>
+      </app> domine Jesu Christe deus de deo
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-S"> miserere mei servo tuo</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F"> miserere mihi servo tuo</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> miserere mei servi tui</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Quia accusatus non negavi nomen sanctum tuum</rdg>
+            <rdg wit="CAO-D"> Quia accusatus non negavi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-M CAO-F CAO-S"> interrogatus te Christum confessus sum</rdg>
+            <rdg wit="CAO-E CAO-V CAO-H"> interrogatus Christum confessus sum</rdg>
+            <rdg wit="CAO-B CAO-R"> interrogatus te Christe confessus sum</rdg>
+            <rdg wit="CAO-D"> interrogatus te dominum Jesum Christum confessus sum</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

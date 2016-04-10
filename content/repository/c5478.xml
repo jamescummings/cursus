@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5477" nextid="c5479" id="c5478">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D"> Vitam petiit a te</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-F"> Vitam petiit ad te</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> tribuisti ei domine</rdg>
+         <rdg wit="CAO-E"> et tribuisti ei domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> gloriam et magnum decorem imposuisti super eum</rdg>
+         <rdg wit="CAO-E"> quoniam et magnum decorem posuisti super eum</rdg>
+      </app> posuisti in capite eius coronam de lapide pretioso</aBody>
+</ant>

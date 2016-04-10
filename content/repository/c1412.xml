@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1411" nextid="c1413" id="c1412">
+   <header>
+      <usage ms="Alb2" code="07016000"/>
+      <usage ms="Bat" code="07016000">[50v] lauds gosp</usage>
+      <usage ms="Cdm" code="07016000">[60r] lauds</usage>
+      <usage ms="Cht" code="07016000"/>
+      <usage ms="Ely" code="07016000"/>
+      <usage ms="Evm" code="07016000"/>
+      <usage ms="Glo" code="07016000"/>
+      <usage ms="Hyd" code="07016000"/>
+      <usage ms="Mch" code="07016000">[120v] lauds gosp</usage>
+      <usage ms="Pet" code="07016000"/>
+      <usage ms="Wcb" code="07016000"/>
+      <usage ms="Wor" code="07016000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Alb2 Cdm Bat"> Angelus domini descendebat de caelo</rdg>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-V Wcb Mch"> Angelus domini descendit de caelo</rdg>
+         <rdg wit="CAO-B"> Angelus domini descendet de caelo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch Bat"> movebatur aqua</rdg>
+         <rdg wit="CAO-S"> et movebatur aqua</rdg>
+      </app> et sanabatur unus</aBody>
+   <aBody wit="Glo" type="incipit"> Angelus domini descendebat de caelo</aBody>
+</ant>

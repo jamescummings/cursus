@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3469b" nextid="c3471" id="c3470">
+   <aBody wit="CAO-C CAO-E CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C"> Iam hiems transiit</rdg>
+         <rdg wit="CAO-F CAO-L"> Iam enim hiems transiit</rdg>
+         <rdg wit="CAO-E"> Iam hiems abiit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F CAO-L"> imber abiit</rdg>
+         <rdg wit="CAO-E"> imber transiit</rdg>
+      </app> et recessit
+     <app>
+         <rdg wit="CAO-C CAO-E"> surge amica mea et veni</rdg>
+         <rdg wit="CAO-L"> surge propera columba mea et veni</rdg>
+         <rdg wit="CAO-F">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

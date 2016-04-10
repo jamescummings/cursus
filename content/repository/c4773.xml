@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4772" nextid="c4774" id="c4773">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F"> Sanctus Briccius satisfaciens populo</rdg>
+         <rdg wit="CAO-E CAO-M"> Sanctus Briccius satisfaciens populis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-F"> prunas ardentes</rdg>
+         <rdg wit="CAO-R"> brunas ardentes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F"> ab urbe in birro suo deferens</rdg>
+         <rdg wit="CAO-V"> ab urbe in birrum suum deferens</rdg>
+      </app> et ante sepulcrum beati Martini
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> coram populo proiciens</rdg>
+         <rdg wit="CAO-M"> coram omni populo proiciens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> vestimentum eius inustum apparuit</rdg>
+         <rdg wit="CAO-C"> vestimentum eius inustum non apparuit</rdg>
+      </app>
+   </aBody>
+</ant>

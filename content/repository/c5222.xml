@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5221" nextid="c5223" id="c5222">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] lauds gosp</usage>
+      <usage ms="Hyd" code="08012000">[102v] prime-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F Hyd Cdm"> Tu solus peregrinus es
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F Cdm"> et non audisti de Jesu</rdg>
+         <rdg wit="Hyd"> et non audivisti de Jesu</rdg>
+      </app> quomodo tradiderunt eum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-H CAO-R CAO-F"> in damnationem mortis alleluia</rdg>
+         <rdg wit="CAO-E CAO-D Hyd Cdm"> in damnatione mortis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

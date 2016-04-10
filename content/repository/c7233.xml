@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7232" nextid="c7234" id="c7233">
+   <rBody wit="CAO-C CAO-E"> Non vos me elegistis sed ego elegi vos et posui vos ut eatis et fructum afferatis et fructus vester maneat alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Non enim vos estis qui loquimini sed spiritus patris vestri qui loquitur in vobis</vBody>
+      <vBody type="r" wit="CAO-E"> Sicut misit me pater et ego mitto vos</vBody>
+      <rep type="r" wit="CAO-C">Et fructus</rep>
+      <rep type="r" wit="CAO-E">Ut</rep>
+   </verses>
+</res>

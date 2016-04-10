@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1813" nextid="c1815" id="c1814">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> Cives mei vermes sunt cutis mea aruit devorata caro os meum putruit
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-L"> nimis datus sum in opprobrium mundo</rdg>
+         <rdg wit="CAO-V"> nimis datus sum in opprobrium mundi</rdg>
+         <rdg wit="CAO-M"> nimis datus sum opprobrium illis</rdg>
+         <rdg wit="CAO-E"> nimis datus sum in opprobrium illis</rdg>
+         <rdg wit="CAO-R"> nimis datus sum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H"> et iam non cognoscor</rdg>
+         <rdg wit="CAO-M"> et iam amplius non cognoscar</rdg>
+         <rdg wit="CAO-L"> et iam amplius non agnoscor</rdg>
+         <rdg wit="CAO-V"> et iam non cognoscar</rdg>
+         <rdg wit="CAO-R"> et iam non cognosco</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-L"> ab amicis meis</rdg>
+         <rdg wit="CAO-V"> ab <corr sic="inimicis">amicis</corr> meis</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1393" nextid="c1395" id="c1394">
+   <header>
+      <usage ms="Cht" code="07064000">[59v] sext</usage>
+      <usage ms="Evm" code="07064000">[147r] sext</usage>
+      <usage ms="Glo" code="07064000">[78v] sext</usage>
+      <usage ms="Wcb" code="07064000">[114v] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L Cht Evm Wcb Glo">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S Cht Evm Wcb Glo"> Ancilla dixit Petro</rdg>
+         <rdg wit="CAO-L"> Ancilla dicit Petro</rdg>
+      </app> vere tu ex illis es nam et loquela tua manifestum te facit</aBody>
+</ant>

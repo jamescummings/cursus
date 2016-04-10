@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7538" nextid="c7540" id="c7539">
+   <rBody wit="CAO-C CAO-M CAO-D CAO-L"> Responsum accepit Simeon
+     <app>
+         <rdg wit="CAO-M CAO-D"> a spiritu sancto</rdg>
+         <rdg wit="CAO-C CAO-L"> ab spiritu sancto</rdg>
+      </app> non visurum se mortem nisi
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-L"> videret Christum domini</rdg>
+         <rdg wit="CAO-M"> videre Christum dominum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Dicebat iste in orationibus suis quando veniet putas durabo et pro desiderio suo meruit audire</vBody>
+      <vBody type="r" wit="CAO-L"> Homo iste iustus et timoratus exspectabat consolationem Israel responsum acceperat <corr sic="ab" resp="Hesbert">a</corr> spiritu sancto</vBody>
+      <vBody type="r" wit="CAO-C"> Nunc dimittis domine servum tuum in pace quia viderunt oculi mei salutare tuum</vBody>
+      <vBody type="r" wit="CAO-M"> Nunc dimittis servum tuum domine secundum verbum tuum in pace quia viderunt oculi mei salutare tuum</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-D CAO-L">Non visurum</rep>
+   </verses>
+</res>

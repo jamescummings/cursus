@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2923" nextid="c2925" id="c2924">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Gaude Maria virgo cunctas haereses
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> sola interemisti</rdg>
+         <rdg wit="CAO-M"> sola interemistis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> in universo mundo</rdg>
+         <rdg wit="CAO-C"> universo mundo</rdg>
+         <rdg wit="CAO-S"> sancta dei genitrix</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9012" nextid="c9014" id="c9013">
+   <header>
+      <usage ms="Alb2" code="06021000">[67v] matins-n1-r3</usage>
+      <usage ms="Bat" code="06021000">[43v] matins-n1-r3</usage>
+      <usage ms="Cdm" code="06021000">[51v] matins-n1-r3</usage>
+      <usage ms="Ely" code="06021000">[61r] matins-n1-r3</usage>
+      <usage ms="Mch" code="06021000">[103r] matins-n1-r3</usage>
+      <usage ms="Pet" code="06021000">[58r] matins-n1-r3</usage>
+      <usage ms="Wcb" code="06021000">[87r] matins-n1-r4</usage>
+      <usage ms="Wor" code="06021000">[38r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="Alb2 Wor Pet Ely Wcb Cdm Bat Mch"> Facto diluvio super terram quadraginta diebus multiplicatae sunt aquae et elevaverunt archam
+      <app>
+         <rdg wit="Alb2 Wor Pet Ely Wcb Cdm Mch"> in sublime</rdg>
+         <rdg wit="Bat"> in sublimi</rdg>
+      </app> a terra</rBody>
+   <verses>
+      <vBody type="r" wit="Alb2 Wor Pet Ely Wcb Cdm Bat Mch"> Vehementer inundaverunt aquae et repleverunt omnia in superficiae terrae</vBody>
+      <rep type="r" wit="Alb2 Wor Pet Ely Wcb Bat Mch">Et elevaverunt</rep>
+   </verses>
+</res>

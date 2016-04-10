@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2609" nextid="c2611" id="c2610">
+   <header>
+      <usage ms="Ely" code="01041000">[14v] terce</usage>
+      <usage ms="Evm" code="01041000">[25r] terce</usage>
+      <usage ms="Wcb" code="01041000">[49v] prime</usage>
+   </header>
+   <aBody wit="CAO-E CAO-F Evm Ely Wcb"> Ego vox clamantis in deserto
+     <app>
+         <rdg wit="CAO-E CAO-F Evm Wcb"> dirigite</rdg>
+         <rdg wit="Ely">parate</rdg>
+      </app> viam domini sicut dixit Isaias propheta</aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7022" nextid="c7024" id="c7023">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-L"> Isti sunt sancti qui pro testamento dei
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-L"> sua corpora</rdg>
+         <rdg wit="CAO-C"> corpora sua</rdg>
+      </app> tradiderunt et in sanguine agni laverunt stolas suas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R"> Tradiderunt corpora sua ad supplicia propter dominum</vBody>
+      <vBody type="r" wit="CAO-L"> Tradiderunt corpora sua propter deum ad supplicia et meruerunt habere coronas perpetuas</vBody>
+      <vBody type="r" wit="CAO-C"> Iusti in perpetuo vivent et apud dominum est merces eorum</vBody>
+      <rep type="r" wit="CAO-C CAO-H CAO-R CAO-L">Et in</rep>
+   </verses>
+</res>

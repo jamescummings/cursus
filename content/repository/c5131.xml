@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5130" nextid="c5132" id="c5131">
+   <header>
+      <usage ms="Cht" code="07053000">[51r] lauds</usage>
+      <usage ms="Glo" code="07053000">[71r] lauds</usage>
+      <usage ms="Wcb" code="07053000">[110r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Cht Wcb"> Tempus meum nondum advenit
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Cht Wcb"> tempus autem vestrum</rdg>
+         <rdg wit="CAO-C"> tempus vestrum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Cht Wcb"> semper est paratum</rdg>
+         <rdg wit="CAO-C"> semper adest dicit dominus</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Tempus meum nondum advenit</aBody>
+</ant>

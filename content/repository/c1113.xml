@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1112" nextid="c1114" id="c1113">
+   <header>
+      <usage ms="Alb2" code="07041000">[92v] matins</usage>
+      <usage ms="Bat" code="07041000">[55v] matins inv</usage>
+      <usage ms="Cdm" code="07041000">[67r] matins inv</usage>
+      <usage ms="Ely" code="07041000">[77r] matins</usage>
+      <usage ms="Evm" code="07041000">[126v] matins</usage>
+      <usage ms="Hyd" code="07041000">[81v] matins</usage>
+      <usage ms="Mch" code="07031000">[128r] matins inv</usage>
+      <usage ms="Pet" code="07041000">[74v] matins</usage>
+      <usage ms="Wcb" code="07041000">[103r] matins</usage>
+      <usage ms="Wor" code="07041000">[50r] matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Populus domini et oves pascuae eius
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-R CAO-D CAO-F CAO-S Ely Wor Wcb Cdm Mch Bat"> venite adoremus eum</rdg>
+         <rdg wit="CAO-H Pet"> venite adoremus deum</rdg>
+         <rdg wit="CAO-E Alb2"> venite adoremus dominum</rdg>
+         <rdg wit="CAO-C CAO-G CAO-L Hyd Evm"> venite adoremus</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3151" nextid="c3153" id="c3152">
+   <aBody wit="CAO-B CAO-H CAO-R"> Hymnum cantate nobis alleluia de canticis Sion alleluia quomodo cantabimus canticum domini in terra aliena alleluia
+     <app>
+         <rdg wit="CAO-B CAO-R"> septuaginta annos</rdg>
+         <rdg wit="CAO-H"> septuaginta annis</rdg>
+      </app> super flumina Babylonis
+     <app>
+         <rdg wit="CAO-B CAO-R"> sedimus et flevimus</rdg>
+         <rdg wit="CAO-H"> sedimus et flebimus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-R"> dum recordaremur Sion alleluia</rdg>
+         <rdg wit="CAO-H"> dum recordaremur Sion</rdg>
+      </app> ibi suspendimus
+     <app>
+         <rdg wit="CAO-B CAO-R"> organa nostra alleluia</rdg>
+         <rdg wit="CAO-H"> organa nostra alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

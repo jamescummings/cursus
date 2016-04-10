@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7706" nextid="c7708" id="c7707">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-L"> Stetit angelus iuxta aram templi</rdg>
+         <rdg wit="CAO-C CAO-M CAO-H"> Stetit angelus super aram templi</rdg>
+      </app> habens thuribulum aureum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> in manu sua</rdg>
+         <rdg wit="CAO-V"> in manus sua</rdg>
+      </app> et data sunt ei incensa multa et ascendit fumus aromatum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> de manu angeli in conspectu domini</rdg>
+         <rdg wit="CAO-C CAO-V"> in conspectu domini de manu angeli</rdg>
+         <rdg wit="CAO-L"> in conspectu domini</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> In conspectu angelorum psallam tibi
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R"> et adorabo</rdg>
+            <rdg wit="CAO-C CAO-M"> adorabo</rdg>
+         </app> ad templum sanctum tuum
+      <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-V"> et confitebor nomini tuo</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-L"> Factum est silentium in caelo et accepit angelus thuribulum et implevit illud de igne altaris</vBody>
+      <vBody type="r" wit="CAO-F"> Et accepit angelus thuribulum et implevit illud de igne altaris</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L">Et ascendit</rep>
+      <rep type="r" wit="CAO-H">In conspectu</rep>
+   </verses>
+</res>

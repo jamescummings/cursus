@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7019" nextid="c7021" id="c7020">
+   <rBody wit="CAO-F"> Isti sunt sancti dei Crispinus et Crispinianus nobiles progenie rebus ditati egressi sunt Roma propter amorem Dei reliquerunt omnia secuti sunt Domi num et pervenerunt ad praemia regni quae promisit dominus diligentibus se</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F">Isti sunt sancti qui pro testamento dei sua corpora tradiderunt</vBody>
+      <rep type="r" wit="CAO-F">
+         <add place="over erasure of original text" hand="later">Et pervenerunt</add>
+      </rep>
+   </verses>
+</res>

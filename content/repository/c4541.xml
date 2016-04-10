@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4540" nextid="c4542" id="c4541">
+   <header>
+      <usage ms="Alb2" code="07051000">[100v] nones</usage>
+      <usage ms="Cdm" code="07051000">[72r] none</usage>
+      <usage ms="Ely" code="07051000">[82v] terce</usage>
+      <usage ms="Mch" code="07051000">[147v] vesp2 gosp</usage>
+      <usage ms="Wor" code="07051000">[54r] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-R CAO-F CAO-S Ely Wor Alb2 Cdm Mch"> Quinquaginta annos nondum habes
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-R CAO-F CAO-S Ely Wor Alb2 Cdm"> et Abraham vidisti</rdg>
+         <rdg wit="Mch"> et Abraham vidisti dixit Jesus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-S Ely Wor Alb2 Cdm Mch">amen dico vobis</rdg>
+         <rdg wit="CAO-B CAO-R">amen amen dico vobis</rdg>
+         <rdg wit="CAO-F" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-R CAO-F Ely Mch">antequam Abraham fieret ego sum</rdg>
+         <rdg wit="CAO-S Wor Alb2 Cdm">antequam fieret ego sum</rdg>
+      </app>
+   </aBody>
+</ant>

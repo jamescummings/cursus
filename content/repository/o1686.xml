@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1685" nextid="o1687" id="o1686">
+   <header>
+      <usage ms="Hyd" code="08041000">vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.1117</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus qui errantibus ut in viam possint redire iustitiae veritatis tuae lumen ostendis da cunctis qui christiana professione censentur et illa respuere quae huic inimica sunt nomini et ea quae sunt apta sectari</pBody>
+</prayer>

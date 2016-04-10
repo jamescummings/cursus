@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4878" nextid="c4880" id="c4879">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Si cognovissetis me
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S"> et patrem meum utique cognovissetis</rdg>
+         <rdg wit="CAO-B CAO-R CAO-L"> et patrem meum utique agnovissetis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> et amodo cognoscetis eum</rdg>
+         <rdg wit="CAO-H"> et amodo cognoscitis eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-F CAO-S"> et vidistis eum alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-B"> et vidistis alleluia</rdg>
+         <rdg wit="CAO-R"> et vidistis eum alleluia</rdg>
+         <rdg wit="CAO-D"> et viditis eum alleluia</rdg>
+         <rdg wit="CAO-L"> et vidistis eum alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

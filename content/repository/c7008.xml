@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7007" nextid="c7008b" id="c7008">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Iste homo perfecit omnia quae
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> locutus est</rdg>
+         <rdg wit="CAO-E"> locutus</rdg>
+      </app> ei Deus et dixit ad eum ingredere in requiem meam
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> quia te vidi</rdg>
+         <rdg wit="CAO-C"> quia vidi te</rdg>
+      </app> iustum coram me ex omnibus gentibus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Iste est qui contempsit <corr sic="vita" resp="DC">vitam</corr> mundi et pervenit ad caelestia regna</vBody>
+      <vBody type="r" wit="CAO-C CAO-M CAO-V"> Iste est qui contempsitcc</vBody>
+      <vBody type="r" wit="CAO-H CAO-R"> Iustum deduxit dominus per vias rectas et ostendit illi regnum Dei dicens</vBody>
+      <vBody type="r" wit="CAO-E"> Iustum deduxit dominus</vBody>
+      <vBody type="r" wit="CAO-L"> Euge serve bone et fidelis intra in gaudium domini tui</vBody>
+      <vBody type="r" wit="CAO-D"> Euge serve bone et fidelis quia super pauca fuisti fidelis</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-V CAO-S CAO-E CAO-H CAO-R CAO-D">Ingredere</rep>
+      <rep type="r" wit="CAO-L">Quia</rep>
+   </verses>
+</res>

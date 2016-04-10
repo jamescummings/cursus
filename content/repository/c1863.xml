@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1862" nextid="c1863b" id="c1863">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Concede nobis hominem iustum</rdg>
+         <rdg wit="CAO-L"> Concede nobis hominem sanctum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> redde nobis hominem sanctum</rdg>
+         <rdg wit="CAO-L"> redde nobis hominem iustum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> ne interficias hominem deo carum</rdg>
+         <rdg wit="CAO-V"> ne interficias hominem deo caro</rdg>
+         <rdg wit="CAO-F"> ne interficies hominem deo carum</rdg>
+      </app> iustum mansuetum et pium</aBody>
+</ant>

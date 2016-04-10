@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1558" nextid="o1560" id="o1559">
+   <header>
+      <usage ms="Ely" code="07058000">[83r] unknown</usage>
+      <usage ms="Evm" code="07051000">[137r] vesp2</usage>
+      <usage ms="Wcb" code="07058000">[109v] </usage>
+   </header>
+   <pBody wit="Ely Evm Wcb">Adesto nobis domine deus noster et quos sanctae crucis misterio redemisti eius invictissimis ab hostium nos incursione tuere praesidiis</pBody>
+</prayer>

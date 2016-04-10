@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6911" nextid="c6913" id="c6912">
+   <rBody wit="CAO-C CAO-E CAO-V CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-S"> In medio carceris</rdg>
+         <rdg wit="CAO-V CAO-L"> In medium carceris</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-S CAO-L"> stabat beatus Joannes</rdg>
+         <rdg wit="CAO-C"> stans beatus Joannes</rdg>
+      </app> voce magna clamavit et dixit
+      <app>
+         <rdg wit="CAO-C"> domine deus meus</rdg>
+         <rdg wit="CAO-E CAO-S"> deus meus</rdg>
+         <rdg wit="CAO-V CAO-L"> domine deus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-S"> in manus tuas</rdg>
+         <rdg wit="CAO-V CAO-L"> ad te</rdg>
+      </app> commendo spiritum meum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Quoniam tu es protector meus redemisti me domine Deus veritatis</vBody>
+      <vBody type="r" wit="CAO-C CAO-S"> Quoniam tu es protector meus domine</vBody>
+      <vBody type="r" wit="CAO-V"> Misit rex incredulus ministros detestabiles et amputare iussit caput Joannis</vBody>
+      <rep type="r" wit="CAO-V">Commendo</rep>
+      <rep type="r" wit="CAO-E CAO-S">In manus</rep>
+      <prosula wit="CAO-L"> Dominator omnium Deus respice tuum famulum in carcerem istum orantem et ad te postulantem quia finis advenit</prosula>
+      <rep type="p" wit="CAO-L"> Domine</rep>
+      <prosula wit="CAO-L" num="2"> Rogo te Deus plasmator meus exaudi me servum tuum et in pace suscipe spiritum meum</prosula>
+      <vBody type="r" wit="CAO-L"> Misit rex et decollari iussit Joannem in carcere orantem et dicentem</vBody>
+      <rep type="r" wit="CAO-L"> Domine</rep>
+   </verses>
+</res>

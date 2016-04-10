@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3856" nextid="c3858" id="c3857">
+   <header>
+      <usage ms="Bat" code="14122900">[25r] lauds gosp</usage>
+      <usage ms="Cdm" code="02122700">[27v] vesp2 commemoratio</usage>
+      <usage ms="Ely" code="02122500">[18v] matins-n2-a11</usage>
+      <usage ms="Evm" code="02122500">[33v] matins-n2-a12</usage>
+      <usage ms="Hyd" code="02122500"/>
+      <usage ms="Pet" code="02122500">[16r] matins-n2-a12</usage>
+      <usage ms="Wcb" code="02122500">[54r] matins-n2-a12</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.149</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Ely Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Evm Wcb Bat Cdm Ely Pet"> Natus est nobis hodie salvator</rdg>
+         <rdg wit="CAO-V"> Natus est vobis hodie salvator</rdg>
+         <rdg wit="CAO-B CAO-S"> Natus est nobis salvator mundi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Ely Pet"> qui est Christus dominus</rdg>
+         <rdg wit="CAO-D"> qui es Christus dominus</rdg>
+      </app> in civitate David</aBody>
+   <aBody wit="CAO-H" num="2"> Natus est nobis salvator mundi qui est Christus dominus in civitate David</aBody>
+</ant>

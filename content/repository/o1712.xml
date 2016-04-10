@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1711" nextid="o1713" id="o1712">
+   <header>
+      <usage ms="Bat" code="07015000">[50v] vesp2</usage>
+      <usage ms="Cdm" code="07017000">[60r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.194</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm Bat"> Protector noster aspice deus ut qui malorum nostrorum pondere praemimur percepta misericordia libera tibi domine mente famulemur</pBody>
+</prayer>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6277" nextid="c6279" id="c6278">
+   <header>
+      <usage ms="Glo" code="14032500"/>
+   </header>
+   <rBody wit="CAO-G CAO-R CAO-F CAO-S Glo"> Christi virgo dilectissima virtutum
+      <app>
+         <rdg wit="CAO-G CAO-F CAO-S Glo"> operatrix</rdg>
+         <rdg wit="CAO-R"> operatrix magna</rdg>
+      </app> opem fer miseris subveni domina clamantibus ad te iugiter</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-R CAO-F CAO-S Glo">Quoniam peccatorum mole premimur
+       <app>
+            <rdg wit="CAO-G CAO-F CAO-S Glo"> et non est qui adiuvet</rdg>
+            <rdg wit="CAO-R"> ob hoc te deprecamur</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-R CAO-F CAO-S Glo">Subveni</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

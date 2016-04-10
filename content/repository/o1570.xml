@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1569" nextid="o1571" id="o1570">
+   <header>
+      <usage ms="Alb2" code="07057000">[103r] lauds</usage>
+      <usage ms="Cdm" code="07057000">[73v] lauds</usage>
+      <usage ms="Ely" code="07057000">[84v] lauds</usage>
+      <usage ms="Evm" code="07057000">[140v] lauds</usage>
+      <usage ms="Hyd" code="07057000">[89v] lauds</usage>
+      <usage ms="Mch" code="07057000">[151r] lauds</usage>
+      <usage ms="Wcb" code="07057000">[110v] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.308</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Evm Wcb Alb2 Cdm Mch"> Proficiat quaesumus domine plebs tibi dicata piae devotionis affectum ut sacris actionibus erudita quanto maiestati tuae fit gratior tanto donis potioribus augeatur</pBody>
+</prayer>

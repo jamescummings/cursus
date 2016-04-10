@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6468" nextid="c6470" id="c6469">
+   <rBody wit="CAO-G CAO-V CAO-F CAO-S"> Dixit autem Maria ad angelum ecce ancilla domini fiat mihi secundum verbum tuum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-V"> Spiritus sanctus
+       <app>
+            <rdg wit="CAO-V"> superveniet in te</rdg>
+            <rdg wit="CAO-G"> superveniet</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G"> cum dixisset</rdg>
+            <rdg wit="CAO-V"> cum respondisset</rdg>
+         </app> angelus ait Maria</vBody>
+      <rep type="r" wit="CAO-V"> Ecce</rep>
+      <vBody type="r" wit="CAO-F CAO-S"> Spiritus sanctus superveniet in te et virtus altissimi
+       <app>
+            <rdg wit="CAO-F"> obumbrabit</rdg>
+            <rdg wit="CAO-S"> obumbravit</rdg>
+         </app> tibi</vBody>
+      <rep type="r" wit="CAO-F"> Fiat mihi</rep>
+      <rep type="r" wit="CAO-S"> Secundum</rep>
+   </verses>
+</res>

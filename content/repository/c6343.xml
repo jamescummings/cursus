@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6342" nextid="c6344" id="c6343">
+   <rBody wit="CAO-E CAO-F CAO-S"> Corpora sanctorum in pace sepulta sunt
+      <app>
+         <rdg wit="CAO-S"> et nomina eorum vivent</rdg>
+         <rdg wit="CAO-E"> et vivunt nomina eorum</rdg>
+         <rdg wit="CAO-F"> et nomen eorum vivet</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-S"> in generatione et generatione</rdg>
+         <rdg wit="CAO-E"> in generatione et generationem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-S"> Sapientiam eorum narrant populi et laudem eorum
+       <app>
+            <rdg wit="CAO-S"> nuntiet</rdg>
+            <rdg wit="CAO-F"> pronuntiat omnis</rdg>
+         </app> ecclesia</vBody>
+      <vBody type="r" wit="CAO-E"> Iusti autem in perpetuo vivent et apud dominum est merces eorum</vBody>
+      <rep type="r" wit="CAO-S"> Et nomina</rep>
+      <rep type="r" wit="CAO-F"> Et nomen</rep>
+      <rep type="r" wit="CAO-E"> Et vivunt</rep>
+   </verses>
+</res>

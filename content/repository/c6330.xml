@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6329" nextid="c6331" id="c6330">
+   <rBody wit="CAO-E CAO-S"> Constitues eos principes super omnem terram me mores erunt nominis tui Domine</rBody>
+   <verses>
+      <vBody id="c6330-1" type="r" wit="CAO-S">In omnem terram</vBody>
+      <rep corresp="c6330-1" type="r" wit="CAO-S"/>
+      <vBody id="c6330-2" type="r" wit="CAO-E"> Nimis honorati sunt amici tui deus nimis confortatus est principatus eorum</vBody>
+      <rep corresp="c6330-2" type="r" wit="CAO-E">Memores</rep>
+      <vBody id="c6330-3" type="r" num="2" wit="CAO-S"> Non sunt loquelae neque sermones quorum non audiantur voces eorum</vBody>
+      <rep corresp="c6330-3" type="r" wit="CAO-S">Memores</rep>
+   </verses>
+</res>

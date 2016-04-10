@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1651" nextid="o1653" id="o1652">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.936</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Inlumina quaesumus domine tenebras nostras et totius noctis insidias tu nobis repelle propitius</pBody>
+</prayer>

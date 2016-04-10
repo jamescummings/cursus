@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6205" nextid="c6207" id="c6206">
+   <rBody wit="CAO-C CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-R CAO-D CAO-F"> Beatus es Simon Bar Jona</rdg>
+         <rdg wit="CAO-C"> Beatus es Simon Petre</rdg>
+      </app> quia caro et sanguis non revelavit tibi sed pater meus qui est in caelis
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-F"> dicit dominus</rdg>
+         <rdg wit="CAO-C" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-R CAO-D CAO-F">Et ego dico tibi quia tu es Petrus et super hanc petram aedificabo ecclesiam meam</vBody>
+      <rep type="r" wit="CAO-R CAO-D CAO-F">Dicit</rep>
+   </verses>
+</res>

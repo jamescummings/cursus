@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5212" nextid="c5214" id="c5213">
+   <aBody wit="CAO-M CAO-H">
+      <app>
+         <rdg wit="CAO-M"> Tu iussisti nasci domine</rdg>
+         <rdg wit="CAO-H"> Tu iussisti me nasci domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> tu promisisti mihi ut resurgerem</rdg>
+         <rdg wit="CAO-H"> tu promisisti ut resurgerem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M"> iussu tuo venio sancte</rdg>
+         <rdg wit="CAO-H"> iusso tuo venient sancti</rdg>
+      </app> ne derelinquas me quia pius es</aBody>
+</ant>

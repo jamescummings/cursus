@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3305" nextid="c3307" id="c3306">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> In velamento clamabunt sancti tui domine</rdg>
+         <rdg wit="CAO-C CAO-E"> In velamento clamabant sancti tui domine</rdg>
+         <rdg wit="CAO-F"> In velamento clamant sancti tui domine</rdg>
+      </app> alleluia alleluia alleluia</aBody>
+</ant>

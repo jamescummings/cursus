@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3532" nextid="c3534" id="c3533">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-S Hyd"> Iuste iudicate</rdg>
+         <rdg wit="CAO-L"> Iusta iudicate</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-L Hyd"> filii hominum</rdg>
+         <rdg wit="CAO-S"> filii hominum alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

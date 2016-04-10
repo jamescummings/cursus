@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7287" nextid="c7289" id="c7288">
+   <rBody wit="CAO-D CAO-S"> O quam praeclara Dei nostri virtus et pietas qui beatum Germanum in via veritatis fideliter gradientem duplici remuneratione donavit
+     <app>
+         <rdg wit="CAO-D"> ut praeteriri</rdg>
+         <rdg wit="CAO-S"> ut praeteritis</rdg>
+      </app> si
+     <app>
+         <rdg wit="CAO-D"> qui</rdg>
+         <rdg wit="CAO-S">
+            <corr sic="quid">qui</corr>
+         </rdg>
+      </app> fuerant
+     <app>
+         <rdg wit="CAO-D"> decoquerentur</rdg>
+         <rdg wit="CAO-S"> dequoquerentur</rdg>
+      </app> errores et celeriter defaecata sanctitas praestaretur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S">
+         <corr sic="quinque">Quique</corr> peccatis praeteritis forsitan tenebatur obnoxius incipere fenerator esse virtutum</vBody>
+      <vBody type="r" wit="CAO-D"> Christus purgavit peccatum illius et exaltavit in aeternum cornu ipsius</vBody>
+      <rep type="r" wit="CAO-D CAO-S">Ut</rep>
+   </verses>
+</res>

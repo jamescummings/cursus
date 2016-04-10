@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2630" nextid="c2632" id="c2631">
+   <header>
+      <usage ms="Alb2" code="02010100">[45v] matins-n1-a3</usage>
+      <usage ms="Alb2" code="07067000">[111v] matins-n2-a4</usage>
+      <usage ms="Bat" code="02010100">[27r] matins-n1-a3</usage>
+      <usage ms="Cdm" code="02010100">[33r] matins-n1-a3</usage>
+      <usage ms="Cdm" code="07067000">[80r] matins-n2</usage>
+      <usage ms="Ely" code="02122500">[18r] matins-n1-a3</usage>
+      <usage ms="Ely" code="07067000">[91r] matins-n2</usage>
+      <usage ms="Evm" code="07067000">[153v] matins-n2</usage>
+      <usage ms="Hyd" code="02010100">matins-n1</usage>
+      <usage ms="Mch" code="07067000">[163r] matins-n2-a4</usage>
+      <usage ms="Pet" code="07067000">[94r] matins-n2</usage>
+      <usage ms="Wcb" code="07067000">[117v] matins-n2</usage>
+      <usage ms="Wor" code="02122500">[13v] matins-n1-a3</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Pet Evm Wcb Alb2 Hyd Cdm Bat Mch"> Elevamini portae aeternales
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Ely Wor Pet Evm Wcb Alb2 Hyd Cdm Bat Mch"> et introibit rex gloriae</rdg>
+         <rdg wit="CAO-S CAO-L"> et introivit rex gloriae</rdg>
+      </app>
+   </aBody>
+</ant>

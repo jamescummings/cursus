@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6036" nextid="c6038" id="c6037">
+   <header>
+      <usage ms="Alb2" code="06011000">[67r] lauds</usage>
+      <usage ms="Bat" code="06011000">[43r] lauds</usage>
+      <usage ms="Cdm" code="06011000">[50r] lauds</usage>
+      <usage ms="Cht" code="06011000">[12v] lauds</usage>
+      <usage ms="Ely" code="06011000">[60v] lauds</usage>
+      <usage ms="Evm" code="06011000">[94v] lauds</usage>
+      <usage ms="Hyd" code="06011000">[62r] lauds</usage>
+      <usage ms="Mch" code="06011000">[102r] lauds</usage>
+      <usage ms="Pet" code="06011000">[56v] lauds</usage>
+      <usage ms="Wcb" code="06011000">[86v] lauds</usage>
+      <usage ms="Wor" code="06011000">[37v] lauds</usage>
+   </header>
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-S Hyd Pet Cht Wcb Evm"> Adiutor meus esto deus ne derelinquas me</rdg>
+         <rdg wit="CAO-E Alb2 Wor Ely Cdm Mch Bat"> Adiutor meus esto domine ne derelinquas me</rdg>
+         <rdg wit="CAO-L"> Adiutor meus esto deus ne derelinquas me domine</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch Bat">Neque despicias me deus salutaris meus</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L Cht Wor Hyd Ely Evm">Ne</rep>
+      <dox type="r" wit="Hyd Pet Wcb Evm Mch">Gloria</dox>
+   </verses>
+</res>

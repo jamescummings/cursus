@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7876" nextid="c7878" id="c7877">
+   <header>
+      <usage ms="Hyd" code="08031000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Vidi portam civitatis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd"> ad orientem positam</rdg>
+         <rdg wit="CAO-F"> ad orientem posita</rdg>
+      </app> et apostolorum nomina et agni
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-D CAO-F Hyd"> super eam scripta</rdg>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-S CAO-L"> super eam scriptam</rdg>
+         <rdg wit="CAO-M"> super eam scripta<del status="unremarkable">m</del>
+         </rdg>
+      </app> et super muros eius
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd"> angelorum custodiam</rdg>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-L"> angelorum custodia</rdg>
+      </app> alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-R CAO-D Hyd"> Vidi sanctam civitatem Jerusalem</rdg>
+            <rdg wit="CAO-E CAO-H"> Vidi civitatem sanctam Jerusalem</rdg>
+         </app> descendentem de caelo ornatam tamquam sponsam viro suo</vBody>
+      <vBody id="c7877-1" type="r" wit="CAO-F"> Vidi civitatem sanctam Jerusalem descendentem de caelo ornatam tamquam sponsam viro suo</vBody>
+      <rep corresp="c7877-1" type="r" wit="CAO-F"> Et apostolorum</rep>
+      <vBody type="r" wit="CAO-S CAO-L"> Vidi caelum novum et terram novam
+      <app>
+            <rdg wit="CAO-L"> et civitatem novam Jerusalem</rdg>
+            <rdg wit="CAO-S"> et civitatem sanctam Jerusalem novam</rdg>
+         </app> descendentem de caelo</vBody>
+      <vBody id="c7877-2" type="r" num="2" wit="CAO-F"> Vidi caelum novum et terram novam et civitatem novam Jerusalem descendentem de caelo</vBody>
+      <rep corresp="c7877-2" type="r" wit="CAO-F"> Et super</rep>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-S CAO-L">Et super</rep>
+      <rep type="r" wit="CAO-M">Et agni</rep>
+      <rep type="r" wit="CAO-R">Alleluia</rep>
+      <rep type="r" wit="Hyd">Et</rep>
+   </verses>
+</res>

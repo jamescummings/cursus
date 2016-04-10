@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3785" nextid="c3787" id="c3786">
+   <aBody wit="CAO-B CAO-H CAO-R CAO-L"> Misit dominus manum suam et tetigit os meum
+     <app>
+         <rdg wit="CAO-B CAO-R"> et replevit illud</rdg>
+         <rdg wit="CAO-L"> et replevit eum</rdg>
+         <rdg wit="CAO-H"> et replevit me</rdg>
+      </app>
+   </aBody>
+</ant>

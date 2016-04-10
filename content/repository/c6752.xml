@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6751" nextid="c6753" id="c6752">
+   <rBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N">Fulgebat in venerando</l>
+         <l part="N">Duplex decus Gregorio</l>
+         <l part="N">Senatoria dignitas</l>
+         <l part="N">Secundum genus saeculi</l>
+         <l part="N">Voluntaria paupertas</l>
+         <l part="N">Iuxta praeceptum domini</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Beatus vir qui timet dominum in mandatis eius cupit nimis</vBody>
+      <rep type="r" wit="CAO-R"> Iuxta</rep>
+   </verses>
+</res>

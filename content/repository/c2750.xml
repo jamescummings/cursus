@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2749" nextid="c2751" id="c2750">
+   <header>
+      <usage ms="Alb2" code="01036000">[17r] lauds gosp</usage>
+      <usage ms="Bat" code="01036000">[11r] lauds gosp</usage>
+      <usage ms="Cdm" code="01036000">[17r] lauds gosp</usage>
+      <usage ms="Ely" code="01036000">[12v] lauds-a3</usage>
+      <usage ms="Evm" code="01036009">[21r] lauds gosp</usage>
+      <usage ms="Mch" code="01036000">[15r] lauds gosp</usage>
+      <usage ms="Pet" code="01036009">[9r] lauds gosp</usage>
+      <usage ms="Wcb" code="01046000">[51r] lauds gosp</usage>
+      <usage ms="Wor" code="01036000">[9v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Ex quo facta est vox salutationis tuae in auribus meis exsultavit in gaudio infans in utero meo
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Mch Cdm Ely Wor Pet Bat"> alleluia</rdg>
+         <rdg wit="Evm Wcb"> beata virgo quae credidisti</rdg>
+      </app>
+   </aBody>
+</ant>

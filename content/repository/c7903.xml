@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7902" nextid="c7904" id="c7903">
+   <header>
+      <usage ms="Alb2" code="01041000">[19r] matins-n2-r6</usage>
+      <usage ms="Bat" code="01041000">[12v] matins-n2-r7</usage>
+      <usage ms="Cdm" code="01041000">[18v] matins-n2-r7</usage>
+      <usage ms="Ely" code="01041000">[14r] matins-n2-r7</usage>
+      <usage ms="Evm" code="01041000">[23r] matins-n2-r6</usage>
+      <usage ms="Hyd" code="01041000">[13r] matins-n2-r7</usage>
+      <usage ms="Mch" code="01041000">[17v] matins-n2-r6</usage>
+      <usage ms="Pet" code="01041000">[10v] matins-n2-r7</usage>
+      <usage ms="Wcb" code="01041000">[48v] matins-n2-r6</usage>
+      <usage ms="Wor" code="01041000">[11v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Virgo Israel revertere
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D Hyd Cdm Ely Wor Wcb Pet Bat"> in civitates tuas</rdg>
+         <rdg wit="CAO-F Evm"> ad civitates tuas</rdg>
+         <rdg wit="CAO-C CAO-M CAO-S CAO-L Alb2 Mch"> in civitatibus tuis</rdg>
+         <rdg wit="CAO-B"> in civitatem tuam</rdg>
+      </app> usquequo dolens
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> averteris</rdg>
+         <rdg wit="CAO-L"> averterit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> generabis</rdg>
+         <rdg wit="CAO-V"> generabit</rdg>
+      </app> dominum salvatorem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Mch Cdm Ely Wor Wcb Pet Bat"> oblationem novam in terra</rdg>
+         <rdg wit="Evm"> oblationem novam in terram</rdg>
+         <rdg wit="CAO-L"> oblationem novam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> ambulabunt homines in salvationem</rdg>
+         <rdg wit="CAO-V"> ambulabunt hominem in salvationem</rdg>
+         <rdg wit="CAO-C CAO-L"> ambulabunt homines in salvatione</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-H Mch"> A solis ortu et occasu ab Aquilone et mari</vBody>
+      <vBody type="r" wit="CAO-E"> A solis ortu et occasu</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-R"> A solis ortu</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Pet Bat"> In caritate perpetua
+    <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Pet"> dilexi te</rdg>
+            <rdg wit="CAO-S Bat"> dilexit te</rdg>
+         </app> ideo
+    <app>
+            <rdg wit="CAO-G CAO-D CAO-F Hyd Alb2 Evm Ely Wor Wcb Pet"> attraxi te</rdg>
+            <rdg wit="CAO-S Cdm Bat"> attraxit te</rdg>
+            <rdg wit="CAO-L"> abstraxit te</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Pet Bat"> miserans</rdg>
+            <rdg wit="CAO-L"> miserans tui</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R Evm Mch">Ambulabunt homines</rep>
+      <rep type="r" wit="CAO-D CAO-F CAO-L Hyd Alb2 Cdm Ely Wor Bat">Generabis</rep>
+      <rep type="r" wit="CAO-G Wcb">Usquequo</rep>
+      <rep type="" wit="Pet">In salvationem</rep>
+      <rep type="r" wit="CAO-H CAO-S">In terra</rep>
+   </verses>
+</res>

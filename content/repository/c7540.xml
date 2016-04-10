@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7539" nextid="c7541" id="c7540">
+   <header>
+      <usage ms="Hyd" code="08000000"/>
+      <usage ms="Hyd" code="08013000">[103r] lauds</usage>
+   </header>
+   <rBody wit="CAO-E CAO-V Hyd"> Resurrexit dominus alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V Hyd">
+         <app>
+            <rdg wit="CAO-E CAO-V">Sicut dixit vobis</rdg>
+            <rdg wit="Hyd">Sicut dixit vobis alleluia alleluia</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-V">Alleluia</rep>
+   </verses>
+</res>

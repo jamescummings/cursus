@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3106" nextid="c3108" id="c3107">
+   <aBody wit="CAO-C CAO-V">
+      <app>
+         <rdg wit="CAO-C"> Hodie namque Christo</rdg>
+         <rdg wit="CAO-V"> Hodie namque Christus</rdg>
+      </app> cum humana lingua
+     <app>
+         <rdg wit="CAO-C"> coma servivit arboria</rdg>
+         <rdg wit="CAO-V"> comam servirett arboria</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> et quamvis fuerint rigida</rdg>
+         <rdg wit="CAO-V"> et quamvis fuerit rigida</rdg>
+      </app> miserunt
+     <app>
+         <rdg wit="CAO-C"> regi</rdg>
+         <rdg wit="CAO-V"> regis</rdg>
+      </app> spolia
+     <app>
+         <rdg wit="CAO-C"> arborum flexus</rdg>
+         <rdg wit="CAO-V"> arboris flexu</rdg>
+      </app> hosanna</aBody>
+</ant>

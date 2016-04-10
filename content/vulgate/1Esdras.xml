@@ -1,0 +1,3197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="1Esdras">
+<body>
+  <rubric type="bible-incipit" id="B.1Esdras.incipit.001">
+    <reference>
+      <bookName>1Esdras</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT LIBER EZRAE TERTIUS</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.1Esdras.001.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>et egit Iosias pascha in Hierosolymis Domino suo et immolavit phase quartadecima luna primi mensis,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>statuens sacerdotes per vices stolas amictos in templo Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>et dixit Levitis sacris servis Israhel, ut sanctificarent se Domino in positione Domini sanctam arcam in domo, quam aedificavit Salomon filius David rex.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>non erit vobis tollere super umeros eam. et nunc deservite Domino nostro et curam agite gentis illius Israhel et parate secundum pagos et tribus nostras</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>secundum scripturam David regis Israhel et secundum magnificentiam Salomonis filii eius. et omnes in templo et secundum particulam principatus paternam vestram eorum Levitarum , qui stant in conspectu fratrum vestrorum filiorum Israhel,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>immolate pascha et sacrificia parate fratribus vestris et facite secundum praeceptum Domini, quod datum est Moysi.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>et donavit Iosias in plebem quae inventa est oves agnorum et hedorum et caprarum triginta milia , vitulos tria milia.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>haec de regalibus data sunt secundum promissionem populo et sacerdotibus in pascha et Levitis . et dedit Helchias et Zaccharias et Hellus praepositi domus ipsis sacerdotibus in pascha oves numero duo milia sescentas vitulos trecentos .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et Iechonias et Sameas et Nathanahel frater et Asabias et Ozihel et Ioram tribuni dederunt Levitis in phase oves quinque milia, vitulos septingentos .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>et haec cum fierent , eleganter steterunt sacerdotes et Levitae, habentes azyma per tribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>et secundum partes principatus patrum in conspectu populi, offerre Domino secundum ea quae in libro Moysi scripta sunt. et sic ad diluculum .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>et assaverunt phase igne prout oportebat, et hostias coxerunt in aeniolis et ollis cum beneolentia ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>et tulerunt omnibus qui erant ex plebe. et post haec paraverunt sibi et sacerdotibus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>sacerdotes enim offerebant hostias et adipes, usque dum finita esset hora, et Levitae paraverunt sibi et fratribus suis filiis Aaron.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>et sacri cantores filii Asaph erant super ordinem eorum secundum praeceptum David, et Asaph et Zaccharias et Ieddinus qui erat a rege.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.016">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>et ostiarii per singulas ianuas, ita ut non praevaricaret unusquisque suum vicem ; fratres enim ipsorum Levitae paraverunt illis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.017">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>et consummata sunt quae pertinebant ad sacrificium Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.018">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>illa die, agi phase et offerri hostias super Domini sacrarium secundum praeceptum regis Iosiae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.019">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>et egerunt filii Israhel qui inventi sunt in tempore illo phase et diem festum azymorum per dies septem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.020">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>et non est celebratum phase tale in Israhel a temporibus Samuhel prophetae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.021">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>et omnes reges Israhel non celebraverunt pascha tale , quale egit Iosias et sacerdotes et Levitae et Iudaei et omnis Israhel, qui inventi sunt in commoratione Hierosolymis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.022">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>octavodecimo anno regnante Iosia celebratum est phase .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.023">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>et directa sunt opera Iosiae in conspectu Domini sui in corde pleno metuentia .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.024">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>et quae circa illum quidem conscripta sunt in pristinis temporibus, de eis qui peccaverunt quique inreligiosi fuerunt in Dominum prae omnem gentem et regnum et qui non quaerunt ipsum et verba Domini super Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.025">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>et post omnem actum hunc Iosiae ascendit Pharao rex Aegypti, veniens bellum abicere in Charchamis super Eufraten, et exivit in obviam illi Iosias.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.026">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:26</verseNum>
+      </reference>
+      <l>et misit rex Aegypti ad Iosiam dicens: quid mihi et tibi est rex Iudaeae ?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.027">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:27</verseNum>
+      </reference>
+      <l>non sum ad te missus a Domino, super Eufraten enim bellum meum est, et Dominus mecum est festinans, descende a facie Domini .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.028">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:28</verseNum>
+      </reference>
+      <l>et non est Iosias reversus super currum suum , sed expugnare eum conabatur, non adtendens verbum prophetiae ex ore Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.029">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:29</verseNum>
+      </reference>
+      <l>sed constituit ad eum bellum in campo Metedaus . et descenderunt principes ad regem Iosiam.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.030">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:30</verseNum>
+      </reference>
+      <l>et dixit rex pueris suis: amovete me a proelio; infirmatus sum enim valde. et statim amoverunt eum pueri ipsius de acie.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.031">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:31</verseNum>
+      </reference>
+      <l>et ascendit super currum secundarium suum, et perveniens Hierosolymam vita functus est, et sepultus est in paterno sepulchro .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.032">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:32</verseNum>
+      </reference>
+      <l>et in tota Iudaea lugebant Iosiam, et lamentabat Hieremias propheta pro Iosiam , et qui praesidebant cum uxoribus lamentabant eum usque in hunc diem. et datum est hoc fieri semper in omne genus Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.033">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:33</verseNum>
+      </reference>
+      <l>haec autem proscripta sunt in libro historiarum regum Iudaeae , et singula gesta actus Iosiae, eius gloriae et intellectus eius in lege Domini, quaeque gesta sunt ab eo et quae nunc , conscripta sunt in libro regum Israhel et Iuda.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.034">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:34</verseNum>
+      </reference>
+      <l>et adsumentes qui erant ex gente Iechoniam filium Iosiae constituerunt regem pro Iosia patre suo, cum esset annorum viginti trium .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.035">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:35</verseNum>
+      </reference>
+      <l>et regnavit super Israhel mensibus tribus. et amoto eo rex Aegypti ne regnaret Hierosolymis,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.036">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:36</verseNum>
+      </reference>
+      <l>multavit gentem argenti talenta centum et auri talenta decem .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.037">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:37</verseNum>
+      </reference>
+      <l>et constituit rex Aegypti regem Ioachim fratrem ipsius regem Iudaeae et Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.038">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:38</verseNum>
+      </reference>
+      <l>et alligavit magistratus Ioachim , Zaracele fratrem suum adprehendens reduxit Aegypto .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.039">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:39</verseNum>
+      </reference>
+      <l>annorum autem erat Ioachim viginti quinque , cum regnaret in terra Iudaeae et in Hierusalem , et fecit malignum in conspectu Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.040">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:40</verseNum>
+      </reference>
+      <l>post hunc autem ascendit Nabuchodonosor rex Babylonis, et alligans eum in aereo vinculo perduxit in Babyloniam .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.041">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:41</verseNum>
+      </reference>
+      <l>et de sacris vasis Domini accepit Nabuchodonosor et tulit et consecravit in templo suo in Babylonia .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.042">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:42</verseNum>
+      </reference>
+      <l>nam de inmunditia illius et inreligiositate scriptum est in libro temporum regum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.043">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:43</verseNum>
+      </reference>
+      <l>et regnavit Ioachim filius ipsius pro eo; cum autem constitutus esset , erat annorum octo .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.044">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:44</verseNum>
+      </reference>
+      <l>regnavit autem menses tres et dies decem in Hierusalem, et fecit malignum in conspectu Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.045">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:45</verseNum>
+      </reference>
+      <l>et post annum mittens Nabuchodonosor transmigravit eum in Babyloniam simul cum sacris vasis Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.046">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:46</verseNum>
+      </reference>
+      <l>et constituit Sedeciam regem Iudaeae et Hierusalem, cum esset annorum viginti unius. regnavit autem annis undecim,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.047">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:47</verseNum>
+      </reference>
+      <l>et fecit malignum in conspectu Domini, et non est veritus a verbis quae dicta sunt ab Hieremia propheta ex ore Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.048">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:48</verseNum>
+      </reference>
+      <l>et adiuratus a rege Nabuchodonosor in nomine Domini peierans discessit, et indurata cervice sua et corde suo transgressus est legitima Domini Dei Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.049">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:49</verseNum>
+      </reference>
+      <l>et duces populi et sacerdotum multa inique gesserunt et impie egerunt super omnes inmunditias gentium, et polluerunt templum Domini quod sacratum erat in Hierosolymis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.050">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:50</verseNum>
+      </reference>
+      <l>et misit Deus patrum ipsorum per angelum suum revocare eos, propter quod parceret illis et tabernaculo suo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.051">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:51</verseNum>
+      </reference>
+      <l>ipsi vero subsannabant in angelis eius et, qua die locutus est Dominus, erant inludentes prophetas eius,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.052">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:52</verseNum>
+      </reference>
+      <l>quoadusque ad iracundiam concitatus super gentem suam propter inreligiositates, praecepit ascendere reges Chaldeorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.053">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:53</verseNum>
+      </reference>
+      <l>hii occiderunt iuvenes illorum in gladio in circuitu sancti templi eorum, et non pepercerunt iuveni et virgini et seni et adulescenti eorum .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.054">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:54</verseNum>
+      </reference>
+      <l>sed omnes traditi sunt in manus ipsorum . et omnia sacra vasa Domini magna et pusilla et arcam Domini et regales apothecas resumentes tulerunt in Babyloniam .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.055">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:55</verseNum>
+      </reference>
+      <l>et incenderunt domum Domini, et demolierunt muros Hierusalem et turres eius incenderunt in igne.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.056">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:56</verseNum>
+      </reference>
+      <l>et consummaverunt et omnia honorifica eius ad nihilum redegerunt. et reliquos abduxerunt a gladio in Babylonem .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.057">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:57</verseNum>
+      </reference>
+      <l>et erant servi illius et filii illius usque dum regnarent Persae, in repletione verbi Domini in ore Hieremiae,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.001.058">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>1:58</verseNum>
+      </reference>
+      <l>quousque benigne ageret terra sabbata sua. omni tempore desertionis suae sabbatizavit in adimpletione annorum septuaginta .</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.1Esdras.002.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>regnante Cyro Persarum anno primo , in consummatione verbi Domini in ore Hieremiae,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>suscitavit Dominus spiritum Cyri regis Persarum. et praedicavit in toto regno suo et simul per scripturam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>dicens: haec dicit rex Persarum Cyrus : me constituit regem orbi terrarum Dominus Israhel, Dominus excelsus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>et significavit mihi aedificare sibi domum in Hierusalem quae est in Iudaea.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>si quis est ex genere vestro, sit Dominus ipsius cum eo, et ascendens in Hierusalem quae est in Iudaea aedificet domum Domino Israhel; hic est Dominus inhabitans Hierusalem .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>quotquot ergo circa loca habitant, adiuvent eum qui sunt in loco ipsius in auro et argento,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>in dationibus cum equis et iumentis cumque aliis quae secundum vota adponuntur in aedem Domini quae est in Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>et stantes principes tribuum pagorum Iudae et tribus Beniamin et sacerdotes et Levitae, quos excitavit Dominus ascendere et aedificare domum Domini quae est in Hierusalem, et qui erant in circuitu eorum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>adiuverunt in omni argento et auro , equis et iumentis et votis quam pluribus , multi quorum sensus excitatus est.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>et rex Cyrus protulit vasa sacra Domini, quae transtulit Nabuchodonosor ex Hierusalem et consecravit ea in suo idolo .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>et proferens ea Cyrus rex Persarum tradidit Mitridati qui erat super thesauros ipsius.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>per hunc autem tradita sunt Salamanassaro praesidi Iudaeae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>horum autem is numerus : libatoria aurea mille , argentea sescenta , thyiscae argenteae triginta , fialae aureae triginta , item argenteae duo milia trecentae et alia vasa mille .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>omnia autem vasa aurea et argentea quattuor milia quadringenta sexaginta novem .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>et evacuata sunt a Salamanassaro simul cum his qui ex captivitate Babyloniae in Hierosolymam .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.016">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>in Artaxersis autem Persarum regis temporibus scripserunt ei, de his qui inhabitabant in Iudaea et in Hierusalem, Balsamus et Mitridatis et Sabellius et Rathimus et Beltemus et Samelius scriba et reliqui deservientes ei et inhabitantes in Samaria et ceteris locis subiectam epistulam: regi Artaxersi,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.017">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>domine, pueri tui Rathimus ab accedentibus et Sabellius scriba et reliqui curiae suae iudices in Coelensyriam et Foenicen</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.018">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>et nunc notum sit domino regi, quoniam Iudaei qui ascenderunt a vobis ad nos, venientes in Hierusalem civitatem refugam et pessimam, aedificant foros eius et statuunt muros et templum suscitant.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.019">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>quod si civitas ista et muri consummati fuerint , tributa non sustinebunt pendere, sed etiam regibus resistent.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.020">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>et quia id agitur circa templum, recte habere arbitrati sumus non despicere hoc ipsum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.021">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>sed notum facere domino regi, ut , si videbitur regi , quaeratur in libris patrum tuorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.022">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>et invenies in admonitionibus scripta de his et scies, quoniam civitas ista fuit refuga et reges et civitates concutiens,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.023">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>et Iudaei refugae et proelia committentes in ea ab aeterno, ob quam causam civitas ista deserta est.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.024">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>nunc ergo notum facimus tibi , rex domine , quoniam si civitas ista aedificata fuerit, et huius muri erecti fuerint descensus tibi non erit in Coelensyriam et Foenicen.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.025">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>tunc rescripsit rex Rathimo qui scribebat accedentia et Beltemo et Sabellio scribae et ceteris constitutis et inhabitantibus in Syriam et Foenicen et Samariam ea quae subiecta sunt:</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.026">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:26</verseNum>
+      </reference>
+      <l>legi epistulam quam misistis mihi. praecepi ergo inquiri et inventum est, quoniam civitas illa est ab aevo regibus resistens,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.027">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:27</verseNum>
+      </reference>
+      <l>et homines refugae et proelia in ea efficientes, et reges fortissimi erant in Hierusalem dominantes et tributa exigentes a Coelensyria et Foenice.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.028">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:28</verseNum>
+      </reference>
+      <l>nunc ergo praecepi prohibere homines illos aedificare civitatem et providere , ne quid ultra haec fiant,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.029">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:29</verseNum>
+      </reference>
+      <l>sed nec procedant in plurimum ea quae sunt malitiae, ita ut regibus molestia inportetur.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.030">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:30</verseNum>
+      </reference>
+      <l>tunc recitatis his quae a rege Artaxerse scripta fuerant, Rathimus et Sabellius scriba et qui cum his constituti erant iungentes festinanter venerunt in Hierusalem cum equitatu et turba et agmine,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.002.031">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>2:31</verseNum>
+      </reference>
+      <l>coeperunt prohibere aedificantes , et vacabant ab aedificatione templi in Hierusalem usque secundo anno regni Darii Persarum regis .</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.1Esdras.003.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>rex Darius fecit cenam magnam omnibus vernaculis suis et omnibus magistratibus Mediae et Persis</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>et omnibus purpuratis et praetoribus et consulibus et praefectis sub illo, ab India usque Aethiopiam centum viginti septem provinciis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>et cum manducassent et bibissent et satiati revertebantur , tunc Darius rex ascendit in cubiculo suo et dormivit et expergefactus est.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>tunc illi tres iuvenes, corporis custodes qui custodiebant corpus regis, dixerunt alter altero :</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>dicamus unusquisque nostrum sermonem, qui praecellat; et cuiuscumque apparuerit sermo sapientior alterius, dabit illi Darius rex dona magna et epinicia magna ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>purpura cooperiri et in auro bibere et super aurum dormire et currum aureo freno et cidarim byssinam et torquem circa collum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>et secundo loco sedebit a Dario propter sapientiam suam et cognatus Darii vocabitur.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>tunc scribentes singuli suum verbum signaverunt et posuerunt subtus cervical Darii regis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>et dixerunt: cum surrexerit rex, dabunt illi scripta sua ; et quodcumque iudicaverit rex et tres magistratus Persidis, quoniam verbum eius sapientius est, ipsi dabitur victoria sicut scriptum est.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>unus scripsit: fortius est vinum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>alius scripsit: fortior est rex.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>tertius autem scripsit: fortiores sunt mulieres, super omnia autem vincit veritas.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>et cum surrexisset rex, acceperunt scripta sua et dederunt illi et legit.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>et mittens vocavit omnes magistratus Persarum et Medorum et purpuratos et praetores et praefectos.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>et sederunt in consilio et lecta sunt scripta coram ipsis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.016">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>et dixit: vocate adulescentes, et ipsi indicabunt verba sua, et vocati sunt et introierunt.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.017">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>et dixit illis: indicate nobis de his quae scripta sunt. et coepit prior, qui dixerat de fortitudine vini,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.018">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>et dixit : viri, quam praevalet vinum! omnibus hominibus qui bibunt illud seducit mentem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.019">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:19</verseNum>
+      </reference>
+      <l>itemque regis et orfani facit mentem unam , item servi ac liberi, pauperis et divitis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.020">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:20</verseNum>
+      </reference>
+      <l>et omnem mentem convertit in securitatem et iucunditatem, et non meminit omnem tristitiam et debitum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.021">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:21</verseNum>
+      </reference>
+      <l>et omnia praecordia facit honesta, et non meminit regem nec magistratum, et omnia per talenta facit loqui .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.022">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:22</verseNum>
+      </reference>
+      <l>et non meminerunt cum biberint amicitiam nec fraternitatem, sed post non multum sumunt gladios .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.023">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:23</verseNum>
+      </reference>
+      <l>et cum a vino merserint et surrexerint, non meminerunt quae gesserunt.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.003.024">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>3:24</verseNum>
+      </reference>
+      <l>o viri, non praecellit vinum quod sic cogit facere? et tacuit hoc dicto.</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.1Esdras.004.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>et inchoavit sequens dicere, qui dixit de fortitudine regis:</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>o viri, non praecellunt homines, qui terram et mare obtinent et omnia quae sunt in eis ?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>rex autem super omnia praecellit et dominatur eorum, et omne quodcumque dixerit illis faciunt.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>et si miserit illos ad bellatores, vadunt et demoliunt montes et muros et turres,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>iugulantur et iugulant, et regis verbum non praetereunt. nam si vicerint , adferunt regi omnia quaecumque praedati fuerint</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>semper et alia omnia . et quotquot non militant nec pugnant sed colunt terram, rursum cum fuerint metentes adferunt regi ; et alter alterum cogentes adferunt tributa regi.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>et ipse unus solus. et si dixerit occidere , occidunt; dixit remittere , remittunt;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>dixit percutere , percutiunt; dixit exterminare , exterminant; dixit aedificare , aedificant;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>dixit excidere , excidunt; dixit plantare , plantant.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>et omnis plebs et virtutes eum obaudiunt. et super haec ipse recumbit et manducat et bibit et dormit;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>hii autem custodiunt in circuitu eum, et non possunt ire singuli facere opera sua, sed nec indictoaudientes sunt ei.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>o viri, quomodo non praecellit rex, qui sic diffamatur. et tacuit .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>tertius, qui dixerat de mulieribus et veritate, hic est Zorobabel, coepit loqui:</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>viri, non magnus rex et multi homines? nec vinum praecellit ? quis est ergo qui dominatur eorum?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>nonne mulieres? genuerunt regem et omnem populum, qui dominantur mari et terrae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.016">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>et ex illis nati sunt, et ipsae educaverunt eos qui plantaverunt vineas, ex quibus vinum fit.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.017">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>et ipsae faciunt stolas omnium hominum, et ipsae faciunt gloriam hominibus, et non possunt homines separari a mulieribus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.018">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>si congregaverint aurum et argentum et omnem rem speciosam, et viderint mulierem unam bono habitu et bona specie,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.019">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>omnia haec relinquentes in eam intendunt et aperto ore conspiciunt, et eam eligunt magis quam aurum et argentum et omnem rem speciosam .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.020">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:20</verseNum>
+      </reference>
+      <l>homo suum patrem derelinquit , qui enutriit eum , et suam regionem , et ad mulierem suam coniungit se .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.021">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:21</verseNum>
+      </reference>
+      <l>et cum muliere remittit animam, et neque patrem meminit neque matrem neque regionem .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.022">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:22</verseNum>
+      </reference>
+      <l>et hinc oportet vos scire, quoniam mulieres dominantur vestri. nonne doletis et laboratis , et omnia mulieribus confertis et datis ?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.023">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:23</verseNum>
+      </reference>
+      <l>et accipit homo gladium suum et vadit in via , furta facere et homicidia et mare navigare et flumina,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.024">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:24</verseNum>
+      </reference>
+      <l>et leonem videt et in tenebris ingreditur. et cum furtum fecerit et fraudes et rapinas, amabili suae adfert.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.025">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:25</verseNum>
+      </reference>
+      <l>et iterum diligit homo suam uxorem magis quam patrem aut matrem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.026">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:26</verseNum>
+      </reference>
+      <l>et multi dementes facti sunt propter suas uxores , et servi facti sunt propter illas.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.027">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:27</verseNum>
+      </reference>
+      <l>et multi perierunt et iugulati sunt et peccaverunt propter mulieres.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.028">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:28</verseNum>
+      </reference>
+      <l>et nunc mihi non creditis ? nonne magnus est rex in potestate sua, quoniam omnes regiones verentur tangere eum?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.029">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:29</verseNum>
+      </reference>
+      <l>videbam tamen Apemen, filiam Bezacis Mirifici, concubinam regis sedentem iuxta regem ad dexteram,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.030">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:30</verseNum>
+      </reference>
+      <l>et auferentem diadema de capite regis et inponentem sibi; et palmis caedebat regem de sinistra manu.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.031">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:31</verseNum>
+      </reference>
+      <l>et super haec rex aperto ore intuebatur eam. et si adriserit ei, ridet ; nam si indignata fuerit ei , blanditur ei, donec reconcilietur ei in gratiam.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.032">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:32</verseNum>
+      </reference>
+      <l>o viri, cur non non fortiores sunt mulieres quae ista agunt ?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.033">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:33</verseNum>
+      </reference>
+      <l>et tunc rex et purpurati intuebantur alterutrum. et inchoavit loqui de veritate:</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.034">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:34</verseNum>
+      </reference>
+      <l>o viri, nonne fortes sunt mulieres? magna est terra et excelsum est caelum et velox cursus solis, quoniam convertit in gyro caeli et rursum revertitur in locum suum in una die.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.035">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:35</verseNum>
+      </reference>
+      <l>nonne magnificus est qui haec facit? et veritas magna et fortior prae omnibus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.036">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:36</verseNum>
+      </reference>
+      <l>omnis terra veritatem invocat, caelum etiam ipsam benedicit, et omnia opera moventur et tremunt eam, et non est cum ea quicquam iniquum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.037">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:37</verseNum>
+      </reference>
+      <l>vinum iniquum, iniquus rex , iniquae mulieres, iniqui omnes filii hominum, et iniqua omnia opera illorum , et non est in ipsis veritas, et in sua iniquitate peribunt.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.038">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:38</verseNum>
+      </reference>
+      <l>et veritas manet et invalescit in aeternum, et vivit et obtinet in saecula saeculorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.039">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:39</verseNum>
+      </reference>
+      <l>nec est apud eam accipere personas neque differentias, sed quae iusta sunt facit omnibus iniustis ac malignis. et omnes benignantur in operibus eius,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.040">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:40</verseNum>
+      </reference>
+      <l>et non est in iudicio eius iniquum . eique fortitudo et regnum et potestas et maiestas omnium aevorum. benedictus Deus veritatis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.041">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:41</verseNum>
+      </reference>
+      <l>et desiit loquendo . et omnis populus clamaverunt et dixerunt: magna veritas et praevalet.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.042">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:42</verseNum>
+      </reference>
+      <l>tunc rex ait illi: pete si quid vis amplius quam quae scripta sunt, et dabo tibi, secundum quod inventus es sapientior proximis . et proximus mihi sedebis et cognatus meus vocaberis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.043">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:43</verseNum>
+      </reference>
+      <l>tunc ait regi: memor esto voti quod vovisti aedificare Hierusalem in die qua regnum accepisti,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.044">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:44</verseNum>
+      </reference>
+      <l>et omnia vasa quae accepta sunt ex Hierusalem remittere, quae separavit Cyrus quando mactavit Babyloniam, et vovit remittere ea ibi.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.045">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:45</verseNum>
+      </reference>
+      <l>et tu vovisti aedificare templum, quod incenderunt Idumei, quando exterminata est Iudaea a Chaldeis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.046">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:46</verseNum>
+      </reference>
+      <l>et nunc hoc est quod postulo a te , domine rex , et quod peto, et haec est maiestas a te quam postulo , ut facias votum quod vovisti Regi caeli ex ore tuo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.047">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:47</verseNum>
+      </reference>
+      <l>tunc surgens Darius rex osculatus est illum, et scripsit ei epistulas ad omnes dispensatores et praefectos et purpuratos, ut deducerent eum et eos qui cum illo erant omnes ascendentes aedificare Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.048">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:48</verseNum>
+      </reference>
+      <l>et omnibus praefectis qui erant in Coelensyria et Foenice et Libano scripsit epistulas, ut transveherent ligna cedrina a Libano in Hierusalem, et ut aedificarent cum eis civitatem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.049">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:49</verseNum>
+      </reference>
+      <l>et scripsit omnibus Iudaeis qui ascendebant a regno in Iudaeam pro libertate, omnem potentem et magistratum et praefectum non supervenire ad ianuas ipsorum ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.050">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:50</verseNum>
+      </reference>
+      <l>et omnem regionem quam obtinuerant esse inmunem eis, et Idumei relinquant castella quae obtinent Iudaeorum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.051">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:51</verseNum>
+      </reference>
+      <l>et in structuram templi dari per singulos annos talenta viginti, usque dum peraedificaretur,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.052">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:52</verseNum>
+      </reference>
+      <l>et super sacrarium holocaustomata ustilari cotidie, sicut habent praeceptum, alia talenta decem offerre per singulos annos,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.053">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:53</verseNum>
+      </reference>
+      <l>et omnibus qui procedunt a Babylonia condere civitatem ut esset libertas, tam ipsis quam filiis eorum, et omnibus sacerdotibus qui procedunt .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.054">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:54</verseNum>
+      </reference>
+      <l>scripsit autem et quantitatem et sacram stolam, qua deservirent in ea .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.055">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:55</verseNum>
+      </reference>
+      <l>et Levitis scripsit dari praebita usque in diem, qua consummabitur domus et Hierusalem extruetur.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.056">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:56</verseNum>
+      </reference>
+      <l>et omnibus custodientibus civitatem scripsit dari eis sortes et stipendia.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.057">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:57</verseNum>
+      </reference>
+      <l>et dimisit omnia vasa quae separaverat Cyrus a Babylonia; et omnia quaecumque dixit Cyrus fieri , etiam ipse praecepit fieri et mitti Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.058">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:58</verseNum>
+      </reference>
+      <l>et cum processisset ille adulescens , elevans faciem in caelum et in Hierusalem benedixit Regem caeli</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.059">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:59</verseNum>
+      </reference>
+      <l>et dixit: abs te est victoria et abs te est sapientia et claritas, et ego tuus servus sum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.060">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:60</verseNum>
+      </reference>
+      <l>benedictus es qui dedisti mihi sapientiam, et tibi confiteor , Domine patrum nostrorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.061">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:61</verseNum>
+      </reference>
+      <l>et accepit epistulas, et profectus est in Babyloniam, et venit et nuntiavit fratribus suis omnibus qui fuerunt in Babylonia .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.062">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:62</verseNum>
+      </reference>
+      <l>et benedixerunt Deum patrum suorum, quoniam dedit illis remissionem et refrigerium,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.004.063">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>4:63</verseNum>
+      </reference>
+      <l>ut ascenderent et aedificarent Hierusalem et templum, ubi nominatum est nomen eius in ipso. et exultabant cum musicis et laetitia diebus septem.</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.1Esdras.005.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>post haec autem electi sunt ut ascenderent principes pagorum domus per tribus suas, et uxores illorum et filii et filiae eorum et servi et ancillae ipsorum et pecora illorum .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>et Darius misit una cum eis equites mille, donec deducerent eos in Hierusalem cum pace et cum musicis et cum tympanis et tibiis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>et omnes fratres eorum erant ludentes, et fecit eos ascendere simul cum illis .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>et haec sunt nomina virorum qui ascenderunt per pagos suos in tribus et in partem principatus ipsorum .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>sacerdotes filii Finees filii Aaron: Iesus filius Iosedech, Ioachim filius Zorobabel illius Salathihel de domo David ex progenie Phares , tribu autem Iuda,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>qui locutus est sub Dario rege Persarum sermones mirificos, in secundo anno regni ipsius, mense nisan primo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>sunt autem hii qui ex Iudaea ascenderunt de captivitate transmigrationis, quos transmigravit Nabuchodonosor rex Babyloniae in Babyloniam . et reversus est in Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>et reliquam partem Iudaeae unusquisque in suam civitatem . qui venerunt cum Zorobabel et Iesu Neemia Sareo Reselimeo Emmanio Mardocheo Beelsuro Mepsato Thorolio Roebo Mauna de principibus eorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>et numerus ab gentilibus eorum et praepositi eorum: filii Phares duo milia centum septuaginta duo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>filii Ares tria milia quinquaginta septem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>filii Femo centum quadraginta duo, in filiis Iesu et Ioab duo milia trecenti duo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>filii Demu duo milia quadringenti septuaginta, filii Chorab mille ducenti quinque, filii Baniae sescenti sexaginta octo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>filii Bebet quadringenti tres, filii Arcad quadringenti viginti septem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>filii Can triginta septem, filii Zoroar duo milia sexaginta sex , filii Adinu quadringenti sexaginta unus,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>filii Azerectis centum octo , filii Ciaso et Zetas centum septem, filii Azoro quadringenti triginta novem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.016">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>filii Ebdarbone mille centum triginta duo, filii Ananiae centum triginta, filii Asom</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.017">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>filii Marsar trecenti viginti duo, filii Gebbarus nonaginta quinque, filii Sepolemon centum viginti tres ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.018">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>filii ec Nepopas quinquaginta quinque , filii ec Banatus centum quinquaginta octo, filii ec Betamos centum triginta duo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.019">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>filii ec Cartapatros qui Enocadies et Modiae quadringenti viginti duo , qui ex Gramas et Gabes mille centum viginti unus,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.020">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>qui ex Machaloth centum viginti duo , qui ex Basellon et Ceagge sexaginta quinque, qui ex Bastoro centum viginti duo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.021">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:21</verseNum>
+      </reference>
+      <l>qui ex Betonobes quinquaginta quinque, filii Liptis centum quinquaginta quinque, filii Labomu trecenti quinquaginta septem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.022">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:22</verseNum>
+      </reference>
+      <l>filii Sioen trecenti septuaginta, filii Saudon et Diomus trecenti septuaginta octo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.023">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:23</verseNum>
+      </reference>
+      <l>filii Ericus duo milia centum quadraginta quinque filii Anaas trecenti septuaginta. sacerdotes:</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.024">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:24</verseNum>
+      </reference>
+      <l>filii Ieddus filii Ieu inter filios Eliasib octingenti septuaginta duo, filii Emmerus ducenti quinquaginta duo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.025">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:25</verseNum>
+      </reference>
+      <l>filii Fasuru trecenti quinquaginta septem, filii Caree ducenti decem septem .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.026">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:26</verseNum>
+      </reference>
+      <l>filii Levitae: filii Iesu in Caduhel et Banus et Serebias et Edias septuaginta quattuor. omnis numerus a duodecim annis triginta milia quadringenti sexaginta duo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.027">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:27</verseNum>
+      </reference>
+      <l>filii et filiae et uxores, omnis conputatio quadraginta milia ducenti quadraginta duo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.028">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:28</verseNum>
+      </reference>
+      <l>filii sacerdotes qui psallebant in templo: filii Asaph centum viginti octo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.029">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:29</verseNum>
+      </reference>
+      <l>ostiarii : filii Esmemu , filii Ater, filii Amon, filii Accub, Atopa , filii Tobi, omnes centum triginta novem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.030">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:30</verseNum>
+      </reference>
+      <l>sacerdotes servientes in templo: filii Sel, filii Gasipa , filii Tabloth , filii Cariae, filii Suu, filii Hellu, filii Labana , filii Acmata , filii Acub, filii Uta, filii Ceta, filii Aggab, filii Obai, filii Anan, filii Cavua , filii Geddu,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.031">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:31</verseNum>
+      </reference>
+      <l>filii Au , filii Radiu , filii Desanum, filii Necoba, filii Caseba, filii Gaze, filii Oziu , filii Finoe , filii Atrem, filii Basten , filii Asiana, filii Manei, filii Nafisim, filii Accufu, filii Agifa , filii Ariu , filii Faricin , filii Fasalom,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.032">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:32</verseNum>
+      </reference>
+      <l>filii Meedda, filii Fusa, filii Chared, filii Barchus, filii Sarea , filii Toesi , filii Nasit, filii Agifa , filii Pedon,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.033">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:33</verseNum>
+      </reference>
+      <l>Salomon, filii eius: filii Asoffot, filii Farida, filii Celi, filii Dedon, filii Geddahel, filii Sefegi,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.034">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:34</verseNum>
+      </reference>
+      <l>filii Aggia, filii Facaret , filii Sabatham, filii Saronet , filii Malsic, filii Ame, filii Safiu , filii Addus, filii Suba, filii Aeirra , filii Rabocis , filii Safat , filii Malmon.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.035">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:35</verseNum>
+      </reference>
+      <l>omnes sacro servientes et pueri Salomonis quadringenti octoginta duo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.036">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:36</verseNum>
+      </reference>
+      <l>hii sunt filii qui ascenderunt a Thermeleth et Thelarsas , princeps eorum Carmellan et Chareth.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.037">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:37</verseNum>
+      </reference>
+      <l>non poterant edicere civitates suas et progenies , quemadmodum sint ex Israhel: filii Dalaru, filii Tubam, filii Necoda mille quinquaginta duo .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.038">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:38</verseNum>
+      </reference>
+      <l>et ex sacerdotibus qui fungebantur sacerdotio et non sunt inventi: filii Obia, filii Achisos, filii Addiu qui accepit Umin uxorem ex filiabus Fargeleu</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.039">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:39</verseNum>
+      </reference>
+      <l>et vocati sunt nomine eius. et horum quaesita est generis scriptura in pedatura et non est inventa, et prohibiti sunt sacerdotio fungi.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.040">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:40</verseNum>
+      </reference>
+      <l>et dixit illis Neemias et Atharas , ne participentur sancta, donec exsurgat pontifex indutus in ostensionem et veritatem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.041">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:41</verseNum>
+      </reference>
+      <l>omnis autem Israhel erant a duodecim annorum , exceptis servis et ancillis, quadraginta duo milia trecenti sexaginta .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.042">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:42</verseNum>
+      </reference>
+      <l>servi horum et ancillae septem milia trecenti triginta septem, cantores et cantatrices ducenti sexaginta quinque ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.043">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:43</verseNum>
+      </reference>
+      <l>cameli quadringenti triginta quinque, equi septem milia triginta sex, muli ducenti quadraginta quinque, subiugalia quinque milia quingenti viginti quinque.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.044">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:44</verseNum>
+      </reference>
+      <l>et de praepositis ipsis per pagos, dum venirent in templum Dei quod erat in Hierusalem, vovere suscitare templum in loco suo secundum suam virtutem ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.045">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:45</verseNum>
+      </reference>
+      <l>et dare in templum thesaurarium operum sacrum , auri minas decem milia et stolas sacerdotales centum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.046">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:46</verseNum>
+      </reference>
+      <l>et inhabitaverunt sacerdotes et Levitae et qui exierant ex plebe in Hierusalem et in regione, et sacri cantores et ostiarii et omnis Israhel in regionibus suis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.047">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:47</verseNum>
+      </reference>
+      <l>instante autem septimo mense cumque essent filii Israhel unusquisque in suis rebus, convenerunt unianimes in atrium quod erat ante ianuam orientalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.048">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:48</verseNum>
+      </reference>
+      <l>et stantes Iesus filius Iosedech et fratres eius sacerdotes et Zorobabel filius Salathihel et huius fratres paraverunt altare,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.049">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:49</verseNum>
+      </reference>
+      <l>ut offerrent super illud holocaustomata secundum quae in Moysi libro hominis Dei praescripta sunt.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.050">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:50</verseNum>
+      </reference>
+      <l>et convenerunt ipsis ex aliis nationibus terrae. et erexerunt sacrarium in loco suo omnes gentes terrae, et offerebant hostias et holocaustomata Domino matutina.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.051">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:51</verseNum>
+      </reference>
+      <l>et egerunt scenophegiam et diem sollemnem, sicuti praeceptum est in lege, et sacrificia cotidie, sicut oportebat,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.052">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:52</verseNum>
+      </reference>
+      <l>et post haec oblationes instantiae et hostias sabbatorum et neomeniarum et dierum sollemnium omnium sanctificatorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.053">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:53</verseNum>
+      </reference>
+      <l>et quotquot vovebant Domino, a neomenia septimi mensis coeperunt offerre hostias Deo , et templum Domini nondum erat aedificatum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.054">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:54</verseNum>
+      </reference>
+      <l>et dederunt pecuniam lapidariis et fabris, et potum et pabula cum gaudio</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.055">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:55</verseNum>
+      </reference>
+      <l>Sidoniis et Tyriis, ut transveherent illis de Libano trabes cedrinas in Ioppe portum , secundum decretum quod scriptum erat eis a Cyro Persarum rege .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.056">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:56</verseNum>
+      </reference>
+      <l>et in secundo anno venientes in templum Dei in Hierusalem, mense secundo inchoavit Zorobabel filius Salathihel et Iesus filius Iosedech et fratres ipsorum et sacerdotes et Levitae et omnes qui advenerant de captivitate in Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.057">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:57</verseNum>
+      </reference>
+      <l>et fundaverunt templum Dei novilunio secundi mensis secundi anni, cum venissent in Iudaeam et Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.058">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:58</verseNum>
+      </reference>
+      <l>et statuerunt Levitas a viginti annis super opera Domini. et stetit Iesus et filius eius et fratres ... omnes Levitae conspirantes et exsecutores legis et facientes opera in domo Domini. et fabricaverunt aedificantes templum Dei quod fabricabant .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.059">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:59</verseNum>
+      </reference>
+      <l>et steterunt sacerdotes habentes stolas cum tubis, et Levitae filii Asaph habentes cymbala,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.060">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:60</verseNum>
+      </reference>
+      <l>conlaudantes Dominum et benedicentes secundum David regem Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.061">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:61</verseNum>
+      </reference>
+      <l>et cantabant canticum Domino, quoniam dulcedo eius et honor in saecula super omnem Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.062">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:62</verseNum>
+      </reference>
+      <l>et omnis populus tuba cecinerunt et proclamaverunt voce magna, conlaudantes Dominum in suscitatione domus Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.063">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:63</verseNum>
+      </reference>
+      <l>et venerunt ex sacerdotibus et Levitis et praesidentibus secundum pagos senioribus qui viderant pristinam domum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.064">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:64</verseNum>
+      </reference>
+      <l>et ad huius aedificationem cum clamore et planctu magno, et multi cum tubis et gaudio magno,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.065">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:65</verseNum>
+      </reference>
+      <l>in tantum ut populus non audiret tubas propter planctum populi. turba enim erat tubis canens magnifice, ita ut longe audiretur.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.066">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:66</verseNum>
+      </reference>
+      <l>et audierunt inimici tribus Iudae et Beniamin et venerunt scire, quae esset vox tubarum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.067">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:67</verseNum>
+      </reference>
+      <l>et cognoverunt, quoniam qui erant ex captivitate aedificant templum Domino Deo Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.068">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:68</verseNum>
+      </reference>
+      <l>et accedentes ad Zorobabel et Iesum et praepositos pagorum, dixerunt eis: aedificabimus una vobiscum ;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.069">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:69</verseNum>
+      </reference>
+      <l>similiter enim vobiscum audimus Dominum nostrum , et ipsi incendimus a diebus Asbasareth regis Assyriorum, qui transmigravit nos istinc .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.070">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:70</verseNum>
+      </reference>
+      <l>et dixit illis Zorobabel et Iesus et principes pagorum Israhel:</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.071">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:71</verseNum>
+      </reference>
+      <l>non est vobis et nobis aedificare domum Domini Dei nostri; nos enim soli aedificabimus Domino Israhel , secundum ea quae praecepit nobis Cyrus rex Persarum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.072">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:72</verseNum>
+      </reference>
+      <l>gentes autem terrae incubantes his qui sunt in Iudaea et devastantes opus aedificationis et insidias et populos adducentes, prohibebant eos aedificare,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.005.073">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>5:73</verseNum>
+      </reference>
+      <l>et adgressuras exercentes inpedierunt, ne consummaretur aedificium omni tempore vitae regis Cyri . et protraxerunt structuram per biennium usque ad Darii regnum.</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.1Esdras.006.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>in secundo autem anno regni Darii prophetavit Aggeus et Zaccharias filius Addin prophetae apud Iudaeam et in Hierusalem in nomine Domini Dei Israhel super eos.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>tunc stans Zorobabel filius Salathihel et Iesus filius Iosedech inchoaverunt aedificare domum Domini quae est in Hierusalem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>cum adessent eis prophetae Domini et adiuvarent eos. in ipso tempore venit ad illos Sisennes, subregulus Syriae et Foenicis, et Satrabozanes et sodales eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>et dixerunt eis: quo praecipiente vobis domum hanc aedificatis et tectum istud et alia omnia perficitis? et qui sunt structores qui haec aedificant?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>et habuerunt gratiam visitationis factae super eos qui erant ex captivitate a Domino seniores Iudaeorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>et non sunt inpediti aedificare, donec significaretur Dario de omnibus istis et responsum acciperetur.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>exemplum epistulae quam miserunt Dario: Sisennes, subregulus Syriae et Foenicis, et Satrabozanes et sodales eius in Syria et Foenice praesides regi Dario salutem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>omnia nota sint domino nostro regi, quia cum advenissemus in regionem Iudaeae et introissemus in Hierusalem, invenimus Iudaeos aedificantes domum Domini Dei magnam</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>et templum ex lapidibus politis magnis et pretiosis materiis in parietibus;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>et opera illa instanter fieri , et suffragare et prosperare in manibus eorum, et in omni gloria quam diligentissime perfici .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>tunc interrogavimus seniores dicentes: quo permittente vobis aedificatis domum istam et opera haec fundatis?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>ideo autem interrogavimus eos, ut notum faceremus tibi homines et praepositos, et nominum scripturam praepositorum postulavimus illos.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:13</verseNum>
+      </reference>
+      <l>at illi responderunt nobis dicentes: nos sumus servi Domini, qui fecit caelum et terram.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:14</verseNum>
+      </reference>
+      <l>et aedificabatur haec domus ante istos annos multos a rege Israhel magno et fortissimo et consummata est .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:15</verseNum>
+      </reference>
+      <l>et quoniam patres nostri exacerbantes erant, peccaverunt in Dominum Israhel, tradidit eos in manus Nabuchodonosor regis Babyloniae, regis Chaldeorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.016">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:16</verseNum>
+      </reference>
+      <l>et domum istam demolientes incenderunt et populum captivum duxerunt in Babyloniam .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.017">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:17</verseNum>
+      </reference>
+      <l>in primo autem anno regnante Cyro in regione Babyloniae, scripsit Cyrus rex domum hanc aedificare.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.018">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:18</verseNum>
+      </reference>
+      <l>et illa sacra vasa aurea et argentea, quae extulerat Nabuchodonosor de domo quae est in Hierusalem et consecraverat ea in suo templo, rursus protulit ea Cyrus rex de templo quod erat in Babylonia, et tradita sunt Zorobabel et Salamanassaro subregulo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.019">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:19</verseNum>
+      </reference>
+      <l>et praeceptum est eis , ut ferrent haec vasa et reponerent in templo quod erat in Hierusalem, et templum ipsum Domini aedificare in loco suo.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.020">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:20</verseNum>
+      </reference>
+      <l>tunc Salamanassarus subiecit fundamenta domus Domini quae est in Hierusalem, et exinde usque nunc aedificatur et non accepit consummationem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.021">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:21</verseNum>
+      </reference>
+      <l>nunc ergo si hoc iudicatur , rex, perquiratur in regalibus bibliothecis Cyri regis quae sunt in Babylonia.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.022">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:22</verseNum>
+      </reference>
+      <l>et si inventum fuerit consilio Cyri regis coeptam esse structuram domus Domini quae est in Hierusalem, et iudicabitur a domino rege nostro, scribat de his nobis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.023">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:23</verseNum>
+      </reference>
+      <l>tunc rex Darius praecepit inquiri in bibliothecis quae erant in Babylonia , et inventus est in Ecbathanis, oppido quod est in Media regione, locus unus in quo scripta erant ista:</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.024">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:24</verseNum>
+      </reference>
+      <l>anno primo regnante Cyro, rex Cyrus praecepit domum Domini quae est in Hierusalem aedificare, ubi incendebant igni adsiduo;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.025">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:25</verseNum>
+      </reference>
+      <l>cuius altitudo sit cubitorum sexaginta , et latitudo cubitorum sexaginta, quadratum lapidibus politis tribus, et meniano ligneo eiusdem regionis et meniano uno novo; et inpendia dari de domo Cyri regis;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.026">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:26</verseNum>
+      </reference>
+      <l>et sacra vasa domus Domini tam aurea quam argentea, quae extulit Nabuchodonosor de domo quae erat in Hierusalem in Babyloniam , restitui in domum quae est in Hierusalem ubi erant posita ut ponantur illic.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.027">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:27</verseNum>
+      </reference>
+      <l>et praecepit curam agere Sisennem, subregulum Syriae et Foenices, et Satrabozanen et sodales eius et qui ordinati erant in Syria et Foenice praesides, ut abstinerent se ab eodem loco; sinere autem puerum Domini Zorobabel et subregulum Iudaeae et seniores Iudaeorum domum Domini illam aedificare eodem loco .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.028">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:28</verseNum>
+      </reference>
+      <l>et ego quoque praecepi in totum aedificare et prospici, ut adiuvent eos qui sunt ex captivitate Iudaeorum, donec consummetur templum aedis Domini;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.029">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:29</verseNum>
+      </reference>
+      <l>et ab exactione tributorum Syriae Coeles et Foenicis diligenter quantitatem dari his hominibus ad sacrificium Domini, Zorobabel praefecto ad tauros et arietes et agnos,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.030">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:30</verseNum>
+      </reference>
+      <l>similiter autem et frumentum et sal et vinum et oleum instanter per singulos annos, prout sacerdotes qui sunt in Hierusalem dictaverunt consumi cotidie sine ulla dilatione,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.031">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:31</verseNum>
+      </reference>
+      <l>ut offerantur libationes Deo summo pro rege et pueris eius, et orent pro ipsorum vita.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.032">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:32</verseNum>
+      </reference>
+      <l>et denuntietur ut quicumque transgressi fuerint aliquid ex his quae scripta sunt aut spreverint, accipiatur lignum de suis propriis et super hoc suspendantur, et bona ipsorum regi adscribantur.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.033">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:33</verseNum>
+      </reference>
+      <l>propterea et Dominus, cuius nomen invocatum est ibi, exterminet omnem regem et gentem qui manum suam extenderit prohibere aut male tractare domum Domini illam quae est in Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.006.034">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>6:34</verseNum>
+      </reference>
+      <l>ego Darius rex decrevi quam diligentissime secundum haec fieri.</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.1Esdras.007.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>tunc Sisennes, subregulus Coelensyriae et Foenicen , et Satrabozanes et sodales eius obsecuti his quae a Dario rege decreta erant ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>insistebant sacrosanctis operibus diligentissime cooperantes cum senioribus Iudaeorum, principibus Syriae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>et prosperata sunt sacrosancta opera prophetantibus Aggeo et Zaccharia prophetis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>et consummaverunt ea per praeceptum Domini Dei Israhel et ex consilio Cyri et Darii et Artaxersis regis Persarum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>et consummata est domus sancta usque ad tertiam et vicesimam diem mensis adar, sexto anno Darii regis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>et fecerunt filii Israhel et sacerdotes et Levitae et ceteri qui erant ex captivitate, qui adpositi sunt , secundum ea quae scripta sunt in libro Moysi.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>et obtulerunt in dedicatione templi Domini tauros centum, arietes ducentos, agnos quadringentos.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>et hedos pro peccatis universi Israhel duodecim secundum numerum tribuum Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>et steterunt sacerdotes et Levitae amicti stolis per tribus super opera Domini Dei Israhel secundum librum Moysi, et ostiarii per singulas ianuas.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>et egerunt filii Israhel cum his qui erant ex captivitate illud phase quartadecima luna mensis primi, quando sanctificati sunt sacerdotes et Levitae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>et omnes filii captivitatis non sunt simul sanctificati , quia Levitae simul omnes sanctificati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>et immolaverunt phase universis filiis captivitatis et fratribus suis sacerdotibus et sibimet ipsis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>et manducaverunt filii Israhel qui erant ex captivitate, omnes qui recesserant ab omnibus execrationibus gentium terrae quaerentes Dominum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>et celebraverunt diem festum azymorum septem diebus, epulantes in conspectu Domini,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.007.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>quoniam convertit consilium regis Assyriorum in eis , confortare manus eorum ad opera manus Domini Dei Israhel.</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.1Esdras.008.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>et post hunc regnante Artaxerse Persarum rege, accessit Ezras filius Azariae, filii Helciae, filii Saleme,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>filii Sadduc, filii Achitob, filii Ameri, filii Azaei , filii Boccae, filii Abisaei , filii Finees, filii Eleazari, filii Aaron primi sacerdotis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>hic Ezras ascendit de Babylonia, cum esset scriba et ingeniosus in lege Moysi, quae data est a Domino Israhel dicere et facere.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>et dedit ei rex gloriam, quod invenisset gratiam in omni dignitate et desiderio in conspectu eius.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>et ascenderunt simul cum ipso ex filiis Israhel et sacerdotibus et Levitis et sacris cantoribus templi et ostiariis et servis templi in Hierusalem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>anno septimo regnante Artaxerse, in quinto mense; hic annus septimus est regni. exeuntes enim de Babylonia novilunio quinti mensis,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>venerunt Hierosolymam iuxta praebitam illis prosperitatem itineris a Domino ipso .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>in his enim Ezras magnam disciplinam obtinebat, ne praetermitteret quicquam eorum quae essent ex lege Domini et praeceptis, et docendo universum Israhel omnem iustitiam et iudicia .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>accedentes autem qui scribebant scripta Artaxersis regis, tradiderunt scriptum quod obvenerat ab Artaxerse rege ad Ezram sacerdotem et lectorem legis Domini; cuius est exemplum subiectum :</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>rex Artaxerses Ezrae sacerdoti et lectori legis Domini salutem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>humaniora ego iudicans etiam beneficiis, praecepi eos qui desiderant ex gente Iudaeorum sua sponte et ex sacerdotibus et Levitis qui sunt in regno meo comitari tecum in Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>si qui ergo cupiunt ire tecum, conveniant et proficiscantur, sicut placuit mihi et septem amicis meis consiliariis,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>ut visitent ea quae aguntur secundum Iudaeam et Hierusalem observantes sicut habes in lege Domini,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>et ferant munera Domino Israhel, quae vovi ego et amici, Hierusalem et omne aurum et argentum, quod inventum fuerit in regione Babyloniae, Domino in Hierusalem cum illo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:15</verseNum>
+      </reference>
+      <l>quod donatum est pro ipsa gente in templum Domini eorum quod est in Hierusalem, ut colligatur hoc aurum et argentum ad tauros et arietes et agnos et hedos et quae his sunt congruentia,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.016">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:16</verseNum>
+      </reference>
+      <l>ut offerant hostias Domino super altare Domini ipsorum quod est in Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.017">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:17</verseNum>
+      </reference>
+      <l>et omnia quaecumque volueris cum fratribus tuis facere auro et argento, perfice pro voluntate secundum praeceptum Domini Dei tui.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.018">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:18</verseNum>
+      </reference>
+      <l>et sacrosancta vasa, quae data sunt tibi ad opera domus Domini Dei tui qui est in Hierusalem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.019">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:19</verseNum>
+      </reference>
+      <l>et cetera, quaecumque tibi subvenerint ad operam templi Dei tui, dabis de regali gazofilacio.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.020">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:20</verseNum>
+      </reference>
+      <l/>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.021">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:21</verseNum>
+      </reference>
+      <l>et ego quidem rex Artaxerses praecepi custodibus thesaurorum Syriae et Foenicis, ut quaecumque scripserit Ezras sacerdos et lector legis Domini excelsi , diligenter detur ei usque ad argenti talenta centum, similiter autem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.022">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:22</verseNum>
+      </reference>
+      <l>et usque ad frumenti modios centum et vini amphoras centum, et alia quaecumque abundant sine taxatione.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.023">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:23</verseNum>
+      </reference>
+      <l>omnia secundum Dei legem fiant Deo altissimo, ne qua forte exsurgat ira in regno regis et filiorum eius.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.024">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:24</verseNum>
+      </reference>
+      <l>vobis autem dicitur, ut omnibus sacerdotibus et Levitis et sacris cantoribus templi et ianitoribus et servis templi et scribis templi huius</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.025">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:25</verseNum>
+      </reference>
+      <l>nullum tributum neque ulla alia indictio inrogetur, nec habeat quisque potestatem obicere eis quicquam.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.026">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:26</verseNum>
+      </reference>
+      <l>tu autem Ezras , secundum sapientiam Dei constitue iudices et arbitros in tota Syria et Foenice, et omnes qui legem Dei tui noverunt docebis ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.027">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:27</verseNum>
+      </reference>
+      <l>ut quotquot transgressi fuerint legem, diligenter plectantur sive morte sive cruciatu sive etiam pecuniae multatione vel abductione.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.028">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:28</verseNum>
+      </reference>
+      <l>et dixit Ezras scriba: benedictus Dominus patrum meorum , qui dedit haec in cor regis, clarificare domum suam quae est in Hierusalem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.029">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:29</verseNum>
+      </reference>
+      <l>et me honorificavit in conspectu regis et consiliariorum et amicorum eius et purpuratorum eius.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.030">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:30</verseNum>
+      </reference>
+      <l>et ego constans animo factus sum secundum opitulationem Domini Dei mei, et congregavi ex Israhel viros, ut simul ascenderent mecum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.031">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:31</verseNum>
+      </reference>
+      <l>et hii sunt praepositi secundum suas patrias et principatus portionales eorum, qui mecum ascenderunt de Babylonia in regno Artaxersis regis :</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.032">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:32</verseNum>
+      </reference>
+      <l>ex filiis Phares Gersomus, ex filiis Iemarut Amielus, filiorum David Attus filius Seceliae,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.033">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:33</verseNum>
+      </reference>
+      <l>ex filiis Phares Zaccharias et cum eo reversi sunt viri centum quinquaginta,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.034">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:34</verseNum>
+      </reference>
+      <l>ex filiis ductoris Moab Ilionas Zaraei et cum ipso viri ducenti ,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.035">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:35</verseNum>
+      </reference>
+      <l>ex filiis Zathues Iechonias Zetheeli et cum ipso viri ducenti, ex filiis Addeni filius Ionathae et cum ipso viri ducenti quinquaginta,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.036">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:36</verseNum>
+      </reference>
+      <l>ex filiis Olam Aesias Gotholiae et cum ipso viri septuaginta,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.037">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:37</verseNum>
+      </reference>
+      <l>ex filiis Safatiae Zarias Micheli et cum ipso viri octoginta,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.038">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:38</verseNum>
+      </reference>
+      <l>ex filiis Iob Abdias Iezeli et cum ipso viri ducenti duodecim,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.039">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:39</verseNum>
+      </reference>
+      <l>ex filiis Baniae Salimoth filius Iosaphiae et cum ipso viri centum sexaginta,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.040">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:40</verseNum>
+      </reference>
+      <l>ex filiis Beer Zaccharias Bebei et cum ipso viri ducenti octo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.041">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:41</verseNum>
+      </reference>
+      <l>ex filiis Asath Iochannes Acariae et cum ipso viri centum decem;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.042">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:42</verseNum>
+      </reference>
+      <l>ex filiis Adonicam ipsis postremis, et haec sunt nomina eorum: Elifalam filius Iebel et Sameas et cum ipso viri septuaginta, ex filiis Baneae filius Zaccuri et cum ipso viri septuaginta .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.043">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:43</verseNum>
+      </reference>
+      <l>et congregavi eos ad fluvium qui dicitur Thia, et metati illic sumus triduo, et recognovi eos.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.044">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:44</verseNum>
+      </reference>
+      <l>et ex filiis sacerdotum et Levitarum non inveni illic.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.045">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:45</verseNum>
+      </reference>
+      <l>et misi ad Eleazarum et Eccelom et Masman et Maloban et Enaatam et Sameam et Ioribum Natham Ennagan Zacchariam et Mosolamun, ipsos ductores et peritos.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.046">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:46</verseNum>
+      </reference>
+      <l>et dixi eis ut venirent ad Luddeum ductorem , qui erat apud locum gazofilacii.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.047">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:47</verseNum>
+      </reference>
+      <l>et mandavi eis ut dicerent Luddeo et fratribus eius et illis qui erant in gazofilacio, ut mitterent nobis eos qui sacerdotio fungerentur in domo Domini Dei nostri.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.048">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:48</verseNum>
+      </reference>
+      <l>et adduxerunt nobis secundum manum validam Domini Dei nostri viros peritos ex filiis Moolli filii Levi filii Israhel, Sebebian et filios et fratres qui erant decem et octo,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.049">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:49</verseNum>
+      </reference>
+      <l>Asbian et Annun ex filiis filiorum Chananei et filii eorum viri viginti;</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.050">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:50</verseNum>
+      </reference>
+      <l>et ex his qui in templo serviebant, quos dedit David et ipsi principes ad operationem Levitis, templo servientium ducenti viginti. omnium nomina significata sunt in scripturis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.051">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:51</verseNum>
+      </reference>
+      <l>et vovi illic ieiunium iuvenibus in conspectu Domini Dei nostri , ut quaererem ab eo bonum iter nobis et qui nobiscum erant ex filiis et pecoribus propter insidias.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.052">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:52</verseNum>
+      </reference>
+      <l>erubui enim petere regem pedites et equites in comitatu, tutelae gratia contra adversarios nostros.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.053">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:53</verseNum>
+      </reference>
+      <l>diximus enim regi, quoniam virtus Domini erit cum eis qui inquirunt eum in omni affectu .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.054">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:54</verseNum>
+      </reference>
+      <l>et iterum deprecati sumus Dominum Deum nostrum secundum haec, quem et propitium habuimus, et conpotes facti sumus Domini nostri .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.055">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:55</verseNum>
+      </reference>
+      <l>et separavi ex plebis praepositis et sacerdotibus templi viros duodecim, et Sedebian et Asamian et cum eis ex fratribus eorum viros decem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.056">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:56</verseNum>
+      </reference>
+      <l>et adpendi eis argentum et aurum et vasa sacerdotalia domus Domini Dei nostri, quae donaverat rex et consiliarii eius et principes et omnis Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.057">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:57</verseNum>
+      </reference>
+      <l>et cum adpendissem, tradidi argenti talenta centum quinquaginta et vasa argentea talentorum centum et auri talenta centum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.058">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:58</verseNum>
+      </reference>
+      <l>et vasorum aureorum species viginti et vasa aerea de bono aeramento splendentia duodecim auri speciem reddentia.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.059">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:59</verseNum>
+      </reference>
+      <l>et dixi eis: et vos sancti estis Domino, et vasa quae sunt sancta et aurum et argentum votum est Domino Deo patrum nostrorum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.060">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:60</verseNum>
+      </reference>
+      <l>vigilate et custodite, donec tradatis ex plebis praepositis et sacerdotibus et Levitis et principibus civitatum Israhel in Hierusalem in pastoforio domus Domini Dei nostri.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.061">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:61</verseNum>
+      </reference>
+      <l>et hii qui susceperunt sacerdotes et Levitae aurum et argentum et vasa quae erant in Hierusalem intulerunt in templum Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.062">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:62</verseNum>
+      </reference>
+      <l>et promovimus a fluvio Thia die duodecima mensis primi, usquequo introivimus in Hierusalem secundum potentem manum Domini Dei nostri , quae super nos erat et liberavit nos ab omnibus inimicis nostris ; et venimus in Hierusalem .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.063">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:63</verseNum>
+      </reference>
+      <l>et cum factus fuisset tertius dies, quarta autem die ponderatum aurum et argentum traditum est in domo Domini Dei nostri Marimoth filio Iori sacerdoti.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.064">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:64</verseNum>
+      </reference>
+      <l>et cum ipso erat Eleazar filius Finees, et erant cum ipsis Iosabdus filius Iesu et Moedias Banni filius Levitae. ad numerum et ad pondus universa</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.065">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:65</verseNum>
+      </reference>
+      <l>et scriptum est pondus ipsorum eadem hora.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.066">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:66</verseNum>
+      </reference>
+      <l>qui autem venerunt ex captivitate, obtulerunt sacrificium Domini Israhel tauros duodecim pro omni Israhel arietes octoginta sex,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.067">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:67</verseNum>
+      </reference>
+      <l>agnos septuaginta duos, hircos pro peccato duodecim, et pro salute vaccas duodecim, omnia sacrificium Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.068">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:68</verseNum>
+      </reference>
+      <l>et relegerunt praecepta regis regalibus dispensatoribus et subregulis Coelensyriae et Foenicis, et honorificaverunt gentem et templum Domini.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.069">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:69</verseNum>
+      </reference>
+      <l>et consummatis his accesserunt ad me praepositi dicentes: non segregaverunt genus Israhel et principes et sacerdotes et Levitae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.070">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:70</verseNum>
+      </reference>
+      <l>et alienigenae gentes et nationes terrae inmunditias suas a Chananeis et Hettheis et Ferezeis et Iebuseis et Moabitis et Aegyptiis et Idumeis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.071">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:71</verseNum>
+      </reference>
+      <l>coniuncti enim sunt filiabus eorum et ipsi et filii eorum, et commixtum est semen sanctum alienigenis gentibus terrae; et participes erant praepositi et magistratus iniquitatis huius ab initio ipsius rei .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.072">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:72</verseNum>
+      </reference>
+      <l>et mox ut audivi ista, conscidi vestimenta et sacram tunicam, et lacerans capillos capitis et barbam sedi dolens et maestus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.073">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:73</verseNum>
+      </reference>
+      <l>et convenerunt ad me quotquot tunc movebantur in verbo Domini Dei Israhel, me lugente super iniquitatem istam. et sedebam tristis usque ad vespertinum sacrificium .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.074">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:74</verseNum>
+      </reference>
+      <l>et surgens a ieiunio, conscissa habens vestimenta et sacram tunicam, ingeniculans et extendens manus ad Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.075">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:75</verseNum>
+      </reference>
+      <l>dicebam: Domine, confusus sum et reveritus sum ante faciem tuam.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.076">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:76</verseNum>
+      </reference>
+      <l>peccata enim nostra multiplicata sunt super capita nostra, et iniquitates nostrae exaltatae sunt usque ad caelum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.077">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:77</verseNum>
+      </reference>
+      <l>quoniam a temporibus patrum nostrorum sumus in magno peccato usque in hunc diem .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.078">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:78</verseNum>
+      </reference>
+      <l>et propter peccata nostra et patrum nostrorum sumus traditi cum fratribus nostris et cum sacerdotibus nostris regibus terrae in gladium et captivitatem et depraedationem cum confusione usque in hodiernum diem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.079">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:79</verseNum>
+      </reference>
+      <l>et nunc quantum est quod contigit nobis misericordia abs te, Domine Deus, derelinquere nobis radicem et nomen in locum sanctificationis tuae,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.080">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:80</verseNum>
+      </reference>
+      <l>detegere luminare nostrum in domo Domini Dei nostri, dare nobis cibum in tempore servitutis nostrae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.081">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:81</verseNum>
+      </reference>
+      <l>et cum serviremus, non sumus derelicti a Domino Deo nostro, sed constituit nos in gratia penes reges Persarum, dare nobis cibum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.082">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:82</verseNum>
+      </reference>
+      <l>et clarificare templum Domini nostri et aedificare deserta Sion, dare nobis stabilitatem in Iudaea et in Hierusalem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.083">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:83</verseNum>
+      </reference>
+      <l>et nunc quid dicemus , Domine, habentes haec? transgressi enim sumus praecepta tua, quae dedisti in manus puerorum tuorum prophetarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.084">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:84</verseNum>
+      </reference>
+      <l>dicens quoniam terra, in quam introistis possidere hereditatem eius, terra polluta est coinquinationibus alienigenarum terrae, et inmunditiae illorum repleverunt eam totam inmunditia sua.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.085">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:85</verseNum>
+      </reference>
+      <l>et nunc filias vestras non coniungetis filiis illorum , et filias eorum non accipietis filiis vestris.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.086">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:86</verseNum>
+      </reference>
+      <l>et non inquiretis pacem habere cum illis omni tempore, ut invalescentes manducetis optima terrae, et hereditatem distribuatis filiis vestris usque in aevum.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.087">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:87</verseNum>
+      </reference>
+      <l>et quae contingunt nobis, omnia fiunt propter opera nostra maligna et magna peccata nostra.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.088">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:88</verseNum>
+      </reference>
+      <l>et dedisti nobis talem radicem, et rursum reversi sumus transgredi legitima tua, uti commisceremur inmunditiae alienigenarum gentium terrae huius.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.089">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:89</verseNum>
+      </reference>
+      <l>nonne irasceris nobis perdere nos, quoadusque non relinquatur radix et nomen nostrum?</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.090">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:90</verseNum>
+      </reference>
+      <l>Domine Deus Israhel, verax es; derelicta enim est radix usque in hodiernum diem,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.091">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:91</verseNum>
+      </reference>
+      <l>ecce nunc sumus in conspectu tuo in iniquitatibus nostris; non est enim adhuc stare ante te in his.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.092">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:92</verseNum>
+      </reference>
+      <l>et cum adorando confiteretur Ezras flens humi prostratus ante templum, congregati sunt ante eum ex Hierusalem turba magna valde, viri et mulieres et iuvenes et iuvenculae. fletus enim erat magnus in ipsa multitudine.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.093">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:93</verseNum>
+      </reference>
+      <l>et cum clamasset Iechonias Ieeli ex filiis Israhel, dixit Ezrae : nos in Dominum peccavimus, quod conlocavimus nobis in matrimonium mulieres alienigenas ex gentibus terrae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.094">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:94</verseNum>
+      </reference>
+      <l>et nunc est super omnem Israhel. in his ergo sit iusiurandum ad Dominum , expellere omnes uxores nostras quae ex alienigenis sunt cum filiis earum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.095">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:95</verseNum>
+      </reference>
+      <l>sicut tibi decretum est a maioribus secundum legem Domini. exsurgens explica,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.096">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:96</verseNum>
+      </reference>
+      <l>ad te enim spectat hoc negotium, et nos tecum sumus. viriliter fac.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.008.097">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>8:97</verseNum>
+      </reference>
+      <l>et exsurgens Ezras adiuravit principes sacerdotum et Levitas et omnem Israhel facere secundum haec, et iuraverunt.</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.1Esdras.009.001">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>et exsurgens Ezras ab ante atrium templi, abiit in pastoforium Ionathae filii Nasibi.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.002">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>et hospitatus illic, non gustavit panem nec aquam bibit, lugens super iniquitates multitudinis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.003">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>et facta est praedicatio in omni Iudaea et in Hierusalem omnibus qui erant ex captivitate congregari in Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.004">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>et quicumque non occurrerit biduo aut triduo diei secundum iudicium adsidentium seniorum, tollentur facultates eius , et ipse alienus iudicabitur a multitudine captivitatis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.005">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>et congregati sunt omnes qui erant ex tribu Iuda et Beniamin in tribus diebus in Hierusalem; hic mensis est nonus, vicesima mensis .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.006">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>et adsedit omnis multitudo in area templi, trementes propter hiemem praesentem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.007">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>et exsurgens Ezras dixit illis: vos inique fecistis conlocando vobis in matrimonium uxores alienigenas, ut adderetis ad peccata Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.008">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>et nunc date confessionem et magnificentiam Domino Deo patrum nostrorum,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.009">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>et perficite voluntatem ipsius et discedite a gentibus terrae et ab uxoribus alienigenis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.010">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>et clamavit omnis multitudo et dixerunt magna voce : sicut dixisti faciemus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.011">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>sed quoniam multitudo magna est, et tempus hiberni est et non possumus in subdiali parte stare, et hoc opus non est nobis unius diei neque bidui, multum in his peccavimus,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.012">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>stent praepositi multitudinis et omnes qui nobiscum inhabitant et quotquot habent apud se uxores alienigenas,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.013">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>et adsistant accepto tempore et ex omni loco presbyteri et iudices, usquequo solvant iram Domini negotii huius.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.014">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>Ionatha $W&amp;!c"/&gt; autem filius Ezeli et Ozias Thochani susceperunt secundum haec , et Bosoramus et Levis et Sabbatheus simul cooperati sunt cum illis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.015">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>et fecerunt secundum haec omnia universi qui erant ex captivitate.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.016">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>et elegit sibi viros Ezras sacerdos, principes magnos de patribus eorum secundum nomina, et consederunt novilunio mensis decimi examinare negotium istud.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.017">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>et determinatum est de viris qui habebant uxores alienigenas usque ad neomenia primi mensis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.018">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:18</verseNum>
+      </reference>
+      <l>et inventi sunt ex sacerdotibus commixti qui habebant alienigenas uxores :</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.019">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:19</verseNum>
+      </reference>
+      <l>ex filiis Iesu filii Iosedech et fratribus eius Maseas et Eliezerus et Ioribus et Ioadeus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.020">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:20</verseNum>
+      </reference>
+      <l>et iniecerunt manus , ut expellerent uxores suas, et ad litandum in exoratione arietem pro ignorantia sua.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.021">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:21</verseNum>
+      </reference>
+      <l>et ex filiis Emmeri Masseas et Esses et Ieel et Azarias.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.022">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:22</verseNum>
+      </reference>
+      <l>et ex filiis Fosor Elionia, Assias , Ismahelus et Nathanaelus, Ioceddeus et Talsas.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.023">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:23</verseNum>
+      </reference>
+      <l>et ex Levitis Iozabdus et Semeis et Colius et Calitas et Fatheas et Coluas et Elionas.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.024">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:24</verseNum>
+      </reference>
+      <l>ex sacris cantoribus Eliasubus Zaccurus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.025">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:25</verseNum>
+      </reference>
+      <l>ex ostiariis Sallumus et Tolbanes.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.026">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:26</verseNum>
+      </reference>
+      <l>et ex Israhel: ex filiis Foroos Ieremias et Ieddias et Melchias et Mielus et Eleazarus et Iemmebias et Baninas.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.027">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:27</verseNum>
+      </reference>
+      <l>et ex filiis Iolam Mamthanias et Zaccharias, Iezrelus et Iobdius et Herimoth et Helias.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.028">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:28</verseNum>
+      </reference>
+      <l>et ex filiis Zathom Eliadas et Eliasimus et Othias et Larimoth et Zabdus et Zebedias.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.029">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:29</verseNum>
+      </reference>
+      <l>et ex filiis Bebe Iohannes et Ananias et Zabdias et Emethis .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.030">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:30</verseNum>
+      </reference>
+      <l>et ex filiis Banni Olamus et Malluchus et Ieddaeus et Iasub et Asubus et Hierimoth.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.031">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:31</verseNum>
+      </reference>
+      <l>et ex filiis Addin Naathus et Moosias et Calchurus et Raanas et Baseas , Mathathias et Beseel et Bonnus et Manasses.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.032">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:32</verseNum>
+      </reference>
+      <l>et ex filiis Nuae Noneas et Aseas et Melchias et Sameas et Simon, Beniamin et Malchus et Marras.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.033">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:33</verseNum>
+      </reference>
+      <l>et ex filiis Asom Carianeus, Mathathias et Bannus et Elifalat et Manasses et Semei.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.034">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:34</verseNum>
+      </reference>
+      <l>et ex filiis Banni Ieremias et Moodias et Abramus et Ioel et Baneas et Pelias et Ionas et Marimoth et Eliasib et Mathaneus et Eliasis et Zorisas et Diaelus et Samedius et Sambris et Iosephus.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.035">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:35</verseNum>
+      </reference>
+      <l>et ex filiis Nobaei Idaelus et Mathathias et Sabadus et Zetheda Sednu et Iessei Baneas.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.036">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:36</verseNum>
+      </reference>
+      <l>omnes isti coniunxerunt sibi uxores alienigenas, et dimiserunt eas cum filiis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.037">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:37</verseNum>
+      </reference>
+      <l>et inhabitaverunt sacerdotes et Levitae et qui erant ex Israhel in Hierusalem et in tota regione una novilunio mensis septimi, et erant filii Israhel in commorationibus suis.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.038">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:38</verseNum>
+      </reference>
+      <l>et congregata est omnis multitudo simul in aream quae est ab oriente portae sacrae.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.039">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:39</verseNum>
+      </reference>
+      <l>et dixerunt Ezrae pontifici et lectori, ut adferret legem Moysi quae tradita est a Domino Deo Israhel.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.040">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:40</verseNum>
+      </reference>
+      <l>et adtulit Ezras pontifex legem omni multitudini eorum a viro usque ad mulierem et omnibus sacerdotibus, audire legem novilunio mensis septimi.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.041">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:41</verseNum>
+      </reference>
+      <l>et legebat in area quae est ante sacram portam templi a prima luce usque ad vesperam coram viris et mulieribus, et dederunt omnes sensum ad legem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.042">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:42</verseNum>
+      </reference>
+      <l>et stetit Ezras sacerdos et lector legis super ligneum tribunal quod fabricatum erat.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.043">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:43</verseNum>
+      </reference>
+      <l>et steterunt ad eum Mathathias, Samus, Ananias, Azarias, Urias, Ezechias, et Balsamus ad dexteram,</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.044">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:44</verseNum>
+      </reference>
+      <l>et ad sinistram Faldeus, Misael, Malachias, Abustassabus, Nabadias et Zaccharias</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.045">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:45</verseNum>
+      </reference>
+      <l>et adsumpsit Ezras librum coram omni multitudine praesidebat enim in gloria in conspectu omnium.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.046">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:46</verseNum>
+      </reference>
+      <l>et cum absolvisset legem, omnes recti steterunt. et benedixit Ezras Dominum Deum altissimum, Deum Sabaoth omnipotentem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.047">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:47</verseNum>
+      </reference>
+      <l>et respondit omnis populus: amen . et elevatis susum manibus procidentes in terram adoraverunt Dominum .</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.048">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:48</verseNum>
+      </reference>
+      <l>Iesus et Banaeus et Sarabias et Iadinus et Accubus et Sabbateus et Calites et Azarias et Ioradus et Ananias et Filias, Levitae</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.049">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:49</verseNum>
+      </reference>
+      <l>qui docebant legem Domini et in multitudine legebant legem Domini, et praeferebant singuli eos qui intellegebant lectionem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.050">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:50</verseNum>
+      </reference>
+      <l>et dixit Attarates Ezrae pontifici et lectori et Levitis qui docebant multitudinem</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.051">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:51</verseNum>
+      </reference>
+      <l>dicens: dies hic est sanctus Domino. et omnes flebant, cum audissent legem.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.052">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:52</verseNum>
+      </reference>
+      <l>digressi ergo manducate pinguissima quaeque et bibite dulcissima quaeque et mittite munera his qui non habent.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.053">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:53</verseNum>
+      </reference>
+      <l>sanctus est enim dies Domini , et nolite maesti esse, Dominus enim clarificavit vos.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.054">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:54</verseNum>
+      </reference>
+      <l>et Levitae denuntiabant in publico omnibus dicentes: dies hic sanctus est, nolite maesti esse.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.055">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:55</verseNum>
+      </reference>
+      <l>et abierunt omnes manducare et bibere et epulari et dare munera his qui non habent ut epulentur . magnifice enim sunt exaltati verbis quibus edocti sunt.</l>
+    </verse>
+    <verse type="bible-verse" id="B.1Esdras.009.056">
+      <reference>
+        <bookName>1Esdras</bookName>
+        <verseNum>9:56</verseNum>
+      </reference>
+      <l>et congregati sunt universi in Hierusalem, celebrare laetitiam secundum testamentum Domini Dei Israhel.</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.1Esdras.colophon.001">
+    <reference>
+      <bookName>1Esdras</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT LIBER EZRAE TERTIUS</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

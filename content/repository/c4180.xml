@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4179" nextid="c4181" id="c4180">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Orante sancto Clemente
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L"> apparuit ei agnus dei</rdg>
+         <rdg wit="CAO-V"> apparuit ei angelus domini</rdg>
+         <rdg wit="CAO-H"> apparuit ei agnus domini</rdg>
+      </app>
+   </aBody>
+</ant>

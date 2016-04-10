@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6890" nextid="c6892" id="c6891">
+   <header>
+      <usage ms="Cdm" code="02122800">[28v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cdm"> In circuitu tuo domine lumen est quod numquam
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cdm"> deficiet</rdg>
+         <rdg wit="CAO-V">
+            <corr sic="deficient" resp="Hesbert">deficiet</corr>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="Cdm"> ubi</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ibi</rdg>
+         <rdg wit="CAO-E"> et ibi</rdg>
+      </app> constituisti lucidissimas mansiones
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R Cdm"> ibi requiescunt</rdg>
+         <rdg wit="CAO-C CAO-M CAO-D CAO-F CAO-S CAO-L"> ubi requiescunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Cdm"> sanctorum animae</rdg>
+         <rdg wit="CAO-L"> sanctorum animae alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="Cdm"> Lux perpetua lucebit sanctis tuis domine et aeternitas temporum</vBody>
+      <vBody type="r" wit="CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Magnus dominus et laudabilis
+       <app>
+            <rdg wit="CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> nimis</rdg>
+            <rdg wit="CAO-D"> valde</rdg>
+         </app> in civitate Dei nostri in monte sancto eius</vBody>
+      <vBody type="r" wit="CAO-E">Magnus dominus</vBody>
+      <vBody id="c6891-1" type="r" wit="CAO-C"> Magnus dominus et laudabilis valde in civitate dei nostri in monte sancto eius</vBody>
+      <rep corresp="c6891-1" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody id="c6891-2" type="r" num="2" wit="CAO-C"> Lux perpetua lucebit sanctis tuis domine et aeternitas temporum</vBody>
+      <rep corresp="c6891-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <rep type="r" wit="CAO-E CAO-V CAO-H CAO-R Cdm">Ibi requiescunt</rep>
+      <rep type="r" wit="CAO-M CAO-D CAO-F CAO-S">Ubi requiescunt</rep>
+      <rep type="r" wit="CAO-V"> Ubi constituisti</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+   </verses>
+</res>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7568" nextid="c7570" id="c7569">
+   <header>
+      <usage ms="Alb2" code="02122500">[26r] matins-n2-r7</usage>
+      <usage ms="Cdm" code="02122500">[22r] matins-n2-r7</usage>
+      <usage ms="Evm" code="02010100">[59r] matins-n1-r1</usage>
+      <usage ms="Hyd" code="02010100" corresp="c7569-1">[34r] matins-n1-r4</usage>
+      <usage ms="Hyd" code="02122500" corresp="c7569-2">[19v] matins-n3-r9</usage>
+      <usage ms="Pet" code="02010100">[34v] matins-n1-r4</usage>
+      <usage ms="Wcb" code="02010100">[66r] matins-n1-r1</usage>
+      <usage ms="Wor" code="02122500">[14v] matins-n2-r6</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">The text given here as a 'second verse' for Pet could be a prosula? -- though the following doxology uses its tune</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Cdm Wor Pet"> Sancta et immaculata virginitas</rdg>
+         <rdg wit="CAO-G CAO-L"> Sancta et immaculata virgo</rdg>
+      </app> quibus te laudibus
+     <app>
+         <rdg wit="CAO-V CAO-D Hyd Alb2 Evm Wcb Cdm Wor Pet"> efferam</rdg>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S CAO-L"> referam</rdg>
+         <rdg wit="CAO-F"> efferem</rdg>
+      </app> nescio quia quem caeli capere non poterant
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Evm Cdm Wor Pet"> tuo gremio</rdg>
+         <rdg wit="CAO-C CAO-F CAO-L Wcb"> tuis gremiis</rdg>
+      </app> contulisti</rBody>
+   <rBody type="incipit" wit="Bat"> Sancta et immaculata</rBody>
+   <verses>
+      <vBody id="c7569-2" type="r" wit="Hyd"> Beata es virgo et gloriosa inter omnes mulieres et benedicta Gabriel haec dicens attulit affata pariea filium virgo intacta Jesus erit nomen eius cuncta per saecula hodie ex te Christus natus est in arua de te mater casta processit Maria ave speciosa in caelis regina et benedicta in aeternum</vBody>
+      <vBody id="c7569-1" type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wcb Cdm Wor Pet"> Benedicta tu in mulieribus et benedictus fructus ventris tui</vBody>
+      <vBody type="r" wit="Evm"> Benedicta tu in mulieribus</vBody>
+      <vBody type="r" num="2" wit="Pet"> Virginibus beatior cunctis benedicta per aevum ex omni rationabili dicaris virgo</vBody>
+      <dox type="r" wit="Pet">Gloria patri</dox>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet">Quia</rep>
+      <rep type="r" wit="CAO-V">Quem caeli</rep>
+   </verses>
+</res>

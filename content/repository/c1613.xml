@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1612" nextid="c1614" id="c1613">
+   <header>
+      <notesStmt>
+         <note resp="Hesbert" place="unspecified" anchored="yes">uses second strophe of hymn 'A solis ortus cardine'</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N">Beatus auctor saeculi</l>
+         <l part="N">servile corpus induit</l>
+         <l part="N">ut carne carnem liberans</l>
+         <l part="N">ne perderet quos condidit</l>
+      </verse>
+   </aBody>
+</ant>

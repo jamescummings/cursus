@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7530" nextid="c7532" id="c7531">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Repleti sunt omnes
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> spiritu sancto</rdg>
+         <rdg wit="CAO-V"> spiritus sancto</rdg>
+         <rdg wit="CAO-M">
+            <corr sic="spiritus">spiritu</corr>
+         </rdg>
+      </app> et coeperunt loqui prout spiritus sanctus dabat eloqui illis et convenit multitudo dicentium alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd"> Loquebantur variis linguis apostoli magnalia dei</vBody>
+      <vBody type="r" wit="CAO-R"> Nonne ecce isti qui loquuntur Galilaei sunt et quomodo nos audivimus linguam nostram in qua nati sumus</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd">Et convenit</rep>
+      <rep type="r" wit="CAO-B CAO-E">Prout</rep>
+   </verses>
+</res>

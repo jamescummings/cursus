@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3255" nextid="c3257" id="c3256">
+   <header>
+      <usage ms="Bat" code="02122700">[22r] lauds gosp</usage>
+      <usage ms="Cdm" code="02122600">[26r] vesp2 commemoratio</usage>
+      <usage ms="Evm" code="02122700">[45v] nones</usage>
+      <usage ms="Hyd" code="02122700">[25v] lauds gosp</usage>
+      <usage ms="Pet" code="02122700">[24v] vesp1 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-D CAO-F Hyd Evm Bat Cdm Pet"> In medio ecclesiae aperuit os eius et implevit eum dominus spiritu sapientiae et intellectus stolamque gloriae induit eum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-D CAO-F Evm Bat Pet"> alleluia alleluia alleluia</rdg>
+         <rdg wit="Cdm"> alleluia alleluia</rdg>
+         <rdg wit="Hyd">alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

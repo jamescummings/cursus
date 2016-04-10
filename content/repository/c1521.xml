@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1520" nextid="c1522" id="c1521">
+   <aBody wit="CAO-C CAO-B CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H"> Audita est vox infantium</rdg>
+         <rdg wit="CAO-R"> Audita <add place="margin">est</add> vox infantium</rdg>
+      </app> et dicentium
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> gloria deo alleluia</rdg>
+         <rdg wit="CAO-C"> gloria in excelsis deo</rdg>
+      </app>
+   </aBody>
+</ant>

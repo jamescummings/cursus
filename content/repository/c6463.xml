@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6462" nextid="c6464" id="c6463">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dixerunt discipuli ab beatum Martinum cur nos pater deseris aut cui nos desolatos relinquis
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> invadent</rdg>
+         <rdg wit="CAO-E"> invadunt</rdg>
+      </app> enim gregem tuum lupi rapaces</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D"> Scimus quidem desiderare te
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D"> Christum</rdg>
+            <rdg wit="CAO-V"> Christus</rdg>
+         </app> nostri
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D"> potius miserere quos deseris</rdg>
+            <rdg wit="CAO-V"> potius quos deseris miserere</rdg>
+         </app>
+      </vBody>
+      <vBody id="c6463-1" type="r" wit="CAO-C"> Scimus quidem desiderare te Christum sed salva tibi sunt tua praemia nec dilatur minuentur nostri potius miserere quos deseris</vBody>
+      <rep corresp="c6463-1" type="r" wit="CAO-C"> Invadent</rep>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Scimus quidem desiderare te Christum sed salva
+       <app>
+            <rdg wit="CAO-F CAO-S"> sunt tibi</rdg>
+            <rdg wit="CAO-L"> tibi sunt</rdg>
+         </app> tua praemia
+       <app>
+            <rdg wit="CAO-F CAO-S"> nostri</rdg>
+            <rdg wit="CAO-L"> vestri quoque</rdg>
+         </app> potius miserere quos deseris</vBody>
+      <vBody id="c6463-2" type="r" wit="CAO-C"> Domine si adhuc populo tuo</vBody>
+      <rep corresp="c6463-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes"> No regressio in CAO-C</note>
+      </rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Invadent</rep>
+   </verses>
+</res>

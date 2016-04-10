@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1828" nextid="c1829b" id="c1829">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Claudus quidam cum vidisset <name reg="Petrus" type="saint">Petrum</name> et <name reg="Joannis" type="saint">Joannem</name>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> coepit rogare eos</rdg>
+         <rdg wit="CAO-S"> coepit rogare eum</rdg>
+      </app> ut eleemosynam acciperet</aBody>
+</ant>

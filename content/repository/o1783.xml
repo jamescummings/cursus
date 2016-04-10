@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1782" nextid="o1784" id="o1783">
+   <header>
+      <usage ms="Ely" code="01000000">[5v] </usage>
+      <usage ms="Mch" code="01034000">[14r] nones</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.808</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Mch Ely"> Excita quaesumus domine potentiam tuam et veni et quod ecclesiae tuae promisisti usque in finem saeculi clementer operari</pBody>
+</prayer>

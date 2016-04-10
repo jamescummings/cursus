@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2681" nextid="c2683" id="c2682">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Estote ergo misericordes
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-L"> sicut et pater vester</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S"> quia et pater vester</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> misericors est alleluia</rdg>
+         <rdg wit="CAO-C CAO-B CAO-V"> misericors est dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

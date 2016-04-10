@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9015" nextid="c9017" id="c9016">
+   <header>
+      <usage ms="Alb2" code="06031000">[70v] matins-n2-r7</usage>
+      <usage ms="Bat" code="06031000">[45v] matins-n2-r7</usage>
+      <usage ms="Cdm" code="06031000">[53v] matins-n2-r7</usage>
+      <usage ms="Cht" code="06031000">[16r] matins-n2-r4</usage>
+      <usage ms="Ely" code="06031000">[63r] matins-n2-r7</usage>
+      <usage ms="Mch" code="06031000">[107r] matins-n2-r7</usage>
+      <usage ms="Pet" code="06031000">[61r] matins-n2-r7</usage>
+      <usage ms="Wcb" code="06031000">[89v] matins-n2-r7</usage>
+      <usage ms="Wor" code="06031000">[40v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="Cht Alb2 Wor Pet Wcb Ely Cdm Mch Bat">
+      <app>
+         <rdg wit="Alb2 Wor Pet Ely Cdm Mch Bat Wcb"> Ait autem Abraham ad dominum</rdg>
+         <rdg wit="Cht"> Dixit autem Abraham ad dominum</rdg>
+      </app> obsecro domine mi non deleas omnem locum propter iustos decem respondit dominus deus non delebo<app>
+         <rdg wit="Cht Alb2 Wor Pet Ely Cdm Bat"> propter decem</rdg>
+         <rdg wit="Mch Wcb"> propter iustos decem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="Cht Alb2 Wor Pet Ely Wcb Cdm Mch Bat">Ne quaeso domine irascaris si loquar semel quid facies
+      <app>
+            <rdg wit="Cht Alb2 Wor Pet Ely"> si inventi fuerunt decem</rdg>
+            <rdg wit="Wcb Cdm Mch Bat"> si inventi fuerint decem</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="Cht Alb2 Wor Pet Cdm Mch Bat">Respondit</rep>
+      <rep type="r" wit="Ely">Non deleas</rep>
+      <rep type="r" wit="Wcb">Obsecro</rep>
+   </verses>
+</res>

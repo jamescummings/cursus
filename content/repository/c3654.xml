@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3653" nextid="c3655" id="c3654">
+   <header>
+      <usage ms="Hyd" code="02010500">vesp1</usage>
+      <usage ms="Pet" code="02010500"/>
+      <usage ms="Alb2" code="02010500"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Pet Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Alb2 Pet"> Magi videntes stellam dixerunt ad invicem</rdg>
+         <rdg wit="CAO-C CAO-M"> Magi viderunt stellam dixerunt ad invicem</rdg>
+         <rdg wit="CAO-D Hyd"> Magi viderunt stellam et dixerunt ad invicem</rdg>
+         <rdg wit="CAO-L"> Magi viderunt stellam qui dixerunt ad invicem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Pet Hyd"> hoc signum magni regis est</rdg>
+         <rdg wit="CAO-C"> hoc signum magnum regis est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Pet Hyd"> eamus et inquiramus eum</rdg>
+         <rdg wit="CAO-L"> eamus et procidamus ei</rdg>
+      </app> et offeramus ei munera aurum thus et myrrham</aBody>
+</ant>

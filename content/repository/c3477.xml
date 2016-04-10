@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3476" nextid="c3478" id="c3477">
+   <header>
+      <usage ms="Bat" code="02122800">[23r] matins-n3</usage>
+      <usage ms="Cdm" code="02122800">[29r] matins-n3</usage>
+      <usage ms="Pet" code="02122800">[30r] matins-n2-a11</usage>
+   </header>
+   <aBody wit="CAO-D CAO-F Bat Cdm Pet"> Jerusalem civitas sancta
+     <app>
+         <rdg wit="CAO-D Bat"> ornamenta</rdg>
+         <rdg wit="CAO-F Cdm Pet"> ornamentis</rdg>
+      </app> martyrum decorata cuius plateae sonant
+     <app>
+         <rdg wit="Bat Cdm"> laudem</rdg>
+         <rdg wit="CAO-D CAO-F Pet"> laudes</rdg>
+      </app>
+      <app>
+         <rdg wit="Bat Cdm Pet"> de die in diem alleluia alleluia alleluia</rdg>
+         <rdg wit="CAO-D"> de die in diem alleluia</rdg>
+         <rdg wit="CAO-F"> de die in diem</rdg>
+      </app>
+   </aBody>
+</ant>

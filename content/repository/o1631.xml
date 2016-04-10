@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1630" nextid="o1632" id="o1631">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010600"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.87</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Hyd">Deus qui hodierna die unigenitum tuum gentibus stella duce revelasti concede propitius ut qui iam te ex fide cognovimus usque ad contemplandam speciem tuae celsitudinis perducamur</pBody>
+</prayer>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6623" nextid="c6625" id="c6624">
+   <header>
+      <usage ms="Alb2" code="02122800">[37v] matins-n1-r2</usage>
+      <usage ms="Bat" code="02122800">[22v] matins-n1-r2</usage>
+      <usage ms="Cdm" code="02122800">[28r] matins-n1-r2</usage>
+      <usage ms="Evm" code="02122800">[46v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="02122800">[26v] matins-n2-r5</usage>
+      <usage ms="Pet" code="02122800">[29r] matins-n1-r2</usage>
+      <usage ms="Wcb" code="02122800">[63r] matins-n1-r2</usage>
+      <usage ms="Wor" code="02122800">[22r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Effuderunt sanguinem sanctorum velut
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> aquam</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-F CAO-S"> aqua</rdg>
+      </app> in circuitu Jerusalem et non erat qui sepeliret</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Vindica domine sanguinem
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> sanctorum tuorum</rdg>
+            <rdg wit="CAO-C"> servorum tuorum</rdg>
+         </app> qui effusus est</vBody>
+      <vBody id="c6624-1" type="r" wit="CAO-L"> Vindica domine sanguinem sanctorum tuorum qui effusus est</vBody>
+      <rep corresp="c6624-1" type="r" wit="CAO-L"> In circuitu</rep>
+      <vBody type="r" wit="CAO-S"> Posuerunt mortalia servorum tuorum escas volatilibus caeli carnes sanctorum bestiis terrae</vBody>
+      <vBody id="c6624-2" type="r" num="2" wit="CAO-L"> Posuerunt mortalia servorum tuorum domine escas volatilibus caeli carnes sanctorum bestiis terrae</vBody>
+      <rep corresp="c6624-2" type="r" wit="CAO-L"> Et non</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> In circuitu</rep>
+      <rep type="r" wit="CAO-G CAO-E CAO-S"> Et non</rep>
+   </verses>
+</res>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6737" nextid="c6739" id="c6738">
+   <rBody wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Fluctus tui super me transierunt et ego dixi Expulsus sum ab oculis tuis putas videbo templum
+      <app>
+         <rdg wit="CAO-G CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> sanctum tuum</rdg>
+         <rdg wit="CAO-B"> sanctum domini</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Abyssus vallavit me</rdg>
+            <rdg wit="CAO-V"> Abyssus vallabit me</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> et pelagus</rdg>
+            <rdg wit="CAO-G CAO-F CAO-L"> pelagus</rdg>
+         </app> cooperuit caput meum</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S"> Putas</rep>
+      <rep type="r" wit="CAO-F CAO-L"> Et ego</rep>
+   </verses>
+</res>

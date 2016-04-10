@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3353" nextid="c3355" id="c3354">
+   <aBody wit="CAO-E CAO-R CAO-F"> Inseparabilis fides passioque germana
+     <app>
+         <rdg wit="CAO-E"> laudabiles eos perpetuam transmisit ad gloriam</rdg>
+         <rdg wit="CAO-R"> laudabilis eos perpetuam transmisit ad vitam</rdg>
+         <rdg wit="CAO-F"> perpetuam eos transmisit ad vitam</rdg>
+      </app> quoniam doctrinam suam morte fortissima consecrarunt</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-F"> Clamaverunt iusti et dominus exaudivit eos et ex omnibus tribulationibus liberavit eos</vBody>
+   </verses>
+</ant>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2834" nextid="c2836" id="c2835">
+   <header>
+      <usage ms="Hyd" code="08087000">lauds</usage>
+   </header>
+   <aBody wit="CAO-G CAO-H CAO-R CAO-D Hyd"> Facta autem die
+     <app>
+         <rdg wit="CAO-G CAO-H CAO-R"> ibat Jesus in desertum locum</rdg>
+         <rdg wit="CAO-D"> egressus est Jesus et ibat in desertum locum</rdg>
+         <rdg wit="Hyd"> egressus Jesus ibat in desertum locum</rdg>
+      </app> et turbae requirebant eum et venerunt usque ad ipsum
+     <app>
+         <rdg wit="CAO-G CAO-H CAO-R"> et detinebant illum</rdg>
+         <rdg wit="CAO-D Hyd"> et detinebant eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-H CAO-R Hyd"> ne discederet ab eis alleluia</rdg>
+         <rdg wit="CAO-D"> ne discederet ab eis</rdg>
+      </app>
+   </aBody>
+</ant>

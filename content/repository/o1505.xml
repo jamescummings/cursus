@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1504" nextid="o1506" id="o1505">
+   <header>
+      <usage ms="Alb2" code="07014000"/>
+      <usage ms="Bat" code="07014000">[50v] vesp2</usage>
+      <usage ms="Cdm" code="07014000">[59v] vesp2</usage>
+      <usage ms="Cht" code="07014000"/>
+      <usage ms="Ely" code="07014000"/>
+      <usage ms="Evm" code="07014000"/>
+      <usage ms="Hyd" code="07014000"/>
+      <usage ms="Mch" code="07014000">[119v] vesp2</usage>
+      <usage ms="Wcb" code="07014000"/>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat"> Mentes nostras quaesumus domine lumine tuae claritatis inlustra ut videre possimus quae agenda sunt et quae recta sunt agere valeamus</pBody>
+</prayer>

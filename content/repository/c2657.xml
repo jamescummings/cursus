@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2656" nextid="c2658" id="c2657">
+   <header>
+      <usage ms="Evm" code="02010200">[62v] lauds commemoratio</usage>
+      <usage ms="Pet" code="03031000">[34r] lauds gosp</usage>
+      <usage ms="Wcb" code="03021000">[65v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-V CAO-L Evm Wcb Pet">
+      <app>
+         <rdg wit="Evm Wcb Pet"> Erat Joseph et Maria mater Jesu</rdg>
+         <rdg wit="CAO-V"> Erat Joseph et Maria mater eius</rdg>
+         <rdg wit="CAO-L"> Erat Joseph et mater Jesu</rdg>
+      </app> mirantes
+     <app>
+         <rdg wit="CAO-V Wcb"> super his</rdg>
+         <rdg wit="CAO-L Evm Pet"> super hiis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L Evm Wcb Pet"> quae dicebantur de illo</rdg>
+         <rdg wit="CAO-V"> quae dicebantur de illo alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

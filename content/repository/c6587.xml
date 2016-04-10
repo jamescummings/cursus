@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6586" nextid="c6587b" id="c6587">
+   <header>
+      <usage ms="Evm" code="01031000">[17v] matins-n3-r12</usage>
+      <usage ms="Glo" code="01031000">[16r] procession</usage>
+      <usage ms="Hyd" code="01031000">[10v] matins-n2-r8</usage>
+      <usage ms="Wcb" code="01031000">[47r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-E CAO-M CAO-V CAO-D CAO-F Hyd Evm Wcb Glo">Ecce dominus veniet
+     <app>
+         <rdg wit="Hyd Evm Wcb Glo"> ut salvos nos faciat</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F"> et omnes sancti eius cum eo</rdg>
+      </app> tunc aperientur oculi caecorum et aures surdorum audient tunc ascendet claudus quasi cervus et absolutae erunt linguae mutorum</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Evm Wcb Glo"> Ecce dominus veniet cum splendore qui et illuminabit
+      <app>
+            <rdg wit="Hyd"> absconditas tenebrarum</rdg>
+            <rdg wit="Evm Wcb Glo"> abscondita tenebrarum</rdg>
+         </app>
+         <app>
+            <rdg wit="Hyd Wcb Glo"> et consilia manifestabit cordium</rdg>
+            <rdg wit="Evm"> et manifestabit consilia cordium</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-F"> Ecce dominator
+       <app>
+            <rdg wit="CAO-F"> dominus cum virtute veniet</rdg>
+            <rdg wit="CAO-D" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E CAO-V"> Ecce dominus in fortitudine veniet et brachium eius dominabitur</vBody>
+      <vBody type="r" wit="CAO-M"> Ecce advenit dominator dominus et regnum in manu eius et potestas et imperium</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-M Hyd Evm Wcb Glo"> Tunc</rep>
+      <dox type="r" wit="CAO-M Evm"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-M"> Et absolutae</rep>
+   </verses>
+</res>

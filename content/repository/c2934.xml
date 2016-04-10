@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2933" nextid="c2935" id="c2934">
+   <header>
+      <usage ms="Hyd" code="08016000">[104v] matins-n2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-V CAO-H CAO-R CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-H CAO-R CAO-F CAO-L"> Gavisi sunt discipuli alleluia</rdg>
+         <rdg wit="Hyd"> Alleluia gavisi sunt discipuli alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-H CAO-R CAO-F CAO-L"> viso domino alleluia</rdg>
+         <rdg wit="Hyd"> viso domino alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1556" nextid="o1558" id="o1557">
+   <header>
+      <usage ms="Ely" code="07058000">[83r] unknown</usage>
+      <usage ms="Mch" code="07058000">[148r] </usage>
+      <usage ms="Wcb" code="07061000">[113r] nones</usage>
+   </header>
+   <pBody wit="Ely Wcb Mch">
+      <app>
+         <rdg wit="Ely Wcb">Da quaesumus omnipotens deus</rdg>
+         <rdg wit="Mch">Da quaesumus omnipotens et misericors deus</rdg>
+      </app> ut quod in filii tui passione mundus exercuit salutare nobis fideliter sentiamus</pBody>
+</prayer>

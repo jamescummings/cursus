@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2848" nextid="c2850" id="c2849">
+   <header>
+      <usage ms="Alb2" code="07067000">[112r] matins-n3-a10</usage>
+      <usage ms="Cdm" code="07067000">[80v] matins-n3</usage>
+      <usage ms="Cht" code="07066000">[64r] -n3</usage>
+      <usage ms="Evm" code="07067000">[154r] matins-n3</usage>
+      <usage ms="Hyd" code="07067000">[97v] matins-n3</usage>
+      <usage ms="Mch" code="07067000">[163v] matins-n3-a9</usage>
+      <usage ms="Pet" code="07067000">[95r] matins-n3</usage>
+      <usage ms="Wcb" code="07067000">[118r] matins-n3</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Factus sum sicut homo sine adiutorio
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> inter mortuos liber</rdg>
+         <rdg wit="CAO-M"> et inter mortuos liber</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3530" nextid="c3532" id="c3531">
+   <header>
+      <usage ms="Alb2" code="01031000">[13v] lauds-a5</usage>
+      <usage ms="Bat" code="01031000">[9v] lauds-a5</usage>
+      <usage ms="Cdm" code="01031000">[15v] lauds-a5</usage>
+      <usage ms="Ely" code="01031000">[10v] lauds-a5</usage>
+      <usage ms="Evm" code="01031000">[18r] lauds-a5</usage>
+      <usage ms="Hyd" code="01031000">[11r] lauds-a5</usage>
+      <usage ms="Mch" code="01031000">[12r] lauds-a5</usage>
+      <usage ms="Wcb" code="01031000">[47v] lauds-a5</usage>
+      <usage ms="Wor" code="01031000">[8r] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Iuste et pie vivamus exspectantes beatam spem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> et adventum domini</rdg>
+         <rdg wit="Mch"> et adventum domini alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

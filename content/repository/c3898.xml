@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3897" nextid="c3899" id="c3898">
+   <header>
+      <usage ms="Alb2" code="01048010">[22r] </usage>
+      <usage ms="Cdm" code="01048010">[20r] </usage>
+      <usage ms="Ely" code="01048010">[15v] </usage>
+      <usage ms="Evm" code="01044000">[25v] lauds gosp</usage>
+      <usage ms="Hyd" code="01048010">[15v] </usage>
+      <usage ms="Mch" code="01048000">[21v] </usage>
+      <usage ms="Pet" code="14122100">[13r] </usage>
+      <usage ms="Wcb" code="14122100">[51v] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wcb Pet"> Nolite timere
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wcb Pet"> quinta enim die</rdg>
+         <rdg wit="CAO-V"> quinta enim dies</rdg>
+         <rdg wit="CAO-M"> quinta enim die<del status="unremarkable">s</del>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L Hyd Alb2 Ely Wcb"> veniet ad vos dominus vester</rdg>
+         <rdg wit="Mch"> veniet ad vos <add place="interlined" hand="contemporary">dominus</add> deus vester</rdg>
+         <rdg wit="CAO-C CAO-G CAO-D CAO-F Evm Cdm Pet"> veniet ad nos dominus noster</rdg>
+      </app>
+   </aBody>
+</ant>

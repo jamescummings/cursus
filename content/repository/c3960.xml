@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3959" nextid="c3961" id="c3960">
+   <header>
+      <usage ms="Cdm" code="07012000">[58v] vesp2</usage>
+      <usage ms="Glo" code="07012000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-S Glo"> Nos qui vivimus
+     <app>
+         <rdg wit="CAO-E CAO-H Glo"> benedicimus domino</rdg>
+         <rdg wit="CAO-S"> benedicimus dominum</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Cdm" type="incipit"> Nos qui vivimus</aBody>
+</ant>

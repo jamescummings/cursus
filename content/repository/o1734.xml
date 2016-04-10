@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1733" nextid="o1735" id="o1734">
+   <header>
+      <usage ms="Cdm" code="01000000">[11r] </usage>
+      <usage ms="Hyd" code="01000000">[4v] </usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Cdm"> Deus qui nostra conspicis nos semper infirmitate destitui adventus tui novitate custodi</pBody>
+</prayer>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4168" nextid="c4170" id="c4169">
+   <aBody wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D"> Ora pro nobis beate Martine</rdg>
+         <rdg wit="CAO-S"> Ora pro nobis beate Paule</rdg>
+         <rdg wit="CAO-L"> Ora pro nobis beate Clemens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D"> ut digni efficiamur promissione Christi</rdg>
+         <rdg wit="CAO-C CAO-L"> ut digni efficiamur promissiones Christi</rdg>
+         <rdg wit="CAO-B CAO-S"> ut digni efficiamur promissionibus Christi</rdg>
+      </app>
+   </aBody>
+</ant>

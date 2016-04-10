@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2498" nextid="c2500" id="c2499">
+   <header>
+      <usage ms="Evm" code="01034000">[26r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="01037000">[47v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-R Evm Wcb">
+      <app>
+         <rdg wit="CAO-C Evm Wcb"> Ecce concipies in utero et paries filium</rdg>
+         <rdg wit="CAO-R"> Ecce concipies et paries filium</rdg>
+      </app> et vocabis nomen eius Jesum hic erit magnus et filius altissimi vocabitur</aBody>
+</ant>

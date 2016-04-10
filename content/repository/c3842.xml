@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3841" nextid="c3843" id="c3842">
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R"> Muneribus datis neci sunt iuvenes innocenter addicti</rdg>
+         <rdg wit="CAO-D"> Muneribus datis neci sunt iuvenes innocentes additi</rdg>
+         <rdg wit="CAO-F"> Muneribus datis neci sunt iuvenes innocentes addicti</rdg>
+         <rdg wit="CAO-S"> Muneribus datis neci sunt iuvenes innocentes adducti</rdg>
+         <rdg wit="CAO-L"> Muneribus datis neci sunt iuvenes innocenter adducti</rdg>
+      </app> quibus domini servus fuit vitae praesidium festinanter</aBody>
+</ant>

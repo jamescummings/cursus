@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1727" nextid="o1729" id="o1728">
+   <header>
+      <usage ms="Cdm" code="08012000">[82v] none</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Concede quaesumus omnipotens deus ut festa paschalia quae venerando colimus etiam vivendo teneamus</pBody>
+</prayer>

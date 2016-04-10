@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1778" nextid="o1780" id="o1779">
+   <header>
+      <usage ms="Mch" code="07058000">[148r] </usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Fulda no.623</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Mch"> Praesta quaesumus omnipotens deus ut sicut in condemnatione filii tui salus omnium fuit piaculum perfidorum ita per misericordiam tuam communis fiat iste cultus credentium</pBody>
+</prayer>

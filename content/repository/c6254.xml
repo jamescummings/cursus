@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6253" nextid="c6255" id="c6254">
+   <header>
+      <usage ms="Alb2" code="01031000">[11v] matins-n1-r2</usage>
+      <usage ms="Bat" code="01031000">[8r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="01031000">[14v] matins-n1-r2</usage>
+      <usage ms="Ely" code="01031000">[9v] matins-n1-r2</usage>
+      <usage ms="Evm" code="01031000">[16r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="01031000">[10r] matins-n1-r2</usage>
+      <usage ms="Mch" code="01031000">[10r] matins-n1-r2</usage>
+      <usage ms="Wcb" code="01031000">[46r] matins-n1-r2</usage>
+      <usage ms="Wor" code="01031000">[7r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Bethleem civitas
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> dei summi</rdg>
+         <rdg wit="Mch"> regis summi</rdg>
+      </app> ex te exiet dominator Israel et egressus eius sicut a principio dierum aeternitatis et magnificabitur in medio universae terrae et pax erit in terra nostra dum venerit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-R Mch"> Deus a Libano veniet et sanctus de monte umbroso et condenso</vBody>
+      <vBody id="c6254a-1" type="r" wit="CAO-H"> Deus a Libano veniet et sanctus de monte umbroso et condenso</vBody>
+      <rep corresp="c6254a-1" type="r" wit="CAO-H"> Et egressus</rep>
+      <vBody id="c6254a-2" type="r" num="2" wit="CAO-H"> Deus a Libano veniet et sanctus de monte umbroso et condenso</vBody>
+      <rep corresp="c6254a-2" type="r" wit="CAO-H"> Et pax</rep>
+      <vBody id="c6254a-3" type="r" num="2" wit="CAO-D"> Deus a Libano veniet et sanctus de monte umbroso et condenso</vBody>
+      <rep corresp="c6254a-3" type="r" wit="CAO-D"> Et pax</rep>
+      <vBody type="r" wit="CAO-G CAO-M"> Et tu Bethleem terra Juda nequaquam minima es in principibus Juda</vBody>
+      <vBody id="c6254a-4" type="r" wit="CAO-D"> Et tu Bethleem terra Juda nequaquam minima es in principibus Juda</vBody>
+      <rep corresp="c6254a-4" type="r" wit="CAO-D"> Ex te</rep>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat">
+         <app>
+            <rdg wit="CAO-F CAO-S CAO-L Alb2 Evm Cdm Ely Wor Wcb Bat"> Loquetur pacem gentibus</rdg>
+            <rdg wit="Hyd"> Loquetur pacem in gentibus</rdg>
+         </app> et potestas eius a mari usque ad mare</vBody>
+      <vBody id="c6254a-5" type="r" num="3" wit="CAO-D"> Loquetur pacem gentibus et potestas eius a mari usque ad mare</vBody>
+      <rep corresp="c6254a-5" type="r" wit="CAO-D"> Ex te</rep>
+      <rep type="r" wit="CAO-F CAO-S CAO-G CAO-M CAO-B CAO-E CAO-V CAO-R Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">Et pax</rep>
+      <rep type="r" wit="CAO-C"> Et egressus</rep>
+      <rep type="r" wit="CAO-L"> Dum</rep>
+   </verses>
+</res>

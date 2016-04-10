@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4230" nextid="c4231b" id="c4231">
+   <header>
+      <usage ms="Hyd" code="09021000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Pater Abraham miserere mei
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et mitte Lazarum</rdg>
+         <rdg wit="CAO-V"> et mittas Lazarum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-R CAO-S"> ut intinguat extremum digiti sui in aqua</rdg>
+         <rdg wit="CAO-B CAO-D CAO-L"> ut intingat extremum digiti sui in aquam</rdg>
+         <rdg wit="CAO-H CAO-F Hyd"> ut intinguat extremum digiti sui in aquam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-H CAO-R CAO-D CAO-S Hyd"> ut refrigeret linguam meam</rdg>
+         <rdg wit="CAO-C CAO-L"> et refrigeret lingua mea</rdg>
+         <rdg wit="CAO-F"> et refrigeret linguam meam</rdg>
+         <rdg wit="CAO-B"> ut refrigerer linguam meam</rdg>
+         <rdg wit="CAO-M CAO-V"> ut refrigeret lingua mea</rdg>
+      </app>
+   </aBody>
+</ant>

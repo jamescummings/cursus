@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1524" nextid="o1526" id="o1525">
+   <header>
+      <usage ms="Alb2" code="07023000"/>
+      <usage ms="Bat" code="07023000">[53r] vesp2</usage>
+      <usage ms="Cdm" code="07023000">[62v] vesp2</usage>
+      <usage ms="Cht" code="07023000"/>
+      <usage ms="Ely" code="07023000"/>
+      <usage ms="Evm" code="07023000"/>
+      <usage ms="Hyd" code="07023000"/>
+      <usage ms="Mch" code="07023000">[125v] vesp2</usage>
+      <usage ms="Wcb" code="07023000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.212</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">Propitiare domine supplicationibus nostris et animarum nostrarum medere languoribus ut remissione percepta in tua semper benedictione laetemur</pBody>
+</prayer>

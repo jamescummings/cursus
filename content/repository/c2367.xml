@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2366" nextid="c2368" id="c2367">
+   <header>
+      <usage ms="Hyd" code="01015000">[6v] vesp2-a1</usage>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-S CAO-L Hyd"> Domine probasti me et cognovisti me</aBody>
+</ant>

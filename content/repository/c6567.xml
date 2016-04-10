@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6566" nextid="c6568" id="c6567">
+   <rBody wit="CAO-D CAO-F CAO-L"> Dum vero adhuc penderet ad ubera matris o nova res quarta feria
+      <app>
+         <rdg wit="CAO-D CAO-F"> et sexta</rdg>
+         <rdg wit="CAO-L"> vel sexta</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F"> semel in die papillas</rdg>
+         <rdg wit="CAO-L"> semel in die nonae horae papillam</rdg>
+      </app> bibebat</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-L"> Iam quodammodo sacri ieiunii se futurum praesignans amatorem Nicolaus</vBody>
+      <rep type="r" wit="CAO-D CAO-F"> O nova (DF)</rep>
+      <rep type="r" wit="CAO-L"> Quarta</rep>
+   </verses>
+</res>

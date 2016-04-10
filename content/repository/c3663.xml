@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3662" nextid="c3664" id="c3663">
+   <header>
+      <usage ms="Hyd" code="08031000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-E Hyd"> Magna et mirabilia opera tua domine deus omnipotens iustae et verae viae tuae rex saeculorum quis non timebit te domine et magnificabit nomen tuum
+     <app>
+         <rdg wit="CAO-E"> quia solus pius</rdg>
+         <rdg wit="Hyd"> quia solus pius es</rdg>
+      </app> quoniam omnes gentes venient et adorabunt in conspectu tuo quoniam iudicia tua iusta sunt alleluia</aBody>
+</ant>

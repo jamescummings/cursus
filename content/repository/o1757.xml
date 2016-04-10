@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1756" nextid="o1758" id="o1757">
+   <header>
+      <usage ms="Evm" code="02010200">[62r] matins</usage>
+      <usage ms="Wcb" code="02122600">[60r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.65</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Wcb"> Omnipotens sempiterne deus qui primitias martyrum in beati levite Stephani sanguine dedicasti tribue quaesumus ut pro nobis intercessor existat qui pro suis etiam persecutoribus exoravit</pBody>
+</prayer>

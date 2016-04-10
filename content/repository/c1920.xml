@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1919" nextid="c1921" id="c1920">
+   <header>
+      <usage ms="Alb2" code="01035000">[16r] lauds-a3</usage>
+      <usage ms="Bat" code="01035000">[11r] lauds-a3</usage>
+      <usage ms="Cdm" code="01035000">[16v] lauds-a3</usage>
+      <usage ms="Ely" code="01035000">[12v] lauds-a3</usage>
+      <usage ms="Evm" code="01035000">[26r] lauds-a3</usage>
+      <usage ms="Evm" code="01035009">[20r] lauds-a3</usage>
+      <usage ms="Evm" code="01045000">[25v] lauds-a3</usage>
+      <usage ms="Hyd" code="01035000">[12v] lauds-a3</usage>
+      <usage ms="Mch" code="01035000">[14r] lauds-a3</usage>
+      <usage ms="Wcb" code="01043000">[50r] lauds-a3</usage>
+      <usage ms="Wor" code="01035000">[9v] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Convertere domine aliquantulum</rdg>
+         <rdg wit="CAO-D"> Convertere dominus aliquantulum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Ely Wor Wcb Bat"> et ne tardes venire</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-R Cdm"> et ne tardas venire</rdg>
+      </app> ad servos tuos</aBody>
+</ant>

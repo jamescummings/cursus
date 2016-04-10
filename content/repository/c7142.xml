@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7141" nextid="c7143" id="c7142">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Memento mei deus
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F"> in bono</rdg>
+         <rdg wit="CAO-G CAO-E CAO-L"> in bonum</rdg>
+      </app> et ne deleas miserationes meas quas feci in domo
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> dei mei</rdg>
+         <rdg wit="CAO-G"> dei</rdg>
+      </app> et
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> in caerimoniis</rdg>
+         <rdg wit="CAO-C"> in ceremoniis</rdg>
+      </app> eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> Memento verbi tui servo tuo
+       <app>
+            <rdg wit="CAO-E CAO-V CAO-D CAO-F"> domine</rdg>
+            <rdg wit="CAO-G CAO-H CAO-R" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> in quo mihi spem dedisti</vBody>
+      <vBody id="c7142-1" type="r" wit="CAO-C"> Memento verbi tui servo tuo domine in quo mihi spem dedisti</vBody>
+      <rep corresp="c7142-1" type="r" wit="CAO-C">In domo</rep>
+      <vBody type="r" wit="CAO-L"> Recordare mei domine Deus meus</vBody>
+      <vBody id="c7142-2" type="r" num="2" wit="CAO-C"> Recordare mei domine Deus meus</vBody>
+      <rep corresp="c7142-2" type="r" wit="CAO-C"/>
+      <rep type="r" wit="CAO-G CAO-E CAO-V CAO-H CAO-R">In domo</rep>
+      <rep type="r" wit="CAO-D CAO-F CAO-L">Et ne (DF)</rep>
+   </verses>
+</res>

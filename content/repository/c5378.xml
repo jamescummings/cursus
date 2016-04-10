@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5377" nextid="c5379" id="c5378">
+   <header>
+      <usage ms="Alb2" code="07051000">[100r] lauds-a2</usage>
+      <usage ms="Bat" code="07051000">[59v] lauds-a1</usage>
+      <usage ms="Cdm" code="07051000">[71v] lauds-a1</usage>
+      <usage ms="Cht" code="07051000">[48v] lauds</usage>
+      <usage ms="Ely" code="07051000">[82r] lauds</usage>
+      <usage ms="Evm" code="07051000">[136r] lauds</usage>
+      <usage ms="Hyd" code="07051000">[87r] lauds</usage>
+      <usage ms="Mch" code="07051000">[146v] lauds-a1</usage>
+      <usage ms="Pet" code="07051000">[81r] lauds-a2</usage>
+      <usage ms="Wcb" code="07051000">[108v] lauds</usage>
+      <usage ms="Wor" code="07051000">[54r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Evm Wcb Alb2 Cdm Mch Bat"> Vide domine afflictionem meam</rdg>
+         <rdg wit="Pet">
+            <corr sic="Vidi" resp="DC">Vide</corr> domine afflictionem meam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Evm Wcb Alb2 Mch"> quoniam erectus est inimicus meus</rdg>
+         <rdg wit="Ely"> quoniam contritus est inimicus meus</rdg>
+         <rdg wit="Wor Cht Hyd Pet Cdm"> quoniam contrarius est inimicus meus</rdg>
+         <rdg wit="Bat"> quia contrarius est inimicus meus</rdg>
+      </app>
+   </aBody>
+</ant>

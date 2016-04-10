@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3430" nextid="c3432" id="c3431">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D"> Iste puer magnus coram domino
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D"> nam et manus eius</rdg>
+         <rdg wit="CAO-C"> nam et manu eius</rdg>
+      </app> cum ipso est</aBody>
+</ant>

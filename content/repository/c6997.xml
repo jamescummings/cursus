@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6996" nextid="c6998" id="c6997">
+   <header>
+      <usage ms="Glo" code="14031200"/>
+   </header>
+   <rBody wit="CAO-D Glo">
+      <app>
+         <rdg wit="CAO-D"> Iste est de prioribus theologis unus</rdg>
+         <rdg wit="Glo"> Iste est de primoribus theologis unus</rdg>
+      </app> Gregorius papa inclytus Romulea urbe editus cuius doctrina fulget ecclesia ut sol et luna</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D Glo">
+         <app>
+            <rdg wit="CAO-D"> Iste est Gregorius praesul</rdg>
+            <rdg wit="Glo"> Hic est Gregorius praesul</rdg>
+         </app> meritis et nomine dignus</vBody>
+      <rep type="r" wit="CAO-D Glo">Cuius</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

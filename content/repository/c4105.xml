@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4104" nextid="c4106" id="c4105">
+   <header>
+      <usage ms="Alb2" code="02122700">[34r] matins-n1-a6</usage>
+      <usage ms="Bat" code="02122700">[20v] matins-n1-a6</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins-n1-a6</usage>
+      <usage ms="Evm" code="02122700">[42v] matins-n1-a6</usage>
+      <usage ms="Hyd" code="02122700">[23r] matins-n1-a6</usage>
+      <usage ms="Pet" code="02122700">[25r] matins-n1-a6</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins-n1-a6</usage>
+      <usage ms="Wor" code="02122700">[19v] matins-n1-a6</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Occurrit beato Joanni ab exsilio
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> revertenti</rdg>
+         <rdg wit="CAO-V"> revertendi</rdg>
+      </app> omnis populus virorum ac mulierum clamantium et dicentium benedictus qui venit in nomine domini</aBody>
+</ant>

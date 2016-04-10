@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7470" nextid="c7472" id="c7471">
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Qui caelorum continues thronos et abyssos intueris domine rex regum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> montes ponderas</rdg>
+         <rdg wit="CAO-V"> montes pondera</rdg>
+         <rdg wit="CAO-L"> montes ponderam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> terram palmo concludis</rdg>
+         <rdg wit="CAO-E"> terra palmo concludis</rdg>
+         <rdg wit="CAO-V"> terram palmo concludit</rdg>
+      </app> exaudi nos deus in gemitibus nostris</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-G CAO-R CAO-D CAO-F CAO-S CAO-L"> Non enim in iustificationibus nostris</rdg>
+            <rdg wit="CAO-H"> Non in iustificationibus nostris</rdg>
+            <rdg wit="CAO-V"> Non enim iustificationibus nostris</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> prosternimus preces</rdg>
+            <rdg wit="CAO-V"> prosternimus</rdg>
+         </app> ante faciem tuam sed in miserationibus tuis multis</vBody>
+      <vBody type="r" num="2" wit="CAO-H"> Qui regis Israel intende</vBody>
+      <vBody type="r" wit="CAO-M"> Qui regis</vBody>
+      <vBody type="r" wit="CAO-B CAO-E"> Qui regis Israel</vBody>
+      <vBody type="r" num="2" wit="CAO-V"> Domine deus magne et mirabilis custodiens pactum et misericordiam diligentibus te Exaudi</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Exaudi</rep>
+   </verses>
+</res>

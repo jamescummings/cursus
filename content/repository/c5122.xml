@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5121" nextid="c5123" id="c5122">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+      <usage ms="Alb2" code="02011300"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Te qui in spiritu et igne
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Pet"> purificas humana contagia</rdg>
+         <rdg wit="CAO-C CAO-B CAO-S Hyd"> purificans humana contagia</rdg>
+         <rdg wit="CAO-L"> purificat humana contagia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-F CAO-L Alb2 Pet"> deum et redemptorem</rdg>
+         <rdg wit="Hyd"> deum et redemptorem nostrum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-S"> deum ac redemptorem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-S Alb2 Hyd"> omnes glorificamus</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-L"> omnes glorificemus</rdg>
+         <rdg wit="CAO-D CAO-F Pet"> omnes glorificamur</rdg>
+      </app>
+   </aBody>
+</ant>

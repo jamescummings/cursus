@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6692" nextid="c6694" id="c6693">
+   <header>
+      <usage ms="Cdm" code="02122600">[24v] matins-n2-r5</usage>
+      <usage ms="Hyd" code="02122600">[22v] matins-n2-r5</usage>
+      <usage ms="Pet" code="02122600">[21v] matins-n1-r4</usage>
+      <usage ms="Wor" code="02122600">[17v] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-R CAO-D Hyd Cdm Wor Pet"> Exclamantes autem Judaei voce magna continuerunt aures suas et eiicientes beatum Stephanum extra civitatem lapidabant</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D Cdm Hyd Wor Pet"> Et testes deposuerunt vestimenta sua secus pedes adolescentis qui vocabatur Saulus</vBody>
+      <rep type="r" wit="CAO-R CAO-D Cdm Wor Pet"> Et eiicientes</rep>
+   </verses>
+</res>

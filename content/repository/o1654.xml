@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1653" nextid="o1655" id="o1654">
+   <header>
+      <usage ms="Cdm" code="07016000">[60r] vesp2</usage>
+      <usage ms="Hyd" code="05022000"/>
+      <usage ms="Mch" code="07016000">[120v] vesp2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.191</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Cdm Mch"> Exaudi nos misericors deus et mentibus nostris gratiae tuae lumen ostende</pBody>
+</prayer>

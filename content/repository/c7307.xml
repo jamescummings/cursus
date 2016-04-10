@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7306" nextid="c7308" id="c7307">
+   <rBody wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> Obtulerunt pro eo domino par turturum
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S"> aut</rdg>
+         <rdg wit="CAO-L"> et</rdg>
+      </app> duos pullos columbarum sicut scriptum est in lege domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-R CAO-D"> Postquam impleti sunt dies purgationis Mariae tulerunt
+      <app>
+            <rdg wit="CAO-V CAO-R"> illum</rdg>
+            <rdg wit="CAO-D"> Jesum</rdg>
+         </app> in Jerusalem ut sisterent eum domino</vBody>
+      <vBody type="r" wit="CAO-F CAO-S"> Postquam impleti sunt dies purgationis Mariae secundum legem Moysi tulerunt
+      <app>
+            <rdg wit="CAO-S"> illum</rdg>
+            <rdg wit="CAO-F"> Jesum</rdg>
+         </app> in Jerusalem ut sisterent domino</vBody>
+      <vBody type="r" wit="CAO-L"> Postquam impleti sunt dies purgationis eius secundum legem Moysi tulerunt illum in Jerusalem</vBody>
+      <vBody type="r" wit="CAO-E"> Postquam impleti sunt dies purgationis eius ut faceret legis pro eo</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L">Sicut</rep>
+   </verses>
+</res>

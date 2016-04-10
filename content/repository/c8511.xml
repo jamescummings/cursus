@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8510" nextid="c8512" id="c8511">
+   <header>
+      <usage ms="Mch" code="07033000">[134r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07033000"/>
+      <usage ms="Wor" code="07033000"/>
+   </header>
+   <aBody wit="Wor Pet Mch"> Accedens Petrus ad Jesum dixit domine si peccaverit in me frater meus et dimittam ei usque septies
+     <app>
+         <rdg wit="Wor Mch"> dicit illi Jesus</rdg>
+         <rdg wit="Pet"> dixit illi Jesus</rdg>
+      </app> non dico tibi usque septies sed usque septuagies septies</aBody>
+</ant>

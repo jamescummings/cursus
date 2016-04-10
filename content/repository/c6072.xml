@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6071" nextid="c6073" id="c6072">
+   <header>
+      <usage ms="Mch" code="06011000">[98v] vesp1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-V CAO-S Mch"> Alleluia fac cum servo tuo
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V Mch"> secundum mirabilia tua</rdg>
+         <rdg wit="CAO-S"> secundum misericordiam tuam</rdg>
+      </app> alleluia alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-V CAO-S Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-V">Servus tuus ego sum</rdg>
+            <rdg wit="CAO-E CAO-S Mch"> Servus tuus sum ego</rdg>
+         </app> da mihi intellectum
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-V CAO-S Mch"> ut discam mandata tua</rdg>
+            <rdg wit="CAO-E"> ut discam testimonia tua</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-V CAO-S">Alleluia</rep>
+   </verses>
+</res>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7820" nextid="c7822" id="c7821">
+   <header>
+      <usage ms="Alb2" code="07066000">[109v] matins-n1-r2</usage>
+      <usage ms="Cdm" code="07066000">[79v] matins-n3-r8</usage>
+      <usage ms="Cht" code="07066000">[63r] matins-n3-r8</usage>
+      <usage ms="Ely" code="07066000">[90v] matins-n3-r8</usage>
+      <usage ms="Evm" code="07066000">[152r] matins-n3-r8</usage>
+      <usage ms="Hyd" code="07065000">[95v] matins-n3-r9</usage>
+      <usage ms="Mch" code="07066000">[160v] matins-n1-r2</usage>
+      <usage ms="Pet" code="07066000">[92v] matins-n3-r8</usage>
+      <usage ms="Wcb" code="07066000">[117r] matins-n3-r8</usage>
+      <usage ms="Wor" code="07066000">[61v] matins-n3-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Velum templi scissum est
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> et omnis terra tremuit</rdg>
+         <rdg wit="Ely"> et omnis terra contremuit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> latro de cruce clamabat</rdg>
+         <rdg wit="CAO-C Evm Wcb"> latro de cruce clamavit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm"> dicens memento mei domine</rdg>
+         <rdg wit="Mch"> dicens memento mei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Evm Wcb Alb2 Mch"> dum veneris in regnum tuum</rdg>
+         <rdg wit="CAO-L Pet Cdm"> cum veneris in regnum tuum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M"> Ait latro ad latronem nos quidem digna factis recipimus hic autem quid fecit</vBody>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Alb2 Cdm Mch"> Amen dico tibi hodie mecum eris
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Ely Wor Hyd Pet Alb2 Cdm Mch"> in paradiso</rdg>
+            <rdg wit="CAO-S"> in paradisum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L Cht Evm Wcb"> Petrae scissae sunt et monumenta aperta sunt et multa corpora sanctorum
+      <app>
+            <rdg wit="CAO-L"> qui dormierunt</rdg>
+            <rdg wit="Cht Evm Wcb"> qui dormierant</rdg>
+         </app> surrexerunt</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Pet Alb2 Cdm Mch">Memento</rep>
+      <rep type="r" wit="Hyd">
+         <rubric type="respond">R.</rubric> Velum templi</rep>
+      <rep type="r" wit="CAO-C CAO-G Cht Evm Wcb">Latro</rep>
+   </verses>
+</res>

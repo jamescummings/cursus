@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<samples name="CURSUS Project">
+<group name="CURSUS Manuscript Editions">
+<note>Editions of the liturgical manuscripts edited by the CURSUS project.  Not all 
+of these are complete, and more editions will be forthcoming.  The three letter sigil 
+used in the critical editions of antiphons, responds, and prayers is shown in parentheses 
+following the manuscript name.  (e.g. Cht = Chertsey)
+</note>
+<sample href="/ms/chertsey" name="The Chertsey Breviary">The Chertsey Breviary (Cht). Oxford, Bodleian Library Mss lat. liturg. e6, e37, e39 and d42.  </sample>
+<sample href="/ms/ely" name="The Ely Breviary-Missal">The Ely Breviary-Missal (Ely).  Cambridge, University Library Ms Ii.4.20.  </sample>
+<sample href="/ms/evesham" name="The Evesham Breviary">The Evesham Breviary (Evm). Oxford, Bodleian Library Ms Barlow 41.</sample>
+<sample href="/ms/gloucester" name="The Gloucester Diurnal">The Gloucester Diurnal (Glo). Oxford, Bodleian Library MS Jesus College 10.</sample> 
+<sample href="/ms/hyde" name="The Hyde Breviary">The Hyde Breviary (Hyd). Oxford, Bodleian Library Ms Rawl.liturg. e.1*.</sample>
+<sample href="/ms/peterborough" name="The Peterborough Antiphoner">The Peterborough Antiphoner (Pet). Cambridge, Magdalene College Ms F.4.10.</sample>
+<sample href="/ms/winchcombe" name="The Winchcombe Breviary-Missal"> The Winchcombe Breviary-Missal (Wcb).  Valenciennes, Bibl.Mun. Ms 116.</sample>
+<sample href="/ms/worcester" name="The Worcester Antiphoner"> The Worcester Antiphoner (Wor). Worcester Cathedral Library Ms F. 160.  </sample>
+</group>
+
+<group name="CURSUS Repository of Antiphons, Responds and Prayers">
+<note>This section contains allows you to access both the 
+critical editions and individual readings for most CAO 
+Antiphons and Responds, as well as those that appear in 
+the (sections of) manuscripts edited by CURSUS.
+</note>
+<sample>
+If you know the <b>CURSUS ID number</b> of an antiphon respond or prayer
+you may enter it here to view a critical edition. (antiphon and 
+respond ID numbers start with the letter 'c', prayers with the letter 'o')
+If you don't know the ID number of an antiphon, respond or prayer 
+you are interested in, you should look in the 
+<a href="/incipits/list">incipit list</a> or 
+find the item in the manuscript editions.
+<form action="/ed-form"> 
+<span style="font-weight:bold">ID number:</span> <input width="10" name="id"/>
+<input type="submit" />
+</form>
+</sample>
+</group>
+<group name="CURSUS Incipit List">
+<note>An <a href="/incipits/list">incipit list</a> of all antiphons, responds and prayers found in the 
+CURSUS repository is available.  This is divided by these three categories, 
+and then alphabetically by first letter (or lacuna).  One incipit is provided 
+for each antiphon, respond and prayer, with additional ones for any variant readings 
+within the first 10 words.
+</note>
+<sample name="CURSUS Incipit List" href="/incipits/list">Click for access to CURSUS incipits of 
+antiphons, responds and prayers organised alphabetically by first letter.</sample>
+ </group>
+
+
+</samples>

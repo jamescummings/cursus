@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2267" nextid="c2269" id="c2268">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dixit angelus ad Petrum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> circumda te vestimentum tuum et sequere me</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> circumda tibi vestimentum tuum et sequere me</rdg>
+         <rdg wit="CAO-C"> circumda tibi vestimentis tuis et sequere me</rdg>
+      </app>
+   </aBody>
+</ant>

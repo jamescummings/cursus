@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5215" nextid="c5217" id="c5216">
+   <header>
+      <usage ms="Alb2" code="02122600">[31v] matins-n2-a10</usage>
+      <usage ms="Bat" code="02122500">[18v] vesp2 commemoration</usage>
+      <usage ms="Cdm" code="02122600">[24v] matins-n2-a11</usage>
+      <usage ms="Evm" code="02122500">[38r] commemoratio</usage>
+      <usage ms="Hyd" code="02010100">commemoratio</usage>
+      <usage ms="Pet" code="02122600">[22r] matins-n2-a10</usage>
+      <usage ms="Wcb" code="02122500">[58r] vesp2 commemoratio</usage>
+      <usage ms="Wor" code="02122600">[17v] matins-n2-a10</usage>
+   </header>
+   <aBody wit="CAO-E CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Tu principatum tenes in choro martyrum similis angelo qui pro te lapidantibus deum deprecatus es beate Stephane intercede pro nobis ad dominum</aBody>
+</ant>

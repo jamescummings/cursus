@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2585" nextid="c2587" id="c2586">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S"> Ego si patibulum crucis expavescerem</rdg>
+         <rdg wit="CAO-V CAO-L"> Ego si patibulum crucis expavescere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> crucis gloriam non praedicarem</rdg>
+         <rdg wit="CAO-C"> crucis gloriae non praedicarem</rdg>
+         <rdg wit="CAO-L"> crucis gloriam non praedicare</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7173" nextid="c7175" id="c7174">
+   <rBody wit="CAO-E CAO-M CAO-V">
+      <app>
+         <rdg wit="CAO-E"> Mons Ethneus</rdg>
+         <rdg wit="CAO-M"> Mons Etneus</rdg>
+         <rdg wit="CAO-V"> Mons Etheus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M"> eructabat</rdg>
+         <rdg wit="CAO-V"> eructavit</rdg>
+      </app> incendium
+      <app>
+         <rdg wit="CAO-E CAO-V"> et veniebant</rdg>
+         <rdg wit="CAO-M"> et veniebat</rdg>
+      </app> ad Cathanensium civitatem ut comprobaret
+      <app>
+         <rdg wit="CAO-E CAO-V"> dominus</rdg>
+         <rdg wit="CAO-M"> dominum</rdg>
+      </app> quod a periculis
+      <app>
+         <rdg wit="CAO-E CAO-M"> incendii</rdg>
+         <rdg wit="CAO-V"> incendiis</rdg>
+      </app> meritis Agathae martyris suae eos liberaret</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V"> At illi impetum facientes
+       <app>
+            <rdg wit="CAO-E CAO-V"> venerunt</rdg>
+            <rdg wit="CAO-M"> veniebant</rdg>
+         </app> ad sepulcrum beatae Agathae tulerunt velum eius et
+       <app>
+            <rdg wit="CAO-E CAO-V"> statuerunt illud</rdg>
+            <rdg wit="CAO-M"> statuerunt</rdg>
+         </app> contra ignem</vBody>
+      <rep type="r" wit="CAO-E CAO-M">Ut</rep>
+      <rep type="r" wit="CAO-V">Meritis</rep>
+   </verses>
+</res>

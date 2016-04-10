@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3799" nextid="c3801" id="c3800">
+   <header>
+      <usage ms="Hyd" code="08014000">[103v] terce-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> Mittite in dexteram navigii rete</rdg>
+         <rdg wit="CAO-D"> Mitte in dexteram navigii rete</rdg>
+      </app> et invenietis alleluia</aBody>
+</ant>

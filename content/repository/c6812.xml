@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6811" nextid="c6813" id="c6812">
+   <rBody wit="CAO-V CAO-S"> Hi empti sunt ex omnibus primitiae deo et agno et in ore eorum non est
+      <app>
+         <rdg wit="CAO-S"> inventum</rdg>
+         <rdg wit="CAO-V"> inventu</rdg>
+      </app> mendacium sine macula sunt ante thronum dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-S"> Hi sunt qui cum mulieribus non sunt coinquinati virgines enim sunt
+       <app>
+            <rdg wit="CAO-V"> et sequuntur agnum <corr sic="quodcumque" resp="Hesbert">quocumque</corr> ierit</rdg>
+            <rdg wit="CAO-S" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-V CAO-S"> Sine macula</rep>
+   </verses>
+</res>

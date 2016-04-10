@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4695" nextid="c4697" id="c4696">
+   <header>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-L Hyd"> Sana domine animam meam</rdg>
+         <rdg wit="CAO-S"> Sana domine anima mea</rdg>
+      </app> quia peccavi tibi</aBody>
+   <aBody wit="CAO-S" num="2"> Sana domine anima mea quia peccavit tibi</aBody>
+</ant>

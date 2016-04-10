@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6585" nextid="c6587" id="c6586">
+   <header>
+      <usage ms="Alb2" code="01021000">[7v] matins-n1-r2</usage>
+      <usage ms="Bat" code="01021000">[6r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="01021000">[12r] matins-n1-r2</usage>
+      <usage ms="Ely" code="01021000">[7r] matins-n1-r3</usage>
+      <usage ms="Evm" code="01021000">[13r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="01021000">[7r] matins-n1-r3</usage>
+      <usage ms="Mch" code="01021000">[6v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="01021000">[44r] matins-n1-r2</usage>
+      <usage ms="Wor" code="01021000">[5r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Ecce dominus veniet et omnes sancti eius cum eo et erit in die illa lux magna et exibunt de Jerusalem sicut aqua munda
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> et regnabit dominus</rdg>
+         <rdg wit="CAO-C CAO-S"> et regnavit dominus</rdg>
+      </app> in aeternum super omnes gentes</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R Evm Wcb"> A solis ortu et occasu ab Aquilone et mari</vBody>
+      <vBody type="r" wit="CAO-G CAO-B CAO-D CAO-F CAO-S Hyd Alb2 Mch Cdm Ely Wor Bat">
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-S Hyd Alb2 Mch Cdm Ely Wor Bat"> Ecce cum virtute</rdg>
+            <rdg wit="CAO-B"> Ecce dominus cum virtute</rdg>
+         </app> veniet et regnum in manu eius et potestas et imperium</vBody>
+      <vBody type="r" wit="CAO-V"> Et dominabitur a mari usque ad mare et a flumine usque ad terminos orbis terrae</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Et regnabit</rep>
+   </verses>
+</res>

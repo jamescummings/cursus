@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3964" nextid="c3966" id="c3965">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Novit dominus viam iustorum qui in lege eius
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L"> meditantur die ac nocte</rdg>
+         <rdg wit="CAO-F"> meditentur die ac nocte</rdg>
+      </app>
+   </aBody>
+</ant>

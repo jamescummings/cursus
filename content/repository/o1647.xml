@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1646" nextid="o1648" id="o1647">
+   <header>
+      <usage ms="Hyd" code="02010608"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no._57_</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd">Inlumina quaesumus domine populum tuum et splendore gratiae tuae cor eius accende ut salvatorem suum et incessanter agnoscat et veraciter apprehendat dominum nostrum Jesum Christum filium tuum</pBody>
+</prayer>

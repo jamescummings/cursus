@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1761" nextid="c1763" id="c1762">
+   <header>
+      <usage ms="Hyd" code="01014000">[6r] lauds-a5</usage>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-G CAO-H CAO-L Hyd"> Cantate domino canticum novum</aBody>
+</ant>

@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>CURSUS and EMACS</title>
+</head>
+<body>
+<h1><span class="project_name">CURSUS</span> and <span class="acronym">EMACS</span></h1>
+
+<p>Much of the development work on the 
+<span class="project_name">CURSUS</span> project 
+has been done with the <span class="acronym">EMACS</span> 
+programmers' editor.  
+<span class="acronym">EMACS</span>, 
+a long-standing <span class="acronym">UNIX</span> tool 
+<a href="http://www.gnu.org/software/emacs/emacs.html">
+<span class="acronym">EMACS</span></a>, 
+also ported to several other platforms, offers the 
+possibility of a high level of customised extension.  
+Running in <a href="http://sourceforge.net/projects/psgml/">psgml mode</a> 
+it is widely used for editing <span class="acronym">SGML</span> 
+and <span class="acronym">XML</span> files.  A version of 
+<span class="acronym">EMACS</span> specially prepared 
+for working with <span class="acronym">TEI</span>-encoded 
+<span class="acronym">XML</span> is among the tools available 
+from <a href="http://www.tei-c.org/">the <span class="acronym">TEI</span> 
+website</a>.  
+</p>
+
+<h3><span class="project_name">CURSUS</span> customisation</h3>
+
+<p>The <span class="project_name">CURSUS</span> project has developed a set of project-specific tools, written in elisp, for use with the <span class="acronym">EMACS</span> editor running in psgml mode.  These include an extensive set of short-cuts for inserting templates of frequently-used component elements, routines to automate the insertion of cross-references between the project files, and various specific validity-checking devices beyond the generalised ones included with psgml.</p>
+<p>The file of <span class="project_name">CURSUS</span> elisp, together with a manual (in <span class="acronym">PDF</span> format) is available for downloading as a zipped directory from <a href="/downloads">the project download site</a>.  Directions for installation are included in the manual.</p>
+<h3><span class="acronym">EMACS</span> in nxml mode</h3>
+
+<p>The utility of <span class="acronym">EMACS</span> for <span class="acronym">XML</span> editing has recently (October 2003) been greatly increased by the release of James Clark's <a href="http://www.thaiopensource.com/nxml-mode/">nxml mode</a>, which enables the <span class="acronym">XML</span> files to be written against schemas rather than <span class="acronym">DTD</span>s.  The <span class="project_name">CURSUS</span> tools have been written for <span class="acronym">EMACS</span> running in psgml mode, and will (for the most part) not as yet work with Clark's nxml mode.  We plan in due course to rewrite the elisp to enable cooperation with nxml mode.</p>
+</body>
+</html>

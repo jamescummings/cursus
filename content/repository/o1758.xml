@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1757" nextid="o1759" id="o1758">
+   <header>
+      <usage ms="Evm" code="02010300">[63r] vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.72</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm"> Sit domine quaesumus beatus Joannes evangelista nostrae fragilitatis adiutor et pro nobis tibi supplicans copiosus audiatur</pBody>
+</prayer>

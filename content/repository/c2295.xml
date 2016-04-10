@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2294" nextid="c2296" id="c2295">
+   <header>
+      <usage ms="Cht" code="06035000"/>
+      <usage ms="Pet" code="05041000"/>
+   </header>
+   <aBody wit="CAO-D Cht Pet"> Dixit Jesus centurioni vade et sicut credidisti
+     <app>
+         <rdg wit="CAO-D Pet"> fiat tibi alleluia</rdg>
+         <rdg wit="Cht"> fiat tibi</rdg>
+      </app>
+   </aBody>
+</ant>

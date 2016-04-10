@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8606" nextid="c8608" id="c8607">
+   <header>
+      <usage ms="Mch" code="01033000">[13r] lauds-a3</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Related textually to c1074, c2542, c2543, c2552</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Mch"> Ecce rex venit dominus terrae et ipse renovabit Jerusalem alleluia</aBody>
+</ant>

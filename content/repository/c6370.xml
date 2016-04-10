@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6369" nextid="c6371" id="c6370">
+   <rBody wit="CAO-E CAO-F"> Cum iucunditate
+      <app>
+         <rdg wit="CAO-F"> celebremus nativitatem beatae virginis Mariae</rdg>
+         <rdg wit="CAO-E"> nativitatem beatae Mariae celebremus</rdg>
+      </app> ut ipsa pro nobis intercedat ad dominum Jesum Christum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F">
+         <app>
+            <rdg wit="CAO-E"> Gloriosae virginis Mariae</rdg>
+            <rdg wit="CAO-F"> Beatissimae virginis Mariae</rdg>
+         </app> nativitatem devotissime celebremus</vBody>
+      <rep type="r" wit="CAO-E CAO-F"> Ut ipsa</rep>
+   </verses>
+</res>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5255" nextid="c5257" id="c5256">
+   <header>
+      <usage ms="Alb2" code="07061000">[105v] lauds</usage>
+      <usage ms="Bat" code="07061000">[63r] lauds gosp</usage>
+      <usage ms="Cdm" code="07061000">[75r] lauds gosp</usage>
+      <usage ms="Ely" code="07061000">[86r] lauds</usage>
+      <usage ms="Evm" code="07061000">[143v] lauds</usage>
+      <usage ms="Hyd" code="07061000">[91v] lauds</usage>
+      <usage ms="Mch" code="07061000">[154v] lauds gosp</usage>
+      <usage ms="Pet" code="07061000">[85v] lauds</usage>
+      <usage ms="Wcb" code="07061000">[112v] lauds</usage>
+      <usage ms="Wor" code="07061000">[56v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Turba multa quae convenerat ad diem festum</rdg>
+         <rdg wit="CAO-L"> Turba multa quae convenerant ad diem festum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Alb2 Cdm Mch Bat">clamabat</rdg>
+         <rdg wit="CAO-V CAO-L Wcb">clamabant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D CAO-S Ely Wor Pet Evm Alb2 Cdm Bat">domino</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-F Hyd Mch">dominum</rdg>
+         <rdg wit="CAO-L">dominus</rdg>
+         <rdg wit="Wcb"> dicentes</rdg>
+      </app> benedictus qui venit in nomine domini hosanna in excelsis</aBody>
+</ant>

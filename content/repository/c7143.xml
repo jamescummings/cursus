@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7142" nextid="c7144" id="c7143">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Memento mei deus quia ventus est vita mea
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-H CAO-S"> nec aspiciat</rdg>
+         <rdg wit="CAO-V"> non aspicias</rdg>
+         <rdg wit="CAO-M CAO-R CAO-D CAO-F Hyd"> nec aspiciet</rdg>
+         <rdg wit="CAO-E CAO-L"> nec aspicies</rdg>
+      </app> me visus hominis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R"> De profundis clamavi ad te domine
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R"> domine</rdg>
+            <rdg wit="CAO-E"> domine domine</rdg>
+         </app> exaudi vocem meam</vBody>
+      <vBody type="r" wit="CAO-M"> De profundis clamavi</vBody>
+      <vBody type="r" wit="CAO-G CAO-E CAO-F CAO-S"> Cutis mea aruit et contracta est et non revertetur oculus meus ut videat bona</vBody>
+      <vBody type="r" wit="CAO-D Hyd"> Et non revertetur oculus meus ut videat bona</vBody>
+      <vBody type="r" wit="CAO-L"> Quapropter non parcam ori meo loquar in amaritudine animae meae</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Nec</rep>
+      <rep type="r" wit="CAO-V">Non</rep>
+   </verses>
+</res>

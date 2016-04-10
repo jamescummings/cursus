@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1893" nextid="c1895" id="c1894">
+   <header>
+      <usage ms="Alb2" code="07064000">[107r] lauds gosp</usage>
+      <usage ms="Cdm" code="07064000">[77r] lauds-a3</usage>
+      <usage ms="Cht" code="07063000">[58v] nones</usage>
+      <usage ms="Ely" code="07063000">[87v] nones-a1</usage>
+      <usage ms="Evm" code="07063000">[146r] nones</usage>
+      <usage ms="Glo" code="07063000">[78r] nones</usage>
+      <usage ms="Hyd" code="07063000">[92v] prime</usage>
+      <usage ms="Pet" code="07064000">[87v] sext</usage>
+      <usage ms="Wcb" code="07063000">[114r] nones</usage>
+      <usage ms="Wor" code="07063000">[57v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F Ely Wor Hyd Pet Evm Wcb Glo Alb2">Consilium fecerunt inimici mei</rdg>
+         <rdg wit="CAO-L Cht Cdm">Concilium fecerunt inimici mei</rdg>
+      </app> dicentes conteramus eum de terra viventium</aBody>
+</ant>

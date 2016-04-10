@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1790" nextid="o1792" id="o1791">
+   <header>
+      <usage ms="Cdm" code="01041000">[19r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Fulda no.925</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Praeveniat nos omnipotens deus tua gratia semper et subsequatur ut per adventum unigeniti tui quem summo cordis desiderio sustinemus et praesentis vitae subsidia et futurae etiam consequamur</pBody>
+</prayer>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6611" nextid="c6613" id="c6612">
+   <header>
+      <usage ms="Alb2" code="01031000">[13r] matins-n3-r12</usage>
+      <usage ms="Evm" code="01037009">[21v] matins-r3</usage>
+      <usage ms="Hyd" code="01036000">[12v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="01047000">[51v] matins-r3</usage>
+   </header>
+   <rBody wit="CAO-E CAO-R CAO-F Hyd Alb2 Evm Wcb"> Ecce veniet dominus princeps regum terrae beati qui parati sunt occurrere illi habebunt partem
+     <app>
+         <rdg wit="CAO-R CAO-F Evm Wcb"> in civitate</rdg>
+         <rdg wit="CAO-E Hyd Alb2"> in civitatem</rdg>
+      </app> Jerusalem</rBody>
+   <verses>
+      <vBody type="r" wit="Evm Wcb"> A solis ortu et occasu ab aquilone et mari</vBody>
+      <vBody type="r" wit="CAO-R"> Ecce dominator dominus cum virtute veniet</vBody>
+      <vBody type="r" wit="CAO-E"> Ecce dominator</vBody>
+      <vBody type="r" wit="Hyd"> Ecce veniet dominus et omnes sancti eius cum eo</vBody>
+      <vBody type="r" wit="Alb2"> Veni domine et noli tardare quia te exspectant angeli et omnes sancti</vBody>
+      <vBody type="r" wit="CAO-F"> Veniens veniet dominus et non tardabit</vBody>
+      <rep type="r" wit="CAO-E CAO-R">Beati</rep>
+      <rep type="r" wit="CAO-F Hyd Evm Wcb">Habebunt</rep>
+      <rep type="r" wit="Evm">Gloria</rep>
+   </verses>
+</res>

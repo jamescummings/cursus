@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1681" nextid="c1683" id="c1682">
+   <header>
+      <usage ms="Hyd" code="05027000"/>
+   </header>
+   <aBody wit="CAO-V CAO-H CAO-S CAO-L Hyd"> Benedic anima mea
+     <app>
+         <rdg wit="CAO-V CAO-H Hyd"> domino</rdg>
+         <rdg wit="CAO-L"> dominum</rdg>
+         <rdg wit="CAO-S">
+            <corr sic="dominum">domino</corr>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

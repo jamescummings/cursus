@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6858" nextid="c6860" id="c6859">
+   <header>
+      <usage ms="Alb2" code="02122500">[25r] matins-n1-r2</usage>
+      <usage ms="Bat" code="02122500">[15v] matins-n1-r2</usage>
+      <usage ms="Cdm" code="02122500">[21v] matins-n1-r2</usage>
+      <usage ms="Ely" code="02122500">[18r] matins-n1-r2</usage>
+      <usage ms="Evm" code="02122500">[33r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="02122500">[18r] matins-n1-r2</usage>
+      <usage ms="Pet" code="02122500">[15v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="02122500">[53v] matins-n1-r2</usage>
+      <usage ms="Wor" code="02122500">[14r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Ely Wor Pet"> Hodie nobis de caelo pax vera descendit</rdg>
+         <rdg wit="Cdm"> Hodie nobis pax vera de caelo descendit</rdg>
+         <rdg wit="CAO-G"> Hodie nobis caelorum pax vera descendit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> hodie per totum mundum</rdg>
+         <rdg wit="CAO-C"> hodie per toto mundum</rdg>
+      </app> melliflui facti sunt caeli</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H"> Gloria in excelsis deo et in terra pax hominibus bonae voluntatis</vBody>
+      <vBody type="r" wit="CAO-M"> Gloria in excelsis</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-R"> Gloria in excelsis deo</vBody>
+      <vBody type="r" wit="CAO-G CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet">
+         <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-L Hyd Alb2 Bat Cdm Wor"> Hodie illuxit</rdg>
+            <rdg wit="CAO-V CAO-S Evm Wcb Ely Pet"> Hodie illuxit nobis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> dies redemptionis novae</rdg>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-S CAO-L"> dies redemptionis nostrae</rdg>
+         </app>
+         <app>
+            <rdg wit="Hyd Alb2 Wcb Bat Cdm Ely Wor Pet"> reparationis antiquae</rdg>
+            <rdg wit="CAO-G CAO-V CAO-D CAO-F CAO-S CAO-L Evm"> praeparationis antiquae</rdg>
+         </app> felicitatis aeternae</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Hodie per</rep>
+   </verses>
+</res>

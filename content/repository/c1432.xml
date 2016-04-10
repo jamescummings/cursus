@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1431" nextid="c1433" id="c1432">
+   <header>
+      <usage ms="Cdm" code="07065000">[78r] terce</usage>
+      <usage ms="Cht" code="07063000">[58v] lauds</usage>
+      <usage ms="Evm" code="07063000">[146r] lauds</usage>
+      <usage ms="Glo" code="07063000">[78r] lauds</usage>
+      <usage ms="Pet" code="07063000">[87r] prime</usage>
+      <usage ms="Wcb" code="07063000">[114r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-F Cht Pet Evm Wcb Cdm"> Ante diem festum paschae
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-F Pet Evm Wcb Cdm"> sciens Jesus</rdg>
+         <rdg wit="Cht">
+            <sic resp="DC">sitiens</sic> Jesus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-F"> quia venit eius hora</rdg>
+         <rdg wit="Cht Pet Evm Wcb Cdm"> quia venit hora eius</rdg>
+      </app> cum dilexisset suos in finem dilexit eos</aBody>
+   <aBody wit="Glo" type="incipit"> Ante diem festum paschae</aBody>
+</ant>

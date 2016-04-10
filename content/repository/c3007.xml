@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3006" nextid="c3008" id="c3007">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Haec est virgo sapiens
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> quam dominus vigilantem invenit</rdg>
+         <rdg wit="CAO-E"> quem dominus vigilantem invenit</rdg>
+         <rdg wit="CAO-C"> quam dominus invenit vigilantem</rdg>
+         <rdg wit="CAO-D"> quam dominus <corr sic="invenerit">invenit</corr> vigilantem</rdg>
+      </app>
+   </aBody>
+</ant>

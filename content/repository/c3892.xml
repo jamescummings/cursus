@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3891b" nextid="c3893" id="c3892">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-F CAO-L"> Noli me derelinquere pater sancte</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-S"> Non me derelinquere pater sancte</rdg>
+         <rdg wit="CAO-D"> Nonne derelinquere pater sancte</rdg>
+         <rdg wit="CAO-H"> Non me derelinque pater sancte</rdg>
+      </app> quia thesauros tuos
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> iam expendi</rdg>
+         <rdg wit="CAO-C"> iam expedi</rdg>
+         <rdg wit="CAO-D"> iam expandi</rdg>
+      </app> quos tradidisti mihi</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Quid in me ergo displicuit
+      <app>
+            <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S"> paternitati tuae</rdg>
+            <rdg wit="CAO-C CAO-E CAO-F"> paternitas tua</rdg>
+            <rdg wit="CAO-D"> pater</rdg>
+         </app>
+      </vBody>
+   </verses>
+</ant>

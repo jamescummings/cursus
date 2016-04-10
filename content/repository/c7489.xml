@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7488" nextid="c7490" id="c7489">
+   <rBody wit="CAO-E CAO-M CAO-V"> Quid me quaeritis interficere hominem qui vera locutus sum vobis si male locutus sum testimonium perhibe de malo
+     <app>
+         <rdg wit="CAO-E CAO-M"> si autem bene</rdg>
+         <rdg wit="CAO-V"> sin autem bene</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V"> cur me caedis</rdg>
+         <rdg wit="CAO-M"> quid me caedis</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V">Multa bona opera operatus sum vobis propter quod opus vultis me occidere</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V">Si male</rep>
+   </verses>
+</res>

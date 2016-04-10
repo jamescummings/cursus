@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1086" nextid="c1088" id="c1087">
+   <header>
+      <usage ms="Bat" code="06021000">[43v] matins inv</usage>
+      <usage ms="Cdm" code="06021000">[51r] matins inv</usage>
+      <usage ms="Ely" code="06031000">[62v] matins inv</usage>
+      <usage ms="Hyd" code="05024000">[51v] matins inv</usage>
+      <usage ms="Hyd" code="06031000">[65r] matins inv</usage>
+      <usage ms="Pet" code="06021000">[57v] matins inv</usage>
+      <usage ms="Wor" code="06021000">[38r] matins inv</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S Wor Pet Ely Hyd Cdm Bat"> In manu tua domine omnes fines terrae</aBody>
+</ant>

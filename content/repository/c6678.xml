@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6677" nextid="c6679" id="c6678">
+   <rBody wit="CAO-D CAO-F CAO-S"> Euntibus animalibus ibant simul et rotae et cum stantibus stabant et cum elevatis pariter levabantur quia spiritus vitae erat in rotis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-S"> Statura quoque
+       <app>
+            <rdg wit="CAO-S"> earum</rdg>
+            <rdg wit="CAO-D"> eorum</rdg>
+         </app> erat et altitudo horribilis</vBody>
+      <vBody type="r" wit="CAO-F"> Statura erat rotarum et altitudo horribilis totumque corpus plenum oculis</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S"> Quia</rep>
+   </verses>
+</res>

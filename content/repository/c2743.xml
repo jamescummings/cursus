@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2742" nextid="c2744" id="c2743">
+   <header>
+      <usage ms="Alb2" code="01016000">[7r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01016000">[11v] vesp2 gosp</usage>
+      <usage ms="Ely" code="01017000">[6v] ?</usage>
+      <usage ms="Evm" code="01016000">[11v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01016000">[12r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01016000">[6v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01016000">[6r] vesp2 gosp</usage>
+      <usage ms="Wor" code="01033000">[8r] ?</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Glo"> Ex Aegypto vocavi filium meum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Glo"> veniet ut salvet populum suum</rdg>
+         <rdg wit="CAO-C"> veniet et salvet populum suum</rdg>
+      </app>
+   </aBody>
+</ant>

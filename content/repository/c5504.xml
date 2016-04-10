@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5503" nextid="c5505" id="c5504">
+   <aBody wit="CAO-C CAO-H CAO-F"> Vos vocatis me magister et domine
+     <app>
+         <rdg wit="CAO-C CAO-H"> bene dicitis sum etenim</rdg>
+         <rdg wit="CAO-F"> et bene dicitis sum etenim</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F"> si ego lavi vestros pedes</rdg>
+         <rdg wit="CAO-H"> si ergo ego lavi vestros pedes</rdg>
+      </app> dominus et magister et vos debetis alter alterius lavare pedes</aBody>
+</ant>

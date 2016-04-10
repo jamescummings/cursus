@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1856" nextid="c1858" id="c1857">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Bat" code="07014000">[50r] nones</usage>
+      <usage ms="Cdm" code="07012000">[58v] none</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Evm" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[118v] sext</usage>
+      <usage ms="Pet" code="07012000"/>
+      <usage ms="Wor" code="07012000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Alb2 Cdm Mch Bat"> Commendemus nosmetipsos in multa patientia
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Alb2 Cdm Mch Bat"> in ieiuniis multis per arma iustitiae</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> per arma iustitiae virtutis dei</rdg>
+      </app>
+   </aBody>
+</ant>

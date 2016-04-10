@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4860" nextid="c4862" id="c4861">
+   <header>
+      <usage ms="Bat" code="06021000">[44v] sext</usage>
+      <usage ms="Cdm" code="06021000">[52v] sext-a1</usage>
+      <usage ms="Cht" code="06021000">[15v] sext-a1</usage>
+      <usage ms="Ely" code="06028000"/>
+      <usage ms="Evm" code="06021000">[97r] matins-n3</usage>
+      <usage ms="Hyd" code="06021000">[64v] vesp2</usage>
+      <usage ms="Mch" code="06028000">[105v] gospel</usage>
+      <usage ms="Pet" code="06021000">[60r] vesp2</usage>
+      <usage ms="Wcb" code="06021000">[87v] matins-n3</usage>
+      <usage ms="Wor" code="06021000">[39v] sext-a1</usage>
+   </header>
+   <aBody wit="CAO-V CAO-D CAO-F CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch Bat"> Semen cecidit in terram bonam
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-L Hyd Alb2 Cht Wor Pet Ely Wcb Evm Cdm Mch Bat"> et ortum fecit fructum centuplum</rdg>
+         <rdg wit="CAO-F"> et hortum fecit fructum centuplum</rdg>
+      </app>
+   </aBody>
+</ant>

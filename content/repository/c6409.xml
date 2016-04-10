@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6408" nextid="c6410" id="c6409">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Descendit angelus domini ad Zachariam dicens
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> accipe puerum</rdg>
+         <rdg wit="CAO-L"> generabis filium</rdg>
+         <rdg wit="CAO-S"> generavis puerum</rdg>
+      </app> in senectute tua et
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> habebit</rdg>
+         <rdg wit="CAO-L">
+            <sic resp="Hesbert">habebis</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> nomen Joannes Baptista</rdg>
+         <rdg wit="CAO-V"> nomen Joannem Baptistam</rdg>
+         <rdg wit="CAO-L"> nomen Joanne Baptista</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Iste puer magnus coram domino nam et manus eius cum ipso est</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-D CAO-S"> Ne timeas Zacharia</rdg>
+            <rdg wit="CAO-L"> Ne timeas</rdg>
+            <rdg wit="CAO-F"> Ne timeas Zacharia quoniam</rdg>
+         </app> exaudita est oratio tua
+       <app>
+            <rdg wit="CAO-D CAO-F CAO-L"> et Elisabeth uxor tua</rdg>
+            <rdg wit="CAO-S"> et uxor tua Elisabeth</rdg>
+         </app> pariet tibi filium</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Et habebit nomen</rep>
+      <rep type="r" wit="CAO-L"> Et <sic resp="Hesbert">habebis</sic> nomen</rep>
+   </verses>
+</res>

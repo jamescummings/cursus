@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3240" nextid="c3242" id="c3241">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D"> In hoc ergo loco experiuntur infirmi quantum dei
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V"> famulos conveniat honorari</rdg>
+         <rdg wit="CAO-D"> famulum conveniat honorari</rdg>
+         <rdg wit="CAO-R"> famulis conveniat honorari</rdg>
+         <rdg wit="CAO-H"> famulos conveniet honorari</rdg>
+      </app> ubi recipit caecitas visum debilitas gressum
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D"> et obstrictae aures</rdg>
+         <rdg wit="CAO-C"> et obstructae aures</rdg>
+         <rdg wit="CAO-V"> et obstrusae aures</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D"> recipere merentur auditum</rdg>
+         <rdg wit="CAO-V"> recipere mererentur auditum</rdg>
+      </app>
+   </aBody>
+</ant>

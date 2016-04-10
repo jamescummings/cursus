@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5021" nextid="c5023" id="c5022">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010608"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Stella ista sicut flamma coruscat et regem regum deum demonstrat magi eam viderunt
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Alb2"> et Christo regi munera obtulerunt</rdg>
+         <rdg wit="CAO-C CAO-D CAO-L Hyd Pet"> et regi munera obtulerunt</rdg>
+         <rdg wit="CAO-M"> et magno regi munera obtulerunt</rdg>
+      </app>
+   </aBody>
+</ant>

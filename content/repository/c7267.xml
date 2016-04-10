@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7266" nextid="c7268" id="c7267">
+   <rBody wit="CAO-F CAO-S"> O crux viride
+     <app>
+         <rdg wit="CAO-S"> lignum</rdg>
+         <rdg wit="CAO-F">
+            <corr sic="ligno">lignum</corr>
+         </rdg>
+      </app> quia super te pependit redemptor rex Israel o quam dulce lignum quam dulces clavos quam dulcia ferens pondera o quam pretiosum lignum quam pretiosa gemma quae Christum meruit sustinere</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Custodi domine gregem istum per virtutem sanctae crucis</vBody>
+      <vBody type="r" wit="CAO-F"> Custodi domine gregem istum quem redemisti Christe per lignum sanctae crucis</vBody>
+      <rep type="r" wit="CAO-S"> O quam pretiosum</rep>
+      <rep type="r" wit="CAO-F">O quam dulce</rep>
+   </verses>
+</res>

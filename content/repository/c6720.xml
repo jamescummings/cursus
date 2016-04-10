@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6719" nextid="c6721" id="c6720">
+   <rBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R"> Famulo meo ego praestiti
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R"> honorem</rdg>
+         <rdg wit="CAO-V"> honore</rdg>
+      </app> magnum dicit dominus et omnes inimicos eius
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R"> humiliavi</rdg>
+         <rdg wit="CAO-V"> humiliabis</rdg>
+      </app> et coronam vitae
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R"> dedi</rdg>
+         <rdg wit="CAO-V"> dedit</rdg>
+      </app> ei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R"> Inimicos eius induam confusione super ipsum
+       <app>
+            <rdg wit="CAO-C CAO-H CAO-R"> autem efflorebit</rdg>
+            <rdg wit="CAO-E CAO-V"> autem et florebit</rdg>
+         </app> sanctificatio mea</vBody>
+      <rep type="r" wit="CAO-C CAO-V CAO-H CAO-R"> Et omnes</rep>
+      <rep type="r" wit="CAO-E"> Et coronam</rep>
+   </verses>
+</res>

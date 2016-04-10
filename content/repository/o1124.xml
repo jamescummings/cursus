@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1123" nextid="o1125" id="o1124">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Cdm" code="07012000">[58r] prime</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[118r] lauds</usage>
+      <usage ms="Wcb" code="07012000"/>
+   </header>
+   <pBody wit="Hyd Ely Cht Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Hyd Ely Wcb Alb2 Cdm Mch"> Ut tuam domine</rdg>
+         <rdg wit="Cht"> Et tuam domine</rdg>
+      </app> misericordiam consequamur fac nos tibi toto corde esse devotos
+     <app>
+         <rdg wit="Hyd Cht Mch"> et ad beneficia recolenta quibus nos instaurare dignatus es tribue venire gaudentes</rdg>
+         <rdg wit="Ely"> et ad beneficia recolenta</rdg>
+         <rdg wit="Wcb"> et ad</rdg>
+         <rdg wit="Alb2 Cdm">et ad beneficia</rdg>
+      </app>
+   </pBody>
+</prayer>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7243" nextid="c7245" id="c7244">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Numquid dominus supplantat iudicium</rdg>
+         <rdg wit="Hyd"> Nuncquid dominus supplantat iudicium</rdg>
+      </app> aut omnipotens subvertit quod iustum est libera me domine et pone me
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> iuxta te</rdg>
+         <rdg wit="CAO-V"> iusta te</rdg>
+      </app> et
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> cuiusvis</rdg>
+         <rdg wit="CAO-V"> cuiusvix</rdg>
+      </app> manus pugnet contra me</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L"> Apprehende arma</rdg>
+            <rdg wit="CAO-R"> Apprehende domine arma</rdg>
+         </app> et scutum et exsurge in adiutorium mihi</vBody>
+      <vBody type="r" wit="Hyd"> Exsurge domine et veni in adiutorium mihi</vBody>
+      <vBody type="r" wit="CAO-G"> Apprehende arma</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-V CAO-D CAO-S">Libera me</rep>
+      <rep type="r" wit="CAO-E CAO-H CAO-R CAO-F CAO-L Hyd">Et cuiusvis</rep>
+   </verses>
+</res>

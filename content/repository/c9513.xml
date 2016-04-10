@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9512" nextid="c9514" id="c9513">
+   <header>
+      <usage ms="Evm" code="06031000">[100r] matins-n2-r7</usage>
+   </header>
+   <rBody wit="Evm"> Visitavit autem dominus Sarram sicut promiserat concepitque et peperit filium in senectute sua tempore illo quod praedixerat ei deus</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Vocavitque Abraham nomen filii sui Isaac et circumcidit eum octavo die</vBody>
+      <rep type="r" wit="Evm">Tempore</rep>
+   </verses>
+</res>

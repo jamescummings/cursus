@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4522" nextid="c4524" id="c4523">
+   <header>
+      <usage ms="Bat" code="06011000">[43r] sext</usage>
+      <usage ms="Cdm" code="06011000">[50r] nones-a1</usage>
+      <usage ms="Ely" code="06018000">[61r]  gosp</usage>
+      <usage ms="Hyd" code="06011000">[62r] nones gosp</usage>
+      <usage ms="Pet" code="06011000">[57r] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-D CAO-L Hyd Pet Ely Cdm Bat"> Quid hic statis tota die otiosi ite et vos in vineam meam</aBody>
+</ant>

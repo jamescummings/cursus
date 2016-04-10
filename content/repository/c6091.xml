@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6090" nextid="c6092" id="c6091">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Angelus domini bonus comitetur tecum alleluia
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S"> et bene disponat</rdg>
+         <rdg wit="CAO-M"> et bene disponet</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-V CAO-S"> itinera tua</rdg>
+         <rdg wit="CAO-C CAO-F"> itinere tuo</rdg>
+         <rdg wit="CAO-M"> itineri tuo</rdg>
+         <rdg wit="CAO-D"> iter tuum</rdg>
+         <rdg wit="CAO-E"> iter <sic>tu</sic>
+         </rdg>
+      </app> ut iterum cum gaudio revertaris ad nos alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-S"> Sola namque tenes principatum in conspectu domini propterea revertere in thesauros tuos</vBody>
+      <vBody type="r" wit="CAO-F"> Sola namque tenes principatum</vBody>
+      <vBody type="r" wit="CAO-M"> Sola namque tenens</vBody>
+      <vBody type="r" wit="CAO-E CAO-V"> Sola namque</vBody>
+      <vBody type="r" wit="CAO-G CAO-D"> Multiplicentur a domino anni tui per viam sapientiae
+      <app>
+            <rdg wit="CAO-G"> incedas</rdg>
+            <rdg wit="CAO-D">
+               <corr sic="incedis">incedas</corr>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S">Ut iterum</rep>
+      <rep type="r" wit="CAO-M">Iterum</rep>
+   </verses>
+</res>

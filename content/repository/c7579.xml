@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7578" nextid="c7580" id="c7579">
+   <header>
+      <usage ms="Glo" code="14031200"/>
+      <usage ms="Glo" code="14032100"/>
+      <usage ms="Glo" code="14040400">[77r] vesp1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Used for many saints in CAO-D and CAO-S, with proper name supplied in respond</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-D CAO-S"> Sancte N audi rogantes servulos</rBody>
+   <rBody wit="Glo"> Sancte Gregori audi rogantes servulos</rBody>
+   <rBody wit="Glo" num="2"> Sancte Benedicte audi rogantes servulos</rBody>
+   <rBody wit="Glo" num="3"> Sancte Ambrosii confessor Christi audi rogantes servulos</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-S Glo">Et impetratam nobis caelitus tu defer indulgentiam</vBody>
+      <rep type="r" wit="CAO-D CAO-S">Audi</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

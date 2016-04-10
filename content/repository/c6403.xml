@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6402" nextid="c6403a" id="c6403">
+   <rBody wit="CAO-D CAO-F CAO-S"> Deduc me in semita mandatorum tuorum alleluia quoniam
+      <app>
+         <rdg wit="CAO-S"> ipsa volui</rdg>
+         <rdg wit="CAO-F"> ipsam volui</rdg>
+         <rdg wit="CAO-D"> ipsam voluit</rdg>
+      </app> alleluia inclina cor meum in testimonia tua alleluia alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Averte oculos meos ne videant vanitatem in via tua vivifica me</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Inclina</rep>
+   </verses>
+</res>

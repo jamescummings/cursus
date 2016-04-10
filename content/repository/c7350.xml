@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7349" nextid="c7351" id="c7350">
+   <header>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Paratum cor meum deus paratum cor meum cantabo et psalmum dicam domino</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Exsurge gloria mea exsurge psalterium et cithara exsurgam diluculo</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Cantabo</rep>
+   </verses>
+</res>

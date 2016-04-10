@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7518" nextid="c7520" id="c7519">
+   <rBody wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L"> Regali ex progenie
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-L"> Maria virgo</rdg>
+         <rdg wit="CAO-B CAO-F CAO-S"> Maria</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-F CAO-S CAO-L"> exorta refulget</rdg>
+         <rdg wit="CAO-E"> exorta est</rdg>
+      </app> cuius precibus nos adiuvari mente et spiritu devotissime poscimus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-F CAO-L"> Corde et animo Christo canamus gloriam
+      <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-L"> in hac sacra solemnitate</rdg>
+            <rdg wit="CAO-F"> in his sacris solemniis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B"> praecelsae genitricis dei</rdg>
+            <rdg wit="CAO-H CAO-R"> genetricis dei</rdg>
+            <rdg wit="CAO-F CAO-L"> praecelsae genetricis dei Mariae</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S"> Cum iucunditate <corr sic="nativitate" resp="Hesbert">nativitatem</corr> beatae Mariae devotissime celebremus</vBody>
+      <vBody type="r" wit="CAO-E"> Hodie nata est beata virgo Maria ex progenie David</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L">Cuius</rep>
+   </verses>
+</res>

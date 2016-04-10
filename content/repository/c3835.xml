@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3834" nextid="c3836" id="c3835">
+   <header>
+      <usage ms="Hyd" code="05041000"/>
+   </header>
+   <aBody wit="CAO-H CAO-R Hyd">
+      <app>
+         <rdg wit="CAO-H"> Multi venient ab oriente</rdg>
+         <rdg wit="CAO-R"> Multi veniunt ab oriente</rdg>
+         <rdg wit="Hyd"> Multi venient ab oriente et occidente</rdg>
+      </app> et recumbent cum Abraham et Isaac et Jacob in regno caelorum alleluia</aBody>
+</ant>

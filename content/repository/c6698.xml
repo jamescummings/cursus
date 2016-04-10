@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6697" nextid="c6699" id="c6698">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Expandi manus meas tota die in cruce ad populum non credentem
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> sed contradicentem</rdg>
+         <rdg wit="CAO-B"> et contradicentem</rdg>
+      </app> mihi
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F"> qui ambulat</rdg>
+         <rdg wit="CAO-S"> quia ambulat</rdg>
+         <rdg wit="CAO-C CAO-E"> qui ambulant</rdg>
+         <rdg wit="CAO-V"> qui ambulans</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> vias non bonas</rdg>
+         <rdg wit="CAO-E"> via non bona</rdg>
+         <rdg wit="CAO-V"> vias non bona</rdg>
+      </app> sed post peccata sua</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-S"> Deus ultionum dominus Deus ultionum libere egit exaltare
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-D CAO-F CAO-S"> qui iudicas terram</rdg>
+            <rdg wit="CAO-V"> qui iudicas terra</rdg>
+         </app> redde retributionem superbis</vBody>
+      <vBody type="r" wit="CAO-M"> Deus ultionum</vBody>
+      <vBody type="r" wit="CAO-R"> Et non audivit populus meus vocem meam et Israel non intendit mihi</vBody>
+      <rep type="r" wit="CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Qui ambulat</rep>
+      <rep type="r" wit="CAO-C CAO-E"> Qui ambulant</rep>
+      <rep type="r" wit="CAO-B"> Qui <sic resp="Hesbert">ambulant</sic>
+      </rep>
+      <rep type="r" wit="CAO-V"> Qui ambulans</rep>
+   </verses>
+</res>

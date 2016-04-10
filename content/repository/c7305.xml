@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7304" nextid="c7306" id="c7305">
+   <header>
+      <usage ms="Alb2" code="01011000">[4r] matins-n3-r10</usage>
+      <usage ms="Bat" code="01011000">[3v] matins-n3-r10</usage>
+      <usage ms="Cdm" code="01011000">[9v] matins-n3-r10</usage>
+      <usage ms="Ely" code="01011000">[4r] matins-n3-r10</usage>
+      <usage ms="Evm" code="01011000">[6r] matins-n3-r9</usage>
+      <usage ms="Hyd" code="01011000">[3r] matins-n3-r11</usage>
+      <usage ms="Mch" code="01011000">[2v] matins-n2-r7</usage>
+      <usage ms="Wcb" code="01011000">[43r] matins-n3-r9</usage>
+      <usage ms="Wor" code="01011000">[2v] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Obsecro domine mitte
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> quem</rdg>
+         <rdg wit="CAO-F"> quam</rdg>
+         <rdg wit="CAO-V">
+            <sic resp="Hesbert">que</sic>
+         </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> missurus es</rdg>
+         <rdg wit="CAO-V"> missurus est</rdg>
+      </app> vide afflictionem populi tui sicut
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> locutus es</rdg>
+         <rdg wit="CAO-V"> locutus est</rdg>
+      </app> veni et libera nos</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F Alb2 Evm Mch Cdm Wcb Bat"> A solis ortu
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-F Alb2 Evm Mch Cdm Wcb Bat"> et occasu</rdg>
+            <rdg wit="CAO-D"> et occasum</rdg>
+         </app> ab aquilone et mari</vBody>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V"> A solis ortu</vBody>
+      <vBody type="r" wit="Hyd Ely Wor"> Attende domine de caelo et de habitaculo sancto tuo</vBody>
+      <vBody type="r" wit="CAO-S"> Qui regis Israel intende qui deducis velut ovem Joseph qui sedes super cherubim</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Evm Mch Cdm Wcb Wor Bat">Sicut</rep>
+   </verses>
+</res>

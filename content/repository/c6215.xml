@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6214" nextid="c6216" id="c6215">
+   <rBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F"> Beatus Laurentius dixit ego me obtuli sacrificium Deo in odorem suavitatis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-H CAO-R"> Quoniam ad te orabo domine mane exaudies vocem meam</vBody>
+      <vBody type="r" wit="CAO-D CAO-F"> Gaudeo plane quia hostia Christi
+       <app>
+            <rdg wit="CAO-F"> esse</rdg>
+            <rdg wit="CAO-D"> effici</rdg>
+         </app> merui</vBody>
+      <vBody type="r" wit="CAO-C"> Gratias tibi ago Domine</vBody>
+      <rep type="r" wit="CAO-H CAO-R CAO-D CAO-F">In odorem</rep>
+   </verses>
+</res>

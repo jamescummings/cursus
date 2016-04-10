@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4183" nextid="c4185" id="c4184">
+   <header>
+      <usage ms="Cht" code="06036000"/>
+      <usage ms="Evm" code="06035000"/>
+      <usage ms="Glo" code="06035000">[58r] lauds-a6</usage>
+      <usage ms="Wcb" code="06035000"/>
+   </header>
+   <aBody wit="CAO-C Cht Evm Wcb"> Orate pro persequentibus et calumniantibus vos
+     <app>
+         <rdg wit="CAO-C Evm Wcb"> ut sitis</rdg>
+         <rdg wit="Cht"> ut scitis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C Evm Wcb"> filii patris vestri</rdg>
+         <rdg wit="Cht"> filii patris mei</rdg>
+      </app> qui in caelis est dicit dominus</aBody>
+   <aBody wit="Glo" type="incipit"> Orate pro persequentibus</aBody>
+</ant>

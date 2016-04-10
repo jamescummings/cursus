@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8502" nextid="c8504" id="c8503">
+   <header>
+      <usage ms="Alb2" code="07051000">[100v] vesp2</usage>
+      <usage ms="Cdm" code="07051000">[72r] vesp2</usage>
+      <usage ms="Cht" code="07051000">[49r] vesp2</usage>
+      <usage ms="Ely" code="07051000">[82v] vesp2</usage>
+      <usage ms="Evm" code="07051000">[136v] vesp2</usage>
+      <usage ms="Glo" code="07051000">[70v] vesp2</usage>
+      <usage ms="Hyd" code="07051000">[87v] vesp2</usage>
+      <usage ms="Pet" code="07051000">[81v] vesp2</usage>
+      <usage ms="Wcb" code="07051000">[109r] vesp2</usage>
+      <usage ms="Wor" code="07051000">[54v] vesp2</usage>
+   </header>
+   <aBody wit="Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm">Amen amen dico vobis antequam Abraham fieret ego sum sustulerunt lapides Judaei ut iacerent in Jesum Jesus autem abscondit se et exivit de templo</aBody>
+</ant>

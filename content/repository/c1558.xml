@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1557" nextid="c1559" id="c1558">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R"> Beata <name reg="Agatha" type="saint">Agathes</name> ingressa carcerem</rdg>
+         <rdg wit="CAO-M"> Beata <name reg="Agatha" type="saint">Agatha</name> ingressa carcerem</rdg>
+         <rdg wit="CAO-V"> Beata <name reg="Agatha" type="saint">Agathes</name> ingressa carcare</rdg>
+      </app> expandit manus suas
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> ad deum</rdg>
+         <rdg wit="CAO-E"> ad caelum</rdg>
+      </app> et dixit domine qui me fecisti vincere tormenta carnificum iube me domine ad tuam misericordiam pervenire</aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2380" nextid="c2381b" id="c2381">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R"> Domine salva nos perimus impera
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> et fac deus tranquillitatem magnam</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V"> et fac deus tranquillitatem</rdg>
+      </app> porro homines cum vidissent quod fecerat signum dicebant qualis est hic
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> quia ventis imperat et mari et oboediunt ei</rdg>
+         <rdg wit="CAO-C"> quia et ventis imperat et mari et oboediunt ei</rdg>
+         <rdg wit="CAO-E"> quia et venti et mari imperat oboediunt ei</rdg>
+         <rdg wit="CAO-V"> quia ventis imperat et mari oboediunt ei</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="James">
+<body>
+  <rubric type="bible-incipit" id="B.James.incipit.001">
+    <reference>
+      <bookName>James</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT EPISTULA IACOBI</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.James.001.001">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>Iacobus Dei et Domini nostri Iesu Christi servus duodecim tribubus quae sunt in dispersione salutem</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.002">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>omne gaudium existimate fratres mei cum in temptationibus variis incideritis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.003">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>scientes quod probatio fidei vestrae patientiam operatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.004">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>patientia autem opus perfectum habeat ut sitis perfecti et integri in nullo deficientes</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.005">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>si quis autem vestrum indiget sapientiam postulet a Deo qui dat omnibus affluenter et non inproperat et dabitur ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.006">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>postulet autem in fide nihil haesitans qui enim haesitat similis est fluctui maris qui a vento movetur et circumfertur</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.007">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>non ergo aestimet homo ille quod accipiat aliquid a Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.008">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>vir duplex animo inconstans in omnibus viis suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.009">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>glorietur autem frater humilis in exaltatione sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.010">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>dives autem in humilitate sua quoniam sicut flos faeni transibit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.011">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>exortus est enim sol cum ardore et arefecit faenum et flos eius decidit et decor vultus eius deperiit ita et dives in itineribus suis marcescet</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.012">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>beatus vir qui suffert temptationem quia cum probatus fuerit accipiet coronam vitae quam repromisit Deus diligentibus se</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.013">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>nemo cum temptatur dicat quoniam a Deo temptor Deus enim intemptator malorum est ipse autem neminem temptat</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.014">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>unusquisque vero temptatur a concupiscentia sua abstractus et inlectus</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.015">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>dein concupiscentia cum conceperit parit peccatum peccatum vero cum consummatum fuerit generat mortem</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.016">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>nolite itaque errare fratres mei dilectissimi</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.017">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:17</verseNum>
+      </reference>
+      <l>omne datum optimum et omne donum perfectum desursum est descendens a Patre luminum apud quem non est transmutatio nec vicissitudinis obumbratio</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.018">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:18</verseNum>
+      </reference>
+      <l>voluntarie genuit nos verbo veritatis ut simus initium aliquod creaturae eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.019">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:19</verseNum>
+      </reference>
+      <l>scitis fratres mei dilecti sit autem omnis homo velox ad audiendum tardus autem ad loquendum et tardus ad iram</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.020">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:20</verseNum>
+      </reference>
+      <l>ira enim viri iustitiam Dei non operatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.021">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:21</verseNum>
+      </reference>
+      <l>propter quod abicientes omnem inmunditiam et abundantiam malitiae in mansuetudine suscipite insitum verbum quod potest salvare animas vestras</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.022">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:22</verseNum>
+      </reference>
+      <l>estote autem factores verbi et non auditores tantum fallentes vosmet ipsos</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.023">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:23</verseNum>
+      </reference>
+      <l>quia si quis auditor est verbi et non factor hic conparabitur viro consideranti vultum nativitatis suae in speculo</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.024">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:24</verseNum>
+      </reference>
+      <l>consideravit enim se et abiit et statim oblitus est qualis fuerit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.025">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:25</verseNum>
+      </reference>
+      <l>qui autem perspexerit in lege perfecta libertatis et permanserit non auditor obliviosus factus sed factor operis hic beatus in facto suo erit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.026">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:26</verseNum>
+      </reference>
+      <l>si quis autem putat se religiosum esse non refrenans linguam suam sed seducens cor suum huius vana est religio</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.001.027">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>1:27</verseNum>
+      </reference>
+      <l>religio munda et inmaculata apud Deum et Patrem haec est visitare pupillos et viduas in tribulatione eorum inmaculatum se custodire ab hoc saeculo</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.James.002.001">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>fratres mei nolite in personarum acceptione habere fidem Domini nostri Iesu Christi gloriae</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.002">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>etenim si introierit in conventu vestro vir aureum anulum habens in veste candida introierit autem et pauper in sordido habitu</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.003">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>et intendatis in eum qui indutus est veste praeclara et dixeritis tu sede hic bene pauperi autem dicatis tu sta illic aut sede sub scabillo pedum meorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.004">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>nonne iudicatis apud vosmet ipsos et facti estis iudices cogitationum iniquarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.005">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>audite fratres mei dilectissimi nonne Deus elegit pauperes in hoc mundo divites in fide et heredes regni quod repromisit Deus diligentibus se</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.006">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>vos autem exhonorastis pauperem nonne divites per potentiam opprimunt vos et ipsi trahunt vos ad iudicia</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.007">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>nonne ipsi blasphemant bonum nomen quod invocatum est super vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.008">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>si tamen legem perficitis regalem secundum scripturas diliges proximum tuum sicut te ipsum bene facitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.009">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>si autem personas accipitis peccatum operamini redarguti a lege quasi transgressores</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.010">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>quicumque autem totam legem servaverit offendat autem in uno factus est omnium reus</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.011">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>qui enim dixit non moechaberis dixit et non occides quod si non moechaberis occides autem factus es transgressor legis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.012">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>sic loquimini et sic facite sicut per legem libertatis incipientes iudicari</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.013">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>iudicium enim sine misericordia illi qui non fecit misericordiam superexultat autem misericordia iudicio</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.014">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>quid proderit fratres mei si fidem quis dicat se habere opera autem non habeat numquid poterit fides salvare eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.015">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>si autem frater aut soror nudi sunt et indigent victu cotidiano</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.016">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>dicat autem aliquis de vobis illis ite in pace calefacimini et saturamini non dederitis autem eis quae necessaria sunt corporis quid proderit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.017">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>sic et fides si non habeat opera mortua est in semet ipsam</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.018">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>sed dicet quis tu fidem habes et ego opera habeo ostende mihi fidem tuam sine operibus et ego ostendam tibi ex operibus fidem meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.019">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>tu credis quoniam unus est Deus bene facis et daemones credunt et contremescunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.020">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>vis autem scire o homo inanis quoniam fides sine operibus otiosa est</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.021">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>Abraham pater noster nonne ex operibus iustificatus est offerens Isaac filium suum super altare</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.022">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>vides quoniam fides cooperabatur operibus illius et ex operibus fides consummata est</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.023">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>et suppleta est scriptura dicens credidit Abraham Deo et reputatum est illi ad iustitiam et amicus Dei appellatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.024">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>videtis quoniam ex operibus iustificatur homo et non ex fide tantum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.025">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:25</verseNum>
+      </reference>
+      <l>similiter autem et Raab meretrix nonne ex operibus iustificata est suscipiens nuntios et alia via eiciens</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.002.026">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>2:26</verseNum>
+      </reference>
+      <l>sicut enim corpus sine spiritu emortuum est ita et fides sine operibus mortua est</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.James.003.001">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>nolite plures magistri fieri fratres mei scientes quoniam maius iudicium sumitis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.002">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>in multis enim offendimus omnes si quis in verbo non offendit hic perfectus est vir potens etiam freno circumducere totum corpus</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.003">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>si autem equorum frenos in ora mittimus ad consentiendum nobis et omne corpus illorum circumferimus</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.004">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>ecce et naves cum magnae sint et a ventis validis minentur circumferuntur a modico gubernaculo ubi impetus dirigentis voluerit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.005">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>ita et lingua modicum quidem membrum est et magna exultat ecce quantus ignis quam magnam silvam incendit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.006">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>et lingua ignis est universitas iniquitatis lingua constituitur in membris nostris quae maculat totum corpus et inflammat rotam nativitatis nostrae inflammata a gehenna</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.007">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>omnis enim natura bestiarum et volucrum et serpentium etiam ceterorum domantur et domita sunt a natura humana</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.008">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>linguam autem nullus hominum domare potest inquietum malum plena veneno mortifero</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.009">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>in ipsa benedicimus Dominum et Patrem et in ipsa maledicimus homines qui ad similitudinem Dei facti sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.010">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>ex ipso ore procedit benedictio et maledictio non oportet fratres mei haec ita fieri</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.011">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>numquid fons de eodem foramine emanat dulcem et amaram aquam</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.012">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:12</verseNum>
+      </reference>
+      <l>numquid potest fratres mei ficus olivas facere aut vitis ficus sic neque salsa dulcem potest facere aquam</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.013">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:13</verseNum>
+      </reference>
+      <l>quis sapiens et disciplinatus inter vos ostendat ex bona conversatione operationem suam in mansuetudine sapientiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.014">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:14</verseNum>
+      </reference>
+      <l>quod si zelum amarum habetis et contentiones in cordibus vestris nolite gloriari et mendaces esse adversus veritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.015">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:15</verseNum>
+      </reference>
+      <l>non est ista sapientia desursum descendens sed terrena animalis diabolica</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.016">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:16</verseNum>
+      </reference>
+      <l>ubi enim zelus et contentio ibi inconstantia et omne opus pravum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.017">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:17</verseNum>
+      </reference>
+      <l>quae autem desursum est sapientia primum quidem pudica est deinde pacifica modesta suadibilis plena misericordia et fructibus bonis non iudicans sine simulatione</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.003.018">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>3:18</verseNum>
+      </reference>
+      <l>fructus autem iustitiae in pace seminatur facientibus pacem</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.James.004.001">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>unde bella et lites in vobis nonne hinc ex concupiscentiis vestris quae militant in membris vestris</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.002">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>concupiscitis et non habetis occiditis et zelatis et non potestis adipisci litigatis et belligeratis non habetis propter quod non postulatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.003">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>petitis et non accipitis eo quod male petatis ut in concupiscentiis vestris insumatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.004">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>adulteri nescitis quia amicitia huius mundi inimica est Dei quicumque ergo voluerit amicus esse saeculi huius inimicus Dei constituitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.005">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>aut putatis quia inaniter scriptura dicat ad invidiam concupiscit Spiritus qui inhabitat in nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.006">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>maiorem autem dat gratiam propter quod dicit Deus superbis resistit humilibus autem dat gratiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.007">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>subditi igitur estote Deo resistite autem diabolo et fugiet a vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.008">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>adpropiate Domino et adpropinquabit vobis emundate manus peccatores et purificate corda duplices animo</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.009">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>miseri estote et lugete et plorate risus vester in luctum convertatur et gaudium in maerorem</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.010">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>humiliamini in conspectu Domini et exaltabit vos</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.011">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>nolite detrahere de alterutrum fratres qui detrahit fratri aut qui iudicat fratrem suum detrahit legi et iudicat legem si autem iudicas legem non es factor legis sed iudex</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.012">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>unus est legislator et iudex qui potest perdere et liberare tu autem quis es qui iudicas proximum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.013">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>ecce nunc qui dicitis hodie aut crastino ibimus in illam civitatem et faciemus quidem ibi annum et mercabimur et lucrum faciemus</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.014">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>qui ignoratis quid erit in crastinum quae enim est vita vestra vapor est ad modicum parens deinceps exterminatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.015">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>pro eo ut dicatis si Dominus voluerit et vixerimus faciemus hoc aut illud</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.016">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>nunc autem exultatis in superbiis vestris omnis exultatio talis maligna est</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.004.017">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>scienti igitur bonum facere et non facienti peccatum est illi</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.James.005.001">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>age nunc divites plorate ululantes in miseriis quae advenient vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.002">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>divitiae vestrae putrefactae sunt et vestimenta vestra a tineis comesta sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.003">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>aurum et argentum vestrum eruginavit et erugo eorum in testimonium vobis erit et manducabit carnes vestras sicut ignis thesaurizastis in novissimis diebus</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.004">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>ecce merces operariorum qui messuerunt regiones vestras qui fraudatus est a vobis clamat et clamor ipsorum in aures Domini Sabaoth introiit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.005">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>epulati estis super terram et in luxuriis enutristis corda vestra in die occisionis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.006">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>addixistis occidistis iustum non resistit vobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.007">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>patientes igitur estote fratres usque ad adventum Domini ecce agricola expectat pretiosum fructum terrae patienter ferens donec accipiat temporivum et serotinum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.008">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>patientes estote et vos confirmate corda vestra quoniam adventus Domini adpropinquavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.009">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>nolite ingemescere fratres in alterutrum ut non iudicemini ecce iudex ante ianuam adsistit</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.010">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>exemplum accipite fratres laboris et patientiae prophetas qui locuti sunt in nomine Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.011">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>ecce beatificamus qui sustinuerunt sufferentiam Iob audistis et finem Domini vidistis quoniam misericors est Dominus et miserator</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.012">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>ante omnia autem fratres mei nolite iurare neque per caelum neque per terram neque aliud quodcumque iuramentum sit autem vestrum est est non non uti non sub iudicio decidatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.013">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>tristatur aliquis vestrum oret aequo animo est psallat</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.014">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>infirmatur quis in vobis inducat presbyteros ecclesiae et orent super eum unguentes eum oleo in nomine Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.015">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>et oratio fidei salvabit infirmum et adlevabit eum Dominus et si in peccatis sit dimittentur ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.016">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>confitemini ergo alterutrum peccata vestra et orate pro invicem ut salvemini multum enim valet deprecatio iusti adsidua</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.017">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>Helias homo erat similis nobis passibilis et oratione oravit ut non plueret super terram et non pluit annos tres et menses sex</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.018">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:18</verseNum>
+      </reference>
+      <l>et rursum oravit et caelum dedit pluviam et terra dedit fructum suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.019">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:19</verseNum>
+      </reference>
+      <l>fratres mei si quis ex vobis erraverit a veritate et converterit quis eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.James.005.020">
+      <reference>
+        <bookName>James</bookName>
+        <verseNum>5:20</verseNum>
+      </reference>
+      <l>scire debet quoniam qui converti fecerit peccatorem ab errore viae suae salvabit animam eius a morte et operit multitudinem peccatorum</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.James.colophon.001">
+    <reference>
+      <bookName>James</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT EPISTULA IACOBI</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

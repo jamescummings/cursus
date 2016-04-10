@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2876" nextid="c2878" id="c2877">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Filiae Jerusalem venite et videte
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V"> martyrem cum corona</rdg>
+         <rdg wit="CAO-H CAO-R"> martyres cum corona</rdg>
+         <rdg wit="CAO-F CAO-S CAO-L"> martyres cum coronis</rdg>
+         <rdg wit="CAO-D"> martyre<del status="unremarkable">s</del> cum corona</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-D"> qua coronavit eum dominus</rdg>
+         <rdg wit="CAO-F CAO-S CAO-L"> quibus coronavit eos dominus</rdg>
+         <rdg wit="CAO-H CAO-R"> qua coronavit eos dominus</rdg>
+      </app> in die solemnitatis et laetitiae alleluia alleluia</aBody>
+</ant>

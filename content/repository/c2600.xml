@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2599" nextid="c2601" id="c2600">
+   <header>
+      <usage ms="Alb2" code="07051000">[97v] vesp1</usage>
+      <usage ms="Cdm" code="07051000">[70r] vesp1</usage>
+      <usage ms="Ely" code="07051000">[80v] vesp1</usage>
+      <usage ms="Hyd" code="07051000">[85r] vesp1</usage>
+      <usage ms="Pet" code="07051000">[79r] vesp1</usage>
+      <usage ms="Wor" code="07051000">[52v] vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Alb2 Cdm"> Ego sum qui testimonium perhibeo de meipso et testimonium perhibet de me qui misit me
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Alb2 Cdm">pater</rdg>
+         <rdg wit="CAO-V">patris</rdg>
+      </app>
+   </aBody>
+</ant>

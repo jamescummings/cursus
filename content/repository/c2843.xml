@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2842" nextid="c2844" id="c2843">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Factum est silentium in caelo
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> dum draco committeret bellum</rdg>
+         <rdg wit="CAO-M CAO-D CAO-L"> cum draco committeret bellum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> et Michael pugnavit cum eo</rdg>
+         <rdg wit="CAO-B"> Michael pugnavit cum eo</rdg>
+         <rdg wit="CAO-D"> et Michael pugnabat cum eo</rdg>
+      </app> et fecit victoriam alleluia</aBody>
+</ant>

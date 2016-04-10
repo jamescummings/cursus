@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6997" nextid="c6999" id="c6998">
+   <rBody wit="CAO-R CAO-L"> Iste est de sublimibus caelorum praepotentibus unus
+      <app>
+         <rdg wit="CAO-R"> quem</rdg>
+         <rdg wit="CAO-L"> que</rdg>
+      </app> manus domini consecravit matris in visceribus
+      <app>
+         <rdg wit="CAO-R"> cuius nos meritis adiuvari</rdg>
+         <rdg wit="CAO-L"> cuius nos precibus adiuvaris</rdg>
+      </app> supplices deposcimus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Iste est qui ante Deum magnas virtutes operatus est omnis terra doctrina eius repleta est</vBody>
+      <vBody type="r" wit="CAO-R"> Iste est enim Joannes cuius tanta est meritorum praerogativa ut eius simul per angelum Gabrielem praenuntiaretur nativitas nomen victus officium et meritum</vBody>
+      <vBody type="r" num="2" wit="CAO-R"> Remigius sanctus antequam natus per Montanum monachum fuit praenuntiatus</vBody>
+      <rep type="r" wit="CAO-R CAO-L"> Cuius</rep>
+   </verses>
+</res>

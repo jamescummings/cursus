@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1708" nextid="o1710" id="o1709">
+   <header>
+      <usage ms="Bat" code="07013000">[50v] vesp2</usage>
+      <usage ms="Cdm" code="07013000">[59r] vesp2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm Bat"> Ascendant ad te domine preces nostrae et ab ecclesia tua cunctam repelle nequitiam</pBody>
+</prayer>

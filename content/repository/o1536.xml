@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1535" nextid="o1537" id="o1536">
+   <header>
+      <usage ms="Cht" code="07033000"/>
+      <usage ms="Ely" code="07033000"/>
+      <usage ms="Evm" code="07033000"/>
+      <usage ms="Hyd" code="07033000"/>
+      <usage ms="Wcb" code="07033000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.239</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb">Tua nos domine protectione defende et ab omni semper iniquitate custodi</pBody>
+</prayer>

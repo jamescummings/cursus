@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9001" nextid="c9003" id="c9002">
+   <header>
+      <usage ms="Alb2" code="06021000">[68r] matins-n2-r5</usage>
+      <usage ms="Bat" code="06021000">[43v] matins-n2-r5</usage>
+      <usage ms="Cdm" code="06021000">[51v] matins-n2-r5</usage>
+      <usage ms="Ely" code="06021000">[61v] matins-n2-r5</usage>
+      <usage ms="Hyd" code="06021000">[63v] matins-n1-r4</usage>
+      <usage ms="Mch" code="06021000">[103v] matins-n2-r5</usage>
+      <usage ms="Pet" code="06021000">[58r] matins-n2-r5</usage>
+      <usage ms="Wcb" code="06021000">[87v] matins-n2-r6</usage>
+      <usage ms="Wor" code="06021000">[38v] matins-n2-r5</usage>
+   </header>
+   <rBody wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch"> Deletis cunctis substantiis super terram remansit solus Noe et qui cum eo erant in archa</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch"> Consumpta vero omni carne
+      <app>
+            <rdg wit="Hyd Alb2">ex omnibus in quibus erat</rdg>
+            <rdg wit="Wor Pet Ely Wcb Cdm Bat">et omnibus in quibus erat</rdg>
+            <rdg wit="Mch"> in quibus erat</rdg>
+         </app> spiraculum vitae</vBody>
+      <rep type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch">Remansit</rep>
+   </verses>
+</res>

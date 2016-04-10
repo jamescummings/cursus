@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3005" nextid="c3007" id="c3006">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Haec est virgo sapiens et una de numero
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> prudentum</rdg>
+         <rdg wit="CAO-E"> prudentem</rdg>
+         <rdg wit="CAO-H"> prudentum <hi rend="without music notation">alleluia</hi>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

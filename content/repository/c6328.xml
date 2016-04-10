@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6327" nextid="c6329" id="c6328">
+   <header>
+      <usage ms="Alb2" code="02122400">[22v] matins-n1-r2</usage>
+      <usage ms="Bat" code="02122400">[14r] matins-n3-r10</usage>
+      <usage ms="Cdm" code="02122400">[20v] matins-n1-r2</usage>
+      <usage ms="Ely" code="02122400">[16v] matins-n1-r3</usage>
+      <usage ms="Evm" code="02122400">[30v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="02122400">[16r] matins-n1-r2</usage>
+      <usage ms="Mch" code="02122400">[22r] matins-n1-r2</usage>
+      <usage ms="Pet" code="02122400">[13v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="02122400">[52r] matins-r2</usage>
+      <usage ms="Wor" code="02122400">[12v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Constantes estote videbitis auxilium domini super vos
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Mch Ely Wor Pet"> Judaea et Jerusalem</rdg>
+         <rdg wit="Evm Wcb"> o Juda et Jerusalem</rdg>
+      </app> nolite timere cras egrediemini et dominus erit vobiscum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor"> Vos qui in pulvere estis expergiscimini et laudate
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-F Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor"> ecce dominus veniet cum salute</rdg>
+            <rdg wit="CAO-M"> quia veniet dominus cum salute</rdg>
+            <rdg wit="CAO-D"> ecce veniet dominus cum salute</rdg>
+            <rdg wit="CAO-B"> ecce dominus cum virtute veniet</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S CAO-L Pet"> Sanctificamini filii Israel
+       <app>
+            <rdg wit="CAO-S"> dicit dominus et estote parati</rdg>
+            <rdg wit="CAO-L Pet"> et estote parati</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wcb Bat Cdm Mch Ely Wor Pet">Cras</rep>
+      <rep type="r" wit="Evm"> O Judea</rep>
+   </verses>
+</res>

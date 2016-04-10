@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1551" nextid="c1553" id="c1552">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes"> AnnMus II (1954) 29-32, 41: EphLit LXXII (1958) 6, 19</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Baptista contremuit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> et non audet tangere</rdg>
+         <rdg wit="CAO-G"> et non audebat tangere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Hyd"> sanctum dei verticem</rdg>
+         <rdg wit="CAO-C CAO-M CAO-L Pet"> sanctum tuum verticem</rdg>
+      </app> sed clamat cum tremore sanctifica me salvator</aBody>
+</ant>

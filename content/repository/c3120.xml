@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3119" nextid="c3121" id="c3120">
+   <aBody wit="CAO-V CAO-R CAO-L"> Hodie secreta caeli caro Christi petiit hodie factum est magnum angelorum gaudium quia
+     <app>
+         <rdg wit="CAO-R CAO-L"> filius excelsi</rdg>
+         <rdg wit="CAO-V"> filius excelsus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-R"> iam immortalis</rdg>
+         <rdg wit="CAO-L"> immortalis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R"> in regnum patris sui</rdg>
+         <rdg wit="CAO-V CAO-L"> in regno patris sui</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-R"> gloriosus advenit alleluia alleluia</rdg>
+         <rdg wit="CAO-L"> gloriosus ascendit alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

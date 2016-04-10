@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2010" nextid="c2011b" id="c2011">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cum inducerent puerum Jesum parentes eius
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> accepit eum Simeon in ulnas suas</rdg>
+         <rdg wit="CAO-G"> accepit eum puerum in ulnas suas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L"> et benedixit deum dicens</rdg>
+         <rdg wit="CAO-S"> et benedixit deum dixit</rdg>
+         <rdg wit="CAO-M CAO-D"> et benedixit eum</rdg>
+      </app> dicens nunc dimittis domine servum tuum in pace</aBody>
+</ant>

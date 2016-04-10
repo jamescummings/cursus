@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1930" nextid="c1932" id="c1931">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> Corde et animo Christo canamus gloriam</rdg>
+         <rdg wit="CAO-V CAO-S CAO-L"> Corde et animo Christo canamus gloria</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> in hac sacra solemnitate</rdg>
+         <rdg wit="CAO-C CAO-F"> in his sacris solemniis</rdg>
+         <rdg wit="CAO-M"> in haec sacra solemnia</rdg>
+      </app> praecelsae genitricis dei <name reg="Maria virg" type="saint">Mariae</name>
+   </aBody>
+</ant>

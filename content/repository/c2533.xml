@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2532" nextid="c2534" id="c2533">
+   <aBody wit="CAO-C CAO-L">
+      <app>
+         <rdg wit="CAO-L"> Ecce odor filii mei</rdg>
+         <rdg wit="CAO-C"> Ecce odor fili mei</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> sicut odor agri pleni</rdg>
+         <rdg wit="CAO-C"> sicut odor agri</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L"> cui benedixit dominus</rdg>
+         <rdg wit="CAO-C"> quem benedixit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4057" nextid="c4059" id="c4058">
+   <header>
+      <usage ms="Alb2" code="02122600">[30v] matins-n1-a6</usage>
+      <usage ms="Bat" code="02122600">[18v] matins-n1-a6</usage>
+      <usage ms="Cdm" code="02122600">[24r] matins-n1-a6</usage>
+      <usage ms="Evm" code="02122600">[38v] matins-n1-a6</usage>
+      <usage ms="Hyd" code="02122600">[22r] matins-n1-a6</usage>
+      <usage ms="Pet" code="02122600">[21r] matins-n1-a6</usage>
+      <usage ms="Wor" code="02122600">[16v] matins-n1-a6</usage>
+   </header>
+   <aBody wit="CAO-G Alb2 Bat Evm Hyd Cdm Wor Pet"> O quam admirabile est nomen tuum domine deus noster pro quo beatus Stephanus passus gloria et honore a te est coronatus
+     <app>
+         <rdg wit="CAO-G Alb2 Evm Hyd Cdm Wor Pet"> et super caelos dono tuae magnificentiae exaltatus</rdg>
+         <rdg wit="Bat"> et dono tuae magnificentiae super caelos exaltatus</rdg>
+      </app>
+   </aBody>
+</ant>

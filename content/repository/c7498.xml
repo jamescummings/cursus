@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7497" nextid="c7499" id="c7498">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Quis deus magnus</rdg>
+         <rdg wit="CAO-M"> Qui deus magnus</rdg>
+      </app> sicut deus noster tu es deus qui facis mirabilia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Notam fecisti in populis virtutem tuam redemisti in brachio tuo populum tuum</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Tu es</rep>
+   </verses>
+</res>

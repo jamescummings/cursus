@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1383" nextid="c1385" id="c1384">
+   <header>
+      <usage ms="Evm" code="06018000">[95r] </usage>
+      <usage ms="Glo" code="06018000">[50r] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-M CAO-H CAO-R Evm Glo"> Amice non facio tibi iniuriam nonne ex denario convenisti mecum tolle quod tuum est et vade</aBody>
+</ant>

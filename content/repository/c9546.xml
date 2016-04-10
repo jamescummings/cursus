@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9545" nextid="o1001" id="c9546">
+   <header>
+      <usage ms="Pet" code="02122800">[31v] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf antiphon c3351</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Pet"> Innocentes pro Christo lactentes interfecti sunt</rBody>
+   <verses>
+      <vBody type="r" wit="Pet"> Hii sequuntur agnum sine macula quocumque ierit</vBody>
+      <rep type="r" wit="Pet">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">no regressio given</note>
+      </rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

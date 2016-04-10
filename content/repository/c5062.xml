@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5061" nextid="c5063" id="c5062">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Super ripam Jordanis stabat beatus Joannes
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R"> indutus est splendore</rdg>
+         <rdg wit="CAO-V"> indutus splendore</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R"> baptizans salvatorem</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V"> baptizat salvatorem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-R"> baptiza me Joannes baptiza</rdg>
+         <rdg wit="CAO-C CAO-V CAO-H"> baptiza me Joannes baptizo</rdg>
+      </app> benedico te et tu Jordanis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R"> congaudens suscipe me</rdg>
+         <rdg wit="CAO-M"> congaude suscipe me alleluia</rdg>
+         <rdg wit="CAO-E"> cum gaudio suscipe me</rdg>
+      </app>
+   </aBody>
+</ant>

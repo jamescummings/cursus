@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1771" nextid="c1773" id="c1772">
+   <header>
+      <usage ms="Glo" code="07066000">[80r] mandatum</usage>
+   </header>
+   <aBody wit="CAO-F Glo"> Caritas est summum bonum
+     <app>
+         <rdg wit="CAO-F"> amplum donum</rdg>
+         <rdg wit="Glo"> amplum bonum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> in quo pendet</rdg>
+         <rdg wit="Glo"> in qua pendet</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> omnis ordo praeceptorum</rdg>
+         <rdg wit="Glo"> totus ordo praeceptorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> per quem vetus atque nova lex impletur</rdg>
+         <rdg wit="Glo"> per quam vetus atque nova lex impletur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> per quem deus ac proximus diligitur</rdg>
+         <rdg wit="Glo"> per quam deus ac proximus diligitur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> per quem caelorum regnum adipiscitur</rdg>
+         <rdg wit="Glo"> per quam caelorum regnum adipiscitur</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-F">Ille namque tenet et quod patet et quod latet in divinis sermonibus qui caritatem tenet in moribus</vBody>
+      <rep type="a" wit="CAO-F"> Per quem deus ac proximus</rep>
+   </verses>
+</ant>

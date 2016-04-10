@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1837" nextid="c1839" id="c1838">
+   <aBody wit="CAO-S">
+      <verse type="stanza">
+         <l part="N">Caeli reginam <name reg="Maria virg" type="saint">Maria</name> te iure fatemur</l>
+         <l part="N">e cuius thalamo processit iustitiae sol</l>
+      </verse>
+   </aBody>
+</ant>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7733" nextid="c7734b" id="c7734">
+   <header>
+      <usage ms="Cdm" code="08013000">[82v] matins-n1-r2</usage>
+      <usage ms="Hyd" code="08011000">[99r] matins-n2-r5</usage>
+      <usage ms="Hyd" code="08013000">[102v] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Surgens Jesus dominus noster
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cdm"> stans</rdg>
+         <rdg wit="CAO-C CAO-L"> et stans</rdg>
+      </app> in medio discipulorum suorum dixit pax vobis alleluia gavisi sunt discipuli viso domino alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Cdm"> Surrexit dominus de sepulcro qui pro nobis pependit in ligno</vBody>
+      <vBody id="c7734-1" type="r" wit="CAO-F"> Surrexit dominus de sepulcro qui pro nobis pependit in ligno</vBody>
+      <rep corresp="c7734-1" type="r" wit="CAO-F"> Gavisi sunt</rep>
+      <vBody type="r" wit="CAO-L"> Una ergo sabbatorum cum fores essent clausae ubi erant discipuli in unum congregati propter metum Judaeorum venit Jesus et stetit in medio et dixit eis</vBody>
+      <vBody id="c7734-2" type="r" num="2" wit="CAO-F"> Una ergo sabbatorum cum fores essent clausae ubi erant discipuli congregati venit Jesus et stetit in medio et dixit</vBody>
+      <rep corresp="c7734-2" type="r" wit="CAO-F"> Pax</rep>
+      <vBody type="r" wit="Hyd"> Dum essent in unum congregati propter metum Judeorum stetit Jesus in medio et dixit eis</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Cdm"> Gavisi sunt</rep>
+      <rep type="r" wit="CAO-L Hyd">Pax</rep>
+   </verses>
+</res>

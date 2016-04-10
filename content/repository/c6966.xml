@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6965" nextid="c6967" id="c6966">
+   <rBody wit="CAO-B CAO-E CAO-R"> Ingressus Pilatus cum Jesu in praetorium
+      <app>
+         <rdg wit="CAO-B CAO-R"> tunc ait illi</rdg>
+         <rdg wit="CAO-E"> et dixit ei</rdg>
+      </app> tu es rex Judaeorum
+      <app>
+         <rdg wit="CAO-B CAO-R"> respondit</rdg>
+         <rdg wit="CAO-E"> respondens</rdg>
+      </app> tu dicis quia
+      <app>
+         <rdg wit="CAO-B CAO-R"> rex sum</rdg>
+         <rdg wit="CAO-E"> rex sum ego</rdg>
+      </app> exivit ergo Jesus de praetorio portans
+      <app>
+         <rdg wit="CAO-B CAO-R"> coronam</rdg>
+         <rdg wit="CAO-E"> spineam coronam</rdg>
+      </app> et vestem purpuream
+      <app>
+         <rdg wit="CAO-B CAO-R"> et cum indutus fuisset exclamaverunt</rdg>
+         <rdg wit="CAO-E"> qua indutus fuerat et clamabant</rdg>
+      </app> omnes crucifigatur quia filium Dei se fecit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R">Tunc ait illis Pilatus regem vestrum crucifigam
+       <app>
+            <rdg wit="CAO-E"> respondentes pontifices</rdg>
+            <rdg wit="CAO-R"> responderunt</rdg>
+            <rdg wit="CAO-B"> responderunt <add place="margin">pontifices</add>
+            </rdg>
+         </app> regem non habemus nisi Caesarem</vBody>
+      <rep type="r" wit="CAO-B CAO-R">Et cum</rep>
+      <rep type="r" wit="CAO-E"> Et clamabant</rep>
+   </verses>
+</res>

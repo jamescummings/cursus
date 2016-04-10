@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7611" nextid="c7613" id="c7612">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L"> Sanctus Gamaliel in visu dixit Luciano diligenter animadverte quae
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> dico</rdg>
+         <rdg wit="CAO-L"> ostendo</rdg>
+      </app> et statim deposuit coram eo tres calathos aureos et quartus argenteus plenus erat croco</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Unus ex tribus calathis rubentes
+      <app>
+            <rdg wit="CAO-S CAO-L"> habebat</rdg>
+            <rdg wit="CAO-D"> habeat</rdg>
+            <rdg wit="CAO-F"> habet</rdg>
+         </app> rosas tamquam
+      <app>
+            <rdg wit="CAO-D CAO-S CAO-L"> sanguinem</rdg>
+            <rdg wit="CAO-F"> sanguis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L"> alii vero</rdg>
+            <rdg wit="CAO-D CAO-S"> alii vero duo</rdg>
+            <rdg wit="CAO-F"> alii autem</rdg>
+         </app> referti erant
+      <app>
+            <rdg wit="CAO-F CAO-S CAO-L"> rosis albis</rdg>
+            <rdg wit="CAO-D"> albis rosis</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L">Et quartus</rep>
+   </verses>
+</res>

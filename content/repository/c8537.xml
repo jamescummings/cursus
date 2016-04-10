@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8536" nextid="c8538" id="c8537">
+   <header>
+      <usage ms="Glo" code="07066000">[80v] mandatum</usage>
+   </header>
+   <aBody wit="Glo">Caritas patiens est benigna est caritas non aemulatur non agit perperam non inflatur non est ambitiosa non quaerit quae sua sunt</aBody>
+   <verses>
+      <vBody type="a" wit="Glo"> non inritatur non cogitat malum non gaudet super iniquitatem congaudet autem veritati</vBody>
+   </verses>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1100" nextid="c1102" id="c1101">
+   <aBody wit="CAO-F CAO-S"> Laudemus dominum
+     <app>
+         <rdg wit="CAO-F"> qui sanctis suis</rdg>
+         <rdg wit="CAO-S"> qui in sanctis suis</rdg>
+      </app> post labores et certamina
+     <app>
+         <rdg wit="CAO-F"> coronam</rdg>
+         <rdg wit="CAO-S"> coronas</rdg>
+      </app> dedit victoriae</aBody>
+</ant>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6667" nextid="c6669" id="c6668">
+   <header>
+      <usage ms="Bat" code="07021000">[51v] matins-n2-r8</usage>
+      <usage ms="Cdm" code="07021000">[61r] matins-n2-r8</usage>
+      <usage ms="Cht" code="07021000">[30r] matins-n2-r8</usage>
+      <usage ms="Ely" code="07021000">[71v] matins-n2-r8</usage>
+      <usage ms="Evm" code="07021000">[115v] matins-n2-r8</usage>
+      <usage ms="Hyd" code="07021000">[75r] matins-n2-r8</usage>
+      <usage ms="Mch" code="07021000">[122v] matins-n2-r7</usage>
+      <usage ms="Pet" code="07021000">[68r] matins-n2-r8</usage>
+      <usage ms="Wor" code="07021000">[46r] matins-n2-r8</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Verse no2 used by Peterborough for respond c7650</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Cdm Bat Mch"> Erit mihi dominus in deum
+    <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Pet Evm Cdm Bat Mch"> et lapis iste</rdg>
+         <rdg wit="Cht"> et <sic resp="DC">lapi</sic> iste</rdg>
+      </app> quem erexi in titulum vocabitur domus dei
+    <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Pet Evm Cdm Bat Mch"> et de universis quae dederis mihi</rdg>
+         <rdg wit="CAO-G CAO-V Hyd Cht"> et de universis quae dederit mihi</rdg>
+      </app> decimas et hostias pacificas offeram tibi</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Ely Cht Pet Evm Mch"> Si dominus deus meus fuerit mecum in via ista qua ego ambulo et custodierit me</vBody>
+      <vBody type="r" wit="CAO-G CAO-S CAO-L Wor Cdm Bat"> Si reversus fuero prospere
+     <app>
+            <rdg wit="CAO-G CAO-S CAO-L"> ad domum</rdg>
+            <rdg wit="Wor Cdm Bat"> in domum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-S Wor Cdm Bat"> patris mei</rdg>
+            <rdg wit="CAO-L"> patris mei de omnibus quae dederit mihi</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Cdm Bat Mch"> Decimas</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

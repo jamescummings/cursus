@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6178" nextid="c6180" id="c6179">
+   <rBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">Beati Mauri cognita praesentia</l>
+         <l part="N">caecus precatur ut lumen recipiat</l>
+         <l part="N">cuius vir sanctus prece motus nimia</l>
+         <l part="N">orando sibi quod deposcit impetrat</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <verse type="stanza">
+            <l part="N">Visu recepto gaudens caecus praedicat</l>
+            <l part="N">Mauri beati gloriosa merita</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-L">Orando</rep>
+   </verses>
+</res>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7905b" nextid="c7907" id="c7906">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Viri sancti gloriosum
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> sanguinem</rdg>
+         <rdg wit="CAO-E"> sanguine</rdg>
+      </app> fuderunt pro domino amaverunt Christum in vita sua
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> imitati sunt</rdg>
+         <rdg wit="CAO-E CAO-M"> invitati sunt</rdg>
+         <rdg wit="CAO-V">
+            <corr sic="invitati">imitati</corr> sunt</rdg>
+      </app> eum in morte sua et ideo
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> coronas</rdg>
+         <rdg wit="CAO-L"> corona</rdg>
+      </app> triumphales meruerunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Unus spiritus et una fides erat in eis</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et ideo</rep>
+   </verses>
+</res>

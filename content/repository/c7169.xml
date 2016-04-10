@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7168" nextid="c7170" id="c7169">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-M CAO-D CAO-F"> Misso Herodes spiculatore</rdg>
+         <rdg wit="CAO-C CAO-E CAO-L"> Misso Herode spiculatore</rdg>
+         <rdg wit="CAO-V"> Misso Herode spiculatores</rdg>
+      </app> praecepit
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-L"> amputare</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F"> amputari</rdg>
+      </app> caput
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-L"> Joannis</rdg>
+         <rdg wit="CAO-V"> Joannes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-F"> in carcere</rdg>
+         <rdg wit="CAO-E CAO-L"> in carcerem</rdg>
+      </app> quo audito discipuli eius venerunt et tulerunt corpus eius et posuerunt
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-L"> illud</rdg>
+         <rdg wit="CAO-V"> illum</rdg>
+      </app> in monumento</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-F">
+         <app>
+            <rdg wit="CAO-E CAO-M CAO-F"> Accedentes discipuli</rdg>
+            <rdg wit="CAO-V"> Accedente discipuli</rdg>
+            <rdg wit="CAO-C"> Accedentes autem discipuli</rdg>
+         </app> sancti Joannis baptistae
+       <app>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-F"> tulerunt</rdg>
+            <rdg wit="CAO-C"> venerunt et tulerunt</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-V CAO-F"> corpus eius</rdg>
+            <rdg wit="CAO-M"> eius corpus</rdg>
+            <rdg wit="CAO-E"> corpus eius et posuerunt illud</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D"> Cuius caput datum est puellae et puella dedit matri suae</vBody>
+      <vBody type="r" wit="CAO-L"> Cum autem audissent discipuli beati Joannis quia fecisset eum Herodes decollari in carcerem</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Quo audito</rep>
+      <rep type="r" wit="CAO-C CAO-M CAO-V CAO-F">Et posuerunt</rep>
+      <rep type="r" wit="CAO-E">In monumento</rep>
+      <rep type="r" wit="CAO-L">Venerunt</rep>
+   </verses>
+</res>

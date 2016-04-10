@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7327" nextid="c7329" id="c7328">
+   <rBody wit="CAO-E CAO-S"> Orabat sanctus Thomas ad dominum respice in me domine invocantem te ac revertentem ad nuptias</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Adesto domine servo tuo ut cum pace dirigas me ad sedem tuam</vBody>
+      <vBody type="r" wit="CAO-S"> Circumda hodie domine Jesu Christe famulum tuum</vBody>
+      <rep type="r" wit="CAO-E CAO-S">Invocantem</rep>
+   </verses>
+</res>

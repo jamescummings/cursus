@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1717" nextid="o1719" id="o1718">
+   <header>
+      <usage ms="Cdm" code="07034000">[66r] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.870</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Deus refugium pauperum spes humilium salusque miserorum supplicationes servorum turorum clementer exaudi ut quos iustitia verberum fecit afflictos abundantia remediorum faciat consolatos</pBody>
+</prayer>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5009b" nextid="c5011" id="c5010">
+   <header>
+      <usage ms="Alb2" code="02122700">[36v] commemoration</usage>
+      <usage ms="Cdm" code="02122700">[28r] vesp2 commemoratio</usage>
+      <usage ms="Evm" code="02122800">[49v] sext</usage>
+      <usage ms="Hyd" code="02122700">[25v] commemoration</usage>
+      <usage ms="Hyd" code="02122800" corresp="c5010-1001" id="c5010-1002"/>
+      <usage ms="Pet" code="02122800">[28v] vesp1-a1</usage>
+      <usage ms="Wcb" code="02122800">[63v] matins-n2-a8</usage>
+      <usage ms="Wor" code="02122700">[21v] commemoration</usage>
+   </header>
+   <aBody wit="CAO-V CAO-D Hyd Alb2 Evm Wcb Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-D Alb2"> Splendent Bethleemitici campi</rdg>
+         <rdg wit="Evm Wcb"> Splendent Bethleem campi</rdg>
+         <rdg wit="CAO-V Hyd Cdm Wor Pet"> Splendet Bethleemiticus campus</rdg>
+      </app> de candidata turba infantium pretiosa corpora pro Christo
+     <app>
+         <rdg wit="CAO-D Alb2"> caesa iacebant sub Herode</rdg>
+         <rdg wit="Evm Wcb"> caesa iacebant ab Herode</rdg>
+         <rdg wit="CAO-V Cdm Wor Pet"> caesa iacent sub Herode</rdg>
+         <rdg wit="Hyd"> caesa iacent sub Herode quos tamen ille ferox pueros occidit et atrox ecce dei vineum laudant comitantur et agnum cantantes illi nova cantica virginitatis alleluia</rdg>
+      </app>
+   </aBody>
+   <aBody corresp="c5010-1002" id="c5010-1001" wit="Hyd" num="2"> Splendet Bethleemiticus campus de candidata turba infantium pretiosa corpora pro Christo caesa iacent sub Herode</aBody>
+</ant>

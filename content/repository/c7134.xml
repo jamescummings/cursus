@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7133" nextid="c7135" id="c7134">
+   <rBody wit="CAO-F"> Martyr insignis alme Vincenti meritisque clare cum Christo regnans preces nostras in aula Regis aeterni subleva et protege utrumque ordinem cuius egregius exstitisti levita in orbe</rBody>
+   <verses>
+      <vBody id="c7134-1" type="r" wit="CAO-F"> Hoc est testimonium quod perhibuit Joannes</vBody>
+      <rep corresp="c7134-1" type="r" wit="CAO-F">Qui post</rep>
+      <vBody id="c7134-2" type="r" num="2" wit="CAO-F"> Ego baptizavi vos aqua ille autem baptizabit vos spiritu sancto</vBody>
+      <rep corresp="c7134-2" type="r" wit="CAO-F">Cuius</rep>
+   </verses>
+</res>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1854" nextid="c1856" id="c1855">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Columna es immobilis
+     <app>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-D CAO-S"> Lucia martyr Christi</rdg>
+         <rdg wit="CAO-C"> Lucia martyra Christi</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-L"> Lucia sponsa Christi</rdg>
+      </app> quia omnis plebs te exspectat
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-D CAO-L"> ut accipias coronam regni alleluia</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S"> ut accipias coronam vitae alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3466" nextid="c3468" id="c3467">
+   <header>
+      <usage ms="Hyd" code="08041000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-F CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-L Hyd"> Iterum videbo vos alleluia</rdg>
+         <rdg wit="CAO-G"> Iterum autem videbo vos alleluia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E Hyd"> et gaudebit cor vestrum alleluia</rdg>
+         <rdg wit="CAO-F CAO-L"> et gaudebit cor vestrum alleluia alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

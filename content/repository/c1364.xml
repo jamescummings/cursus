@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1363" nextid="c1365" id="c1364">
+   <header>
+      <usage ms="Alb2" code="02122800">[38v] matins-n3</usage>
+      <usage ms="Evm" code="02123100">[57r] lauds commemoratio</usage>
+      <usage ms="Pet" code="02122800">[32r] week?</usage>
+      <usage ms="Wcb" code="02122800">[63r] matins-n1-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Wcb Pet"> Ambulabunt mecum in albis
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Evm Wcb Pet"> quoniam digni sunt</rdg>
+         <rdg wit="CAO-E"> quia digni sunt</rdg>
+      </app> et non delebo nomina eorum de libro vitae</aBody>
+</ant>

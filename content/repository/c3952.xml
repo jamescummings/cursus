@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3951" nextid="c3953" id="c3952">
+   <header>
+      <usage ms="Alb2" code="02122800">[37r] matins-n1-a4</usage>
+      <usage ms="Bat" code="02122800">[22v] matins-n1-a4</usage>
+      <usage ms="Cdm" code="02122800">[28r] matins-n1-a4</usage>
+      <usage ms="Evm" code="02122800">[46v] matins-n1-a4</usage>
+      <usage ms="Hyd" code="02122800">[25v] matins-n1-a4</usage>
+      <usage ms="Pet" code="02122800">[28v] matins-n1-a4</usage>
+      <usage ms="Wor" code="02122800">[21v] matins-n1-a4</usage>
+   </header>
+   <aBody wit="CAO-G CAO-S Hyd Alb2 Evm Bat Cdm Wor Pet"> Norunt infantes laudare deum qui loqui non noverant fiunt periti laude qui fuerant imperiti sermone</aBody>
+</ant>

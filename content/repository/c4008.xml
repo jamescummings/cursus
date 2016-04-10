@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4007" nextid="c4009" id="c4008">
+   <header>
+      <usage ms="Glo" code="14120600">[14v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Glo"> O Christi pietas omni prosequenda laude
+     <app>
+         <rdg wit="CAO-D CAO-F Glo"> qui sui famuli Nicolai</rdg>
+         <rdg wit="CAO-B CAO-R CAO-L"> qui sui famuli</rdg>
+         <rdg wit="CAO-E"> quae sui famuli</rdg>
+         <rdg wit="CAO-S"> quae suis famulis</rdg>
+      </app> merita longe lateque declarat nam ex tumba eius oleum manat cunctosque languidos sanat</aBody>
+</ant>

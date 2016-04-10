@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7253" nextid="c7255" id="c7254">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-D CAO-F CAO-S Hyd"> O beata trinitas te laudamus te benedicimus te adoramus auge in nobis fidem auge spem auge caritatem o beata trinitas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S Hyd">Tibi laus tibi gloria tibi gratiarum actio in saecula sempiterna</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S Hyd">O beata</rep>
+   </verses>
+</res>

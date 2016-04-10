@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7762" nextid="c7764" id="c7763">
+   <rBody wit="CAO-R CAO-D CAO-S"> Terribilis est locus iste non est hic aliud nisi domus dei et porta caeli vere etenim dominus est in loco isto et ego nesciebam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-S">
+         <app>
+            <rdg wit="CAO-D CAO-S"> Cumque evigilasset Jacob</rdg>
+            <rdg wit="CAO-R"> Cum evigilasset Jacob</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-R CAO-S"> de somno</rdg>
+            <rdg wit="CAO-D"> quasi de gravi somno</rdg>
+         </app> ait</vBody>
+      <rep type="r" wit="CAO-R CAO-D CAO-S">Vere</rep>
+   </verses>
+</res>

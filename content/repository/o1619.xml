@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1618" nextid="o1620" id="o1619">
+   <header>
+      <usage ms="Wcb" code="07012000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.842</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb">Exaudi quaesumus domine supplicum preces et confitentium tibi parce peccatis ut pariter nobis indulgentiam tribuas benignus et pacem</pBody>
+</prayer>

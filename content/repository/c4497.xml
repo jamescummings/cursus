@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4496" nextid="c4498" id="c4497">
+   <header>
+      <usage ms="Cdm" code="07052000">[72r] vesp2</usage>
+      <usage ms="Alb2" code="07052000">[101v] vesp2</usage>
+      <usage ms="Cht" code="07052000">[50v] vesp2</usage>
+      <usage ms="Ely" code="07052000">[83v] vesp2</usage>
+      <usage ms="Evm" code="07052000">[138r] vesp2</usage>
+      <usage ms="Glo" code="07052000">[71r] vesp2</usage>
+      <usage ms="Hyd" code="07052000">[88v] vesp2-a1</usage>
+      <usage ms="Mch" code="07052000">[148v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07052000">[82r] vesp2</usage>
+      <usage ms="Wcb" code="07052000">[109v] vesp2-a1</usage>
+      <usage ms="Wor" code="07052000">[54v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-D Ely Cht Hyd Pet Evm Wcb Glo">Qui sitit</rdg>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-F CAO-S CAO-L Wor Alb2 Cdm Mch">Si quis sitit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> veniat et bibat</rdg>
+         <rdg wit="Cht"> veniat ad me et bibat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> et de ventre eius fluent aquae vivae</rdg>
+         <rdg wit="Wor">
+            <add rend="palimpsest" place="inline" resp="DC">et de ventre eius</add> fluent aquae vivae</rdg>
+      </app>
+   </aBody>
+</ant>

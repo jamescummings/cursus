@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7641" nextid="c7643" id="c7642">
+   <rBody wit="CAO-E CAO-V"> Servite domino in timore et exsultate ei cum tremore apprehendite disciplinam nequando irascatur dominus
+     <app>
+         <rdg wit="CAO-E"> et pereatis</rdg>
+         <rdg wit="CAO-V"> ne pereatis</rdg>
+      </app> de via iusta</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V">Cum exarserit in brevi ira eius beati omnes
+      <app>
+            <rdg wit="CAO-V"> qui confidunt in eo</rdg>
+            <rdg wit="CAO-E"> qui sperant in eo</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-V">Apprehendite</rep>
+   </verses>
+</res>

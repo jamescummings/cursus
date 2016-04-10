@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6990b" nextid="c6992" id="c6991">
+   <rBody wit="CAO-C CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> Ipse praeibit ante illum</rdg>
+         <rdg wit="CAO-C CAO-R CAO-L"> Ipse praecedet ante illum</rdg>
+      </app> in spiritu et virtute Eliae
+      <app>
+         <rdg wit="CAO-C CAO-R CAO-D CAO-F CAO-S"> ut convertat</rdg>
+         <rdg wit="CAO-L"> ut convertar</rdg>
+      </app> corda patrum in filios
+      <app>
+         <rdg wit="CAO-R CAO-D CAO-F"> et incredulos ad prudentiam iustorum</rdg>
+         <rdg wit="CAO-L"> et incredibiles ad prudentiam iustorum</rdg>
+         <rdg wit="CAO-C"> et incredulos ad prudentiam</rdg>
+         <rdg type="silent" wit="CAO-S"/>
+      </app> parare domino plebem perfectam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F CAO-S CAO-L"> Erit enim magnus coram domino et spiritu sancto replebitur</vBody>
+      <vBody type="r" wit="CAO-C"> Tu puer propheta altissimi vocaberis praeibis enim ante faciem domini parare vias eius</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Ut convertat</rep>
+      <rep type="r" wit="CAO-R CAO-S"> Parare</rep>
+      <rep type="r" wit="CAO-L"> Et incredibiles</rep>
+   </verses>
+</res>

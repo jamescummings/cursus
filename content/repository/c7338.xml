@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7337" nextid="c7339" id="c7338">
+   <header>
+      <usage ms="Alb2" code="01034000">[15v] matins-n1-r2</usage>
+      <usage ms="Bat" code="01011000">[3v] matins-n3-r11</usage>
+      <usage ms="Cdm" code="01011000">[10r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="01034000">[16r] matins-r2</usage>
+      <usage ms="Ely" code="01011000">[4r] matins-n3-r11</usage>
+      <usage ms="Evm" code="01034009">[19r] matins-r2</usage>
+      <usage ms="Hyd" code="01034009">[12r] matins-n1-r3</usage>
+      <usage ms="Mch" code="01034000">[13v] matins-r2</usage>
+      <usage ms="Wcb" code="01044000">[50r] matins-r2</usage>
+      <usage ms="Wor" code="01011000">[2v] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Orietur stella ex Jacob
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-D CAO-L Hyd Alb2 Mch Cdm Ely Wor Wcb Bat"> et exsurget</rdg>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S Evm"> et consurget</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> homo de Israel</rdg>
+         <rdg wit="CAO-L"> homo ex Israel</rdg>
+         <rdg wit="CAO-M"> homo dei</rdg>
+      </app> et confringet
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> omnes duces</rdg>
+         <rdg wit="CAO-L"> omnis duces</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> alienigenarum</rdg>
+         <rdg wit="CAO-R"> alienienarum</rdg>
+      </app> et erit omnis terra possessio eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> A solis ortu et occasu ab Aquilone et mari</vBody>
+      <vBody type="r" wit="CAO-E"> A solis</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-H CAO-R"> A solis ortu</vBody>
+      <vBody type="r" wit="CAO-D CAO-F Hyd Evm Ely Wor Wcb">
+         <app>
+            <rdg wit="CAO-D CAO-F Hyd"> De Jacob erit qui dominabitur</rdg>
+            <rdg wit="Evm Ely Wor Wcb"> De Jacob exiet qui dominetur</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D CAO-F Hyd Wor"> et perdet</rdg>
+            <rdg wit="Evm Ely Wcb"> et perdat</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F Hyd Evm Ely Wor Wcb"> reliquias civitatum</rdg>
+            <rdg wit="CAO-D"> omnes reliquias civitatis</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-S CAO-L Alb2 Mch Cdm Bat">
+         <app>
+            <rdg wit="CAO-S CAO-L Alb2 Mch Cdm Bat"> Et adorabunt eum</rdg>
+            <rdg wit="CAO-G"> Adorabunt eum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-S Alb2"> omnes reges</rdg>
+            <rdg wit="CAO-L Cdm Bat"> omnes reges terrae</rdg>
+            <rdg wit="Mch"> omnes reges <add place="interlined" hand="contemporary">terrae</add>
+            </rdg>
+         </app> omnes gentes servient ei</vBody>
+      <vBody type="r" num="2" wit="CAO-H"> Et adorabunt eum omnes reges omnes gentes servient ei</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">Et erit</rep>
+   </verses>
+</res>

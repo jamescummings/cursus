@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5025" nextid="c5027" id="c5026">
+   <header>
+      <usage ms="Pet" code="02122608">[24v] </usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Pet">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R Pet"> Stephanus autem plenus gratia et veritate</rdg>
+         <rdg wit="CAO-D CAO-F CAO-L"> Stephanus autem plenus gratia et fortitudine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-R CAO-D CAO-F CAO-L Pet"> faciebat signa magna in populo</rdg>
+         <rdg wit="CAO-M"> faciebat prodigia et signa magna in populo</rdg>
+         <rdg wit="CAO-H"> faciebat signa magna et prodigia in populo</rdg>
+      </app>
+   </aBody>
+</ant>

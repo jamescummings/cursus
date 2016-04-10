@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4201" nextid="c4203" id="c4202">
+   <aBody wit="CAO-B CAO-V CAO-D CAO-F CAO-S CAO-L"> Ostendit sanctus Gamaliel per visum Luciano sacerdoti
+     <app>
+         <rdg wit="CAO-B CAO-S"> tres calathos aureos rosis refertos</rdg>
+         <rdg wit="CAO-V"> tres galathos aureos rosis refertos</rdg>
+         <rdg wit="CAO-F"> tres cathlatos aureos rosis repletos</rdg>
+         <rdg wit="CAO-D CAO-L"> tres calathos aureos rosis repletos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-D CAO-F CAO-S"> et quartum argenteum croco plenum</rdg>
+         <rdg wit="CAO-V"> et quartum argenteos croco pleno</rdg>
+         <rdg wit="CAO-L"> et quartus argenteus croco plenus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-D"> et dixit hi sunt nostri loculi</rdg>
+         <rdg wit="CAO-F CAO-S"> et dixit hii sunt nostri loculi</rdg>
+         <rdg wit="CAO-L"> et dixit hi sunt loculi nostri</rdg>
+      </app> et nostrae reliquiae
+     <app>
+         <rdg wit="CAO-B CAO-D CAO-F CAO-L"> hic autem sanguineas habens rosas</rdg>
+         <rdg wit="CAO-V"> hi autem sanguineas <corr sic="habent">habens</corr> rosa</rdg>
+         <rdg wit="CAO-S"> hic autem sanguineas habent rosas</rdg>
+      </app> loculus est sancti Stephani
+     <app>
+         <rdg wit="CAO-B CAO-D CAO-S CAO-L"> qui solus ex nobis martyrio meruit coronari</rdg>
+         <rdg wit="CAO-V"> qui primus est nobis martyrio meruit coronari</rdg>
+         <rdg wit="CAO-F"> qui solus ex nobis martyrio meruit honorari</rdg>
+      </app>
+   </aBody>
+</ant>

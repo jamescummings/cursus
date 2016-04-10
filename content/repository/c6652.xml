@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6651" nextid="c6653" id="c6652">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Elisabeth Zachariae magnum virum genuit
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Joannem Baptistam</rdg>
+         <rdg wit="CAO-C"> Johanne Baptistam</rdg>
+      </app> praecursorem domini qui viam domino praeparavit in eremo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Fuit homo missus a Deo cui nomen
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Joannes erat</rdg>
+            <rdg wit="CAO-D"> erat <corr sic="Johannes">Joannes</corr>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-L"> Erat quidem</rdg>
+            <rdg wit="CAO-S"> Erat <corr sic="quidam">quedam</corr>
+            </rdg>
+         </app> infecunda corpore
+       <app>
+            <rdg wit="CAO-L"> sed servata mysterio</rdg>
+            <rdg wit="CAO-S"> sed servata mysteria</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L"> claruitque</rdg>
+            <rdg wit="CAO-S"> caruitque</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L"> sterilitatis opprobrio</rdg>
+            <rdg wit="CAO-S"> sterilitatis opprobrium</rdg>
+         </app> gignendo filium de caelo promissum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Qui viam domino</rep>
+   </verses>
+</res>

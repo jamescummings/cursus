@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2716" nextid="c2718" id="c2717">
+   <header>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> Et recordatae sunt verborum eius
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-H CAO-R Hyd"> et regressae a monumento</rdg>
+         <rdg wit="CAO-E"> et egressae ad monumentum</rdg>
+         <rdg wit="CAO-D CAO-F CAO-L"> et regressae ad monumentum</rdg>
+         <rdg wit="CAO-M"> et regressae <corr sic="ad">a</corr> monumentum</rdg>
+      </app> nuntiaverunt haec omnia illis undecim et ceteris omnibus alleluia</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-H"> Crucifixum dominum laudate et sepultum propter vos glorificate resurgentemque a morte adorate alleluia</vBody>
+   </verses>
+</ant>

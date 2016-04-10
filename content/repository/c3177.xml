@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3176" nextid="c3178" id="c3177">
+   <header>
+      <usage ms="Alb2" code="07041000">[95r] vesp2</usage>
+      <usage ms="Cdm" code="07041000">[69r] vesp2</usage>
+      <usage ms="Cht" code="07041000">[42v] vesp2</usage>
+      <usage ms="Evm" code="07041000">[129v] nones</usage>
+      <usage ms="Glo" code="07041000">[68r] nones</usage>
+      <usage ms="Hyd" code="07041000">[83r] nones</usage>
+      <usage ms="Mch" code="07041000">[140r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="07041000">[105v] nones</usage>
+      <usage ms="Wor" code="07041000"/>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-V CAO-R CAO-L Cht Hyd Evm Wor Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-E CAO-V Cht Hyd Evm Wor Wcb Glo Cdm"> Illi homines</rdg>
+         <rdg wit="CAO-B CAO-R CAO-L Alb2 Mch"> Illi ergo homines</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-L Cht Hyd Evm Wcb Glo Mch"> cum vidissent</rdg>
+         <rdg wit="Wor Alb2 Cdm"> cum signum vidissent</rdg>
+         <rdg wit="CAO-V"> cum vidisset</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V Cht Hyd Evm Wcb Glo"> quod fecerat Jesus signum</rdg>
+         <rdg wit="CAO-B CAO-R CAO-L Mch"> quod fecerat signum</rdg>
+         <rdg wit="Wor Alb2 Cdm"> quod factum fuerat glorificabant deum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-L Cht Hyd Evm Wcb Glo Mch"> dicebant</rdg>
+         <rdg wit="Wor Alb2 Cdm"> et dicebant</rdg>
+         <rdg wit="CAO-E CAO-V"> intra se dicebant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-L Cht Hyd Evm Wcb Glo Mch"> quia hic est vere propheta</rdg>
+         <rdg wit="Wor Alb2 Cdm"> quia hic est salvator mundi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-L Cht Hyd Evm Wcb Glo Mch"> qui venturus est in mundum</rdg>
+         <rdg wit="CAO-V"> qui venturus est in hunc mundum</rdg>
+         <rdg wit="Wor Alb2 Cdm" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4823" nextid="c4825" id="c4824">
+   <aBody wit="CAO-E CAO-F CAO-S"> Saulus adhuc spirans minarum et caedis in discipulos domini
+     <app>
+         <rdg wit="CAO-E"> abiit ad principem sacerdotum et petiit illos</rdg>
+         <rdg wit="CAO-F"> abiit ad principem sacerdotum et petiit illum</rdg>
+         <rdg wit="CAO-S"> abiit ad principem sacerdotum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> ut ubi inveniret huius viae viros vinctos</rdg>
+         <rdg wit="CAO-F"> ut ubicumque inveniret huius viae viros vinctos</rdg>
+         <rdg wit="CAO-S"> ut si quos inveniret huius viae viros vinctos</rdg>
+      </app> perduceret Jerusalem</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-E CAO-F"> Paternarum traditionum amplius aemulator exsistens</vBody>
+   </verses>
+</ant>

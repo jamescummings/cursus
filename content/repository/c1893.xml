@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1892" nextid="c1894" id="c1893">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-L"> Considerate lilia agri quomodo crescunt non laborant neque nent dico autem vobis
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-L"> quoniam nec Salomon</rdg>
+         <rdg wit="CAO-M CAO-V"> quod nec Salomon</rdg>
+      </app> in omni gloria sua
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R"> coopertus est</rdg>
+         <rdg wit="CAO-V CAO-L"> coopertum est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-L"> sicut unum ex istis</rdg>
+         <rdg wit="CAO-M"> et sicut unum ex istis</rdg>
+         <rdg wit="CAO-V"> sicut unum ex istis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

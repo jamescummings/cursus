@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1812b" nextid="c1814" id="c1813">
+   <header>
+      <usage ms="Cdm" code="08011000">[81r] lauds-a5</usage>
+      <usage ms="Hyd" code="08011000">[100r] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Cdm"> Cito euntes dicite discipulis</rdg>
+         <rdg wit="Hyd"> Cito euntes dicite discipulis eius</rdg>
+      </app> quia surrexit dominus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F Cdm"> alleluia</rdg>
+         <rdg wit="CAO-C CAO-L Hyd"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

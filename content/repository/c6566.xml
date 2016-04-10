@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6565" nextid="c6567" id="c6566">
+   <rBody wit="CAO-C CAO-M CAO-H CAO-L"> Dum venerit paraclitus spiritus veritatis ille arguet mundum de peccato et de iustitia et de iudicio alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-H"> Nisi ego abiero</vBody>
+      <vBody type="r" wit="CAO-L"> Si enim non abiero paraclitus non veniet ad vos si autem abiero mittam eum ad vos</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-H"> Ille arguet</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+   </verses>
+</res>

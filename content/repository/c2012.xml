@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2011b" nextid="c2013" id="c2012">
+   <aBody wit="CAO-B CAO-H CAO-R CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-F"> Cum intraret Jesus in domum</rdg>
+         <rdg wit="CAO-R"> Dum intraret Jesus in domum</rdg>
+         <rdg wit="CAO-L"> Dum intrasset Jesus in domum</rdg>
+      </app> cuiusdam principis pharisaeorum sabbato manducare panem
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-L"> et ecce homo quidam hydropicus erat ante illum</rdg>
+         <rdg wit="CAO-F"> ecce homo quidam hydropicus erat ante illum</rdg>
+      </app> ipse vero apprehensum sanavit eum ac dimisit</aBody>
+</ant>

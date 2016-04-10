@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2596" nextid="c2598" id="c2597">
+   <header>
+      <usage ms="Hyd" code="08031000">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Ego sum pastor bonus qui pasco oves meas et pro ovibus meis
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> pono animam meam alleluia</rdg>
+         <rdg wit="CAO-C CAO-G CAO-L"> pono animam meam</rdg>
+      </app>
+   </aBody>
+</ant>

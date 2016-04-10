@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7788" nextid="c7790" id="c7789">
+   <rBody wit="CAO-E CAO-D CAO-F"> Tu es vas electionis sancte Paule apostole praedicator veritatis in universo mundo per quem omnes gentes cognoverunt gratiam Dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Intercede pro nobis ad deum qui te elegit</vBody>
+      <vBody type="r" wit="CAO-F"> Magnus sanctus Paulus vas electionis vere digne est glorificandus</vBody>
+      <vBody type="r" wit="CAO-E"> Reposita est mihi corona iustitiae quam reddet mihi dominus</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F">Per quem</rep>
+   </verses>
+</res>

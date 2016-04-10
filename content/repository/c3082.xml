@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3081" nextid="c3083" id="c3082">
+   <header>
+      <usage ms="Alb2" code="01037000">[17v] sext</usage>
+      <usage ms="Cdm" code="01037000">[17v] sext</usage>
+      <usage ms="Ely" code="01025000">[9r] vesp2 gosp</usage>
+      <usage ms="Evm" code="01037009">[22r] nones</usage>
+      <usage ms="Hyd" code="01032000">[11v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01042000" corresp="c3082-1">[14v] sext</usage>
+      <usage ms="Mch" code="02122400">[22v] matins-n2-a2</usage>
+      <usage ms="Pet" code="01037009">[10r] sext</usage>
+      <usage ms="Wcb" code="01036000">[47v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01041000">[11v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Pet"> Hoc est testimonium quod perhibuit Joannes qui post me venit ante me factus est</aBody>
+   <aBody id="c3082-1" wit="Hyd" num="2"> Hoc est testimonium quod perhibuit Joannes qui post me venit ante me factus est cuius non sum dignus calciamenta solvere</aBody>
+</ant>

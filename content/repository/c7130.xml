@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7129" nextid="c7131" id="c7130">
+   <rBody wit="CAO-G CAO-V CAO-F CAO-S"> Maria ut audivit turbata est in sermone angeli et cogitabat qualis esset ista salutatio</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-F">  Benedicta tu
+       <app>
+            <rdg wit="CAO-G"> in mulieribus</rdg>
+            <rdg wit="CAO-F"> inter mulieres</rdg>
+         </app> cum dixisset angelus Maria turbata est in sermone eius</vBody>
+      <vBody type="r" wit="CAO-V"> Ne timeas Maria respondit angelus invenisti gratiam apud Deum</vBody>
+      <vBody type="r" wit="CAO-S"> Quomodo fiet istud quoniam virum non cognosco</vBody>
+      <rep type="r" wit="CAO-G CAO-V CAO-F CAO-S">Et cogitabat</rep>
+   </verses>
+</res>

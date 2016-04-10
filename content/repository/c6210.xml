@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6209" nextid="c6211" id="c6210">
+   <rBody wit="CAO-H CAO-R"> Beatus Gallus zelo pietatis armatus fana daemoniorum igni succendit et quaeque oblata invenit
+      <app>
+         <rdg wit="CAO-H"> demersit</rdg>
+         <rdg wit="CAO-R"> dimersit</rdg>
+      </app> in lacum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-R">In conspectu omnium arripiens simulacra lapidibus ea in frusta confregit</vBody>
+      <rep type="r" wit="CAO-H CAO-R">Et quaeque</rep>
+   </verses>
+</res>

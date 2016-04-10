@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6362" nextid="c6364" id="c6363">
+   <rBody wit="CAO-E CAO-V CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-V CAO-F"> Cum esset Petrus in cruce</rdg>
+         <rdg wit="CAO-E CAO-L"> Dum esset Petrus in cruce</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V"> venit turba multa</rdg>
+         <rdg wit="CAO-F"> venit ad eum turba multa</rdg>
+         <rdg wit="CAO-L"> venit turba magna</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-L"> maledicebant Caesarem</rdg>
+         <rdg wit="CAO-F"> maledicens Caesarem</rdg>
+      </app> et fecerunt planctum magnum ante crucem
+      <app>
+         <rdg wit="CAO-E CAO-V"> Petrus exhortabat</rdg>
+         <rdg wit="CAO-F"> Petrus autem exhortabatur</rdg>
+         <rdg wit="CAO-L"> Petrus hortabat</rdg>
+      </app> eos de cruce dicens nolite flere sed gaudete mecum quia vado vobis parare locum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-F CAO-L"> Gratias tibi ago
+       <app>
+            <rdg wit="CAO-E CAO-F"> domine pastor bone</rdg>
+            <rdg wit="CAO-V"> pastor bone</rdg>
+            <rdg wit="CAO-L"> domine Jesu Christe paster bone</rdg>
+         </app> quia oves quas tradidisti mihi compatiuntur
+       <app>
+            <rdg wit="CAO-E CAO-F"> mecum in sempiternum</rdg>
+            <rdg wit="CAO-L"> mecum</rdg>
+            <rdg wit="CAO-V"> mecum in sempiterno</rdg>
+         </app> et cum hoc dixisset ait</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-F CAO-L">Nolite</rep>
+   </verses>
+</res>

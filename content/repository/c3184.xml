@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3183" nextid="c3185" id="c3184">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-D CAO-S">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-D"> Illuminare domine his qui in tenebris sedent</rdg>
+         <rdg wit="CAO-S"> Illumina domine his qui in tenebris sedent</rdg>
+         <rdg wit="CAO-C"> Illuminare domine de his qui in tenebris sedent</rdg>
+      </app> et dirige pedes nostros
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-S"> in viam pacis deus Israel</rdg>
+         <rdg wit="CAO-C CAO-D"> in viam pacis alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2765" nextid="c2767" id="c2766">
+   <aBody wit="CAO-D CAO-F"> Exaudi domine deprecationem servorum tuorum
+     <app>
+         <rdg wit="CAO-D"> et miserere populo tuo</rdg>
+         <rdg wit="CAO-F"> et miserere populo</rdg>
+      </app> ut sciant omnes gentes quia tu es deus saeculorum
+     <app>
+         <rdg wit="CAO-D"> miserere civitati sanctificationis tuae</rdg>
+         <rdg wit="CAO-F"> miserere civitatis sanctificationis tuae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> domine deus noster alleluia alleluia</rdg>
+         <rdg wit="CAO-F"> domine deus noster alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

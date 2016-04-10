@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7608" nextid="c7610" id="c7609">
+   <header>
+      <usage ms="Glo" code="14032100"/>
+   </header>
+   <rBody wit="CAO-D CAO-F Glo"> Sanctus Benedictus plus appetiit mala mundi perpeti
+     <app>
+         <rdg wit="CAO-D Glo"> quam laudes</rdg>
+         <rdg wit="CAO-F"> quam laudum</rdg>
+      </app> atque pro deo laboribus fatigari quam vitae huius favoribus extolli</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F Glo">Divina namque praeventus gratia magis ac magis ad superna animo suspirabat</vBody>
+      <rep type="r" wit="CAO-D">Atque</rep>
+      <rep type="r" wit="CAO-F Glo">Quam</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

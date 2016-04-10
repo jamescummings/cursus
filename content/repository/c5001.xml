@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5000" nextid="c5002" id="c5001">
+   <aBody wit="CAO-V CAO-L"> Spiritus omnis laudet dominum quia ipse dixit et facta sunt omnia mandavit
+     <app>
+         <rdg wit="CAO-V"> et creata sunt universa</rdg>
+         <rdg wit="CAO-L"> et creata sunt in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

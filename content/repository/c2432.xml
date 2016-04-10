@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2431" nextid="c2433" id="c2432">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L"> Dulce lignum dulces clavos</rdg>
+         <rdg wit="CAO-C"> Dulce lignum dulcem clavum</rdg>
+      </app> dulce pondus sustinuit
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-S CAO-L"> quae digna fuit</rdg>
+         <rdg wit="CAO-F"> quae meruit</rdg>
+      </app> portare pretium huius saeculi </aBody>
+</ant>

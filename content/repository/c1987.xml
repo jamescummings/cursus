@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1986" nextid="c1988" id="c1987">
+   <header>
+      <usage ms="Wcb" code="02122600">[58r] matins-n1-a6</usage>
+   </header>
+   <aBody wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-L Wcb">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-L Wcb"> Cum autem esset Stephanus plenus spiritu sancto</rdg>
+         <rdg wit="CAO-M"> Dum autem esset Stephanus plenus spiritu sancto</rdg>
+      </app> intendens in caelum
+     <app>
+         <rdg wit="Wcb"> vidit gloriam dei</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-L"> vidit gloriam dei et Jesum stantem ad dexteram patris</rdg>
+         <rdg wit="CAO-V"> vidit gloriam dei et ait et Jesum stantem ad dexteram patris</rdg>
+      </app>
+   </aBody>
+</ant>

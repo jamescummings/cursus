@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7428" nextid="c7430" id="c7429">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Pretiosa in conspectu domini alleluia mors sanctorum eius alleluia.</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F"> In conspectu omnis populi eius in atriis tuis Jerusalem. </vBody>
+      <vBody type="r" wit="CAO-S"> In conspectu omnis populi eius.</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-H"> In conspectu omnis populi eius in atriis domus domini in medio tui Jerusalem.</vBody>
+      <vBody type="r" wit="CAO-L"> Custodit dominus omnia ossa eorum unum ex eis non conteretur. </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Mors. </rep>
+      <rep type="r" wit="CAO-L">Alleluia.</rep>
+   </verses>
+</res>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1629" nextid="c1631" id="c1630">
+   <header>
+      <usage ms="Glo" code="14031200"/>
+   </header>
+   <aBody wit="CAO-B CAO-H CAO-R CAO-L Glo"> Beatus Gregorius ab Anglorum populis apostolus est appellatus
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-L Glo"> quia ipsius gratiae ascribitur</rdg>
+         <rdg wit="CAO-H"> quia ipsius gloriae ascribitur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R Glo"> quod illorum ecclesia</rdg>
+         <rdg wit="CAO-B"> quod ipsorum ecclesia</rdg>
+         <rdg wit="CAO-L"> quod illorum ecclesiae</rdg>
+      </app> nova semper sobole
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R Glo"> fecundatur</rdg>
+         <rdg wit="CAO-L"> fecundetur</rdg>
+      </app>
+   </aBody>
+</ant>

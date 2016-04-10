@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8611" nextid="c8613" id="c8612">
+   <header>
+      <usage ms="Ely" code="01036000">[12v] lauds-a5</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">text related to respond c6585</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Ely"> Veniet dominus cum splendore visitare populum suum in pace</aBody>
+</ant>

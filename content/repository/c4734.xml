@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4733b" nextid="c4735" id="c4734">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F"> Sancti qui sperant in domino</rdg>
+         <rdg wit="CAO-V"> Sanctis qui sperant in domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R"> habebunt fortitudinem</rdg>
+         <rdg wit="CAO-C CAO-V CAO-F"> mutabunt fortitudinem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> assument pennas ut aquilae</rdg>
+         <rdg wit="CAO-C"> assumunt pennas ut aquilae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-F"> volabunt et non deficient</rdg>
+         <rdg wit="CAO-M"> volabunt et non deficiet in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

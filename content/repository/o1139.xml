@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1138" nextid="o1140" id="o1139">
+   <header>
+      <usage ms="Bat" code="07014000">[50v] lauds</usage>
+      <usage ms="Cdm" code="07014000">[59v] lauds</usage>
+      <usage ms="Cht" code="07014000"/>
+      <usage ms="Evm" code="07014000"/>
+      <usage ms="Hyd" code="07014000"/>
+      <usage ms="Mch" code="07014000">[119v] lauds</usage>
+      <usage ms="Wcb" code="07014000"/>
+   </header>
+   <pBody wit="Hyd Cht Evm Wcb Cdm Mch Bat"> Preces nostras quaesumus domine clementer exaudi et contra cuncta nobis adversantia dexteram tuae maiestatis extende</pBody>
+</prayer>

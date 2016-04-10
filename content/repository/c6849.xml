@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6848" nextid="c6850" id="c6849">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Pet"> Hodie in Jordane baptizato domino</rdg>
+         <rdg wit="Alb2"> Hodie in Jordano baptizato domino</rdg>
+      </app> aperti sunt caeli et sicut columba super eum spiritus mansit et vox patris intonuit hic est filius meus dilectus
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Alb2 Hyd"> in quo mihi complacui</rdg>
+         <rdg wit="CAO-F CAO-S CAO-L Pet"> in quo mihi complacuit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S Alb2 Pet"> Caeli aperti sunt super eum
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R Alb2 Pet"> et vox patris audita est</rdg>
+            <rdg wit="CAO-V"> et vox patris audita test de caelo dicens</rdg>
+            <rdg wit="CAO-S"> et vox patris intonuit</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-L"> Descendit spiritus sanctus corporali specie sicut columba
+       <app>
+            <rdg wit="CAO-L"> in eum</rdg>
+            <rdg wit="CAO-D CAO-F"> in ipso</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D"> et vox patris audita est</rdg>
+            <rdg wit="CAO-F"> et vox patris intonuit</rdg>
+            <rdg wit="CAO-L"> et vox de caelo facta est</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="Hyd">Vox domini super aquas deus maiestatis intonuit</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Hic est</rep>
+   </verses>
+</res>

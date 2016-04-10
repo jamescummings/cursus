@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7813" nextid="c7815" id="c7814">
+   <rBody wit="CAO-E CAO-F CAO-S"> Vade Anania et quaere Saulum quia vas electionis est mihi ut portet nomen meum coram gentibus et regibus et filiis Israel</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-F CAO-S"> Ego enim ostendam illi quanta oporteat eum
+      <app>
+            <rdg wit="CAO-E CAO-F"> pro nomine meo pati</rdg>
+            <rdg wit="CAO-S"> pati pro nomine meo</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-F CAO-S">Coram</rep>
+   </verses>
+</res>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2752" nextid="c2754" id="c2753">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-F CAO-S"> Ex utero senectutis et sterili</rdg>
+         <rdg wit="CAO-D"> Ex utero seni<add>s</add> et sterilis</rdg>
+         <rdg wit="CAO-C CAO-L"> Ex utero senectutis et sterilis</rdg>
+      </app> Joannes natus est praecursor domini</aBody>
+</ant>

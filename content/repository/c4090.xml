@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4089" nextid="c4091" id="c4090">
+   <header>
+      <usage ms="Glo" code="01031000">[16r] procession</usage>
+   </header>
+   <aBody wit="CAO-F Glo"> O virgo super virgines benedicta sic paries filium ut ex virginitate non
+     <app>
+         <rdg wit="CAO-F"> patiaris</rdg>
+         <rdg wit="Glo"> patieris</rdg>
+      </app> detrimentum</aBody>
+</ant>

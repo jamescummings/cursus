@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1316" nextid="c1318" id="c1317">
+   <aBody wit="CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S"> Ait <name reg="Petrus" type="saint">Petrus</name> principibus sacerdotum Jesum quem vos interemistis
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-D CAO-F"> suspendentes in ligno</rdg>
+         <rdg wit="CAO-S"> suspendentem in ligno</rdg>
+      </app> hunc deus suscitavit
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-F"> et principem ac salvatorem</rdg>
+         <rdg wit="CAO-D"> ac principem et salvatorem</rdg>
+         <rdg wit="CAO-S"> et principem et salvatorem</rdg>
+      </app> exaltavit ad dandam paenitentiam
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-S"> in remissionem peccatorum</rdg>
+         <rdg wit="CAO-D CAO-F"> et remissionem peccatorum</rdg>
+      </app>
+   </aBody>
+</ant>

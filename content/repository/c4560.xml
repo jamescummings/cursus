@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4559" nextid="c4561" id="c4560">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Bat" code="07014000">[50v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07012000">[58v] vesp2</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Evm" code="07012000"/>
+      <usage ms="Glo" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[118v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07012000"/>
+      <usage ms="Wcb" code="07012000"/>
+      <usage ms="Wor" code="07012000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Quod uni ex minimis meis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Cht Evm Wcb Glo Alb2 Cdm Mch Bat"> fecistis mihi fecistis dicit dominus</rdg>
+         <rdg wit="Pet"> fecistis mihi fecisti dicit dominus</rdg>
+         <rdg wit="CAO-M"> fecisti mihi fecisti dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

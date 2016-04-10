@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2368" nextid="c2370" id="c2369">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Domine qui operati sunt iustitiam
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> habitabunt in tabernaculo tuo</rdg>
+         <rdg wit="CAO-L"> habitavit in tabernaculo tuo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-S"> et requiescent in monte sancto tuo</rdg>
+         <rdg wit="CAO-F"> aut requiescent in monte sancto tuo</rdg>
+         <rdg wit="CAO-E CAO-V"> et requiescet in monte sancto tuo</rdg>
+         <rdg wit="CAO-L"> et requiescunt in monte sancto tuo</rdg>
+      </app>
+   </aBody>
+</ant>

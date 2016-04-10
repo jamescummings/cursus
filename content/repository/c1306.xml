@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1305b" nextid="c1307" id="c1306">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D">
+            <name reg="Agatha" type="saint">Agathes</name> laetissima</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V">
+            <name reg="Agatha" type="saint">Agatha</name> laetissima</rdg>
+         <rdg wit="CAO-L">
+            <name reg="Agatha" type="saint">Agathe</name> laetissima</rdg>
+         <rdg wit="CAO-G CAO-F CAO-S">
+            <name reg="Agatha" type="saint">Agatha</name> laetissime</rdg>
+      </app> et glorianter ibat ad carcerem et quasi ad epulas invitata
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> agonem suum</rdg>
+         <rdg wit="CAO-E"> agonem tuum</rdg>
+      </app> domino precibus commendabat</aBody>
+</ant>

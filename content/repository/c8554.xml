@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8553" nextid="c8555" id="c8554">
+   <header>
+      <usage ms="Alb2" code="02122700">[35r] matins-n2-a12</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n2-a12</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n2-a12</usage>
+      <usage ms="Evm" code="02122700">[43v] matins-n2-a12</usage>
+      <usage ms="Hyd" code="02122700">[24r] matins-n2-a11</usage>
+      <usage ms="Pet" code="02122700">[26v] matins-n2-a12</usage>
+      <usage ms="Wcb" code="02122700">[61r] matins-n2-a11</usage>
+      <usage ms="Wor" code="02122700">[20r] matins-n2-a12</usage>
+   </header>
+   <aBody wit="Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Orabat sanctus Joannes ad Christum mox iturus commendo tibi pie pater filios tuos quos tibi virgo mater per spiritum sanctum regeneravit ecclesiam</aBody>
+</ant>

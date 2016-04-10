@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3351" nextid="c3353" id="c3352">
+   <header>
+      <usage ms="Evm" code="02122800">[48r] matins-n3</usage>
+      <usage ms="Wcb" code="02122800">[64r] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-H Evm Wcb">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N">
+            <app>
+               <rdg wit="CAO-H"> Innocentum passio</rdg>
+               <rdg wit="Evm Wcb"> Innocentium passio</rdg>
+            </app>
+         </l>
+         <l part="N"> Christi exsultatio</l>
+         <l part="N"> Herodes confusus est</l>
+         <l part="N"> qui eos persecutus est</l>
+      </lg>
+   </aBody>
+</ant>

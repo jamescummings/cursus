@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4640" nextid="c4642" id="c4641">
+   <aBody wit="CAO-V CAO-L"> Resurrexit dominus alleluia
+     <app>
+         <rdg wit="CAO-V"> sicut dixit vobis alleluia</rdg>
+         <rdg wit="CAO-L"> sicut dixi vobis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

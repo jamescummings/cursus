@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3128" nextid="c3130" id="c3129">
+   <aBody wit="CAO-H CAO-L"> Homo iste fecit mirabilia in vita sua et probatus perfectus inventus est
+     <app>
+         <rdg wit="CAO-H"> in gloria aeterna</rdg>
+         <rdg wit="CAO-L"> in gloria in aeternum</rdg>
+      </app>
+   </aBody>
+</ant>

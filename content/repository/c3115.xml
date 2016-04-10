@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3114" nextid="c3116" id="c3115">
+   <header>
+      <usage ms="Glo" code="14032100"/>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-L Glo"> Hodie sanctus Benedictus
+     <app>
+         <rdg wit="CAO-C"> per viam orientis tramitem</rdg>
+         <rdg wit="CAO-L"> per vie orientis tramitem</rdg>
+         <rdg wit="CAO-D"> per rectum orientis tramitem</rdg>
+         <rdg wit="CAO-H CAO-R"> per viam orientis tramitis</rdg>
+         <rdg wit="CAO-F Glo"> per viam orientis tramite</rdg>
+      </app> videntibus discipulis
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-L"> caelum tetendit</rdg>
+         <rdg wit="CAO-H"> caelos tetendit</rdg>
+         <rdg wit="CAO-F Glo"> caelum ascendit</rdg>
+         <rdg wit="CAO-R"> caelos ascendit</rdg>
+      </app> hodie erectis manibus
+     <app>
+         <rdg wit="CAO-D CAO-F Glo"> inter verba orationis efflavit</rdg>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-L"> inter verba orationis migravit</rdg>
+      </app> hodie in gloria ab angelis susceptus est</aBody>
+</ant>

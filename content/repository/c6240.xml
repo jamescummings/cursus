@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6239" nextid="c6241" id="c6240">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Benedicat nos deus deus noster benedicat nos deus et metuant eum omnes fines terrae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Deus misereatur nostri et benedicat nos deus</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Et metuant</rep>
+      <rep type="r" wit="CAO-E"> Deus noster</rep>
+   </verses>
+</res>

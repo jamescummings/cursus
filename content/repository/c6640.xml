@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6639" nextid="c6641" id="c6640">
+   <header>
+      <usage ms="Alb2" code="01036000">[16v] matins-n1-r1</usage>
+      <usage ms="Bat" code="01031000">[8v] matins-n2-r5</usage>
+      <usage ms="Cdm" code="01031000">[14v] matins-n2-r5</usage>
+      <usage ms="Ely" code="01031000">[10r] matins-n2-r5</usage>
+      <usage ms="Evm" code="01035009">[19v] matins-r1</usage>
+      <usage ms="Hyd" code="01036000">[12v] matins-n1-r1</usage>
+      <usage ms="Mch" code="01036000">[14v] matins-r1</usage>
+      <usage ms="Wcb" code="01045000">[50v] matins-r1</usage>
+      <usage ms="Wor" code="01031000">[7r] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Egredietur dominus et praeliabitur contra gentes et stabunt pedes eius
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> supra montes</rdg>
+         <rdg wit="CAO-D CAO-L Mch"> supra montem</rdg>
+         <rdg wit="CAO-F"> supra <corr sic="montem"> montes</corr>
+         </rdg>
+      </app> Olivarum ad orientem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-L Hyd Alb2 Evm Cdm Ely Wor Wcb Bat"> Et elevabitur super omnes colles et fluent ad eum omnes gentes</vBody>
+      <vBody type="r" wit="CAO-V CAO-H CAO-R Mch"> Ex Sion species decoris eius deus noster manifeste veniet</vBody>
+      <vBody type="r" wit="CAO-B CAO-M">  Ex Sion species</vBody>
+      <vBody type="r" wit="CAO-C"> Ex Sion species decoris</vBody>
+      <vBody type="r" wit="CAO-E"> Ex Sion species decoris eius</vBody>
+      <vBody id="c6640-1" type="r" wit="CAO-S"> Et elevabitur super omnes colles et fluent ad eum omnes gentes</vBody>
+      <rep corresp="c6640-1" type="r" wit="CAO-S"> Et stabunt pedes</rep>
+      <vBody id="c6640-2" type="r" num="2" wit="CAO-S"> Et elevabitur super omnes colles et fluent ad eum omnes gentes</vBody>
+      <rep corresp="c6640-2" type="r" wit="CAO-S"> Supra</rep>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Et stabunt</rep>
+   </verses>
+</res>

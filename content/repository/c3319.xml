@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3318" nextid="c3320" id="c3319">
+   <header>
+      <usage ms="Hyd" code="01012000">[5r] vesp2-a2</usage>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Inclinavit dominus aurem suam mihi</aBody>
+</ant>

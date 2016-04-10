@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8523" nextid="c8525" id="c8524">
+   <header>
+      <usage ms="Evm" code="07022000"/>
+      <usage ms="Glo" code="07021000"/>
+      <usage ms="Wcb" code="07022000"/>
+   </header>
+   <aBody wit="Evm Wcb">Ecce ego vado et quaeretis me et in peccato nostro moriemini dicit dominus</aBody>
+   <aBody wit="Glo" type="incipit">Ecce ego vado et quaeretis me</aBody>
+</ant>

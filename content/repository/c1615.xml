@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1614" nextid="c1616" id="c1615">
+   <aBody wit="CAO-E CAO-S CAO-L"> Beatus <name reg="Bartholomaeus" type="saint">Bartholomaeus</name> ait <name reg="Polymius" type="person">Polymio</name>
+      <app>
+         <rdg wit="CAO-E"> terrea terrenis sunt necessaria</rdg>
+         <rdg wit="CAO-S CAO-L"> terrea terreni sunt necessaria</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> ego autem nil terrenum desidero</rdg>
+         <rdg wit="CAO-S"> ego autem nil terreni desidero</rdg>
+         <rdg wit="CAO-L"> ego autem nil terrena desidero</rdg>
+      </app>
+   </aBody>
+</ant>

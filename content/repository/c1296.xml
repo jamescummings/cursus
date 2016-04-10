@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1295" nextid="c1297" id="c1296">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V"> Advenientes milites qui percusserunt eum lanceis</rdg>
+         <rdg wit="CAO-S"> Advenientes milites percusserunt eum lanceis</rdg>
+         <rdg wit="CAO-L"> Advenientes pontifex percussit <name reg="Thomas" type="saint">Thomas</name> lancem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-S CAO-L"> at ille gaudens</rdg>
+         <rdg wit="CAO-C"> et ille gaudens</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-L"> migravit ad dominum</rdg>
+         <rdg wit="CAO-S"> migravit a dominum</rdg>
+      </app>
+   </aBody>
+</ant>

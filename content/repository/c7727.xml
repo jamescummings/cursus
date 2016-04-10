@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7726" nextid="c7728" id="c7727">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Super salutem et omnem pulchritudinem
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> dilexi</rdg>
+         <rdg wit="CAO-V CAO-L"> dilexit</rdg>
+      </app> sapientiam et proposui
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> pro luce</rdg>
+         <rdg wit="CAO-V"> pro lucem</rdg>
+      </app> habere illam venerunt mihi omnia bona pariter
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> cum illa</rdg>
+         <rdg wit="CAO-L"> cum illam</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D Hyd"> Dixi sapientiae</rdg>
+            <rdg wit="CAO-V"> Dixi sapientia</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-D Hyd"> soror mea es</rdg>
+            <rdg wit="CAO-M CAO-R"> soror mea est</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D Hyd"> et prudentiam vocavi</rdg>
+            <rdg wit="CAO-M"> et prudentia vocavi</rdg>
+            <rdg wit="CAO-V"> et prudentia vocavit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D Hyd"> amicam meam</rdg>
+            <rdg wit="CAO-V"> amica mea</rdg>
+            <rdg wit="CAO-C"> anima mea</rdg>
+         </app>
+      </vBody>
+      <vBody id="c7727-1" type="r" wit="CAO-E"> Dixi sapientia soror mea est et prudentiam vocavi amica mea</vBody>
+      <rep corresp="c7727-1" type="r" wit="CAO-E"> Et proposui</rep>
+      <vBody id="c7727-2" type="r" wit="CAO-F"> Dixi sapientiae soror mea es et prudentiam vocavi amicam meam</vBody>
+      <rep corresp="c7727-2" type="r" wit="CAO-F"> Venerunt</rep>
+      <vBody type="r" wit="CAO-S CAO-L"> Non comparavi illi omnem lapidem pretiosum quoniam inextinguibile est lumen illius</vBody>
+      <vBody id="c7727-4" type="r" num="2" wit="CAO-F"> Non comparavi ei omnem lapidem pretiosum quoniam inextinguibile est lumen illius</vBody>
+      <rep corresp="c7727-4" type="r" wit="CAO-F"> Et proposui</rep>
+      <vBody id="c7727-3" type="r" num="2" wit="CAO-E"> Hanc amavi et exquisivi a iuventute mea et amator factus sum formae illius</vBody>
+      <rep corresp="c7727-3" type="r" wit="CAO-E">Venerunt</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S Hyd">Venerunt</rep>
+      <rep type="r" wit="CAO-L">Et proposui</rep>
+      <rep type="r" wit="CAO-M">Pariter</rep>
+   </verses>
+</res>

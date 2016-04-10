@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7299" nextid="c7301" id="c7300">
+   <rBody wit="CAO-C CAO-E CAO-D CAO-F"> O veneranda martyrum gloriosa certamina qui in suis corporibus pro Christo immania pertulerunt tormenta et ideo percipere meruerunt
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D"> immarcescibilem aeternae gloriae coronam</rdg>
+         <rdg wit="CAO-F"> immarcescibiles aeternae gloriae coronas</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Isti sunt qui venerunt ex magna tribulatione et laverunt stolas suas in sanguine Agni</vBody>
+      <vBody type="r" wit="CAO-C"> Isti sunt qui venerunt</vBody>
+      <vBody type="r" num="2" wit="CAO-D"> Beatus Dionysius Rusticus et Eleutherius gloriosum sanguinem pro Christo fuderunt</vBody>
+      <vBody type="r" wit="CAO-E"> Despecta namque praesentis vitae luce contempto quae suorum corporum cruciatu saevientem mundum Deo pro honore vicerunt</vBody>
+      <vBody type="r" wit="CAO-F"> Sancti per fidem vicerunt regna operati sunt iustitiam adepti sunt repromissiones</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-D CAO-F">Et ideo</rep>
+   </verses>
+</res>

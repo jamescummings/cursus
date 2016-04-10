@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4238" nextid="c4240" id="c4239">
+   <header>
+      <usage ms="Bat" code="07027000">[53r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-D CAO-S CAO-L Bat"> Pater peccavi in caelum et coram te iam non sum dignus vocari filius tuus
+     <app>
+         <rdg wit="CAO-D CAO-S Bat"> fac me sicut unum ex mercennariis tuis</rdg>
+         <rdg wit="CAO-L"> fac me sicut unus ex mercennariis tuis</rdg>
+      </app>
+   </aBody>
+</ant>

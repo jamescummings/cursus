@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1542" nextid="c1544" id="c1543">
+   <header>
+      <usage ms="Glo" code="07061000">[74r] procession-a15</usage>
+   </header>
+   <aBody wit="CAO-D CAO-F Glo"> Ave rex noster fili David redemptor mundi quem prophetae praedixerunt salvatorem domui Israel esse venturum te enim ad salutarem victimam pater misit in mundum quem exspectabant omnes sancti
+     <app>
+         <rdg wit="CAO-F Glo"> ab origine mundi et nunc</rdg>
+         <rdg wit="CAO-D"> ab origine mundi nunc</rdg>
+      </app> hosanna filio David benedictus qui venit in nomine domini hosanna in excelsis</aBody>
+</ant>

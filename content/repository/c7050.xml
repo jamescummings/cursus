@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7049" nextid="c7051" id="c7050">
+   <rBody wit="CAO-D CAO-F CAO-S"> Iussit Valerianus in conspectu Hippolyti ut omnis familia eius capite truncaretur et sic eum per
+      <app>
+         <rdg wit="CAO-D CAO-S"> cardos</rdg>
+         <rdg wit="CAO-F"> carduos</rdg>
+      </app> et tribulos trahi qui dum traheretur emisit spiritum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">
+         <app>
+            <rdg wit="CAO-D"> Beati vero Hippolyti</rdg>
+            <rdg wit="CAO-F"> Beatum vero Hippolytum</rdg>
+         </app> iussit ut pedes ligarentur ad colla
+       <app>
+            <rdg wit="CAO-D"> equorum indomitorum</rdg>
+            <rdg wit="CAO-F"> indomitorum equorum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-S"> Gratias tibi ago domine Jesu Christe quia famulos meos in conspectu meo pati video</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Et sic</rep>
+      <rep type="r" wit="CAO-S">Qui</rep>
+   </verses>
+</res>

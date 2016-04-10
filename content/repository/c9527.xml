@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9526" nextid="c9528" id="c9527">
+   <header>
+      <usage ms="Hyd" code="08000000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. antiphon c1848</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Hyd"> Cognoverunt dominum alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">In fractione panis alleluia alleluia </vBody>
+   </verses>
+</res>

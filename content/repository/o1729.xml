@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1728" nextid="o1730" id="o1729">
+   <header>
+      <usage ms="Cdm" code="08013000">[83r] matins-n2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Deus qui es humani generis conditor et redemptor da quaesumus ut reparationis nostrae collata subsidia te iugiter inspirante sectemur</pBody>
+</prayer>

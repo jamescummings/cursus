@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7391b" nextid="c7393" id="c7392">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-F CAO-S CAO-L"> Ponis nubem</rdg>
+         <rdg wit="CAO-H CAO-D Hyd"> Ponit nubem</rdg>
+         <rdg wit="CAO-M"> Ponet nubem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L"> ascensum tuum</rdg>
+         <rdg wit="CAO-H CAO-D Hyd"> ascensum suum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-F CAO-S CAO-L">domine</rdg>
+         <rdg wit="CAO-M CAO-H CAO-D Hyd">dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-F CAO-S CAO-L"> qui ambulas</rdg>
+         <rdg wit="CAO-M CAO-H CAO-D Hyd"> qui ambulat</rdg>
+      </app> super pennas ventorum alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-F CAO-S"> Qui facis</rdg>
+            <rdg wit="CAO-M CAO-H CAO-D Hyd"> Qui facit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-R CAO-F CAO-S"> angelos tuos spiritus</rdg>
+            <rdg wit="CAO-M CAO-V CAO-H CAO-D Hyd"> angelos suos spiritus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-F CAO-S"> et ministros tuos</rdg>
+            <rdg wit="CAO-M CAO-H CAO-D Hyd"> et ministros suos</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-F CAO-S"> flammam ignis</rdg>
+            <rdg wit="CAO-C CAO-G CAO-M CAO-H CAO-D Hyd"> ignem urentem</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Confessionem et decorem induisti amictus lumen sicut vestimentum</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-V CAO-R">Qui ambulas</rep>
+      <rep type="r" wit="CAO-M CAO-H CAO-D CAO-L Hyd"> Qui ambulat</rep>
+      <rep type="r" wit="CAO-G CAO-F CAO-S">Alleluia</rep>
+   </verses>
+</res>

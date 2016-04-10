@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6037" nextid="c6039" id="c6038">
+   <header>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Adiutor meus tibi psallam quia deus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> susceptor meus es</rdg>
+         <rdg wit="CAO-E"> susceptor meus est</rdg>
+      </app> deus meus misericordia mea</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Eripe me de inimicis meis deus meus et ab insurgentibus in me libera me</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Deus meus</rep>
+      <rep type="r" wit="CAO-E CAO-V CAO-L">Quia deus</rep>
+   </verses>
+</res>

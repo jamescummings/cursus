@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7071" nextid="c7073" id="c7072">
+   <header>
+      <usage ms="Alb2" code="02122600">[30v] matins-n1-r1</usage>
+      <usage ms="Bat" code="02122600">[19v] matins-n2-r6</usage>
+      <usage ms="Cdm" code="02122600">[25r] matins-n2-r6</usage>
+      <usage ms="Evm" code="02122600">[40r] matins-n2-r7</usage>
+      <usage ms="Hyd" code="02122600">[22v] matins-n2-r6</usage>
+      <usage ms="Pet" code="02122600">[22r] matins-n2-r5</usage>
+      <usage ms="Wcb" code="02122600">[59r] matins-n2-r7</usage>
+      <usage ms="Wor" code="02122600">[17v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wcb Bat Cdm Wor Pet"> Lapidabant Stephanum</rdg>
+         <rdg wit="Evm"> Lapidabant omnes Stephanum</rdg>
+         <rdg wit="CAO-B"> Lapidabant <add hand="later">omnes</add> Stephanum</rdg>
+      </app> invocantem et dicentem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> domine Jesu Christe</rdg>
+         <rdg wit="CAO-C"> domine Jesu</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> accipe spiritum meum</rdg>
+         <rdg wit="CAO-D"> suscipe spiritum meum</rdg>
+      </app> et ne statuas illis hoc
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> peccatum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> ad peccatum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">Positis autem genibus
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> beatus Stephanus</rdg>
+            <rdg wit="CAO-C CAO-G CAO-H"> Stephanus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Bat Cdm Wor Pet"> orabat dicens</rdg>
+            <rdg wit="Evm"> voce magna clamavit dicens</rdg>
+            <rdg wit="Wcb"> clamavit voce magna dicens</rdg>
+            <rdg wit="CAO-L"> clamabat voce magna</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Domine</rep>
+      <prosula wit="CAO-D">
+         <verse type="stanza">
+            <l part="N">Inter haec frendet populus</l>
+            <l part="N">In Stephanum iudaicus</l>
+            <l part="N">eius membra lapidibus</l>
+            <l part="N">Perurgens totis viribus</l>
+            <l part="N">Et levita dignissimus</l>
+            <l part="N">Orat Christum his vocibus</l>
+         </verse>
+      </prosula>
+      <rep type="p" wit="CAO-D">Domine</rep>
+   </verses>
+</res>

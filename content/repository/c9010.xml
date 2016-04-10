@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9009" nextid="c9011" id="c9010">
+   <header>
+      <usage ms="Alb2" code="06031000">[70r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="06031000">[53v] matins-n1-r4</usage>
+      <usage ms="Cht" code="06031000">[16r] matins-n1-r3</usage>
+      <usage ms="Ely" code="06031000">[63r] matins-n1-r4</usage>
+      <usage ms="Hyd" code="06031000">[65v] matins-n1-r4</usage>
+      <usage ms="Mch" code="06031000">[106v] matins-n1-r4</usage>
+      <usage ms="Pet" code="06031000">[60v] matins-n1-r4</usage>
+      <usage ms="Wcb" code="06031000">[89r] matins-n1-r4</usage>
+      <usage ms="Wor" code="06031000">[40r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Mch"> Dixit autem dominus ad Abraham ego sum et pactum meum tecum sanctificetur in vobis omne masculinum et erit signum inter me et semen tuum</rBody>
+   <rBody wit="Cht" num="2">
+      <gap desc="Whole of text of respond body" reason="Loss of folio(s) of Ms between present fols85 and 86" resp="DC"/>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Mch"> Ex te namque egredietur in quo omnes gentes benedicentur</vBody>
+      <vBody type="r" wit="Cht">
+         <gap desc="First part of the text of the verse" reason="Loss of folio(s) of Ms between present fols85 and 86" resp="DC"/>
+         <supplied resp="DC">egre</supplied>dietur in quo omnes gentes benedicentur</vBody>
+      <rep type="r" wit="Hyd Alb2 Cht Wor Pet Ely Wcb Cdm Mch">Sanctificetur</rep>
+      <dox type="r" wit="Wor Pet">Gloria patri et filio et spiritui sancto</dox>
+      <rep type="r" wit="Wor Pet">Sanctificetur</rep>
+   </verses>
+</res>

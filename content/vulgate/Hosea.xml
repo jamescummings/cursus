@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="Hosea">
+<body>
+  <rubric type="bible-incipit" id="B.Hosea.incipit.001">
+    <reference>
+      <bookName>Hosea</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT OSEE PROPHETA</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Hosea.001.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>verbum Domini quod factum est ad Osee filium Beeri in diebus Oziae Ioatham Ahaz Ezechiae regum Iuda et in diebus Hieroboam filii Ioas regis Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>principium loquendi Dominum in Osee et dixit Dominus ad Osee vade sume tibi uxorem fornicationum et filios fornicationum quia fornicans fornicabitur terra a Domino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>et abiit et accepit Gomer filiam Debelaim et concepit et peperit filium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>et dixit Dominus ad eum voca nomen eius Hiezrahel quoniam adhuc modicum et visitabo sanguinem Hiezrahel super domum Hieu et quiescere faciam regnum domus Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>et in illa die conteram arcum Israhel in valle Hiezrahel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>et concepit adhuc et peperit filiam et dixit ei voca nomen eius Absque misericordia quia non addam ultra misereri domui Israhel sed oblivione obliviscar eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>et domui Iuda miserebor et salvabo eos in Domino Deo suo et non salvabo eos in arcu et gladio et in bello et in equis et in equitibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>et ablactavit eam quae erat absque misericordia et concepit et peperit filium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>et dixit voca nomen eius Non populus meus quia vos non populus meus et ego non ero vester</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>et erit numerus filiorum Israhel quasi harena maris quae sine mensura est et non numerabitur et erit in loco ubi dicetur eis non populus meus vos dicetur eis filii Dei viventis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.001.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>et congregabuntur filii Iuda et filii Israhel pariter et ponent sibimet caput unum et ascendent de terra quia magnus dies Hiezrahel</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Hosea.002.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>dicite fratribus vestris Populus meus et sorori vestrae Misericordiam consecuta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>iudicate matrem vestram iudicate quoniam ipsa non uxor mea et ego non vir eius auferat fornicationes suas a facie sua et adulteria sua de medio uberum suorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>ne forte expoliem eam nudam et statuam eam secundum diem nativitatis suae et ponam eam quasi solitudinem et statuam eam velut terram inviam et interficiam eam siti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>et filiorum illius non miserebor quoniam filii fornicationum sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>quia fornicata est mater eorum confusa est quae concepit eos quia dixit vadam post amatores meos qui dant panes mihi et aquas meas lanam meam et linum meum oleum meum et potum meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>propter hoc ecce ego sepiam viam tuam spinis et sepiam eam maceria et semitas suas non inveniet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>et sequetur amatores suos et non adprehendet eos et quaeret eos et non inveniet et dicet vadam et revertar ad virum meum priorem quia bene mihi erat tunc magis quam nunc</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>et haec nescivit quia ego dedi ei frumentum et vinum et oleum et argentum multiplicavi ei et aurum quae fecerunt Baal</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>idcirco convertar et sumam frumentum meum in tempore suo et vinum meum in tempore suo et liberabo lanam meam et linum meum quae operiebant ignominiam eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>et nunc revelabo stultitiam eius in oculis amatorum eius et vir non eruet eam de manu mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>et cessare faciam omne gaudium eius sollemnitatem eius neomeniam eius sabbatum eius et omnia festa tempora eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>et corrumpam vineam eius et ficum eius de quibus dixit mercedes hae meae sunt quas dederunt mihi amatores mei et ponam eam in saltu et comedet illam bestia agri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>et visitabo super eam dies Baalim quibus accendebat incensum et ornabatur inaure sua et monili suo et ibat post amatores suos et mei obliviscebatur dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>propter hoc ecce ego lactabo eam et ducam eam in solitudinem et loquar ad cor eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.015">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>et dabo ei vinitores eius ex eodem loco et vallem Achor ad aperiendam spem et canet ibi iuxta dies iuventutis suae et iuxta dies ascensionis suae de terra Aegypti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.016">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>et erit in die illo ait Dominus vocabit me Vir meus et non vocabit me ultra Baali</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.017">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>et auferam nomina Baalim de ore eius et non recordabitur ultra nominis eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.018">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:18</verseNum>
+      </reference>
+      <l>et percutiam eis foedus in die illa cum bestia agri et cum volucre caeli et cum reptili terrae et arcum et gladium et bellum conteram de terra et dormire eos faciam fiducialiter</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.019">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:19</verseNum>
+      </reference>
+      <l>et sponsabo te mihi in sempiternum et sponsabo te mihi in iustitia et iudicio et in misericordia et miserationibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.020">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:20</verseNum>
+      </reference>
+      <l>et sponsabo te mihi in fide et scies quia ego Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.021">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:21</verseNum>
+      </reference>
+      <l>et erit in illa die exaudiam dicit Dominus exaudiam caelos et illi exaudient terram</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.022">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:22</verseNum>
+      </reference>
+      <l>et terra exaudiet triticum et vinum et oleum et haec exaudient Hiezrahel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.023">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:23</verseNum>
+      </reference>
+      <l>et seminabo eam mihi in terram et miserebor eius quae fuit absque misericordia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.002.024">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>2:24</verseNum>
+      </reference>
+      <l>et dicam non populo meo populus meus tu et ipse dicet Dominus meus es tu</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Hosea.003.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>et dixit Dominus ad me adhuc vade dilige mulierem dilectam amico et adulteram sicut diligit Dominus filios Israhel et ipsi respectant ad deos alienos et diligunt vinacea uvarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.003.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>et fodi eam mihi quindecim argenteis et choro hordei et dimidio choro hordei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.003.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>et dixi ad eam dies multos expectabis me non fornicaberis et non eris viro sed et ego expectabo te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.003.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>quia dies multos sedebunt filii Israhel sine rege et sine principe et sine sacrificio et sine altari et sine ephod et sine therafin</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.003.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>et post haec revertentur filii Israhel et quaerent Dominum Deum suum et David regem suum et pavebunt ad Dominum et ad bonum eius in novissimo dierum</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Hosea.004.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>audite verbum Domini filii Israhel quia iudicium Domino cum habitatoribus terrae non est enim veritas et non est misericordia et non est scientia Dei in terra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>maledictum et mendacium et homicidium et furtum et adulterium inundaverunt et sanguis sanguinem tetigit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>propter hoc lugebit terra et infirmabitur omnis qui habitat in ea in bestia agri et in volucre caeli sed et pisces maris congregabuntur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>verumtamen unusquisque non iudicet et non arguatur vir populus enim tuus sicut hii qui contradicunt sacerdoti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>et corrues hodie et corruet etiam propheta tecum nocte tacere feci matrem tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>conticuit populus meus eo quod non habuerit scientiam quia tu scientiam reppulisti repellam te ne sacerdotio fungaris mihi et oblita es legis Dei tui obliviscar filiorum tuorum et ego</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>secundum multitudinem eorum sic peccaverunt mihi gloriam eorum in ignominiam commutabo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>peccata populi mei comedent et ad iniquitatem eorum sublevabunt animas eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>et erit sicut populus sic sacerdos et visitabo super eum vias eius et cogitationes eius reddam ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>et comedent et non saturabuntur fornicati sunt et non cessaverunt quoniam Dominum reliquerunt in non custodiendo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>fornicatio et vinum et ebrietas aufert cor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>populus meus in ligno suo interrogavit et baculus eius adnuntiavit ei spiritus enim fornicationum decepit eos et fornicati sunt a Deo suo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>super capita montium sacrificabant et super colles accendebant thymiama subtus quercum et populum et terebinthum quia bona erat umbra eius ideo fornicabuntur filiae vestrae et sponsae vestrae adulterae erunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>non visitabo super filias vestras cum fuerint fornicatae et super sponsas vestras cum adulteraverint quoniam ipsi cum meretricibus versabantur et cum effeminatis sacrificabant et populus non intellegens vapulabit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.015">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>si fornicaris tu Israhel non delinquat saltim Iuda et nolite ingredi in Galgala et ne ascenderitis in Bethaven neque iuraveritis vivit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.016">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>quoniam sicut vacca lasciviens declinavit Israhel nunc pascet eos Dominus quasi agnum in latitudine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.017">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:17</verseNum>
+      </reference>
+      <l>particeps idolorum Ephraim dimitte eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.018">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:18</verseNum>
+      </reference>
+      <l>separatum est convivium eorum fornicatione fornicati sunt dilexerunt adferre ignominiam protectores eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.004.019">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>4:19</verseNum>
+      </reference>
+      <l>ligavit spiritus eam in alis suis et confundentur a sacrificiis suis</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Hosea.005.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>audite hoc sacerdotes et adtendite domus Israhel et domus regis auscultate quia vobis iudicium est quoniam laqueus facti estis speculationi et rete expansum super Thabor</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>et victimas declinastis in profundum et ego eruditor omnium eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>ego scio Ephraim et Israhel non est absconditus a me quia nunc fornicatus est Ephraim contaminatus est Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>non dabunt cogitationes suas ut revertantur ad Dominum suum quia spiritus fornicationis in medio eorum et Dominum non cognoverunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>et respondebit arrogantia Israhel in facie eius et Israhel et Ephraim ruent in iniquitate sua ruet etiam Iudas cum eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>in gregibus suis et in armentis suis vadent ad quaerendum Dominum et non invenient ablatus est ab eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>in Domino praevaricati sunt quia filios alienos genuerunt nunc devorabit eos mensis cum partibus suis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>clangite bucina in Gabaa tuba in Rama ululate in Bethaven post tergum tuum Beniamin</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>Ephraim in desolatione erit in die correptionis in tribubus Israhel ostendi fidem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>facti sunt principes Iuda quasi adsumentes terminum super eos effundam quasi aquam iram meam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>calumniam patiens Ephraim fractus iudicio quoniam coepit abire post sordem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>et ego quasi tinea Ephraim et quasi putredo domui Iuda</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>et vidit Ephraim languorem suum et Iudas vinculum suum et abiit Ephraim ad Assur et misit ad regem ultorem et ipse non poterit sanare vos nec solvere poterit a vobis vinculum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>quoniam ego quasi leaena Ephraim et quasi catulus leonis domui Iuda ego ego capiam et vadam tollam et non est qui eruat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.005.015">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>vadens revertar ad locum meum donec deficiatis et quaeratis faciem meam</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Hosea.006.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>in tribulatione sua mane consurgunt ad me venite et revertamur ad Dominum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>quia ipse cepit et sanabit nos percutiet et curabit nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>vivificabit nos post duos dies in die tertia suscitabit nos et vivemus in conspectu eius sciemus sequemurque ut cognoscamus Dominum quasi diluculum praeparatus est egressus eius et veniet quasi imber nobis temporaneus et serotinus terrae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>quid faciam tibi Ephraim quid faciam tibi Iuda misericordia vestra quasi nubes matutina et quasi ros mane pertransiens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>propter hoc dolavi in prophetis occidi eos in verbis oris mei et iudicia tua quasi lux egredientur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>quia misericordiam volui et non sacrificium et scientiam Dei plus quam holocausta</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>ipsi autem sicut Adam transgressi sunt pactum ibi praevaricati sunt in me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>Galaad civitas operantium idolum subplantata sanguine</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>et quasi fauces virorum latronum particeps sacerdotum in via interficientium pergentes de Sychem quia scelus operati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>in domo Israhel vidi horrendum ibi fornicationes Ephraim contaminatus est Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.006.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>sed et Iuda pone messem tibi cum convertero captivitatem populi mei</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Hosea.007.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>cum sanare vellem Israhel revelata est iniquitas Ephraim et malitia Samariae quia operati sunt mendacium et fur ingressus est spolians latrunculus foris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>et ne forte dicant in cordibus suis omnem malitiam eorum me recordatum nunc circumdederunt eos adinventiones suae coram facie mea factae sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>in malitia sua laetificaverunt regem et in mendaciis suis principes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>omnes adulterantes quasi clibanus succensus a coquente quievit paululum civitas a commixtione fermenti donec fermentaretur totum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>dies regis nostri coeperunt principes furere a vino extendit manum suam cum inlusoribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>quia adplicuerunt quasi clibanum cor suum cum insidiaretur eis tota nocte dormivit coquens eos mane ipse succensus quasi ignis flammae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>omnes calefacti sunt quasi clibanus et devoraverunt iudices suos omnes reges eorum ceciderunt non est qui clamet in eis ad me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>Ephraim in populis ipse commiscebatur Ephraim factus est subcinericius qui non reversatur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>comederunt alieni robur eius et ipse nescivit sed et cani effusi sunt in eo et ipse ignoravit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>et humiliabitur superbia Israhel in facie eius nec reversi sunt ad Dominum Deum suum et non quaesierunt eum in omnibus his</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>et factus est Ephraim quasi columba seducta non habens cor Aegyptum invocabant ad Assyrios abierunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>et cum profecti fuerint expandam super eos rete meum quasi volucrem caeli detraham eos caedam eos secundum auditionem coetus eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>vae eis quoniam recesserunt a me vastabuntur quia praevaricati sunt in me et ego redemi eos et ipsi locuti sunt contra me mendacia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:14</verseNum>
+      </reference>
+      <l>et non clamaverunt ad me in corde suo sed ululabant in cubilibus suis super triticum et vinum ruminabant recesserunt a me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.015">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:15</verseNum>
+      </reference>
+      <l>et ego erudivi et confortavi brachia eorum et in me cogitaverunt malitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.007.016">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>7:16</verseNum>
+      </reference>
+      <l>reversi sunt ut essent absque iugo facti sunt quasi arcus dolosus cadent in gladio principes eorum a furore linguae suae ista subsannatio eorum in terra Aegypti</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Hosea.008.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>in gutture tuo sit tuba quasi aquila super domum Domini pro eo quod transgressi sunt foedus meum et legem meam praevaricati sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>me invocabunt Deus meus cognovimus te Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>proiecit Israhel bonum inimicus persequetur eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>ipsi regnaverunt et non ex me principes extiterunt et non cognovi argentum suum et aurum suum fecerunt sibi idola ut interirent</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>proiectus est vitulus tuus Samaria iratus est furor meus in eis usquequo non poterunt emundari</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>quia ex Israhel et ipse est artifex fecit illum et non est Deus quoniam in aranearum telas erit vitulus Samariae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>quia ventum seminabunt et turbinem metent culmus stans non est in eis germen non faciet farinam quod si et fecerit alieni comedent eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>devoratus est Israhel nunc factus est in nationibus quasi vas inmundum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>quia ipsi ascenderunt ad Assur onager solitarius sibi Ephraim munera dederunt amatoribus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>sed et cum mercede conduxerint nationes nunc congregabo eos et quiescent paulisper ab onere regis et principum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>quia multiplicavit Ephraim altaria ad peccandum factae sunt ei arae in delictum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>scribam ei multiplices leges meas quae velut alienae conputatae sunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>hostias adfer adfer immolabunt carnes et comedent Dominus non suscipiet eas nunc recordabitur iniquitatis eorum et visitabit peccata eorum ipsi in Aegyptum convertentur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.008.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>et oblitus est Israhel factoris sui et aedificavit delubra et Iudas multiplicavit urbes munitas et mittam ignem in civitates eius et devorabit aedes illius</l>
+    </verse>
+  </chapter>
+  <chapter num="9">
+    <verse type="bible-verse" id="B.Hosea.009.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:1</verseNum>
+      </reference>
+      <l>noli laetari Israhel noli exultare sicut populi quia fornicatus es a Deo tuo dilexisti mercedem super omnes areas tritici</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:2</verseNum>
+      </reference>
+      <l>area et torcular non pascet eos et vinum mentietur eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:3</verseNum>
+      </reference>
+      <l>non habitabunt in terra Domini reversus est Ephraim Aegyptum et in Assyriis pollutum comedit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:4</verseNum>
+      </reference>
+      <l>non libabunt Domino vinum et non placebunt ei sacrificia eorum quasi panis lugentium omnes qui comedunt eum contaminabuntur quia panis eorum animae ipsorum non intrabit in domum Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:5</verseNum>
+      </reference>
+      <l>quid facietis in die sollemni in die festivitatis Domini</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:6</verseNum>
+      </reference>
+      <l>ecce enim profecti sunt a vastitate Aegyptus congregavit eos Memphis sepeliet eos desiderabile argenti eorum urtica hereditabit lappa in tabernaculis eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:7</verseNum>
+      </reference>
+      <l>venerunt dies visitationis venerunt dies retributionis scitote Israhel stultum prophetam insanum virum spiritalem propter multitudinem iniquitatis tuae et multitudo amentiae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:8</verseNum>
+      </reference>
+      <l>speculator Ephraim cum Deo meo propheta laqueus ruinae super omnes vias eius insania in domo Dei eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:9</verseNum>
+      </reference>
+      <l>profunde peccaverunt sicut in diebus Gabaa recordabitur iniquitatis eorum et visitabit peccata eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:10</verseNum>
+      </reference>
+      <l>quasi uvas in deserto inveni Israhel quasi prima poma ficulneae in cacumine eius vidi patres eorum ipsi autem intraverunt ad Beelphegor et abalienati sunt in confusione et facti sunt abominabiles sicut ea quae dilexerunt</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:11</verseNum>
+      </reference>
+      <l>Ephraim quasi avis avolavit gloria eorum a partu et ab utero et a conceptu</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:12</verseNum>
+      </reference>
+      <l>quod si et enutrierint filios suos absque liberis eos faciam in hominibus sed et vae eis cum recessero ab eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:13</verseNum>
+      </reference>
+      <l>Ephraim ut vidi Tyrus erat fundata in pulchritudine et Ephraim educit ad interfectorem filios suos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:14</verseNum>
+      </reference>
+      <l>da eis Domine quid dabis eis da eis vulvam sine liberis et ubera arentia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.015">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:15</verseNum>
+      </reference>
+      <l>omnes nequitiae eorum in Galgal quia ibi exosos habui eos propter malitiam adinventionum eorum de domo mea eiciam eos non addam ut diligam eos omnes principes eorum recedentes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.016">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:16</verseNum>
+      </reference>
+      <l>percussus est Ephraim radix eorum exsiccata est fructum nequaquam facient quod si et genuerint interficiam amantissima uteri eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.009.017">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>9:17</verseNum>
+      </reference>
+      <l>abiciet eos Deus meus quia non audierunt eum et erunt vagi in nationibus</l>
+    </verse>
+  </chapter>
+  <chapter num="10">
+    <verse type="bible-verse" id="B.Hosea.010.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:1</verseNum>
+      </reference>
+      <l>vitis frondosa Israhel fructus adaequatus est ei secundum multitudinem fructus sui multiplicavit altaria iuxta ubertatem terrae suae exuberavit simulacris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:2</verseNum>
+      </reference>
+      <l>divisum est cor eorum nunc interibunt ipse confringet simulacra eorum depopulabitur aras eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:3</verseNum>
+      </reference>
+      <l>quia nunc dicent non est rex nobis non enim timemus Dominum et rex quid faciet nobis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:4</verseNum>
+      </reference>
+      <l>loquimini verba visionis inutilis et ferietis foedus et germinabit quasi amaritudo iudicium super sulcos agri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:5</verseNum>
+      </reference>
+      <l>vaccas Bethaven coluerunt habitatores Samariae quia luxit super eum populus eius et aeditui eius super eum exultaverunt in gloria eius quia migravit ab eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:6</verseNum>
+      </reference>
+      <l>siquidem et ipse in Assur delatus est munus regi ultori confusio Ephraim capiet et confundetur Israhel in voluntate sua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:7</verseNum>
+      </reference>
+      <l>transire fecit Samaria regem suum quasi spumam super faciem aquae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:8</verseNum>
+      </reference>
+      <l>et disperdentur excelsa idoli peccatum Israhel lappa et tribulus ascendet super aras eorum et dicent montibus operite nos et collibus cadite super nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:9</verseNum>
+      </reference>
+      <l>ex diebus Gabaa peccavit Israhel ibi steterunt non conprehendet eos in Gabaa proelium super filios iniquitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:10</verseNum>
+      </reference>
+      <l>iuxta desiderium meum corripiam eos congregabuntur super eos populi cum corripientur propter duas iniquitates suas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:11</verseNum>
+      </reference>
+      <l>Ephraim vitula docta diligere trituram et ego transivi super pulchritudinem colli eius ascendam super Ephraim arabit Iudas confringet sibi sulcos Iacob</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:12</verseNum>
+      </reference>
+      <l>seminate vobis in iustitia metite in ore misericordiae innovate vobis novale tempus autem requirendi Dominum cum venerit qui docebit vos iustitiam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:13</verseNum>
+      </reference>
+      <l>arastis impietatem iniquitatem messuistis comedistis frugem mendacii quia confisus es in viis tuis in multitudine fortium tuorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:14</verseNum>
+      </reference>
+      <l>consurget tumultus in populo tuo et omnes munitiones tuae vastabuntur sicut vastatus est Salman a domo eius qui iudicavit Baal in die proelii matre super filios adlisa</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.010.015">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>10:15</verseNum>
+      </reference>
+      <l>sic fecit vobis Bethel a facie malitiae nequitiarum vestrarum</l>
+    </verse>
+  </chapter>
+  <chapter num="11">
+    <verse type="bible-verse" id="B.Hosea.011.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:1</verseNum>
+      </reference>
+      <l>sicuti mane transit pertransiit rex Israhel quia puer Israhel et dilexi eum et ex Aegypto vocavi filium meum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:2</verseNum>
+      </reference>
+      <l>vocaverunt eos sic abierunt a facie eorum Baalim immolabant et simulacris sacrificabant</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:3</verseNum>
+      </reference>
+      <l>et ego quasi nutricius Ephraim portabam eos in brachiis meis et nescierunt quod curarem eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:4</verseNum>
+      </reference>
+      <l>in funiculis Adam traham eos in vinculis caritatis et ero eis quasi exaltans iugum super maxillas eorum et declinavi ad eum ut vesceretur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:5</verseNum>
+      </reference>
+      <l>non revertetur in terram Aegypti et Assur ipse rex eius quoniam noluerunt converti</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:6</verseNum>
+      </reference>
+      <l>coepit gladius in civitatibus eius et consumet electos eius et comedet capita eorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:7</verseNum>
+      </reference>
+      <l>et populus meus pendebit ad reditum meum iugum autem inponetur ei simul quod non auferetur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:8</verseNum>
+      </reference>
+      <l>quomodo dabo te Ephraim protegam te Israhel quomodo dabo te sicut Adama ponam te ut Seboim conversum est in me cor meum pariter conturbata est paenitudo mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:9</verseNum>
+      </reference>
+      <l>non faciam furorem irae meae non convertar ut disperdam Ephraim quoniam Deus ego et non homo in medio tui Sanctus et non ingrediar civitatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:10</verseNum>
+      </reference>
+      <l>post Dominum ambulabunt quasi leo rugiet quia ipse rugiet et formidabunt filii maris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:11</verseNum>
+      </reference>
+      <l>et avolabunt quasi avis ex Aegypto et quasi columba de terra Assyriorum et conlocabo eos in domibus suis dicit Dominus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.011.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>11:12</verseNum>
+      </reference>
+      <l>circumdedit me in negatione Ephraim et in dolo domus Israhel Iudas autem testis descendit cum Deo et cum sanctis fidelis</l>
+    </verse>
+  </chapter>
+  <chapter num="12">
+    <verse type="bible-verse" id="B.Hosea.012.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:1</verseNum>
+      </reference>
+      <l>Ephraim pascit ventum et sequitur aestum tota die mendacium et vastitatem multiplicat et foedus cum Assyriis iniit et oleum in Aegyptum ferebat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:2</verseNum>
+      </reference>
+      <l>iudicium ergo Domini cum Iuda et visitatio super Iacob iuxta vias eius et iuxta adinventiones eius reddet ei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:3</verseNum>
+      </reference>
+      <l>in utero subplantavit fratrem suum et in fortitudine sua directus est cum angelo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:4</verseNum>
+      </reference>
+      <l>et invaluit ad angelum et confortatus est flevit et rogavit eum in Bethel invenit eum et ibi locutus est nobiscum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:5</verseNum>
+      </reference>
+      <l>et Dominus Deus exercituum Dominus memoriale eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:6</verseNum>
+      </reference>
+      <l>et tu ad Deum tuum converteris misericordiam et iudicium custodi et spera in Deo tuo semper</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:7</verseNum>
+      </reference>
+      <l>Chanaan in manu eius statera dolosa calumniam dilexit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:8</verseNum>
+      </reference>
+      <l>et dixit Ephraim verumtamen dives effectus sum inveni idolum mihi omnes labores mei non invenient mihi iniquitatem quam peccavi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:9</verseNum>
+      </reference>
+      <l>et ego Dominus Deus tuus ex terra Aegypti adhuc sedere te faciam in tabernaculis sicut in diebus festivitatis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:10</verseNum>
+      </reference>
+      <l>et locutus sum super prophetas et ego visionem multiplicavi et in manu prophetarum adsimilatus sum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:11</verseNum>
+      </reference>
+      <l>si Galaad idolum tamen frustra erant in Galgal bubus immolantes nam et altaria eorum quasi acervi super sulcos agri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:12</verseNum>
+      </reference>
+      <l>fugit Iacob in regionem Syriae et servivit Israhel in uxore et in uxore servavit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:13</verseNum>
+      </reference>
+      <l>in propheta autem eduxit Dominus Israhel de Aegypto et in propheta servatus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.012.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>12:14</verseNum>
+      </reference>
+      <l>ad iracundiam me provocavit Ephraim in amaritudinibus suis et sanguis eius super eum veniet et obprobrium eius restituet ei Dominus suus</l>
+    </verse>
+  </chapter>
+  <chapter num="13">
+    <verse type="bible-verse" id="B.Hosea.013.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:1</verseNum>
+      </reference>
+      <l>loquente Ephraim horror invasit Israhel et deliquit in Baal et mortuus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:2</verseNum>
+      </reference>
+      <l>et nunc addiderunt ad peccandum feceruntque sibi conflatile de argento suo quasi similitudinem idolorum factura artificum totum est his ipsi dicunt immolate homines vitulos adorantes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:3</verseNum>
+      </reference>
+      <l>idcirco erunt quasi nubes matutina et sicut ros matutinus praeteriens sicut pulvis turbine raptus ex area et sicut fumus de fumario</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:4</verseNum>
+      </reference>
+      <l>ego autem Dominus Deus tuus ex terra Aegypti et Deum absque me nescies et salvator non est praeter me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:5</verseNum>
+      </reference>
+      <l>ego cognovi te in deserto in terra solitudinis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:6</verseNum>
+      </reference>
+      <l>iuxta pascua sua et adimpleti sunt et saturati elevaverunt cor suum et obliti sunt mei</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:7</verseNum>
+      </reference>
+      <l>et ero eis quasi leaena sicut pardus in via Assyriorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:8</verseNum>
+      </reference>
+      <l>occurram eis quasi ursa raptis catulis et disrumpam interiora iecoris eorum et consumam eos ibi quasi leo bestia agri scindet eos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:9</verseNum>
+      </reference>
+      <l>perditio tua Israhel tantummodo in me auxilium tuum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:10</verseNum>
+      </reference>
+      <l>ubi est rex tuus maxime nunc salvet te in omnibus urbibus tuis et iudices tui de quibus dixisti da mihi regem et principes</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.011">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:11</verseNum>
+      </reference>
+      <l>dabo tibi regem in furore meo et auferam in indignatione mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.012">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:12</verseNum>
+      </reference>
+      <l>conligata est iniquitas Ephraim absconditum peccatum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.013">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:13</verseNum>
+      </reference>
+      <l>dolores parturientis venient ei ipse filius non sapiens nunc enim non stabit in contritione filiorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.014">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:14</verseNum>
+      </reference>
+      <l>de manu mortis liberabo eos de morte redimam eos ero mors tua o mors ero morsus tuus inferne consolatio abscondita est ab oculis meis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.013.015">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>13:15</verseNum>
+      </reference>
+      <l>quia ipse inter fratres dividet adducet urentem ventum Dominus de deserto ascendentem et siccabit venas eius et desolabit fontem eius et ipse diripiet thesaurum omnis vasis desiderabilis</l>
+    </verse>
+  </chapter>
+  <chapter num="14">
+    <verse type="bible-verse" id="B.Hosea.014.001">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:1</verseNum>
+      </reference>
+      <l>pereat Samaria quoniam ad amaritudinem concitavit Dominum suum in gladio pereat parvuli eorum elidantur et fetae eius discindantur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.002">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:2</verseNum>
+      </reference>
+      <l>convertere Israhel ad Dominum Deum tuum quoniam corruisti in iniquitate tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.003">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:3</verseNum>
+      </reference>
+      <l>tollite vobiscum verba et convertimini ad Dominum dicite ei omnem aufer iniquitatem et accipe bonum et reddemus vitulos labiorum nostrorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.004">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:4</verseNum>
+      </reference>
+      <l>Assur non salvabit nos super equum non ascendemus nec dicemus ultra dii nostri opera manuum nostrarum quia eius qui in te est misereberis pupilli</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.005">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:5</verseNum>
+      </reference>
+      <l>sanabo contritiones eorum diligam eos spontanee quia aversus est furor meus ab eo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.006">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:6</verseNum>
+      </reference>
+      <l>ero quasi ros Israhel germinabit quasi lilium et erumpet radix eius ut Libani</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.007">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:7</verseNum>
+      </reference>
+      <l>ibunt rami eius et erit quasi oliva gloria eius et odor eius ut Libani</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.008">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:8</verseNum>
+      </reference>
+      <l>convertentur sedentes in umbra eius vivent tritico et germinabunt quasi vinea memoriale eius sicut vinum Libani</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.009">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:9</verseNum>
+      </reference>
+      <l>Ephraim quid mihi ultra idola ego exaudiam et dirigam eum ego ut abietem virentem ex me fructus tuus inventus est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Hosea.014.010">
+      <reference>
+        <bookName>Hosea</bookName>
+        <verseNum>14:10</verseNum>
+      </reference>
+      <l>quis sapiens et intelleget ista intellegens et sciet haec quia rectae viae Domini et iusti ambulabunt in eis praevaricatores vero corruent in eis</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Hosea.colophon.001">
+    <reference>
+      <bookName>Hosea</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT OSEE PROPHETA</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

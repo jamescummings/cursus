@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8010" nextid="c8012" id="c8011">
+   <header>
+      <usage ms="Alb2" code="06031000"/>
+      <usage ms="Bat" code="06031000">[46r] lauds-a5</usage>
+      <usage ms="Cdm" code="06031000">lauds</usage>
+      <usage ms="Evm" code="06031000"/>
+      <usage ms="Mch" code="06031000">[108v] lauds-a5</usage>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wcb" code="06031000">[90v] lauds</usage>
+      <usage ms="Wor" code="06031000"/>
+   </header>
+   <aBody wit="Wor Alb2 Pet Evm Wcb Cdm Mch Bat"> Iuvenes et virgines senes cum iunioribus
+     <app>
+         <rdg wit="Wor Alb2 Pet Cdm Mch Bat"> laudent nomen domini</rdg>
+         <rdg wit="Evm Wcb"> laudent nomen domini quia exaltatum est nomen eius solius</rdg>
+      </app>
+   </aBody>
+</ant>

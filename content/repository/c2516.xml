@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2515" nextid="c2517" id="c2516">
+   <header>
+      <usage ms="Ely" code="01021000">[8v] sext</usage>
+      <usage ms="Evm" code="01021000">[15r] nones</usage>
+      <usage ms="Glo" code="01021000">[12v] nones</usage>
+      <usage ms="Mch" code="01021000">[6r] vesp1 gosp</usage>
+      <usage ms="Wcb" code="01021000">[45v] nones</usage>
+      <usage ms="Wor" code="01033000">[8r] vesp2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D Evm Mch Ely Wor Wcb Glo"> Ecce in nubibus caeli filius hominis veniet alleluia</aBody>
+</ant>

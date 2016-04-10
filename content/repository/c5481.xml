@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5480" nextid="c5482" id="c5481">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Bat" code="07014000">[49v] prime</usage>
+      <usage ms="Cdm" code="07012000">[58r] prime</usage>
+      <usage ms="Cht" code="07012000"/>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Evm" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07011000">[114r] matins-n3</usage>
+      <usage ms="Mch" code="07012000">[118r] prime</usage>
+      <usage ms="Pet" code="07012000"/>
+      <usage ms="Wor" code="07012000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Ely Wor Cht Pet Evm Alb2 Cdm Mch Bat"> Vivo ego dicit dominus nolo mortem peccatoris
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Ely Wor Cht Pet Evm Alb2 Cdm Mch Bat"> sed ut magis convertatur et vivat</rdg>
+         <rdg wit="CAO-L"> sed magis convertatur et vivat</rdg>
+      </app>
+   </aBody>
+</ant>

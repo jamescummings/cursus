@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1920" nextid="c1922" id="c1921">
+   <aBody wit="CAO-M CAO-H CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-H CAO-L"> Convertere domine et eripe animam meam</rdg>
+         <rdg wit="CAO-M"> Convertere domine eripe animam meam</rdg>
+         <rdg wit="CAO-S"> Convertere domine et eripe animam mea</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-S"> quoniam non est in morte</rdg>
+         <rdg wit="CAO-M CAO-L"> quia non est in morte</rdg>
+      </app> qui memor sit tui</aBody>
+</ant>

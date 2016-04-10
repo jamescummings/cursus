@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2495" nextid="c2497" id="c2496">
+   <header>
+      <usage ms="Alb2" code="07024000"/>
+      <usage ms="Bat" code="07024000">[53r] lauds gosp</usage>
+      <usage ms="Cdm" code="07024000">[62v] lauds-a1</usage>
+      <usage ms="Cht" code="07024000"/>
+      <usage ms="Ely" code="07024000"/>
+      <usage ms="Evm" code="07024000"/>
+      <usage ms="Hyd" code="07024000"/>
+      <usage ms="Mch" code="07024000">[126r] lauds gosp</usage>
+      <usage ms="Pet" code="07024000"/>
+      <usage ms="Wcb" code="07024000"/>
+      <usage ms="Wor" code="07024000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Cht Pet Evm Wcb Alb2 Cdm Mch Bat"> Ecce ascendimus Jerosolymam et filius hominis tradetur
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-F CAO-S CAO-L Evm Wcb Alb2 Mch"> ad crucifigendum</rdg>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R Ely Wor Cht Pet Cdm Bat"> ut crucifigatur</rdg>
+         <rdg wit="CAO-D Hyd"> et crucifigatur</rdg>
+      </app>
+   </aBody>
+</ant>

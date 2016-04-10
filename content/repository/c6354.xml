@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6353" nextid="c6355" id="c6354">
+   <rBody wit="CAO-D CAO-F CAO-S"> Cum aspicerem animalia apparuit rota una
+      <app>
+         <rdg wit="CAO-F CAO-S"> iuxta ea</rdg>
+         <rdg wit="CAO-D"> iuxta eam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F"> quatuor habens facies</rdg>
+         <rdg wit="CAO-S"> quatuor habens</rdg>
+      </app> et una similitudo ipsarum quatuor</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S"> Aspectus rotarum et opus erat quasi visio maris</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S">Et una</rep>
+   </verses>
+</res>

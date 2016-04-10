@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6482" nextid="c6484" id="c6483">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Docete filios vestros alleluia ut memoriter teneant
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-D CAO-F CAO-L CAO-C"> alleluia</rdg>
+         <rdg wit="CAO-R" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> et ore decantent
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> alleluia alleluia</rdg>
+         <rdg wit="CAO-C CAO-D CAO-L"> alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-E CAO-H CAO-D"> Confiteantur domino
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-H CAO-D"> misericordiae eius</rdg>
+            <rdg wit="CAO-C"> misericordia eius</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-H CAO-D"> et mirabilia eius</rdg>
+            <rdg wit="CAO-G"> et mirabilia</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-H CAO-D"> filiis hominum</rdg>
+            <rdg wit="CAO-E"> filii hominum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-B CAO-R CAO-F CAO-L"> Filii qui nascentur
+       <app>
+            <rdg wit="CAO-B CAO-R"> et exsurgent narrent ea</rdg>
+            <rdg wit="CAO-L"> exsurgent et narrabunt eam</rdg>
+            <rdg wit="CAO-F"> exsurgent enarrabunt</rdg>
+         </app> filiis suis</vBody>
+      <vBody type="r" wit="CAO-V"> Annuntiate inter gentes gloriam eius in omnibus populis mirabilia eius</vBody>
+      <rep type="r" wit="CAO-E CAO-R CAO-F CAO-L"> Ut memoriter</rep>
+      <rep type="r" wit="CAO-C CAO-G CAO-H CAO-D CAO-B CAO-V"> Et ore</rep>
+   </verses>
+</res>

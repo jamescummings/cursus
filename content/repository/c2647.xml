@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2646b" nextid="c2648" id="c2647">
+   <header>
+      <usage ms="Cdm" code="08011000">[81r] lauds-a2</usage>
+      <usage ms="Hyd" code="08011000">[100r] lauds-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> Erat autem aspectus eius sicut fulgur</rdg>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H"> Erat enim aspectus eius sicut fulgur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> vestimenta eius sicut nix</rdg>
+         <rdg wit="CAO-C"> et vestimenta eius sicut nix</rdg>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> vestimenta eius candida sicut nix</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> alleluia alleluia</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

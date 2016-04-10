@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6906b" nextid="c6908" id="c6907">
+   <rBody wit="CAO-M CAO-L"> In infantia sua beatus Vitus multa meruit qui auxiliante domino patri lumen reddidit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-L"> Adducunt autem
+       <app>
+            <rdg wit="CAO-L"> Hylam patrem eius</rdg>
+            <rdg wit="CAO-M"> Ilas pater eius</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-L"> cadensque ad genua filii sui et dixit</rdg>
+            <rdg wit="CAO-M"> cadens ad genua filii sui dicens</rdg>
+         </app> fili fac me sanum</vBody>
+      <rep type="r" wit="CAO-M CAO-L">Qui</rep>
+   </verses>
+</res>

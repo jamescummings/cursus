@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1227b" nextid="c1229" id="c1228">
+   <header>
+      <usage ms="Hyd" code="10800000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-V CAO-F Hyd">
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-F Hyd"> Accingimini filii potentes et estote parati pugnare in proelio</rdg>
+         <rdg wit="CAO-E"> Accingimini et estote filii potentes</rdg>
+      </app> quoniam melius est nobis mori in bello quam videre mala gentis nostrae et sanctorum sicut fuerit voluntas in caelo sic fiat</aBody>
+</ant>

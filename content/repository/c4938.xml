@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4937" nextid="c4939" id="c4938">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-D CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-L"> Sicut locutus es ad patres nostros domine</rdg>
+         <rdg wit="CAO-C"> Sicut locutus est a patres nostros domine</rdg>
+         <rdg wit="CAO-D"> Sicut locutus est ad patres nostros domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-L"> recordare misericordiae tuae</rdg>
+         <rdg wit="CAO-C CAO-E"> memorate misericordiae tuae</rdg>
+         <rdg wit="CAO-D"> recordare misericordiae suae</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4052" nextid="c4054" id="c4053">
+   <aBody wit="CAO-R">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> O Petre pastor summe</l>
+         <l part="N"> et Paule doctor magne</l>
+         <l part="N"> Nos Christo pia prece</l>
+         <l part="N"> purgatos coniungite</l>
+      </lg>
+   </aBody>
+</ant>

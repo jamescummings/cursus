@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3906" nextid="c3908" id="c3907">
+   <header>
+      <usage ms="Cht" code="07033000"/>
+      <usage ms="Wor" code="07033000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D Wor Cht">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> Non dico tibi Petre dimittendi septies</rdg>
+         <rdg wit="CAO-C CAO-G CAO-D Wor Cht"> Non dico tibi septies</rdg>
+      </app> sed usque septuagies septies</aBody>
+</ant>

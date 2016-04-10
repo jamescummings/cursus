@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7430" nextid="c7432" id="c7431">
+   <rBody wit="CAO-D CAO-F"> Pretiosus domini Dionysius in agone novissimo oravit dicens nunc iam
+     <app>
+         <rdg wit="CAO-F"> domine per coronam martyrii cum fratribus meis servis tuis suscipe me</rdg>
+         <rdg wit="CAO-D">
+            <gap reason="lacuna in manuscript" resp="Hesbert" extent="remainder of respond"/>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">Athleta domini Dionysius psallebat dicens</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Nunc</rep>
+   </verses>
+</res>

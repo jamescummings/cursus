@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1315" nextid="c1317" id="c1316">
+   <header>
+      <usage ms="Alb2" code="07066000">[111r] lauds-a3</usage>
+      <usage ms="Cdm" code="07066000">[79v] lauds-a3</usage>
+      <usage ms="Cht" code="07066000">[63v] lauds</usage>
+      <usage ms="Ely" code="07066000">[90v] lauds</usage>
+      <usage ms="Evm" code="07066000">[152v] lauds</usage>
+      <usage ms="Hyd" code="07066000">[97r] lauds</usage>
+      <usage ms="Mch" code="07066000">[162r] lauds-a3</usage>
+      <usage ms="Pet" code="07066000">[93r] lauds</usage>
+      <usage ms="Wcb" code="07066000">[117r] lauds</usage>
+      <usage ms="Wor" code="07066000">[62r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Ait latro ad latronem nos quidem digna factis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> recipimus</rdg>
+         <rdg wit="CAO-L"> recepimus</rdg>
+      </app> hic autem quid fecit memento mei domine
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Pet Evm Wcb Alb2 Cdm Mch"> dum veneris in regnum tuum</rdg>
+         <rdg wit="CAO-C Wor Hyd"> cum veneris in regnum tuum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6882" nextid="c6884" id="c6883">
+   <header>
+      <usage ms="Alb2" code="06011000">[66r] matins-n2-r9</usage>
+      <usage ms="Bat" code="06011000">[42r] matins-n2-r8</usage>
+      <usage ms="Cdm" code="06011000">[49v] matins-n2-r8</usage>
+      <usage ms="Evm" code="06011000">[92v] matins-n2-r8</usage>
+      <usage ms="Hyd" code="06011000">[61r] matins-n2-r8</usage>
+      <usage ms="Pet" code="06011000">[55v] matins-n2-r8</usage>
+      <usage ms="Wcb" code="06011000">[85v] matins-n2-r7</usage>
+      <usage ms="Wor" code="06011000">[36v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> Immisit dominus soporem in Adam et tulit unam de costis eius
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> et aedificavit costam</rdg>
+         <rdg wit="CAO-S"> et aedificabit costam</rdg>
+         <rdg wit="CAO-C"> et aedificavit costa</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> quam tulerat dominus de Adam</rdg>
+         <rdg wit="CAO-S"> quam tulerat de Adam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> in mulierem</rdg>
+         <rdg wit="CAO-E"> in muliere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> et adduxit eam ad Adam</rdg>
+         <rdg wit="CAO-F"> et adduxit ea ad Adam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> ut videret quid vocaret eam</rdg>
+         <rdg wit="CAO-M"> ut videret qui<del status="unremarkable">d</del> vocaret eam</rdg>
+         <rdg wit="CAO-V"> ut videret qui vocarent eam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat Mch"> et vocavit nomen eius virago</rdg>
+         <rdg wit="CAO-S"> et vocabit nomen eius virago</rdg>
+         <rdg wit="CAO-L"> et advocavit nomen eius virago</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Wor Pet Ely Wcb Evm Cdm Bat"> quia de viro suo sumpta est</rdg>
+         <rdg wit="CAO-C CAO-G CAO-D CAO-L Mch"> quia de viro sumpta est</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Wor Pet Wcb Evm Ely Cdm Bat Mch"> Hoc nunc os ex ossibus meis et caro de carne mea</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Cumque obdormisset tulit unam de costis eius et replevit carnem pro ea</vBody>
+      <rep type="r" wit="CAO-L">Et advocavit</rep>
+      <rep type="r" wit="CAO-S">Virago</rep>
+      <rep type="r" wit="CAO-G CAO-D Wcb Evm Mch"> Quia</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F Hyd Alb2 Pet Wor Ely Cdm Bat">Et vocavit</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+   </verses>
+</res>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4547" nextid="c4549" id="c4548">
+   <header>
+      <usage ms="Alb2" code="07051000">[100v] lauds</usage>
+      <usage ms="Bat" code="07051000">[60r] lauds gosp</usage>
+      <usage ms="Cdm" code="07051000">[71v] lauds gosp</usage>
+      <usage ms="Cht" code="07051000">[48v] lauds</usage>
+      <usage ms="Ely" code="07051000">[82v] lauds</usage>
+      <usage ms="Evm" code="07051000">[136r] lauds</usage>
+      <usage ms="Hyd" code="07051000">[87r] lauds</usage>
+      <usage ms="Mch" code="07051000">[147r] lauds gosp</usage>
+      <usage ms="Pet" code="07051000">[81v] lauds</usage>
+      <usage ms="Wcb" code="07051000">[108v] lauds</usage>
+      <usage ms="Wor" code="07051000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">I can't now find this for Passion Sunday in Wor.  My mistake?</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-L Wor Hyd Pet Evm Wcb Alb2 Ely Cht Cdm Mch Bat">
+      <app>
+         <rdg wit="Wor Hyd Pet Evm Wcb Alb2 Ely Cht Cdm Mch Bat"> Quis ex vobis arguet</rdg>
+         <rdg wit="CAO-L"> Quis ex vobis arguit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L Hyd Pet Evm Wcb Alb2 Ely Cht Cdm Mch Bat"> me de peccato si veritatem dico</rdg>
+         <rdg wit="Wor">
+            <add rend="over erasure" place="inline" resp="DC">me de peccato si</add> veritatem dico</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L Wor Hyd Pet Evm Wcb Alb2 Ely Cht Cdm"> quare vos non creditis</rdg>
+         <rdg wit="Mch"> vobis quare non creditis</rdg>
+         <rdg wit="Bat"> quare non creditis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-L Wor"> dicit dominus</rdg>
+         <rdg wit="Hyd Pet"> mihi qui est ex deo verba dei audit propterea vos non quae auditis quia ex deo non estis</rdg>
+         <rdg wit="Wcb Alb2 Ely Cht Cdm Bat"> mihi qui est ex deo verba dei audit propterea vos non auditis quia ex deo non estis</rdg>
+         <rdg wit="Evm"> mihi qui ex deo verba dei audit propterea vos non auditis quia ex deo non estis</rdg>
+         <rdg wit="Mch" type="silent">[silent reading]</rdg>
+      </app>
+   </aBody>
+</ant>

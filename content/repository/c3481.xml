@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3480" nextid="c3482" id="c3481">
+   <header>
+      <usage ms="Cdm" code="01012000">[10v] vesp2 gosp</usage>
+      <usage ms="Ely" code="01012000">[6r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01012000">[5r] vesp2 gosp</usage>
+      <usage ms="Wor" code="01012000">[4r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Cdm Ely Wor"> Jerusalem respice ad orientem et vide alleluia</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4884" nextid="c4886" id="c4885">
+   <header>
+      <usage ms="Glo" code="14022200"/>
+   </header>
+   <aBody wit="CAO-C Glo"> Si diligis me Simon Petre
+     <app>
+         <rdg wit="CAO-C"> pasce oves meas alleluia alleluia</rdg>
+         <rdg wit="Glo"> pasce oves meas dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

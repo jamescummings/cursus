@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6913" nextid="c6915" id="c6914">
+   <rBody wit="CAO-D"> In medio flammarum Christi hostia extendens palmas cum alacritate cordis ait adesto mihi nunc domine Jesu Christe qui in fornace ignea fidelibus tuis tribus pueris affuisti</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">Division between respond and verse not indicated in the manuscript.  Given the indicated regressio at 'Adesto', it is likely the verse commenced at 'Qui in fornace'</note>
+      </vBody>
+      <rep type="r" wit="CAO-D">Adesto</rep>
+   </verses>
+</res>

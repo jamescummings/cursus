@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3642" nextid="c3644" id="c3643">
+   <header>
+      <usage ms="Hyd" code="10800000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-V Hyd">
+      <app>
+         <rdg wit="CAO-C"> Lugebat autem Juda Israel</rdg>
+         <rdg wit="CAO-G Hyd"> Lugebat autem Judam Israel</rdg>
+         <rdg wit="CAO-V"> Lugebant autem Juda Israel</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> planctum magnum</rdg>
+         <rdg wit="CAO-G Hyd"> planctu magno</rdg>
+         <rdg wit="CAO-V"> planctum magno</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G Hyd"> et dicebat</rdg>
+         <rdg wit="CAO-V"> et dicebant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G Hyd"> quomodo cecidit potens</rdg>
+         <rdg wit="CAO-V"> quomodo cecidit potest</rdg>
+      </app> qui salvum faciebat populum domini</aBody>
+</ant>

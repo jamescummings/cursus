@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1563" nextid="o1565" id="o1564">
+   <header>
+      <usage ms="Alb2" code="07054000">[102r] lauds</usage>
+      <usage ms="Cdm" code="07054000">[72v] lauds</usage>
+      <usage ms="Cht" code="07054000">[51v] lauds</usage>
+      <usage ms="Ely" code="07054000">[83v] lauds</usage>
+      <usage ms="Evm" code="07054000">[139r] lauds</usage>
+      <usage ms="Hyd" code="07054000">[88v] lauds</usage>
+      <usage ms="Mch" code="07054000">[149v] lauds</usage>
+      <usage ms="Wcb" code="07054000">[110r] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.296</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb Alb2 Cdm Mch">Sanctificato hoc ieiunio deus tuorum corda fidelium miserator inlustra
+     <app>
+         <rdg wit="Ely Evm Wcb Alb2 Cdm Mch"> et quibus devotionis</rdg>
+         <rdg wit="Cht"> et quibus devotioni<add place="inline" resp="DC" hand="later">s</add>
+         </rdg>
+         <rdg wit="Hyd"> et quibus supplicandi</rdg>
+      </app> praestas affectum
+     <app>
+         <rdg wit="Ely Cht Hyd Evm"> praebe supplicationibus</rdg>
+         <rdg wit="Wcb Alb2 Cdm Mch"> praebe supplicantibus</rdg>
+      </app> pium benignus auditum</pBody>
+</prayer>

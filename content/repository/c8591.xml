@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8590" nextid="c8592" id="c8591">
+   <header>
+      <usage ms="Evm" code="02122800">[49v] vesp2 commemoratio</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Text is Acts 7:54</note>
+         <note place="unspecified" anchored="yes"> Used in Fecamp Ordinal as antiphon 5 for matins in die (edn. p.113)</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm"> Audientes autem haec dissecabantur cordibus suis et stridebant dentibus in eum</aBody>
+</ant>

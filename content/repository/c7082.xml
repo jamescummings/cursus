@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7081" nextid="c7083" id="c7082">
+   <rBody wit="CAO-E CAO-V CAO-R CAO-D CAO-F"> Laudemus dominum in beati antistitis
+      <app>
+         <rdg wit="CAO-E CAO-R"> Nicolai</rdg>
+         <rdg wit="CAO-D"> Eugenii</rdg>
+         <rdg wit="CAO-F"> Germani</rdg>
+         <rdg wit="CAO-V"> Prosperi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F"> meritis gloriosis</rdg>
+         <rdg wit="CAO-V"> meritis pretiosi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-D CAO-F"> ad sepulcrum eius</rdg>
+         <rdg wit="CAO-E"> ad cuius sepulcrum</rdg>
+      </app> aegri veniunt et sanantur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Vere mirabilis Deus
+       <app>
+            <rdg wit="CAO-F"> qui assidue beatum Nicholaum miraculis</rdg>
+            <rdg wit="CAO-D"> qui beatum Eugenium praeclaris miraculis</rdg>
+         </app> coruscare facit</vBody>
+      <vBody type="r" wit="CAO-V"> Ante cuius tumuli venerabile lumen venientes languidi eius sacro interventu curantur devote</vBody>
+      <vBody type="r" wit="CAO-E"> Benedictionem omnium gentium dedit illi et testamentum suum confirmavit super caput eius</vBody>
+      <vBody type="r" wit="CAO-R"> Gaudeamus omnes in domino diem festum celebrantes beatissimi Nicolai</vBody>
+      <rep type="r" wit="CAO-E">Ad cuius</rep>
+      <rep type="r" wit="CAO-V CAO-R CAO-D CAO-F">Ad sepulcrum</rep>
+   </verses>
+</res>

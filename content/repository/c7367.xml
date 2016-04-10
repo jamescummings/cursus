@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7366" nextid="c7368" id="c7367">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Paucitas dierum meorum finitur
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> brevi</rdg>
+         <rdg wit="CAO-C CAO-G CAO-M"> brevis</rdg>
+      </app> dimitte me domine
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> sine</rdg>
+         <rdg wit="CAO-S"> ut</rdg>
+         <rdg wit="Hyd"> sine ut</rdg>
+      </app> plangam paululum dolorem meum antequam vadam
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> ad terram</rdg>
+         <rdg wit="CAO-C"> atterram</rdg>
+      </app> tenebrosam et
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> opertam</rdg>
+         <rdg wit="CAO-V CAO-S"> operta</rdg>
+      </app> mortis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> caligine</rdg>
+         <rdg wit="CAO-C CAO-L"> caliginem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Ecce in pulvere</rdg>
+            <rdg wit="CAO-E"> Ecce in pulverem</rdg>
+         </app> sedeo et
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> in pulvere</rdg>
+            <rdg wit="CAO-E"> in pulverem</rdg>
+         </app> dormio et si mane
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> me quaesieris</rdg>
+            <rdg wit="CAO-M"> quaesieris</rdg>
+         </app> non subsistam</vBody>
+      <vBody type="r" wit="CAO-L"> Ad terram miseriae et tenebrarum ubi nullus ordo sed sempiternus horror inhabitat</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Antequam</rep>
+      <rep type="r" wit="CAO-L">Et opertam</rep>
+      <vBody id="c7367-1" type="r" num="2" wit="CAO-F"> Manus tuae plasmaverunt me et fecerunt me totum in circuitu et sic repente praecipitas me</vBody>
+      <rep corresp="c7367-1" type="r" wit="CAO-F"> Dimitte</rep>
+   </verses>
+</res>

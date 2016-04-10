@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2905" nextid="c2907" id="c2906">
+   <header>
+      <usage ms="Glo" code="14032100"/>
+   </header>
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S Glo"> Fuit vir vitae venerabilis
+     <app>
+         <rdg wit="CAO-D CAO-F Glo"> gratia Benedictus et nomine</rdg>
+         <rdg wit="CAO-C CAO-S"> gratia abba Benedictus</rdg>
+         <rdg wit="CAO-H CAO-R"> gratia dei abbas Benedictus</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-L"> Fuit vir vitae venerabilis</aBody>
+</ant>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6146" nextid="c6148" id="c6147">
+   <rBody wit="CAO-B CAO-V CAO-H CAO-R CAO-L"> Audistis enim conversationem meam aliquando in judaismo quoniam
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> proficiebam</rdg>
+         <rdg wit="CAO-V CAO-L"> proficiebat</rdg>
+      </app> supra multos coaetaneos meos in genere meo</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-L"> Abundantius enim aemulator
+       <app>
+            <rdg wit="CAO-B CAO-H CAO-R CAO-L"> exsistens paternarum mearum traditionum</rdg>
+            <rdg wit="CAO-V">
+               <sic>estitit tradictionum</sic> paternarum mearum </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R">Supra</rep>
+      <rep type="r" wit="CAO-V CAO-L"> Quoniam</rep>
+   </verses>
+</res>

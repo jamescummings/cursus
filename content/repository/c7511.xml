@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7510" nextid="c7512" id="c7511">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R"> Recordare mei domine omni potentatui dominans da sermonem rectum et bene sonantem in os meum
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R"> ut placeant</rdg>
+         <rdg wit="CAO-E"> et placeant</rdg>
+      </app> verba mea in conspectu principis everte cor eius in odium repugnantium nobis et in eos qui consentiunt eis nos autem libera
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R"> in manu tua</rdg>
+         <rdg wit="CAO-E"> in manus tua</rdg>
+      </app> deus noster in aeternum</rBody>
+   <rBody wit="CAO-C" num="2"> Recordare mei domine</rBody>
+   <verses>
+      <vBody type="r" wit="CAO"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" wit="CAO-C"> Qui regis</vBody>
+      <vBody type="r" wit="CAO-B CAO-R"> Cadat virtus eorum in iracundia tua qui promittunt se violare sancta tua</vBody>
+      <vBody type="r" wit="CAO-E"> Exsurge domine non confortetur homo iudicentur gentes in conspectu tuo</vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-H CAO-R"> Nos autem</rep>
+      <rep type="r" wit="CAO-E"> In aeternum</rep>
+   </verses>
+</res>

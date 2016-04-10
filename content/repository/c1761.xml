@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1760" nextid="c1762" id="c1761">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Cantantibus organis <name reg="Caecilia" type="saint">Caecilia</name> domino decantabat dicens
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> fiat cor meum immaculatum</rdg>
+         <rdg wit="CAO-E"> fiat cor meum et corpus meum immaculatum</rdg>
+      </app> ut non confundar</aBody>
+</ant>

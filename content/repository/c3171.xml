@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3170" nextid="c3172" id="c3171">
+   <header>
+      <usage ms="Cdm" code="07044000">[69v] vesp2</usage>
+      <usage ms="Cht" code="07044000">[44v] nones</usage>
+      <usage ms="Ely" code="70044000">[79v] sext</usage>
+      <usage ms="Hyd" code="07044000">[84r] nones</usage>
+      <usage ms="Mch" code="07044000">[141v] vesp2 gosp</usage>
+      <usage ms="Pet" code="07044000"/>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S Ely Cht Hyd Pet Cdm Mch"> Ille homo qui dicitur Jesus lutum fecit
+     <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D Ely Cht Hyd Pet Cdm Mch">ex sputo</rdg>
+         <rdg wit="CAO-C CAO-V CAO-S">exputo</rdg>
+      </app> et linivit oculos meos et modo<app>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S Ely Cht Hyd Pet Cdm"> video</rdg>
+         <rdg wit="Mch"> videro</rdg>
+      </app>
+   </aBody>
+</ant>

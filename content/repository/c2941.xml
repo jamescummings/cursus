@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2940" nextid="c2942" id="c2941">
+   <header>
+      <usage ms="Alb2" code="02010100">[47v] lauds-a4</usage>
+      <usage ms="Cdm" code="02010100">[34r] lauds-a4</usage>
+      <usage ms="Evm" code="02010100">[61r] lauds-a4</usage>
+      <usage ms="Hyd" code="02010100">[34v] lauds-a4</usage>
+      <usage ms="Pet" code="02010100">[37r] lauds-a4</usage>
+      <usage ms="Wcb" code="02010100">[67r] lauds-a4</usage>
+      <usage ms="Wor" code="02010100">[25r] lauds-a4</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.146</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet"> Germinavit radix Jesse
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Cdm Wor Pet"> orta est stella ex Jacob</rdg>
+         <rdg wit="CAO-V"> orta et stella ex Jacob</rdg>
+      </app> virgo peperit salvatorem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Cdm Wor Pet"> te laudamus deus noster</rdg>
+         <rdg wit="CAO-C CAO-L"> te laudamus dei genitrix</rdg>
+      </app>
+   </aBody>
+</ant>

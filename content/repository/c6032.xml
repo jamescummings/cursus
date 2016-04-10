@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6031" nextid="c6033" id="c6032">
+   <header>
+      <usage ms="Bat" code="07041000">[56v] matins-n3-r12</usage>
+      <usage ms="Cht" code="07041000">[41v] matins-n3-r12</usage>
+      <usage ms="Ely" code="07041000">[78r] matins-n3-r12</usage>
+      <usage ms="Evm" code="07041000">[129r] matins-n3-r12</usage>
+      <usage ms="Hyd" code="07041000">[82v] matins-n3-r12</usage>
+      <usage ms="Wcb" code="07041000">[105r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-F Ely Cht Hyd Evm Wcb Bat"> Adduxit eos dominus
+     <app>
+         <rdg wit="CAO-C CAO-F Ely Cht Wcb Bat"> in fortitudine magna</rdg>
+         <rdg wit="Hyd"> fortitudine magna</rdg>
+         <rdg wit="Evm"> in fortitudine terrae</rdg>
+      </app> cibavit eos nascentiis agrorum suxerunt mel de petra et oleum de firma petra</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C"> Butyrum boum et lac ovium cum adipe agnorum et filiorum taurorum et hircorum</vBody>
+      <vBody type="r" wit="CAO-F Ely Cht Hyd Evm Wcb Bat"> Cibavit eos ex adipe frumenti et de petra melle saturavit eos</vBody>
+      <rep type="r" wit="CAO-C CAO-F Ely Cht Hyd Evm Wcb Bat"> Suxerunt</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+   </verses>
+</res>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1530" nextid="o1532" id="o1531">
+   <header>
+      <usage ms="Alb2" code="07026000"/>
+      <usage ms="Bat" code="07026000">[53r] vesp2</usage>
+      <usage ms="Cdm" code="07026000">[63r] vesp2</usage>
+      <usage ms="Cdm" code="07052000" corresp="o1531-1">[72r] vesp2</usage>
+      <usage ms="Cht" code="07026000"/>
+      <usage ms="Ely" code="07026000"/>
+      <usage ms="Evm" code="07026000"/>
+      <usage ms="Evm" code="07052000">[138r] vesp2</usage>
+      <usage ms="Mch" code="07052000">[148v] vesp2</usage>
+      <usage ms="Wcb" code="07026000"/>
+      <usage ms="Wcb" code="07052000">[110r] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.224</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Evm Wcb Alb2 Cdm Mch Bat">Da quaesumus domine populo tuo salutem mentis et corporis ut bonis operibus inhaerendo tuae semper virtutis mereantur protectione defendi</pBody>
+   <pBody id="o1531-1" wit="Cdm">Da quaesumus domine populo tuo salutem mentis et corporis ut bonis operibus inhaerendo tua semper mereatur protectione defendi</pBody>
+</prayer>

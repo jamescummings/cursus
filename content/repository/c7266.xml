@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7265" nextid="c7267" id="c7266">
+   <rBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> O crux gloriosa
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F"> o crux adoranda</rdg>
+         <rdg wit="CAO-L"> o crux veneranda</rdg>
+      </app> o lignum pretiosum et admirabile signum per quod et diabolus est victus et mundus Christi
+     <app>
+         <rdg wit="CAO-F CAO-L"> sanguine redemptus</rdg>
+         <rdg wit="CAO-C"> sanguine est redemptus</rdg>
+         <rdg wit="CAO-D"> sanguine <corr sic="redemptis">redemptus</corr>
+         </rdg>
+         <rdg wit="CAO-E CAO-H CAO-R"> sanguine redemptus alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R"> Mihi autem absit gloriari nisi in cruce domini nostri Jesu Christi</vBody>
+      <vBody type="r" wit="CAO-C CAO-D"> Dulce lignum
+      <app>
+            <rdg wit="CAO-D"> dulces clavos</rdg>
+            <rdg wit="CAO-C"> dulce clavum</rdg>
+         </app> dulce pondus sustinuit quae digna fuit portare pretium huius saeculi</vBody>
+      <vBody type="r" wit="CAO-F"> Hoc signum crucis erit in caelo cum dominus ad iudicandum venerit</vBody>
+      <vBody type="r" wit="CAO-L"> O crux admirabilis evacuatio vulnerum restitutio sanitatum</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L">Per quod</rep>
+      <dox type="r" wit="CAO-F">Gloria</dox>
+      <rep type="r" num="2" wit="CAO-F">Et mundus</rep>
+   </verses>
+</res>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2042c" nextid="c2044" id="c2043">
+   <header>
+      <usage ms="Hyd" code="08071000">lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Hyd"> Cum venerit paraclitus quem ego mittam vobis spiritum veritatis qui a patre procedit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D"> ille testimonium perhibebit de me alleluia</rdg>
+         <rdg wit="Hyd"> ille testimonium perhibuit de me alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

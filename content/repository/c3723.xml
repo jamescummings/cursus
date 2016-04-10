@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3722" nextid="c3724" id="c3723">
+   <header>
+      <usage ms="Alb2" code="06037000">[74r] lauds gosp</usage>
+      <usage ms="Bat" code="06037000">[46v] lauds gosp</usage>
+      <usage ms="Cdm" code="06037000">[56r] lauds</usage>
+      <usage ms="Cht" code="06037000"/>
+      <usage ms="Ely" code="06037000"/>
+      <usage ms="Hyd" code="06037000"/>
+      <usage ms="Mch" code="06035000">[110v] lauds gosp</usage>
+      <usage ms="Pet" code="06037000">[63r] </usage>
+      <usage ms="Wor" code="06037000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Pet Hyd Ely Wor Cht Cdm Bat Mch">
+      <app>
+         <rdg wit="Alb2 Pet CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cht Cdm Mch"> Me etenim</rdg>
+         <rdg wit="Hyd Ely Wor Bat">Me enim</rdg>
+      </app> de die in diem quaerunt et scire vias meas
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Pet Hyd Ely Wor Cht Cdm Bat Mch"> volunt</rdg>
+         <rdg wit="CAO-M"> nolunt</rdg>
+      </app>
+   </aBody>
+</ant>

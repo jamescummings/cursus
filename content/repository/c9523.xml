@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9522" nextid="c9524" id="c9523">
+   <header>
+      <usage ms="Hyd" code="02122500"/>
+   </header>
+   <rBody wit="Hyd"> Ad praesentis festi gloriam in altisona voce proferamus symphoniarum copiam quia hodie dies aeternus illuxit nobis Christus deus noster</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Noctis interit nebula et nostri criminis pereunt umbracula</vBody>
+      <rep type="r" wit="Hyd">Quia </rep>
+   </verses>
+</res>

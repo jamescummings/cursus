@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5178" nextid="c5180" id="c5179">
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-L"> Tres pueri iussu regis</rdg>
+         <rdg wit="CAO-D"> Tres pueri visu regis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R"> in caminum missi sunt</rdg>
+         <rdg wit="CAO-E"> in camino missi sunt</rdg>
+         <rdg wit="CAO-D"> in fornacem missi sunt</rdg>
+         <rdg wit="CAO-L"> in fornace missi sunt</rdg>
+      </app> non timentes flammam ignis dicebant benedictus deus</aBody>
+</ant>

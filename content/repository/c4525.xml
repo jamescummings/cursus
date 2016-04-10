@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4524" nextid="c4526" id="c4525">
+   <header>
+      <usage ms="Alb2" code="07043000">[96r] lauds</usage>
+      <usage ms="Cdm" code="07043000">[69r] lauds gosp</usage>
+      <usage ms="Cht" code="07043000">[43v] lauds</usage>
+      <usage ms="Ely" code="07043000">[79r] lauds</usage>
+      <usage ms="Ely" code="70044000">[79v] lauds</usage>
+      <usage ms="Hyd" code="07043000">[83v] lauds</usage>
+      <usage ms="Mch" code="07043000">[141r] lauds gosp</usage>
+      <usage ms="Pet" code="07043000"/>
+      <usage ms="Wor" code="07043000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> Quid me quaeritis interficere hominem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Alb2 Cdm Mch"> qui vera</rdg>
+         <rdg wit="CAO-L"> qui veritatis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Alb2 Cdm Mch">locutus sum vobis</rdg>
+         <rdg wit="CAO-C CAO-F">locutus est vobis</rdg>
+      </app>
+   </aBody>
+</ant>

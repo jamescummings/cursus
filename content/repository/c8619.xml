@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8618" nextid="c9001" id="c8619">
+   <header>
+      <usage ms="Glo" code="14120800">[15r] vesp2 gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes"> Text is of c3852 for Nativity of BVM with change of first word</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Glo"> Conceptio tua dei genitrix virgo gaudium annuntiavit in universo mundo ex te enim ortus est sol iustitiae Christus deus noster qui solvens maledictionem dedit benedictionem et confundens mortem donavit nobis vitam sempiternam</aBody>
+</ant>

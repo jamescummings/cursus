@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5506" nextid="c5508" id="c5507">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Pet">
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D Hyd Pet"> Vox de caelis sonuit</rdg>
+         <rdg wit="CAO-C CAO-E CAO-V CAO-F CAO-L"> Vox de caelo sonuit</rdg>
+      </app> et vox patris audita est
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Pet"> hic est filius meus</rdg>
+         <rdg wit="Hyd"> hic est filius meus dilectus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H Pet"> in quo mihi complacui ipsum audite</rdg>
+         <rdg wit="CAO-R CAO-F CAO-L"> in quo mihi complacuit ipsum audite</rdg>
+         <rdg wit="CAO-D"> in quo mihi complacui alleluia</rdg>
+         <rdg wit="Hyd"> in quo mihi complacuit alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

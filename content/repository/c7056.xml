@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7055" nextid="c7057" id="c7056">
+   <header>
+      <usage ms="Cdm" code="02122800">[29v] vesp2</usage>
+   </header>
+   <rBody wit="CAO-F Cdm"> Iustorum animae in manu dei sunt et non tanget illos tormentum malitiae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F Cdm">Visi sunt oculis insipientium mori illi autem sunt in pace</vBody>
+      <rep type="r" wit="CAO-F Cdm">Et non</rep>
+   </verses>
+</res>

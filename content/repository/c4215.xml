@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4214" nextid="c4216" id="c4215">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Paradisi portae per te nobis apertae sunt</rdg>
+         <rdg wit="CAO-D CAO-S CAO-L"> Paradisi ianuae per te nobis apertae sunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S"> quas hodie gloriosa cum angelis triumphas</rdg>
+         <rdg wit="CAO-M"> quas hodie gloriosae cum angelis triumphas</rdg>
+         <rdg wit="CAO-H"> quae hodie gloriosa cum angelis triumphas</rdg>
+         <rdg wit="CAO-L"> quia hodie gloriosa cum angelis triumphat</rdg>
+      </app>
+   </aBody>
+</ant>

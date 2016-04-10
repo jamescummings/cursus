@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7065" nextid="c7067" id="c7066">
+   <header>
+      <usage ms="Alb2" code="02122800">[38v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-E Alb2"> Laetamini iusti et exsultate in domino et gloriamini omnes recti corde</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E Alb2">Cantate ei canticum novum bene psallite ei in vociferatione</vBody>
+      <rep type="r" wit="CAO-E Alb2">Et gloriamini</rep>
+   </verses>
+</res>

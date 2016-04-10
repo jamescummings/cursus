@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2113" nextid="c2115" id="c2114">
+   <header>
+      <usage ms="Hyd" code="05027000"/>
+   </header>
+   <aBody wit="CAO-H CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-H CAO-L"> De necessitatibus nostris libera nos domine</rdg>
+         <rdg wit="CAO-S"> De necessitatibus meis libera me domine</rdg>
+         <rdg wit="Hyd"> De necessitatibus meis erue me domine</rdg>
+      </app>
+   </aBody>
+</ant>

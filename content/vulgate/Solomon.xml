@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CURSUS>
+<text n="The Song of Solomon">
+<body>
+  <rubric type="bible-incipit" id="B.Solomon.incipit.001">
+    <reference>
+      <bookName>Solomon</bookName>
+      <verseNum>incipit:1</verseNum>
+    </reference>
+    <l>INCIPIT LIBER CANTICUM CANTICORUM</l>
+  </rubric>
+  <chapter num="1">
+    <verse type="bible-verse" id="B.Solomon.001.001">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:1</verseNum>
+      </reference>
+      <l>osculetur me osculo oris sui quia meliora sunt ubera tua vino</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.002">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:2</verseNum>
+      </reference>
+      <l>fraglantia unguentis optimis oleum effusum nomen tuum ideo adulescentulae dilexerunt te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.003">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:3</verseNum>
+      </reference>
+      <l>trahe me post te curremus introduxit me rex in cellaria sua exultabimus et laetabimur in te memores uberum tuorum super vinum recti diligunt te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.004">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:4</verseNum>
+      </reference>
+      <l>nigra sum sed formonsa filiae Hierusalem sicut tabernacula Cedar sicut pelles Salomonis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.005">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:5</verseNum>
+      </reference>
+      <l>nolite me considerare quod fusca sim quia decoloravit me sol filii matris meae pugnaverunt contra me posuerunt me custodem in vineis vineam meam non custodivi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.006">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:6</verseNum>
+      </reference>
+      <l>indica mihi quem diligit anima mea ubi pascas ubi cubes in meridie ne vagari incipiam per greges sodalium tuorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.007">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:7</verseNum>
+      </reference>
+      <l>si ignoras te o pulchra inter mulieres egredere et abi post vestigia gregum et pasce hedos tuos iuxta tabernacula pastorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.008">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:8</verseNum>
+      </reference>
+      <l>equitatui meo in curribus Pharaonis adsimilavi te amica mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.009">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:9</verseNum>
+      </reference>
+      <l>pulchrae sunt genae tuae sicut turturis collum tuum sicut monilia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.010">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:10</verseNum>
+      </reference>
+      <l>murenulas aureas faciemus tibi vermiculatas argento</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.011">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:11</verseNum>
+      </reference>
+      <l>dum esset rex in accubitu suo nardus mea dedit odorem suum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.012">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:12</verseNum>
+      </reference>
+      <l>fasciculus murrae dilectus meus mihi inter ubera mea commorabitur</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.013">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:13</verseNum>
+      </reference>
+      <l>botrus cypri dilectus meus mihi in vineis Engaddi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.014">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:14</verseNum>
+      </reference>
+      <l>ecce tu pulchra es amica mea ecce tu pulchra oculi tui columbarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.015">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:15</verseNum>
+      </reference>
+      <l>ecce tu pulcher es dilecte mi et decorus lectulus noster floridus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.001.016">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>1:16</verseNum>
+      </reference>
+      <l>tigna domorum nostrarum cedrina laquearia nostra cypressina</l>
+    </verse>
+  </chapter>
+  <chapter num="2">
+    <verse type="bible-verse" id="B.Solomon.002.001">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:1</verseNum>
+      </reference>
+      <l>ego flos campi et lilium convallium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.002">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:2</verseNum>
+      </reference>
+      <l>sicut lilium inter spinas sic amica mea inter filias</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.003">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:3</verseNum>
+      </reference>
+      <l>sicut malum inter ligna silvarum sic dilectus meus inter filios sub umbra illius quam desideraveram sedi et fructus eius dulcis gutturi meo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.004">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:4</verseNum>
+      </reference>
+      <l>introduxit me in cellam vinariam ordinavit in me caritatem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.005">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:5</verseNum>
+      </reference>
+      <l>fulcite me floribus stipate me malis quia amore langueo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.006">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:6</verseNum>
+      </reference>
+      <l>leva eius sub capite meo et dextera illius amplexabitur me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.007">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:7</verseNum>
+      </reference>
+      <l>adiuro vos filiae Hierusalem per capreas cervosque camporum ne suscitetis neque evigilare faciatis dilectam quoadusque ipsa velit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.008">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:8</verseNum>
+      </reference>
+      <l>vox dilecti mei ecce iste venit saliens in montibus transiliens colles</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.009">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:9</verseNum>
+      </reference>
+      <l>similis est dilectus meus capreae hinuloque cervorum en ipse stat post parietem nostrum despiciens per fenestras prospiciens per cancellos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.010">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:10</verseNum>
+      </reference>
+      <l>et dilectus meus loquitur mihi surge propera amica mea formonsa mea et veni</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.011">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:11</verseNum>
+      </reference>
+      <l>iam enim hiemps transiit imber abiit et recessit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.012">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:12</verseNum>
+      </reference>
+      <l>flores apparuerunt in terra tempus putationis advenit vox turturis audita est in terra nostra</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.013">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:13</verseNum>
+      </reference>
+      <l>ficus protulit grossos suos vineae florent dederunt odorem surge amica mea speciosa mea et veni</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.014">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:14</verseNum>
+      </reference>
+      <l>columba mea in foraminibus petrae in caverna maceriae ostende mihi faciem tuam sonet vox tua in auribus meis vox enim tua dulcis et facies tua decora</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.015">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:15</verseNum>
+      </reference>
+      <l>capite nobis vulpes vulpes parvulas quae demoliuntur vineas nam vinea nostra floruit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.016">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:16</verseNum>
+      </reference>
+      <l>dilectus meus mihi et ego illi qui pascitur inter lilia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.002.017">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>2:17</verseNum>
+      </reference>
+      <l>donec adspiret dies et inclinentur umbrae revertere similis esto dilecte mi capreae aut hinulo cervorum super montes Bether</l>
+    </verse>
+  </chapter>
+  <chapter num="3">
+    <verse type="bible-verse" id="B.Solomon.003.001">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:1</verseNum>
+      </reference>
+      <l>in lectulo meo per noctes quaesivi quem diligit anima mea quaesivi illum et non inveni</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.002">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:2</verseNum>
+      </reference>
+      <l>surgam et circuibo civitatem per vicos et plateas quaeram quem diligit anima mea quaesivi illum et non inveni</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.003">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:3</verseNum>
+      </reference>
+      <l>invenerunt me vigiles qui custodiunt civitatem num quem dilexit anima mea vidistis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.004">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:4</verseNum>
+      </reference>
+      <l>paululum cum pertransissem eos inveni quem diligit anima mea tenui eum nec dimittam donec introducam illum in domum matris meae et in cubiculum genetricis meae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.005">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:5</verseNum>
+      </reference>
+      <l>adiuro vos filiae Hierusalem per capreas cervosque camporum ne suscitetis neque evigilare faciatis dilectam donec ipsa velit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.006">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:6</verseNum>
+      </reference>
+      <l>quae est ista quae ascendit per desertum sicut virgula fumi ex aromatibus murrae et turis et universi pulveris pigmentarii</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.007">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:7</verseNum>
+      </reference>
+      <l>en lectulum Salomonis sexaginta fortes ambiunt ex fortissimis Israhel</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.008">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:8</verseNum>
+      </reference>
+      <l>omnes tenentes gladios et ad bella doctissimi uniuscuiusque ensis super femur suum propter timores nocturnos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.009">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:9</verseNum>
+      </reference>
+      <l>ferculum fecit sibi rex Salomon de lignis Libani</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.010">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:10</verseNum>
+      </reference>
+      <l>columnas eius fecit argenteas reclinatorium aureum ascensum purpureum media caritate constravit propter filias Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.003.011">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>3:11</verseNum>
+      </reference>
+      <l>egredimini et videte filiae Sion regem Salomonem in diademate quo coronavit eum mater sua in die disponsionis illius et in die laetitiae cordis eius</l>
+    </verse>
+  </chapter>
+  <chapter num="4">
+    <verse type="bible-verse" id="B.Solomon.004.001">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:1</verseNum>
+      </reference>
+      <l>quam pulchra es amica mea quam pulchra es oculi tui columbarum absque eo quod intrinsecus latet capilli tui sicut greges caprarum quae ascenderunt de monte Galaad</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.002">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:2</verseNum>
+      </reference>
+      <l>dentes tui sicut greges tonsarum quae ascenderunt de lavacro omnes gemellis fetibus et sterilis non est inter eas</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.003">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:3</verseNum>
+      </reference>
+      <l>sicut vitta coccinea labia tua et eloquium tuum dulce sicut fragmen mali punici ita genae tuae absque eo quod intrinsecus latet</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.004">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:4</verseNum>
+      </reference>
+      <l>sicut turris David collum tuum quae aedificata est cum propugnaculis mille clypei pendent ex ea omnis armatura fortium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.005">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:5</verseNum>
+      </reference>
+      <l>duo ubera tua sicut duo hinuli capreae gemelli qui pascuntur in liliis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.006">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:6</verseNum>
+      </reference>
+      <l>donec adspiret dies et inclinentur umbrae vadam ad montem murrae et ad collem turis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.007">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:7</verseNum>
+      </reference>
+      <l>tota pulchra es amica mea et macula non est in te</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.008">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:8</verseNum>
+      </reference>
+      <l>veni de Libano sponsa veni de Libano veni coronaberis de capite Amana de vertice Sanir et Hermon de cubilibus leonum de montibus pardorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.009">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:9</verseNum>
+      </reference>
+      <l>vulnerasti cor meum soror mea sponsa vulnerasti cor meum in uno oculorum tuorum et in uno crine colli tui</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.010">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:10</verseNum>
+      </reference>
+      <l>quam pulchrae sunt mammae tuae soror mea sponsa pulchriora ubera tua vino et odor unguentorum tuorum super omnia aromata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.011">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:11</verseNum>
+      </reference>
+      <l>favus distillans labia tua sponsa mel et lac sub lingua tua et odor vestimentorum tuorum sicut odor turis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.012">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:12</verseNum>
+      </reference>
+      <l>hortus conclusus soror mea sponsa hortus conclusus fons signatus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.013">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:13</verseNum>
+      </reference>
+      <l>emissiones tuae paradisus malorum punicorum cum pomorum fructibus cypri cum nardo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.014">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:14</verseNum>
+      </reference>
+      <l>nardus et crocus fistula et cinnamomum cum universis lignis Libani murra et aloe cum omnibus primis unguentis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.015">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:15</verseNum>
+      </reference>
+      <l>fons hortorum puteus aquarum viventium quae fluunt impetu de Libano</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.004.016">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>4:16</verseNum>
+      </reference>
+      <l>surge aquilo et veni auster perfla hortum meum et fluant aromata illius</l>
+    </verse>
+  </chapter>
+  <chapter num="5">
+    <verse type="bible-verse" id="B.Solomon.005.001">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:1</verseNum>
+      </reference>
+      <l>veniat dilectus meus in hortum suum et comedat fructum pomorum suorum veni in hortum meum soror mea sponsa messui murram meam cum aromatibus meis comedi favum cum melle meo bibi vinum meum cum lacte meo comedite amici bibite et inebriamini carissimi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.002">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:2</verseNum>
+      </reference>
+      <l>ego dormio et cor meum vigilat vox dilecti mei pulsantis aperi mihi soror mea amica mea columba mea inmaculata mea quia caput meum plenum est rore et cincinni mei guttis noctium</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.003">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:3</verseNum>
+      </reference>
+      <l>expoliavi me tunica mea quomodo induar illa lavi pedes meos quomodo inquinabo illos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.004">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:4</verseNum>
+      </reference>
+      <l>dilectus meus misit manum suam per foramen et venter meus intremuit ad tactum eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.005">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:5</verseNum>
+      </reference>
+      <l>surrexi ut aperirem dilecto meo manus meae stillaverunt murra digiti mei pleni murra probatissima</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.006">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:6</verseNum>
+      </reference>
+      <l>pessulum ostii aperui dilecto meo at ille declinaverat atque transierat anima mea liquefacta est ut locutus est quaesivi et non inveni illum vocavi et non respondit mihi</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.007">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:7</verseNum>
+      </reference>
+      <l>invenerunt me custodes qui circumeunt civitatem percusserunt me vulneraverunt me tulerunt pallium meum mihi custodes murorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.008">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:8</verseNum>
+      </reference>
+      <l>adiuro vos filiae Hierusalem si inveneritis dilectum meum ut nuntietis ei quia amore langueo</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.009">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:9</verseNum>
+      </reference>
+      <l>qualis est dilectus tuus ex dilecto o pulcherrima mulierum qualis est dilectus tuus ex dilecto quia sic adiurasti nos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.010">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:10</verseNum>
+      </reference>
+      <l>dilectus meus candidus et rubicundus electus ex milibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.011">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:11</verseNum>
+      </reference>
+      <l>caput eius aurum optimum comae eius sicut elatae palmarum nigrae quasi corvus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.012">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:12</verseNum>
+      </reference>
+      <l>oculi eius sicut columbae super rivulos aquarum quae lacte sunt lotae et resident iuxta fluenta plenissima</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.013">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:13</verseNum>
+      </reference>
+      <l>genae illius sicut areolae aromatum consitae a pigmentariis labia eius lilia distillantia murram primam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.014">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:14</verseNum>
+      </reference>
+      <l>manus illius tornatiles aureae plenae hyacinthis venter eius eburneus distinctus sapphyris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.015">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:15</verseNum>
+      </reference>
+      <l>crura illius columnae marmoreae quae fundatae sunt super bases aureas species eius ut Libani electus ut cedri</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.016">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:16</verseNum>
+      </reference>
+      <l>guttur illius suavissimum et totus desiderabilis talis est dilectus meus et iste est amicus meus filiae Hierusalem</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.005.017">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>5:17</verseNum>
+      </reference>
+      <l>quo abiit dilectus tuus o pulcherrima mulierum quo declinavit dilectus tuus et quaeremus eum tecum</l>
+    </verse>
+  </chapter>
+  <chapter num="6">
+    <verse type="bible-verse" id="B.Solomon.006.001">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:1</verseNum>
+      </reference>
+      <l>dilectus meus descendit in hortum suum ad areolam aromatis ut pascatur in hortis et lilia colligat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.002">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:2</verseNum>
+      </reference>
+      <l>ego dilecto meo et dilectus meus mihi qui pascitur inter lilia</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.003">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:3</verseNum>
+      </reference>
+      <l>pulchra es amica mea suavis et decora sicut Hierusalem terribilis ut castrorum acies ordinata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.004">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:4</verseNum>
+      </reference>
+      <l>averte oculos tuos a me quia ipsi me avolare fecerunt capilli tui sicut grex caprarum quae apparuerunt de Galaad</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.005">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:5</verseNum>
+      </reference>
+      <l>dentes tui sicut grex ovium quae ascenderunt de lavacro omnes gemellis fetibus et sterilis non est in eis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.006">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:6</verseNum>
+      </reference>
+      <l>sicut cortex mali punici genae tuae absque occultis tuis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.007">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:7</verseNum>
+      </reference>
+      <l>sexaginta sunt reginae et octoginta concubinae et adulescentularum non est numerus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.008">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:8</verseNum>
+      </reference>
+      <l>una est columba mea perfecta mea una est matris suae electa genetrici suae viderunt illam filiae et beatissimam praedicaverunt reginae et concubinae et laudaverunt eam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.009">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:9</verseNum>
+      </reference>
+      <l>quae est ista quae progreditur quasi aurora consurgens pulchra ut luna electa ut sol terribilis ut acies ordinata</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.010">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:10</verseNum>
+      </reference>
+      <l>descendi ad hortum nucum ut viderem poma convallis ut inspicerem si floruisset vinea et germinassent mala punica</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.011">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:11</verseNum>
+      </reference>
+      <l>nescivi anima mea conturbavit me propter quadrigas Aminadab</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.006.012">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>6:12</verseNum>
+      </reference>
+      <l>revertere revertere Sulamitis revertere revertere ut intueamur te</l>
+    </verse>
+  </chapter>
+  <chapter num="7">
+    <verse type="bible-verse" id="B.Solomon.007.001">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:1</verseNum>
+      </reference>
+      <l>quid videbis in Sulamiten nisi choros castrorum quam pulchri sunt gressus tui in calciamentis filia principis iunctura feminum tuorum sicut monilia quae fabricata sunt manu artificis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.002">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:2</verseNum>
+      </reference>
+      <l>umbilicus tuus crater tornatilis numquam indigens poculis venter tuus sicut acervus tritici vallatus liliis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.003">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:3</verseNum>
+      </reference>
+      <l>duo ubera tua sicut duo hinuli gemelli capreae</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.004">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:4</verseNum>
+      </reference>
+      <l>collum tuum sicut turris eburnea oculi tui sicut piscinae in Esebon quae sunt in porta filiae multitudinis nasus tuus sicut turris Libani quae respicit contra Damascum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.005">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:5</verseNum>
+      </reference>
+      <l>caput tuum ut Carmelus et comae capitis tui sicut purpura regis vincta canalibus</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.006">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:6</verseNum>
+      </reference>
+      <l>quam pulchra es et quam decora carissima in deliciis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.007">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:7</verseNum>
+      </reference>
+      <l>statura tua adsimilata est palmae et ubera tua botris</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.008">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:8</verseNum>
+      </reference>
+      <l>dixi ascendam in palmam adprehendam fructus eius et erunt ubera tua sicut botri vineae et odor oris tui sicut malorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.009">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:9</verseNum>
+      </reference>
+      <l>guttur tuum sicut vinum optimum dignum dilecto meo ad potandum labiisque et dentibus illius ruminandum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.010">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:10</verseNum>
+      </reference>
+      <l>ego dilecto meo et ad me conversio eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.011">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:11</verseNum>
+      </reference>
+      <l>veni dilecte mi egrediamur in agrum commoremur in villis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.012">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:12</verseNum>
+      </reference>
+      <l>mane surgamus ad vineas videamus si floruit vinea si flores fructus parturiunt si floruerunt mala punica ibi dabo tibi ubera mea</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.007.013">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>7:13</verseNum>
+      </reference>
+      <l>mandragorae dederunt odorem in portis nostris omnia poma nova et vetera dilecte mi servavi tibi</l>
+    </verse>
+  </chapter>
+  <chapter num="8">
+    <verse type="bible-verse" id="B.Solomon.008.001">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:1</verseNum>
+      </reference>
+      <l>quis mihi det te fratrem meum sugentem ubera matris meae ut inveniam te foris et deosculer et iam me nemo despiciat</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.002">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:2</verseNum>
+      </reference>
+      <l>adprehendam te et ducam in domum matris meae ibi me docebis et dabo tibi poculum ex vino condito et mustum malorum granatorum meorum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.003">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:3</verseNum>
+      </reference>
+      <l>leva eius sub capite meo et dextera illius amplexabitur me</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.004">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:4</verseNum>
+      </reference>
+      <l>adiuro vos filiae Hierusalem ne suscitetis et evigilare faciatis dilectam donec ipsa velit</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.005">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:5</verseNum>
+      </reference>
+      <l>quae est ista quae ascendit de deserto deliciis affluens et nixa super dilectum suum sub arbore malo suscitavi te ibi corrupta est mater tua ibi violata est genetrix tua</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.006">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:6</verseNum>
+      </reference>
+      <l>pone me ut signaculum super cor tuum ut signaculum super brachium tuum quia fortis est ut mors dilectio dura sicut inferus aemulatio lampades eius lampades ignis atque flammarum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.007">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:7</verseNum>
+      </reference>
+      <l>aquae multae non poterunt extinguere caritatem nec flumina obruent illam si dederit homo omnem substantiam domus suae pro dilectione quasi nihil despicient eum</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.008">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:8</verseNum>
+      </reference>
+      <l>soror nostra parva et ubera non habet quid faciemus sorori nostrae in die quando adloquenda est</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.009">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:9</verseNum>
+      </reference>
+      <l>si murus est aedificemus super eum propugnacula argentea si ostium est conpingamus illud tabulis cedrinis</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.010">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:10</verseNum>
+      </reference>
+      <l>ego murus et ubera mea sicut turris ex quo facta sum coram eo quasi pacem repperiens</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.011">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:11</verseNum>
+      </reference>
+      <l>vinea fuit Pacifico in ea quae habet populos tradidit eam custodibus vir adfert pro fructu eius mille argenteos</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.012">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:12</verseNum>
+      </reference>
+      <l>vinea mea coram me est mille tui Pacifice et ducenti his qui custodiunt fructus eius</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.013">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:13</verseNum>
+      </reference>
+      <l>quae habitas in hortis amici auscultant fac me audire vocem tuam</l>
+    </verse>
+    <verse type="bible-verse" id="B.Solomon.008.014">
+      <reference>
+        <bookName>Solomon</bookName>
+        <verseNum>8:14</verseNum>
+      </reference>
+      <l>fuge dilecte mi et adsimilare capreae hinuloque cervorum super montes aromatum</l>
+    </verse>
+  </chapter>
+  <rubric type="bible-colophon" id="B.Solomon.colophon.001">
+    <reference>
+      <bookName>Solomon</bookName>
+      <verseNum>colophon:1</verseNum>
+    </reference>
+    <l>EXPLICIT LIBER CANTICUM CANTICORUM</l>
+  </rubric>
+</body>
+</text>
+
+</CURSUS>

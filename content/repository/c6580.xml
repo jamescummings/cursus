@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6579" nextid="c6581" id="c6580">
+   <rBody wit="CAO-C CAO-D CAO-F CAO-S CAO-L"> Ecce constitui te hodie
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> super gentes et super regna</rdg>
+         <rdg wit="CAO-C"> super gentes et regna</rdg>
+      </app> dicit dominus
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> ut evellas</rdg>
+         <rdg wit="CAO-C"> ut evelles</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> et destruas</rdg>
+         <rdg wit="CAO-C CAO-L"> et dissipes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> et aedifices</rdg>
+         <rdg wit="CAO-C CAO-S"> aedifices</rdg>
+      </app> et plantes in nomine domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Antequam exires
+       <app>
+            <rdg wit="CAO-D CAO-S CAO-L"> de vulva</rdg>
+            <rdg wit="CAO-F"> de ventre</rdg>
+         </app> sanctificavi te et prophetam in gentibus dedi te</vBody>
+      <vBody type="r" wit="CAO-C"> Tu puer propheta altissimi vocaberis praesbis enim ante faciem domini parare vias eius</vBody>
+      <rep type="r" wit="CAO-D CAO-S CAO-L"> Ut evellas</rep>
+      <rep type="r" wit="CAO-F"> In nomine</rep>
+      <rep type="r" wit="CAO-C"> Ut evelles</rep>
+   </verses>
+</res>

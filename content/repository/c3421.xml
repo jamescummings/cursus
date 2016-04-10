@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3420" nextid="c3422" id="c3421">
+   <header>
+      <usage ms="Alb2" code="02122700">[36v] vesp2 gosp</usage>
+      <usage ms="Evm" code="02122700">[46r] vesp2 gosp</usage>
+      <usage ms="Pet" code="02122700">[28r] vesp2 gosp</usage>
+      <usage ms="Wcb" code="02122700">[62v] vesp2 gosp</usage>
+      <usage ms="Wor" code="02122700">[21v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-L Alb2 Evm Wcb Wor Pet">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-F CAO-L Alb2 Evm Wcb Wor Pet"> Iste est discipulus</rdg>
+         <rdg wit="CAO-M"> Hic est discipulus ille</rdg>
+      </app> qui dignus fuit esse
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-L Alb2 Evm Wcb"> inter secreta dei</rdg>
+         <rdg wit="Wor Pet"> inter secreta domini</rdg>
+         <rdg wit="CAO-R"> inter secreta caeli</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-L Evm Wcb Wor"> ipse solus</rdg>
+         <rdg wit="Alb2"> ipse enim</rdg>
+         <rdg wit="CAO-R Pet"> iste solus</rdg>
+      </app> meruit divina inspiratione dicere in principio erat verbum et verbum erat apud deum et deus erat verbum
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-R CAO-F CAO-L Alb2 Evm Wcb Pet"> hoc erat in principio apud deum</rdg>
+         <rdg wit="CAO-M Wor" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

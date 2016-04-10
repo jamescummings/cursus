@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6401" nextid="c6403" id="c6402">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dedisti domine habitaculum martyri tuo Clementi
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in mari</rdg>
+         <rdg wit="CAO-M"> in mare</rdg>
+      </app> in modum templi marmorei angelicis manibus praeparatum iter praebens populo terrae
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> ut enarrent</rdg>
+         <rdg wit="CAO-L"> ut enarrem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> mirabilia tua</rdg>
+         <rdg wit="CAO-C"> mirabilia Dei</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R CAO-D CAO-F CAO-S CAO-L"> Hoc domine
+       <app>
+            <rdg wit="CAO-R CAO-D CAO-F CAO-S"> ad laudem et gloriam</rdg>
+            <rdg wit="CAO-B"> ad laudem et honorem</rdg>
+            <rdg wit="CAO-L"> ad gloriam et laudem</rdg>
+         </app> nominis tui fieri voluisti</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H"> Venientes autem venient cum exsultatione portantes manipulos suos</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> Ut</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-D CAO-F CAO-S"> Iter</rep>
+   </verses>
+</res>

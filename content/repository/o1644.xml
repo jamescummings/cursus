@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1643" nextid="o1645" id="o1644">
+   <header>
+      <usage ms="Alb2" code="05061000"/>
+      <usage ms="Cht" code="05051000">[6r] vesp1</usage>
+      <usage ms="Hyd" code="05061000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.228</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Hyd Cht">
+      <app>
+         <rdg wit="Alb2 Cht">Familiam tuam quaesumus domine</rdg>
+         <rdg wit="Hyd">Familiam tuam domine quaesumus</rdg>
+      </app> continua pietate custodi ut qui in sola spe gratiae caelestis innititur tua semper protectione muniatur</pBody>
+</prayer>

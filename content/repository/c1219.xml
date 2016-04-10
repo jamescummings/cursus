@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1218" nextid="c1220" id="c1219">
+   <header>
+      <usage ms="Cdm" code="07065000">[78r] prime</usage>
+      <usage ms="Ely" code="07065000">[89v] compline</usage>
+      <usage ms="Hyd" code="07066000">[97r] vesp2-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-L Ely Hyd Cdm"> Accepto pane
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-F CAO-L Ely Cdm"> Judas tradidit dominum</rdg>
+         <rdg wit="Hyd"> exiens Judas tradidit dominum</rdg>
+      </app> sicut promiserat principibus sacerdotum</aBody>
+</ant>

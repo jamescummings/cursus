@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6113" nextid="c6115" id="c6114">
+   <header>
+      <usage ms="Wcb" code="07021000">[98r] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-F Wcb"> Apparuit deus Jacob
+     <app>
+         <rdg wit="CAO-C Wcb"> et benedixit eum et dixit</rdg>
+         <rdg wit="CAO-F"> et dixit ad eum</rdg>
+      </app> ego sum deus Bethel ubi unxisti lapidem et votum
+     <app>
+         <rdg wit="CAO-C Wcb"> vovisti mihi</rdg>
+         <rdg wit="CAO-F"> vovisti domino</rdg>
+      </app> crescere te faciam et multiplicabo te</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F Wcb"> Apparuit iterum deus Jacob postquam reversus est de Mesopotamia Syriae dixitque ad eum</vBody>
+      <vBody type="r" wit="CAO-C"> Ego sum dominus omnipotens</vBody>
+      <vBody type="r" wit="CAO-C"> Benedicens benedicam tibi et multiplicabo te</vBody>
+      <rep type="r" wit="CAO-F Wcb">Ego sum</rep>
+      <rep type="r" wit="CAO-C">Crescere</rep>
+   </verses>
+</res>

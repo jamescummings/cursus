@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3508" nextid="c3510" id="c3509">
+   <header>
+      <usage ms="Alb2" code="01011000">[4v] lauds-a2</usage>
+      <usage ms="Bat" code="01011000">[4r] lauds-a2</usage>
+      <usage ms="Cdm" code="01011000">[10r] lauds-a2</usage>
+      <usage ms="Ely" code="01011000">[4v] lauds-a2</usage>
+      <usage ms="Evm" code="01011000">[7r] lauds-a2</usage>
+      <usage ms="Hyd" code="01011000">[3v] lauds-a2</usage>
+      <usage ms="Mch" code="01011000">[4v] lauds-a2</usage>
+      <usage ms="Wcb" code="01011000">[43v] lauds-a2</usage>
+      <usage ms="Wor" code="01011000">[3r] lauds-a2</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Iucundare filia Sion exsulta satis</rdg>
+         <rdg wit="CAO-G"> Iucundare filia Sion et exsulta satis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor"> filia Jerusalem alleluia</rdg>
+         <rdg wit="Bat"> filia Jerusalem</rdg>
+      </app>
+   </aBody>
+</ant>

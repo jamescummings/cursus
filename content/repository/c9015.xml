@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9014" nextid="c9016" id="c9015">
+   <header>
+      <usage ms="Alb2" code="06031000">[70v] matins-n2-r6</usage>
+      <usage ms="Bat" code="06031000">[45r] matins-n2-r6</usage>
+      <usage ms="Cdm" code="06031000">[53v] matins-n2-r6</usage>
+      <usage ms="Cht" code="06031000">[16r] matins-n2-r3</usage>
+      <usage ms="Ely" code="06031000">[63r] matins-n2-r6</usage>
+      <usage ms="Mch" code="06031000">[107r] matins-n2-r6</usage>
+      <usage ms="Pet" code="06031000">[61r] matins-n2-r6</usage>
+      <usage ms="Wcb" code="06031000">[89v] matins-n2-r6</usage>
+      <usage ms="Wor" code="06031000">[40v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="Cht Alb2 Wor Ely Wcb Cdm Mch Bat Pet"> Clamor inquit dominus Sodomorum et Gomorrae venit ad me descendam et videbo utrum clamorem opere compleverint</rBody>
+   <verses>
+      <vBody type="r" wit="Cht Alb2 Wor Ely Wcb Cdm Mch Bat Pet">
+         <app>
+            <rdg wit="Alb2 Wor Ely Wcb Cdm Mch Bat Pet">Abraham stabat coram deo</rdg>
+            <rdg wit="Cht">Abraham stetit coram deo</rdg>
+         </app> et ait absit a te domine ut perdas iustum cum impio</vBody>
+      <rep type="r" wit="Cht Alb2 Wor Ely Wcb Cdm Mch Bat">Descendam</rep>
+   </verses>
+</res>

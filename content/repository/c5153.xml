@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5152" nextid="c5154" id="c5153">
+   <aBody wit="CAO-M CAO-F"> Timor et tremor venit in Ninivem civitatem magnam
+     <app>
+         <rdg wit="CAO-M"> per quem sceleratae plebi indicitur ieiunium</rdg>
+         <rdg wit="CAO-F"> per que sceleratae plebi indicitur ieiunium</rdg>
+      </app> et luctuosa plebs induitur cilicio contigit autem et regem nobilem de solio suo descendere ut esset humilior cunctis lugentibus
+     <app>
+         <rdg wit="CAO-M"> et prophetavit per universum regum</rdg>
+         <rdg wit="CAO-F"> et <add rend="over erasure">imperavit</add> per universum regum</rdg>
+      </app> omnes viri et sexus femineus non gustent quicquam boves et pecora non pascantur herbis terrae pueri et vituli
+     <app>
+         <rdg wit="CAO-M"> non sugant matris ubera</rdg>
+         <rdg wit="CAO-F"> non sugant matrum ubera</rdg>
+      </app> sed clamant ad deum in fortitudine ternis diebus
+     <app>
+         <rdg wit="CAO-M"> ne patiantur ut Sodoma</rdg>
+         <rdg wit="CAO-F"> ne patiamur ut Sodoma</rdg>
+      </app> sed tu deus omnipotens misericors et miserator
+     <app>
+         <rdg wit="CAO-M"> misertus es miseris</rdg>
+         <rdg wit="CAO-F"> misertus esto miseris</rdg>
+      </app> nos sumus opera tua quos dedisti filio tuo in hereditatem sibi noli claudere aurem tuam ad preces nostas sed subleva clemens afflictionem populi illud revolvens quod pollicitus es dicens convertimini ad me et ego revertar ad vos alleluia</aBody>
+</ant>

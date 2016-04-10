@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6148" nextid="c6150" id="c6149">
+   <header>
+      <usage ms="Alb2" code="01011000">[2v] matins-n2-r7</usage>
+      <usage ms="Bat" code="01011000">[2r] matins-n2-r7</usage>
+      <usage ms="Cdm" code="01011000">[9v] matins-n2-r6</usage>
+      <usage ms="Ely" code="01011000">[3r] matins-n2-r8</usage>
+      <usage ms="Evm" code="01011000">[5v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="01011000">[3r] matins-n3-r9</usage>
+      <usage ms="Mch" code="01011000">[2v] matins-n2-r8</usage>
+      <usage ms="Wcb" code="01011000">[42r] matins-n2-r6</usage>
+      <usage ms="Wor" code="01011000">[2r] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Audite verbum domini gentes et annuntiate illud in finibus terrae et in insulis quae procul sunt dicite salvator noster adveniet</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> A solis ortu et occasu ab Aquilone et mari</vBody>
+      <vBody type="r" wit="CAO-G CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Annuntiate et auditum facite
+      <app>
+            <rdg wit="CAO-G CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Wor Bat"> loquimini et clamate</rdg>
+            <rdg wit="CAO-V"> universi populi et clamate</rdg>
+            <rdg wit="Ely"> in extremis terris</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-M CAO-V CAO-H Hyd Evm Mch Cdm Ely Wor Bat">Et in</rep>
+      <rep type="r" wit="CAO-B CAO-R Alb2 Wcb"> Salvator</rep>
+   </verses>
+</res>

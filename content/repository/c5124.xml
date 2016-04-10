@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5123" nextid="c5125" id="c5124">
+   <header>
+      <usage ms="Hyd" code="09011000">matins-n1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Te semper idem esse vivere
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> et intelligere profitemur</rdg>
+         <rdg wit="CAO-V CAO-L"> et intelligere confitemur</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5367" nextid="c5369" id="c5368">
+   <header>
+      <usage ms="Alb2" code="02122500">[24v] matins-n1-a5</usage>
+      <usage ms="Bat" code="02122500">[15r] matins-n1-a6</usage>
+      <usage ms="Cdm" code="02122500">[21v] matins-n1-a6</usage>
+      <usage ms="Ely" code="02122500">[18v] matins-n2-a7</usage>
+      <usage ms="Evm" code="02122500">[33v] matins-n2-a7</usage>
+      <usage ms="Hyd" code="02122500">[18r] matins-n2-a7</usage>
+      <usage ms="Pet" code="02122500">[16r] matins-n2-a7</usage>
+      <usage ms="Wcb" code="02122500">[54r] matins-n2-a7</usage>
+      <usage ms="Wor" code="02122500">[14v] matins-n2-a7</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Veritas de terra orta est et iustitia de caelo prospexit</aBody>
+</ant>

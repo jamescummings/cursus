@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4254" nextid="c4256" id="c4255">
+   <header>
+      <usage ms="Hyd" code="05021000"/>
+      <usage ms="Alb2" code="05021000"/>
+   </header>
+   <aBody wit="CAO-D Alb2 Hyd"> Peccata mea domine sicut sagittae infixa sunt in me sed antequam vulnera generent in me sana me domine medicamento
+     <app>
+         <rdg wit="CAO-D Alb2"> paenitentiae deus</rdg>
+         <rdg wit="Hyd"> paenitentiae</rdg>
+      </app>
+   </aBody>
+</ant>

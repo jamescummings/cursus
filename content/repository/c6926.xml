@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6925" nextid="c6927" id="c6926">
+   <header>
+      <usage ms="Evm" code="02010100">[60v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="02010100">[67r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-M CAO-F CAO-S Evm Wcb"> In principio erat verbum et verbum erat
+     <app>
+         <rdg wit="CAO-M CAO-F CAO-S Wcb"> apud deum</rdg>
+         <rdg wit="Evm"> ad deum</rdg>
+      </app> et deus erat verbum hoc erat in principio apud deum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M CAO-F CAO-S Evm Wcb">Omnia per ipsum facta sunt et sine ipso factum est nihil</vBody>
+      <rep type="r" wit="CAO-M CAO-F CAO-S Evm Wcb">Hoc</rep>
+   </verses>
+</res>

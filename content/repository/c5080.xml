@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5079" nextid="c5081" id="c5080">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-L"> Surrexit dominus vere alleluia
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F"> et apparuit Simoni alleluia</rdg>
+         <rdg wit="CAO-L"> et apparuit Petro alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

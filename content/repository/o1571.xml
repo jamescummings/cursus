@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1570" nextid="o1572" id="o1571">
+   <header>
+      <usage ms="Alb2" code="07061000">[103v] vesp1</usage>
+      <usage ms="Bat" code="07061000">[62r] vesp1</usage>
+      <usage ms="Cdm" code="07061000">[74r] vesp1</usage>
+      <usage ms="Ely" code="07061000">[84v] vesp1</usage>
+      <usage ms="Evm" code="07061000">[141r] vesp1</usage>
+      <usage ms="Hyd" code="07061000">[89v] vesp1</usage>
+      <usage ms="Mch" code="07061000">[151v] vesp1</usage>
+      <usage ms="Wcb" code="07061000">[111r] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.312</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Evm Wcb Alb2 Cdm Mch Bat"> Omnipotens sempiterne deus qui humano generi ad imitandum humilitatis exemplum salvatorem nostrum carnem sumere et crucem subire fecisti concede propitius ut et patientiae ipsius habere documenta et resurrectionis consortia mereatur</pBody>
+</prayer>

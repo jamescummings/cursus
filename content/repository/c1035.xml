@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1034" nextid="c1036" id="c1035">
+   <header>
+      <usage ms="Cdm" code="08011000">[80v] matins</usage>
+   </header>
+   <aBody wit="CAO-D CAO-F Cdm"> Alleluia surrexit dominus vere venite adoremus alleluia</aBody>
+</ant>

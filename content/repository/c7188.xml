@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7187" nextid="c7189" id="c7188">
+   <rBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Multiplicentur
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-F"> a domino</rdg>
+         <rdg wit="CAO-S"> ad domino</rdg>
+      </app> anni tui alleluia
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-D CAO-F CAO-S"> per viam</rdg>
+         <rdg wit="CAO-E"> in viam</rdg>
+      </app> sapientiae incedas et
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-D CAO-S"> per semitam</rdg>
+         <rdg wit="CAO-F"> per semita</rdg>
+      </app> iustitiae revertaris ad nos alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D CAO-F CAO-S"> Sola namque tenes principatum in conspectu Domini propterea revertere in thesauros tuos</vBody>
+      <vBody type="r" wit="CAO-E CAO-V"> Sola namque</vBody>
+      <vBody type="r" wit="CAO-M"> Sola namque tenens</vBody>
+      <vBody type="r" wit="CAO-G"> Angelus domini bonus comitetur tecum et bene disponat itinera tua</vBody>
+      <rep type="r" wit="CAO-M CAO-V CAO-D CAO-F CAO-S">Per viam</rep>
+      <rep type="r" wit="CAO-C CAO-G CAO-E">Et per</rep>
+   </verses>
+</res>

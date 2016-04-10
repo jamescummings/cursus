@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6878" nextid="c6880" id="c6879">
+   <header>
+      <usage ms="Alb2" code="06011000">[65v] matins-n2-r7</usage>
+      <usage ms="Bat" code="06011000">[42r] matins-n1-r3</usage>
+      <usage ms="Cht" code="06011000">[11v] matins-n1-r4</usage>
+      <usage ms="Evm" code="06011000">[92r] matins-n1-r4</usage>
+      <usage ms="Mch" code="06011000">[101r] matins-n3-r11</usage>
+      <usage ms="Wcb" code="06011000">[85r] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L Alb2 Cht Wcb Evm Bat Mch"> Igitur perfecti sunt caeli et terra et omnis ornatus eorum
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-R CAO-F CAO-S CAO-L Alb2 Cht Wcb Evm Bat Mch"> complevitque deus die septimo opus suum</rdg>
+         <rdg wit="CAO-V"> complevitque deus dies septimo opus suum</rdg>
+      </app> quod fecerat et requievit ab omni opere
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-R CAO-F CAO-S CAO-L Alb2 Cht Wcb Evm Bat Mch"> quod</rdg>
+         <rdg wit="CAO-V"> quo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L Alb2 Wcb Evm Bat Mch"> patrarat</rdg>
+         <rdg wit="Cht">
+            <corr sic="petrarat" resp="DC">patrarat</corr>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-L Cht Wcb Evm Bat Mch">
+         <app>
+            <rdg wit="CAO-E CAO-V CAO-F Bat Mch"> Viditque deus</rdg>
+            <rdg wit="CAO-R Cht Wcb Evm"> Vidit deus</rdg>
+            <rdg wit="CAO-M CAO-L"> Et vidit deus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-L Wcb Evm Bat Mch"> cuncta quae fecerat</rdg>
+            <rdg wit="CAO-R"> cuncta quae fecit</rdg>
+            <rdg wit="Cht"> cuncta fecerat quae</rdg>
+         </app> et erant valde bona</vBody>
+      <vBody type="r" wit="CAO-S Alb2"> Benedixitque deus diei septimo et sanctificavit
+      <app>
+            <rdg wit="CAO-S"> illud</rdg>
+            <rdg wit="Alb2"> illum</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-S"> quia in ipso cessaverat</rdg>
+            <rdg wit="Alb2"> et requievit </rdg>
+         </app> ab omni opere suo</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-R CAO-F CAO-S CAO-L Cht Wcb Evm Bat Mch"> Et requievit</rep>
+      <rep type="r" wit="CAO-M"> Complevitque</rep>
+      <rep type="r" wit="Alb2"> Quod patrarat</rep>
+   </verses>
+</res>

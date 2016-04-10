@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1065" nextid="c1067" id="c1066">
+   <header>
+      <usage ms="Cdm" code="07031000">[63v] matins inv</usage>
+      <usage ms="Ely" code="07031000">[74r] matins</usage>
+      <usage ms="Hyd" code="05026000"/>
+      <usage ms="Hyd" code="07031000"/>
+      <usage ms="Pet" code="07031000"/>
+      <usage ms="Wor" code="07031000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Cdm"> Dominum qui fecit nos venite adoremus</aBody>
+   <aBody wit="Pet" num="2"> Dominum qui fecit nos venite <gap reason="corner of folio torn" resp="DC"/>doremus</aBody>
+</ant>

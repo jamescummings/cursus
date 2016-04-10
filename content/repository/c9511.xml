@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9510" nextid="c9512" id="c9511">
+   <header>
+      <usage ms="Evm" code="06031000">[99v] matins-n1-r3</usage>
+   </header>
+   <rBody wit="Evm"> Apparuit dominus Abraham dicens ego sum deus omnipotens ambula coram me et esto perfectus ponamque foedus meum tecum quia patrem multarum gentium constitui te</rBody>
+   <verses>
+      <vBody type="r" wit="Evm"> Nec vocabitur ultra nomen tuum Abram sed vocaberis Abraham</vBody>
+      <rep type="r" wit="Evm">Quia</rep>
+   </verses>
+</res>

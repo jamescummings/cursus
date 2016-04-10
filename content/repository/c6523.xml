@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6522" nextid="c6524" id="c6523">
+   <rBody wit="CAO-C CAO-E CAO-H CAO-R">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R"> Dominus qui elegit te</rdg>
+         <rdg wit="CAO-C"> Dominus qui elegit me</rdg>
+      </app> ipse
+      <app>
+         <rdg wit="CAO-H CAO-R"> te coronavit</rdg>
+         <rdg wit="CAO-E"> me coronavit</rdg>
+         <rdg wit="CAO-C"> me confortavit</rdg>
+      </app> corona iustitiae via enim
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R"> domini</rdg>
+         <rdg wit="CAO-C"> mea</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> recta facta est</rdg>
+         <rdg wit="CAO-C CAO-E"> recta facta</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C"> coram te domine</rdg>
+         <rdg wit="CAO-E CAO-H CAO-R"> coram te</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R"> Via iustorum recta facta est et iter sanctorum praeparatum est</vBody>
+      <vBody type="r" wit="CAO-C">  Via iustorum</vBody>
+      <rep type="r" wit="CAO-E CAO-H"> Via</rep>
+      <rep type="r" wit="CAO-R"> Coram</rep>
+   </verses>
+</res>

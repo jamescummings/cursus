@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6386" nextid="c6388" id="c6387">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Da mihi domine sedium tuarum assistricem sapientiam et noli me reprobare
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> a pueris tuis</rdg>
+         <rdg wit="Hyd"> a pueris suis</rdg>
+      </app> quoniam servus tuus sum ego et filius ancillae tuae</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F Hyd"> Domine pater et deus vitae meae ne derelinquas me
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F Hyd"> in cogitatu maligno</rdg>
+            <rdg wit="CAO-V"> in cogitatum maligno</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L"> Mitte illam a sede magnitudinis tuae ut mecum sit et mecum laboret</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Quoniam</rep>
+   </verses>
+</res>

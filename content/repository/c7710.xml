@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7709b" nextid="c7710b" id="c7710">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-L"> Stolam iucunditatis</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S"> Stola iucunditatis</rdg>
+      </app> induit eum dominus et coronam pulchritudinis posuit super caput eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V CAO-H CAO-D CAO-F CAO-L"> Cibavit illum pane vitae et intellectus et aqua sapientiae salutaris potavit eum</vBody>
+      <vBody type="r" wit="CAO-R"> Induit eum dominus lorica fidei et amavit eum</vBody>
+      <vBody type="r" wit="CAO-M"> Induit eum dominus</vBody>
+      <vBody type="r" wit="CAO-S"> Beatificavit illum in gloria et circumcinxit eum zona iustitiae</vBody>
+      <vBody type="r" wit="CAO-E"> Coronam auream super caput eius expressa signo sanctitatis gloriae honoris et opus fortitudinis</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et coronam</rep>
+   </verses>
+</res>

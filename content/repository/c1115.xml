@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1114" nextid="c1116" id="c1115">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Alb2" code="06011000">[64v] vesp1</usage>
+      <usage ms="Evm" code="06021000">[95r] matins</usage>
+      <usage ms="Hyd" code="06011000">[60v] matins</usage>
+      <usage ms="Wcb" code="06021000">[87r] matins</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Wcb Evm"> Praeoccupemus faciem domini et in psalmis iubilemus ei</aBody>
+</ant>

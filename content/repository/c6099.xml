@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6098" nextid="c6100" id="c6099">
+   <header>
+      <usage ms="Hyd" code="10900000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-D CAO-F"> Angustiae mihi</rdg>
+         <rdg wit="CAO-G CAO-B CAO-R CAO-S CAO-L Hyd"> Angustiae mihi sunt</rdg>
+         <rdg wit="CAO-E"> Angustiae mihi <del status="unremarkable">sunt</del>
+         </rdg>
+      </app> undique et
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> quid eligam</rdg>
+         <rdg wit="CAO-C"> qui diligam</rdg>
+      </app> ignoro
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> melius est</rdg>
+         <rdg wit="CAO-L"> sed melius est</rdg>
+      </app> mihi incidere in manus hominum quam derelinquere legem dei mei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Si enim hoc egero mors mihi est si autem non egero non effugiam manus vestras</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Melius</rep>
+      <rep type="r" wit="CAO-L"> Sed melius</rep>
+   </verses>
+</res>

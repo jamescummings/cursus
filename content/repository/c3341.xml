@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3340b" nextid="c3342" id="c3341">
+   <aBody wit="CAO-C CAO-S"> Ingressus itaque Hippolytus in domum suam dedit pacem omnibus
+     <app>
+         <rdg wit="CAO-C"> a militibus comprehensus</rdg>
+         <rdg wit="CAO-S"> et a militibus comprehensus <del type="strikethrough" status="unremarkable">est</del>
+         </rdg>
+      </app> ducebatur ad Decium</aBody>
+   <aBody wit="CAO-C" num="2"> Ingressus itaque Hippolytus in domum suam dedit pacem omnibus a militibus comprehensus ducebatur ad praesidem</aBody>
+</ant>

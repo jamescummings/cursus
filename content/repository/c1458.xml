@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1457" nextid="c1459" id="c1458">
+   <header>
+      <usage ms="Alb2" code="02122700">[34v] matins-n2-a7</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n2-a7</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n2-a7</usage>
+      <usage ms="Evm" code="02122700">[43r] matins-n2-a7</usage>
+      <usage ms="Hyd" code="02122700">[23v] matins-n2-a7</usage>
+      <usage ms="Pet" code="02122700">[26r] matins-n2-a7</usage>
+      <usage ms="Wcb" code="02122700">[61r] matins-n2-a7</usage>
+      <usage ms="Wor" code="02122700">[19v] matins-n2-a7</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Apparuit caro suo Joanni</rdg>
+         <rdg wit="CAO-S"> Apparuit servo suo Joanni</rdg>
+      </app> dominus Jesus Christus cum discipulis suis
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-D CAO-F Alb2 Evm Wcb"> et ait illi</rdg>
+         <rdg wit="CAO-E CAO-V CAO-S Hyd Bat Cdm Pet"> et dixit ei</rdg>
+         <rdg wit="Wor"> et dixit illi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> veni dilecte meus ad me</rdg>
+         <rdg wit="CAO-F"> veni dilecte mi ad me</rdg>
+      </app> quia tempus est ut epuleris in convivio meo
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-D CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> cum fratribus tuis</rdg>
+         <rdg wit="CAO-B"> cum fratribus meis</rdg>
+         <rdg wit="CAO-F"> cum fratribus tuis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

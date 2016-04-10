@@ -1,0 +1,462 @@
+<!-- New CURSUS DTD for a TEI Compliant addition of CURSUS tags -->
+
+
+<!-- aBody Declaration -->
+        <!ENTITY % aBody 'INCLUDE' >
+        <![ %aBody; [
+        <!ELEMENT %n.aBody;  %specialPara;>
+        <!ATTLIST %n.aBody;
+            %a.global;
+            %a.names;
+            wit IDREFS #REQUIRED
+            type ( incipit |unknown ) #IMPLIED
+            num ( 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #IMPLIED
+            TEIform CDATA 'aBody' >
+        ]]>
+
+
+<!-- antiphon Declaration -->
+        <!ENTITY % antiphon 'INCLUDE' >
+        <![ %antiphon; [
+        <!ELEMENT %n.antiphon;    (#PCDATA|add|gap|xptr|rubric|hi|note|milestone|anchor)*>
+        <!ATTLIST %n.antiphon;
+            %a.global;
+            type CDATA #IMPLIED
+            TEIform CDATA 'antiphon' >
+        ]]>
+
+<!-- ant Declaration -->
+        <!ENTITY % ant 'INCLUDE' >
+        <![ %ant; [
+        <!ELEMENT %n.ant;    (aBody|verses|prosula|note|header|anchor)*>
+        <!ATTLIST %n.ant;
+            id ID #REQUIRED
+            type CDATA #IMPLIED
+            TEIform CDATA 'ant' >
+        ]]>
+
+<!-- biblical Declaration as gospel replacement -->
+        <!ENTITY % biblical 'INCLUDE' >
+        <![ %biblical; [
+        <!ELEMENT %n.biblical;  %specialPara;>
+        <!ATTLIST %n.biblical;
+                   %a.global;
+            src CDATA #REQUIRED
+            TEIform CDATA 'biblical' >
+        ]]>
+
+
+<!-- bookName Declaration -->
+        <!ENTITY % bookName 'INCLUDE' >
+        <![ %bookName; [
+        <!ELEMENT %n.bookName;    (#PCDATA)*>
+        <!ATTLIST %n.bookName;
+            %a.global;
+            %a.names;
+            TEIform CDATA 'bookName' >
+        ]]>
+
+<!-- chapter Declaration -->
+        <!ENTITY % chapter 'INCLUDE' >
+        <![ %chapter; [
+        <!ELEMENT %n.chapter;  %specialPara;>
+        <!ATTLIST %n.chapter;
+            %a.global;
+            num CDATA  #IMPLIED
+            src CDATA #IMPLIED
+            TEIform CDATA 'chapter' >
+        ]]>
+
+<!-- canticle Declaration -->
+        <!ENTITY % canticle 'INCLUDE' >
+        <![ %canticle; [
+        <!ELEMENT %n.canticle;  %specialPara;>
+        <!ATTLIST %n.canticle;
+            %a.global;
+            TEIform CDATA 'canticle' >
+        ]]>
+
+
+
+<!-- Day Declaration -->
+        <!ENTITY % Day 'INCLUDE' >
+        <![ %Day; [
+        <!ELEMENT %n.Day;  %specialPara;>
+        <!ATTLIST %n.Day;
+            %a.global;
+            feast CDATA #IMPLIED
+            desc CDATA #IMPLIED            
+            num (1|2|3|4|5|6|7|8|9) #REQUIRED            
+            code CDATA #REQUIRED
+            TEIform CDATA 'Day' >
+        ]]>
+
+
+<!-- dox Declaration -->
+        <!ENTITY % dox 'INCLUDE' >
+        <![ %dox; [
+        <!ELEMENT %n.dox;  %specialPara;>
+        <!ATTLIST %n.dox;
+            %a.global;
+            type (r|ps|p) #REQUIRED
+            wit IDREFS #REQUIRED
+            num ( 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #IMPLIED
+           TEIform CDATA 'dox' >
+        ]]>
+
+<!-- feria Declaration (Deleted) <!ENTITY % feria 'INCLUDE' ><![ %feria; [<!ELEMENT %n.feria;  %specialPara;><!ATTLIST %n.feria;%a.global;TEIform CDATA 'feria' >        ]]>-->
+
+<!-- gospel Declaration NOW DEPRECATED USE 'biblical' INSTEAD 
+        <!ENTITY % gospel 'INCLUDE' > <![ %gospel; [<!ELEMENT %n.gospel;  %specialPara;><!ATTLIST %n.gospel;%a.global;src CDATA #REQUIRED TEIform CDATA 'gospel' > ]]>     
+-->
+
+<!-- header Declaration -->
+        <!ENTITY % header 'INCLUDE' >
+        <![ %header; [
+        <!ELEMENT %n.header; (usage*, notesStmt?) >
+        <!ATTLIST %n.header;
+            %a.global;
+           TEIform CDATA 'header' >
+        ]]>
+
+
+<!-- hymn Declaration -->
+        <!ENTITY % hymn 'INCLUDE' >
+        <![ %hymn; [
+        <!ELEMENT %n.hymn;    (#PCDATA|rubric|hVerse|milestone|add|gap|anchor)*>
+        <!ATTLIST %n.hymn;
+            TEIform CDATA 'hymn' >
+        ]]>
+
+<!-- hVerse Declaration  -->
+        <!ENTITY % hVerse 'INCLUDE' >
+        <![ %hVerse; [
+        <!ELEMENT %n.hVerse;  %specialPara;>
+        <!ATTLIST %n.hVerse;
+            num ( 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #REQUIRED
+            TEIform CDATA 'hVerse' >
+        ]]>
+
+
+
+<!-- incipit Declaration -->
+        <!ENTITY % incipit 'INCLUDE' >
+        <![ %incipit; [
+        <!ELEMENT %n.incipit;  %specialPara;>
+        <!ATTLIST %n.incipit;
+            type (antiphon|biblical|cant|chapter|credo|doxology|doxology2|doxology3|general|gospel|hymn|invitatory|kyrie|
+            misc|prayer|preces|psalm|psalmVerse|respondDoxology|respond|respondVerse|unknown|versicle) #REQUIRED
+            init (A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|GAP) #IMPLIED
+            TEIform CDATA 'incipit' >
+        ]]>
+
+<!-- invitatory Declaration -->
+        <!ENTITY % invitatory 'INCLUDE' >
+        <![ %invitatory; [
+        <!ELEMENT %n.invitatory;  %specialPara;>
+        <!ATTLIST %n.invitatory;
+            %a.global;
+            TEIform CDATA 'invitatory' >
+        ]]>
+
+
+<!-- kyrie Declaration -->
+        <!ENTITY % kyrie 'INCLUDE' >
+        <![ %kyrie; [
+        <!ELEMENT %n.kyrie;  %specialPara;>
+        <!ATTLIST %n.kyrie;
+            %a.global;
+            TEIform CDATA 'kyrie' >
+        ]]>
+
+
+<!-- lection Declaration -->
+        <!ENTITY % lection 'INCLUDE' >
+        <![ %lection; [
+        <!ELEMENT %n.lection;  %specialPara;>
+        <!ATTLIST %n.lection;
+            %a.global;
+            num ( 1| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #REQUIRED
+            type (homily|bible|gospel)  #REQUIRED
+            TEIform CDATA 'lection' >
+        ]]>
+
+<!-- litany Declaration -->
+        <!ENTITY % litany 'INCLUDE' >
+        <![ %litany; [
+        <!ELEMENT %n.litany;     (milestone|pb|note|rubric|incipit|antiphon|respond|lection|prayer|ref|gap|corr|sic|litanyItem|anchor)*>
+        <!ATTLIST %n.litany;
+            %a.global;
+            TEIform CDATA 'litany' >
+        ]]>
+
+<!-- litanyItem Declaration -->
+        <!ENTITY % litanyItem 'INCLUDE' >
+        <![ %litanyItem; [
+        <!ELEMENT %n.litanyItem;  %specialPara;>
+        <!ATTLIST %n.litanyItem;
+            %a.global;
+            type (verse|unknown|kyrie|prayer) #REQUIRED
+            TEIform CDATA 'litanyItem' >
+        ]]>
+
+
+<!-- nocturn Declaration -->
+        <!ENTITY % nocturn 'INCLUDE' >
+        <![ %nocturn; [
+        <!ELEMENT %n.nocturn;  %specialPara;>
+        <!ATTLIST %n.nocturn;
+            %a.global;
+            num (1|2|3) #REQUIRED
+            TEIform CDATA 'nocturn' >
+        ]]>
+
+<!-- prayer Declaration -->
+        <!ENTITY % prayer 'INCLUDE' >
+        <![ %prayer; [
+        <!ELEMENT %n.prayer;  %specialPara;>
+        <!ATTLIST %n.prayer;
+            %a.global;
+            TEIform CDATA 'prayer' >
+        ]]>
+
+<!-- pBody Declaration -->
+        <!ENTITY % pBody 'INCLUDE' >
+        <![ %pBody; [
+        <!ELEMENT %n.pBody;  %specialPara;>
+        <!ATTLIST %n.pBody;
+            %a.global;
+            %a.names;
+            type ( incipit |unknown ) #IMPLIED
+            wit IDREFS #REQUIRED
+            num ( 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #IMPLIED
+            TEIform CDATA 'pBody' >
+        ]]>
+
+
+
+<!-- preces Declaration -->
+        <!ENTITY % preces 'INCLUDE' >
+        <![ %preces; [
+        <!ELEMENT %n.preces;  %specialPara;>
+        <!ATTLIST %n.preces;
+            %a.global;
+            TEIform CDATA 'preces' >
+        ]]>
+
+
+<!-- prosula Declaration -->
+        <!ENTITY % prosula 'INCLUDE' >
+        <![ %prosula; [
+        <!ELEMENT %n.prosula;  %specialPara;>
+        <!ATTLIST %n.prosula;
+            %a.global;
+            wit IDREFS #REQUIRED
+            num ( 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #IMPLIED
+            TEIform CDATA 'prosula' >
+        ]]>
+
+<!-- reference Declaration -->
+        <!ENTITY % reference 'INCLUDE' >
+        <![ %reference; [
+        <!ELEMENT %n.reference;    (bookName|verseNum)*>
+        <!ATTLIST %n.reference;
+            %a.global;
+            TEIform CDATA 'reference' >
+        ]]>
+
+
+<!-- rep Declaration -->
+        <!ENTITY % rep 'INCLUDE' >
+        <![ %rep; [
+        <!ELEMENT %n.rep;  %specialPara;>
+        <!ATTLIST %n.rep;
+            %a.global;
+            type (p|r|a) #REQUIRED
+            num ( 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #IMPLIED
+            wit  IDREFS #REQUIRED
+            TEIform CDATA 'rep' >
+        ]]>
+
+
+<!-- rBody Declaration -->
+        <!ENTITY % rBody 'INCLUDE' >
+        <![ %rBody; [
+        <!ELEMENT %n.rBody;  %specialPara;>
+        <!ATTLIST %n.rBody;
+            %a.global;
+            %a.names;
+            type ( incipit |unknown ) #IMPLIED
+            wit IDREFS #REQUIRED
+            num ( 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #IMPLIED
+            TEIform CDATA 'rBody' >
+        ]]>
+
+<!-- res Declaration -->
+        <!ENTITY % res 'INCLUDE' >
+        <![ %res; [
+        <!ELEMENT %n.res;    (rBody|verses|note|header|anchor)*>
+        <!ATTLIST %n.res;
+            id ID #REQUIRED
+            TEIform CDATA 'res' >
+        ]]>
+
+
+
+<!-- respond Declaration -->
+        <!ENTITY % respond 'INCLUDE' >
+        <![ %respond; [
+        <!ELEMENT %n.respond;    (#PCDATA|add|gap|xptr|rubric|hi|note|milestone|anchor)*>
+        <!ATTLIST %n.respond;
+            %a.global;
+            %a.names;
+            num ( 1| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #REQUIRED
+            type CDATA #IMPLIED
+            TEIform CDATA 'respond' >
+        ]]>
+
+
+
+<!-- response Declaration -->
+        <!ENTITY % response 'INCLUDE' >
+        <![ %response; [
+        <!ELEMENT %n.response;  %specialPara;>
+        <!ATTLIST %n.response;
+            %a.global;
+            TEIform CDATA 'response' >
+        ]]>
+
+
+<!-- rubric Declaration -->
+        <!ENTITY % rubric 'INCLUDE' >
+        <![ %rubric; [
+        <!ELEMENT %n.rubric;  %specialPara;>
+        <!ATTLIST %n.rubric;
+            %a.global;
+            type (antiphon|bible-incipit|bible-colophon|biblicalTitle|cantica|evangelio|evovae|general|chapterTitle|cant|
+            dayTitle|feriaTitle|hymn|invitatory|lectionTitle|levis|nocturnTitle|oratio|preces|psalm|psalmumIpsum|respond|serviceTitle|unknown|verse) #REQUIRED
+            TEIform CDATA 'rubric' >
+        ]]>
+
+<!-- usage Declaration -->
+        <!ENTITY % usage 'INCLUDE' >
+        <![ %usage; [
+        <!ELEMENT %n.usage;  %specialPara;>
+        <!ATTLIST %n.usage;
+            %a.global;
+            ms IDREF #REQUIRED
+            code CDATA #REQUIRED
+           TEIform CDATA 'usage' >
+        ]]>
+
+
+
+<!-- service Declaration -->
+        <!ENTITY % service 'INCLUDE' >
+        <![ %service; [
+        <!ELEMENT %n.service;  %specialPara;>
+        <!ATTLIST %n.service;
+            %a.global;
+            name (lauds|matins|nones|prime|sext|terce|vesp1|vesp2|compline|unknown|mandatum|hours|procession) #REQUIRED
+            TEIform CDATA 'service' >
+        ]]>
+
+<!-- variant Declaration -->
+        <!ENTITY % variant 'INCLUDE' >
+        <![ %variant; [
+        <!ELEMENT %n.variant;  %specialPara;>
+        <!ATTLIST %n.variant;
+            %a.global;
+            reading CDATA #IMPLIED
+            TEIform CDATA 'variant' >
+        ]]>
+
+
+<!-- verse Declaration  -->
+        <!ENTITY % verse 'INCLUDE' >
+        <![ %verse; [
+        <!ELEMENT %n.verse;  %specialPara;>
+        <!ATTLIST %n.verse;
+            type (bible-verse|hymn|stanza) #REQUIRED
+            id ID #IMPLIED
+            TEIform CDATA 'verse' >
+        ]]>
+
+<!-- verses Declaration -->
+        <!ENTITY % verses 'INCLUDE' >
+        <![ %verses; [
+        <!ELEMENT %n.verses;    (vBody|rep|dox|prosula|anchor)*>
+        <!ATTLIST %n.verses;
+            %a.global;
+            variant CDATA #IMPLIED
+            TEIform CDATA 'verses' >
+        ]]>
+
+<!-- vBody Declaration -->
+        <!ENTITY % vBody 'INCLUDE' >
+        <![ %vBody; [
+        <!ELEMENT %n.vBody;  %specialPara;>
+        <!ATTLIST %n.vBody;
+            %a.global;
+            type (a| bible-verse | p | r| incipit|unknown) #REQUIRED
+            num ( 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #IMPLIED
+            variant CDATA #IMPLIED
+            wit  IDREFS #REQUIRED
+            TEIform CDATA 'vBody' >
+        ]]>
+
+<!-- verseNum Declaration -->
+        <!ENTITY % verseNum 'INCLUDE' >
+        <![ %verseNum; [
+        <!ELEMENT %n.verseNum;    (#PCDATA)*>
+        <!ATTLIST %n.verseNum;
+            TEIform CDATA 'verseNum' >
+        ]]>
+
+
+<!-- versicle Declaration -->
+        <!ENTITY % versicle 'INCLUDE' >
+        <![ %versicle; [
+        <!ELEMENT %n.versicle;  %specialPara;>
+        <!ATTLIST %n.versicle;
+            %a.global;
+            TEIform CDATA 'versicle' >
+        ]]>
+
+
+<!-- vslResp Declaration -->
+        <!ENTITY % vslResp 'INCLUDE' >
+        <![ %vslResp; [
+        <!ELEMENT %n.vslResp;  %specialPara;>
+        <!ATTLIST %n.vslResp;
+            %a.global;
+            TEIform CDATA 'vslResp' >
+        ]]>
+
+<!-- vslVerse Declaration -->
+        <!ENTITY % vslVerse 'INCLUDE' >
+        <![ %vslVerse; [
+        <!ELEMENT %n.vslVerse;  %specialPara;>
+        <!ATTLIST %n.vslVerse;
+            %a.global;
+            TEIform CDATA 'vslVerse' >
+        ]]>
+
+
+
+
+<!-- Week Declaration -->
+        <!ENTITY % Week 'INCLUDE' >
+        <![ %Week; [
+        <!ELEMENT %n.Week;  %specialPara;>
+        <!ATTLIST %n.Week;
+            %a.global;
+            feast CDATA #IMPLIED
+            desc CDATA #IMPLIED            
+            code CDATA #REQUIRED
+            TEIform CDATA 'Week' >
+        ]]>
+
+<!-- Dirty Changes -->
+<!ATTLIST rdg wit IDREFS #REQUIRED>
+<!ATTLIST xptr href ENTITY #REQUIRED  num ( 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 ) #IMPLIED>

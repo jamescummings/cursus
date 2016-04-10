@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7380" nextid="c7382" id="c7381">
+   <header>
+      <usage ms="Hyd" code="10400000">matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Peto domine ut de vinculo improperii huius
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> absolvas me</rdg>
+         <rdg wit="CAO-L"> absolvat me</rdg>
+         <rdg wit="CAO-V">
+            <corr sic="absolvas">absolvat</corr>
+         </rdg>
+      </app> aut certe desuper terram
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> eripias me</rdg>
+         <rdg wit="CAO-V"> eripies me</rdg>
+         <rdg wit="Hyd"> eripies</rdg>
+      </app> ne reminiscaris delicta mea vel parentum meorum neque
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> vindictam</rdg>
+         <rdg wit="CAO-C CAO-S"> vindicta</rdg>
+      </app> sumas de peccatis meis quia
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> eruis</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M"> erues</rdg>
+         <rdg wit="CAO-V"> erue</rdg>
+         <rdg wit="CAO-L"> erui</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> sustinentes te domine</rdg>
+         <rdg wit="CAO-D"> sustinentes domine</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-M CAO-D CAO-F CAO-S Hyd">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-S Hyd"> Omnia iudicia tua</rdg>
+            <rdg wit="CAO-M CAO-D CAO-F"> Omnia enim iudicia tua</rdg>
+         </app> iusta sunt et omnes viae tuae misericordia et veritas et nunc domine memento mei</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-H CAO-R"> Qui regis Israel intende qui deducis velut ovem Joseph</vBody>
+      <vBody type="r" wit="CAO-V"> Et nunc domine secundum voluntatem tuam fac mecum et praecipe in pace recipe spiritum meum</vBody>
+      <vBody type="r" wit="CAO-L"> Quoniam tu castigas et salvas deducis ad inferos et reducis</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Ne reminiscaris</rep>
+      <rep type="r" wit="CAO-G">Quia</rep>
+   </verses>
+</res>

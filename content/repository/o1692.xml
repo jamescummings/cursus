@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1691" nextid="o1693" id="o1692">
+   <header>
+      <usage ms="Mch" code="06034000">[110r]</usage>
+      <usage ms="Hyd" code="08063000">vesp2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Mch"> Memor esto quaesumus domine fragilitatis humanae et qui iuste verberas peccatores parce propitiatus afflictis</pBody>
+</prayer>

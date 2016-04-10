@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1540" nextid="o1542" id="o1541">
+   <header>
+      <usage ms="Alb2" code="07036000"/>
+      <usage ms="Bat" code="07036000">[55v] lauds</usage>
+      <usage ms="Cdm" code="07036000">[66v] lauds</usage>
+      <usage ms="Ely" code="07036000"/>
+      <usage ms="Evm" code="07036000"/>
+      <usage ms="Hyd" code="07036000"/>
+      <usage ms="Mch" code="07036000">[135v] lauds</usage>
+      <usage ms="Wcb" code="07036000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.248</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Evm Wcb Alb2 Cdm Mch Bat">Ieiunia nostra quaesumus domine benigno favore prosequere ut sicut
+     <app>
+         <rdg wit="Ely Mch"> ab alimentis abstinemus in corpore</rdg>
+         <rdg wit="Hyd Evm Wcb Alb2 Cdm Bat"> ab alimentis in corpore</rdg>
+      </app> ita a vitiis ieiunemus in mente</pBody>
+</prayer>

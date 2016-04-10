@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4428b" nextid="c4430" id="c4429">
+   <header>
+      <usage ms="Cdm" code="01013000">[11r] vesp2 gosp</usage>
+      <usage ms="Evm" code="01013000">[11r] lauds gosp</usage>
+      <usage ms="Hyd" code="01013000">[5v] vesp2 gosp</usage>
+      <usage ms="Mch" code="01015000">[6r] vesp2 gosp</usage>
+      <usage ms="Mch" code="07013000">[119r] lauds gosp</usage>
+      <usage ms="Wor" code="01013000">[4v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Evm Mch Cdm Wor">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Evm Mch Cdm Wor"> Quaerite dominum dum inveniri potest</rdg>
+         <rdg wit="CAO-C"> Quaerite dominum dum inveniri potes</rdg>
+      </app> invocate eum dum prope est alleluia</aBody>
+</ant>

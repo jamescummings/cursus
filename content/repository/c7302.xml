@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7301" nextid="c7303" id="c7302">
+   <rBody wit="CAO-E CAO-M CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-M CAO-F CAO-S"> O vere summa</rdg>
+         <rdg wit="CAO-E"> O vera summa</rdg>
+      </app> et perpetua felicitas ubi gloriosus angelorum chorus exsultat ubi prophetarum exsultantium numerus insignis
+     <app>
+         <rdg wit="CAO-M CAO-F CAO-S"> gaudet</rdg>
+         <rdg wit="CAO-E"> gaudent</rdg>
+      </app> ubi martyrum populus innumerabilis ob
+     <app>
+         <rdg wit="CAO-E CAO-F CAO-S"> certaminum</rdg>
+         <rdg wit="CAO-M"> certantium</rdg>
+      </app> victorias coronatus tripudiat ubi clarissima virginum turba laetantium
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-F"> effulget</rdg>
+         <rdg wit="CAO-S"> exultat</rdg>
+      </app> ubi etiam confessorum fortitudo laetatur ubi et illos remuneratio digna consequitur qui praecepta dominica servantes ad caelestes thesauros terrena patrimonia transtulerunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-F CAO-S"> Ad eos igitur toto corde tendamus ut cum ipsis in aeterna patria gaudere mereamur</vBody>
+      <rep type="r" wit="CAO-E CAO-F">Ubi et illos</rep>
+      <rep type="r" wit="CAO-M">Qui praecepta</rep>
+      <rep type="r" wit="CAO-S">Ad caelestes</rep>
+   </verses>
+</res>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3932b" nextid="c3934" id="c3933">
+   <header>
+      <usage ms="Alb2" code="07063000">[106v] vesp2</usage>
+      <usage ms="Cht" code="07056000">[52v] nones</usage>
+      <usage ms="Evm" code="07053000">[138v] nones</usage>
+      <usage ms="Glo" code="07053000">[71r] sext</usage>
+      <usage ms="Wcb" code="07053000">[110r] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-E CAO-H CAO-R CAO-F CAO-S Cht Evm Wcb Glo Alb2">
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-F CAO-S"> Non sis mihi tu formidinis spes mea</rdg>
+         <rdg wit="CAO-H Cht Evm Wcb Glo Alb2"> Non sis mihi tu formidini spes mea</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-F CAO-S Cht Evm Wcb Glo Alb2"> in die afflictionis meae</rdg>
+         <rdg wit="CAO-E"> tu in die afflictionis meae</rdg>
+      </app>
+   </aBody>
+</ant>

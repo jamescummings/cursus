@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1830" nextid="c1832" id="c1831">
+   <header>
+      <usage ms="Hyd" code="08063000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V Hyd"> Clementissime exaudi domine
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V"> populum tuum</rdg>
+         <rdg wit="Hyd"> populum tuum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

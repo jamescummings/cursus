@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7776" nextid="c7778" id="c7777">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Tria sunt munera pretiosa quae obtulerunt magi domino
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> in die ista</rdg>
+         <rdg wit="CAO-G CAO-R"> in die illa</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Hyd Pet"> et habent in se divina mysteria</rdg>
+         <rdg wit="CAO-S"> et habens in se divina mysteria</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L Alb2 Hyd Pet"> in auro</rdg>
+         <rdg wit="CAO-F"> in aurum</rdg>
+         <rdg wit="CAO-D"> in <corr sic="aurum">auro</corr>
+         </rdg>
+      </app> ut ostendatur
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Alb2 Hyd Pet"> regis potentia</rdg>
+         <rdg wit="CAO-S"> regi potentia</rdg>
+         <rdg wit="CAO-L"> regi potentiam</rdg>
+         <rdg wit="CAO-F"> regis potentia<del status="unremarkable">m</del>
+         </rdg>
+      </app> in thure sacerdotem magnum considera
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-S CAO-L Alb2 Hyd Pet"> et in myrrha</rdg>
+         <rdg wit="CAO-G"> et in myrrham</rdg>
+         <rdg wit="CAO-D CAO-F"> et in myrrha<del status="unremarkable">m</del>
+         </rdg>
+      </app> dominicam sepulturam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-H"> Reges Tharsis et insulae
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-H"> munera offerent</rdg>
+            <rdg wit="CAO-E"> munera offerunt</rdg>
+         </app> reges Arabum et Saba dona adducent</vBody>
+      <vBody type="r" wit="CAO-M"> Reges Tharsis</vBody>
+      <vBody type="r" wit="CAO-R"> Reges Tharsis et insulae</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Salutis nostrae auctorem magi venerati sunt in cunabulis et de thesauris suis mysticas
+      <app>
+            <rdg wit="CAO-G CAO-D CAO-F Alb2 Hyd Pet"> ei munerum</rdg>
+            <rdg wit="CAO-L"> eius munera</rdg>
+            <rdg wit="CAO-S"> ei munera</rdg>
+         </app> species obtulerunt</vBody>
+      <vBody id="c7777-1" type="r" wit="CAO-V"> Reges Tharsis et insulae munera offerent</vBody>
+      <rep corresp="c7777-1" type="r" wit="CAO-V"> In auro</rep>
+      <vBody id="c7777-2" type="r" num="2" wit="CAO-V"> Ab oriente venerunt magi et in Bethleem adorare dominum et apertis thesauris suis pretiosa munera obtulerunt</vBody>
+      <rep corresp="c7777-2" type="r" wit="CAO-V">In auro</rep>
+      <vBody id="c7777-3" type="r" num="3" wit="CAO-V"> Gloria deo de caelo venit Joannes sancte maior prophetae venit ad flumen Jordanis baptizatur Christus filius dei</vBody>
+      <rep corresp="c7777-3" type="r" wit="CAO-V">Et in myrrha</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet">In auro</rep>
+      <rep type="r" wit="CAO-H">Et habent</rep>
+   </verses>
+</res>

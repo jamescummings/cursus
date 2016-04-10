@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7789" nextid="c7791" id="c7790">
+   <header>
+      <usage ms="Alb2" code="01012000">[6v] vesp2</usage>
+      <usage ms="Ely" code="01021000">[8r] lauds</usage>
+      <usage ms="Ely" code="01041000">[14v] vesp2</usage>
+      <usage ms="Evm" code="01031000">[18v] vesp2</usage>
+      <usage ms="Glo" code="01031000">[16v] vesp2</usage>
+      <usage ms="Hyd" code="01011000">[3v] lauds</usage>
+      <usage ms="Mch" code="01011000">[5r] vesp2</usage>
+      <usage ms="Wcb" code="01031000">[47v] vesp2</usage>
+      <usage ms="Wor" code="01012000">[4r] vesp2</usage>
+   </header>
+   <rBody wit="CAO-G CAO-H CAO-R CAO-S Hyd Alb2 Evm Mch Ely Wor Wcb Glo"> Tu exsurgens domine misereberis Sion</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-H CAO-R CAO-S Hyd Alb2 Evm Mch Ely Wor Wcb Glo">Quia tempus miserendi eius quia venit tempus</vBody>
+      <rep type="r" wit="CAO-G CAO-S Hyd">Misereberis</rep>
+      <dox type="r" wit="Evm Wor Glo">Gloria</dox>
+   </verses>
+</res>

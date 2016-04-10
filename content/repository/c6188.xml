@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6187" nextid="c6189" id="c6188">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-S"> Beatissimus Christi martyr Hippolytus</rdg>
+         <rdg wit="CAO-D CAO-F"> Beatissimus Christi martyr Laurentius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-D CAO-F"> dum</rdg>
+         <rdg wit="CAO-S"> cum</rdg>
+      </app> baptismi gratiam
+      <app>
+         <rdg wit="CAO-C CAO-M"> accepisset</rdg>
+         <rdg wit="CAO-E CAO-S"> percepisset</rdg>
+         <rdg wit="CAO-D CAO-F"> contulisset</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-S"> a beato Laurentio</rdg>
+         <rdg wit="CAO-D CAO-F"> beato Hippolyto</rdg>
+      </app> ponebat
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-D CAO-F CAO-S"> manus</rdg>
+         <rdg wit="CAO-E"> manum</rdg>
+      </app> super oculos caecorum et sanabantur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S"> Caeco illuminato</rdg>
+            <rdg wit="CAO-M"> Caeco illuminante</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-D CAO-F CAO-S"> a sancto Laurentio</rdg>
+            <rdg wit="CAO-E CAO-F"> a beato Laurentio</rdg>
+         </app> Hippolytus credidit
+       <app>
+            <rdg wit="CAO-C CAO-D CAO-F"> et
+         <app>
+                  <rdg wit="CAO-E CAO-M CAO-D CAO-F CAO-S"> percipere</rdg>
+                  <rdg wit="CAO-C"> percepi</rdg>
+               </app> meruit baptismi sacramentum</rdg>
+            <rdg wit="CAO-E CAO-M" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+            <rdg wit="CAO-S"> ac baptizari meruit</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-D CAO-F CAO-S">Ponebat</rep>
+      <rep type="r" wit="CAO-M"> Dum</rep>
+   </verses>
+</res>

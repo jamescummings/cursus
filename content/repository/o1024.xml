@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1023" nextid="o1119" id="o1024">
+   <header>
+      <usage ms="Alb2" code="07011000">[74v] vesp1</usage>
+      <usage ms="Ely" code="07011000">[66r] vesp1</usage>
+      <usage ms="Wcb" code="07011000">[91v] vesp1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.166</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Wcb Alb2"> Deus qui ecclesiam tuam
+     <app>
+         <rdg wit="Ely Wcb"> annua quadragesimali observatione purificas</rdg>
+         <rdg wit="Alb2"> annua quadragesime observatione purificas</rdg>
+      </app> praesta familie tue ut quod a te obtinere abstinendo nititur hoc bonis operibus exsequatur</pBody>
+</prayer>

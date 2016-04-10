@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1060" nextid="c1062" id="c1061">
+   <header>
+      <usage ms="Hyd" code="09011000">matins</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Deum verum unum in trinitate
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F Hyd"> et trinitatem in unitate</rdg>
+         <rdg wit="CAO-E CAO-M CAO-S CAO-L"> et trinitate in unitate</rdg>
+      </app> venite adoremus</aBody>
+</ant>

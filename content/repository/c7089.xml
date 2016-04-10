@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7088" nextid="c7090" id="c7089">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Levita Laurentius bonum opus operatus est qui per signum crucis caecos illuminavit et thesauros ecclesiae dedit pauperibus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Dispersit dedit pauperibus iustitia eius manet in saeculum saeculi</vBody>
+      <vBody type="r" wit="CAO-F CAO-L"> Cum apud sedem
+       <app>
+            <rdg wit="CAO-F"> gloriosissimi patris</rdg>
+            <rdg wit="CAO-L"> gloriosissimi Petri</rdg>
+         </app> archidiaconatus fungeretur officio
+       <app>
+            <rdg wit="CAO-F"> puritate</rdg>
+            <rdg wit="CAO-L"> puritatem</rdg>
+         </app> innocentis vitae fortissimaeque mortis triumpho apostolica se consortio copulavit</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et thesauros</rep>
+   </verses>
+</res>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1254" nextid="c1256" id="c1255">
+   <header>
+      <usage ms="Alb2" code="01037000">[17v] lauds-a2</usage>
+      <usage ms="Bat" code="01037000">[11v] lauds-a2</usage>
+      <usage ms="Cdm" code="01037000">[17v] lauds-a2</usage>
+      <usage ms="Ely" code="01037000">[13r] lauds-a2</usage>
+      <usage ms="Evm" code="01037009">[22r] lauds-a2</usage>
+      <usage ms="Mch" code="01037000">[16r] lauds-a2</usage>
+      <usage ms="Pet" code="01037009">[9v] lauds-a2</usage>
+      <usage ms="Wcb" code="01047000">[51v] lauds-a2</usage>
+      <usage ms="Wor" code="01037000">[10r] lauds-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Ad te domine levavi animam meam veni et eripe me domine ad te confugi</aBody>
+</ant>

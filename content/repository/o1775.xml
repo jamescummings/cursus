@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1774" nextid="o1776" id="o1775">
+   <header>
+      <usage ms="Bat" code="06034000">[46v] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Fulda no.1586</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Bat"> Adesto domine populis tuis in tua protectione confidentibus et tuae se dexterae supplicaiter inclinantes perpetua defensione conserva</pBody>
+</prayer>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6549" nextid="c6551" id="c6550">
+   <rBody wit="CAO-B CAO-R CAO-L"> Dum Myrensium quidam antistes
+      <app>
+         <rdg wit="CAO-B CAO-R"> pulsus ob invidiam</rdg>
+         <rdg wit="CAO-L"> pulsus invidia</rdg>
+      </app> esset de sede sua stillicidium manare statim olei sacri
+      <app>
+         <rdg wit="CAO-R CAO-L"> desivit</rdg>
+         <rdg wit="CAO-B"> desiit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-R"> Tamdiu quippe</rdg>
+            <rdg wit="CAO-L"> Tamdiu enim</rdg>
+         </app> salutaris ille liquor manare cessavit
+       <app>
+            <rdg wit="CAO-B CAO-R"> quousque</rdg>
+            <rdg wit="CAO-L"> quoadusque</rdg>
+         </app> praesul idem cathedram suam reciperet</vBody>
+      <rep type="r" wit="CAO-B CAO-R CAO-L"> Stillicidium</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7598" nextid="c7600" id="c7599">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Version proper to St Stephen (Cdm) at c9538</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-L"> Sanctissimi confessoris Nicolai solemnitatem recolentes te Christe deprecamur ut nos semper intercessione illius conservare dignaris</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">Tibi iuncto iugiter cum triumpho nitente nobis opem ostendente</vBody>
+      <rep type="r" wit="CAO-L">Ut nos</rep>
+   </verses>
+</res>

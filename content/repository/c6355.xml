@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6354" nextid="c6356" id="c6355">
+   <rBody wit="CAO-E CAO-M CAO-V CAO-L"> Cum audisset Jacob quod Esau veniret
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-L"> contra eum</rdg>
+         <rdg wit="CAO-V"> contra eos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-L"> divisit</rdg>
+         <rdg wit="CAO-M CAO-V"> divisitque</rdg>
+      </app> filios suos et uxores dicens si percusserit Esau
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V"> unam turmam</rdg>
+         <rdg wit="CAO-L"> unam partem</rdg>
+      </app> salvabitur altera libera me domine qui dixisti mihi multiplicabo semen tuum sicut stellas caeli et sicut
+      <app>
+         <rdg wit="CAO-E CAO-L"> arenam maris</rdg>
+         <rdg wit="CAO-M CAO-V"> arena maris</rdg>
+      </app> quae prae multitudine
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-L"> numerari</rdg>
+         <rdg wit="CAO-M"> dinumerari</rdg>
+      </app> non potest</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V"> Domine qui dixisti mihi revertere in terram nativitatis tuae et ego ero tecum</vBody>
+      <vBody type="r" wit="CAO-M"> Domine qui dixisti mihi revertere in terram nativitatis tuae erue me de manu fratris mei</vBody>
+      <vBody type="r" wit="CAO-L"> Deus in cuius conspectu ambulaverunt patres nostri domine qui pascis me a iuventute mea</vBody>
+      <rep type="r" wit="CAO-M CAO-L"> Libera</rep>
+      <rep type="r" wit="CAO-E CAO-V"> Multiplicabo</rep>
+      <dox type="r" wit="CAO-V"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-V"> Libera</rep>
+   </verses>
+</res>

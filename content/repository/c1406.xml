@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1405" nextid="c1407" id="c1406">
+   <aBody wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Angelus archangelus <name reg="Michael archang" type="saint">Michael</name> dei nuntius de animabus iustis
+     <app>
+         <rdg wit="CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> alleluia alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

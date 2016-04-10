@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3102" nextid="c3104" id="c3103">
+   <aBody wit="CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Hodie in mundum nobis genuit puerpera</l>
+         <l part="N"> deum caeli quem adorant magi munus offerunt</l>
+         <l part="N"> omnes genu incurvemur ei qui redemit nos</l>
+      </lg>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3478" nextid="c3480" id="c3479">
+   <header>
+      <usage ms="Alb2" code="02122600">[32r] matins-n3</usage>
+      <usage ms="Evm" code="02122600">[40v] matins-n3</usage>
+      <usage ms="Wcb" code="02122600">[59r] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-F CAO-S Alb2 Evm Wcb"> Jerusalem Jerusalem quae occidis prophetas et lapidas eos qui
+     <app>
+         <rdg wit="CAO-F Alb2 Evm Wcb"> ad te missi sunt</rdg>
+         <rdg wit="CAO-S"> ad te missi sunt alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

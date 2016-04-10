@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2788" nextid="c2790" id="c2789">
+   <header>
+      <usage ms="Ely" code="06021000">[62v] prime-a1</usage>
+      <usage ms="Evm" code="06021000">[98r] prime</usage>
+      <usage ms="Glo" code="06021000">[56v] prime</usage>
+      <usage ms="Wcb" code="06021000">[88v] prime</usage>
+      <usage ms="Wor" code="06021000">[39v] prime-a1</usage>
+   </header>
+   <aBody wit="CAO-B CAO-M CAO-R Wor Ely Evm Wcb Glo"> Exiit qui seminat seminare semen suum et dum seminat aliud cecidit in terram bonam et fecit fructum centuplum</aBody>
+</ant>

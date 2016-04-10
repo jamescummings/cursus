@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3296" nextid="c3298" id="c3297">
+   <header>
+      <usage ms="Alb2" code="07051000">[100r] lauds</usage>
+      <usage ms="Bat" code="07051000">[59v] lauds-a2</usage>
+      <usage ms="Cdm" code="07051000">[71v] lauds-a2</usage>
+      <usage ms="Cht" code="07051000">[48v] lauds</usage>
+      <usage ms="Evm" code="07055000">[139v] prime</usage>
+      <usage ms="Hyd" code="07051000">[87r] lauds</usage>
+      <usage ms="Mch" code="07051000">[146v] lauds-a2</usage>
+      <usage ms="Pet" code="07051000">[81r] lauds-a2</usage>
+      <usage ms="Wor" code="07051000">[54r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Mch Bat"> In tribulatione invocavi dominum</rdg>
+         <rdg wit="Cdm"> In tribulatione mea invocavi dominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch Bat"> et exaudivit me in latitudine</rdg>
+         <rdg wit="CAO-E CAO-M CAO-F"> et exaudivit me in latitudinem</rdg>
+      </app>
+   </aBody>
+</ant>

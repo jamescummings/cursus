@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3687" nextid="c3689" id="c3688">
+   <header>
+      <usage ms="Glo" code="07011000">[58v] mandatum</usage>
+      <usage ms="Glo" code="07061000">[72v] vesp1</usage>
+      <usage ms="Glo" code="07066000">[80r] mandatum</usage>
+   </header>
+   <aBody wit="CAO-C CAO-M CAO-H CAO-F CAO-L"> Mandatum novum do vobis ut diligatis invicem sicut dilexi vos dicit dominus</aBody>
+   <aBody wit="CAO-C" num="2"> Mandatum novum do vobis ut diligatis invicem sicut dilexit vos dicit dominus</aBody>
+   <aBody wit="Glo" type="incipit">Mandatum novum</aBody>
+</ant>

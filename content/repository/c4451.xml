@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4450" nextid="c4452" id="c4451">
+   <header>
+      <usage ms="Alb2" code="02122700">[34r] matins-n1-a3</usage>
+      <usage ms="Bat" code="02122700">[20v] matins-n1-a3</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins-n1-a3</usage>
+      <usage ms="Evm" code="02122700">[42v] matins-n1-a3</usage>
+      <usage ms="Hyd" code="02122700">[23r] matins-n1-a3</usage>
+      <usage ms="Pet" code="02122700">[25r] matins-n1-a3</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins-n1-a3</usage>
+      <usage ms="Wor" code="02122700">[19r] matins-n1-a3</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-D CAO-S Evm Wcb Bat Cdm"> Quasi unus ex paradisi fluminibus</rdg>
+         <rdg wit="CAO-B CAO-V CAO-F Hyd Alb2 Wor"> Quasi unus de paradisi fluminibus</rdg>
+         <rdg wit="Pet"> Quasi unum de paradisi fluminibus</rdg>
+      </app> evangelista Joannes verbi dei
+     <app>
+         <rdg wit="CAO-G CAO-B Hyd Alb2 Evm Wcb Bat Cdm Wor"> gratiam</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S Pet"> gratia</rdg>
+      </app> in toto terrarum orbe diffudit</aBody>
+</ant>

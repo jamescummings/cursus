@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4332" nextid="c4334" id="c4333">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-F"> Post passionem domini factus est conventus</rdg>
+         <rdg wit="CAO-M CAO-V"> Post passionem domini factus est conventum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R"> quia non est inventum corpus in monumento</rdg>
+         <rdg wit="CAO-C"> quia non est corpus in monumentum</rdg>
+         <rdg wit="CAO-F"> quia non est inventum corpus domini in monumentum</rdg>
+         <rdg wit="CAO-E CAO-V"> quia non est inventum corpus in monumentum</rdg>
+         <rdg wit="CAO-M"> quia non est inventum corpus in <corr sic="monumento">monumento</corr>
+         </rdg>
+      </app> lapis sustinuit perpetuam vitam monumentum reddidit caelestem margaritam alleluia</aBody>
+</ant>

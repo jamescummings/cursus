@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3227" nextid="c3229" id="c3228">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-H CAO-D"> In domo David pueri sui fecit redemptionem dominus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-D"> plebis suae</rdg>
+         <rdg wit="CAO-H"> plebi suae</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4988" nextid="c4990" id="c4989">
+   <header>
+      <usage ms="Alb2" code="02010100">[45v] matins-n1-a4</usage>
+      <usage ms="Bat" code="02010100">[27r] matins-n1-a4</usage>
+      <usage ms="Cdm" code="02010100">[33r] matins-n1-a4</usage>
+      <usage ms="Ely" code="02122500">[18r] matins-n1-a4</usage>
+      <usage ms="Evm" code="02010100">[59r] matins-n1-a3</usage>
+      <usage ms="Hyd" code="02122500">[33v] matins-n1-a4</usage>
+      <usage ms="Pet" code="02010100">[34v] matins-n1-a3</usage>
+      <usage ms="Wcb" code="02010100">[65v] matins-n1-a3</usage>
+      <usage ms="Wor" code="02122500">[13v] matins-n1-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Ely Wor Pet"> Speciosus forma prae filiis hominum diffusa est gratia in labiis tuis</aBody>
+</ant>

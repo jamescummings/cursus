@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1634" nextid="o1636" id="o1635">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.99</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2">Concede quaesumus omnipotens deus ut ad meliorem vitam sancti confessoris tui Felicis exempla nos provocent quatinus cuius sollemnia colimus etiam actus imitemur</pBody>
+</prayer>

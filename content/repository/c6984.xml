@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6983" nextid="c6984b" id="c6984">
+   <header>
+      <usage ms="Alb2" code="02122600">[32v] matins-n3-r9</usage>
+      <usage ms="Bat" code="02122600">[19r] matins-n1-r3</usage>
+      <usage ms="Cdm" code="02122600">[24v] matins-n1-r3</usage>
+      <usage ms="Evm" code="02122600">[39v] matins-n1-r4</usage>
+      <usage ms="Hyd" code="02122600">[22r] matins-n1-r3</usage>
+      <usage ms="Pet" code="02122600">[21r] matins-n1-r3</usage>
+      <usage ms="Wcb" code="02122600">[58v] matins-n1-r4</usage>
+      <usage ms="Wor" code="02122600">[17r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Intuens in caelum beatus Stephanus vidit gloriam dei
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> et ait</rdg>
+         <rdg wit="CAO-L"> et dixit</rdg>
+      </app> ecce video caelos apertos
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> et filium hominis stantem</rdg>
+         <rdg wit="CAO-L"> et filius hominis stantem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> a dextris virtutis dei</rdg>
+         <rdg wit="CAO-C CAO-V CAO-F CAO-S"> ad dextris virtutis dei</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-D Hyd Alb2 Bat Cdm Wor Pet">
+         <app>
+            <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D Hyd Bat Cdm Pet"> Cumque aspiceret beatus Stephanus in caelum</rdg>
+            <rdg wit="Alb2"> Cumque aspiceret in caelum beatus Stephanus</rdg>
+            <rdg wit="Wor"> Cumque aspiceret beatus Stephanus</rdg>
+         </app> vidit gloriam dei et ait</vBody>
+      <vBody type="r" wit="CAO-E CAO-F CAO-S"> Cum autem esset Stephanus plenus spiritu sancto intendens in caelum vidit gloriam dei et ait</vBody>
+      <vBody type="r" wit="CAO-G CAO-L Evm Wcb"> Cum autem esset Stephanus plenus spiritu sancto intendens in caelum
+      <app>
+            <rdg wit="Evm Wcb">ait</rdg>
+            <rdg wit="CAO-L"> dixit</rdg>
+            <rdg wit="CAO-G"> et ait</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C"> Vidit beatus Stephanus caelos apertos vidit et introivit</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">Ecce video</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+   </verses>
+</res>

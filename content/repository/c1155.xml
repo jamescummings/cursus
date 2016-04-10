@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1154" nextid="c1156" id="c1155">
+   <header>
+      <usage ms="Alb2" code="01021000">[7r] matins inv</usage>
+      <usage ms="Cdm" code="01021000">[11v] matins inv</usage>
+      <usage ms="Evm" code="01031000">[15v] matins inv</usage>
+      <usage ms="Wcb" code="01031000">[45v] matins inv</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S Alb2 Evm Cdm Wcb"> Rex noster adveniet Christus quem Joannes
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-H CAO-F Alb2 Evm Cdm Wcb"> praedicavit</rdg>
+         <rdg wit="CAO-B CAO-R"> praedicabat</rdg>
+         <rdg wit="CAO-S"> praedicabit</rdg>
+      </app> agnum esse venturum</aBody>
+</ant>

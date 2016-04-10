@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1063" nextid="c1065" id="c1064">
+   <header>
+      <usage ms="Hyd" code="05027000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">used by Mch 109r for Ash Wednesday</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-F CAO-S Hyd"> Dominum deum nostrum venite adoremus</aBody>
+</ant>

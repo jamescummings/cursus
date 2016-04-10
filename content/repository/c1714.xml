@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1713" nextid="c1715" id="c1714">
+   <aBody wit="CAO-C CAO-D CAO-F CAO-S CAO-L"> Benedictus dei famulus magnum fecit miraculum
+     <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S"> preces fudit ad dominum</rdg>
+         <rdg wit="CAO-L"> primum in partes divisum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-L"> reiunxit capisterium</rdg>
+         <rdg wit="CAO-S"> et reiunxit capisterium</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6097" nextid="c6099" id="c6098">
+   <header>
+      <usage ms="Alb2" code="06031000">[71r] matins-n3-r11</usage>
+      <usage ms="Bat" code="06031000">[45v] matins-n3-r11</usage>
+      <usage ms="Cdm" code="06031000">[54r] matins-n3-r11</usage>
+      <usage ms="Cht" code="06031000">[17r] matins-n3-r9</usage>
+      <usage ms="Ely" code="06031000">[63v] matins-n3-r11</usage>
+      <usage ms="Hyd" code="06031000">[66r] matins-n2-r8</usage>
+      <usage ms="Mch" code="06031000">[108r] matins-n3-r11</usage>
+      <usage ms="Pet" code="06031000">[61v] matins-n3-r11</usage>
+      <usage ms="Wcb" code="06031000">[90r] matins-n3-r10</usage>
+      <usage ms="Wor" code="06031000">[41r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Alb2 Pet Ely Wcb Cdm Mch Bat"> Angelus domini vocavit Abraham dicens
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Alb2 Pet Ely Bat"> ne extendas manum tuam</rdg>
+         <rdg wit="Wcb Cdm"> ne extendes manum tuam</rdg>
+         <rdg wit="Mch"> ne extendis manum tuam</rdg>
+      </app> super puerum eo quod timeas dominum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-F CAO-S CAO-L Hyd Cht Wor Alb2 Ely Wcb"> Cumque extendisset manum
+      <app>
+            <rdg wit="CAO-G CAO-F CAO-S CAO-L Hyd Cht Alb2 Ely Wcb"> ut immolaret filium</rdg>
+            <rdg wit="Wor"> ut immolaret filium suum</rdg>
+         </app>
+         <app>
+            <rdg wit="Hyd Cht Wor Wcb"> ecce angelus domini clamavit dicens</rdg>
+            <rdg wit="CAO-G CAO-F CAO-S CAO-L Alb2 Ely"> ecce angelus domini de caelo clamavit dicens</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D Pet Cdm Mch Bat"> Et benedicentur in te omnes tribus terrae</vBody>
+      <vBody type="r" wit="CAO-V"> Et benedicentur in te cum te tribus terrae et ero custos tuos</vBody>
+      <rep type="r" wit="CAO-G CAO-F CAO-S CAO-L Hyd Cht Wor Alb2 Ely Wcb">Ne extendas</rep>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D Pet Mch Bat">Eo quod</rep>
+   </verses>
+</res>

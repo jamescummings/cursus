@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2887" nextid="c2889" id="c2888">
+   <header>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes"> AnnMus II (1954) 30, 33: EL LXXII (1958) 7, 31, 37</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Pet">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-L Hyd Pet"> Fontes aquarum sanctificati sunt</rdg>
+         <rdg wit="CAO-D"> Fontes aquarum sanctificate sunt</rdg>
+         <rdg wit="CAO-E CAO-F"> Fontes aquarum <corr sic="sanctificate">sanctificati</corr> sunt</rdg>
+      </app> Christo apparente
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R CAO-D Hyd Pet"> in gloria orbi terrarum</rdg>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-F CAO-L"> in gloria orbis terrarum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Pet"> haurite aquas</rdg>
+         <rdg wit="CAO-E"> haurietis aquas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-L Hyd"> de fonte salvatoris</rdg>
+         <rdg wit="CAO-H"> de fonte salutaris</rdg>
+         <rdg wit="Pet"> de fonte salutari</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> sanctificavit enim nunc</rdg>
+         <rdg wit="Pet"> sanctificavit eum tunc</rdg>
+      </app> omnem creaturam Christus deus noster</aBody>
+</ant>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5192" nextid="c5194" id="c5193">
+   <header>
+      <usage ms="Alb2" code="06036000">[74r] vesp2 gosp</usage>
+      <usage ms="Bat" code="06036000">[46v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="06036000">[56r] vesp2</usage>
+      <usage ms="Cht" code="06036000"/>
+      <usage ms="Ely" code="06036000"/>
+      <usage ms="Evm" code="06037000"/>
+      <usage ms="Glo" code="06037000">[58r] </usage>
+      <usage ms="Hyd" code="06036000"/>
+      <usage ms="Pet" code="06036000">[63r] </usage>
+      <usage ms="Wcb" code="06037000"/>
+      <usage ms="Wor" code="06036000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Wor Alb2 Pet Hyd Ely Cht Evm Wcb Cdm Bat">
+      <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Wor Alb2 Pet Hyd Ely Cht Evm Wcb Cdm Bat"> Tu autem cum oraveris</rdg>
+         <rdg wit="CAO-C CAO-V CAO-S"> Tu autem cum oraberis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Wor Alb2 Pet Hyd Ely Cht Evm Wcb Cdm Bat"> intra in cubiculum</rdg>
+         <rdg wit="CAO-S"> intra in cubiculum <del status="unremarkable">tuum</del>
+         </rdg>
+      </app> et clauso ostio ora patrem tuum</aBody>
+   <aBody wit="Glo" type="incipit"> Tu autem cum oraveris</aBody>
+</ant>

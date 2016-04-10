@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2684" nextid="c2686" id="c2685">
+   <header>
+      <usage ms="Ely" code="01031000">[11r] sext</usage>
+      <usage ms="Evm" code="01031000">[18v] nones</usage>
+      <usage ms="Evm" code="01044000">[26v] lauds gosp</usage>
+      <usage ms="Evm" code="01045000">[25v] lauds gosp</usage>
+      <usage ms="Glo" code="01031000">[16v] nones</usage>
+      <usage ms="Wcb" code="01031000">[47v] nones</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-F Evm Ely Wcb Glo"> Estote parati similes hominibus exspectantibus
+     <app>
+         <rdg wit="CAO-C CAO-F Evm Wcb Glo"> dominum</rdg>
+         <rdg wit="CAO-E Ely"> dominum suum</rdg>
+      </app> quando revertatur
+     <app>
+         <rdg wit="Evm Ely Wcb Glo"> a nuptiis</rdg>
+         <rdg wit="CAO-F">
+            <corr sic=" ad nuptias">a nuptiis</corr>
+         </rdg>
+         <rdg wit="CAO-C CAO-E"> ad nuptias</rdg>
+      </app>
+   </aBody>
+</ant>

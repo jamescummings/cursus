@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6237" nextid="c6239" id="c6238">
+   <header>
+      <usage ms="Hyd" code="09011000">lauds-r1</usage>
+   </header>
+   <rBody wit="CAO-R Hyd"> Benedicamus patrem et filium cum sancto spiritu</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R Hyd">Laudemus et superexaltemus eum in saecula</vBody>
+   </verses>
+</res>

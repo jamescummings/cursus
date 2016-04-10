@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7522" nextid="c7524" id="c7523">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+   </header>
+   <rBody wit="CAO-G CAO-E CAO-V CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Reges Tharsis et insulae
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-V CAO-S CAO-L Alb2 Hyd Pet"> munera offerent</rdg>
+         <rdg wit="CAO-F"> munera offerunt</rdg>
+      </app> reges Arabum et Saba dona domino deo adducent</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-S Alb2 Hyd"> Omnes de Saba venient aurum et thus deferentes</vBody>
+      <vBody type="r" wit="CAO-F Pet"> Et adorabunt eum omnes reges omnes gentes servient ei</vBody>
+      <vBody type="r" wit="CAO-L"> Omnes gentes venient et adorabunt eum omnes gentes servient ei</vBody>
+      <rep type="r" wit="CAO-G CAO-F CAO-S CAO-L Hyd Pet">Reges</rep>
+      <rep type="r" wit="CAO-E CAO-V">Domino</rep>
+   </verses>
+</res>

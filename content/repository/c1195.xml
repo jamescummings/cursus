@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1194" nextid="c1196" id="c1195">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> A summo caelo egressio eius
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> et occursus eius</rdg>
+         <rdg wit="CAO-L"> et occursus domini</rdg>
+      </app> alleluia</aBody>
+</ant>

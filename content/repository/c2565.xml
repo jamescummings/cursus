@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2564" nextid="c2566" id="c2565">
+   <header>
+      <usage ms="Alb2" code="01036000">[17r] lauds-a5</usage>
+      <usage ms="Bat" code="01036000">[11r] lauds-a5</usage>
+      <usage ms="Cdm" code="01036000">[17r] lauds-a5</usage>
+      <usage ms="Ely" code="01037000">[13r] lauds-a5</usage>
+      <usage ms="Evm" code="01046000">[26r] lauds-a5</usage>
+      <usage ms="Mch" code="01036000">[15r] lauds-a5</usage>
+      <usage ms="Pet" code="01037009">[9v] lauds-a4</usage>
+      <usage ms="Wcb" code="01047000">[51v] lauds-a4</usage>
+      <usage ms="Wor" code="01046000">[10r] lauds-a5</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Pet Bat"> Ego autem ad dominum aspiciam et exspectabo deum salvatorem meum</aBody>
+</ant>

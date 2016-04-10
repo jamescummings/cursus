@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6322" nextid="c6324" id="c6323">
+   <header>
+      <usage ms="Cdm" code="08012000">[82r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="08011000">[99r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="08012000">[102r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Congratulamini mihi omnes</rdg>
+         <rdg wit="Cdm"> Congratulamini mihi <add place="interlined" hand="later">omnes</add>
+         </rdg>
+      </app> qui diligitis dominum quia
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm"> quem quaerebam</rdg>
+         <rdg wit="CAO-B"> quem quaerebant</rdg>
+      </app> apparuit mihi et dum flerem ad monumentum vidi dominum meum alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> Tulerunt dominum meum et nescio ubi posuerunt eum si tu sustulisti eum
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R"> dicito mihi</rdg>
+            <rdg wit="CAO-V"> dicite mihi</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L Cdm"> Recedentibus discipulis non
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-L Cdm"> recedebam</rdg>
+            <rdg wit="CAO-S">
+               <corr sic="recedebant">recedebam</corr>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-F CAO-S CAO-L"> et amoris eius</rdg>
+            <rdg wit="CAO-D Cdm"> sed amoris eius</rdg>
+         </app> igne succensa
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-L Cdm"> ardebam</rdg>
+            <rdg wit="CAO-S"> ardeba<del status="unremarkable">n</del>t</rdg>
+         </app> desiderio</vBody>
+      <vBody type="r" wit="Hyd"> Invenerunt me vigiles qui custodiant civitatem paululum cum pertransissem eos inveni quem diligit anima mea</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cdm">Et dum</rep>
+   </verses>
+</res>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8526" nextid="c8528" id="c8527">
+   <header>
+      <usage ms="Evm" code="07055000">[139v] vesp2</usage>
+      <usage ms="Glo" code="07055000">[71v] vesp2-a1</usage>
+      <usage ms="Wcb" code="07055000">[110r] vesp2-a1</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. c1917</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Wcb Glo">Dixit autem dominus Simoni intravi domum tuam oleo caput meum non unxisti haec vero lacrimis
+     <app>
+         <rdg wit="Evm"> pedes meos rigavit</rdg>
+         <rdg wit="Wcb Glo"> rigavit pedes meos</rdg>
+      </app> et capillis suis tersit</aBody>
+</ant>

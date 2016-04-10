@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4224" nextid="c4226" id="c4225">
+   <header>
+      <usage ms="Pet" code="02122508">[19v] </usage>
+      <usage ms="Wcb" code="02122500">[57r] lauds-a5</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.152-153</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-B CAO-V CAO-H CAO-R CAO-L Wcb Pet"> Pastores loquebantur ad invicem
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R Wcb Pet"> transeamus Bethleem</rdg>
+         <rdg wit="CAO-V"> eamus Bethleem</rdg>
+         <rdg wit="CAO-L"> transeamus usque Bethleem</rdg>
+      </app> et videamus
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-L Wcb">hoc verbum</rdg>
+         <rdg wit="Pet"> de verbo quod factum est</rdg>
+      </app> quod dominus ostendit nobis alleluia</aBody>
+</ant>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2048" nextid="c2050" id="c2049">
+   <header>
+      <usage ms="Cht" code="07041000">[42v] nones</usage>
+      <usage ms="Ely" code="07041000">[78v] vesp2</usage>
+      <usage ms="Evm" code="07041000">[130r] vesp2</usage>
+      <usage ms="Glo" code="07041000">[68r] vesp2</usage>
+      <usage ms="Hyd" code="07041000">[83r] vesp2</usage>
+      <usage ms="Pet" code="07041000"/>
+      <usage ms="Wcb" code="07041000">[105v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-R CAO-D CAO-F CAO-S Ely Cht Hyd Pet Evm Wcb Glo"> Cum vidissent turbae signum quod fecerat Jesus dicebant vere hic est propheta
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-F Cht Hyd Evm Wcb Glo">qui venturus est in mundum</rdg>
+         <rdg wit="CAO-R CAO-D CAO-S Ely Pet">qui venit in mundum</rdg>
+      </app>
+   </aBody>
+</ant>

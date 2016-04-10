@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3323" nextid="c3325" id="c3324">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Inclytus martyr Tiburtius
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> cum nudatis plantis</rdg>
+         <rdg wit="CAO-V"> cum nudatis planctis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> super prunas ardentes incederet</rdg>
+         <rdg wit="CAO-B"> supra prunas ardentes incederet</rdg>
+         <rdg wit="CAO-V"> supra prunas ferventes incederet</rdg>
+         <rdg wit="CAO-C"> super prunas ferventes incederet</rdg>
+      </app> Fabiano praefecto dixit videtur mihi
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> quod super roseos flores incedam</rdg>
+         <rdg wit="CAO-V"> quos super roseos flores incedam</rdg>
+      </app> in nomine domini mei Jesu Christi</aBody>
+</ant>

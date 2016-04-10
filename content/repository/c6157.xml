@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6156" nextid="c6158" id="c6157">
+   <header>
+      <usage ms="Alb2" code="01011000">[2r] matins-n1-r4</usage>
+      <usage ms="Bat" code="01011000">[2r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="01011000">[9r] matins-n1-r4</usage>
+      <usage ms="Ely" code="01011000">[3r] matins-n1-r4</usage>
+      <usage ms="Evm" code="01011000">[5r] matins-n1-r4</usage>
+      <usage ms="Hyd" code="01011000">[2r] matins-n1-r4</usage>
+      <usage ms="Mch" code="01011000">[2r] matins-n1-r4</usage>
+      <usage ms="Wcb" code="01011000">[41v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Wcb Ely Bat"> Ave Maria gratia plena dominus tecum spiritus sanctus superveniet in te et virtus altissimi
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Mch Cdm Wcb Ely Bat"> obumbrabit</rdg>
+         <rdg wit="CAO-V CAO-S"> obumbravit</rdg>
+      </app> tibi quod enim ex te nascetur sanctum vocabitur filius dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Bat">
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Bat"> Quomodo fiet istud</rdg>
+            <rdg wit="CAO-V"> Quomodo in me fiet hoc</rdg>
+         </app> quoniam virum non cognosco
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely"> et respondens angelus dixit ei</rdg>
+            <rdg wit="CAO-V"> respondens angelus dixit ei</rdg>
+            <rdg wit="CAO-D"> et respondes angelus dixit ei</rdg>
+            <rdg wit="Bat" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-H CAO-R"> Tollite portas principes vestras et elevamini portae aeternales et introibit</vBody>
+      <vBody type="r" wit="CAO-V"> Tollite</vBody>
+      <vBody type="r" wit="CAO-B CAO-M"> Tollite portas</vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Bat">Spiritus</rep>
+      <rep type="r" wit="CAO-B CAO-M CAO-H CAO-R">Filius</rep>
+      <dox type="r" wit="Ely">Gloria</dox>
+      <rep type="r" wit="Ely">Quod</rep>
+   </verses>
+</res>

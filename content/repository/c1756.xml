@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1755" nextid="c1757" id="c1756">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V">
+      <name reg="Candida" type="person">Candida</name> dixit ad <name reg="Arthemius" type="person">Arthemium</name> si factum fuerit quod mihi asseris quis dubitet
+     <app>
+         <rdg wit="CAO-C CAO-V"> verum deum esse Christum</rdg>
+         <rdg wit="CAO-M"> verum esse deum Christum</rdg>
+         <rdg wit="CAO-E"> verum esse Jesum Christum</rdg>
+      </app>
+   </aBody>
+</ant>

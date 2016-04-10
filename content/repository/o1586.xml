@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1585" nextid="o1587" id="o1586">
+   <header>
+      <usage ms="Alb2" code="07064000">[107r] lauds</usage>
+      <usage ms="Cdm" code="07064000">[77r] lauds</usage>
+      <usage ms="Cht" code="07064000">[59v] lauds</usage>
+      <usage ms="Evm" code="07051000">[137r] vesp2</usage>
+      <usage ms="Evm" code="07064000">[147r] lauds</usage>
+      <usage ms="Hyd" code="07064000">[93r] lauds</usage>
+      <usage ms="Wcb" code="07058000">[109v] </usage>
+      <usage ms="Wcb" code="07064000">[114v] lauds</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.323</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Hyd Evm Wcb Alb2 Cdm">Praesta quaesumus omnipotens deus ut qui nostris excessibus incessanter affligimur per unigeniti tui passionem liberemur</pBody>
+</prayer>

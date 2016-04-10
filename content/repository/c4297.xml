@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4296" nextid="c4298" id="c4297">
+   <header>
+      <usage ms="Alb2" code="06011000">[64v] vesp1 gosp</usage>
+      <usage ms="Bat" code="06011000">[41v] vesp1 gosp</usage>
+      <usage ms="Cdm" code="06011000">[48v] vesp1 gosp</usage>
+      <usage ms="Ely" code="06011000">[59v] vesp1</usage>
+      <usage ms="Evm" code="06011000">[91r] vesp1</usage>
+      <usage ms="Hyd" code="06011000">[60v] vesp1 gosp</usage>
+      <usage ms="Pet" code="06011000">[54v] vesp1</usage>
+      <usage ms="Wor" code="06018000">[37v] </usage>
+   </header>
+   <aBody wit="CAO-B Hyd Alb2 Wor Pet Ely Evm Cdm Bat"> Plantaverat autem dominus deus paradisum voluptatis a principio in quo posuit hominem quem formaverat</aBody>
+</ant>

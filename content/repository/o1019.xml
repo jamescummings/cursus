@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1018" nextid="o1020" id="o1019">
+   <header>
+      <usage ms="Bat" code="06031000">[45r] vesp1</usage>
+      <usage ms="Cdm" code="06031000">[53r] vesp1</usage>
+      <usage ms="Ely" code="06031000">[62v] vesp1</usage>
+      <usage ms="Evm" code="06031000">[98v] vesp1</usage>
+      <usage ms="Mch" code="06031000">[106r] vesp1</usage>
+   </header>
+   <pBody wit="Ely Evm Cdm Mch Bat"> Preces nostras quaesumus domine clementer exaudi atque a peccatorum vinculis absolutos ab omni nos adversitate custodi</pBody>
+</prayer>

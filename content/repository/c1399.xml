@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1398" nextid="c1400" id="c1399">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> Angeli domini dominum benedicite
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> in aeternum</rdg>
+         <rdg wit="CAO-M CAO-L"> in aeternum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

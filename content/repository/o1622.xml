@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1621" nextid="o1623" id="o1622">
+   <header>
+      <usage ms="Cdm" code="07041000">[68v] none</usage>
+      <usage ms="Mch" code="07041000">[140r] nones</usage>
+      <usage ms="Wcb" code="07041000">[105v] sext</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.259</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb Cdm Mch">Deus qui in deserti regione multitudinem populi tua virtute satiasti in huius quoque saeculi transeuntis excursu victum nobis spiritualem ne deficiamus impende</pBody>
+</prayer>

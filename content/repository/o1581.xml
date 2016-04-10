@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1580" nextid="o1582" id="o1581">
+   <header>
+      <usage ms="Alb2" code="07016000"/>
+      <usage ms="Cht" code="07016000"/>
+      <usage ms="Evm" code="07016000"/>
+      <usage ms="Wcb" code="07016000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.191</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cht Evm Wcb Alb2">Exaudi nos misericors deus et mentibus nostris gratiae tuae lumen ostende</pBody>
+</prayer>

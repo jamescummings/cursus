@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6065" nextid="c6067" id="c6066">
+   <header>
+      <usage ms="Alb2" code="01011000">[2v] matins-n2-r6</usage>
+      <usage ms="Bat" code="01011000">[2r] matins-n2-r8</usage>
+      <usage ms="Cdm" code="01011000">[9v] matins-n2-r8</usage>
+      <usage ms="Ely" code="01021000">[7r] matins-n1-r2</usage>
+      <usage ms="Evm" code="01021000">[14r] matins-n3-r9</usage>
+      <usage ms="Hyd" code="01021000">[7r] matins-n1-r2</usage>
+      <usage ms="Mch" code="01011000">[3v] matins-n3-r10</usage>
+      <usage ms="Wcb" code="01021000">[44v] matins-n3-r9</usage>
+      <usage ms="Wor" code="01021000">[5r] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb"> Alieni non transibunt per Jerusalem amplius nam in illa die stillabunt montes dulcedinem et colles fluent lac et mel dicit dominus</rBody>
+   <rBody wit="Bat"> Alieni non transibunt per Jerusalem amplius nam in illa die stillabunt montes<gap desc="remainder of respond text" reason="fire damage to leaf" resp="DC"/>mel dicit dominus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-R CAO-D CAO-F Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">
+         <app>
+            <rdg wit="CAO-R CAO-F Alb2 Evm Mch Cdm Wor Wcb"> Ego veniam dicit dominus</rdg>
+            <rdg wit="CAO-D Hyd Ely Bat"> Ecce ego veniam dicit dominus</rdg>
+            <rdg wit="CAO-V"> Ego veniam ad te dicit dominus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-V CAO-R CAO-D CAO-F Alb2 Evm Mch Ely Wcb Bat"> et sanabo contritionem populi mei</rdg>
+            <rdg wit="Cdm Wor"> et sanabo contritiones populi mei</rdg>
+            <rdg wit="Hyd"> et salvabo contritiones populi mei</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E"> Ego veniam dicit dominus et dissolvam iugum captivitatis vestrae</vBody>
+      <vBody type="r" wit="CAO-M"> In illa die salvabitur Juda et Israel habitabit confidenter</vBody>
+      <vBody type="r" wit="CAO-S"> Tunc exsultabunt omnia ligna silvarum ante faciem domini quoniam venit</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-M CAO-D CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat">Nam in illa</rep>
+      <rep type="r" wit="CAO-F">
+         <corr sic="Nam in illa">Et colles</corr>
+      </rep>
+      <rep type="r" wit="CAO-R">Et colles</rep>
+   </verses>
+</res>

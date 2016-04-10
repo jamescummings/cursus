@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1714" nextid="o1716" id="o1715">
+   <header>
+      <usage ms="Cdm" code="07021000">[62r] none</usage>
+      <usage ms="Mch" code="07021000">[124v] none</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.78*: Fulda 444</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm Mch"> Familiam tuam quaesumus domine propitiatus illustra ut beneplacitis in haerendo cunctaque bona sunt mereatur accipere</pBody>
+</prayer>

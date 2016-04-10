@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7020" nextid="c7022" id="c7021">
+   <header>
+      <usage ms="Alb2" code="02122800">[38v] matins-n2-r8</usage>
+      <usage ms="Bat" code="02122800">[23r] matins-n2-r7</usage>
+      <usage ms="Cdm" code="02122800">[28v] matins-n2-r6</usage>
+      <usage ms="Evm" code="02122800">[47v] matins-n2-r5</usage>
+      <usage ms="Hyd" code="02122800">[26v] matins-n2-r7</usage>
+      <usage ms="Pet" code="02122800">[30r] matins-n2-r7</usage>
+      <usage ms="Wcb" code="02122800">[63v] matins-n2-r5</usage>
+      <usage ms="Wor" code="02122800">[22v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm Wor Pet"> Isti sunt sancti qui non inquinaverunt</rdg>
+         <rdg wit="Hyd"> Isti sunt qui non inquinaverunt</rdg>
+      </app> vestimenta sua ambulabunt mecum in albis quia digni sunt</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet">
+         <app>
+            <rdg wit="CAO-R CAO-F CAO-L Hyd Alb2 Bat Cdm Wor Pet"> Hii sunt</rdg>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-D CAO-S">Hi sunt</rdg>
+            <rdg wit="CAO-V"> Ii sunt</rdg>
+         </app> qui cum mulieribus non sunt coinquinati virgines enim
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Bat Cdm Wor Pet"> sunt</rdg>
+            <rdg wit="CAO-E Alb2"> permanserunt</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-V"> et sequuntur agnum quodcumque ierit</rdg>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Wor Pet" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="Evm Wcb"> Sub throno dei omnes sancti clamant vindica sanguinem nostrum deus noster</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Bat Cdm Wor Pet">Ambulabunt</rep>
+      <rep type="r" wit="CAO-L Evm Wcb"> Quia</rep>
+   </verses>
+</res>

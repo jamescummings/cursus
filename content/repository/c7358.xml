@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7357" nextid="c7359" id="c7358">
+   <header>
+      <usage ms="Alb2" code="02122600">[32r] matins-n2-r8</usage>
+      <usage ms="Bat" code="02122600">[20r] matins-n3-r12</usage>
+      <usage ms="Cdm" code="02122600">[26r] vesp2</usage>
+      <usage ms="Evm" code="02122600">[41r] matins-n3-r12</usage>
+      <usage ms="Pet" code="02122600">[23v] matins-n3-r12</usage>
+      <usage ms="Wcb" code="02122600">[59v] matins-n3-r12</usage>
+      <usage ms="Wor" code="02122600">[18r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Wor Pet"> Patefactae sunt ianuae caeli Christi
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2 Evm Wcb Bat Wor Pet"> martyri</rdg>
+         <rdg wit="CAO-C CAO-L"> martyris</rdg>
+      </app> beato Stephano qui in numero
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Evm Wcb Bat Wor"> sanctorum</rdg>
+         <rdg wit="CAO-L Alb2 Pet"> martyrum</rdg>
+      </app> inventus est primus et ideo triumphat
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Evm Wcb Bat Wor Pet"> in caelis coronatus</rdg>
+         <rdg wit="Alb2"> in caelis</rdg>
+      </app>
+   </rBody>
+   <rBody wit="Cdm" num="2">
+      <gap reason="erasure of opening words of respond" resp="DC" extent="five or six words"/>martyri beato Stephano qui in numero martyrum inventus est primus ideo triumphat in caelis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> Impii super iustum iacturam fecerunt at ille gaudens suscepit lapidem</vBody>
+      <vBody type="r" wit="CAO-E CAO-M CAO-F CAO-S CAO-L Alb2 Evm Wcb Bat Cdm">
+         <app>
+            <rdg wit="CAO-F Alb2 Bat Evm Cdm"> Mortem enim quam salvator</rdg>
+            <rdg wit="CAO-L Wcb"> Morte enim quem salvator noster</rdg>
+            <rdg wit="CAO-M"> Morte enim qua salvator</rdg>
+            <rdg wit="CAO-E"> Morte quam salvator</rdg>
+            <rdg wit="CAO-S"> Morte quem salvator</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M CAO-F CAO-S CAO-L Alb2 Bat Evm Wcb Cdm"> dignatus est pro omnibus pati</rdg>
+            <rdg wit="CAO-E"> pro omnibus pati dignatus est</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-S Alb2 Wcb Cdm"> hanc ille primus reddidit salvatori</rdg>
+            <rdg wit="Evm"> hanc ille reddidit primus salvatori</rdg>
+            <rdg wit="Bat"> hanc iste primus reddidit salvatori</rdg>
+            <rdg wit="CAO-E"> hanc Stephanus primum reddit salvatori</rdg>
+            <rdg wit="CAO-F"> ille primus reddidit salvatori</rdg>
+            <rdg wit="CAO-L"> at ille primus reddidit salvatoris</rdg>
+            <rdg wit="CAO-M"> hanc ille <corr sic="primum">primus</corr> reddidit salvatori</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D Wor Pet"> Positis autem genibus clamavit voce magna dicens domine ne statuas illis hoc peccatum</vBody>
+      <vBody type="r" wit="CAO-C CAO-B CAO-H"> Vidit beatus Stephanus caelos apertos vidit et introivit</vBody>
+      <vBody type="r" wit="CAO-M CAO-R"> Vidit beatus Stephanus</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Bat Evm Wcb Wor">Et ideo</rep>
+      <rep type="r" wit="Cdm"> Qui in numero</rep>
+      <dox type="r" wit="Evm Pet">Gloria</dox>
+      <rep type="r" wit="Pet" num="2"> Natus</rep>
+   </verses>
+</res>

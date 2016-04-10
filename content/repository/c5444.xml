@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5443" nextid="c5444b" id="c5444">
+   <aBody wit="CAO-R">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Virginum tria millia</l>
+         <l part="N"> Romae pavit sub regula</l>
+         <l part="N"> exceptis dei famulis</l>
+         <l part="N"> longe vel prope positis</l>
+      </lg>
+   </aBody>
+</ant>

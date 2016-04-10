@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9516" nextid="c9518" id="c9517">
+   <header>
+      <usage ms="Hyd" code="02010600"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">For respond cf. verse of c7777; for verse, cf. respond c6821</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Hyd"> Salutis nostrae auctorem magi venerati sunt in cunabulis et de thesauris suis mysticas ei munerum species obtulerunt</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd">Hodie salvator mundi apparuit cuius stellam magi videntes gavisi sunt gaudio magno</vBody>
+      <rep type="r" wit="Hyd">Et de thesauris</rep>
+   </verses>
+</res>

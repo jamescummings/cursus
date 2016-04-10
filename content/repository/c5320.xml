@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5319" nextid="c5321" id="c5320">
+   <header>
+      <usage ms="Alb2" code="01036000">[16v] lauds-a3</usage>
+      <usage ms="Bat" code="01036000">[11r] lauds-a3</usage>
+      <usage ms="Cdm" code="01036000">[17r] lauds-a3</usage>
+      <usage ms="Ely" code="01037000">[13r] lauds-a1</usage>
+      <usage ms="Evm" code="01046000">[25v] lauds-a3</usage>
+      <usage ms="Hyd" code="01045000">[15v] lauds-a3</usage>
+      <usage ms="Mch" code="01036000">[15r] lauds-a3</usage>
+      <usage ms="Wor" code="01046000">[10r] lauds-a3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Bat"> Veni domine et noli tardare
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Mch Ely Wor Bat"> relaxa facinora plebis tuae Israel</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-S Hyd Evm"> relaxa facinora plebi tuae Israel</rdg>
+      </app>
+   </aBody>
+</ant>

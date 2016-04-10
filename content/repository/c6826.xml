@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6825" nextid="c6826b" id="c6826">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Hic est Michael archangelus princeps militiae
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F"> angelorum</rdg>
+         <rdg wit="CAO-B"> caelestis exercitus</rdg>
+      </app> cuius honor praestat beneficia
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> populorum</rdg>
+         <rdg wit="CAO-D"> populis</rdg>
+      </app> et oratio
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> perducit</rdg>
+         <rdg wit="CAO-M"> perducat</rdg>
+      </app> ad regna caelorum</rBody>
+   <verses>
+      <vBody id="c6826-1" type="r" wit="CAO-C"> In conspectu angelorum psallam tibi adorabo ad templum sanctum tuum et confitebor nomini tuo</vBody>
+      <rep corresp="c6826-1" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody id="c6826-2" type="r" num="2" wit="CAO-C"> Angeli archangeli throni et dominationes principatus et potestates virtutes caelorum</vBody>
+      <rep corresp="c6826-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio given for this verse in CAO-C</note>
+      </rep>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> Angeli archangeli throni et dominationes principatus et potestates virtutes caelorum</vBody>
+      <vBody type="r" wit="CAO-M CAO-V"> Michael praepositus paradisi quem honorificant angelorum cives</vBody>
+      <vBody type="r" wit="CAO-D"> Archangele Christi per gratiam quam meruisti deprecamur ut eripias nos a laqueo mortis</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-D"> Cuius</rep>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-L CAO-V"> Et oratio</rep>
+   </verses>
+</res>

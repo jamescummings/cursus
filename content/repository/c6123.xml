@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6122" nextid="c6124" id="c6123">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n3-r9</usage>
+   </header>
+   <rBody wit="CAO-C CAO-E CAO-D CAO-F CAO-S CAO-L Hyd"> Ascendit deus
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S Hyd"> in iubilatione alleluia</rdg>
+         <rdg wit="CAO-L"> in iubilatione</rdg>
+      </app> et dominus in voce tubae
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S"> alleluia alleluia</rdg>
+         <rdg wit="CAO-L Hyd"> alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-D CAO-F CAO-S CAO-L Hyd">
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S Hyd"> Ascendens Christus in altum</rdg>
+            <rdg wit="CAO-L"> Ascendens in altum dominus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-E CAO-D CAO-F CAO-S CAO-L"> captivam duxit captivitatem</rdg>
+            <rdg wit="Hyd"> captivam duxit captivitatem dedit dona hominibus</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-F CAO-L">Et dominus</rep>
+      <rep type="r" wit="CAO-D CAO-S Hyd"> Alleluia</rep>
+      <rep type="r" wit="CAO-C"> In voce</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5452" nextid="c5454" id="c5453">
+   <aBody wit="CAO-E CAO-M CAO-V">
+      <app>
+         <rdg wit="CAO-E CAO-V"> Virgo Maria non est tibi similis</rdg>
+         <rdg wit="CAO-M"> Virgo Maria non est tui similis</rdg>
+      </app> nata in mundo in mulieribus flores ut rosa
+     <app>
+         <rdg wit="CAO-E CAO-M"> odor sicut lilium</rdg>
+         <rdg wit="CAO-V"> olens sicut lilium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M"> ora pro nobis ad tuum filium</rdg>
+         <rdg wit="CAO-V"> ora pro nobis apud tuum filium</rdg>
+      </app>
+   </aBody>
+</ant>

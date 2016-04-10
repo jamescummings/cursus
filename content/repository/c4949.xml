@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4948" nextid="c4950" id="c4949">
+   <aBody wit="CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Silvester beatissimus</l>
+         <l part="N"> urbis Romae episcopus</l>
+         <l part="N"> nutritor fuit pauperum</l>
+         <l part="N"> et doctor evangelicum</l>
+      </lg>
+   </aBody>
+</ant>

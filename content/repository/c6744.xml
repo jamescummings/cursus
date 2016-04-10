@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6743" nextid="c6745" id="c6744">
+   <header>
+      <usage ms="Alb2" code="07011000">[77r] matins-n3-r10</usage>
+      <usage ms="Mch" code="07011000">[115r] matins-n3-r10</usage>
+   </header>
+   <rBody wit="CAO-E CAO-V CAO-R CAO-F Alb2 Mch"> Frange esurienti panem tuum et egenos vagosque induc in domum tuam
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-F Alb2 Mch"> tunc erumpet quasi mane</rdg>
+         <rdg wit="CAO-V"> tunc erumpe quasi mane</rdg>
+      </app> lumen tuum et anteibit faciem tuam
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-F Alb2 Mch"> iustitia tua</rdg>
+         <rdg wit="CAO-V"> iustitiam tuam</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-R CAO-F Alb2 Mch"> Cum videris nudum operi eum et carnem tuam
+       <app>
+            <rdg wit="CAO-R CAO-F Alb2 Mch"> ne despexeris</rdg>
+            <rdg wit="CAO-E CAO-V"> ne dispexeris</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-R CAO-F Alb2 Mch"> Tunc</rep>
+   </verses>
+</res>

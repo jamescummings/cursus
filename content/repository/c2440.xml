@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2439" nextid="c2441" id="c2440">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> Dum committeret bellum draco</rdg>
+         <rdg wit="CAO-C"> Cum committeret bellum draco</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> cum Michael archangelo</rdg>
+         <rdg wit="CAO-D CAO-F"> cum Michaele archangelo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-L"> audita est</rdg>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-R"> et audita est</rdg>
+         <rdg wit="CAO-H"> exaudita est</rdg>
+      </app> vox millia millium dicentium
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> salus deo nostro</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L"> salus deo nostro alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

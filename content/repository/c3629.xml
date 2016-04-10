@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3628" nextid="c3630" id="c3629">
+   <aBody wit="CAO-R">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Lineam sui generis</l>
+         <l part="N"> factis et dictis extulit</l>
+         <l part="N"> bibens in pueritia</l>
+         <l part="N"> quod ructuavit postea</l>
+      </lg>
+   </aBody>
+</ant>

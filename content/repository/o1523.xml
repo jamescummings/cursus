@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1522" nextid="o1524" id="o1523">
+   <header>
+      <usage ms="Alb2" code="07022000"/>
+      <usage ms="Bat" code="07022000">[53r] vesp2</usage>
+      <usage ms="Cdm" code="07022000">[62r] vesp2</usage>
+      <usage ms="Cdm" code="07054000">[72v] vesp2</usage>
+      <usage ms="Cht" code="07022000"/>
+      <usage ms="Ely" code="07022000"/>
+      <usage ms="Evm" code="07022000"/>
+      <usage ms="Evm" code="07054000">[139r] vesp2</usage>
+      <usage ms="Hyd" code="07022000"/>
+      <usage ms="Mch" code="07022000">[125r] vesp2</usage>
+      <usage ms="Mch" code="07054000">[150r] vesp2</usage>
+      <usage ms="Wcb" code="07022000"/>
+      <usage ms="Wcb" code="07054000">[110r] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.208</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Evm Wcb Alb2 Cdm Mch Bat">Adesto supplicationibus nostris omnipotens deus et quibus fiduciam sperandae pietatis indulges consuetae misericordiae tribue benignus effectum</pBody>
+</prayer>

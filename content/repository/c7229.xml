@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7228" nextid="c7230" id="c7229">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-S"> Non me derelinquere</rdg>
+         <rdg wit="CAO-H"> Non me derelinque</rdg>
+         <rdg wit="CAO-B CAO-R CAO-F CAO-L"> Noli me derelinquere</rdg>
+         <rdg wit="CAO-D"> Nonne derelinquere</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> pater sancte</rdg>
+         <rdg wit="CAO-C"> pater sanctae</rdg>
+      </app> quia thesauros tuos iam
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> expendi</rdg>
+         <rdg wit="CAO-F"> expandi</rdg>
+         <rdg wit="CAO-C"> expedi</rdg>
+      </app> non ego te desero fili neque derelinquo sed maiora tibi debentur pro fide Christi certamina</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> Nos quasi senes</rdg>
+            <rdg wit="CAO-C"> Nos enim quasi senes</rdg>
+            <rdg wit="CAO-V"> Nos enim quasi senex</rdg>
+            <rdg wit="CAO-L"> Nos quasi senex</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> levioris</rdg>
+            <rdg wit="CAO-C"> leviores</rdg>
+            <rdg wit="CAO-M">
+               <corr sic="leviores">levioris</corr>
+            </rdg>
+         </app> pugnae
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S"> cursum recipimus</rdg>
+            <rdg wit="CAO-M"> cursus recepimus</rdg>
+            <rdg wit="CAO-L"> cursum recepimus</rdg>
+            <rdg wit="CAO-D"> cursum suscipimus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R"> te quasi iuvenem magnum</rdg>
+            <rdg wit="CAO-F"> tibi autem quasi iuveni manet</rdg>
+            <rdg wit="CAO-L"> tibi autem quasi iuvenis manet</rdg>
+            <rdg wit="CAO-C CAO-H"> te quasi iuvenem</rdg>
+            <rdg wit="CAO-D CAO-S"> te quasi iuvenem manet</rdg>
+         </app> gloriosior de tyranno
+       <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R"> triumphus exspectat</rdg>
+            <rdg wit="CAO-D CAO-F CAO-S"> triumphus</rdg>
+            <rdg wit="CAO-L"> triumphos</rdg>
+         </app> post triduum
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> me sequeris</rdg>
+            <rdg wit="CAO-C CAO-M CAO-H"> sequeris</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-B CAO-V CAO-R CAO-D CAO-F"> sacerdotem levita</rdg>
+            <rdg wit="CAO-M"> sacerdotem me levita</rdg>
+            <rdg wit="CAO-S"> sacerdotem</rdg>
+            <rdg wit="CAO-C CAO-E CAO-L"> sacerdotem levitam</rdg>
+            <rdg wit="CAO-H"> sacerdote<add>m</add> et levita<add>m</add>
+            </rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S">Non ego</rep>
+      <rep type="r" wit="CAO-C CAO-V CAO-F CAO-L">Sed maiora</rep>
+   </verses>
+</res>

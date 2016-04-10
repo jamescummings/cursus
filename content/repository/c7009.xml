@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7008b" nextid="c7010" id="c7009">
+   <rBody wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> Iste sanctus digne
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-F"> in memoriam</rdg>
+         <rdg wit="CAO-S"> in memoria</rdg>
+      </app> vertitur hominum
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F"> qui ad gaudium</rdg>
+         <rdg wit="CAO-S"> quia gaudium</rdg>
+         <rdg wit="CAO-E"> qui<add>a</add> in gaudium</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-F CAO-S"> transiit</rdg>
+         <rdg wit="CAO-E CAO-D"> transit</rdg>
+      </app> angelorum
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S"> quoniam</rdg>
+         <rdg wit="CAO-H CAO-R"> quia</rdg>
+      </app> in hac peregrinatione solo corpore constitutus
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F CAO-S"> cogitatione et aviditate</rdg>
+         <rdg wit="CAO-E"> cogitationes et aviditates</rdg>
+      </app> in illa aeterna
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-F"> patria</rdg>
+         <rdg wit="CAO-S"> patriam</rdg>
+      </app> conversatus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S">Vinculis carnis absolutus talentum sibi creditum
+       <app>
+            <rdg wit="CAO-E CAO-F"> domino suo duplicatum</rdg>
+            <rdg wit="CAO-H CAO-R"> suo domino duplicatum</rdg>
+            <rdg wit="CAO-D"> domino Deo duplicatum</rdg>
+            <rdg wit="CAO-S"> domino suo <sic resp="Hesbert">con lucro</sic>
+            </rdg>
+         </app> reportavit</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-S">In illa</rep>
+      <rep type="r" wit="CAO-H CAO-R"> Quia</rep>
+   </verses>
+</res>

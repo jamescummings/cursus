@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4983" nextid="c4985" id="c4984">
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Soror mea Lucia virgo deo devota
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> quid a me petis</rdg>
+         <rdg wit="CAO-C CAO-G CAO-V CAO-D CAO-S CAO-L"> quid ad me petis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> quod ipsa poteris praestare continuo</rdg>
+         <rdg wit="CAO-V"> quod ipsa poterit praestare continuo</rdg>
+      </app> matri tuae</aBody>
+</ant>

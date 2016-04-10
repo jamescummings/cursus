@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6846b" nextid="c6848" id="c6847">
+   <rBody wit="CAO-E CAO-M CAO-V CAO-F CAO-S"> Hodie dilectissimi omnium sanctorum sub una solemnitate celebremus festivitatem quos terra editos
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-S"> pretiosus Christi sanguis</rdg>
+         <rdg wit="CAO-F"> gloriosus Christi sanguis</rdg>
+      </app> gratuita pietate ad caelestia
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F"> evocavit</rdg>
+         <rdg wit="CAO-S"> revocaret</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-V CAO-F CAO-S"> quorum</rdg>
+         <rdg wit="CAO-E"> de quorum</rdg>
+      </app> societate caelum
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-S"> exsultat</rdg>
+         <rdg wit="CAO-V CAO-F"> exsultet</rdg>
+      </app> quorum patrociniis terra
+      <app>
+         <rdg wit="CAO-M CAO-F CAO-S"> laetatur</rdg>
+         <rdg wit="CAO-E CAO-V"> laetantur</rdg>
+      </app> quorum triumphis ecclesia sancta coronatur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-E CAO-M CAO-F"> Tantorum patrociniis</rdg>
+            <rdg wit="CAO-V CAO-S"> Tantorum patrocinia</rdg>
+         </app> intercessorum tota mentis intentione quaeramus
+       <app>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-F"> ut eorum meritis</rdg>
+            <rdg wit="CAO-S"> ut cum eis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M CAO-V CAO-F CAO-S"> ad aeterna</rdg>
+            <rdg wit="CAO-E"> ad aeternam</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-F"> pervenire solemnia</rdg>
+            <rdg wit="CAO-M"> solemnia pervenire</rdg>
+            <rdg wit="CAO-S"> gaudia pervenire</rdg>
+            <rdg wit="CAO-V"> as aeternam vitam pervenire</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-F"> valeamus</rdg>
+            <rdg wit="CAO-S"> mereamur</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-M CAO-V CAO-F CAO-S"> Quorum societate</rep>
+      <rep type="r" wit="CAO-E"> De quorum societate</rep>
+   </verses>
+</res>

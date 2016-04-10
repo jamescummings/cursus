@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4834" nextid="c4836" id="c4835">
+   <header>
+      <usage ms="Alb2" code="07061000">[105v] vesp2</usage>
+      <usage ms="Cht" code="07061000">[56r] vesp2</usage>
+      <usage ms="Evm" code="07061000">[144r] vesp2</usage>
+      <usage ms="Glo" code="07061000">[77r] vesp2</usage>
+      <usage ms="Wcb" code="07061000">[113r] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-L Cht Evm Wcb Glo Alb2"> Scriptum est enim percutiam pastorem et dispergentur oves gregis
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-L"> postquam autem surrexero</rdg>
+         <rdg wit="CAO-V Alb2"> postquam autem resurrexero</rdg>
+         <rdg wit="Cht Evm Wcb Glo"> postquam autem resurrectio</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R Cht Evm Wcb Glo Alb2"> praecedam vos in Galilaeam</rdg>
+         <rdg wit="CAO-L"> praecedam vos in Galilaea</rdg>
+      </app> ibi me videbitis dicit dominus</aBody>
+</ant>

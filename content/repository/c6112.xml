@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6111" nextid="c6113" id="c6112">
+   <header>
+      <usage ms="Evm" code="06031000">[100r] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-L Evm"> Apparuerunt tres viri Abrahae ad ilicem Mambre
+     <app>
+         <rdg wit="CAO-C Evm"> et dixit ad eos</rdg>
+         <rdg wit="CAO-L"> et dixit ad eum</rdg>
+      </app> domine si inveni gratiam in oculis tuis transite et requiescite in loco isto</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-L Evm">
+         <app>
+            <rdg wit="Evm"> Afferam pauxillum aquae</rdg>
+            <rdg wit="CAO-L"> Afferam vobis pusillum aquae</rdg>
+            <rdg wit="CAO-C"> Auferam pausillum aquae</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C Evm"> et laventur pedes vestri</rdg>
+            <rdg wit="CAO-L"> et lavate pedes vestros</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-L">Domine</rep>
+      <rep type="r" wit="CAO-C Evm">Et requiescite</rep>
+   </verses>
+</res>

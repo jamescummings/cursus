@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3223" nextid="c3225" id="c3224">
+   <header>
+      <usage ms="Glo" code="07011000">[58v] mandatum</usage>
+   </header>
+   <aBody wit="CAO-C CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> In diebus illis mulier quae erat in civitate peccatrix ut cognovit
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-F"> quod Jesus accubuit in domo Simonis leprosi</rdg>
+         <rdg wit="CAO-L"> quod Jesus recubuit in domo Simonis leprosi</rdg>
+         <rdg wit="CAO-H CAO-R"> quod Jesus recubuissett in domo Simonis leprosi</rdg>
+         <rdg wit="CAO-S"> quod Jesus accubuisset in domo Simonis leprosi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> attulit alabastrum unguenti</rdg>
+         <rdg wit="CAO-C"> attulit alabastrum ungenti</rdg>
+      </app> et stans retro secus pedes domini Jesu lacrimis coepit rigare pedes eius
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-F CAO-S"> et capillis capitis sui tergebat</rdg>
+         <rdg wit="CAO-L"> et capilli capitis sui tergebat</rdg>
+      </app> et osculabatur pedes eius
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-F CAO-S CAO-L"> et unguento ungebat</rdg>
+         <rdg wit="CAO-H CAO-R"> et unguento unguebat</rdg>
+      </app>
+   </aBody>
+   <aBody wit="CAO-C" num="2"> In diebus illis mulier qui erat in civitate peccatrix ut cognovit quod Jesus occubuit in domo Simonis leprosi attulit alabastrum ungento et stans retro secus pedes domini Jesu lacrimis coepit rigare pedes eius et capillis capiti sui tergebat et osculabatur pedes eius et unguento ungebat</aBody>
+   <aBody wit="Glo" type="incipit">In diebus illis</aBody>
+</ant>

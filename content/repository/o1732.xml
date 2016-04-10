@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1731" nextid="o1733" id="o1732">
+   <header>
+      <usage ms="Alb2" code="01011000">[1v] vesp1</usage>
+      <usage ms="Cdm" code="01011000">[9r] vesp1</usage>
+      <usage ms="Ely" code="01011000">[2r] vesp1</usage>
+      <usage ms="Evm" code="01011000">[4r] vesp1</usage>
+      <usage ms="Hyd" code="01011000">[1r] vesp1</usage>
+      <usage ms="Mch" code="01011000">[1r] vesp1</usage>
+      <usage ms="Wcb" code="01011000">[41r] vesp1</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.778</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2 Evm Mch Cdm Wcb Ely">
+      <app>
+         <rdg wit="Hyd Alb2 Ely Cdm Mch"> Excita quaesumus domine potentiam tuam</rdg>
+         <rdg wit="Evm Wcb"> Excita domine potentiam tuam</rdg>
+      </app> et veni ut ab imminentibus peccatorum nostrorum periculis te mereamur protegante eripi te liberante salvari</pBody>
+</prayer>

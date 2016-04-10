@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1293" nextid="c1294b" id="c1294">
+   <header>
+      <usage ms="Alb2" code="07012000"/>
+      <usage ms="Bat" code="07014000">[50r] terce</usage>
+      <usage ms="Cdm" code="07012000">[58v] terce</usage>
+      <usage ms="Ely" code="07012000"/>
+      <usage ms="Evm" code="07012000"/>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Mch" code="07012000">[118v] terce</usage>
+      <usage ms="Pet" code="07012000"/>
+      <usage ms="Wor" code="07012000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S CAO-L Hyd Ely Wor Pet Evm Alb2 Cdm Mch Bat"> Advenerunt nobis dies paenitentiae
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-S Hyd Ely Wor Pet Evm Alb2 Cdm Mch Bat"> ad redimenda peccata</rdg>
+         <rdg wit="CAO-L"> ad redimendum peccata</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-L Hyd Ely"> ad salvandas animas</rdg>
+         <rdg wit="CAO-G CAO-S Wor Pet Evm Alb2 Cdm Mch Bat"> et salvandas animas</rdg>
+         <rdg wit="CAO-C"> sed salvandas animas</rdg>
+      </app>
+   </aBody>
+</ant>

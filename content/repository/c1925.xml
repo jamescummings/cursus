@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1924" nextid="c1926" id="c1925">
+   <aBody wit="CAO-D CAO-F CAO-S"> Convocatis Jesus duodecim apostolis misit illos praedicare regnum dei egressi autem evangelizabant
+     <app>
+         <rdg wit="CAO-D CAO-F"> et curabant ubique</rdg>
+         <rdg wit="CAO-S"> et curabant ubique alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

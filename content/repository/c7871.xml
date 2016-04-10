@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7870" nextid="c7872" id="c7871">
+   <rBody wit="CAO-E CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-F"> Vidi civitatem sanctam Jerusalem novam</rdg>
+         <rdg wit="CAO-S"> Vidi civitatem magnam Jerusalem novam</rdg>
+         <rdg wit="CAO-L"> Vidi civitatem sanctam Jerusalem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R CAO-S"> descendentem de caelo a deo paratam</rdg>
+         <rdg wit="CAO-E CAO-F"> a deo paratam</rdg>
+         <rdg wit="CAO-L"> descendentem de caelo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-L"> et audivi vocem</rdg>
+         <rdg wit="CAO-R CAO-S"> et audivi vocem magnam</rdg>
+      </app> de throno dicentem
+     <app>
+         <rdg wit="CAO-E CAO-F CAO-L"> ecce tabernaculum dei cum hominibus</rdg>
+         <rdg wit="CAO-R CAO-S"> ecce tabernaculum dei est cum hominibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-R"> et habitabit cum eis</rdg>
+         <rdg wit="CAO-F"> et habitabit cum illis</rdg>
+         <rdg wit="CAO-E CAO-S"> et habitavit cum eis</rdg>
+         <rdg wit="CAO-L"> et habitabit cum eis deus in perpetuum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-S"> Et ait qui sedebat in throno
+      <app>
+            <rdg wit="CAO-R"> ecce nova facio omnia</rdg>
+            <rdg wit="CAO-S"> ecce omnia facio nova</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-E CAO-L"> Vidi caelum novum et terram novam et civitatem sanctam Jerusalem descendentem de caelo</vBody>
+      <vBody type="r" num="2" wit="CAO-L"> Vidi caelum novum et terram novam et civitatem Jerusalem descendentem de caelo</vBody>
+      <vBody type="r" wit="CAO-F"> Vidi civitatem sanctam Jerusalem descendentem de caelo ornatam tamquam sponsam viro suo</vBody>
+      <rep type="r" wit="CAO-R CAO-F CAO-L">Et audivi</rep>
+      <rep type="r" wit="CAO-E CAO-S">Ecce</rep>
+   </verses>
+</res>

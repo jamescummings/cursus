@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2709" nextid="c2711" id="c2710">
+   <header>
+      <usage ms="Cht" code="07043000">[44r] nones</usage>
+      <usage ms="Ely" code="07043000">[79v] sext</usage>
+      <usage ms="Hyd" code="07043000">[83v] nones</usage>
+      <usage ms="Pet" code="07043000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Cht Hyd Pet"> Et me scitis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Ely Cht Hyd"> et unde sim scitis</rdg>
+         <rdg wit="Pet"> et unde sum scitis</rdg>
+      </app> et a meipso non veni sed pater meus misit me</aBody>
+</ant>

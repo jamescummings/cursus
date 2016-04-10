@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c7922" nextid="c8002" id="c8001">
+   <header>
+      <usage ms="Mch" code="06011000">[99r] vesp1 gosp</usage>
+      <usage ms="Hyd" code="06011000">[61r] matins-n3</usage>
+   </header>
+   <aBody wit="Hyd Mch"> Ecce Adam quasi unus ex nobis factus est sciens bonum et malum videte ne forte sumat de ligno vitae</aBody>
+</ant>

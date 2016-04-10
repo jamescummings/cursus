@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1436" nextid="c1438" id="c1437">
+   <header>
+      <usage ms="Glo" code="07061000">[73v] procession-a1</usage>
+   </header>
+   <aBody wit="CAO-D Glo">
+      <app>
+         <rdg wit="CAO-D"> Ante sex dies solemnis paschae</rdg>
+         <rdg wit="Glo"> Ante sex dies solemnitatis paschae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> quando venit dominus in civitatem Jerusalem</rdg>
+         <rdg wit="Glo"> venit dominus in civitatem Jerusalem</rdg>
+      </app> occurrerunt ei pueri
+     <app>
+         <rdg wit="CAO-D"> et in manibus portabant ramos palmarum</rdg>
+         <rdg wit="Glo"> in manibus portabant ramos palmarum</rdg>
+      </app> et clamabant voce magna dicentes
+     <app>
+         <rdg wit="CAO-D"> hosanna in excelsis benedictus qui venisti in multitudine misericordiae hosanna in excelsis</rdg>
+         <rdg wit="Glo"> hosanna in excelsis</rdg>
+      </app>
+   </aBody>
+</ant>

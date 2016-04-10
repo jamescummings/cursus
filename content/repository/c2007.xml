@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2006" nextid="c2008" id="c2007">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Incorrectly numbered in CAO: it should be '2006b'</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO"> Cum fortis armatus <ref target="c2456" targOrder="U">cf. Dum fortis armatus</ref>
+   </aBody>
+</ant>

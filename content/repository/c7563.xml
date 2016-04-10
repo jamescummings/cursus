@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7562" nextid="c7564" id="c7563">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Salve crux quae in corpore Christi
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> dedicata es</rdg>
+         <rdg wit="CAO-L"> dedicata est</rdg>
+      </app> et ex membris eius tamquam margaritis
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> ornata</rdg>
+         <rdg wit="CAO-E"> ornatam</rdg>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R"> ornata es</rdg>
+      </app> suscipe discipulum eius qui pependit in te</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> O bona crux
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> diu desiderata</rdg>
+            <rdg wit="CAO-B CAO-H CAO-R"> quamdiu desiderata</rdg>
+         </app> et iam concupiscenti animae praeparata</vBody>
+      <vBody type="r" wit="CAO-C"> Quoniam tu es protector meus domine in manus tuas commendo spiritum meum</vBody>
+      <vBody type="r" wit="CAO-L"> Antequam te ascenderet dominus timorem terrenum habuisti modo vero amorem caelestem obtinet</vBody>
+      <vBody type="r" wit="CAO-E"> O bona crux quae decorem et pulchritudinem de membris domini suscepisti</vBody>
+      <vBody type="r" num="2" wit="CAO-C"> Salve crux pretiosa suscipe discipulum eius qui pependit in te magister meus Christus</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S">Suscipe</rep>
+      <rep type="r" wit="CAO-L">Et ex</rep>
+   </verses>
+</res>

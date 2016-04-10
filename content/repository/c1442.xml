@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1441" nextid="c1443" id="c1442">
+   <header>
+      <usage ms="Alb2" code="07066000">[111r] lauds-a2</usage>
+      <usage ms="Cdm" code="07066000">[79v] lauds-a2</usage>
+      <usage ms="Cht" code="07066000">[63v] lauds</usage>
+      <usage ms="Ely" code="07066000">[90v] lauds</usage>
+      <usage ms="Evm" code="07066000">[152r] lauds</usage>
+      <usage ms="Hyd" code="07066000">[97r] lauds</usage>
+      <usage ms="Mch" code="07066000">[162r] lauds-a2</usage>
+      <usage ms="Pet" code="07066000">[93r] lauds</usage>
+      <usage ms="Wcb" code="07066000">[117r] lauds</usage>
+      <usage ms="Wor" code="07066000">[62r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Anxiatus est in me spiritus meus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> in me turbatum est cor meum</rdg>
+         <rdg wit="CAO-L"> in me turbatus est cor meum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7747" nextid="c7749" id="c7748">
+   <header>
+      <usage ms="Alb2" code="07066000">[110r] matins-n2-r4</usage>
+      <usage ms="Cdm" code="07066000">[78v] matins-n1-r3</usage>
+      <usage ms="Cht" code="07066000">[62r] matins-n1-r3</usage>
+      <usage ms="Ely" code="07066000">[90r] matins-n1-r3</usage>
+      <usage ms="Evm" code="07066000">[150v] matins-n1-r1</usage>
+      <usage ms="Hyd" code="07065000">[95r] matins-n2-r6</usage>
+      <usage ms="Mch" code="07066000">[161r] matins-n2-r4</usage>
+      <usage ms="Pet" code="07066000">[91v] matins-n1-r3</usage>
+      <usage ms="Wcb" code="07066000">[116r] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Tamquam ad latronem
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Cht Hyd Pet Evm Wcb Cdm Mch"> existis cum gladiis comprehendere me</rdg>
+         <rdg wit="CAO-F Ely Alb2"> existis cum gladiis et fustibus comprehendere me</rdg>
+      </app> quotidie apud vos eram in templo docens et non me tenuistis et ecce flagellatum ducitis ad crucifigendum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Cht Evm Wcb Alb2 Mch">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-R CAO-S Cht Evm Alb2 Mch"> Filius quidem hominis vadit sicut scriptum est de illo</rdg>
+            <rdg wit="CAO-V CAO-F Wcb"> Filius quidem hominis vadit sicut scriptum est de eo</rdg>
+            <rdg wit="CAO-H"> Filius quidem hominis secundum quod definitum est vadit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S Cht Evm Wcb Alb2 Mch"> vae autem homini illi</rdg>
+            <rdg wit="CAO-C CAO-V"> vae homini illi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S Cht Evm Wcb Alb2 Mch"> per quem tradetur</rdg>
+            <rdg wit="CAO-M CAO-V"> per quem traditurus est</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G"> Filius quidem hominis vadit</vBody>
+      <vBody type="r" wit="CAO-D CAO-L Ely Hyd Pet Cdm"> Cumque iniecissent manus in Jesum et tenuissent eum dixit ad eos</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S Cht Evm Wcb Alb2 Mch">Ad crucifigendum</rep>
+      <rep type="r" wit="CAO-G CAO-D CAO-L Ely Pet Cdm">Quotidie</rep>
+      <rep type="r" wit="Hyd">Tamquam</rep>
+      <rep type="r" num="2" wit="Ely">
+         <rubric type="respond">R.</rubric> Tamquam</rep>
+   </verses>
+</res>

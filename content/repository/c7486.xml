@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7485" nextid="c7487" id="c7486">
+   <header>
+      <usage ms="Alb2" code="02122700">[35r] matins-n2-r5</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n1-r4</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n1-r4</usage>
+      <usage ms="Evm" code="02122700">[44r] matins-n2-r7</usage>
+      <usage ms="Hyd" code="02122700">[24r] matins-n2-r7</usage>
+      <usage ms="Pet" code="02122700">[25v] matins-n1-r4</usage>
+      <usage ms="Wcb" code="02122700">[61v] matins-n2-r7</usage>
+      <usage ms="Wor" code="02122700">[19v] matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Qui vicerit faciam illum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> columnam</rdg>
+         <rdg wit="CAO-V CAO-L"> columna</rdg>
+      </app> in templo meo dicit dominus et scribam super eum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> nomen meum</rdg>
+         <rdg wit="CAO-C"> nomen tuum</rdg>
+      </app> et nomen civitatis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> novae Jerusalem</rdg>
+         <rdg wit="CAO-V">
+            <corr sic="nomen">novem</corr> Jerusalem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H">
+         <app>
+            <rdg wit="CAO-B CAO-V CAO-H"> In illo die</rdg>
+            <rdg wit="CAO-C CAO-E CAO-M"> In illum diem</rdg>
+         </app> suscipiam te
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H"> servum meum</rdg>
+            <rdg wit="CAO-C"> servo meo</rdg>
+            <rdg wit="CAO-V"> servum meum et scribam super te nomen sanctum meum</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-G CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Vincenti dabo edere de ligno vitae quod est in paradiso dei mei</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">Et scribam</rep>
+      <rep type="r" wit="CAO-V CAO-S">Et nomen</rep>
+   </verses>
+</res>

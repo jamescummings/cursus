@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7904" nextid="c7905b" id="c7905">
+   <header>
+      <usage ms="Cdm" code="07064000">[76v] matins-r2</usage>
+      <usage ms="Cht" code="07063000">[57v] matins-r1</usage>
+      <usage ms="Ely" code="07064000">[87v] matins-r2</usage>
+      <usage ms="Evm" code="07064000">[146v] matins-r2</usage>
+      <usage ms="Hyd" code="07061000">[90v] matins-n2-r7</usage>
+      <usage ms="Wor" code="07064000">[58r] matins-r2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Verse of Wor is that used by CAO-F and CAO-S for respond c6464 Dixerunt impii</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Evm Cdm"> Viri impii dixerunt opprimamus virum iustum iniuste et deglutiamus eum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S Ely Wor Cht Hyd Evm Cdm"> tamquam inferi vivum</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R">tamquam inferus vivum</rdg>
+      </app> auferamus memoriam illius de terra et de spoliis eius sortem mittamus inter nos ipsi enim homicidae thesaurizaverunt sibi
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-F Ely Wor Cht Hyd Evm Cdm"> malum</rdg>
+         <rdg wit="CAO-H CAO-D CAO-S">mala</rdg>
+      </app> insipientes et maligni oderunt sapientiam et rei facti sunt in cogitationibus suis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D Ely Cdm"> Dixerunt impii apud se
+      <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D Ely"> non recte cogitantes</rdg>
+            <rdg wit="Cdm"> cogitantes non recte</rdg>
+         </app> circumveniamus iustum quoniam contrarius est operibus nostris</vBody>
+      <vBody type="r" wit="CAO-C"> Dixerunt impii apud se non recte cogitantes circumveniamus iustum</vBody>
+      <vBody type="r" wit="CAO-F CAO-S Cht Hyd Evm"> Haec cogitaverunt et erraverunt
+      <app>
+            <rdg wit="CAO-F"> excaecavit enim eos</rdg>
+            <rdg wit="CAO-S Cht Hyd Evm">excaecavit enim illos</rdg>
+         </app> malitia eorum</vBody>
+      <vBody type="r" wit="Wor"> Tamquam nugaces aestimati sumus ab illo et abstinet se a viis nostris tamquam ab immunditiis et praefert novissima iustorum</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S Cht Hyd Evm">Et rei</rep>
+      <rep type="r" wit="CAO-D Ely Wor Cdm">Insipientes</rep>
+   </verses>
+</res>

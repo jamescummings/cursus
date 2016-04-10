@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4001" nextid="c4003" id="c4002">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> O beatum pontificem</rdg>
+         <rdg wit="CAO-E"> O quam beatum pontificem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R"> qui totis visceribus diligebat Christum regem</rdg>
+         <rdg wit="CAO-V CAO-F"> qui totis visceribus diligebat Christi regnum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F"> et non formidabat imperii principatum</rdg>
+         <rdg wit="CAO-V"> et non formidabat imperii principatus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R"> o Martine dulcedo medicamentum et medice</rdg>
+         <rdg wit="CAO-V"> o Hilari dulcedo medicamentum et meritis</rdg>
+         <rdg wit="CAO-F"> o Martine dulcedo medicamentum et meritum</rdg>
+      </app> o sanctissima anima
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> quam etsi gladius persecutoris non abstulit</rdg>
+         <rdg wit="CAO-C CAO-F"> quam si gladius persecutoris non abstulit</rdg>
+         <rdg wit="CAO-E"> quam si gladius percussoris non abstulit</rdg>
+         <rdg wit="CAO-V"> quam etsi gladio percussoris non abstuli</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R"> tamen palmam martyrii non amisit</rdg>
+         <rdg wit="CAO-V"> tamen palma martyrii non amisit</rdg>
+         <rdg wit="CAO-F"> palmam tamen martyrii non amisit</rdg>
+      </app>
+   </aBody>
+</ant>

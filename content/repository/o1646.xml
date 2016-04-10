@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1645" nextid="o1647" id="o1646">
+   <header>
+      <usage ms="Alb2" code="02010100">[45r] vesp1</usage>
+      <usage ms="Hyd" code="02010608"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.95</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2">Concede quaesumus omnipotens deus ut salutare tuum nova caelorum luce mirabile quod ad salutem mundi hodierna festivitate processit nostris semper innovandis cordibus hortatur</pBody>
+</prayer>

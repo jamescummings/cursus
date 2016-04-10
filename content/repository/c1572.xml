@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1571" nextid="c1573" id="c1572">
+   <header>
+      <usage ms="Glo" code="14120800">[15r] terce</usage>
+   </header>
+   <aBody wit="CAO-C CAO-V Glo"> Beata progenies unde Christus natus est quam gloriosa est virgo
+     <app>
+         <rdg wit="Glo"> quae caeli regem genuit</rdg>
+         <rdg wit="CAO-C"> quae caelis regem genuit</rdg>
+         <rdg wit="CAO-V"> quem caeli regem genuit</rdg>
+      </app>
+   </aBody>
+</ant>

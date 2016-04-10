@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6978" nextid="c6980" id="c6979">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Inter natos mulierum non surrexit maior Joanne baptista qui viam
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> domino</rdg>
+         <rdg wit="CAO-C CAO-M"> domini</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> praeparavit in eremo</rdg>
+         <rdg wit="CAO-H"> praeparabit in eremo</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F"> Fuit homo missus a Deo cui nomen Joannes erat</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Hic venit in testimonium ut testimonium perhiberet de lumine</vBody>
+      <vBody type="r" wit="CAO-V"> Tu puer propheta altissimi vocaberis praeibis ante dominum parare vias eius</vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Qui viam</rep>
+   </verses>
+</res>

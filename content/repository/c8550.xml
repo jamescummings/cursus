@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8549" nextid="c8551" id="c8550">
+   <header>
+      <usage ms="Cdm" code="01041000">[19r] lauds gosp</usage>
+      <usage ms="Ely" code="02122500">[17v] vesp1-a2</usage>
+      <usage ms="Hyd" code="02122500"/>
+   </header>
+   <aBody wit="Hyd Cdm Ely"> Videbunt gentes iustum tuum et cuncti reges inclitum tuum et videbit omnis caro salutare domini dei nostri</aBody>
+</ant>

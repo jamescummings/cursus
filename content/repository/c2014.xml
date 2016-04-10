@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2013c" nextid="c2014b" id="c2014">
+   <header>
+      <usage ms="Alb2" code="06034000">[72v] lauds gosp</usage>
+      <usage ms="Bat" code="06034000">[46r] lauds gosp</usage>
+      <usage ms="Cdm" code="06034000">[55r] lauds-a2</usage>
+      <usage ms="Cht" code="06034000">[19r] lauds gosp</usage>
+      <usage ms="Ely" code="06034000">[64v] lauds</usage>
+      <usage ms="Evm" code="06034000">[102v] lauds</usage>
+      <usage ms="Glo" code="06034000">[57v] lauds</usage>
+      <usage ms="Hyd" code="06034000">[67r] lauds</usage>
+      <usage ms="Pet" code="06034000">[62v] </usage>
+      <usage ms="Wcb" code="06034000"/>
+      <usage ms="Wor" code="06034000">[42r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Cht Wor Alb2 Pet Hyd Ely Evm Wcb Glo Cdm Bat"> Cum ieiunatis nolite fieri sicut hypocritae tristes</aBody>
+</ant>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2081" nextid="c2083" id="c2082">
+   <header>
+      <usage ms="Alb2" code="07065000">[109v] vesp2-a4</usage>
+      <usage ms="Cdm" code="07065000">[78v] vesp2</usage>
+      <usage ms="Cht" code="07065000">[61v] vesp2</usage>
+      <usage ms="Ely" code="07065000">[89v] vesp2</usage>
+      <usage ms="Evm" code="07065000">[150r] vesp2</usage>
+      <usage ms="Glo" code="07065000">[79v] vesp2</usage>
+      <usage ms="Hyd" code="07065000">[96r] vesp2</usage>
+      <usage ms="Mch" code="07065000">[160r] vesp2-a4</usage>
+      <usage ms="Pet" code="07065000">[91r] vesp2</usage>
+      <usage ms="Wcb" code="07065000">[115v] vesp2</usage>
+      <usage ms="Wor" code="07065000">[60v] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Wcb Glo Alb2 Mch"> Custodi me a laqueo quem statuerunt mihi</rdg>
+         <rdg wit="Evm Cdm"> Custodi me domine a laqueo quem statuerunt mihi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch"> et ab scandalis operantium iniquitatem</rdg>
+         <rdg wit="Ely"> et a scandalis operantium iniquitatem</rdg>
+         <rdg wit="CAO-L"> et ab scandalis operantibus iniquitatem</rdg>
+      </app>
+   </aBody>
+</ant>

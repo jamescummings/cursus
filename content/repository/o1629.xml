@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1628" nextid="o1630" id="o1629">
+   <header>
+      <usage ms="Cdm" code="07061000">[75v] sext</usage>
+      <usage ms="Mch" code="07061000">[155r] sext</usage>
+      <usage ms="Wcb" code="07061000">[113r] sext</usage>
+   </header>
+   <pBody wit="Wcb Cdm Mch">Deus quem diligere amare iustitia ineffabilis gratiae tuae in nobis dona multiplica ut qui fecisti nos morte filii tui sperare quod credimus fac nos eodem resurgente pervenire quo tendimus</pBody>
+</prayer>

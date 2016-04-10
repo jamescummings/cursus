@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8554" nextid="c8556" id="c8555">
+   <header>
+      <usage ms="Alb2" code="02122800">[38r] matins-n2-a10</usage>
+      <usage ms="Bat" code="02122800">[23r] matins-n2-a9</usage>
+      <usage ms="Cdm" code="02122800">[28v] matins-n2-a9</usage>
+      <usage ms="Evm" code="02122800">[47r] matins-n2-a10</usage>
+      <usage ms="Hyd" code="02122800">[26r] matins-n2-a11</usage>
+      <usage ms="Pet" code="02122800">[29v] matins-n2-a9</usage>
+      <usage ms="Wor" code="02122800">[22r] matins-n2-a9</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf body of respond c7713</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Hyd Alb2 Evm Bat Cdm Wor Pet"> Audivi voces occisorum sub altare dei voce clara dicentium quare domine non defendis sanguinem nostrum deus noster</aBody>
+</ant>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7067" nextid="c7069" id="c7068">
+   <header>
+      <usage ms="Alb2" code="01011000">[4r] matins-n3-r11</usage>
+      <usage ms="Bat" code="01011000">[3v] matins-n3-r12</usage>
+      <usage ms="Cdm" code="01011000">[10r] matins-n3-r12</usage>
+      <usage ms="Ely" code="01011000">[4r] matins-n3-r12</usage>
+      <usage ms="Evm" code="01011000">[5v] matins-n2-r8</usage>
+      <usage ms="Hyd" code="01011000">[3r] matins-n3-r12</usage>
+      <usage ms="Wcb" code="01011000">[42r] matins-n2-r8</usage>
+      <usage ms="Wor" code="01011000">[2v] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> Laetentur caeli et exultet terra iubilate montes
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> laudem</rdg>
+         <rdg wit="CAO-M"> laude</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor Bat"> quia</rdg>
+         <rdg wit="CAO-G"> quia ecce</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wcb Ely Wor"> dominus noster</rdg>
+         <rdg wit="Bat"> deus noster</rdg>
+      </app> veniet et pauperum suorum miserebitur</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-H CAO-R Hyd Evm Mch Wcb Ely"> Ecce dominator dominus cum virtute veniet</vBody>
+      <vBody id="c7068-1" type="r" wit="CAO-V CAO-D"> Ecce dominator dominus</vBody>
+      <rep corresp="c7068-1" type="r" wit="CAO-V CAO-D">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-V and CAO-D</note>
+      </rep>
+      <vBody type="r" wit="CAO-M"> Ecce dominator veniet</vBody>
+      <vBody type="r" wit="CAO-F CAO-S Alb2 Cdm Wor Bat"> Orietur in diebus eius iustitia et abundantia pacis</vBody>
+      <vBody id="c7068-2" type="r" num="2" wit="CAO-D"> Orietur in diebus eius iustitia et abundantia pacis</vBody>
+      <rep corresp="c7068-2" type="r" wit="CAO-D"> Iubilate</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S Hyd Alb2 Evm Mch Wcb Ely Wor Bat">Et pauperum</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+      <rep type="r" num="2" wit="Evm">Et</rep>
+   </verses>
+</res>

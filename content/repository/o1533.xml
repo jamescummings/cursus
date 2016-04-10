@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1532" nextid="o1534" id="o1533">
+   <header>
+      <usage ms="Cht" code="07032000"/>
+      <usage ms="Ely" code="07032000"/>
+      <usage ms="Evm" code="07032000"/>
+      <usage ms="Hyd" code="07032000"/>
+      <usage ms="Wcb" code="07032000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.232</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Evm Wcb">Cordibus nostris quaesumus domine gratiam tuam benignus infunde ut sicut ab escis corporalibus abstinemus ita sensus quoque nostros a noxiis retrahamus excessibus</pBody>
+</prayer>

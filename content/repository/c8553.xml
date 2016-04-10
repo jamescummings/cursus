@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8552" nextid="c8554" id="c8553">
+   <header>
+      <usage ms="Alb2" code="02122700">[35r] matins-n2-a11</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n2-a11</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n2-a11</usage>
+      <usage ms="Evm" code="02122700">[43v] matins-n2-a11</usage>
+      <usage ms="Hyd" code="02122700">[24r] matins-n2-a10</usage>
+      <usage ms="Pet" code="02122700">[26v] matins-n2-a11</usage>
+      <usage ms="Wcb" code="02122700">[61r] matins-n2-a10</usage>
+      <usage ms="Wor" code="02122700">[20r] matins-n2-a11</usage>
+   </header>
+   <aBody wit="Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Vox tua o bone Jesu plena suavitate melliflua et adlocutio tua incomparabilis est eloquiis angelorum</aBody>
+</ant>

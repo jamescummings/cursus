@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4231b" nextid="c4233" id="c4232">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Hyd Pet">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-L"> Pater de caelis filium testificat</rdg>
+         <rdg wit="CAO-C"> Pater de caelo filium testificat</rdg>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R"> Pater de caelis filium testificans</rdg>
+         <rdg wit="CAO-D Alb2 Hyd Pet"> Pater de caelis filium testificatur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-L Alb2"> spiritus sancti praesentia advenit</rdg>
+         <rdg wit="CAO-D CAO-F Hyd Pet"> et spiritus sancti praesentia advenit</rdg>
+         <rdg wit="CAO-E"> spiritus sanctus praesentiam advenit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Alb2 Hyd Pet"> unum edocens qui baptizatur Christus</rdg>
+         <rdg wit="CAO-L"> unum edocens qui baptizat Christus</rdg>
+      </app>
+   </aBody>
+</ant>

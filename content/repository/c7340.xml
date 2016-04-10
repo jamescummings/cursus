@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7339" nextid="c7341" id="c7340">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-L"> Ornatam in monilibus</rdg>
+         <rdg wit="CAO-R"> Ornatam monilibus</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V"> Ornatam in munilibus</rdg>
+         <rdg wit="CAO-S"> Ornatam monibus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L"> filiam Jerusalem</rdg>
+         <rdg wit="CAO-C CAO-S"> filia Jerusalem</rdg>
+         <rdg wit="CAO-M"> filiae Jerusalem</rdg>
+      </app> dominus concupivit
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> et videntes</rdg>
+         <rdg wit="CAO-C"> et dicentes</rdg>
+      </app> eam filiae Sion
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> beatissimam</rdg>
+         <rdg wit="CAO-B CAO-E CAO-V"> et beatissimam</rdg>
+      </app> praedicaverunt dicentes
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L"> unguentum</rdg>
+         <rdg wit="CAO-F"> ungentum</rdg>
+         <rdg wit="CAO-S">
+            <corr sic="unguentum">ungentum</corr>
+         </rdg>
+      </app> effusum nomen tuum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Astitit regina
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R"> a dextris tuis</rdg>
+            <rdg wit="CAO-V CAO-F CAO-S"> ad dextris tuis</rdg>
+            <rdg wit="CAO-E"> a dextris</rdg>
+         </app> in vestitu deaurato
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-F CAO-S"> circumdata varietate</rdg>
+            <rdg wit="CAO-H CAO-R"> circumamicta varietate</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Omnis gloria eius filiae regum ab intus in fimbriis aureis circumamicta varietate</vBody>
+      <rep type="r" wit="CAO-M CAO-R CAO-F CAO-L">Et videntes</rep>
+      <rep type="r" wit="CAO-E CAO-H CAO-S">Dicentes</rep>
+      <rep type="r" wit="CAO-B CAO-V">Et beatissimam</rep>
+   </verses>
+</res>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6919" nextid="c6921" id="c6920">
+   <header>
+      <usage ms="Alb2" code="07011000">[75v] matins-n1-r4</usage>
+      <usage ms="Bat" code="07011000">[47r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="07011000">[56v] matins-n1-r2</usage>
+      <usage ms="Ely" code="07011000">[66v] matins-n1-r2</usage>
+      <usage ms="Evm" code="07011000">[105r] matins-n1-r2</usage>
+      <usage ms="Hyd" code="07011000">[69r] matins-n1-r3</usage>
+      <usage ms="Mch" code="07011000">[113v] matins-n2-r5</usage>
+      <usage ms="Pet" code="07011000">[63v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="07011000">[92r] matins-n1-r2</usage>
+      <usage ms="Wor" code="07011000">[42v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Pet Evm Wcb Alb2 Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Ely Pet Evm Wcb Alb2 Bat"> In omnibus exhibeamus nos</rdg>
+         <rdg wit="CAO-L Wor Cdm Mch"> In omnibus exhibeamus nosmetipsos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Ely Wor Pet Evm Wcb Alb2 Cdm Bat Mch"> sicut dei ministros in multa patientia</rdg>
+         <rdg wit="CAO-D"> sicut ministros in multa patientia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Pet Evm Wcb Alb2 Cdm Bat Mch"> ut non vituperetur ministerium nostrum</rdg>
+         <rdg wit="CAO-M"> ut non vituperemur ministerium nostrum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-D CAO-F CAO-L Hyd Ely Wor Pet Evm Wcb Alb2 Cdm Bat"> Ecce nunc tempus acceptabile ecce nunc dies salutis nemini dantes ullam offensionem</vBody>
+      <vBody type="r" wit="CAO-H CAO-R CAO-S Mch"> Ecce nunc tempus acceptabile<app>
+            <rdg wit="CAO-H CAO-R CAO-S"> ecce nunc dies salutis</rdg>
+            <rdg wit="Mch"> ecce dies salutis</rdg>
+         </app> commendemus nosmetipsos in multa patientia</vBody>
+      <vBody type="r" wit="CAO-M"> Ecce nunc</vBody>
+      <vBody type="r" wit="CAO-G CAO-B"> Ecce nunc tempus</vBody>
+      <vBody type="r" wit="CAO-V"> Ecce nunc tempus acceptabile</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor Pet Evm Wcb Alb2 Cdm Bat">Ut non</rep>
+   </verses>
+</res>

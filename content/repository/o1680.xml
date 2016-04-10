@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1679" nextid="o1681" id="o1680">
+   <header>
+      <usage ms="Hyd" code="08014000">[103v] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.408</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus qui nos resurrectionis dominicae annua sollennitate laetificas concede propitius ut per temporalia festa quae agimus pervenire ad gaudia aeterna mereamur</pBody>
+</prayer>

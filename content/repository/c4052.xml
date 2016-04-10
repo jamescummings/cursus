@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4051" nextid="c4053" id="c4052">
+   <header>
+      <usage ms="Glo" code="14120600">[14r] nones</usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L Glo">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Glo"> O per omnia laudabilem virum</rdg>
+         <rdg wit="CAO-L"> O per omnia laudabilem sanctum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-R CAO-D CAO-F CAO-L Glo"> cuius meritis ab omni clade liberantur</rdg>
+         <rdg wit="CAO-E"> cuius precibus ab omni clade liberentur</rdg>
+         <rdg wit="CAO-S"> cuius meritis ab omni clade liberantes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S Glo"> qui ex toto corde quaerunt illum</rdg>
+         <rdg wit="CAO-L"> qui ex toto corde quaerunt eum</rdg>
+      </app>
+   </aBody>
+</ant>

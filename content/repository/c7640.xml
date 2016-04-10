@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7639" nextid="c7641" id="c7640">
+   <header>
+      <usage ms="Alb2" code="07067000">[111v] matins-n1-r1</usage>
+      <usage ms="Cdm" code="07067000">[79v] matins-n1-r1</usage>
+      <usage ms="Ely" code="07067000">[91r] matins-n1-r1</usage>
+      <usage ms="Evm" code="07067000">[154v] matins-n3-r8</usage>
+      <usage ms="Hyd" code="07067000">[98r] matins-n3-r9</usage>
+      <usage ms="Mch" code="07067000">[162v] matins-n1-r1</usage>
+      <usage ms="Pet" code="07067000">[93v] matins-n1-r1</usage>
+      <usage ms="Wcb" code="07067000">[118v] matins-n3-r8</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Sepulto domino signatum est monumentum</rdg>
+         <rdg wit="CAO-C"> Sepulto domino signatum est nomen tuum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> volventes lapidem ad ostium monumenti</rdg>
+         <rdg wit="CAO-V CAO-S"> volventes lapidem ab hostio monumenti</rdg>
+         <rdg wit="CAO-M"> volventes lapidem ad <corr sic="hostio" resp="Hesbert">hostium</corr> monumenti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-S Evm Wcb Alb2 Cdm Mch"> ponentes milites qui custodirent illud</rdg>
+         <rdg wit="CAO-B CAO-L Wor Hyd Pet"> ponentes milites qui custodirent illum</rdg>
+         <rdg wit="CAO-M CAO-H CAO-R Ely"> ponentes milites qui custodirent eum</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Accedentes principes sacerdotum ad Pilatum ut iuberet custodiri sepulcrum ite inquit custodite sicut scitis illi autem abeuntes munierunt illud</vBody>
+      <vBody type="r" wit="Ely Hyd Pet Evm Wcb Alb2 Cdm"> Ait Pilatus principibus sacerdotum habetis custodiam ite custodite sicut scitis illi autem abeuntes munierunt sepulchrum</vBody>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Wor Mch"> Ne forte veniant discipuli eius et furentur eum et dicant plebi surrexit a mortuis</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Pet Evm Wcb Alb2 Cdm Mch">Ponentes</rep>
+      <rep type="r" wit="Hyd">Volventes</rep>
+   </verses>
+</res>

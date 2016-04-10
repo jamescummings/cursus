@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5156" nextid="c5158" id="c5157">
+   <header>
+      <usage ms="Mch" code="06018000">[102r] gospel</usage>
+      <usage ms="Cdm" code="06018000">[50r] -a2</usage>
+      <usage ms="Cht" code="06018000">[13r] -a1</usage>
+      <usage ms="Ely" code="06011000">[60v] nones-a1</usage>
+      <usage ms="Evm" code="06011000">[94v] nones</usage>
+      <usage ms="Glo" code="06018000">[50r] </usage>
+      <usage ms="Hyd" code="06018000">[62r]  gosp</usage>
+      <usage ms="Pet" code="06011000">[57r] vesp2</usage>
+      <usage ms="Wor" code="06011000">[37v] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cht Wor Pet Ely Evm Glo Cdm Mch"> Tolle quod tuum est et vade
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cht Wor Pet Ely Evm Glo Cdm Mch"> quia ego bonus sum dicit dominus</rdg>
+         <rdg wit="CAO-V"> quia ego bonum sum dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

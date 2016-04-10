@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3607" nextid="c3609" id="c3608">
+   <header>
+      <usage ms="Alb2" code="02122500">[23v] vesp1-a2</usage>
+      <usage ms="Bat" code="02122500">[14v] vesp1-a2</usage>
+      <usage ms="Cdm" code="02122400">[21r] vesp2-a2</usage>
+      <usage ms="Ely" code="01021000">[8r] lauds gosp</usage>
+      <usage ms="Evm" code="02122400">[31v] terce</usage>
+      <usage ms="Hyd" code="01021000">[8v] lauds gosp</usage>
+      <usage ms="Mch" code="01021000">[7v] matins-n3</usage>
+      <usage ms="Mch" code="02122400">[23r] nones</usage>
+      <usage ms="Pet" code="02122400">[14v] sext</usage>
+      <usage ms="Wcb" code="02122400">[52v] terce</usage>
+      <usage ms="Wor" code="02122400">[13r] vesp2-a2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> Levate capita vestra
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet"> ecce appropinquabit redemptio vestra</rdg>
+         <rdg wit="CAO-C"> ecce appropinquavit redemptio vestra</rdg>
+         <rdg wit="CAO-M"> ecce appropinquat redemptio vestra</rdg>
+         <rdg wit="CAO-G CAO-E"> ecce appropinquabit redemptio vestra alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8002" nextid="c8004" id="c8003">
+   <header>
+      <usage ms="Alb2" code="06031000">[69v] vesp1 gosp</usage>
+      <usage ms="Bat" code="06031000">[45r] vesp1-a2</usage>
+      <usage ms="Cdm" code="06031000">[53r] vesp1-a1</usage>
+      <usage ms="Ely" code="06031000">[62v] vesp1</usage>
+      <usage ms="Evm" code="06031000">[98v] vesp1</usage>
+      <usage ms="Hyd" code="06031000">[65r] vesp1</usage>
+      <usage ms="Mch" code="06031000">[106r] vesp1 gosp</usage>
+      <usage ms="Pet" code="06031000">[60r] vesp1</usage>
+   </header>
+   <aBody wit="Hyd Alb2 Wor Pet Ely Evm Cdm Mch Bat"> Dum staret Abraham ad radicem mambre vidit tres pueros descendentes per viam tres vidit et unum adoravit</aBody>
+</ant>

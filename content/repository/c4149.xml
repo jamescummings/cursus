@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4148" nextid="c4150" id="c4149">
+   <header>
+      <usage ms="Cdm" code="06033000">lauds</usage>
+      <usage ms="Cht" code="06033000"/>
+      <usage ms="Evm" code="06033000"/>
+      <usage ms="Glo" code="06038000">[57v] </usage>
+      <usage ms="Hyd" code="06031000"/>
+      <usage ms="Pet" code="06031000"/>
+      <usage ms="Wor" code="06033000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Pet Evm Glo Cdm"> Omnis plebs ut vidit dedit laudem deo</aBody>
+</ant>

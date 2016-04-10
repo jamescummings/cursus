@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6923" nextid="c6925" id="c6924">
+   <header>
+      <usage ms="Hyd" code="10200000">matins-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> In principio deus antequam terram faceret priusquam
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> abyssos</rdg>
+         <rdg wit="CAO-C"> abysso</rdg>
+      </app> constitueret priusquam produceret fontes aquarum antequam montes
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> collocarentur</rdg>
+         <rdg wit="CAO-E CAO-V"> collocaretur</rdg>
+      </app> ante omnes colles generavit me dominus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> Ego in altissimis habito et thronus meus in columna nubis</vBody>
+      <vBody type="r" wit="CAO-C">Ego in altissimis</vBody>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L Hyd"> Quando praeparabat caelos aderam cum eo
+       <app>
+            <rdg wit="CAO-F CAO-S Hyd"> cuncta componens</rdg>
+            <rdg wit="CAO-L"> cuncta compones</rdg>
+            <rdg wit="CAO-D"> componens omnia</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd">Ante omnes</rep>
+      <rep type="r" wit="CAO-F"> Antequam<note type="editorial" resp="Hesbert" place="unspecified" anchored="yes">This regressio is given in CAO-F with the neumes of the text 'Ante omnes'</note>
+      </rep>
+      <rep type="r" wit="CAO-L"> Priusquam</rep>
+      <vBody id="c6924-1" type="r" wit="CAO-E"> Ego in altissimis habito et thronus meus in columna nubis</vBody>
+      <rep corresp="c6924-1" type="r" wit="CAO-E"> Antequam</rep>
+      <vBody id="c6924-2" type="r" num="2" wit="CAO-E"> Quando praeparabat caelos aderam cum eo cuncta componens</vBody>
+      <rep corresp="c6924-2" type="r" wit="CAO-E">Ante omnes</rep>
+   </verses>
+</res>

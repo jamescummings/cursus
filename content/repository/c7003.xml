@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7002" nextid="c7004" id="c7003">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iste est qui ante Deum magnas virtutes operatus est et omnis terra doctrina eius repleta est ipse
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> intercedat</rdg>
+         <rdg wit="CAO-C"> intercedit</rdg>
+      </app> pro peccatis omnium populorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L"> Iste est qui contempsit
+       <app>
+            <rdg wit="CAO-E CAO-H CAO-R CAO-F CAO-L"> vitam</rdg>
+            <rdg wit="CAO-V"> vita</rdg>
+         </app> mundi et pervenit ad caelestia regna</vBody>
+      <vBody type="r" wit="CAO-C CAO-M CAO-D"> Iste est qui contempsit</vBody>
+      <vBody type="r" wit="CAO-S"> Hic vir despiciens mundum et terrena triumphans ascendit in caelum</vBody>
+      <rep type="r" wit="CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">Ipse</rep>
+   </verses>
+</res>

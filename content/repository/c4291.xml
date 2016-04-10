@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4290" nextid="c4292" id="c4291">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-C"> Philippe qui videt me</rdg>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-S"> Philippe qui me videt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-F CAO-S"> videt et patrem meum alleluia</rdg>
+         <rdg wit="CAO-V"> videt et patrem alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

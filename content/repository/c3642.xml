@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3641" nextid="c3643" id="c3642">
+   <aBody wit="CAO-V Fec-B2"> Ludensque David ante arcam dei quo conspectu uxor eius despexit ludam et vilior fiam
+     <app>
+         <rdg wit="Fec-B2"> in oculis meis</rdg>
+         <rdg wit="CAO-V" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> quam factus sum</aBody>
+</ant>

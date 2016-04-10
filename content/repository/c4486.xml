@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4485" nextid="c4487" id="c4486">
+   <header>
+      <usage ms="Alb2" code="07031000">[90r] nones</usage>
+      <usage ms="Bat" code="07031000">[54r] matins-n3</usage>
+      <usage ms="Cdm" code="07031000">[65r] sext-a1</usage>
+      <usage ms="Cdm" code="07031000">[65r] sext</usage>
+      <usage ms="Cht" code="07031000">[37r] sext</usage>
+      <usage ms="Ely" code="07031000">[75v] sext</usage>
+      <usage ms="Evm" code="07031000">[123v] sext</usage>
+      <usage ms="Glo" code="07031000">[65r] sext</usage>
+      <usage ms="Hyd" code="07031000">[79v] sext</usage>
+      <usage ms="Mch" code="07031000">[132v] sext-a1</usage>
+      <usage ms="Pet" code="07031000">[72v] matins</usage>
+      <usage ms="Wcb" code="07031000"/>
+      <usage ms="Wor" code="07031000">[48v] matins-n3</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Qui non colligit mecum dispergit et qui non est mecum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Pet Evm Wcb Glo Cdm Mch Bat"> contra me est</rdg>
+         <rdg wit="Alb2"> adversum me est</rdg>
+         <rdg wit="CAO-L"> adversus me est</rdg>
+         <rdg wit="Cht">
+            <del type="marked with underline dots" resp="DC" status="unremarkable">dispergit</del> est</rdg>
+      </app>
+   </aBody>
+</ant>

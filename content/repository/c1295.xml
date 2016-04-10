@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1294b" nextid="c1296" id="c1295">
+   <aBody wit="CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S"> Adveniente <name reg="Petrus" type="saint">Petro</name> circumsteterunt illum omnes viduae flentes et ostendentes
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-R CAO-D CAO-F"> tunicas et vestes</rdg>
+         <rdg wit="CAO-S"> tunicas ac vestes</rdg>
+      </app> quas faciebat illis <name reg="Dorcas" type="person">Dorcas</name>
+   </aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1938" nextid="c1940" id="c1939">
+   <aBody wit="CAO-M CAO-V CAO-L">
+      <name reg="Cosmas" type="saint">Cosmas</name> et <name reg="Damianus" type="saint">Damianus</name> quasi ex uno ore <name reg="Lisius" type="person">Lisio</name> praesidi respondentes dixerunt
+     <app>
+         <rdg wit="CAO-V CAO-L"> tormenta tua valde contemnentes non timemus</rdg>
+         <rdg wit="CAO-M"> tormenta tua valde contemnentes</rdg>
+      </app> fac ergo quod vis
+     <app>
+         <rdg wit="CAO-V CAO-L"> nam idola surda et muta</rdg>
+         <rdg wit="CAO-M"> nos idola surda et muta</rdg>
+      </app> non adoramus</aBody>
+</ant>

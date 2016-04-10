@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6105" nextid="c6107" id="c6106">
+   <header>
+      <usage ms="Hyd" code="10300000">matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Antequam comedam suspiro
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> et</rdg>
+         <rdg wit="CAO-S"> sed</rdg>
+      </app> tamquam
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-F CAO-L"> inundantes</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-R CAO-D CAO-S Hyd"> inundantis</rdg>
+      </app> aquae
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> sic</rdg>
+         <rdg wit="CAO-S"> sit</rdg>
+      </app> rugitus meus quia timor quem timebam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> evenit</rdg>
+         <rdg wit="CAO-V"> et venit</rdg>
+      </app> mihi et quod verebar
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> accidit</rdg>
+         <rdg wit="CAO-L"> accidi</rdg>
+      </app> nonne dissimulavi nonne
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> silui</rdg>
+         <rdg wit="CAO-M"> scilui</rdg>
+      </app> et iam quievi
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-D CAO-F Hyd"> et venit</rdg>
+         <rdg wit="CAO-E CAO-V"> et veni</rdg>
+         <rdg wit="CAO-S"> evenit</rdg>
+         <rdg wit="CAO-R">
+            <corr sic="evenit" resp="Hesbert">et venit</corr>
+         </rdg>
+         <rdg wit="CAO-L"> et evenit</rdg>
+      </app> super me
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> indignatio tua domine</rdg>
+         <rdg wit="CAO-M Hyd"> indignatio</rdg>
+         <rdg wit="CAO-C CAO-D"> misericordia tua domine</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Nolo multa
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> fortitudine</rdg>
+            <rdg wit="CAO-M"> fortitudinis</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> contendat</rdg>
+            <rdg wit="CAO-S"> contendas</rdg>
+         </app> mecum
+      <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D"> nec</rdg>
+            <rdg wit="CAO-G CAO-E CAO-F CAO-S CAO-L Hyd"> ne</rdg>
+         </app> magnitudinis
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> suae</rdg>
+            <rdg wit="CAO-S"> tuae</rdg>
+         </app> mole me premat aequitatem
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> proponat</rdg>
+            <rdg wit="CAO-M"> propono</rdg>
+            <rdg wit="CAO-S"> proponas</rdg>
+         </app> contra me</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-L Hyd">Nonne</rep>
+      <rep type="r" wit="CAO-H"> Et venit</rep>
+      <rep type="r" wit="CAO-S"> Evenit</rep>
+   </verses>
+</res>

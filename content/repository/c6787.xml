@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6786b" nextid="c6788" id="c6787">
+   <rBody wit="CAO-D CAO-S"> Gloriosus domini Germanus
+      <app>
+         <rdg wit="CAO-S"> cum</rdg>
+         <rdg wit="CAO-D"> dum</rdg>
+      </app> a domino Christo per soporem viaticum peregrinaturus acciperet
+      <app>
+         <rdg wit="CAO-D"> ab eo</rdg>
+         <rdg wit="CAO-S"> a Deo</rdg>
+      </app> audivit ne
+      <app>
+         <rdg wit="CAO-S"> metuas</rdg>
+         <rdg wit="CAO-D">
+            <corr sic="metuis">metuas</corr>
+         </rdg>
+      </app> ad patriam non
+      <app>
+         <rdg wit="CAO-D"> ad peregrinationem</rdg>
+         <rdg wit="CAO-S"> ad peregrinatione</rdg>
+      </app> te dirigo ubi habebis quietem et requiem sempiternam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> In cuius transitu tristantur populi laetantur archangeli qui terrena despiciens vocabatur ad gloriam Domino sibi dicente</vBody>
+      <rep type="r" wit="CAO-D"> Ne metuas</rep>
+      <vBody type="r" wit="CAO-S"> Ora pro nobis beate Germane ut digni efficiamur promissionibus Christi</vBody>
+      <rep type="r" wit="CAO-S"> Ubi</rep>
+   </verses>
+</res>

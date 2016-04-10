@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2119" nextid="c2121" id="c2120">
+   <header>
+      <usage ms="Alb2" code="01035000">[16r] lauds-a1</usage>
+      <usage ms="Bat" code="01035000">[11r] lauds-a1</usage>
+      <usage ms="Cdm" code="01035000">[16v] lauds-a1</usage>
+      <usage ms="Ely" code="01035000">[12v] lauds-a1</usage>
+      <usage ms="Evm" code="01035000">[26v] lauds-a1</usage>
+      <usage ms="Evm" code="01036009">[21r] lauds-a1</usage>
+      <usage ms="Hyd" code="01035000">[12v] lauds-a1</usage>
+      <usage ms="Mch" code="01035000">[14r] lauds-a1</usage>
+      <usage ms="Wcb" code="01043000">[50r] lauds-a1</usage>
+      <usage ms="Wor" code="01035000">[9v] lauds-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> De Sion veniet dominus omnipotens
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> ut salvum faciat populum suum</rdg>
+         <rdg wit="CAO-M"> ut salvum faciet populum suum</rdg>
+         <rdg wit="CAO-D"> qui salvum faciet populum suum</rdg>
+      </app>
+   </aBody>
+</ant>

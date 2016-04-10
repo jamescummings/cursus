@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3769" nextid="c3771" id="c3770">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Misereor super turbam
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F"> quia iam triduo sustinent me</rdg>
+         <rdg wit="CAO-D CAO-S"> quia ecce iam triduo sustinent me</rdg>
+      </app> nec habent quod manducent et si dimisero eos ieiunos
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> deficient in via alleluia</rdg>
+         <rdg wit="CAO-H"> defient in via alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

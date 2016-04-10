@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4351" nextid="c4353" id="c4352">
+   <header>
+      <usage ms="Cdm" code="08013000">[83r] matins-n2-a2</usage>
+      <usage ms="Hyd" code="08000000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-D CAO-F CAO-L Hyd Cdm">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-D Hyd Cdm"> Praecedam vos in Galilaeam</rdg>
+         <rdg wit="CAO-F"> Praecedit vos in Galilaeam</rdg>
+         <rdg wit="CAO-L"> Praecedet vos in Galilaeam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-D Cdm"> ibi me videbitis</rdg>
+         <rdg wit="Hyd"> ubi me videbitis</rdg>
+         <rdg wit="CAO-F CAO-L"> ibi eum videbitis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D Hyd Cdm"> sicut dixi vobis alleluia</rdg>
+         <rdg wit="CAO-F"> sicut dixit vobis alleluia</rdg>
+         <rdg wit="CAO-L"> ecce praedixi vobis alleluia alleluia</rdg>
+         <rdg wit="CAO-G"> sicut dixi vobis alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

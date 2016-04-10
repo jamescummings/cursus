@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2351" nextid="c2353" id="c2352">
+   <aBody wit="CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> Domine Jesu Christe magister bone
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-F CAO-S CAO-L"> suscipe spiritum meum in pace</rdg>
+         <rdg wit="CAO-D"> suscipe animam meam in pace</rdg>
+      </app> quia iam tempus est
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-R CAO-D CAO-S CAO-L"> ut veniam</rdg>
+         <rdg wit="CAO-F"> ut venians</rdg>
+      </app> desiderans te videre</aBody>
+</ant>

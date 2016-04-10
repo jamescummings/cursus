@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3034" nextid="c3036" id="c3035">
+   <header>
+      <usage ms="Alb2" code="02122800">[37r] matins-n1-a1</usage>
+      <usage ms="Bat" code="02122800">[22v] matins-n1-a1</usage>
+      <usage ms="Cdm" code="02122800">[28r] matins-n1-a1</usage>
+      <usage ms="Evm" code="02122800">[46r] matins-n1-a1</usage>
+      <usage ms="Hyd" code="02122800">[25v] matins-n1-a1</usage>
+      <usage ms="Pet" code="02122800">[28v] matins-n1-a1</usage>
+      <usage ms="Wor" code="02122800">[21v] matins-n1-a1</usage>
+   </header>
+   <aBody wit="CAO-G CAO-S Hyd Alb2 Evm Bat Cdm Wor Pet"> Herodes videns quia illusus esset a magis misit in Bethleem et occidit omnes pueros qui erant in ea et in omnibus finibus eius</aBody>
+</ant>

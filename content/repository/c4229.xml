@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4228" nextid="c4230" id="c4229">
+   <header>
+      <usage ms="Alb2" code="02122600">[33v] terce</usage>
+      <usage ms="Bat" code="02122600">[20v] vesp2 gosp</usage>
+      <usage ms="Evm" code="02122600">[41v] lauds gosp</usage>
+      <usage ms="Hyd" code="02122600"/>
+      <usage ms="Pet" code="02122608">[24v] </usage>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Evm Bat Pet"> Patefactae sunt ianuae caeli
+     <app>
+         <rdg wit="CAO-V CAO-D CAO-S Hyd Alb2 Evm Bat Pet"> Christi martyri beato Stephano</rdg>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> Christi martyri Stephano</rdg>
+         <rdg wit="CAO-L"> Christi martyris Stephano</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S Hyd Evm"> qui in numero sanctorum</rdg>
+         <rdg wit="CAO-V CAO-L Alb2 Bat Pet"> qui in numero martyrum</rdg>
+      </app> inventus est primus et ideo triumphat
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Evm Pet"> in caelis coronatus alleluia</rdg>
+         <rdg wit="Bat"> in caelo coronatus alleluia</rdg>
+         <rdg wit="CAO-V"> in caelis coronatus</rdg>
+      </app>
+   </aBody>
+</ant>

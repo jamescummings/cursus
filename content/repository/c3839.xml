@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3838" nextid="c3840" id="c3839">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-S CAO-L"> Multitudo languentium veniebant ad eum</rdg>
+         <rdg wit="CAO-H"> Multitudo languentium veniebat ad eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-S"> et sanabantur omnes alleluia</rdg>
+         <rdg wit="CAO-H"> et curabantur omnes alleluia</rdg>
+         <rdg wit="CAO-L"> et sanabat omnes alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

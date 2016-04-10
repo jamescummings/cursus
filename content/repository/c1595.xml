@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1594" nextid="c1596" id="c1595">
+   <aBody wit="CAO-G CAO-E CAO-H"> Beatissima <name reg="Martha" type="saint">Martha</name> collegit sanguinem mariti
+     <app>
+         <rdg wit="CAO-E CAO-H"> et filiorum</rdg>
+         <rdg wit="CAO-G"> ac filiorum</rdg>
+      </app> caput suum et faciem liniebat
+     <app>
+         <rdg wit="CAO-G CAO-H"> cum gaudio</rdg>
+         <rdg wit="CAO-E"> prae gaudio</rdg>
+      </app>
+   </aBody>
+</ant>

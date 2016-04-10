@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5095" nextid="c5097" id="c5096">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-F">
+      <app>
+         <rdg wit="CAO-E CAO-V"> Symphorianus traditur ad coronam martyrii</rdg>
+         <rdg wit="CAO-C CAO-M"> Symphorianus traditus ad coronam martyrii</rdg>
+         <rdg wit="CAO-F"> Symphorianus <sic>traitur</sic> ad coronam martyrii</rdg>
+      </app> beata mater sua votum vovit deo</aBody>
+</ant>

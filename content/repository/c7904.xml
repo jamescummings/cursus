@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7903" nextid="c7905" id="c7904">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-D CAO-F CAO-S Hyd"> Viri Galilaei quid admiramini aspicientes in caelum alleluia quemadmodum vidistis eum ascendentem in caelum ita veniet alleluia alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S Hyd">Cumque intuerentur in caelum euntem illum ecce duo viri astiterunt iuxta illos in vestibus albis qui et dixerunt</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S Hyd">Quemadmodum</rep>
+   </verses>
+</res>

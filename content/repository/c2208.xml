@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2207" nextid="c2209" id="c2208">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S"> Dico vobis gaudium est angelis dei
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F"> super uno peccatore paenitentiam agente</rdg>
+         <rdg wit="CAO-S"> super uno peccatorem paenitentiam agentem</rdg>
+      </app>
+   </aBody>
+</ant>

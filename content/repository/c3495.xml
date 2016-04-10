@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3494" nextid="c3496" id="c3495">
+   <aBody wit="CAO-B CAO-H CAO-R CAO-L"> Joannes autem apostolus virgo dei electus
+     <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> cui virginem matrem dominus</rdg>
+         <rdg wit="CAO-L"> cui virgine matre domino</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-H CAO-R CAO-L"> virgini commendavit</rdg>
+         <rdg wit="CAO-B"> virgini commendabat</rdg>
+      </app>
+   </aBody>
+</ant>

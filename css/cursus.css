@@ -1,0 +1,106 @@
+ body {margin-left: 0px; 
+    margin-top:0px;
+    background-image: url("/images/lightpaper.gif");
+    font-family: "Times New Roman", Times, serif; color: black;
+    font-weight: bold; font-size: 110%; text-align:left;}     
+h1 {color:#006600;}
+h3, h4 {color:#660000;}
+table {border-width:1px;border:none;margin-bottom:5px; width:70%;}
+div {padding: 2px;}
+td{padding: 2px; border-width:thin; border-style:solid; border-color:#BBB; margin-right:2%;}
+.l {display:block; margin-left:30%;}
+.verses {display:block; margin-top:5px;}
+.verse {display:block; }
+.gap {display:inline; color:#990000;}
+.unclear {display:inline; color:#009900;}
+.corr{display:inline; color:#000099;}
+.sic {display:inline; color:#000990;}
+.del {display:inline; color:#009900;}
+.prosula{display: block; margin-left:5%;}
+.prosulawits{display: inline; font-size: 60%; width:30%;}
+.rep {display: block;}
+.repwits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.dox {display: block;}
+.doxwits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.app {display: block; margin-left:10%; }
+.rdg{display: block; font-size:120%; font-weight:bold; color:#955;}
+.rdgwits {display: inline; font-size: 60%; width:30%; color:#999;}
+.ant {display: block;margin-left:2%; }
+.aBody {display: block;}
+.aBodywits {display: inline; font-size: 60%; width:30%;  color:#B99;} 
+.res {display: block;margin-left:2%; }
+.rBody {display: block;}
+.rBodywits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.vBody {display: block; margin-top:5px; }
+.vBodywits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.prayer {display: block;margin-left:2%; }
+.pBody {display: block; }
+.pBodywits {display: inline; font-size: 60%; width:30%;  color:#B99;}
+.antglyph {display: inline; font-size: 200%; color:BB0000;}
+.resglyph {display: inline; font-size: 200%; color:BB0000;}
+.verseglyph {display: inline; font-size: 200%; color:BB0000;}
+.prayerglyph {display: inline; font-size: 200%; color:BB0000;}
+.rubric-levis;{color:red; font-size:110%;}
+.note {color:red; font-size:120%;}
+.cap {font-size: 110%;}
+.supplied {display: inline;color:#008877; }
+.ref {dislay:inline}
+.readingbuttons {display:block; text-align:right; font-size:95%; color:#660066; font-weight:bold;}
+.readingbuttons form {display:inline;}
+.views a {text-decoration:none; color:#55C;}
+.usagefooter {font-size:90%; padding:0%; font-weight:bold;}
+.usagefooter a {text-decoration:none; color:#55C;}
+.views a:hover {text-decoration:none; color:#000;background-color:#FFFFEE;}
+.readingbuttons a:hover {text-decoration:none; color:#000;background-color:#FFFFEE;}
+.usagefooter a:hover {text-decoration:none; color:#000;background-color:#FFFFEE;}
+.header {margin-top:0px;font-size:150%;padding-top:20px;padding-bottom:15px; padding-left:25px;background-color:#ccddff;display:block;color:#444444; 
+font-family: Garamond; font-weight:bold;
+border-bottom:1px solid #000099;
+width:100%;
+}
+.logo a {font-weight:bolder; font-size:110%;font:Garamond,serif; color:#660000; text-decoration:none; }
+.logo {letter-spacing:0.33em;}
+.footer {margin:0px;padding-top:5px;padding-bottom:5px;;display:block;color:#444444; padding-left:15px;text-align:center;clear:both;}
+.footermailto a {color:#444;}
+.footerlogo   a {color:#444;}
+.sidebar {float:left; 
+margin-left:0px;
+ margin-right:5px;
+ width:15%;
+ border-right:1px solid #000099; 
+ padding: 10px; 
+ padding-left:2px; 
+ background-color:#ccddff; 
+ font-size:70%; 
+ clear:left; 
+ border-bottom:1px solid #000099;}
+.sidebar a{text-decoration:none; color:#660000;}
+.main {margin-left:18%; margin-right:5%;}
+.main a{text-decoration:none;color:#55C;}
+.main hr {margin-left:-2%;}
+.sidebar ul li {font-weight:bold;}
+.sidebar ul li ul li {font-weight:normal;}
+.smallmain {font-size:70%;}
+.searchresultsheader{display:block;text-align:center;color:#55C;}
+.searchresultsfooter{display:block;text-align:center;color:#55C;}
+.searchresultsprev a{text-align:left;padding-right:20%;color:#55C;}
+.searchresultsnew a{text-align:center;color:#55C;}
+.searchresultsnext a{text-align:right;padding-left:20%;color:#55C;}
+.heading {font-weight:bold;}
+.msdetails {margin-top:0px;}
+.title {font-variant:italics;}
+
+.DayHeader{display:block; background-color:#FFFFDD;}
+
+.rubric {color:#660000; font-size:110%; display:inline;font-weight:bold;}
+div {padding: 2px;}
+.vulgate-book {display:block;}
+.vulgate-ref {display:inline;}
+.vulgate-verseNum{display:inline; color:#006600; font-size:50%; font-weight:bold;}
+.vulgate-l {display:inline; color:#330000; font-size:100%; font-weight:normal;}
+.chapter-header{display:block; margin-top:2%; color:#006600; font-weight:bold; font-size:105%;}
+.chapter-text{display:block; margin-left:2%; margin-right:2%;}
+.bible-verse{display:inline;}
+.chapter-footer {display:block; color:#006600; font-size:85%;}
+.vulgate-rubric .vulgate-l {color:#880000; font-size:120%; font-weight:bold;}
+.endbook {display:block; color:#006600; font-size:95%;}

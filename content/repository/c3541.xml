@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3540" nextid="c3542" id="c3541">
+   <aBody wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S"> Iustum deduxit dominus per vias rectas</rdg>
+         <rdg wit="CAO-L"> Iustum deduxit dominus per viam rectam</rdg>
+      </app> et ostendit illi regnum dei</aBody>
+   <aBody wit="CAO-E" num="2"> Iustum deduxit dominus per vias rectas</aBody>
+</ant>

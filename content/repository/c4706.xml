@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4705" nextid="c4707" id="c4706">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sanctae trinitatis fidem Martinus confessus est</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V"> Sanctae trinitatis fide Martinus confessus est</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-D CAO-L"> beatissimam gratiam percepit</rdg>
+         <rdg wit="CAO-C CAO-V CAO-F"> beatissimus gratiam percepit</rdg>
+         <rdg wit="CAO-B"> ad beatissimam gratiam pervenit</rdg>
+         <rdg wit="CAO-H"> ac baptismi gratiam percepit</rdg>
+         <rdg wit="CAO-R"> ac beatissimam gratiam percepit</rdg>
+         <rdg wit="CAO-S"> baptismi gratiam percepit</rdg>
+      </app>
+   </aBody>
+</ant>

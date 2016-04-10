@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4103" nextid="c4105" id="c4104">
+   <aBody wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Obtulerunt pro eo domino par turturum</rdg>
+         <rdg wit="CAO-M"> Obtulerunt pro eo par turturum</rdg>
+         <rdg wit="CAO-C"> Obtulerunt pro eo dominus par turturum</rdg>
+         <rdg wit="CAO-G"> Obtulerunt pro eo dominum par turturum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> aut duos pullos columbarum</rdg>
+         <rdg wit="CAO-L"> et duos pullos columbarum</rdg>
+      </app>
+   </aBody>
+</ant>

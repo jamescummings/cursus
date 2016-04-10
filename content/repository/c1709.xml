@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1708" nextid="c1710" id="c1709">
+   <header>
+      <usage ms="Alb2" code="01015000">[7r] lauds gosp</usage>
+      <usage ms="Bat" code="01015000">[5v] lauds gosp</usage>
+      <usage ms="Cdm" code="01015000">[11v] lauds gosp</usage>
+      <usage ms="Ely" code="01036000">[12v] lauds-a2</usage>
+      <usage ms="Evm" code="01015000">[11v] lauds gosp</usage>
+      <usage ms="Mch" code="01015000">[6r] lauds gosp</usage>
+      <usage ms="Wor" code="01015000">[4v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Bat"> Benedicta tu in mulieribus et benedictus fructus ventris tui</aBody>
+</ant>

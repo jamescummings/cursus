@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7473" nextid="c7475" id="c7474">
+   <rBody wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> Qui cum audissent sancti <name reg="Nicolaus" type="saint">Nicolai</name> nomen
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-L"> statim expandunt manus</rdg>
+         <rdg wit="CAO-S"> statim expandens manus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L"> utrasque ad caelum</rdg>
+         <rdg wit="CAO-B"> utrasque ad caelos</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-F CAO-S CAO-L"> salvatoris laudantes clementiam</rdg>
+         <rdg wit="CAO-D"> salvatoris laudentes clementiam</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-R CAO-F CAO-S CAO-L"> Clara quippe voce coram omnibus</rdg>
+            <rdg wit="CAO-D"> Clara quippe voce coram hominibus</rdg>
+            <rdg wit="CAO-E"> Voce quippe clara de caelo lapsa</rdg>
+         </app> dignum referebant illum dei famulum</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-S CAO-L">Salvatoris</rep>
+   </verses>
+</res>

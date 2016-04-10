@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7114" nextid="c7116" id="c7115">
+   <rBody wit="CAO-D CAO-F">
+      <verse type="stanza">
+         <l part="N">Magne pater Nicolae summo patri proxime</l>
+         <l part="N">Admiranda qua praecellis apud eum gratia</l>
+         <l part="N">A commissis nos
+        <app>
+               <rdg wit="CAO-F"> emundans</rdg>
+               <rdg wit="CAO-D"> emendans</rdg>
+            </app> ne cadamus
+        <app>
+               <rdg wit="CAO-F"> sustine</rdg>
+               <rdg wit="CAO-D">
+                  <sic resp="Hesbert">sutine</sic>
+               </rdg>
+            </app>
+         </l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F">
+         <verse type="stanza">
+            <l part="N">Iam per terras et per mare fama celeberrime</l>
+            <l part="N">Refovendo tribulatos relevando naufragos</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-D CAO-F">A commissis</rep>
+   </verses>
+</res>

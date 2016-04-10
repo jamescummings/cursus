@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4844" nextid="c4846" id="c4845">
+   <header>
+      <usage ms="Hyd" code="01013000">[5v] lauds-a1</usage>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-S Hyd"> Secundum magnam misericordiam tuam miserere mei deus</aBody>
+   <aBody wit="CAO-H"> Secundum magnam misericordiam tuam domine miserere me</aBody>
+</ant>

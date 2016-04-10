@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3331" nextid="c3333" id="c3332">
+   <header>
+      <usage ms="Cht" code="07055000">[52r] nones-a1</usage>
+      <usage ms="Evm" code="07055000">[139v] nones</usage>
+      <usage ms="Glo" code="07055000">[71v] nones-a1</usage>
+      <usage ms="Mch" code="07062000">[156r] nones</usage>
+      <usage ms="Wcb" code="07055000">[110r] nones-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-L Cht Evm Wcb Glo Mch">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-L Mch"> Infirmata est virtus mea</rdg>
+         <rdg wit="Cht Evm Wcb Glo"> Infirmata est in me virtus mea</rdg>
+      </app> in manibus inimicorum meorum</aBody>
+</ant>

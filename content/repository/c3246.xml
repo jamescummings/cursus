@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3245" nextid="c3247" id="c3246">
+   <header>
+      <usage ms="Hyd" code="01016000">[6v] lauds-a2</usage>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> In Israel magnum nomen eius</aBody>
+</ant>

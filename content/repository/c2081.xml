@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2080" nextid="c2082" id="c2081">
+   <header>
+      <usage ms="Hyd" code="08017000">[104v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Currebant duo simul
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> et ille alius discipulus praecucurrit citius Petro</rdg>
+         <rdg wit="CAO-V CAO-D"> et ille alius discipulis praecucurrit citius Petro</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> et venit prior ad monumentum alleluia</rdg>
+         <rdg wit="CAO-H"> et venit primus ad monumentum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

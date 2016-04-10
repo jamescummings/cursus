@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6938" nextid="c6940" id="c6939">
+   <header>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <rBody wit="CAO-H Hyd"> In te domine speravi non confundar in aeternum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H Hyd"> In iustitia tua libera me</vBody>
+      <dox type="r" wit="Hyd">Gloria patri</dox>
+   </verses>
+</res>

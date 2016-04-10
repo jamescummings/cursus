@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4939" nextid="c4941" id="c4940">
+   <aBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S"> Sicut malum inter ligna silvarum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-R"> sic dilectus meus inter filias alleluia</rdg>
+         <rdg wit="CAO-V CAO-D CAO-S"> sic amica mea inter filias alleluia</rdg>
+         <rdg wit="CAO-H"> sic dilectus meus inter filios alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

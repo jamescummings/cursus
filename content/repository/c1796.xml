@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1795" nextid="c1797" id="c1796">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">cf. respond c9526</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> Christus resurgens ex mortuis</rdg>
+         <rdg wit="CAO-L"> Christus exsurgens ex mortuis</rdg>
+      </app> iam non moritur mors illi ultra non dominabitur quod enim vivit vivit deo
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> alleluia alleluia</rdg>
+         <rdg wit="CAO-G"> alleluia</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-D">Dicant nunc Judaei quomodo milites custodientes sepulcrum perdiderunt regem ad lapidis positionem quare non servabant Petram iustitiae aut sepultum reddant aut resurgentem adorent nobiscum dicentes alleluia</vBody>
+   </verses>
+</ant>

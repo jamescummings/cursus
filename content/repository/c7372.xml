@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7371" nextid="c7373" id="c7372">
+   <header>
+      <usage ms="Hyd" code="10100000">matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> Peccavi super numerum arenae maris et multiplicata sunt peccata mea et non sum dignus videre altitudinem caeli prae
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> multitudine</rdg>
+         <rdg wit="CAO-E"> multitudinem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> iniquitatis meae</rdg>
+         <rdg wit="CAO-C"> iniquitates meae</rdg>
+      </app> quoniam irritavi
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> iram tuam</rdg>
+         <rdg wit="CAO-E"> viam tuam</rdg>
+      </app> et malum coram te feci</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd"> Quoniam iniquitatem meam ego agnosco et delictum meum coram me est semper tibi soli peccavi</vBody>
+      <vBody type="r" wit="CAO-M"> Quoniam iniquitatem</vBody>
+      <vBody id="c7372-1" type="r" wit="CAO-F"> Quoniam iniquitatem meam ego agnosco et delictum meum coram me est semper tibi soli peccavi</vBody>
+      <rep corresp="c7372-1" type="r" wit="CAO-F"> Et malum</rep>
+      <vBody type="r" wit="CAO-L"> Ne perdas me domine cum iniquitatibus meis neque in finem iratus reserves mala mea</vBody>
+      <vBody id="c7372-2" type="r" num="2" wit="CAO-F"> Ne perdas me domine cum iniquitatibus meis neque in finem iratus reserves mala mea</vBody>
+      <rep corresp="c7372-2" type="r" wit="CAO-F"> Quoniam <supplied>irritavi</supplied>
+      </rep>
+      <rep type="r" wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd">Et malum</rep>
+      <rep type="r" wit="CAO-E">Quoniam <supplied>irritavi</supplied>
+      </rep>
+   </verses>
+</res>

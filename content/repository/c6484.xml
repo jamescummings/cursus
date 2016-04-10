@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6483" nextid="c6485" id="c6484">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Doctor bonus et amicus Dei Andreas ducitur ad crucem aspiciens a longe vidit crucem salve crux suscipe discipulum eius qui pependit in te magister meus Christus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F"> Salve crux</rdg>
+            <rdg wit="CAO-L"> Salve crux pretiosa</rdg>
+         </app> quae in corpore Christi
+       <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-D CAO-F"> dedicata es</rdg>
+            <rdg wit="CAO-V CAO-L"> dedicata est</rdg>
+         </app> et ex membris eius tamquam margaritis ornata</vBody>
+      <vBody id="c6484-1" type="r" wit="CAO-C"> Salve crux quae in corpore Christi dedicata es et ex membris eius tamquam margaretis ornata</vBody>
+      <rep corresp="c6484-1" type="r" wit="CAO-C"> Qui pependit</rep>
+      <vBody type="r" wit="CAO-R CAO-S">
+         <app>
+            <rdg wit="CAO-R"> Cum vero pervenisset</rdg>
+            <rdg wit="CAO-S"> Cumque pervenisset</rdg>
+         </app> ad locum ubi crux parata erat videns eam a longe exclamavit voce magna dicens</vBody>
+      <vBody id="c6484-2" type="r" wit="CAO-C"> Cum vero pervenisset ad locum ubi crux parata erat videns eam a longe exclamavit voce magna dicens</vBody>
+      <rep corresp="c6484-2" type="r" wit="CAO-C"> Salve</rep>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-L"> Suscipe</rep>
+      <rep type="r" wit="CAO-R CAO-S"> Salve</rep>
+   </verses>
+</res>

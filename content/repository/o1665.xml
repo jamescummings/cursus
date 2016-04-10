@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1664" nextid="o1666" id="o1665">
+   <header>
+      <usage ms="Bat" code="02122800">[24r] vesp2 commemoration</usage>
+      <usage ms="Evm" code="02122800">[49v] vesp2 commemoration</usage>
+      <usage ms="Hyd" code="02122800"/>
+   </header>
+   <pBody wit="Hyd Evm Bat"> Deus pro cuius ecclesia
+     <app>
+         <rdg wit="Hyd Bat"> gloriosus pontifex Thomas hodierna die</rdg>
+         <rdg wit="Evm"> beatus Thomas pontifex gloriosus hodierna die</rdg>
+      </app> gladiis impiorum occubuit praesta quaesumus ut omnes qui eius implorant auxilium petitionis suae salutarem consequantur effectum</pBody>
+</prayer>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3153" nextid="c3155" id="c3154">
+   <header>
+      <usage ms="Mch" code="06021000">[105v] lauds-a4</usage>
+      <usage ms="Bat" code="06021000">[44v] lauds-a4</usage>
+      <usage ms="Alb2" code="06021000">[69v] lauds-a4</usage>
+      <usage ms="Cdm" code="06021000">[52r] lauds-a4</usage>
+      <usage ms="Cht" code="06021000">[15r] lauds-a4</usage>
+      <usage ms="Ely" code="06021000">[62r] lauds-a4</usage>
+      <usage ms="Evm" code="06021000">[98r] lauds</usage>
+      <usage ms="Hyd" code="06021000">[64v] lauds</usage>
+      <usage ms="Wcb" code="06021000">[88v] lauds</usage>
+      <usage ms="Wor" code="06021000">[39v] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Wor Cht Ely Evm Wcb Cdm Bat Mch"> Hymnum dicite et superexaltate eum
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Cht Wor Ely Evm Wcb Cdm Bat">in saecula benedicite</rdg>
+         <rdg wit="Alb2">in saecula</rdg>
+         <rdg wit="Mch"> in saecula benedicentes</rdg>
+         <rdg wit="CAO-C">in saecula et benedicite</rdg>
+      </app>
+   </aBody>
+</ant>

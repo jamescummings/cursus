@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7627" nextid="c7629" id="c7628">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Scio cui credidi et certus sum quia potens est depositum meum servare
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R"> in illum diem</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F"> in illum diem iustus iudex</rdg>
+         <rdg wit="CAO-S"> in illa die</rdg>
+         <rdg wit="CAO-L"> in illo die</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Reposita est mihi corona iustitiae
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S CAO-L"> quam reddet mihi dominus</rdg>
+            <rdg wit="CAO-F">
+               <sic resp="Hesbert">quem</sic> reddet mihi dominus in illum diem</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-C">Reposita est mihi corona iustitiae</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-R CAO-D CAO-S">In</rep>
+      <rep type="r" wit="CAO-C CAO-H CAO-L">Quia</rep>
+      <rep type="r" wit="CAO-F">Iustus</rep>
+   </verses>
+</res>

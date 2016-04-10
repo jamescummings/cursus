@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4785" nextid="c4787" id="c4786">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Sanctus Mauritius legionem sanctam praemonuit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D"> ut ad caelestia regna properarent</rdg>
+         <rdg wit="CAO-E CAO-V CAO-F"> ut ad caelestia regna properaret</rdg>
+      </app> beatus Exuperius miles
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R"> Candidus et Victor</rdg>
+         <rdg wit="CAO-E CAO-D CAO-F"> Candidus et Victor et beatus Innocentius</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F"> iunctis meritis</rdg>
+         <rdg wit="CAO-M"> iunctis fratribus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F"> se sociaverunt</rdg>
+         <rdg wit="CAO-M CAO-V"> sociaverunt</rdg>
+      </app>
+   </aBody>
+</ant>

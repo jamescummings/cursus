@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1736" nextid="c1738" id="c1737">
+   <header>
+      <usage ms="Alb2" code="01021000">[7r] vesp1 gosp</usage>
+      <usage ms="Bat" code="01017000">[5v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01021000">[11v] vesp1 gosp</usage>
+      <usage ms="Ely" code="02122400">[17v] vesp1-a1</usage>
+      <usage ms="Ely" code="02122500">[6v] vesp1 gosp</usage>
+      <usage ms="Hyd" code="01021000">[6v] vesp1 gosp</usage>
+      <usage ms="Hyd" code="02122500">[17r] </usage>
+      <usage ms="Mch" code="02122400">[23v] vesp2-a1</usage>
+      <usage ms="Wcb" code="01045000">[50v] lauds gosp</usage>
+      <usage ms="Wor" code="01021000">[4v] vesp1 gosp</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-V CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Mch Cdm Ely Wor Wcb Bat">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-S Hyd Alb2 Mch Cdm Ely Wor Wcb Bat"> Bethleem non es minima</rdg>
+         <rdg wit="CAO-V CAO-L"> Bethleem non est minima</rdg>
+         <rdg wit="CAO-R CAO-F"> Bethleem non es<del status="unremarkable">t</del> minima</rdg>
+      </app> in principibus Juda ex te enim exiet dux
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-V CAO-R CAO-S CAO-L Hyd Alb2 Mch Cdm Ely Wor Wcb Bat"> qui regat</rdg>
+         <rdg wit="CAO-F"> qui reget</rdg>
+      </app> populum meum Israel ipse enim salvum faciet populum suum a peccatis eorum</aBody>
+</ant>

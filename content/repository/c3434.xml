@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3433" nextid="c3435" id="c3434">
+   <aBody wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Iste sanctus pro lege dei sui certavit</rdg>
+         <rdg wit="CAO-M"> Iste sanctus qui pro lege dei sui certavit</rdg>
+         <rdg wit="CAO-V"> Iste sanctus pro lege dei sui certavi</rdg>
+      </app> usque ad mortem
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> et a verbis impiorum</rdg>
+         <rdg wit="CAO-V"> et ad verbis impiorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> non timuit</rdg>
+         <rdg wit="CAO-V"> non timui</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> fundatus enim erat supra firmam petram</rdg>
+         <rdg wit="CAO-H CAO-R" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

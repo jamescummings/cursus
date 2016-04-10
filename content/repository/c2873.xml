@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2872" nextid="c2874" id="c2873">
+   <header>
+      <usage ms="Hyd" code="09021008">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Fili recordare quia recepisti bona in vita tua
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> et Lazarus</rdg>
+         <rdg wit="CAO-M"> et Lazarum</rdg>
+      </app> similiter mala</aBody>
+</ant>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2393" nextid="c2395" id="c2394">
+   <header>
+      <usage ms="Ely" code="07036000"/>
+      <usage ms="Hyd" code="07036000"/>
+      <usage ms="Pet" code="07036000"/>
+      <usage ms="Wor" code="07036000"/>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S Ely Hyd Pet"> Domine ut video propheta es tu patres nostri in monte hoc adoraverunt in monte</aBody>
+   <aBody wit="Wor">
+      <gap reason="verbal and musical text erased" resp="DC"/> in monte  <gap reason="verbal and musical text erased" resp="DC"/>
+   </aBody>
+</ant>

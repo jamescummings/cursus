@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7832" nextid="c7834" id="c7833">
+   <header>
+      <usage ms="Alb2" code="02010608"/>
+      <usage ms="Hyd" code="02010600"/>
+   </header>
+   <rBody wit="CAO-R CAO-S CAO-L Alb2 Hyd"> Venit lumen tuum Jerusalem et gloria domini super te orta est et ambulabunt gentes
+     <app>
+         <rdg wit="CAO-R CAO-S Alb2 Hyd"> in lumine tuo</rdg>
+         <rdg wit="CAO-L"> illumine tuo</rdg>
+      </app> et reges in splendore ortus tui</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-S CAO-L Alb2 Hyd">Filii tui de longe venient et filiae tuae de latere
+      <app>
+            <rdg wit="CAO-R CAO-S Alb2 Hyd"> surgent</rdg>
+            <rdg wit="CAO-L"> consurgent</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-R CAO-S CAO-L Alb2 Hyd">Et ambulabunt</rep>
+   </verses>
+</res>

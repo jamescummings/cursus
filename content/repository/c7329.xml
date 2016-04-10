@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7328" nextid="c7330" id="c7329">
+   <rBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N">Orante beatissimo</l>
+         <l part="N">ad dominum Gregorio</l>
+         <l part="N">sanata est plebs romana</l>
+         <l part="N">a peste inguinaria</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Multum enim valet deprecatio iusti assidua</vBody>
+      <rep type="r" wit="CAO-R"> Sanata</rep>
+   </verses>
+</res>

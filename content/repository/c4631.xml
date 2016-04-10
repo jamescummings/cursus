@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4630" nextid="c4632" id="c4631">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F"> Respondens autem infans coram omni populo
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-F"> beato viro dixit</rdg>
+         <rdg wit="CAO-R"> beato viro</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F"> non es tu inquit pater meus</rdg>
+         <rdg wit="CAO-V"> non est tu inquit pater meus</rdg>
+         <rdg wit="CAO-B"> non es tu Bricii pater meus</rdg>
+      </app>
+   </aBody>
+</ant>

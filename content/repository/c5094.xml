@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5093" nextid="c5095" id="c5094">
+   <aBody wit="CAO-G CAO-H CAO-R CAO-L"> Sustinuit anima mea in verbo domini
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-L"> speravit anima mea in ipso</rdg>
+         <rdg wit="CAO-G"> speravit anima mea in illo</rdg>
+      </app>
+   </aBody>
+</ant>

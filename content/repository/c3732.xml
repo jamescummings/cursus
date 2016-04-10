@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3731" nextid="c3733" id="c3732">
+   <aBody wit="CAO-B CAO-V"> Media vita in morte sumus quem quaerimus adiutorem nisi te domine qui pro peccatis nostris iuste irasceris sancte deus sancte fortis sancte misericors salvator
+     <app>
+         <rdg wit="CAO-B"> amarae morti</rdg>
+         <rdg wit="CAO-V"> amarae morti ne tradas nos</rdg>
+      </app>
+   </aBody>
+   <verses>
+      <vBody type="a" wit="CAO-B CAO-V">In te speraverunt patres nostri speraverunt et liberasti eos</vBody>
+      <rep type="a" wit="CAO-B CAO-V"> Sancte deus</rep>
+      <vBody type="a" wit="CAO-B CAO-V">Ne proiicias nos in tempore senectutis nostrae cum defecerit virtus nostra ne derelinquas nos domine</vBody>
+      <rep type="a" wit="CAO-B CAO-V"> Sancte fortis</rep>
+      <vBody type="a" wit="CAO-B CAO-V">De ore leonis libera me domine et a cornibus unicornium humilitatem meam</vBody>
+      <rep type="a" wit="CAO-B"> Sancte et misericors salvator amarae morti ne tradas nos</rep>
+   </verses>
+</ant>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7617" nextid="c7619" id="c7618">
+   <rBody wit="CAO-R">
+      <verse type="stanza">
+         <l part="N">Sanctus papa Gregorius</l>
+         <l part="N">Vir totus apostolicus</l>
+         <l part="N">Postquam praesedit cathedrae</l>
+         <l part="N">Pervigil apostolicae</l>
+         <l part="N">Carne solutus hodie</l>
+         <l part="N">Adivit regem gloriae</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R">Innocens manibus et mundo corde qui non accepit in vano animam suam</vBody>
+      <rep type="r" wit="CAO-R">Adivit</rep>
+   </verses>
+</res>

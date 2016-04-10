@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4665" nextid="c4667" id="c4666">
+   <header>
+      <usage ms="Hyd" code="09021008">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> Rogo te pater</rdg>
+         <rdg wit="CAO-H CAO-R"> Rogo ergo te pater</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> ut mittas Lazarum</rdg>
+         <rdg wit="CAO-H CAO-R"> ut mittas eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-F CAO-L Hyd"> in domum patris mei</rdg>
+         <rdg wit="CAO-D CAO-S"> in domo patris mei</rdg>
+      </app> habeo enim quinque fratres
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> ut testetur illis</rdg>
+         <rdg wit="CAO-L"> ut testetur illi</rdg>
+      </app> ne et ipsi veniant
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-D CAO-F CAO-S CAO-L Hyd"> in hunc locum tormentorum</rdg>
+         <rdg wit="CAO-H CAO-R"> in locum hunc tormentorum</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7668" nextid="c7670" id="c7669">
+   <rBody wit="CAO-D CAO-L"> Simile est regnum caelorum homini negotiatori quaerenti
+     <app>
+         <rdg wit="CAO-D"> bonas margaritas</rdg>
+         <rdg wit="CAO-L"> bona margarita</rdg>
+      </app> inventa una pretiosa margarita dedit omnia sua et comparavit eam</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Haec est virgo sapiens quam dominus invenit vigilantem</vBody>
+      <vBody type="r" wit="CAO-L"> Simile est regnum caelorum thesauro abscondito in agro quem cum invenit homo</vBody>
+      <rep type="r" wit="CAO-D">Inventa</rep>
+      <rep type="r" wit="CAO-L">Dedit</rep>
+   </verses>
+</res>

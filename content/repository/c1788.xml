@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1787" nextid="c1789" id="c1788">
+   <header>
+      <usage ms="Hyd" code="02010608"/>
+      <usage ms="Pet" code="02010608"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.141</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Pet"> Christo datus est principatus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Pet"> et honor regni</rdg>
+         <rdg wit="CAO-V"> et honor regis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-D CAO-F CAO-L"> omnis populus</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R Hyd Pet"> omnes populi</rdg>
+      </app> tribus et linguae
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-V CAO-H CAO-R CAO-D Hyd Pet"> servient ei in aeternum</rdg>
+         <rdg wit="CAO-E CAO-L"> servient ei in aeternum alleluia</rdg>
+         <rdg wit="CAO-F"> servient ei alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

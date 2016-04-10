@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1665" nextid="o1667" id="o1666">
+   <header>
+      <usage ms="Evm" code="02123100">[57r] matins-n2</usage>
+      <usage ms="Hyd" code="02122508"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.54</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Evm">Respice nos misericors deus et mentibus clementer humanis nacente Christo summae veritatis lumen ostende</pBody>
+</prayer>

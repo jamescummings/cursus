@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4424" nextid="c4426" id="c4425">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quae est ista quae ascendit
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> sicut aurora consurgens</rdg>
+         <rdg wit="CAO-S"> sicut aurora consurget</rdg>
+      </app> pulchra ut luna electa ut sol
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> terribilis ut castrorum acies ordinata</rdg>
+         <rdg wit="CAO-E CAO-M"> terribilis ut castrorum acies decorata</rdg>
+      </app>
+   </aBody>
+</ant>

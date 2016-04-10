@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4208" nextid="c4210" id="c4209">
+   <header>
+      <usage ms="Alb2" code="07035000"/>
+      <usage ms="Bat" code="07035000">[55v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07035000">[66v] vesp2</usage>
+      <usage ms="Cht" code="07035000"/>
+      <usage ms="Ely" code="07035000"/>
+      <usage ms="Evm" code="07035000"/>
+      <usage ms="Glo" code="07035000"/>
+      <usage ms="Hyd" code="07035000"/>
+      <usage ms="Mch" code="07035000">[135r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07035000"/>
+      <usage ms="Wcb" code="07035000"/>
+      <usage ms="Wor" code="07035000"/>
+   </header>
+   <aBody wit="CAO-F Ely Wor Cht Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Panis enim dei est
+     <app>
+         <rdg wit="CAO-F Ely Wor Hyd Pet Wcb Glo Alb2 Cdm Mch Bat"> qui de caelo descendit</rdg>
+         <rdg wit="Cht Evm"> qui descendit de caelo</rdg>
+      </app> et dat vitam mundo</aBody>
+</ant>

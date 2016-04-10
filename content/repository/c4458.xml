@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4457" nextid="c4459" id="c4458">
+   <header>
+      <usage ms="Mch" code="07036000">[135v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G Mch">
+      <app>
+         <rdg wit="CAO-G Mch"> Qui biberit aquam quam ego do</rdg>
+         <rdg wit="CAO-C"> Qui biberit aqua quam ego do</rdg>
+      </app> dicit dominus Samaritanae fiet in eo fons aquae salientis in vitam aeternam</aBody>
+</ant>

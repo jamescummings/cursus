@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5447" nextid="c5449" id="c5448">
+   <header>
+      <usage ms="Cdm" code="02122400">[21r] vesp2 commemoratio</usage>
+      <usage ms="Evm" code="02122800">[49v] vesp2 commemoratio</usage>
+      <usage ms="Pet" code="02122508">[20r] </usage>
+      <usage ms="Wcb" code="02122500">[58r] vesp2 commemoratio</usage>
+      <usage ms="Wor" code="02122800">[23v] commemoration</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Evm Wcb Cdm Wor Pet">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> Virgo dei genitrix quem totus non capit orbis</l>
+         <l part="N"> in tua se clausit viscera factus homo</l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-G CAO-R CAO-D CAO-S Evm Wcb Cdm Wor Pet"> vera fides geniti</rdg>
+               <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-F CAO-L"> vera fide genitus</rdg>
+               <rdg wit="CAO-V"> vera fides genitris</rdg>
+               <rdg wit="CAO-H"> vera fides genitus</rdg>
+            </app> purgavit crimina mundi</l>
+         <l part="N">
+            <app>
+               <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Evm Wcb Cdm Wor Pet"> et tibi virginitas</rdg>
+               <rdg wit="CAO-L"> et tua virginitas</rdg>
+            </app>
+            <app>
+               <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Evm Wcb Cdm Wor Pet"> inviolata manet</rdg>
+               <rdg wit="CAO-M"> inviolata permansit</rdg>
+            </app>
+         </l>
+      </lg>
+   </aBody>
+</ant>

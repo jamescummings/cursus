@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5330" nextid="c5332" id="c5331">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Alb2" code="02010608"/>
+      <usage ms="Hyd" code="02010608"/>
+      <usage ms="Pet" code="02010608"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Alb2 Hyd Pet"> Venient ad te qui detrahebant tibi et adorabunt vestigia pedum tuorum</aBody>
+</ant>

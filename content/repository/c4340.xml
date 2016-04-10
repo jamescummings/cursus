@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4339" nextid="c4341" id="c4340">
+   <aBody wit="CAO-C CAO-M CAO-H CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H"> Postquam surrexit dominus a cena</rdg>
+         <rdg wit="CAO-F"> Postquam surrexit dominus ad cenam</rdg>
+         <rdg wit="CAO-L"> Postquam surrexit dominus a cenam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-M CAO-F CAO-L"> misit aquam in pelvem</rdg>
+         <rdg wit="CAO-C"> misit aqua in pelvem</rdg>
+         <rdg wit="CAO-H"> misit aquam in pelvim</rdg>
+      </app> coepit lavare pedes discipulorum
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-L"> hoc exemplum reliquit eis</rdg>
+         <rdg wit="CAO-F"> hoc exemplum reliquit suis</rdg>
+      </app>
+   </aBody>
+</ant>

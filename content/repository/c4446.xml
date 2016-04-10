@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4445" nextid="c4447" id="c4446">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Quanto eis praecipiebat</rdg>
+         <rdg wit="CAO-M"> Quanto autem eis praecipiebat</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F"> tanto magis plus praedicabant</rdg>
+         <rdg wit="CAO-V CAO-L"> tanto magis plus praedicabat</rdg>
+         <rdg wit="CAO-S"> tanto magis plus praedicaba<add>n</add>t</rdg>
+      </app> et eo amplius admirabantur dicentes
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-L"> bene omnia fecit surdos fecit audire</rdg>
+         <rdg wit="CAO-C"> surdos fecit audire</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S"> bene omnia fecit et surdos fecit audire</rdg>
+      </app> et mutos loqui</aBody>
+</ant>

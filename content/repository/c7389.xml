@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7388" nextid="c7390" id="c7389">
+   <header>
+      <usage ms="Hyd" code="10100000">matins-n1-r4</usage>
+   </header>
+   <rBody wit="CAO-B CAO-E CAO-V CAO-R CAO-L Hyd"> Planxit autem David
+     <app>
+         <rdg wit="CAO-B CAO-R"> planctu magno</rdg>
+         <rdg wit="CAO-E CAO-L Hyd"> planctum magnum</rdg>
+         <rdg wit="CAO-V"> planctum magno</rdg>
+      </app> super Saul
+     <app>
+         <rdg wit="CAO-B CAO-R Hyd"> et Jonathan</rdg>
+         <rdg wit="CAO-E CAO-L"> et Jonathas</rdg>
+         <rdg wit="CAO-V"> et Jonatha</rdg>
+      </app> filium eius et dixit quomodo ceciderunt fortes in bello
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-L Hyd"> et interierunt</rdg>
+         <rdg wit="CAO-E"> et perierunt</rdg>
+         <rdg wit="CAO-V"> et <sic resp="Hesbert">prelierunt</sic>
+         </rdg>
+      </app> arma bellica</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-R"> Montes Gelboe nec ros nec pluvia super vos descendat</vBody>
+      <vBody type="r" wit="CAO-L Hyd"> Montes Gelboe nec ros nec pluvia
+      <app>
+            <rdg wit="CAO-L"> veniant super vos</rdg>
+            <rdg wit="Hyd"> super vos descendat</rdg>
+         </app> ubi ceciderunt
+      <app>
+            <rdg wit="CAO-L"> fortes Israel</rdg>
+            <rdg wit="Hyd">fortes in bello</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-R">Quomodo</rep>
+      <rep type="r" wit="CAO-E">Et perierunt</rep>
+      <prosula wit="CAO-L"> Arma fortis bellica quem expugnare nemo poterat sed propter praeceptum quod non custodierunt ideo perierunt arma bellica</prosula>
+      <rep type="r" wit="CAO-L Hyd">Et interierunt</rep>
+   </verses>
+</res>

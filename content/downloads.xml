@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Downloads</title>
+</head>
+<body>
+<h1>Downloads</h1>
+<p>This is the CURSUS Downloads page.  If you want to make substantial use of our resources, 
+please contact <a href="mailto:James.Cummings@it.ox.ac.uk">James.Cummings@it.ox.ac.uk</a>. The files are
+available in ZIP and TGZ (Tarred GZip) archive formats.  When these files reach a stable 
+state, copies of them will be deposited with the 
+<a href="http://www.ahds.ac.uk/litlangling/">Arts and Humanities Data Service: Literature, 
+Languages and Linguistics</a>, as hosted by the <a href="http://ota.ahds.ac.uk">Oxford Text Archive</a>.</p>
+<ul>
+<li>
+cursus-dtd:
+(<a href="/downloads/cursus-dtd.zip">ZIP</a> |  
+<a href="/downloads/cursus-dtd.tgz">TGZ</a>)   
+This file contains the CURSUS extensions to the TEI P4 DTD.  You will 
+need the rest of TEI P4 if you want to use these DTD extensions to validate 
+CURSUS texts.  If you are not validating CURSUS texts, you do not need them.
+</li>
+<li>
+cursus-tei-dtd 
+(<a href="/downloads/cursus-tei-dtd.zip">ZIP</a> |  
+<a href="/downloads/cursus-tei-dtd.tgz">TGZ</a>)  
+This file contains the CURSUS extensions bundled with the TEI P4 DTD.
+</li>
+<li>
+cursus-mss 
+(<a href="/downloads/cursus-mss.zip">ZIP</a> |  
+<a href="/downloads/cursus-mss.tgz">TGZ</a>)  
+This file contains the unprocessed XML versions of the CURSUS manuscript 
+files.
+</li>
+<li>
+repository 
+(<a href="/downloads/repository.zip">ZIP</a> |  
+<a href="/downloads/repository.tgz">TGZ</a>)  
+This file contains the unprocessed XML of the CURSUS repository 
+of antiphons, responds and prayers in CAO and our manscripts.
+</li>
+<li>
+vulgate 
+(<a href="/downloads/vulgate.zip">ZIP</a> |  
+<a href="/downloads/vulgate.tgz">TGZ</a>)  
+This file contains the unprocessed XML of the CURSUS vulgate 
+files used as a standardised version for biblical readings 
+in our manuscript files.
+</li>
+<li>
+cursus-emacs 
+(<a href="/downloads/cursus-emacs.zip">ZIP</a>  | 
+<a href="/downloads/cursus-emacs.tgz">TGZ</a>)  
+This file contains the CURSUS elisp extensions to EMACS with PGSML 
+used to simplify encoding of the other files used by the CURSUS 
+project.
+</li>
+</ul>
+</body>
+</html>

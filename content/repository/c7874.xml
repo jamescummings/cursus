@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7873" nextid="c7875" id="c7874">
+   <header>
+      <usage ms="Bat" code="07021000">[52r] matins-n3-r12</usage>
+      <usage ms="Cdm" code="07021000">[61v] matins-n3-r12</usage>
+      <usage ms="Cht" code="07021000">[31r] matins-n3-r12</usage>
+      <usage ms="Ely" code="07021000">[72r] matins-n3-r12</usage>
+      <usage ms="Evm" code="07021000">[116r] matins-n3-r12</usage>
+      <usage ms="Hyd" code="07021000">[75v] matins-n3-r12</usage>
+      <usage ms="Mch" code="07021000">[123v] matins-n3-r10</usage>
+      <usage ms="Pet" code="07021000">[69r] matins-n3-r12</usage>
+      <usage ms="Wcb" code="07021000">[98v] matins-n3-r12</usage>
+      <usage ms="Wor" code="07021000">[46r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch"> Vidi dominum facie ad faciem et salva facta est anima mea</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch"> Et dixit</rdg>
+            <rdg wit="CAO-L"> Et dixit mihi</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-E CAO-V CAO-H CAO-D CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch"> nequaquam vocaberis Jacob</rdg>
+            <rdg wit="CAO-B CAO-R CAO-F"> nequaquam ultra vocaberis Jacob</rdg>
+            <rdg wit="CAO-M"> nequaquam vocaberis ultra Jacob</rdg>
+         </app> sed Israel erit nomen tuum</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Hyd Wor Cht Pet Evm Wcb Cdm Bat Mch"> Et salva</rep>
+   </verses>
+</res>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9002" nextid="c9004" id="c9003">
+   <header>
+      <usage ms="Alb2" code="06021000">[68r] matins-n2-r6</usage>
+      <usage ms="Bat" code="06021000">[43v] matins-n2-r6</usage>
+      <usage ms="Cdm" code="06021000">[51v] matins-n2-r6</usage>
+      <usage ms="Ely" code="06021000">[61v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="06021000">[63v] matins-n2-r5</usage>
+      <usage ms="Mch" code="06021000">[103v] matins-n2-r6</usage>
+      <usage ms="Pet" code="06021000">[58v] matins-n2-r6</usage>
+      <usage ms="Wcb" code="06021000">[87v] matins-n2-r7</usage>
+      <usage ms="Wor" code="06021000">[38v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch">
+      <app>
+         <rdg wit="Hyd Wor Pet Ely Wcb Cdm Bat Mch">Peractis centum quinquaginta diebus</rdg>
+         <rdg wit="Alb2">Paractis centum quinquaginta diebus</rdg>
+      </app> dominus aquas imminuit fontes abyssi et cataractas caeli clausit pluviasque de caelo cessare fecit</rBody>
+   <verses>
+      <vBody type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch"> Recordatus dominus Noe et eorum qui erant cum eo</vBody>
+      <rep type="r" wit="Hyd Alb2 Wor Pet Ely Wcb Cdm Bat Mch">Fontes</rep>
+      <dox type="r" wit="Pet">Gloria patri et filio et spiritui sancto</dox>
+   </verses>
+</res>

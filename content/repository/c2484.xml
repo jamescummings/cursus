@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2483" nextid="c2485" id="c2484">
+   <aBody wit="CAO-B CAO-H CAO-R"> Duo homines ascenderunt in templum ut orarent unus pharisaeus et alter publicanus pharisaeus stans haec apud se orabat
+     <app>
+         <rdg wit="CAO-H CAO-R"> deus gratias tibi ago</rdg>
+         <rdg wit="CAO-B"> gratias tibi ago domine</rdg>
+      </app> quia non sum
+     <app>
+         <rdg wit="CAO-B CAO-H"> sicut ceteri homines</rdg>
+         <rdg wit="CAO-R"> sicut ceteri hominum</rdg>
+      </app> raptores iniusti adulteri velut etiam hic publicanus publicanus autem stans percutiebat pectus suum dicens deus propitius esto mihi peccatori</aBody>
+</ant>

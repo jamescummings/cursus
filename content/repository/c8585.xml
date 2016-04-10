@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8584" nextid="c8586" id="c8585">
+   <header>
+      <usage ms="Ely" code="02122500">[17v] vesp1 gosp</usage>
+      <usage ms="Evm" code="02122500">[32v] vesp1 gosp</usage>
+      <usage ms="Pet" code="02122500">[15r] vesp1 gosp</usage>
+      <usage ms="Wcb" code="02122400">[53r] vesp2 gosp</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Extended version of c2519: probably William's cursus</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Evm Wcb Ely Pet"> Ecce iam venit plenitudo temporis in quo misit deus filium suum in terris natum de virgine factum sub lege ut eos qui sub lege erant redimiret</aBody>
+</ant>

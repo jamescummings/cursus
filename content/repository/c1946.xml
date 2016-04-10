@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1945" nextid="c1947" id="c1946">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Credimus Christum filium dei verum deum esse
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-S"> qui sibi talem elegit famulam</rdg>
+         <rdg wit="CAO-C CAO-V"> qui se talem accepit famulam</rdg>
+         <rdg wit="CAO-D CAO-F"> qui te talem elegit famulam</rdg>
+         <rdg wit="CAO-L"> qui te talem possidet famulam</rdg>
+      </app>
+   </aBody>
+</ant>

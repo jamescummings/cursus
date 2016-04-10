@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1553" nextid="c1555" id="c1554">
+   <header>
+      <usage ms="Alb2" code="02011300"/>
+      <usage ms="Hyd" code="02011300"/>
+      <usage ms="Pet" code="02011300"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">AnnMus II (1954) 30-31: EphLit LXXII (1958) 7, 20-26</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Baptizatur Christus et sanctificatur omnis mundus
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Pet"> et tribuit nobis remissionem peccatorum</rdg>
+         <rdg wit="CAO-G CAO-E"> tribuens nobis remissionem peccatorum</rdg>
+         <rdg wit="CAO-B"> retribuens nobis remissionem peccatorum</rdg>
+         <rdg wit="CAO-M"> retribuet nobis remissionem peccatorum</rdg>
+         <rdg wit="CAO-L Alb2"> retribuit nobis remissionem peccatorum</rdg>
+      </app> aqua et spiritu
+     <app>
+         <rdg wit="CAO-G CAO-M CAO-S"> omnes purificemur</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F Alb2 Hyd Pet"> omnes purificamur</rdg>
+         <rdg wit="CAO-E CAO-V"> omnes purificemus</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> omnes purificans</rdg>
+         <rdg wit="CAO-L"> omnes purificamus</rdg>
+      </app>
+   </aBody>
+</ant>

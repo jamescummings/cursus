@@ -1,0 +1,5168 @@
+<?xml version="1.0"?> <!DOCTYPE feastList SYSTEM "feast.dtd">
+<?xml-stylesheet type="text/xsl" href="feast.xsl"?> <!-- List of
+CANTUS project feasts, mailing for 'feastCode' being attached to
+'occasion' as a data file for future use -->
+<feastList>
+<temporale>
+<feast>
+<occasion>LACUNA</occasion>
+<feastCode>00000000</feastCode>
+<description>Indicates missing page(s) in MS</description>
+<date></date></feast>
+<feast>
+<occasion>PALIMPSEST</occasion>
+<feastCode>00000000</feastCode>
+<description>Indicates a palimpsest Office in MS</description>
+<date></date></feast>
+<!-- 
+* Advent 1
+ -->
+<feast>
+<occasion>In tempore Adventus</occasion>
+<feastCode>01000000</feastCode>
+<description>General, in Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. Adventus</occasion>
+<feastCode>01001000</feastCode>
+<description>Sundays in Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Adventus</occasion>
+<feastCode>01002000</feastCode>
+<description>Mondays in Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Adventus</occasion>
+<feastCode>01003000</feastCode>
+<description>Tuesdays in Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Adventus</occasion>
+<feastCode>01004000</feastCode>
+<description>Wednesdays in Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. Adventus</occasion>
+<feastCode>01008000</feastCode>
+<description>Weekdays in Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 1 Adventus</occasion>
+<feastCode>01011000</feastCode>
+<description>1st Sunday of Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 1 Adv.</occasion>
+<feastCode>01012000</feastCode>
+<description>Monday, 1st week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 1 Adv.</occasion>
+<feastCode>01013000</feastCode>
+<description>Tuesday, 1st week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 1 Adv.</occasion>
+<feastCode>01014000</feastCode>
+<description>Wednesday, 1st week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 1 Adv.</occasion>
+<feastCode>01015000</feastCode>
+<description>Thursday, 1st week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 1 Adv.</occasion>
+<feastCode>01016000</feastCode>
+<description>Friday, 1st week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato Hebd. 1 Adv.</occasion>
+<feastCode>01017000</feastCode>
+<description>Saturday, 1st week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 1 Adventus</occasion>
+<feastCode>01018000</feastCode>
+<description>1st week of Advent</description>
+<date></date></feast>
+<!-- 
+* Advent 2
+ -->
+<feast>
+<occasion>Dom. 2 Adventus</occasion>
+<feastCode>01021000</feastCode>
+<description>2nd Sunday of Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 2 Adv.</occasion>
+<feastCode>01022000</feastCode>
+<description>Monday, 2nd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 2 Adv.</occasion>
+<feastCode>01023000</feastCode>
+<description>Tuesday, 2nd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 2 Adv.</occasion>
+<feastCode>01024000</feastCode>
+<description>Wednesday, 2nd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 2 Adv.</occasion>
+<feastCode>01025000</feastCode>
+<description>Thursday, 2nd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 2 Adv.</occasion>
+<feastCode>01026000</feastCode>
+<description>Friday, 2nd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato Hebd. 2 Adv.</occasion>
+<feastCode>01027000</feastCode>
+<description>Saturday, 2nd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 2 Adventus</occasion>
+<feastCode>01028000</feastCode>
+<description>2nd week of Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Q.T. Adventus</occasion>
+<feastCode>01030009</feastCode>
+<description>Ember Days, Advent</description>
+<date></date></feast>
+<!-- 
+* Advent 3
+ -->
+<feast>
+<occasion>Dom. 3 Adventus</occasion>
+<feastCode>01031000</feastCode>
+<description>3rd Sunday of Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 3 Adv.</occasion>
+<feastCode>01032000</feastCode>
+<description>Monday, 3rd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 3 Adv.</occasion>
+<feastCode>01033000</feastCode>
+<description>Tuesday, 3rd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 3 Adv.</occasion>
+<feastCode>01034000</feastCode>
+<description>Wednesday, 3rd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Q.T. Adventus</occasion>
+<feastCode>01034009</feastCode>
+<description>Ember Day, Advent (Wednesday)</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 3 Adv.</occasion>
+<feastCode>01035000</feastCode>
+<description>Thursday, 3rd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Q.T. Adventus</occasion>
+<feastCode>01035009</feastCode>
+<description>Ember Day, Advent (Thursday)</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 3 Adv.</occasion>
+<feastCode>01036000</feastCode>
+<description>Friday, 3rd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Q.T. Adventus</occasion>
+<feastCode>01036009</feastCode>
+<description>Ember Day, Advent (Friday)</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato Hebd. 3 Adv.</occasion>
+<feastCode>01037000</feastCode>
+<description>Saturday, 3rd week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Q.T. Adventus</occasion>
+<feastCode>01037009</feastCode>
+<description>Ember Day, Advent (Saturday)</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 3 Adventus</occasion>
+<feastCode>01038000</feastCode>
+<description>3rd week of Advent</description>
+<date></date></feast>
+<!-- 
+* Advent 4
+ -->
+<feast>
+<occasion>Dom. 4 Adventus</occasion>
+<feastCode>01041000</feastCode>
+<description>4th Sunday of Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 4 Adv.</occasion>
+<feastCode>01042000</feastCode>
+<description>Monday, 4th week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 4 Adv.</occasion>
+<feastCode>01043000</feastCode>
+<description>Tuesday, 4th week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 4 Adv.</occasion>
+<feastCode>01044000</feastCode>
+<description>Wednesday, 4th week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 4 Adv.</occasion>
+<feastCode>01045000</feastCode>
+<description>Thursday, 4th week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 4 Adv.</occasion>
+<feastCode>01046000</feastCode>
+<description>Friday, 4th week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato Hebd. 4 Adv.</occasion>
+<feastCode>01047000</feastCode>
+<description>Saturday, 4th week, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 4 Adventus</occasion>
+<feastCode>01048000</feastCode>
+<description>4th week of Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Antiphonae Majores</occasion>
+<feastCode>01048010</feastCode>
+<description>Great `O' Antiphons</description>
+<date></date></feast>
+<!-- 
+* 8ve Christmas
+ -->
+<feast>
+<occasion>Octava Nat. Domini</occasion>
+<feastCode>02010100</feastCode>
+<description>Octave of Christmas (Circumcision)</description>
+<date>Jan.1</date></feast>
+<feast>
+<occasion>Octava Nat. Domini,8</occasion>
+<feastCode>02010108</feastCode>
+<description>In week after Octave of Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. S. Stephani</occasion>
+<feastCode>02010200</feastCode>
+<description>Octave of Stephen</description>
+<date>Jan.2</date></feast>
+<feast>
+<occasion>Oct. S. Joannis Ev.</occasion>
+<feastCode>02010300</feastCode>
+<description>Octave of John the Evangelist</description>
+<date>Jan.3</date></feast>
+<feast>
+<occasion>Oct. Nat. Innocent.</occasion>
+<feastCode>02010400</feastCode>
+<description>Octave of Holy Innocents</description>
+<date>Jan.4</date></feast>
+<!-- 
+* Epiphany
+ --><
+feast>
+<occasion>Vigilia Epiphaniae</occasion>
+<feastCode>02010500</feastCode>
+<description>Eve of Epiphany</description>
+<date>Jan.5</date></feast>
+<feast>
+<occasion>Epiphania</occasion>
+<feastCode>02010600</feastCode>
+<description>Epiphany</description>
+<date>Jan.6</date></feast>
+<feast>
+<occasion>Epiphania,8</occasion>
+<feastCode>02010608</feastCode>
+<description>In week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Die 2 p. Epiphaniam</occasion>
+<feastCode>02010700</feastCode>
+<description>1st day after Epiphany</description>
+<date>Jan.7</date></feast>
+<feast>
+<occasion>Die 3 p. Epiphaniam</occasion>
+<feastCode>02010800</feastCode>
+<description>2nd day after Epiphany</description>
+<date>Jan.8</date></feast>
+<feast>
+<occasion>Die 4 p. Epiphaniam</occasion>
+<feastCode>02010900</feastCode>
+<description>3rd day after Epiphany</description>
+<date>Jan.9</date></feast>
+<feast>
+<occasion>Die 5 p. Epiphaniam</occasion>
+<feastCode>02011000</feastCode>
+<description>4th day after Epiphany</description>
+<date>Jan.10</date></feast>
+<feast>
+<occasion>Die 6 p. Epiphaniam</occasion>
+<feastCode>02011100</feastCode>
+<description>5th day after Epiphany</description>
+<date>Jan.11</date></feast>
+<feast>
+<occasion>Die 7 p. Epiphaniam</occasion>
+<feastCode>02011200</feastCode>
+<description>6th day after Epiphany</description>
+<date>Jan.12</date></feast>
+<feast>
+<occasion>Octava Epiphaniae</occasion>
+<feastCode>02011300</feastCode>
+<description>Octave of Epiphany</description>
+<date>Jan.13</date></feast>
+<!-- 
+* Christmas
+ -->
+<feast>
+<occasion>Vigilia Nat. Domini</occasion>
+<feastCode>02122400</feastCode>
+<description>Christmas Eve</description>
+<date>Dec.24</date></feast>
+<feast>
+<occasion>Nativitas Domini</occasion>
+<feastCode>02122500</feastCode>
+<description>Christmas Day</description>
+<date>Dec.25</date></feast>
+<feast>
+<occasion>Nativitas Domini,8</occasion>
+<feastCode>02122508</feastCode>
+<description>In week after Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>S. Stephani</occasion>
+<feastCode>02122600</feastCode>
+<description>Stephen the First Martyr</description>
+<date>Dec.26</date></feast>
+<feast>
+<occasion>S. Stephani,8</occasion>
+<feastCode>02122608</feastCode>
+<description>In week after Stephen</description>
+<date></date></feast>
+<feast>
+<occasion>S. Joannis Evang.</occasion>
+<feastCode>02122700</feastCode>
+<description>John the Evangelist</description>
+<date>Dec.27</date></feast>
+<feast>
+<occasion>S. Joannis Evang.,8</occasion>
+<feastCode>02122708</feastCode>
+<description>In week after John the Evangelist</description>
+<date></date></feast>
+<feast>
+<occasion>Nat. Innocentium</occasion>
+<feastCode>02122800</feastCode>
+<description>Holy Innocents</description>
+<date>Dec.28</date></feast>
+<feast>
+<occasion>Nat. Innocentium,8</occasion>
+<feastCode>02122808</feastCode>
+<description>In week after Holy Innocents</description>
+<date></date></feast>
+<feast>
+<occasion>Die 5 p. Nat. Domini</occasion>
+<feastCode>02122900</feastCode>
+<description>4th day after Christmas</description>
+<date>Dec.29</date></feast>
+<feast>
+<occasion>Die 6 p. Nat. Domini</occasion>
+<feastCode>02123000</feastCode>
+<description>5th day after Christmas</description>
+<date>Dec.30</date></feast>
+<feast>
+<occasion>Die 7 p. Nat. Domini</occasion>
+<feastCode>02123100</feastCode>
+<description>6th day after Christmas</description>
+<date>Dec.31</date></feast>
+<feast>
+<occasion>In tempore Nat.</occasion>
+<feastCode>03000000</feastCode>
+<description>General, in Christmastide</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. p. Nat. Dom.</occasion>
+<feastCode>03021000</feastCode>
+<description>Sunday after Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 p. Nat. Dom.</occasion>
+<feastCode>03022000</feastCode>
+<description>Monday, week after Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 p. Nat. Dom.</occasion>
+<feastCode>03023000</feastCode>
+<description>Tuesday, week after Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 p. Nat. Dom.</occasion>
+<feastCode>03024000</feastCode>
+<description>Wednesday, week after Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 p. Nat. Dom.</occasion>
+<feastCode>03025000</feastCode>
+<description>Thursday, week after Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 p. Nat. Dom.</occasion>
+<feastCode>03026000</feastCode>
+<description>Friday, week after Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. p. Nat. Dom.</occasion>
+<feastCode>03027000</feastCode>
+<description>Saturday after Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. p. Oct. Nat.</occasion>
+<feastCode>03031000</feastCode>
+<description>Sunday after Octave of Christmas</description>
+<date></date></feast>
+<!-- 
+* Ferial Office
+ -->
+<feast>
+<occasion>Dom. per annum</occasion>
+<feastCode>04001000</feastCode>
+<description>Sundays, Ferial Office</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 2 per annum</occasion>
+<feastCode>04002000</feastCode>
+<description>Mondays, Ferial Office</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 3 per annum</occasion>
+<feastCode>04003000</feastCode>
+<description>Tuesdays, Ferial Office</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 4 per annum</occasion>
+<feastCode>04004000</feastCode>
+<description>Wednesdays, Ferial Office</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 5 per annum</occasion>
+<feastCode>04005000</feastCode>
+<description>Thursdays, Ferial Office</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 6 per annum</occasion>
+<feastCode>04006000</feastCode>
+<description>Fridays, Ferial Office</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato per annum</occasion>
+<feastCode>04007000</feastCode>
+<description>Saturdays, Ferial Office</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. per annum</occasion>
+<feastCode>04008000</feastCode>
+<description>Weekdays, Ferial Office</description>
+<date></date></feast>
+<!-- 
+* Epiphany-time
+ -->
+<feast>
+<occasion>In tempore Epiph.</occasion>
+<feastCode>05000000</feastCode>
+<description>General, after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. p. Epiphaniam</occasion>
+<feastCode>05001000</feastCode>
+<description>Sundays after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 p. Epiphaniam</occasion>
+<feastCode>05002000</feastCode>
+<description>Monday, week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 p. Epiphaniam</occasion>
+<feastCode>05003000</feastCode>
+<description>Tuesday, week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 p. Epiphaniam</occasion>
+<feastCode>05004000</feastCode>
+<description>Wednesday, week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 p. Epiphaniam</occasion>
+<feastCode>05005000</feastCode>
+<description>Thursday, week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 p. Epiphaniam</occasion>
+<feastCode>05006000</feastCode>
+<description>Friday, week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. p. Epiphaniam</occasion>
+<feastCode>05007000</feastCode>
+<description>Saturday after Epiphany</description>
+<date></date></feast>
+<!-- 
+* Epiphany 1
+ -->
+<feast>
+<occasion>Dom. 1 p. Epiph.</occasion>
+<feastCode>05011000</feastCode>
+<description>1st Sunday after Epiphany (also Dom. Infra Oct. Epiph.)</description>
+<date></date></feast>
+<!-- 
+* Epiphany 2
+ -->
+<feast>
+<occasion>Dom. 2 p. Epiph.</occasion>
+<feastCode>05021000</feastCode>
+<description>2nd Sunday after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 2 p. Epiph.,8</occasion>
+<feastCode>05021008</feastCode>
+<description>In 3rd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 2 p.Ep.</occasion>
+<feastCode>05022000</feastCode>
+<description>Monday, 2nd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 2 p.Ep.</occasion>
+<feastCode>05023000</feastCode>
+<description>Tuesday, 2nd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 2 p.Ep.</occasion>
+<feastCode>05024000</feastCode>
+<description>Wednesday, 2nd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 2 p.Ep.</occasion>
+<feastCode>05025000</feastCode>
+<description>Thursday, 2nd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 2 p.Ep.</occasion>
+<feastCode>05026000</feastCode>
+<description>Friday, 2nd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Hebd. 2 p. Ep.</occasion>
+<feastCode>05027000</feastCode>
+<description>Saturday, 2nd week after Epiphany</description>
+<date></date></feast>
+<!-- 
+* Epiphany 3
+ -->
+<feast>
+<occasion>Dom. 3 p. Epiph.</occasion>
+<feastCode>05031000</feastCode>
+<description>3rd Sunday after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 3 p.Ep.</occasion>
+<feastCode>05032000</feastCode>
+<description>Monday, 3rd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 3 p.Ep.</occasion>
+<feastCode>05033000</feastCode>
+<description>Tuesday, 3rd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 3 p.Ep.</occasion>
+<feastCode>05034000</feastCode>
+<description>Wednesday, 3rd week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Hebd. 3 p. Ep.</occasion>
+<feastCode>05037000</feastCode>
+<description>Saturday, 3rd week after Epiphany</description>
+<date></date></feast>
+<!-- 
+* Epiphany 4
+ -->
+<feast>
+<occasion>Dom. 4 p. Epiph.</occasion>
+<feastCode>05041000</feastCode>
+<description>4th Sunday after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 4 p.Ep.</occasion>
+<feastCode>05042000</feastCode>
+<description>Monday, 4th week after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Hebd. 4 p. Ep.</occasion>
+<feastCode>05047000</feastCode>
+<description>Saturday, 4th week after Epiphany</description>
+<date></date></feast>
+<!-- 
+* Epiphany 5
+ -->
+<feast>
+<occasion>Dom. 5 p. Epiph.</occasion>
+<feastCode>05051000</feastCode>
+<description>5th Sunday after Epiphany</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 5 p.Ep.</occasion>
+<feastCode>05052000</feastCode>
+<description>Monday, 5th week after Epiphany</description>
+<date></date></feast>
+<!-- 
+* Epiphany 6
+ -->
+<feast>
+<occasion>Dom. 6 p. Epiph.</occasion>
+<feastCode>05061000</feastCode>
+<description>6th Sunday after Epiphany</description>
+<date></date></feast>
+<!-- 
+* Septuagesima
+ -->
+<feast>
+<occasion>Dom. Septuagesimae</occasion>
+<feastCode>06011000</feastCode>
+<description>Septuagesima Sunday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Septuagesimae</occasion>
+<feastCode>06012000</feastCode>
+<description>Septuagesima Monday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Septuagesimae</occasion>
+<feastCode>06013000</feastCode>
+<description>Septuagesima Tuesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Septuagesimae</occasion>
+<feastCode>06014000</feastCode>
+<description>Septuagesima Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Septuagesimae</occasion>
+<feastCode>06015000</feastCode>
+<description>Septuagesima Thursday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Septuagesimae</occasion>
+<feastCode>06016000</feastCode>
+<description>Septuagesima Friday</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Septuagesimae</occasion>
+<feastCode>06017000</feastCode>
+<description>Septuagesima Saturday</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. Septuagesimae</occasion>
+<feastCode>06018000</feastCode>
+<description>Week after Septuagesima</description>
+<date></date></feast>
+<!-- 
+* Sexagesima
+ -->
+<feast>
+<occasion>Dom. Sexagesimae</occasion>
+<feastCode>06021000</feastCode>
+<description>Sexagesima Sunday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Sexagesimae</occasion>
+<feastCode>06022000</feastCode>
+<description>Sexagesima Monday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Sexagesimae</occasion>
+<feastCode>06023000</feastCode>
+<description>Sexagesima Tuesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Sexagesimae</occasion>
+<feastCode>06024000</feastCode>
+<description>Sexagesima Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Sexagesimae</occasion>
+<feastCode>06025000</feastCode>
+<description>Sexagesima Thursday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Sexagesimae</occasion>
+<feastCode>06026000</feastCode>
+<description>Sexagesima Friday</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Sexagesimae</occasion>
+<feastCode>06027000</feastCode>
+<description>Sexagesima Saturday</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. Sexagesimae</occasion>
+<feastCode>06028000</feastCode>
+<description>Week after Sexagesima</description>
+<date></date></feast>
+<!-- 
+* Quinquagesima
+ -->
+<feast>
+<occasion>Dom. Quinquagesimae</occasion>
+<feastCode>06031000</feastCode>
+<description>Quinquagesima Sunday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Quinquages.</occasion>
+<feastCode>06032000</feastCode>
+<description>Quinquagesima Monday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Quinquages.</occasion>
+<feastCode>06033000</feastCode>
+<description>Quinquagesima Tuesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Cinerum</occasion>
+<feastCode>06034000</feastCode>
+<description>Ash Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 post Cineres</occasion>
+<feastCode>06035000</feastCode>
+<description>Thursday after Ash Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 post Cineres</occasion>
+<feastCode>06036000</feastCode>
+<description>Friday after Ash Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato post Cineres</occasion>
+<feastCode>06037000</feastCode>
+<description>Saturday after Ash Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. Quinquagesimae</occasion>
+<feastCode>06038000</feastCode>
+<description>Week after Quinquagesima</description>
+<date></date></feast>
+<!-- 
+* Quadragesima 
+ -->
+<feast>
+<occasion>In tempore Quad.</occasion>
+<feastCode>07000000</feastCode>
+<description>General, in Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. Quadragesimae</occasion>
+<feastCode>07001000</feastCode>
+<description>Sundays in Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Quadragesimae</occasion>
+<feastCode>07002000</feastCode>
+<description>Mondays in Lent</description>
+<date></date></feast>
+<!-- 
+* Quadragesima 1
+ -->
+<feast>
+<occasion>Dom. 1 Quadragesimae</occasion>
+<feastCode>07011000</feastCode>
+<description>1st Sunday of Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 1 Quad.</occasion>
+<feastCode>07012000</feastCode>
+<description>Monday, 1st week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 1 Quad.</occasion>
+<feastCode>07013000</feastCode>
+<description>Tuesday, 1st week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 1 Quad.</occasion>
+<feastCode>07014000</feastCode>
+<description>Wednesday, 1st week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Q.T. Quad.</occasion>
+<feastCode>07014009</feastCode>
+<description>Ember Day, Lent (Wednesday)</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 1 Quad.</occasion>
+<feastCode>07015000</feastCode>
+<description>Thursday, 1st week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 1 Quad.</occasion>
+<feastCode>07016000</feastCode>
+<description>Friday, 1st week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Q.T. Quad.</occasion>
+<feastCode>07016009</feastCode>
+<description>Ember Day, Lent (Friday)</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Hebd. 1 Quad.</occasion>
+<feastCode>07017000</feastCode>
+<description>Saturday, 1st week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 1 Quad.</occasion>
+<feastCode>07018000</feastCode>
+<description>1st week of Lent</description>
+<date></date></feast>
+<!-- 
+* Quadragesima 2
+ -->
+<feast>
+<occasion>Dom. 2 Quadragesimae</occasion>
+<feastCode>07021000</feastCode>
+<description>2nd Sunday of Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 2 Quad.</occasion>
+<feastCode>07022000</feastCode>
+<description>Monday, 2nd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 2 Quad.</occasion>
+<feastCode>07023000</feastCode>
+<description>Tuesday, 2nd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 2 Quad.</occasion>
+<feastCode>07024000</feastCode>
+<description>Wednesday, 2nd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 2 Quad.</occasion>
+<feastCode>07025000</feastCode>
+<description>Thursday, 2nd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 2 Quad.</occasion>
+<feastCode>07026000</feastCode>
+<description>Friday, 2nd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Hebd. 2 Quad.</occasion>
+<feastCode>07027000</feastCode>
+<description>Saturday, 2nd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 2 Quad.</occasion>
+<feastCode>07028000</feastCode>
+<description>2nd week of Lent</description>
+<date></date></feast>
+<!-- 
+* Quadragesima 3
+ -->
+<feast>
+<occasion>Dom. 3 Quadragesimae</occasion>
+<feastCode>07031000</feastCode>
+<description>3rd Sunday of Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 3 Quad.</occasion>
+<feastCode>07032000</feastCode>
+<description>Monday, 3rd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 3 Quad.</occasion>
+<feastCode>07033000</feastCode>
+<description>Tuesday, 3rd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 3 Quad.</occasion>
+<feastCode>07034000</feastCode>
+<description>Wednesday, 3rd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 3 Quad.</occasion>
+<feastCode>07035000</feastCode>
+<description>Thursday, 3rd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 3 Quad.</occasion>
+<feastCode>07036000</feastCode>
+<description>Friday, 3rd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Hebd. 3 Quad.</occasion>
+<feastCode>07037000</feastCode>
+<description>Saturday, 3rd week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 3 Quad.</occasion>
+<feastCode>07038000</feastCode>
+<description>3rd week of Lent</description>
+<date></date></feast>
+<!-- 
+* Quadragesima 4
+ -->
+<feast>
+<occasion>Dom. 4 Quadragesimae</occasion>
+<feastCode>07041000</feastCode>
+<description>4th Sunday of Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 4 Quad.</occasion>
+<feastCode>07042000</feastCode>
+<description>Monday, 4th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 4 Quad.</occasion>
+<feastCode>07043000</feastCode>
+<description>Tuesday, 4th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 4 Quad.</occasion>
+<feastCode>07044000</feastCode>
+<description>Wednesday, 4th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 4 Quad.</occasion>
+<feastCode>07045000</feastCode>
+<description>Thursday, 4th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 4 Quad.</occasion>
+<feastCode>07046000</feastCode>
+<description>Friday, 4th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Hebd. 4 Quad.</occasion>
+<feastCode>07047000</feastCode>
+<description>Saturday, 4th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 4 Quad.</occasion>
+<feastCode>07048000</feastCode>
+<description>4th week of Lent</description>
+<date></date></feast>
+<!-- 
+* Passion Sunday
+ -->
+<feast>
+<occasion>Dom. de Passione</occasion>
+<feastCode>07051000</feastCode>
+<description>5th Sunday of Lent (Passion Sunday)</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 de Passione</occasion>
+<feastCode>07052000</feastCode>
+<description>Monday, 5th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 de Passione</occasion>
+<feastCode>07053000</feastCode>
+<description>Tuesday, 5th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 de Passione</occasion>
+<feastCode>07054000</feastCode>
+<description>Wednesday, 5th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 de Passione</occasion>
+<feastCode>07055000</feastCode>
+<description>Thursday, 5th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 de Passione</occasion>
+<feastCode>07056000</feastCode>
+<description>Friday, 5th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. de Passione</occasion>
+<feastCode>07057000</feastCode>
+<description>Saturday, 6th week, Lent</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. de Passione</occasion>
+<feastCode>07058000</feastCode>
+<description>5th week of Lent</description>
+<date></date></feast>
+<!-- 
+* Palm Sunday & Holy Week
+ -->
+<feast>
+<occasion>Dom. in Palmis</occasion>
+<feastCode>07061000</feastCode>
+<description>Palm Sunday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Maj. Hebd.</occasion>
+<feastCode>07062000</feastCode>
+<description>Monday, Holy Week</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Maj. Hebd.</occasion>
+<feastCode>07063000</feastCode>
+<description>Tuesday, Holy Week</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Maj. Hebd.</occasion>
+<feastCode>07064000</feastCode>
+<description>Wednesday, Holy Week</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 in Cena Dom.</occasion>
+<feastCode>07065000</feastCode>
+<description>Holy Thursday (Maundy Thursday)</description>
+<date></date></feast>
+<feast>
+<occasion>Ad Mandatum</occasion>
+<feastCode>07065010</feastCode>
+<description>At the Mandatum (Foot-Washing)</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 in Parasceve</occasion>
+<feastCode>07066000</feastCode>
+<description>Good Friday</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato Sancto</occasion>
+<feastCode>07067000</feastCode>
+<description>Holy Saturday</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. Sancta</occasion>
+<feastCode>07068000</feastCode>
+<description>Holy Week</description>
+<date></date></feast>
+<feast>
+<occasion>In Triduum</occasion>
+<feastCode>07069000</feastCode>
+<description>General, during the Triduum</description>
+<date></date></feast>
+<!-- 
+* Easter Time
+ -->
+<feast>
+<occasion>In tempore Paschae</occasion>
+<feastCode>08000000</feastCode>
+<description>General, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Dominica TP</occasion>
+<feastCode>08001000</feastCode>
+<description>Sundays in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 2 TP</occasion>
+<feastCode>08002000</feastCode>
+<description>Mondays in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 3 TP</occasion>
+<feastCode>08003000</feastCode>
+<description>Tuesdays in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 4 TP</occasion>
+<feastCode>08004000</feastCode>
+<description>Wednesdays in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 5 TP</occasion>
+<feastCode>08005000</feastCode>
+<description>Thursdays in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 6 TP</occasion>
+<feastCode>08006000</feastCode>
+<description>Fridays in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato TP</occasion>
+<feastCode>08007000</feastCode>
+<description>Saturdays in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. TP</occasion>
+<feastCode>08008000</feastCode>
+<description>Weekdays in Eastertide</description>
+<date></date></feast>
+<!-- 
+* Easter Day
+ -->
+<feast>
+<occasion>Dom. Resurrectionis</occasion>
+<feastCode>08011000</feastCode>
+<description>Easter Sunday</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. Resurrect.,8</occasion>
+<feastCode>08011008</feastCode>
+<description>In week after Easter Sunday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 p. Pascha</occasion>
+<feastCode>08012000</feastCode>
+<description>Easter Monday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 p. Pascha</occasion>
+<feastCode>08013000</feastCode>
+<description>Easter Tuesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 p. Pascha</occasion>
+<feastCode>08014000</feastCode>
+<description>Easter Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 p. Pascha</occasion>
+<feastCode>08015000</feastCode>
+<description>Easter Thursday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 p. Pascha</occasion>
+<feastCode>08016000</feastCode>
+<description>Easter Friday</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato in Albis</occasion>
+<feastCode>08017000</feastCode>
+<description>Easter Saturday</description>
+<date></date></feast>
+<feast>
+<occasion>Pascha Annotinum</occasion>
+<feastCode>08020100</feastCode>
+<description>Memorial of past year's Easter</description>
+<date></date></feast>
+<!-- 
+* Octave of Easter
+ -->
+<feast>
+<occasion>Octava Paschae</occasion>
+<feastCode>08021000</feastCode>
+<description>Octave of Easter (also Dominica in Albis)</description>
+<date></date></feast>
+<feast>
+<occasion>Octava Paschae,8</occasion>
+<feastCode>08021008</feastCode>
+<description>In 2nd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 p. Oct.Pasch.</occasion>
+<feastCode>08022000</feastCode>
+<description>Monday, 2nd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 p. Oct.Pasch.</occasion>
+<feastCode>08023000</feastCode>
+<description>Tuesday, 2nd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 p. Oct.Pasch.</occasion>
+<feastCode>08024000</feastCode>
+<description>Wednesday, 2nd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 p. Oct.Pasch.</occasion>
+<feastCode>08025000</feastCode>
+<description>Thursday, 2nd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 p. Oct.Pasch.</occasion>
+<feastCode>08026000</feastCode>
+<description>Friday, 2nd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>De Sancta Lancea</occasion>
+<feastCode>08026010</feastCode>
+<description>The Holy Lance; on the Friday after the Octave of Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. p. Oct. Pasch.</occasion>
+<feastCode>08027000</feastCode>
+<description>Saturday, 2nd week after Easter</description>
+<date></date></feast>
+<!-- 
+* Easter 2
+ -->
+<feast>
+<occasion>Hebd. 2 p. Pascha</occasion>
+<feastCode>08028000</feastCode>
+<description>2nd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 2 p. Pascha</occasion>
+<feastCode>08031000</feastCode>
+<description>2nd Sunday after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 2 p. Pascha,8</occasion>
+<feastCode>08031008</feastCode>
+<description>In 3rd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 3 Pasc.</occasion>
+<feastCode>08032000</feastCode>
+<description>Monday, 3rd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 3 Pasc.</occasion>
+<feastCode>08033000</feastCode>
+<description>Tuesday, 3rd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 3 Pasc.</occasion>
+<feastCode>08034000</feastCode>
+<description>Wednesday, 3rd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 3 Pasc.</occasion>
+<feastCode>08035000</feastCode>
+<description>Thursday, 3rd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 3 Pasc.</occasion>
+<feastCode>08036000</feastCode>
+<description>Friday, 3rd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato 3 p. Pascha</occasion>
+<feastCode>08037000</feastCode>
+<description>Saturday, 3rd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 3 p. Pascha</occasion>
+<feastCode>08038000</feastCode>
+<description>3rd week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 3 p. Pascha</occasion>
+<feastCode>08041000</feastCode>
+<description>3rd Sunday after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 3 p. Pascha,8</occasion>
+<feastCode>08041008</feastCode>
+<description>In 4th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 4 Pasc.</occasion>
+<feastCode>08042000</feastCode>
+<description>Monday, 4th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 4 Pasc.</occasion>
+<feastCode>08043000</feastCode>
+<description>Tuesday, 4th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 4 Pasc.</occasion>
+<feastCode>08044000</feastCode>
+<description>Wednesday, 4th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 4 Pasc.</occasion>
+<feastCode>08045000</feastCode>
+<description>Thursday, 4th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 4 Pasc.</occasion>
+<feastCode>08046000</feastCode>
+<description>Friday, 4th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Compassio Mariae TP</occasion>
+<feastCode>08046010</feastCode>
+<description>The Sorrows of Mary, celebrated Friday after third</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato 4 p. Pascha</occasion>
+<feastCode>08047000</feastCode>
+<description>Saturday, 4th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 4 p. Pascha</occasion>
+<feastCode>08048000</feastCode>
+<description>4th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 4 p. Pascha</occasion>
+<feastCode>08051000</feastCode>
+<description>4th Sunday after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 4 p. Pascha,8</occasion>
+<feastCode>08051008</feastCode>
+<description>In 5th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Hebd. 5 Pasc.</occasion>
+<feastCode>08052000</feastCode>
+<description>Monday, 5th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Hebd. 5 Pasc.</occasion>
+<feastCode>08053000</feastCode>
+<description>Tuesday, 5th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Hebd. 5 Pasc.</occasion>
+<feastCode>08054000</feastCode>
+<description>Wednesday, 5th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Hebd. 5 Pasc.</occasion>
+<feastCode>08055000</feastCode>
+<description>Thursday, 5th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Hebd. 5 Pasc.</occasion>
+<feastCode>08056000</feastCode>
+<description>Friday, 5th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato 5 p. Pascha</occasion>
+<feastCode>08057000</feastCode>
+<description>Saturday, 6th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 5 p. Pascha</occasion>
+<feastCode>08058000</feastCode>
+<description>5th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 5 p. Pascha</occasion>
+<feastCode>08061000</feastCode>
+<description>5th Sunday after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 in Letaniis</occasion>
+<feastCode>08062000</feastCode>
+<description>Rogation Monday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 in Letaniis</occasion>
+<feastCode>08063000</feastCode>
+<description>Rogation Tuesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 in Letaniis</occasion>
+<feastCode>08064000</feastCode>
+<description>Rogation Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Ascensio Domini</occasion>
+<feastCode>08065000</feastCode>
+<description>Ascension Thursday</description>
+<date></date></feast>
+<feast>
+<occasion>Ascensio Domini,8</occasion>
+<feastCode>08065008</feastCode>
+<description>In week after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 p. Ascensio.</occasion>
+<feastCode>08066000</feastCode>
+<description>Friday after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. p. Ascensionem</occasion>
+<feastCode>08067000</feastCode>
+<description>Saturday after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. 6 p. Pascha</occasion>
+<feastCode>08068000</feastCode>
+<description>6th week after Easter</description>
+<date></date></feast>
+<feast>
+<occasion>In Letaniis</occasion>
+<feastCode>08068010</feastCode>
+<description>General, Rogation Days</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. p. Ascensionem</occasion>
+<feastCode>08071000</feastCode>
+<description>Sunday after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 p. Ascensio.</occasion>
+<feastCode>08072000</feastCode>
+<description>Monday, week after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 p. Ascensio.</occasion>
+<feastCode>08073000</feastCode>
+<description>Tuesday, week after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 p. Ascensio.</occasion>
+<feastCode>08074000</feastCode>
+<description>Wednesday, week after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. Ascens. Domini</occasion>
+<feastCode>08075000</feastCode>
+<description>Octave of Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 p. Oct. Asc.</occasion>
+<feastCode>08076000</feastCode>
+<description>Friday, week after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Vig. Pentecostes</occasion>
+<feastCode>08077000</feastCode>
+<description>Eve of Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. p. Oct. Asc.</occasion>
+<feastCode>08077100</feastCode>
+<description>Saturday, week after Ascension</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. Pentecostes</occasion>
+<feastCode>08081000</feastCode>
+<description>Pentecost Sunday (Whitsunday)</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. Pentecostes,8</occasion>
+<feastCode>08081008</feastCode>
+<description>In week after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Pent.</occasion>
+<feastCode>08082000</feastCode>
+<description>Pentecost Monday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Pent.</occasion>
+<feastCode>08083000</feastCode>
+<description>Pentecost Tuesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Pent.</occasion>
+<feastCode>08084000</feastCode>
+<description>Pentecost Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 5 Pent.</occasion>
+<feastCode>08085000</feastCode>
+<description>Pentecost Thursday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Pent.</occasion>
+<feastCode>08086000</feastCode>
+<description>Pentecost Friday</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato Pent.</occasion>
+<feastCode>08087000</feastCode>
+<description>Pentecost Saturday</description>
+<date></date></feast>
+<feast>
+<occasion>Octava Pentecostes</occasion>
+<feastCode>08091000</feastCode>
+<description>Octave of Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. p. Pent.</occasion>
+<feastCode>09001000</feastCode>
+<description>Sundays after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Hebd. p. Pent.</occasion>
+<feastCode>09008000</feastCode>
+<description>Weekdays after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>De Trinitate</occasion>
+<feastCode>09011000</feastCode>
+<description>Trinity Sunday</description>
+<date></date></feast>
+<feast>
+<occasion>De Trinitate,8</occasion>
+<feastCode>09011008</feastCode>
+<description>In the week after Trinity Sunday</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 1 p. Pent.</occasion>
+<feastCode>09011010</feastCode>
+<description>1st Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Trinitate</occasion>
+<feastCode>09013000</feastCode>
+<description>Trinity Tuesday</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Trinitate</occasion>
+<feastCode>09014000</feastCode>
+<description>Trinity Wednesday</description>
+<date></date></feast>
+<feast>
+<occasion>Corporis Christi</occasion>
+<feastCode>09015000</feastCode>
+<description>Corpus Christi (Blessed Sacrament)</description>
+<date></date></feast>
+<feast>
+<occasion>Corporis Christi,8</occasion>
+<feastCode>09015008</feastCode>
+<description>In week after Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Cor. Christi</occasion>
+<feastCode>09016000</feastCode>
+<description>Friday after Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb. Cor. Christi</occasion>
+<feastCode>09017000</feastCode>
+<description>Saturday after Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 2 p. Pent.</occasion>
+<feastCode>09021000</feastCode>
+<description>2nd Sunday after Pentecost (also Dom. 1 p. oct. Pent.)</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 2 p. Pent.,8</occasion>
+<feastCode>09021008</feastCode>
+<description>In 3rd week after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. p. Cor. Christi</occasion>
+<feastCode>09021010</feastCode>
+<description>Sunday after Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 2 Cor. Christi</occasion>
+<feastCode>09022000</feastCode>
+<description>Monday after Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 3 Cor. Christi</occasion>
+<feastCode>09023000</feastCode>
+<description>Tuesday after Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Cor. Christi</occasion>
+<feastCode>09024000</feastCode>
+<description>Wednesday after Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Oct.Corporis Christi</occasion>
+<feastCode>09025000</feastCode>
+<description>Octave of Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Sabb.p.Oct.Cor.Chri.</occasion>
+<feastCode>09027000</feastCode>
+<description>Saturday after Octave of Corpus Christi</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 3 p. Pent.</occasion>
+<feastCode>09031000</feastCode>
+<description>3rd Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 4 p. Pent.</occasion>
+<feastCode>09041000</feastCode>
+<description>4th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 5 p. Pent.</occasion>
+<feastCode>09051000</feastCode>
+<description>5th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 6 p. Pent.</occasion>
+<feastCode>09061000</feastCode>
+<description>6th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 7 p. Pent.</occasion>
+<feastCode>09071000</feastCode>
+<description>7th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 8 p. Pent.</occasion>
+<feastCode>09081000</feastCode>
+<description>8th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 9 p. Pent.</occasion>
+<feastCode>09091000</feastCode>
+<description>9th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 10 p. Pent.</occasion>
+<feastCode>09101000</feastCode>
+<description>10th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 11 p. Pent.</occasion>
+<feastCode>09111000</feastCode>
+<description>11th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 12 p. Pent.</occasion>
+<feastCode>09121000</feastCode>
+<description>12th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 13 p. Pent.</occasion>
+<feastCode>09131000</feastCode>
+<description>13th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 14 p. Pent.</occasion>
+<feastCode>09141000</feastCode>
+<description>14th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 15 p. Pent.</occasion>
+<feastCode>09151000</feastCode>
+<description>15th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 16 p. Pent.</occasion>
+<feastCode>09161000</feastCode>
+<description>16th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 17 p. Pent.</occasion>
+<feastCode>09171000</feastCode>
+<description>17th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 18 p. Pent.</occasion>
+<feastCode>09181000</feastCode>
+<description>18th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 19 p. Pent.</occasion>
+<feastCode>09191000</feastCode>
+<description>19th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 20 p. Pent.</occasion>
+<feastCode>09201000</feastCode>
+<description>20th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 21 p. Pent.</occasion>
+<feastCode>09211000</feastCode>
+<description>21st Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 22 p. Pent.</occasion>
+<feastCode>09221000</feastCode>
+<description>22nd Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 23 p. Pent.</occasion>
+<feastCode>09231000</feastCode>
+<description>23rd Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 24 p. Pent.</occasion>
+<feastCode>09241000</feastCode>
+<description>24th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 25 p. Pent.</occasion>
+<feastCode>09251000</feastCode>
+<description>25th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 26 p. Pent.</occasion>
+<feastCode>09261000</feastCode>
+<description>26th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 27 p. Pent.</occasion>
+<feastCode>09271000</feastCode>
+<description>27th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. 28 p. Pent.</occasion>
+<feastCode>09281000</feastCode>
+<description>28th Sunday after Pentecost</description>
+<date></date></feast>
+<feast>
+<occasion>In estate</occasion>
+<feastCode>10000000</feastCode>
+<description>General, in summer</description>
+<date></date></feast>
+<feast>
+<occasion>Dominica in estate</occasion>
+<feastCode>10001000</feastCode>
+<description>Sundays in summer</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 2 in estate</occasion>
+<feastCode>10002000</feastCode>
+<description>Mondays in summer</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 3 in estate</occasion>
+<feastCode>10003000</feastCode>
+<description>Tuesdays in summer</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 4 in estate</occasion>
+<feastCode>10004000</feastCode>
+<description>Wednesdays in summer</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 5 in estate</occasion>
+<feastCode>10005000</feastCode>
+<description>Thursdays in summer</description>
+<date></date></feast>
+<feast>
+<occasion>Feria 6 in estate</occasion>
+<feastCode>10006000</feastCode>
+<description>Fridays in summer</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato in estate</occasion>
+<feastCode>10007000</feastCode>
+<description>Saturdays in summer</description>
+<date></date></feast>
+<feast>
+<occasion>De Regum</occasion>
+<feastCode>10100000</feastCode>
+<description>Summer Histories, from Kings</description>
+<date></date></feast>
+<feast>
+<occasion>De Sapientia</occasion>
+<feastCode>10200000</feastCode>
+<description>Summer Histories, from Wisdom</description>
+<date></date></feast>
+<feast>
+<occasion>De Job</occasion>
+<feastCode>10300000</feastCode>
+<description>Summer Histories, from Job</description>
+<date></date></feast>
+<feast>
+<occasion>De Tobia</occasion>
+<feastCode>10400000</feastCode>
+<description>Summer Histories, from Tobias</description>
+<date></date></feast>
+<feast>
+<occasion>De Judith</occasion>
+<feastCode>10500000</feastCode>
+<description>Summer Histories, from Judith</description>
+<date></date></feast>
+<feast>
+<occasion>De Esther</occasion>
+<feastCode>10600000</feastCode>
+<description>Summer Histories, from Esther</description>
+<date></date></feast>
+<feast>
+<occasion>De Esdras</occasion>
+<feastCode>10700000</feastCode>
+<description>Summer Histories, from Esdras</description>
+<date></date></feast>
+<feast>
+<occasion>De Machabaeis</occasion>
+<feastCode>10800000</feastCode>
+<description>Summer Histories, from Maccabees</description>
+<date></date></feast>
+<feast>
+<occasion>De Prophetis</occasion>
+<feastCode>10900000</feastCode>
+<description>Summer Histories, from the Prophets</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. mensis Augusti</occasion>
+<feastCode>11080100</feastCode>
+<description>Sundays in August</description>
+<date></date></feast>
+<feast>
+<occasion>Dom.1 mensis Augusti</occasion>
+<feastCode>11081100</feastCode>
+<description>First Sunday in August</description>
+<date></date></feast>
+<feast>
+<occasion>Dom.2 mensis Augusti</occasion>
+<feastCode>11082100</feastCode>
+<description>Second Sunday in August</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. mensis Sept.</occasion>
+<feastCode>11090100</feastCode>
+<description>Sundays in September</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 4 Q.T. Sept.</occasion>
+<feastCode>11090409</feastCode>
+<description>Ember Day, September (Wednesday)</description>
+<date></date></feast>
+<feast>
+<occasion>Fer. 6 Q.T. Sept.</occasion>
+<feastCode>11090609</feastCode>
+<description>Ember Day, September (Friday)</description>
+<date></date></feast>
+<feast>
+<occasion>Sabbato Q.T. Sept.</occasion>
+<feastCode>11090709</feastCode>
+<description>Ember Day, September (Saturday)</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. mensis Octobris</occasion>
+<feastCode>11100100</feastCode>
+<description>Sundays in October</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. mensis Nov.</occasion>
+<feastCode>11110100</feastCode>
+<description>Sundays in November</description>
+<date></date></feast>
+<feast>
+<occasion>Pro Defunctis</occasion>
+<feastCode>13001000</feastCode>
+<description>Office for the Dead</description>
+<date></date></feast>
+<feast>
+<occasion>Ad Benedicite</occasion>
+<feastCode>16001000</feastCode>
+<description>Antiphons for Benedicite canticle</description>
+<date></date></feast>
+<feast>
+<occasion>Ad Benedictus</occasion>
+<feastCode>16002000</feastCode>
+<description>Antiphons for Benedictus canticle</description>
+<date></date></feast>
+<feast>
+<occasion>Ad Magnificat</occasion>
+<feastCode>16003000</feastCode>
+<description>Antiphons for Magnificat canticle</description>
+<date></date></feast>
+<feast>
+<occasion>Invitatoria</occasion>
+<feastCode>16004000</feastCode>
+<description>Invitatory Antiphons or Psalms</description>
+<date></date></feast>
+<feast>
+<occasion>Ad Nunc Dimittis</occasion>
+<feastCode>16005000</feastCode>
+<description>Antiphons for Nunc Dimittis canticle</description>
+<date></date></feast>
+<feast>
+<occasion>Ad Completorium</occasion>
+<feastCode>16006000</feastCode>
+<description>For Compline</description>
+<date></date></feast>
+<feast>
+<occasion>Hymni</occasion>
+<feastCode>16007000</feastCode>
+<description>Hymns</description>
+<date></date></feast>
+<feast>
+<occasion>Conductus</occasion>
+<feastCode>16008000</feastCode>
+<description>Conductus</description>
+<date></date></feast>
+<feast>
+<occasion>Ad Processionem</occasion>
+<feastCode>16009000</feastCode>
+<description>For Processions</description>
+<date></date></feast>
+<feast>
+<occasion>Ad Aquam Benedictio</occasion>
+<feastCode>16010000</feastCode>
+<description>For the Blessing of Water</description>
+<date></date></feast>
+<feast>
+<occasion>In Dedic. Altaris</occasion>
+<feastCode>16011000</feastCode>
+<description>Commemoration of an Altar's Dedication</description>
+<date></date></feast>
+<feast>
+<occasion>Additamenta</occasion>
+<feastCode>17001000</feastCode>
+<description>Added Items</description>
+<date></date></feast>
+</temporale>
+
+<!-- End of temporale list, start of sanctorale list -->
+
+<sanctorale>
+
+<feast>
+<occasion>Officia votiva</occasion>
+<feastCode>12000000</feastCode>
+<description>Votive Offices</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Apostolorum</occasion>
+<feastCode>12001000</feastCode>
+<description>Common of Apostles</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. unius Apost.</occasion>
+<feastCode>12001100</feastCode>
+<description>Common of one Apostle</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. unius Mart.</occasion>
+<feastCode>12002000</feastCode>
+<description>Common of one Martyr</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. un. Mart.Pont.</occasion>
+<feastCode>12002100</feastCode>
+<description>Common of one Martyr (Pope)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Mart. non Pon.</occasion>
+<feastCode>12002200</feastCode>
+<description>Common of one Martyr (not Pope)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. plur. Mart.</occasion>
+<feastCode>12003000</feastCode>
+<description>Common of several Martyrs</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. plur. Mart.,8</occasion>
+<feastCode>12003008</feastCode>
+<description>Common of several Martyrs, in week of</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. unius Conf.</occasion>
+<feastCode>12004000</feastCode>
+<description>Common of one Confessor</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. un. Conf.Pont.</occasion>
+<feastCode>12004100</feastCode>
+<description>Common of one Confessor (Pope)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. un. Conf.Abb.</occasion>
+<feastCode>12004200</feastCode>
+<description>Common of one Confessor (Abbot)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. un. Conf.Epi.</occasion>
+<feastCode>12004300</feastCode>
+<description>Common of one Confessor (Bishop)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm.un.Conf.Epi.,8</occasion>
+<feastCode>12004308</feastCode>
+<description>Common of one Confessor (Bishop), in week of</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Conf. non Epi.</occasion>
+<feastCode>12004400</feastCode>
+<description>Common of one Confessor (not Bishop)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. un. Conf.Doct.</occasion>
+<feastCode>12004500</feastCode>
+<description>Common of one Confessor (Doctor)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Conf. non Pon.</occasion>
+<feastCode>12004600</feastCode>
+<description>Common of several Confessors (not Popes)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. plur. Conf.</occasion>
+<feastCode>12005000</feastCode>
+<description>Common of several Confessors</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. pl. Conf.Pont.</occasion>
+<feastCode>12005100</feastCode>
+<description>Common of several Confessors (Popes)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Virginum</occasion>
+<feastCode>12007000</feastCode>
+<description>Common of several Virgins</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. unius Virg.</occasion>
+<feastCode>12007100</feastCode>
+<description>Common of one Virgin</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Vir. non Mart.</occasion>
+<feastCode>12007200</feastCode>
+<description>Common of one Virgin (not Martyr)</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Virg. Mart.</occasion>
+<feastCode>12007300</feastCode>
+<description>Common of Virgin Martyrs</description>
+<date></date></feast>
+<feast>
+<occasion>In Dedicatione Eccl.</occasion>
+<feastCode>12008000</feastCode>
+<description>Dedication of a Church</description>
+<date></date></feast>
+<feast>
+<occasion>Dom. p. Ded. Eccl.</occasion>
+<feastCode>12008007</feastCode>
+<description>Sunday after Dedication of a Church</description>
+<date></date></feast>
+<feast>
+<occasion>In Dedicat. Eccl.,8</occasion>
+<feastCode>12008008</feastCode>
+<description>In week after Dedication of Church</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. Dedicat. Eccl.</occasion>
+<feastCode>12008100</feastCode>
+<description>Octave of Dedication of Church</description>
+<date></date></feast>
+<feast>
+<occasion>Commune Regum</occasion>
+<feastCode>12009000</feastCode>
+<description>Common of Kings</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. unius Abba.</occasion>
+<feastCode>12010000</feastCode>
+<description>Common of one Abbot</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Evangelistarum</occasion>
+<feastCode>12011000</feastCode>
+<description>Common of Evangelists</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Conjungium</occasion>
+<feastCode>12012000</feastCode>
+<description>Common of Matrons</description>
+<date></date></feast>
+<feast>
+<occasion>De Angelis</occasion>
+<feastCode>12013000</feastCode>
+<description>Memorial chants for Angels</description>
+<date></date></feast>
+<feast>
+<occasion>De Patronis</occasion>
+<feastCode>12014000</feastCode>
+<description>Memorial chants for Patrons</description>
+<date></date></feast>
+<feast>
+<occasion>Apost. sive Mart. TP</occasion>
+<feastCode>12801100</feastCode>
+<description>Common, Apostles, Martyrs, Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. un. Mart. TP</occasion>
+<feastCode>12802000</feastCode>
+<description>Common of one Martyr, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. pl. Mart. TP</occasion>
+<feastCode>12803000</feastCode>
+<description>Common, many Martyrs, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Conf. non Pont. TP</occasion>
+<feastCode>12804000</feastCode>
+<description>Common, Confs. (not Popes), Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. un. Conf. TP</occasion>
+<feastCode>12805000</feastCode>
+<description>Common, one Confessor, Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. pl. Conf. TP</occasion>
+<feastCode>12805100</feastCode>
+<description>Common of several Confessors, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>De Sanctis TP</occasion>
+<feastCode>12806000</feastCode>
+<description>Common, Saints, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Virginum TP</occasion>
+<feastCode>12807000</feastCode>
+<description>Common of several Virgins, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Comm. Apostolorum TP</occasion>
+<feastCode>12808000</feastCode>
+<description>Common of Apostles, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Mart. sive Conf. TP</occasion>
+<feastCode>12809000</feastCode>
+<description>Common, Martyrs, Confessors, Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>S. Basilii</occasion>
+<feastCode>14010200</feastCode>
+<description>Basil of Ancyra, Martyr</description>
+<date>Jan.2</date></feast>
+<feast>
+<occasion>S. Genovefae</occasion>
+<feastCode>14010300</feastCode>
+<description>Genevieve (Genovefa), Virgin</description>
+<date>Jan.3</date></feast>
+<feast>
+<occasion>S. Simeonis Stylitae</occasion>
+<feastCode>14010500</feastCode>
+<description>Simeon the Stylite</description>
+<date>Jan.5</date></feast>
+<feast>
+<occasion>Oct. S. Thomae Cant.</occasion>
+<feastCode>14010510</feastCode>
+<description>Octave of Thomas Becket, Bishop of Canterbury</description>
+<date>Jan.5</date></feast>
+<feast>
+<occasion>S. Edwardi Conf.</occasion>
+<feastCode>14010520</feastCode>
+<description>Edward the Confessor, King of England</description>
+<date>Jan.5</date></feast>
+<feast>
+<occasion>S. Severini, Apost.</occasion>
+<feastCode>14010530</feastCode>
+<description>Severinus, Apostle of Noricum</description>
+<date>Jan.5</date></feast>
+<feast>
+<occasion>S. Valentini, Epi.</occasion>
+<feastCode>14010700</feastCode>
+<description>Valentine, Bishop</description>
+<date>Jan.7</date></feast>
+<feast>
+<occasion>S. Wulsini</occasion>
+<feastCode>14010800</feastCode>
+<description>Wulsin, Bishop of Sherborne</description>
+<date>Jan.8</date></feast>
+<feast>
+<occasion>S. Gudulae</occasion>
+<feastCode>14010810</feastCode>
+<description>Gudula, Virgin</description>
+<date>Jan.8</date></feast>
+<feast>
+<occasion>S. Willelmi</occasion>
+<feastCode>14011000</feastCode>
+<description>William, Archbishop of Bourges</description>
+<date>Jan.10</date></feast>
+<feast>
+<occasion>S. Hilarii</occasion>
+<feastCode>14011400</feastCode>
+<description>Hilary, Bishop of Poitiers, Doctor</description>
+<date>Jan.14</date></feast>
+<feast>
+<occasion>S. Felicis Nolani</occasion>
+<feastCode>14011410</feastCode>
+<description>Felix of Nola, Confessor</description>
+<date>Jan.14</date></feast>
+<feast>
+<occasion>S. Pontiani</occasion>
+<feastCode>14011420</feastCode>
+<description>Pontianus, Martyr at Spoleto</description>
+<date>Jan.14</date></feast>
+<feast>
+<occasion>S. Pauli Heremitae</occasion>
+<feastCode>14011500</feastCode>
+<description>Paul the Hermit</description>
+<date>Jan.15</date></feast>
+<feast>
+<occasion>S. Mauri</occasion>
+<feastCode>14011510</feastCode>
+<description>Maurus, Abbot</description>
+<date>Jan.15</date></feast>
+<feast>
+<occasion>S. Mauri,8</occasion>
+<feastCode>14011518</feastCode>
+<description>In week after Maurus</description>
+<date></date></feast>
+<feast>
+<occasion>Inventio S. Firmini</occasion>
+<feastCode>14011520</feastCode>
+<description>Finding of Firminus's relics</description>
+<date>Jan.15</date></feast>
+<feast>
+<occasion>S. Macarii</occasion>
+<feastCode>14011530</feastCode>
+<description>Macarius the Elder, Hermit</description>
+<date>Jan.15</date></feast>
+<feast>
+<occasion>S. Marcelli</occasion>
+<feastCode>14011600</feastCode>
+<description>Marcellus I, Pope and Martyr</description>
+<date>Jan.16</date></feast>
+<feast>
+<occasion>S. Fursei</occasion>
+<feastCode>14011610</feastCode>
+<description>Fursey, Abbot</description>
+<date>Jan.16</date></feast>
+<feast>
+<occasion>S. Antonii</occasion>
+<feastCode>14011700</feastCode>
+<description>Antony, Abbot</description>
+<date>Jan.17</date></feast>
+<feast>
+<occasion>S. Sabini</occasion>
+<feastCode>14011710</feastCode>
+<description>Sabinus, Bishop of Piacenza</description>
+<date>Jan.17</date></feast>
+<feast>
+<occasion>S. Speusippi</occasion>
+<feastCode>14011720</feastCode>
+<description>Speusippus and Meleusippus, Martyrs</description>
+<date>Jan. 17</date></feast>
+<feast>
+<occasion>S. Priscae</occasion>
+<feastCode>14011800</feastCode>
+<description>Prisca, Virgin Martyr</description>
+<date>Jan.18</date></feast>
+<feast>
+<occasion>SS. Marii, Marthae</occasion>
+<feastCode>14011900</feastCode>
+<description>Marius, Martha, et al., Martyrs</description>
+<date>Jan.19</date></feast>
+<feast>
+<occasion>Transl. S. Hugonis</occasion>
+<feastCode>14011910</feastCode>
+<description>Moving of Hugo's relics</description>
+<date>Jan.19</date></feast>
+<feast>
+<occasion>S. Wulstani</occasion>
+<feastCode>14011920</feastCode>
+<description>Wulfstan, Bishop of Worcester</description>
+<date>Jan.19</date></feast>
+<feast>
+<occasion>S. Wulstani,8</occasion>
+<feastCode>14011928</feastCode>
+<description>In week after Wulfstan</description>
+<date></date></feast>
+<feast>
+<occasion>S. Launomari</occasion>
+<feastCode>14011930</feastCode>
+<description>Launomarus, Abbot of Corbie</description>
+<date>Jan.19</date></feast>
+<feast>
+<occasion>Fabiani, Sebastiani</occasion>
+<feastCode>14012000</feastCode>
+<description>Pope Fabian and Sebastian, Martyrs</description>
+<date>Jan.20</date></feast>
+<feast>
+<occasion>S. Agnetis</occasion>
+<feastCode>14012100</feastCode>
+<description>Agnes, Virgin Martyr</description>
+<date>Jan.21</date></feast>
+<feast>
+<occasion>S. Agnetis,8</occasion>
+<feastCode>14012108</feastCode>
+<description>In week after Agnes</description>
+<date></date></feast>
+<feast>
+<occasion>S. Meginrati</occasion>
+<feastCode>14012110</feastCode>
+<description>Meinrad, Hermit of Einsiedeln</description>
+<date>Jan.21</date></feast>
+<feast>
+<occasion>S. Vincentii</occasion>
+<feastCode>14012200</feastCode>
+<description>Vincent of Saragossa, Martyr</description>
+<date>Jan.22</date></feast>
+<feast>
+<occasion>S. Vincentii,8</occasion>
+<feastCode>14012208</feastCode>
+<description>In week after Vincent</description>
+<date></date></feast>
+<feast>
+<occasion>S. Anastasii</occasion>
+<feastCode>14012210</feastCode>
+<description>Anastasius the Persian, Martyr</description>
+<date>Jan.22</date></feast>
+<feast>
+<occasion>S. Emerentianae</occasion>
+<feastCode>14012300</feastCode>
+<description>Emerentiana, Virgin Martyr</description>
+<date>Jan.23</date></feast>
+<feast>
+<occasion>S. Timothei</occasion>
+<feastCode>14012400</feastCode>
+<description>Timothy, Disciple of Paul, Bishop</description>
+<date>Jan.24</date></feast>
+<feast>
+<occasion>Elevat. S. Aubertii</occasion>
+<feastCode>14012410</feastCode>
+<description>Elevation of Aubertus's relics</description>
+<date>Jan.24</date></feast>
+<feast>
+<occasion>Conversio S. Pauli</occasion>
+<feastCode>14012500</feastCode>
+<description>Conversion of St. Paul</description>
+<date>Jan.25</date></feast>
+<feast>
+<occasion>S. Praejecti</occasion>
+<feastCode>14012510</feastCode>
+<description>Praejectus (Prix), Bishop Martyr</description>
+<date>Jan.25</date></feast>
+<feast>
+<occasion>S. Polycarpi</occasion>
+<feastCode>14012600</feastCode>
+<description>Polycarp, Bishop of Smyrna, Martyr</description>
+<date>Jan.26</date></feast>
+<feast>
+<occasion>S. Paulae</occasion>
+<feastCode>14012610</feastCode>
+<description>Paula, Widow</description>
+<date>Jan.26</date></feast>
+<feast>
+<occasion>S. Jo. Chrysostomi</occasion>
+<feastCode>14012700</feastCode>
+<description>John Chrysostom, Doctor</description>
+<date>Jan.27</date></feast>
+<feast>
+<occasion>S. Juliani, Epi.</occasion>
+<feastCode>14012710</feastCode>
+<description>Julian, Bishop of Le Mans</description>
+<date>Jan.27</date></feast>
+<feast>
+<occasion>Oct. S. Agnetis</occasion>
+<feastCode>14012800</feastCode>
+<description>Octave of Agnes</description>
+<date>Jan.28</date></feast>
+<feast>
+<occasion>S. Valerii</occasion>
+<feastCode>14012900</feastCode>
+<description>Valerius, Bishop of Saragossa</description>
+<date>Jan.29</date></feast>
+<feast>
+<occasion>S. Sulpicii Severi</occasion>
+<feastCode>14012910</feastCode>
+<description>Sulpicius Severus, Bishop of Bourges</description>
+<date>Jan.29</date></feast>
+<feast>
+<occasion>S. Aldegundis</occasion>
+<feastCode>14013000</feastCode>
+<description>Aldegundis, Virgin</description>
+<date>Jan.30</date></feast>
+<feast>
+<occasion>S. Balthildis</occasion>
+<feastCode>14013010</feastCode>
+<description>Balthildis (Bathildis), Queen</description>
+<date>Jan.30</date></feast>
+<feast>
+<occasion>S. Cyri</occasion>
+<feastCode>14013100</feastCode>
+<description>Cyrus and John, Martyrs</description>
+<date>Jan.31</date></feast>
+<feast>
+<occasion>S. Brigidae</occasion>
+<feastCode>14020100</feastCode>
+<description>Brigid (Bride), Abbess</description>
+<date>Feb.1</date></feast>
+<feast>
+<occasion>S. Ignatii</occasion>
+<feastCode>14020110</feastCode>
+<description>Ignatius, Bishop of Antioch, Martyr</description>
+<date>Feb.1</date></feast>
+<feast>
+<occasion>S. Valerici</occasion>
+<feastCode>14020120</feastCode>
+<description>Valericus, Hermit</description>
+<date>Feb.1</date></feast>
+<feast>
+<occasion>Purificatio Mariae</occasion>
+<feastCode>14020200</feastCode>
+<description>Purification of Mary (Candlemas)</description>
+<date>Feb.2</date></feast>
+<feast>
+<occasion>Purificatio Mariae,8</occasion>
+<feastCode>14020208</feastCode>
+<description>In week after Purification of Mary</description>
+<date></date></feast>
+<feast>
+<occasion>S. Blasii</occasion>
+<feastCode>14020300</feastCode>
+<description>Blaise, Bishop of Sebastea, Martyr</description>
+<date>Feb.3</date></feast>
+<feast>
+<occasion>S. Blasii,8</occasion>
+<feastCode>14020308</feastCode>
+<description>In week after Blaise</description>
+<date></date></feast>
+<feast>
+<occasion>S. Agathae</occasion>
+<feastCode>14020500</feastCode>
+<description>Agatha, Virgin Martyr</description>
+<date>Feb.5</date></feast>
+<feast>
+<occasion>S. Agathae,8</occasion>
+<feastCode>14020508</feastCode>
+<description>In week after Agatha</description>
+<date></date></feast>
+<feast>
+<occasion>S. Vedasti</occasion>
+<feastCode>14020600</feastCode>
+<description>Vaast (Vedast), Bishop of Arras</description>
+<date>Feb.6</date></feast>
+<feast>
+<occasion>Dom. p. S. Vedasti</occasion>
+<feastCode>14020607</feastCode>
+<description>Sunday after Vaast</description>
+<date></date></feast>
+<feast>
+<occasion>S. Vedasti,8</occasion>
+<feastCode>14020608</feastCode>
+<description>In week after Vaast</description>
+<date></date></feast>
+<feast>
+<occasion>S. Dorotheae</occasion>
+<feastCode>14020610</feastCode>
+<description>Dorothy, Virgin Martyr</description>
+<date>Feb.6</date></feast>
+<feast>
+<occasion>S. Amandi</occasion>
+<feastCode>14020620</feastCode>
+<description>Amand (Amandus), Bishop</description>
+<date>Feb.6</date></feast>
+<feast>
+<occasion>S. Scholasticae</occasion>
+<feastCode>14021000</feastCode>
+<description>Scholastica, Virgin</description>
+<date>Feb.10</date></feast>
+<feast>
+<occasion>Oct. S. Blasii</occasion>
+<feastCode>14021010</feastCode>
+<description>Octave of Blaise</description>
+<date>Feb.10</date></feast>
+<feast>
+<occasion>S. Modesti</occasion>
+<feastCode>14021210</feastCode>
+<description>Modestus, Martyr</description>
+<date>Feb.12</date></feast>
+<feast>
+<occasion>Oct. S. Vedasti</occasion>
+<feastCode>14021300</feastCode>
+<description>Octave of Vaast</description>
+<date>Feb.13</date></feast>
+<feast>
+<occasion>Oct. S. Amandi</occasion>
+<feastCode>14021310</feastCode>
+<description>Octave of Amand</description>
+<date>Feb.13</date></feast>
+<feast>
+<occasion>S. Valentini</occasion>
+<feastCode>14021400</feastCode>
+<description>S. Valentine, Martyr</description>
+<date>Feb.14</date></feast>
+<feast>
+<occasion>SS. Faustini,Jovitae</occasion>
+<feastCode>14021500</feastCode>
+<description>Faustinus and Jovita, Martyrs</description>
+<date>Feb.15</date></feast>
+<feast>
+<occasion>S. Julianae</occasion>
+<feastCode>14021600</feastCode>
+<description>Juliana, Virgin Martyr</description>
+<date>Feb.16</date></feast>
+<feast>
+<occasion>Cathedra S. Petri</occasion>
+<feastCode>14022200</feastCode>
+<description>St. Peter's Chair</description>
+<date>Feb.22</date></feast>
+<feast>
+<occasion>S. Milburgae</occasion>
+<feastCode>14022300</feastCode>
+<description>Milburga, Abbess of Wenlock</description>
+<date>Feb.23</date></feast>
+<feast>
+<occasion>S. Matthiae</occasion>
+<feastCode>14022400</feastCode>
+<description>Matthias, Apostle</description>
+<date>Feb.24</date></feast>
+<feast>
+<occasion>S. Walburgae</occasion>
+<feastCode>14022500</feastCode>
+<description>Walburga, Virgin Abbess</description>
+<date>Feb.25</date></feast>
+<feast>
+<occasion>S. Oswaldi, Epi.</occasion>
+<feastCode>14022800</feastCode>
+<description>Oswald, Bishop of Worcester</description>
+<date>Feb.28</date></feast>
+<feast>
+<occasion>S. Albini, Epi.</occasion>
+<feastCode>14030100</feastCode>
+<description>Albinus (Aubin), Bishop of Angers</description>
+<date>Mar.1</date></feast>
+<feast>
+<occasion>S. David</occasion>
+<feastCode>14030110</feastCode>
+<description>David of Wales, Monk and Bishop</description>
+<date>Mar.1</date></feast>
+<feast>
+<occasion>S. Kunegundis</occasion>
+<feastCode>14030300</feastCode>
+<description>Cunegund (Kunegunde), Queen</description>
+<date>Mar.3</date></feast>
+<feast>
+<occasion>SS. Perpetuae,Felic.</occasion>
+<feastCode>14030600</feastCode>
+<description>Perpetua and Felicity, Martyrs</description>
+<date>Mar.6</date></feast>
+<feast>
+<occasion>S. Vindiciani</occasion>
+<feastCode>14031100</feastCode>
+<description>Vindician, Bishop of Cambrai</description>
+<date>Mar.11</date></feast>
+<feast>
+<occasion>S. Gregorii</occasion>
+<feastCode>14031200</feastCode>
+<description>Gregory the Great, Pope and Doctor</description>
+<date>Mar.12</date></feast>
+<feast>
+<occasion>SS. Helari, Tatiani</occasion>
+<feastCode>14031600</feastCode>
+<description>Hilary (Bishop of Aquileia) and Tatianus, Martyrs</description>
+<date>Mar.16</date></feast>
+<feast>
+<occasion>S. Gertrudis</occasion>
+<feastCode>14031700</feastCode>
+<description>Gertrude of Nivelles, Virgin</description>
+<date>Mar.17</date></feast>
+<feast>
+<occasion>S. Cuthberti</occasion>
+<feastCode>14032000</feastCode>
+<description>Cuthbert, Bishop of Lindisfarne</description>
+<date>Mar.20</date></feast>
+<feast>
+<occasion>S. Benedicti</occasion>
+<feastCode>14032100</feastCode>
+<description>Benedict, Abbot</description>
+<date>Mar.21</date></feast>
+<feast>
+<occasion>Annuntiatio Mariae</occasion>
+<feastCode>14032500</feastCode>
+<description>Annunciation of Mary (Lady Day)</description>
+<date>Mar.25</date></feast>
+<feast>
+<occasion>Annuntiatio Mariae,8</occasion>
+<feastCode>14032508</feastCode>
+<description>In week after Annunciation of Mary</description>
+<date></date></feast>
+<feast>
+<occasion>S.Mariae Aegyptiacae</occasion>
+<feastCode>14040200</feastCode>
+<description>Mary the Egyptian, Penitent</description>
+<date>Apr.2</date></feast>
+<feast>
+<occasion>S. Ambrosii</occasion>
+<feastCode>14040400</feastCode>
+<description>Ambrose, Bishop of Milan, Doctor</description>
+<date>Apr.4</date></feast>
+<feast>
+<occasion>S. Waldetrudis</occasion>
+<feastCode>14040900</feastCode>
+<description>Waldetrudis (Waudru), Widow</description>
+<date>Apr.9</date></feast>
+<feast>
+<occasion>S. Guthlaci</occasion>
+<feastCode>14041100</feastCode>
+<description>Guthlac, Hermit of Croyland</description>
+<date>Apr.11</date></feast>
+<feast>
+<occasion>Tiburtii, Valeriani</occasion>
+<feastCode>14041400</feastCode>
+<description>Tiburtius, Valerian and Maximus, Martyrs</description>
+<date>Apr.14</date></feast>
+<feast>
+<occasion>S. Leonis, Pont.</occasion>
+<feastCode>14041900</feastCode>
+<description>Leo IX, Pope</description>
+<date>Apr.19</date></feast>
+<feast>
+<occasion>Inventio S. Dionysii</occasion>
+<feastCode>14042200</feastCode>
+<description>Finding of Denis's relics</description>
+<date>Apr.22</date></feast>
+<feast>
+<occasion>S. Opportunae</occasion>
+<feastCode>14042210</feastCode>
+<description>Opportuna, Virgin and Abbess</description>
+<date>Apr.22</date></feast>
+<feast>
+<occasion>S. Georgii</occasion>
+<feastCode>14042300</feastCode>
+<description>George, Martyr</description>
+<date>Apr.23</date></feast>
+<feast>
+<occasion>S. Egberti</occasion>
+<feastCode>14042400</feastCode>
+<description>Egbert of Iona, Bishop</description>
+<date>Apr.24</date></feast>
+<feast>
+<occasion>S. Ivonis</occasion>
+<feastCode>14042410</feastCode>
+<description>Ivo, Bishop of Persia</description>
+<date>Apr.24</date></feast>
+<feast>
+<occasion>S. Marci</occasion>
+<feastCode>14042500</feastCode>
+<description>Mark, Evangelist</description>
+<date>Apr.25</date></feast>
+<feast>
+<occasion>S. Vitalis</occasion>
+<feastCode>14042800</feastCode>
+<description>Vitalis and Valeria, Martyrs</description>
+<date>Apr.28</date></feast>
+<feast>
+<occasion>Transl. Petri Alcan.</occasion>
+<feastCode>14042810</feastCode>
+<description>Moving of Peter of Alcantara's Relics</description>
+<date>Apr.28</date></feast>
+<feast>
+<occasion>S. Petri, Mart.</occasion>
+<feastCode>14042900</feastCode>
+<description>Peter the Martyr, Dominican Friar and Priest</description>
+<date>Apr.29</date></feast>
+<feast>
+<occasion>Oct. S. Georgii</occasion>
+<feastCode>14043000</feastCode>
+<description>Octave of George</description>
+<date>Apr.30</date></feast>
+<feast>
+<occasion>S. Eutropii</occasion>
+<feastCode>14043010</feastCode>
+<description>Eutropius, Bishop of Saintes, Martyr</description>
+<date>Apr.30</date></feast>
+<feast>
+<occasion>SS. Philippi, Jacobi</occasion>
+<feastCode>14050100</feastCode>
+<description>Philip and James, Apostles</description>
+<date>May.1</date></feast>
+<feast>
+<occasion>SS.Philippi,Jacobi,8</occasion>
+<feastCode>14050108</feastCode>
+<description>In week after Philip and James</description>
+<date></date></feast>
+<feast>
+<occasion>Elev. S. Elis. Hung.</occasion>
+<feastCode>14050110</feastCode>
+<description>Elevation of Elizabeth's relics</description>
+<date>May.1</date></feast>
+<feast>
+<occasion>Elev.S.Elis.Hung.,8</occasion>
+<feastCode>14050118</feastCode>
+<description>In week after Elizabeth's Elevation</description>
+<date></date></feast>
+<feast>
+<occasion>S. Orientii</occasion>
+<feastCode>14050120</feastCode>
+<description>Orientius (Orens), Bishop</description>
+<date>May.1</date></feast>
+<feast>
+<occasion>S. Amatoris</occasion>
+<feastCode>14050130</feastCode>
+<description>Amator (Amatre), Bishop of Auxerre</description>
+<date>May.1</date></feast>
+<feast>
+<occasion>S. Sigismundi</occasion>
+<feastCode>14050140</feastCode>
+<description>Sigismund, King of Burgundy, Martyr</description>
+<date>May.1</date></feast>
+<feast>
+<occasion>Transl. S. Walburgae</occasion>
+<feastCode>14050150</feastCode>
+<description>Moving of Walburga's relics</description>
+<date>May.1</date></feast>
+<feast>
+<occasion>S. Athanasii</occasion>
+<feastCode>14050200</feastCode>
+<description>Athanasius, Archbishop of Alexandria</description>
+<date>May.2</date></feast>
+<feast>
+<occasion>Inventio S. Crucis</occasion>
+<feastCode>14050300</feastCode>
+<description>Finding of the Holy Cross</description>
+<date>May.3</date></feast>
+<feast>
+<occasion>Inventio S. Crucis,8</occasion>
+<feastCode>14050308</feastCode>
+<description>In week after the Finding of the Cross</description>
+<date></date></feast>
+<feast>
+<occasion>SS.Alexandri et Soc.</occasion>
+<feastCode>14050310</feastCode>
+<description>Alexander and Eventius, Martyrs</description>
+<date>May.3</date></feast>
+<feast>
+<occasion>S. Juvenalis</occasion>
+<feastCode>14050320</feastCode>
+<description>Juvenal, Bishop of Narni</description>
+<date>May.3</date></feast>
+<feast>
+<occasion>S. Helenae</occasion>
+<feastCode>14050330</feastCode>
+<description>Helen, Finder of the True Cross</description>
+<date>May.3</date></feast>
+<feast>
+<occasion>S. Floriani</occasion>
+<feastCode>14050400</feastCode>
+<description>Florian, Martyr</description>
+<date>May.4</date></feast>
+<feast>
+<occasion>S. Godehardi</occasion>
+<feastCode>14050410</feastCode>
+<description>Godehard (Gothard), Bishop of Hildesheim</description>
+<date>May.4</date></feast>
+<feast>
+<occasion>S. Judae Quiriaci</occasion>
+<feastCode>14050420</feastCode>
+<description>Judas Quiriacus (Cyriacus), Bishop</description>
+<date>May.4</date></feast>
+<feast>
+<occasion>S. Jo. Port. Lat.</occasion>
+<feastCode>14050600</feastCode>
+<description>St. John before the Latin Gate</description>
+<date>May.6</date></feast>
+<feast>
+<occasion>Transl. S. Stephani</occasion>
+<feastCode>14050700</feastCode>
+<description>Moving of Stephan's rellics</description>
+<date>May.7</date></feast>
+<feast>
+<occasion>Appar. S. Michaelis</occasion>
+<feastCode>14050800</feastCode>
+<description>Appearing of Michael the Archangel</description>
+<date>May.8</date></feast>
+<feast>
+<occasion>S. Victoris Mauri</occasion>
+<feastCode>14050810</feastCode>
+<description>Victor Maurus, Martyr</description>
+<date>May.8</date></feast>
+<feast>
+<occasion>Oct. Philippi,Jacobi</occasion>
+<feastCode>14050830</feastCode>
+<description>Octave of Philip and James, Apostles</description>
+<date>May.8</date></feast>
+<feast>
+<occasion>S. Wironi</occasion>
+<feastCode>14050840</feastCode>
+<description>Wiro, Apostle of southern Netherlands</description>
+<date>May.8</date></feast>
+<feast>
+<occasion>Transl. S. Nicolai</occasion>
+<feastCode>14050900</feastCode>
+<description>Moving of Nicholas's relics</description>
+<date>May.9</date></feast>
+<feast>
+<occasion>SS.Gordiani,Epimachi</occasion>
+<feastCode>14051000</feastCode>
+<description>Gordian and Epimachus, Martyrs</description>
+<date>May.10</date></feast>
+<feast>
+<occasion>S. Mamerti</occasion>
+<feastCode>14051100</feastCode>
+<description>Mamertus, Bishop of Vienne</description>
+<date>May.11</date></feast>
+<feast>
+<occasion>S. Gengulfi</occasion>
+<feastCode>14051110</feastCode>
+<description>Gengoul (Gengulfus), Martyred Knight</description>
+<date>May.11</date></feast>
+<feast>
+<occasion>S. Rictrudis</occasion>
+<feastCode>14051200</feastCode>
+<description>Rictrudis, Widow</description>
+<date>May.12</date></feast>
+<feast>
+<occasion>SS.Pancratii et Soc.</occasion>
+<feastCode>14051210</feastCode>
+<description>Pancras and Companions, Martyrs</description>
+<date>May.12</date></feast>
+<feast>
+<occasion>Subventio S. Martini</occasion>
+<feastCode>14051220</feastCode>
+<description>Hiding of Martin's relics</description>
+<date>May.12</date></feast>
+<feast>
+<occasion>Transl. S. Mauritii</occasion>
+<feastCode>14051230</feastCode>
+<description>Moving of Maurice's relics</description>
+<date>May.12</date></feast>
+<feast>
+<occasion>S. Servatii</occasion>
+<feastCode>14051300</feastCode>
+<description>Servais (Servatius), Bishop of Tongres</description>
+<date>May.13</date></feast>
+<feast>
+<occasion>S. Pontii</occasion>
+<feastCode>14051400</feastCode>
+<description>Pontius, Martyr</description>
+<date>May.14</date></feast>
+<feast>
+<occasion>S. Euticii</occasion>
+<feastCode>14051500</feastCode>
+<description>Euticius (Eutice, Euthycius), Martyr</description>
+<date>May.15</date></feast>
+<feast>
+<occasion>Transl. S. Syri</occasion>
+<feastCode>14051700</feastCode>
+<description>Moving of Syrus's relics</description>
+<date>May.17</date></feast>
+<feast>
+<occasion>S. Hadulfi</occasion>
+<feastCode>14051900</feastCode>
+<description>Hadulf, Abbot and Bishop of Arras</description>
+<date>May.19</date></feast>
+<feast>
+<occasion>S. Pudentianae</occasion>
+<feastCode>14051910</feastCode>
+<description>Pudentiana and Pudens, Martyrs</description>
+<date>May.19</date></feast>
+<feast>
+<occasion>S. Dunstani</occasion>
+<feastCode>14051920</feastCode>
+<description>Dunstan, Archbishop of Canterbury</description>
+<date>May.19</date></feast>
+<feast>
+<occasion>S. Zenobii</occasion>
+<feastCode>14052500</feastCode>
+<description>Zenobius, Bishop of Florence</description>
+<date>May.25</date></feast>
+<feast>
+<occasion>S. Urbani</occasion>
+<feastCode>14052510</feastCode>
+<description>Urban I, Pope and Martyr</description>
+<date>May.25</date></feast>
+<feast>
+<occasion>Tres Mariae</occasion>
+<feastCode>14052520</feastCode>
+<description>Mary, Mary Cleophae, Mary Salome</description>
+<date>May.25</date></feast>
+<feast>
+<occasion>S. Bedae</occasion>
+<feastCode>14052600</feastCode>
+<description>The Venerable Bede, Doctor</description>
+<date>May.26</date></feast>
+<feast>
+<occasion>S. Augustini Cant.</occasion>
+<feastCode>14052610</feastCode>
+<description>Augustine (Austin), of Canterbury</description>
+<date>May.26</date></feast>
+<feast>
+<occasion>S. Ragnulfi</occasion>
+<feastCode>14052700</feastCode>
+<description>Ragnulf (Renon)</description>
+<date>May.27</date></feast>
+<feast>
+<occasion>S. Germani Parisien.</occasion>
+<feastCode>14052800</feastCode>
+<description>Germanus (Germain), Bishop of Paris</description>
+<date>May.28</date></feast>
+<feast>
+<occasion>S. Carauni</occasion>
+<feastCode>14052810</feastCode>
+<description>Caraunus, Deacon and Martyr</description>
+<date>May.28</date></feast>
+<feast>
+<occasion>S. Maximini</occasion>
+<feastCode>14052900</feastCode>
+<description>Maximinus, Bishop of Trier</description>
+<date>May.29</date></feast>
+<feast>
+<occasion>SS. Cantiorum</occasion>
+<feastCode>14053100</feastCode>
+<description>Cantius, Cantianus &amp; Cantianilla, Martyrs</description>
+<date>May.31</date></feast>
+<feast>
+<occasion>S. Petronillae</occasion>
+<feastCode>14053110</feastCode>
+<description>Petronilla, Virgin</description>
+<date>May.31</date></feast>
+<feast>
+<occasion>Ordinatio S. Oswaldi</occasion>
+<feastCode>14060100</feastCode>
+<description>Ordination of Oswald</description>
+<date>Jun.1</date></feast>
+<feast>
+<occasion>SS. Marcellini,Petri</occasion>
+<feastCode>14060200</feastCode>
+<description>Marcellinus and Peter, Martyrs</description>
+<date>Jun.2</date></feast>
+<feast>
+<occasion>S. Erasmi</occasion>
+<feastCode>14060300</feastCode>
+<description>Erasmus, Bishop and Martyr</description>
+<date>Jun.3</date></feast>
+<feast>
+<occasion>S. Bonifacii</occasion>
+<feastCode>14060500</feastCode>
+<description>Boniface, Archbishop and Martyr</description>
+<date>Jun.5</date></feast>
+<feast>
+<occasion>Transl. S. Wulstani</occasion>
+<feastCode>14060700</feastCode>
+<description>Moving of Wulfstan's relics</description>
+<date>Jun.7</date></feast>
+<feast>
+<occasion>S. Medardi</occasion>
+<feastCode>14060800</feastCode>
+<description>Medard, Bishop of Vermandois</description>
+<date>Jun.8</date></feast>
+<feast>
+<occasion>SS. Primi, Feliciani</occasion>
+<feastCode>14060900</feastCode>
+<description>Primus and Felician, Martyrs</description>
+<date>Jun.9</date></feast>
+<feast>
+<occasion>S. Landerici</occasion>
+<feastCode>14061000</feastCode>
+<description>Landericus (Landry), Bishop of Paris</description>
+<date>Jun.10</date></feast>
+<feast>
+<occasion>S. Barnabae</occasion>
+<feastCode>14061100</feastCode>
+<description>Barnabas, Apostle</description>
+<date>Jun.11</date></feast>
+<feast>
+<occasion>SS.Basilidis et Soc.</occasion>
+<feastCode>14061200</feastCode>
+<description>Basilides and Companions, Martyrs</description>
+<date>Jun.12</date></feast>
+<feast>
+<occasion>S. Antonii Patavini</occasion>
+<feastCode>14061300</feastCode>
+<description>Anthony of Padua, Doctor</description>
+<date>Jun.13</date></feast>
+<feast>
+<occasion>S. Basilii, Doct.</occasion>
+<feastCode>14061400</feastCode>
+<description>Basil the Great, Doctor</description>
+<date>Jun.14</date></feast>
+<feast>
+<occasion>S. Viti</occasion>
+<feastCode>14061500</feastCode>
+<description>Vitus and Companions, Martyrs</description>
+<date>Jun.15</date></feast>
+<feast>
+<occasion>SS. Viti, Modesti</occasion>
+<feastCode>14061510</feastCode>
+<description>Vitus, Modestus and Crescentia, Martyrs</description>
+<date>Jun.15</date></feast>
+<feast>
+<occasion>S. Landelini</occasion>
+<feastCode>14061520</feastCode>
+<description>Landelinus, Abbot</description>
+<date>Jun.15</date></feast>
+<feast>
+<occasion>S. Eadburgae</occasion>
+<feastCode>14061530</feastCode>
+<description>Eadburga, Abbess at Winchester</description>
+<date>Jun.15</date></feast>
+<feast>
+<occasion>S. Cyrici</occasion>
+<feastCode>14061600</feastCode>
+<description>Cyricus and Julitta, Martyrs</description>
+<date>Jun.16</date></feast>
+<feast>
+<occasion>S. Cyrici,8</occasion>
+<feastCode>14061608</feastCode>
+<description>In week after Cyricus</description>
+<date></date></feast>
+<feast>
+<occasion>Transl. S. Aichardi</occasion>
+<feastCode>14061700</feastCode>
+<description>Moving of Aichardus's relics</description>
+<date>Jun.17</date></feast>
+<feast>
+<occasion>SS. Marci,Marcellini</occasion>
+<feastCode>14061800</feastCode>
+<description>Mark and Marcellian, Martyrs</description>
+<date>Jun.18</date></feast>
+<feast>
+<occasion>SS.Gervasii,Protasii</occasion>
+<feastCode>14061900</feastCode>
+<description>Gervase and Protase, Martyrs</description>
+<date>Jun.19</date></feast>
+<feast>
+<occasion>SS.Georgii,Adalberti</occasion>
+<feastCode>14062000</feastCode>
+<description>George and Adalbert, Martyrs</description>
+<date>Jun.20</date></feast>
+<feast>
+<occasion>Tr. S. Edwardi Mart.</occasion>
+<feastCode>14062010</feastCode>
+<description>Moving of Edward the Martyr's relics</description>
+<date>Jun.20</date></feast>
+<feast>
+<occasion>S. Albini, Mart.</occasion>
+<feastCode>14062100</feastCode>
+<description>Albinus (Alban) of Mainz, Martyr</description>
+<date>Jun.21</date></feast>
+<feast>
+<occasion>S. Leutfredi</occasion>
+<feastCode>14062110</feastCode>
+<description>Leufred (Leufroy), Abbot</description>
+<date>Jun.21</date></feast>
+<feast>
+<occasion>S. Paulini Nolansis</occasion>
+<feastCode>14062200</feastCode>
+<description>Paulinus, Bishop of Nola</description>
+<date>Jun.22</date></feast>
+<feast>
+<occasion>Transl. S. Lamberti</occasion>
+<feastCode>14062210</feastCode>
+<description>Moving of Lambert's relics</description>
+<date>Jun.22</date></feast>
+<feast>
+<occasion>SS. Acacii et Soc.</occasion>
+<feastCode>14062220</feastCode>
+<description>Acacius and Companions, Martyrs</description>
+<date>Jun.22</date></feast>
+<feast>
+<occasion>Vig. S. Jo. Bapt.</occasion>
+<feastCode>14062300</feastCode>
+<description>Eve of John the Baptist</description>
+<date>Jun.23</date></feast>
+<feast>
+<occasion>Oct. S. Cyrici</occasion>
+<feastCode>14062310</feastCode>
+<description>Octave of Cyricus</description>
+<date>Jun.23</date></feast>
+<feast>
+<occasion>S. Joannis Baptistae</occasion>
+<feastCode>14062400</feastCode>
+<description>John the Baptist</description>
+<date>Jun.24</date></feast>
+<feast>
+<occasion>Dom. p. S. Jo. Bapt.</occasion>
+<feastCode>14062407</feastCode>
+<description>Sunday after John the Baptist</description>
+<date></date></feast>
+<feast>
+<occasion>S. Joannis Bapt.,8</occasion>
+<feastCode>14062408</feastCode>
+<description>In week after John the Baptist</description>
+<date></date></feast>
+<feast>
+<occasion>Transl. S. Eligii</occasion>
+<feastCode>14062500</feastCode>
+<description>Moving of Eligius's relics</description>
+<date>Jun.25</date></feast>
+<feast>
+<occasion>Transl. S. Lebuini</occasion>
+<feastCode>14062510</feastCode>
+<description>Moving of Liafwin's relics</description>
+<date>Jun.25</date></feast>
+<feast>
+<occasion>SS. Joannis, Pauli</occasion>
+<feastCode>14062600</feastCode>
+<description>John and Paul, Martyrs</description>
+<date>Jun.26</date></feast>
+<feast>
+<occasion>S. Baboleni</occasion>
+<feastCode>14062610</feastCode>
+<description>Babolenus, Abbot</description>
+<date>Jun.26</date></feast>
+<feast>
+<occasion>S. Ladislai</occasion>
+<feastCode>14062700</feastCode>
+<description>Ladislaus, King of Hungary</description>
+<date>Jun.27</date></feast>
+<feast>
+<occasion>S. Leonis</occasion>
+<feastCode>14062800</feastCode>
+<description>Leo the Great, Pope</description>
+<date>Jun.28</date></feast>
+<feast>
+<occasion>Vig. SS. Petri,Pauli</occasion>
+<feastCode>14062810</feastCode>
+<description>Eve of Peter and Paul</description>
+<date>Jun.28</date></feast>
+<feast>
+<occasion>Vig. S. Petri</occasion>
+<feastCode>14062820</feastCode>
+<description>Eve of Peter</description>
+<date>Jun.28</date></feast>
+<feast>
+<occasion>SS. Petri, Pauli</occasion>
+<feastCode>14062900</feastCode>
+<description>Peter and Paul, Apostles</description>
+<date>Jun.29</date></feast>
+<feast>
+<occasion>Dom. inf. Oct.Apost.</occasion>
+<feastCode>14062907</feastCode>
+<description>Sunday after Peter and Paul</description>
+<date></date></feast>
+<feast>
+<occasion>SS. Petri, Pauli,8</occasion>
+<feastCode>14062908</feastCode>
+<description>In week after Peter and Paul</description>
+<date></date></feast>
+<feast>
+<occasion>S. Petri</occasion>
+<feastCode>14062910</feastCode>
+<description>Peter, Apostle</description>
+<date>Jun.29</date></feast>
+<feast>
+<occasion>S. Petri,8</occasion>
+<feastCode>14062918</feastCode>
+<description>In week of Peter (Apostle)</description>
+<date></date></feast>
+<feast>
+<occasion>S. Pauli</occasion>
+<feastCode>14063000</feastCode>
+<description>Paul, Apostle</description>
+<date>Jun.30</date></feast>
+<feast>
+<occasion>S. Pauli,8</occasion>
+<feastCode>14063008</feastCode>
+<description>In week of Paul (Apostle)</description>
+<date></date></feast>
+<feast>
+<occasion>S. Martialis, Epi.</occasion>
+<feastCode>14063010</feastCode>
+<description>Martial, Bishop of Limoges</description>
+<date>Jun.30</date></feast>
+<feast>
+<occasion>Oct. S. Jo. Bapt.</occasion>
+<feastCode>14070100</feastCode>
+<description>Octave of John the Baptist</description>
+<date>Jul.1</date></feast>
+<feast>
+<occasion>Visitatio Mariae</occasion>
+<feastCode>14070200</feastCode>
+<description>Visitation of Mary</description>
+<date>Jul.2</date></feast>
+<feast>
+<occasion>Visitatio Mariae,8</occasion>
+<feastCode>14070208</feastCode>
+<description>In week after Visitation of Mary</description>
+<date></date></feast>
+<feast>
+<occasion>Processi, Martiniani</occasion>
+<feastCode>14070210</feastCode>
+<description>Processus and Martinian, Martyrs</description>
+<date>Jul.2</date></feast>
+<feast>
+<occasion>Transl. S. Thomae</occasion>
+<feastCode>14070300</feastCode>
+<description>Moving of Thomas's relics</description>
+<date>Jul.3</date></feast>
+<feast>
+<occasion>S. Mustiolae</occasion>
+<feastCode>14070310</feastCode>
+<description>Mustiola (with Irenaeus), Martyrs</description>
+<date>Jul.3</date></feast>
+<feast>
+<occasion>Transl. S. Martini</occasion>
+<feastCode>14070400</feastCode>
+<description>Moving of Martin's relics</description>
+<date>Jul.4</date></feast>
+<feast>
+<occasion>Decoll. S. Antonini</occasion>
+<feastCode>14070410</feastCode>
+<description>Beheading of Antoninus</description>
+<date>Jul.4</date></feast>
+<feast>
+<occasion>S. Udalrici</occasion>
+<feastCode>14070420</feastCode>
+<description>Ulric (Udalricus), Bishop of Augsburg</description>
+<date>Jul.4</date></feast>
+<feast>
+<occasion>Oct. Apostolorum</occasion>
+<feastCode>14070600</feastCode>
+<description>Octave of Peter and Paul</description>
+<date>Jul.6</date></feast>
+<feast>
+<occasion>Oct. Apostolorum,8</occasion>
+<feastCode>14070608</feastCode>
+<description>In week after Octave of Peter and Paul</description>
+<date></date></feast>
+<feast>
+<occasion>S. Goaris</occasion>
+<feastCode>14070610</feastCode>
+<description>Goar, Hermit</description>
+<date>Jul.6</date></feast>
+<feast>
+<occasion>Transl. S. Gudulae</occasion>
+<feastCode>14070620</feastCode>
+<description>Moving of Gudula's relics</description>
+<date>Jul.6</date></feast>
+<feast>
+<occasion>S. Willibaldi</occasion>
+<feastCode>14070700</feastCode>
+<description>Willibald, Bishop</description>
+<date>Jul.7</date></feast>
+<feast>
+<occasion>Transl. Thomae Cant.</occasion>
+<feastCode>14070710</feastCode>
+<description>Moving of Thomas Becket's Relics</description>
+<date>Jul.7</date></feast>
+<feast>
+<occasion>S. Martialis, Apost.</occasion>
+<feastCode>14070800</feastCode>
+<description>Martial, Apostle of Limoges</description>
+<date>Jul.8</date></feast>
+<feast>
+<occasion>SS. Kiliani et Soc.</occasion>
+<feastCode>14070810</feastCode>
+<description>Kilian and Companions, Martyrs</description>
+<date>Jul.8</date></feast>
+<feast>
+<occasion>Oct.Visitatio Mariae</occasion>
+<feastCode>14070900</feastCode>
+<description>Octave of Visitation of Mary</description>
+<date>Jul.9</date></feast>
+<feast>
+<occasion>SS. Septem Fratrum</occasion>
+<feastCode>14071000</feastCode>
+<description>Seven Brothers, Martyrs</description>
+<date>Jul.10</date></feast>
+<feast>
+<occasion>Transl. S. Benedicti</occasion>
+<feastCode>14071100</feastCode>
+<description>Moving of Benedict's relics</description>
+<date>Jul.11</date></feast>
+<feast>
+<occasion>Transl.S.Benedicti,8</occasion>
+<feastCode>14071108</feastCode>
+<description>In week after Benedict's Translation</description>
+<date></date></feast>
+<feast>
+<occasion>Hermagore, Fortunati</occasion>
+<feastCode>14071200</feastCode>
+<description>Hermagoras and Fortunatus, Martyrs</description>
+<date>Jul.12</date></feast>
+<feast>
+<occasion>S. Henrici Imper.</occasion>
+<feastCode>14071300</feastCode>
+<description>Henry, Emperor and Confessor</description>
+<date>Jul.13</date></feast>
+<feast>
+<occasion>S. Mildrithae</occasion>
+<feastCode>14071310</feastCode>
+<description>Mildred, Abbess of Minster-in-Thanet</description>
+<date>Jul.13</date></feast>
+<feast>
+<occasion>S. Madelgari</occasion>
+<feastCode>14071400</feastCode>
+<description>Vincent (ne Madelgar), Abbot</description>
+<date>Jul.14</date></feast>
+<feast>
+<occasion>Vig. Rel. S. Vedasti</occasion>
+<feastCode>14071410</feastCode>
+<description>Eve of Return of Vaast's relics</description>
+<date>Jul.14</date></feast>
+<feast>
+<occasion>Relatio S. Vedasti</occasion>
+<feastCode>14071500</feastCode>
+<description>Return of Vaast's relics</description>
+<date>Jul.15</date></feast>
+<feast>
+<occasion>Dom. p. Rel. S. Ved.</occasion>
+<feastCode>14071507</feastCode>
+<description>Sunday after Return of Vaast's relics</description>
+<date></date></feast>
+<feast>
+<occasion>Relatio S. Vedasti,8</occasion>
+<feastCode>14071508</feastCode>
+<description>In week after Return of Vaast</description>
+<date></date></feast>
+<feast>
+<occasion>Divisio Apostolorum</occasion>
+<feastCode>14071510</feastCode>
+<description>Sending forth of the Apostles</description>
+<date>Jul.15</date></feast>
+<feast>
+<occasion>S. Swithuni</occasion>
+<feastCode>14071520</feastCode>
+<description>Swithun, Bishop of Winchester</description>
+<date>Jul.15</date></feast>
+<feast>
+<occasion>S. Alexii</occasion>
+<feastCode>14071700</feastCode>
+<description>Alexis, the Man of God</description>
+<date>Jul.17</date></feast>
+<feast>
+<occasion>S. Kenelmi</occasion>
+<feastCode>14071710</feastCode>
+<description>Kenelm, Prince of Mercian Royal Family</description>
+<date>Jul.17</date></feast>
+<feast>
+<occasion>Oct. Tr. S.Benedicti</occasion>
+<feastCode>14071800</feastCode>
+<description>Octave of Benedict's Translation</description>
+<date>Jul.18</date></feast>
+<feast>
+<occasion>S. Arnulfi Metensis</occasion>
+<feastCode>14071810</feastCode>
+<description>Arnulfus (Arnoul), Bishop of Metz</description>
+<date>Jul.18</date></feast>
+<feast>
+<occasion>S. Vulmari</occasion>
+<feastCode>14072000</feastCode>
+<description>Vulmar, Abbot</description>
+<date>Jul.20</date></feast>
+<feast>
+<occasion>S. Margaritae</occasion>
+<feastCode>14072010</feastCode>
+<description>Margaret (Marina), Virgin Martyr</description>
+<date>Jul.20</date></feast>
+<feast>
+<occasion>S. Praxedis</occasion>
+<feastCode>14072100</feastCode>
+<description>Praxedes, Virgin</description>
+<date>Jul.21</date></feast>
+<feast>
+<occasion>SS. Victoris et Soc.</occasion>
+<feastCode>14072110</feastCode>
+<description>Victor of Marseilles et al., Martyrs</description>
+<date>Jul.21</date></feast>
+<feast>
+<occasion>S. Mariae Magdalenae</occasion>
+<feastCode>14072200</feastCode>
+<description>Mary Magdalene</description>
+<date>Jul.22</date></feast>
+<feast>
+<occasion>Dom. p.S.Mariae Mag.</occasion>
+<feastCode>14072207</feastCode>
+<description>Sunday after Mary Magdalene</description>
+<date></date></feast>
+<feast>
+<occasion>S. Mariae Mag.,8</occasion>
+<feastCode>14072208</feastCode>
+<description>In week after Mary Magdalene</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. Rel. S. Vedasti</occasion>
+<feastCode>14072210</feastCode>
+<description>Octave of Return of Vaast's relics</description>
+<date>Jul.22</date></feast>
+<feast>
+<occasion>S. Wandregisili</occasion>
+<feastCode>14072220</feastCode>
+<description>Wandregisilus, Abbot of Fontenelle</description>
+<date>Jul.22</date></feast>
+<feast>
+<occasion>S. Liborii</occasion>
+<feastCode>14072300</feastCode>
+<description>Liborius, Confessor &amp; Bishop of Lemans</description>
+<date>Jul.23</date></feast>
+<feast>
+<occasion>S. Joannis Cassiani</occasion>
+<feastCode>14072310</feastCode>
+<description>John Cassian, Abbot</description>
+<date>Jul.23</date></feast>
+<feast>
+<occasion>S. Apollinaris</occasion>
+<feastCode>14072320</feastCode>
+<description>Apollinaris, Bishop of Ravenna</description>
+<date>Jul.23</date></feast>
+<feast>
+<occasion>S. Christinae</occasion>
+<feastCode>14072400</feastCode>
+<description>Christina, Virgin Martyr</description>
+<date>Jul.24</date></feast>
+<feast>
+<occasion>S. Jacobi</occasion>
+<feastCode>14072500</feastCode>
+<description>James the Greater, Apostle</description>
+<date>Jul.25</date></feast>
+<feast>
+<occasion>Dom. p. S. Jacobi</occasion>
+<feastCode>14072507</feastCode>
+<description>Sunday after James the Greater</description>
+<date></date></feast>
+<feast>
+<occasion>S. Jacobi,8</occasion>
+<feastCode>14072508</feastCode>
+<description>In week after James the Greater</description>
+<date></date></feast>
+<feast>
+<occasion>S. Christophori</occasion>
+<feastCode>14072510</feastCode>
+<description>Christopher, Martyr</description>
+<date>Jul.25</date></feast>
+<feast>
+<occasion>Tr. Germani, Juliani</occasion>
+<feastCode>14072520</feastCode>
+<description>Moving of Germanus, Julianus relics</description>
+<date>Jul. 25</date></feast>
+<feast>
+<occasion>Tr. S. Marcelli Par.</occasion>
+<feastCode>14072600</feastCode>
+<description>Moving of relics of Marcellus (Paris)</description>
+<date>Jul.26</date></feast>
+<feast>
+<occasion>S. Annae</occasion>
+<feastCode>14072610</feastCode>
+<description>Anne, Mother of Mary</description>
+<date>Jul.26</date></feast>
+<feast>
+<occasion>S. Pantaleonis</occasion>
+<feastCode>14072700</feastCode>
+<description>Pantaleon (Panteleimon), Martyr</description>
+<date>Jul.27</date></feast>
+<feast>
+<occasion>SS. Sept. Dorm. Eph.</occasion>
+<feastCode>14072710</feastCode>
+<description>Seven Sleepers of Ephesus</description>
+<date>Jul.27</date></feast>
+<feast>
+<occasion>SS. Nazarii, Celsi</occasion>
+<feastCode>14072800</feastCode>
+<description>Nazarius and Celsus, Martyrs</description>
+<date>Jul.28</date></feast>
+<feast>
+<occasion>S. Samsonis</occasion>
+<feastCode>14072810</feastCode>
+<description>Samson, Bishop of Dol</description>
+<date>Jul.28</date></feast>
+<feast>
+<occasion>S. Felicis</occasion>
+<feastCode>14072900</feastCode>
+<description>Felix II, Pope</description>
+<date>Jul.29</date></feast>
+<feast>
+<occasion>Oct. S. Mariae Mag.</occasion>
+<feastCode>14072910</feastCode>
+<description>Octave of Mary Magdalene</description>
+<date>Jul.29</date></feast>
+<feast>
+<occasion>SS.Simplicii et Soc.</occasion>
+<feastCode>14072920</feastCode>
+<description>Simplicius and Companions, Martyrs</description>
+<date>Jul.29</date></feast>
+<feast>
+<occasion>S. Marthae</occasion>
+<feastCode>14072930</feastCode>
+<description>Martha, Virgin</description>
+<date>Jul.29</date></feast>
+<feast>
+<occasion>SS. Abdonis, Sennis</occasion>
+<feastCode>14073000</feastCode>
+<description>Abdon and Sennen, Martyrs</description>
+<date>Jul.30</date></feast>
+<feast>
+<occasion>S. Germani</occasion>
+<feastCode>14073100</feastCode>
+<description>Germanus, Bishop of Auxerre</description>
+<date>Jul.31</date></feast>
+<feast>
+<occasion>Vincula S. Petri</occasion>
+<feastCode>14080100</feastCode>
+<description>Peter in Chains</description>
+<date>Aug.1</date></feast>
+<feast>
+<occasion>Vincula S. Petri,8</occasion>
+<feastCode>14080108</feastCode>
+<description>In week after Peter in Chains</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. S. Jacobi</occasion>
+<feastCode>14080110</feastCode>
+<description>Octave of James the Greater</description>
+<date>Aug.1</date></feast>
+<feast>
+<occasion>SS. Machabaeorum</occasion>
+<feastCode>14080120</feastCode>
+<description>Holy Maccabees, Martyrs</description>
+<date>Aug.1</date></feast>
+<feast>
+<occasion>S. Ethelwoldi</occasion>
+<feastCode>14080130</feastCode>
+<description>Ethelwold, Bishop of Wincester</description>
+<date>Aug.1</date></feast>
+<feast>
+<occasion>SS. Fidei et Soc.</occasion>
+<feastCode>14080140</feastCode>
+<description>Faith and Companions, Martyrs</description>
+<date>Aug.1</date></feast>
+<feast>
+<occasion>S. Stephani, Pont.</occasion>
+<feastCode>14080200</feastCode>
+<description>Stephen I, Pope</description>
+<date>Aug.2</date></feast>
+<feast>
+<occasion>Inventio S. Stephani</occasion>
+<feastCode>14080300</feastCode>
+<description>Finding of Stephen, First Martyr</description>
+<date>Aug.3</date></feast>
+<feast>
+<occasion>S. Afrae</occasion>
+<feastCode>14080500</feastCode>
+<description>Afra, Martyr</description>
+<date>Aug.5</date></feast>
+<feast>
+<occasion>S. Oswaldi, Reg.</occasion>
+<feastCode>14080510</feastCode>
+<description>Oswald, King of Northumbria</description>
+<date>Aug.5</date></feast>
+<feast>
+<occasion>S. Mariae ad Nives</occasion>
+<feastCode>14080520</feastCode>
+<description>Mary of the Snows</description>
+<date>Aug.5</date></feast>
+<feast>
+<occasion>Transfiguratio Dom.</occasion>
+<feastCode>14080600</feastCode>
+<description>Transfiguration of Jesus</description>
+<date>Aug.6</date></feast>
+<feast>
+<occasion>S. Sixti</occasion>
+<feastCode>14080610</feastCode>
+<description>Sixtus and Companions, Martyrs</description>
+<date>Aug.6</date></feast>
+<feast>
+<occasion>S. Donati</occasion>
+<feastCode>14080700</feastCode>
+<description>Donatus, Bishop of Arezzo</description>
+<date>Aug.7</date></feast>
+<feast>
+<occasion>SS. Cyriaci et Soc.</occasion>
+<feastCode>14080800</feastCode>
+<description>Cyriacus and Companions, Martyrs</description>
+<date>Aug.8</date></feast>
+<feast>
+<occasion>S. Justini</occasion>
+<feastCode>14080810</feastCode>
+<description>Justin, Child Martyred near Paris</description>
+<date>Aug.8</date></feast>
+<feast>
+<occasion>S. Romani</occasion>
+<feastCode>14080900</feastCode>
+<description>Romanus, Martyr</description>
+<date>Aug.9</date></feast>
+<feast>
+<occasion>Vigilia S. Laurentii</occasion>
+<feastCode>14080910</feastCode>
+<description>Eve of Feast for St. Laurence</description>
+<date>Aug.9</date></feast>
+<feast>
+<occasion>S. Laurentii</occasion>
+<feastCode>14081000</feastCode>
+<description>Laurence, Martyr</description>
+<date>Aug.10</date></feast>
+<feast>
+<occasion>S. Laurentii,8</occasion>
+<feastCode>14081008</feastCode>
+<description>In week after Laurence</description>
+<date></date></feast>
+<feast>
+<occasion>S. Tiburtii</occasion>
+<feastCode>14081100</feastCode>
+<description>Tiburtius and Susanna, Martyrs</description>
+<date>Aug.11</date></feast>
+<feast>
+<occasion>S. Gaugerici</occasion>
+<feastCode>14081110</feastCode>
+<description>Gaugericus (Gery), Bishop</description>
+<date>Aug.11</date></feast>
+<feast>
+<occasion>Dom. p. S. Gaugerici</occasion>
+<feastCode>14081117</feastCode>
+<description>Sunday after Gaugericus</description>
+<date></date></feast>
+<feast>
+<occasion>S. Gaugerici,8</occasion>
+<feastCode>14081118</feastCode>
+<description>In week after Gaugericus</description>
+<date></date></feast>
+<feast>
+<occasion>De Corona Spinea</occasion>
+<feastCode>14081120</feastCode>
+<description>Commemoration of the Crown of Thorns</description>
+<date>Aug.11</date></feast>
+<feast>
+<occasion>S. Taurini</occasion>
+<feastCode>14081130</feastCode>
+<description>Taurinus, Bishop of Evreux</description>
+<date>Aug.11</date></feast>
+<feast>
+<occasion>S. Clarae</occasion>
+<feastCode>14081200</feastCode>
+<description>Clare of Assisi, Foundress</description>
+<date>Aug.12</date></feast>
+<feast>
+<occasion>S. Hippolyti</occasion>
+<feastCode>14081300</feastCode>
+<description>Hippolytus, Martyr</description>
+<date>Aug.13</date></feast>
+<feast>
+<occasion>S. Radegundis</occasion>
+<feastCode>14081310</feastCode>
+<description>Radegund, Matron</description>
+<date>Aug.13</date></feast>
+<feast>
+<occasion>S. Eusebii</occasion>
+<feastCode>14081400</feastCode>
+<description>Eusebius of Rome</description>
+<date>Aug.14</date></feast>
+<feast>
+<occasion>Vig. Assump. Mariae</occasion>
+<feastCode>14081410</feastCode>
+<description>Eve of Assumption of Mary</description>
+<date>Aug.14</date></feast>
+<feast>
+<occasion>Assumptio Mariae</occasion>
+<feastCode>14081500</feastCode>
+<description>Assumption of Mary</description>
+<date>Aug.15</date></feast>
+<feast>
+<occasion>Dom. p. Assumptionem</occasion>
+<feastCode>14081507</feastCode>
+<description>Sunday after Assumption of Mary</description>
+<date></date></feast>
+<feast>
+<occasion>Assumptio Mariae,8</occasion>
+<feastCode>14081508</feastCode>
+<description>In week after Assumption of Mary</description>
+<date></date></feast>
+<feast>
+<occasion>S. Arnulfi</occasion>
+<feastCode>14081600</feastCode>
+<description>Arnulf, Bishop of Metz</description>
+<date>Aug.16</date></feast>
+<feast>
+<occasion>S. Gemmae</occasion>
+<feastCode>14081610</feastCode>
+<description>Gemma, Virgin</description>
+<date>Aug.16</date></feast>
+<feast>
+<occasion>Oct. S. Laurentii</occasion>
+<feastCode>14081700</feastCode>
+<description>Octave of Laurence</description>
+<date>Aug.17</date></feast>
+<feast>
+<occasion>Transl. S. Justinae</occasion>
+<feastCode>14081710</feastCode>
+<description>Moving of Justina's relics</description>
+<date>Aug.17</date></feast>
+<feast>
+<occasion>S. Agapiti</occasion>
+<feastCode>14081800</feastCode>
+<description>Agapitus, Martyr</description>
+<date>Aug.18</date></feast>
+<feast>
+<occasion>S. Agapiti,8</occasion>
+<feastCode>14081808</feastCode>
+<description>In week after Agapitus</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. S. Gaugerici</occasion>
+<feastCode>14081810</feastCode>
+<description>Octave of Gaugericus</description>
+<date>Aug.18</date></feast>
+<feast>
+<occasion>S. Ludovici Toul.</occasion>
+<feastCode>14081900</feastCode>
+<description>Louis, Bishop of Toulouse</description>
+<date>Aug.19</date></feast>
+<feast>
+<occasion>S. Philiberti</occasion>
+<feastCode>14082000</feastCode>
+<description>Philibert, Abbot</description>
+<date>Aug.20</date></feast>
+<feast>
+<occasion>S. Bernardi</occasion>
+<feastCode>14082010</feastCode>
+<description>Bernard, Abbot and Doctor</description>
+<date>Aug.20</date></feast>
+<feast>
+<occasion>S. Symphoriani</occasion>
+<feastCode>14082200</feastCode>
+<description>Symphorian (and Timothy), Martyrs</description>
+<date>Aug.22</date></feast>
+<feast>
+<occasion>Oct. Assumptionis</occasion>
+<feastCode>14082210</feastCode>
+<description>Octave of Assumption of Mary</description>
+<date>Aug.22</date></feast>
+<feast>
+<occasion>Timothei,Apollinaris</occasion>
+<feastCode>14082300</feastCode>
+<description>Timothy and Apollinaris, Martyrs</description>
+<date>Aug.23</date></feast>
+<feast>
+<occasion>S. Bartholomaei</occasion>
+<feastCode>14082400</feastCode>
+<description>Bartholomew, Apostle</description>
+<date>Aug.24</date></feast>
+<feast>
+<occasion>S. Audoeni</occasion>
+<feastCode>14082410</feastCode>
+<description>Audoenus (Ouen), Bishop of Rouen</description>
+<date>Aug.24</date></feast>
+<feast>
+<occasion>S. Ludovici</occasion>
+<feastCode>14082500</feastCode>
+<description>Louis IX, King of France</description>
+<date>Aug.25</date></feast>
+<feast>
+<occasion>S. Hunegundis</occasion>
+<feastCode>14082510</feastCode>
+<description>Hunegundis, Abbess</description>
+<date>Aug.25</date></feast>
+<feast>
+<occasion>Oct. S. Agapiti</occasion>
+<feastCode>14082520</feastCode>
+<description>Octave of Agapitus</description>
+<date>Aug.25</date></feast>
+<feast>
+<occasion>S. Augustini</occasion>
+<feastCode>14082800</feastCode>
+<description>Augustine, Bishop and Doctor</description>
+<date>Aug.28</date></feast>
+<feast>
+<occasion>S. Augustini,8</occasion>
+<feastCode>14082808</feastCode>
+<description>In week after Augustine</description>
+<date></date></feast>
+<feast>
+<occasion>S. Juliani</occasion>
+<feastCode>14082810</feastCode>
+<description>Julian of Brioude, Martyr</description>
+<date>Aug.28</date></feast>
+<feast>
+<occasion>S. Rufi</occasion>
+<feastCode>14082820</feastCode>
+<description>Rufus, Bishop</description>
+<date>Aug.28</date></feast>
+<feast>
+<occasion>S. Hermetis</occasion>
+<feastCode>14082830</feastCode>
+<description>Hermes, Martyr</description>
+<date>Aug.28</date></feast>
+<feast>
+<occasion>S. Pelagii</occasion>
+<feastCode>14082840</feastCode>
+<description>Pelagius, Martyr</description>
+<date>Aug.28</date></feast>
+<feast>
+<occasion>Decoll. S. Jo. Bapt.</occasion>
+<feastCode>14082900</feastCode>
+<description>Beheading of John the Baptist</description>
+<date>Aug.29</date></feast>
+<feast>
+<occasion>S. Sabinae</occasion>
+<feastCode>14082910</feastCode>
+<description>Sabina, Martyr</description>
+<date>Aug.29</date></feast>
+<feast>
+<occasion>S. Mederici</occasion>
+<feastCode>14082920</feastCode>
+<description>Medericus (Merry), Abbot</description>
+<date>Aug.29</date></feast>
+<feast>
+<occasion>SS. Felicis, Adaucti</occasion>
+<feastCode>14083000</feastCode>
+<description>Felix and Adauctus, Martyrs</description>
+<date>Aug.30</date></feast>
+<feast>
+<occasion>Transl. S. Hadulfi</occasion>
+<feastCode>14083100</feastCode>
+<description>Moving of Hadulf's relics</description>
+<date>Aug.31</date></feast>
+<feast>
+<occasion>S. Paulini</occasion>
+<feastCode>14083110</feastCode>
+<description>Paulinus, Bishop of Trier</description>
+<date>Aug.31</date></feast>
+<feast>
+<occasion>S. Cuthburgae</occasion>
+<feastCode>14083120</feastCode>
+<description>Cuthberga, First Abbess of Wimborne</description>
+<date>Aug.31</date></feast>
+<feast>
+<occasion>S. Aegidii</occasion>
+<feastCode>14090100</feastCode>
+<description>Aegidius (Giles), Abbot</description>
+<date>Sep.1</date></feast>
+<feast>
+<occasion>S. Lupi</occasion>
+<feastCode>14090110</feastCode>
+<description>Lupus (Leu), Bishop of Sens</description>
+<date>Sep.1</date></feast>
+<feast>
+<occasion>S. Prisci</occasion>
+<feastCode>14090120</feastCode>
+<description>Priscus, Bishop of Capua</description>
+<date>Sep.1</date></feast>
+<feast>
+<occasion>S. Verenae</occasion>
+<feastCode>14090130</feastCode>
+<description>Verena, Virgin</description>
+<date>Sep.1</date></feast>
+<feast>
+<occasion>SS. Duodecim Fratrum</occasion>
+<feastCode>14090140</feastCode>
+<description>Twelve Brothers, Martyrs</description>
+<date>Sep.1</date></feast>
+<feast>
+<occasion>S. Antonini</occasion>
+<feastCode>14090200</feastCode>
+<description>Antoninus, Martyr</description>
+<date>Sep.2</date></feast>
+<feast>
+<occasion>S. Remacli</occasion>
+<feastCode>14090300</feastCode>
+<description>Remaclus, Bishop</description>
+<date>Sep.3</date></feast>
+<feast>
+<occasion>Ordin. S. Gregorii</occasion>
+<feastCode>14090310</feastCode>
+<description>Ordination of Gregory</description>
+<date>Sep.3</date></feast>
+<feast>
+<occasion>Ordin. S. Gregorii,8</occasion>
+<feastCode>14090318</feastCode>
+<description>In week after Gregory's Ordination</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. S. Augustini</occasion>
+<feastCode>14090400</feastCode>
+<description>Octave of Augustine</description>
+<date>Sep.4</date></feast>
+<feast>
+<occasion>Transl. S. Cuthberti</occasion>
+<feastCode>14090410</feastCode>
+<description>Moving of Cuthbert's relics</description>
+<date>Sep.4</date></feast>
+<feast>
+<occasion>S. Humberti</occasion>
+<feastCode>14090600</feastCode>
+<description>Humbert, Abbot and Bishop</description>
+<date>Sep.6</date></feast>
+<feast>
+<occasion>S. Magni</occasion>
+<feastCode>14090610</feastCode>
+<description>Magnus, Apostle of Bavaria</description>
+<date>Sep.6</date></feast>
+<feast>
+<occasion>S. Evurtii</occasion>
+<feastCode>14090700</feastCode>
+<description>Evurtius (Euvert), Bishop</description>
+<date>Sep.7</date></feast>
+<feast>
+<occasion>Vig. Nat. Mariae</occasion>
+<feastCode>14090710</feastCode>
+<description>Eve of Birthday of Mary</description>
+<date>Sep.7</date></feast>
+<feast>
+<occasion>S. Chlodoaldi</occasion>
+<feastCode>14090720</feastCode>
+<description>Chlodoaldus (Cloud), Frankish prince</description>
+<date>Sep.7</date></feast>
+<feast>
+<occasion>Nativitas Mariae</occasion>
+<feastCode>14090800</feastCode>
+<description>Birthday of Mary</description>
+<date>Sep.8</date></feast>
+<feast>
+<occasion>Dom. p. Nat. Mariae</occasion>
+<feastCode>14090807</feastCode>
+<description>Sunday after Birthday of Mary</description>
+<date></date></feast>
+<feast>
+<occasion>Nativitas Mariae,8</occasion>
+<feastCode>14090808</feastCode>
+<description>In week after Birthday of Mary</description>
+<date></date></feast>
+<feast>
+<occasion>Transl. S. Egwini</occasion>
+<feastCode>14090810</feastCode>
+<description>Moving of Egwin's relics</description>
+<date>Sep.8</date></feast>
+<feast>
+<occasion>S. Corbiniani</occasion>
+<feastCode>14090820</feastCode>
+<description>Corbinianus, Abbot and Bishop</description>
+<date>Sep.8</date></feast>
+<feast>
+<occasion>S. Gorgonii</occasion>
+<feastCode>14090900</feastCode>
+<description>Gorgonius, Martyr</description>
+<date>Sep.9</date></feast>
+<feast>
+<occasion>Tr. S. Kunegundis</occasion>
+<feastCode>14090910</feastCode>
+<description>Moving of Cunegund's relics</description>
+<date>Sep.9</date></feast>
+<feast>
+<occasion>S. Audomari</occasion>
+<feastCode>14090920</feastCode>
+<description>Audomarus (Omer), Bishop</description>
+<date>Sep.9</date></feast>
+<feast>
+<occasion>S. Adriani</occasion>
+<feastCode>14091000</feastCode>
+<description>Adrian, Martyr</description>
+<date>Sep.10</date></feast>
+<feast>
+<occasion>SS. Proti, Hiacinthi</occasion>
+<feastCode>14091100</feastCode>
+<description>Protus and Hyacinth, Martyrs</description>
+<date>Sep.11</date></feast>
+<feast>
+<occasion>SS. Felicis, Regulae</occasion>
+<feastCode>14091110</feastCode>
+<description>Felix and Regula, Martyrs</description>
+<date>Sep.11</date></feast>
+<feast>
+<occasion>S. Maurilii</occasion>
+<feastCode>14091300</feastCode>
+<description>Maurilius, Bishop of Angers</description>
+<date>Sep.13</date></feast>
+<feast>
+<occasion>Exaltatio S. Crucis</occasion>
+<feastCode>14091400</feastCode>
+<description>Holy Cross Day (Exaltation of the Cross)</description>
+<date>Sep.14</date></feast>
+<feast>
+<occasion>Exalt. S. Crucis,8</occasion>
+<feastCode>14091408</feastCode>
+<description>In week after Holy Cross Day</description>
+<date></date></feast>
+<feast>
+<occasion>Reliquiarum</occasion>
+<feastCode>14091500</feastCode>
+<description>Feast of Relics</description>
+<date>Sep.15</date></feast>
+<feast>
+<occasion>Reliquiarum,8</occasion>
+<feastCode>14091508</feastCode>
+<description>In week after Feast of Relics</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. Nat. Mariae</occasion>
+<feastCode>14091510</feastCode>
+<description>Octave of Birthday of Mary</description>
+<date>Sep.15</date></feast>
+<feast>
+<occasion>S. Aichardi</occasion>
+<feastCode>14091520</feastCode>
+<description>Aichardus (Achard, Aichadrus), Abbot</description>
+<date>Sep.15</date></feast>
+<feast>
+<occasion>S. Nicomedis</occasion>
+<feastCode>14091530</feastCode>
+<description>Nicomedes, Martyr</description>
+<date>Sep.15</date></feast>
+<feast>
+<occasion>SS.Cornelii,Cypriani</occasion>
+<feastCode>14091600</feastCode>
+<description>Cornelius and Cyprian, Martyrs</description>
+<date>Sep.16</date></feast>
+<feast>
+<occasion>S. Euphemiae</occasion>
+<feastCode>14091610</feastCode>
+<description>Euphemia, Virgin and Martyr</description>
+<date>Sep.16</date></feast>
+<feast>
+<occasion>SS.Luciae,Germiniani</occasion>
+<feastCode>14091620</feastCode>
+<description>Lucy and Germinianus, Martyrs</description>
+<date>Sep.16</date></feast>
+<feast>
+<occasion>S. Lamberti</occasion>
+<feastCode>14091700</feastCode>
+<description>Lambert, Bishop of Maestricht</description>
+<date>Sep.17</date></feast>
+<feast>
+<occasion>S. Lamberti,8</occasion>
+<feastCode>14091708</feastCode>
+<description>In week after Lambert</description>
+<date></date></feast>
+<feast>
+<occasion>SS. Januarii et Soc.</occasion>
+<feastCode>14091900</feastCode>
+<description>Januarius and Companions, Martyrs</description>
+<date>Sep.19</date></feast>
+<feast>
+<occasion>S. Materni</occasion>
+<feastCode>14091910</feastCode>
+<description>Maternus, Bishop of Cologne</description>
+<date>Sep.19</date></feast>
+<feast>
+<occasion>Elevatio S. Amandi</occasion>
+<feastCode>14092000</feastCode>
+<description>Elevation of Amand's relics</description>
+<date>Sep.20</date></feast>
+<feast>
+<occasion>S. Matthaei</occasion>
+<feastCode>14092100</feastCode>
+<description>Matthew, Apostle and Evangelist</description>
+<date>Sep.21</date></feast>
+<feast>
+<occasion>S. Matthaei,8</occasion>
+<feastCode>14092108</feastCode>
+<description>In week after Matthew</description>
+<date></date></feast>
+<feast>
+<occasion>S. Mauritii</occasion>
+<feastCode>14092200</feastCode>
+<description>Maurice and Companions, Martyrs</description>
+<date>Sep.22</date></feast>
+<feast>
+<occasion>S. Emmerami</occasion>
+<feastCode>14092210</feastCode>
+<description>Emmeramus, Bishop</description>
+<date>Sep.22</date></feast>
+<feast>
+<occasion>S. Theclae</occasion>
+<feastCode>14092300</feastCode>
+<description>Thecla of Iconium, Virgin Martyr</description>
+<date>Sep.23</date></feast>
+<feast>
+<occasion>Elevat. S. Gaugerici</occasion>
+<feastCode>14092400</feastCode>
+<description>Elevation of Gaugericus's relics</description>
+<date>Sep.24</date></feast>
+<feast>
+<occasion>Oct. S. Lamberti</occasion>
+<feastCode>14092410</feastCode>
+<description>Octave of Lambert</description>
+<date>Sep.24</date></feast>
+<feast>
+<occasion>S. Ruperti</occasion>
+<feastCode>14092420</feastCode>
+<description>Rupert (Rubert), Bishop</description>
+<date>Sep.24</date></feast>
+<feast>
+<occasion>S. Firmini</occasion>
+<feastCode>14092500</feastCode>
+<description>Firminus, Bishop Martyr</description>
+<date>Sep.25</date></feast>
+<feast>
+<occasion>S. Firmini,8</occasion>
+<feastCode>14092508</feastCode>
+<description>In week after Firminus</description>
+<date></date></feast>
+<feast>
+<occasion>S. Cleophae</occasion>
+<feastCode>14092510</feastCode>
+<description>Cleophas, father of James the Less</description>
+<date>Sep.25</date></feast>
+<feast>
+<occasion>S. Justinae</occasion>
+<feastCode>14092600</feastCode>
+<description>Justina and Cyprian, Martyrs</description>
+<date>Sep.26</date></feast>
+<feast>
+<occasion>S. Justinae,8</occasion>
+<feastCode>14092608</feastCode>
+<description>In week after Justina and Cyprian</description>
+<date></date></feast>
+<feast>
+<occasion>SS. Cosmae, Damiani</occasion>
+<feastCode>14092700</feastCode>
+<description>Cosmas and Damian, Martyrs</description>
+<date>Sep.27</date></feast>
+<feast>
+<occasion>S. Wenceslai</occasion>
+<feastCode>14092800</feastCode>
+<description>Wenceslaus of Bohemia, Martyr</description>
+<date>Sep.28</date></feast>
+<feast>
+<occasion>S. Michaelis</occasion>
+<feastCode>14092900</feastCode>
+<description>Michael the Archangel (Michaelmas)</description>
+<date>Sep.29</date></feast>
+<feast>
+<occasion>S. Hieronimi</occasion>
+<feastCode>14093000</feastCode>
+<description>Jerome, Doctor</description>
+<date>Sep.30</date></feast>
+<feast>
+<occasion>S. Hieronimi,8</occasion>
+<feastCode>14093008</feastCode>
+<description>In week after Jerome</description>
+<date></date></feast>
+<feast>
+<occasion>S. Remigii</occasion>
+<feastCode>14100100</feastCode>
+<description>Remigius (Remi), Bishop of Rheims</description>
+<date>Oct.1</date></feast>
+<feast>
+<occasion>SS. Germani, Vedasti</occasion>
+<feastCode>14100110</feastCode>
+<description>Germanus and Vedastus, Martyrs</description>
+<date>Oct.1</date></feast>
+<feast>
+<occasion>S. Melori</occasion>
+<feastCode>14100120</feastCode>
+<description>Melorus (Melar, Mylor), Martyr</description>
+<date>Oct.1</date></feast>
+<feast>
+<occasion>S. Leodegarii</occasion>
+<feastCode>14100200</feastCode>
+<description>Leodegarius (Leger), Bishop Martyr</description>
+<date>Oct.2</date></feast>
+<feast>
+<occasion>S. Sereni</occasion>
+<feastCode>14100210</feastCode>
+<description>Serenus, Confessor</description>
+<date>Oct.2</date></feast>
+<feast>
+<occasion>Oct. S. Justinae</occasion>
+<feastCode>14100300</feastCode>
+<description>Octave of Justina and Cyprian</description>
+<date>Oct.3</date></feast>
+<feast>
+<occasion>S. Francisci</occasion>
+<feastCode>14100400</feastCode>
+<description>Francis of Assisi</description>
+<date>Oct.4</date></feast>
+<feast>
+<occasion>S. Francisci,8</occasion>
+<feastCode>14100408</feastCode>
+<description>In week after Francis of Assisi</description>
+<date></date></feast>
+<feast>
+<occasion>S. Aureae</occasion>
+<feastCode>14100410</feastCode>
+<description>Aurea, Abbess in Paris</description>
+<date>Oct.4</date></feast>
+<feast>
+<occasion>Transl. S. Vedasti</occasion>
+<feastCode>14100500</feastCode>
+<description>Moving of Vaast's relics</description>
+<date>Oct.5</date></feast>
+<feast>
+<occasion>Dom.p.Tr.S.Vedasti</occasion>
+<feastCode>14100507</feastCode>
+<description>Sunday after Vaast's Translation</description>
+<date></date></feast>
+<feast>
+<occasion>Transl. S. Vedasti,8</occasion>
+<feastCode>14100508</feastCode>
+<description>In week after Vaast's Translation</description>
+<date></date></feast>
+<feast>
+<occasion>S. Fidis</occasion>
+<feastCode>14100600</feastCode>
+<description>Faith, Virgin Martyr</description>
+<date>Oct.6</date></feast>
+<feast>
+<occasion>S. Marci, Pont.</occasion>
+<feastCode>14100700</feastCode>
+<description>Mark, Pope</description>
+<date>Oct.7</date></feast>
+<feast>
+<occasion>SS.Marcelli,Apuleii</occasion>
+<feastCode>14100710</feastCode>
+<description>Marcellus and Apulejus, Martyrs</description>
+<date>Oct.7</date></feast>
+<feast>
+<occasion>Transl. S. Wolfgangi</occasion>
+<feastCode>14100720</feastCode>
+<description>Moving of Wolfgang's relics</description>
+<date>Oct.7</date></feast>
+<feast>
+<occasion>S. Ragenfredis</occasion>
+<feastCode>14100800</feastCode>
+<description>Ragenfredis, Cannoness</description>
+<date>Oct.8</date></feast>
+<feast>
+<occasion>S. Benedictae</occasion>
+<feastCode>14100810</feastCode>
+<description>Benedicta, Virgin Martyr</description>
+<date>Oct.8</date></feast>
+<feast>
+<occasion>SS. Sergii, Bacchi</occasion>
+<feastCode>14100820</feastCode>
+<description>Sergius and Bacchus, Martyrs</description>
+<date>Oct.8</date></feast>
+<feast>
+<occasion>Transl. S. Oswaldi</occasion>
+<feastCode>14100830</feastCode>
+<description>Moving of Oswald's relics</description>
+<date>Oct.8</date></feast>
+<feast>
+<occasion>Transl. S. Oswaldi,8</occasion>
+<feastCode>14100838</feastCode>
+<description>In week after Oswald's Translation</description>
+<date></date></feast>
+<feast>
+<occasion>S. Dionysii</occasion>
+<feastCode>14100900</feastCode>
+<description>Denis (Dionysius), Bishop of Paris</description>
+<date>Oct.9</date></feast>
+<feast>
+<occasion>S. Dionysii,8</occasion>
+<feastCode>14100908</feastCode>
+<description>In week after Denis, Bishop of Paris</description>
+<date></date></feast>
+<feast>
+<occasion>S. Gisleni</occasion>
+<feastCode>14100910</feastCode>
+<description>Gislenus (Ghislain), Abbot</description>
+<date>Oct.9</date></feast>
+<feast>
+<occasion>S. Richarii</occasion>
+<feastCode>14100920</feastCode>
+<description>Richarius (Riquier), Abbot</description>
+<date>Oct.9</date></feast>
+<feast>
+<occasion>SS. Patriarcharum</occasion>
+<feastCode>14100930</feastCode>
+<description>Abraham, Isaac and Jacob</description>
+<date>Oct.9</date></feast>
+<feast>
+<occasion>SS. Gereonis et Soc.</occasion>
+<feastCode>14101000</feastCode>
+<description>Gereon and Companions, Martyrs</description>
+<date>Oct.10</date></feast>
+<feast>
+<occasion>S. Paulini Ebor.</occasion>
+<feastCode>14101010</feastCode>
+<description>Paulinus, Archbishop of York</description>
+<date>Oct.10</date></feast>
+<feast>
+<occasion>S. Paulini Ebor.,8</occasion>
+<feastCode>14101018</feastCode>
+<description>In week after Paulinus of York</description>
+<date></date></feast>
+<feast>
+<occasion>S. Venantii</occasion>
+<feastCode>14101100</feastCode>
+<description>Venantius, Hermit</description>
+<date>Oct.11</date></feast>
+<feast>
+<occasion>S. Probi</occasion>
+<feastCode>14101110</feastCode>
+<description>Probus and Tarachus, Martyrs</description>
+<date>Oct.11</date></feast>
+<feast>
+<occasion>Transl. S. Augustini</occasion>
+<feastCode>14101120</feastCode>
+<description>Moving of Augustine's relics</description>
+<date>Oct.11</date></feast>
+<feast>
+<occasion>SS. Nigasii et Soc.</occasion>
+<feastCode>14101130</feastCode>
+<description>Nicasius of Rouen, alleged Bishop of Rouen</description>
+<date>Oct.11</date></feast>
+<feast>
+<occasion>S. Opilii</occasion>
+<feastCode>14101200</feastCode>
+<description>Opilius, Deacon</description>
+<date>Oct.12</date></feast>
+<feast>
+<occasion>Oct. Tr. S. Vedasti</occasion>
+<feastCode>14101210</feastCode>
+<description>Octave of Vaast's Translation</description>
+<date>Oct.12</date></feast>
+<feast>
+<occasion>S. Maximiliani</occasion>
+<feastCode>14101220</feastCode>
+<description>Maximilian, Bishop of Lorch</description>
+<date>Oct.12</date></feast>
+<feast>
+<occasion>S. Wilfridi</occasion>
+<feastCode>14101230</feastCode>
+<description>Wilfrid, Archbishop of York</description>
+<date>Oct.12</date></feast>
+<feast>
+<occasion>S. Geraldi</occasion>
+<feastCode>14101300</feastCode>
+<description>Gerald of Aurillac</description>
+<date>Oct.13</date></feast>
+<feast>
+<occasion>S. Donatiani</occasion>
+<feastCode>14101310</feastCode>
+<description>Donatianus, Bishop of Reims</description>
+<date>Oct.13</date></feast>
+<feast>
+<occasion>S. Colomanni</occasion>
+<feastCode>14101320</feastCode>
+<description>Coloman, Martyr</description>
+<date>Oct.13</date></feast>
+<feast>
+<occasion>Transl. S. Edwardi</occasion>
+<feastCode>14101330</feastCode>
+<description>Moving of Edward's relics</description>
+<date>Oct.13</date></feast>
+<feast>
+<occasion>S. Callisti</occasion>
+<feastCode>14101400</feastCode>
+<description>Callistus (Calixtus) I, Pope</description>
+<date>Oct.14</date></feast>
+<feast>
+<occasion>S. Galli</occasion>
+<feastCode>14101600</feastCode>
+<description>Gall, Hermit</description>
+<date>Oct.16</date></feast>
+<feast>
+<occasion>Oct. S. Dionysii</occasion>
+<feastCode>14101610</feastCode>
+<description>Octave of Denis, Bishop of Paris</description>
+<date>Oct.16</date></feast>
+<feast>
+<occasion>SS. Luciani et Soc.</occasion>
+<feastCode>14101620</feastCode>
+<description>Lucianus and Companions, Martyrs</description>
+<date>Oct.16</date></feast>
+<feast>
+<occasion>Ded.Mont.S.Michaelis</occasion>
+<feastCode>14101630</feastCode>
+<description>Dedication of Mont-Saint-Michel</description>
+<date>Oct.16</date></feast>
+<feast>
+<occasion>S. Hedwigis</occasion>
+<feastCode>14101640</feastCode>
+<description>Hedwig, Matron and Duchess of Silesia</description>
+<date>Oct.16</date></feast>
+<feast>
+<occasion>S. Lucae</occasion>
+<feastCode>14101800</feastCode>
+<description>Luke, Evangelist</description>
+<date>Oct.18</date></feast>
+<feast>
+<occasion>S. Lucae,8</occasion>
+<feastCode>14101808</feastCode>
+<description>In week after Luke</description>
+<date></date></feast>
+<feast>
+<occasion>S. Justi</occasion>
+<feastCode>14101810</feastCode>
+<description>Justus of Beauvais, Martyr</description>
+<date>Oct.18</date></feast>
+<feast>
+<occasion>S. Herblandi</occasion>
+<feastCode>14101820</feastCode>
+<description>Hermeland, Abbot of Aindre (Nantes)</description>
+<date>Oct.18</date></feast>
+<feast>
+<occasion>S. Amati</occasion>
+<feastCode>14101900</feastCode>
+<description>Amatus, Bishop of Sens</description>
+<date>Oct.19</date></feast>
+<feast>
+<occasion>S. Januarii</occasion>
+<feastCode>14101910</feastCode>
+<description>Januarius</description>
+<date>Oct.19</date></feast>
+<feast>
+<occasion>S. Petri Alcan.</occasion>
+<feastCode>14101920</feastCode>
+<description>Peter of Alcantara, Founder</description>
+<date>Oct.19</date></feast>
+<feast>
+<occasion>SS. XI milia Virg.</occasion>
+<feastCode>14102100</feastCode>
+<description>11,000 Virgin Martyrs of Cologne</description>
+<date>Oct.21</date></feast>
+<feast>
+<occasion>S. Ursulae</occasion>
+<feastCode>14102110</feastCode>
+<description>Ursula, Virgin Martyr</description>
+<date>Oct.21</date></feast>
+<feast>
+<occasion>S. Hilarionis</occasion>
+<feastCode>14102120</feastCode>
+<description>Hilarion, Abbot</description>
+<date>Oct.21</date></feast>
+<feast>
+<occasion>S. Severini, Epi.</occasion>
+<feastCode>14102300</feastCode>
+<description>Severinus, Confessor &amp; Bishop of Cologne</description>
+<date>Oct.23</date></feast>
+<feast>
+<occasion>S. Maglorii</occasion>
+<feastCode>14102400</feastCode>
+<description>Magloire (Maelor), Bishop of Dol</description>
+<date>Oct.24</date></feast>
+<feast>
+<occasion>Crispini,Crispiniani</occasion>
+<feastCode>14102500</feastCode>
+<description>Crispin and Crispinian, Martyrs</description>
+<date>Oct.25</date></feast>
+<feast>
+<occasion>S. Miniatis</occasion>
+<feastCode>14102510</feastCode>
+<description>Minias, Martyr</description>
+<date>Oct.25</date></feast>
+<feast>
+<occasion>S. Lupi Bajocensis</occasion>
+<feastCode>14102520</feastCode>
+<description>Lupus, Bishop of Bayeux</description>
+<date>Oct.25</date></feast>
+<feast>
+<occasion>Ordinatio S. Amandi</occasion>
+<feastCode>14102600</feastCode>
+<description>Ordination of Amandus (Amand)</description>
+<date>Oct.26</date></feast>
+<feast>
+<occasion>SS. Simonis, Judae</occasion>
+<feastCode>14102800</feastCode>
+<description>Simon, Jude (Thaddeus), Apostles</description>
+<date>Oct.28</date></feast>
+<feast>
+<occasion>S. Narcissi</occasion>
+<feastCode>14102900</feastCode>
+<description>Narcissus, Bishop of Jerusalem</description>
+<date>Oct.29</date></feast>
+<feast>
+<occasion>S. Lucani</occasion>
+<feastCode>14103000</feastCode>
+<description>Lucanus of Gascony, Martyr</description>
+<date>Oct.30</date></feast>
+<feast>
+<occasion>S. Quintini</occasion>
+<feastCode>14103100</feastCode>
+<description>Quintinus (Quentin), Martyr</description>
+<date>Oct.31</date></feast>
+<feast>
+<occasion>S. Foliani</occasion>
+<feastCode>14103110</feastCode>
+<description>Foillan (Folianus), Abbot</description>
+<date>Oct.31</date></feast>
+<feast>
+<occasion>Vig. Om. Sanctorum</occasion>
+<feastCode>14103120</feastCode>
+<description>Eve of All Saints' Day</description>
+<date>Oct.31</date></feast>
+<feast>
+<occasion>S. Wolfgangi</occasion>
+<feastCode>14103130</feastCode>
+<description>Wolfgangus, Bishop of Regensburg</description>
+<date>Oct.31</date></feast>
+<feast>
+<occasion>Omnium Sanctorum</occasion>
+<feastCode>14110100</feastCode>
+<description>All Saints' Day</description>
+<date>Nov.1</date></feast>
+<feast>
+<occasion>Dom.p.Om.Sanctorum</occasion>
+<feastCode>14110107</feastCode>
+<description>Sunday after All Saints' Day</description>
+<date></date></feast>
+<feast>
+<occasion>Omnium Sanctorum,8</occasion>
+<feastCode>14110108</feastCode>
+<description>In week after All Saints' Day</description>
+<date></date></feast>
+<feast>
+<occasion>S. Ulgani</occasion>
+<feastCode>14110110</feastCode>
+<description>Vulgan, Hermit</description>
+<date>Nov.1</date></feast>
+<feast>
+<occasion>S. Vigoris</occasion>
+<feastCode>14110120</feastCode>
+<description>Vigor, Bishop of Bayeux</description>
+<date>Nov.1</date></feast>
+<feast>
+<occasion>SS. Caesarii,Juliani</occasion>
+<feastCode>14110130</feastCode>
+<description>Caesarius and Julian, Martyrs</description>
+<date>Nov.1</date></feast>
+<feast>
+<occasion>S. Eustachii</occasion>
+<feastCode>14110200</feastCode>
+<description>Eustachius (Eustace), Martyr</description>
+<date>Nov.2</date></feast>
+<feast>
+<occasion>S. Pirmini</occasion>
+<feastCode>14110300</feastCode>
+<description>Pirminus, Abbot and Bishop</description>
+<date>Nov.3</date></feast>
+<feast>
+<occasion>S. Marcelli Parisi.</occasion>
+<feastCode>14110310</feastCode>
+<description>Marcellus, Bishop of Paris</description>
+<date>Nov.3</date></feast>
+<feast>
+<occasion>S. Marcelli Par.,8</occasion>
+<feastCode>14110318</feastCode>
+<description>In week after Marcellus of Paris</description>
+<date></date></feast>
+<feast>
+<occasion>S. Wenaili</occasion>
+<feastCode>14110320</feastCode>
+<description>Guenael, Abbot of Landevennec</description>
+<date>Nov.3</date></feast>
+<feast>
+<occasion>S. Vinoci</occasion>
+<feastCode>14110600</feastCode>
+<description>Winnoc (Vinocus), Abbot</description>
+<date>Nov.6</date></feast>
+<feast>
+<occasion>S. Leonardi</occasion>
+<feastCode>14110610</feastCode>
+<description>Leonard, Hermit</description>
+<date>Nov.6</date></feast>
+<feast>
+<occasion>S. Willibrordi</occasion>
+<feastCode>14110700</feastCode>
+<description>Willibrord, Bishop of Utrecht</description>
+<date>Nov.7</date></feast>
+<feast>
+<occasion>SS.Quat.Coronatorum</occasion>
+<feastCode>14110800</feastCode>
+<description>The Four Crowned Ones, Martyrs</description>
+<date>Nov.8</date></feast>
+<feast>
+<occasion>Oct. Om. Sanctorum</occasion>
+<feastCode>14110810</feastCode>
+<description>Octave of All Saints' Day</description>
+<date>Nov.8</date></feast>
+<feast>
+<occasion>De Imagine Domini</occasion>
+<feastCode>14110900</feastCode>
+<description>The Icon of our Lord Saviour</description>
+<date>Nov.9</date></feast>
+<feast>
+<occasion>S. Theodori Tiro</occasion>
+<feastCode>14110910</feastCode>
+<description>Theodore Tiro, Martyr</description>
+<date>Nov.9</date></feast>
+<feast>
+<occasion>S. Vitoni</occasion>
+<feastCode>14110920</feastCode>
+<description>Vitonus (Vanne), Bishop of Verdun</description>
+<date>Nov.9</date></feast>
+<feast>
+<occasion>S. Maturini</occasion>
+<feastCode>14110930</feastCode>
+<description>Maturin, Priest of Larchant (Sens)</description>
+<date>Nov.9</date></feast>
+<feast>
+<occasion>Dedic. S. Salvatoris</occasion>
+<feastCode>14110940</feastCode>
+<description>Dedication of Saint Saviour's</description>
+<date>Nov.9</date></feast>
+<feast>
+<occasion>Oct. S. Marcel. Par.</occasion>
+<feastCode>14111000</feastCode>
+<description>Octave of Marcellus, Bishop of Paris</description>
+<date>Nov.10</date></feast>
+<feast>
+<occasion>S. Martini</occasion>
+<feastCode>14111100</feastCode>
+<description>Martin, Bishop of Tours</description>
+<date>Nov.11</date></feast>
+<feast>
+<occasion>Dom. p. S. Martini</occasion>
+<feastCode>14111107</feastCode>
+<description>Sunday after Martin</description>
+<date></date></feast>
+<feast>
+<occasion>S. Martini,8</occasion>
+<feastCode>14111108</feastCode>
+<description>In week after Martin</description>
+<date></date></feast>
+<feast>
+<occasion>S. Mennae</occasion>
+<feastCode>14111110</feastCode>
+<description>Mennas, Martyr</description>
+<date>Nov.11</date></feast>
+<feast>
+<occasion>S. Lebuini</occasion>
+<feastCode>14111200</feastCode>
+<description>Lebwin (Lebuin, Liafwin, Leafwine), Confessor</description>
+<date>Nov.12</date></feast>
+<feast>
+<occasion>S. Bricii</occasion>
+<feastCode>14111300</feastCode>
+<description>Brice, Bishop of Tours</description>
+<date>Nov.13</date></feast>
+<feast>
+<occasion>Inventio S. Antonini</occasion>
+<feastCode>14111310</feastCode>
+<description>Finding of Antoninus's relics</description>
+<date>Nov.13</date></feast>
+<feast>
+<occasion>S. Maxellendis</occasion>
+<feastCode>14111320</feastCode>
+<description>Maxellendis, Virgin Martyr</description>
+<date>Nov.13</date></feast>
+<feast>
+<occasion>S. Genulfi</occasion>
+<feastCode>14111330</feastCode>
+<description>Genulf (Gendulf, Genou), Bishop</description>
+<date>Nov.13</date></feast>
+<feast>
+<occasion>S. Eugenii</occasion>
+<feastCode>14111500</feastCode>
+<description>Eugene, Martyr, Disciple of St. Denis</description>
+<date>Nov.15</date></feast>
+<feast>
+<occasion>S. Machuti</occasion>
+<feastCode>14111510</feastCode>
+<description>Maclovius (Malo), Bishop of Aleth</description>
+<date>Nov.15</date></feast>
+<feast>
+<occasion>S. Leopoldi</occasion>
+<feastCode>14111520</feastCode>
+<description>Leopold, Prince of Austria</description>
+<date>Nov.15</date></feast>
+<feast>
+<occasion>S. Othmari</occasion>
+<feastCode>14111600</feastCode>
+<description>Othmar (Audemar), Abbot</description>
+<date>Nov.16</date></feast>
+<feast>
+<occasion>S. Gregorii Thauma.</occasion>
+<feastCode>14111700</feastCode>
+<description>Gregory the Wonderworker, Bishop</description>
+<date>Nov.17</date></feast>
+<feast>
+<occasion>S. Aniani</occasion>
+<feastCode>14111710</feastCode>
+<description>Anianus (Aignan), Bishop of Orleans</description>
+<date>Nov.17</date></feast>
+<feast>
+<occasion>Oct. S. Martini</occasion>
+<feastCode>14111800</feastCode>
+<description>Octave of Martin</description>
+<date>Nov.18</date></feast>
+<feast>
+<occasion>S. Romani Antiochiae</occasion>
+<feastCode>14111810</feastCode>
+<description>Romanus of Antioch, Martyr</description>
+<date>Nov.18</date></feast>
+<feast>
+<occasion>S. Elisabeth Hung.</occasion>
+<feastCode>14111900</feastCode>
+<description>Elizabeth of Hungary, Widow</description>
+<date>Nov.19</date></feast>
+<feast>
+<occasion>S. Elisabeth Hung.,8</occasion>
+<feastCode>14111908</feastCode>
+<description>In week after Elizabeth of Hungary</description>
+<date></date></feast>
+<feast>
+<occasion>S. Edmundi</occasion>
+<feastCode>14112000</feastCode>
+<description>Edmund, King and Martyr</description>
+<date>Nov.20</date></feast>
+<feast>
+<occasion>Praesentatio Mariae</occasion>
+<feastCode>14112100</feastCode>
+<description>Presentation of Mary</description>
+<date>Nov.21</date></feast>
+<feast>
+<occasion>S. Caeciliae</occasion>
+<feastCode>14112200</feastCode>
+<description>Cecilia (Cecily), Virgin Martyr</description>
+<date>Nov.22</date></feast>
+<feast>
+<occasion>S. Caeciliae,8</occasion>
+<feastCode>14112208</feastCode>
+<description>In week after Cecilia</description>
+<date></date></feast>
+<feast>
+<occasion>S. Clementis</occasion>
+<feastCode>14112300</feastCode>
+<description>Clement I, Pope and Martyr</description>
+<date>Nov.23</date></feast>
+<feast>
+<occasion>S. Clementis,8</occasion>
+<feastCode>14112308</feastCode>
+<description>In week after Clement</description>
+<date></date></feast>
+<feast>
+<occasion>S. Felicitatis</occasion>
+<feastCode>14112310</feastCode>
+<description>Felicitatis, Matron and Martyr</description>
+<date>Nov.23</date></feast>
+<feast>
+<occasion>S. Trudonis</occasion>
+<feastCode>14112320</feastCode>
+<description>Trudo (Trond)</description>
+<date>Nov.23</date></feast>
+<feast>
+<occasion>S. Columbani</occasion>
+<feastCode>14112330</feastCode>
+<description>Columbanus (Columban), Abbot</description>
+<date>Nov.23</date></feast>
+<feast>
+<occasion>S. Chrysogoni</occasion>
+<feastCode>14112400</feastCode>
+<description>Chrysogonus, Martyr</description>
+<date>Nov.24</date></feast>
+<feast>
+<occasion>S. Severini</occasion>
+<feastCode>14112410</feastCode>
+<description>Severinus, Monk, Teacher of St. Cloud</description>
+<date>Nov.24</date></feast>
+<feast>
+<occasion>S. Catharinae</occasion>
+<feastCode>14112500</feastCode>
+<description>Catherine of Alexandria, Martyr</description>
+<date>Nov.25</date></feast>
+<feast>
+<occasion>S. Lini</occasion>
+<feastCode>14112600</feastCode>
+<description>Linus, Bishop of Rome</description>
+<date>Nov.26</date></feast>
+<feast>
+<occasion>Mirac. S. Genovefae</occasion>
+<feastCode>14112610</feastCode>
+<description>Commemoration of Genevieve's Miracle</description>
+<date>Nov.26</date></feast>
+<feast>
+<occasion>S. Conradi</occasion>
+<feastCode>14112620</feastCode>
+<description>Conrad, Bishop of Constance</description>
+<date>Nov.26</date></feast>
+<feast>
+<occasion>S. Saturnini</occasion>
+<feastCode>14112900</feastCode>
+<description>Saturninus, Martyr Bishop of Toulouse</description>
+<date>Nov.29</date></feast>
+<feast>
+<occasion>SS.Chrysanthi,Dariae</occasion>
+<feastCode>14112910</feastCode>
+<description>Chrysanthus, Daria, Maurus, Martyrs</description>
+<date>Nov.29</date></feast>
+<feast>
+<occasion>S. Andreae</occasion>
+<feastCode>14113000</feastCode>
+<description>Andrew, Apostle</description>
+<date>Nov.30</date></feast>
+<feast>
+<occasion>S. Andreae,8</occasion>
+<feastCode>14113008</feastCode>
+<description>In week after Andrew</description>
+<date></date></feast>
+<feast>
+<occasion>S. Eligii</occasion>
+<feastCode>14120100</feastCode>
+<description>Eligius (Eloi), Bishop of Noyon</description>
+<date>Dec.1</date></feast>
+<feast>
+<occasion>S. Barbarae</occasion>
+<feastCode>14120400</feastCode>
+<description>Barbara, Virgin Martyr</description>
+<date>Dec.4</date></feast>
+<feast>
+<occasion>Suscept. Reliquiarum</occasion>
+<feastCode>14120410</feastCode>
+<description>Feast of Relics (Notre Dame, Paris)</description>
+<date>Dec.4</date></feast>
+<feast>
+<occasion>S. Sabae</occasion>
+<feastCode>14120500</feastCode>
+<description>Sabas, Abbot</description>
+<date>Dec.5</date></feast>
+<feast>
+<occasion>S. Nicolai</occasion>
+<feastCode>14120600</feastCode>
+<description>Nicholas of Bari, Bishop of Myra</description>
+<date>Dec.6</date></feast>
+<feast>
+<occasion>S. Nicolai,8</occasion>
+<feastCode>14120608</feastCode>
+<description>In week after Nicholas</description>
+<date></date></feast>
+<feast>
+<occasion>Oct. S. Saturnini</occasion>
+<feastCode>14120610</feastCode>
+<description>Octave of Saturninus</description>
+<date>Dec.6</date></feast>
+<feast>
+<occasion>S. Victoris</occasion>
+<feastCode>14120700</feastCode>
+<description>Victor, Bishop of Piacenza</description>
+<date>Dec.7</date></feast>
+<feast>
+<occasion>Oct. S. Andreae</occasion>
+<feastCode>14120710</feastCode>
+<description>Octave of Andrew</description>
+<date>Dec.7</date></feast>
+<feast>
+<occasion>Transl. S. Baboleni</occasion>
+<feastCode>14120720</feastCode>
+<description>Moving of Babolenus' relics</description>
+<date>Dec.7</date></feast>
+<feast>
+<occasion>Conceptio Mariae</occasion>
+<feastCode>14120800</feastCode>
+<description>Immaculate Conception of Mary</description>
+<date>Dec.8</date></feast>
+<feast>
+<occasion>S. Syri</occasion>
+<feastCode>14120900</feastCode>
+<description>Syrus</description>
+<date>Dec.9</date></feast>
+<feast>
+<occasion>S. Gabrielis</occasion>
+<feastCode>14121000</feastCode>
+<description>Gabriel</description>
+<date>Dec.10</date></feast>
+<feast>
+<occasion>S. Valeriae</occasion>
+<feastCode>14121010</feastCode>
+<description>Valeria</description>
+<date>Dec.10</date></feast>
+<feast>
+<occasion>S. Damasi</occasion>
+<feastCode>14121100</feastCode>
+<description>Damasus, Pope</description>
+<date>Dec.11</date></feast>
+<feast>
+<occasion>SS.Fusciani,Gentiani</occasion>
+<feastCode>14121110</feastCode>
+<description>Fuscian and Gentian, Martyrs</description>
+<date>Dec.11</date></feast>
+<feast>
+<occasion>S. Luciae</occasion>
+<feastCode>14121300</feastCode>
+<description>Lucy (Lucia), Virgin Martyr</description>
+<date>Dec.13</date></feast>
+<feast>
+<occasion>S. Luciae,8</occasion>
+<feastCode>14121308</feastCode>
+<description>In week after Lucy</description>
+<date></date></feast>
+<feast>
+<occasion>S. Aubertii</occasion>
+<feastCode>14121310</feastCode>
+<description>Aubert (Aubertus), Bishop of Cambrai</description>
+<date>Dec.13</date></feast>
+<feast>
+<occasion>Oct. S. Nicolai</occasion>
+<feastCode>14121320</feastCode>
+<description>Octave of Nicholas</description>
+<date>Dec.13</date></feast>
+<feast>
+<occasion>S. Judoci</occasion>
+<feastCode>14121330</feastCode>
+<description>Judoc, Prince and Hermit</description>
+<date>Dec.13</date></feast>
+<feast>
+<occasion>S. Odiliae</occasion>
+<feastCode>14121340</feastCode>
+<description>Odilia (Ottilia), Abbess</description>
+<date>Dec.13</date></feast>
+<feast>
+<occasion>SS.Eustratii et Soc.</occasion>
+<feastCode>14121350</feastCode>
+<description>Eustratius et al, Martyrs</description>
+<date>Dec.13</date></feast>
+<feast>
+<occasion>S. Nicasii</occasion>
+<feastCode>14121400</feastCode>
+<description>Nicasius, Bishop Martyr of Rheims</description>
+<date>Dec.14</date></feast>
+<feast>
+<occasion>Relatio S. Martini</occasion>
+<feastCode>14121410</feastCode>
+<description>Return of Martin's relics</description>
+<date>Dec.14</date></feast>
+<feast>
+<occasion>S. Lazari</occasion>
+<feastCode>14121700</feastCode>
+<description>Lazarus of Bethany, Bp. Marseilles</description>
+<date>Dec.17</date></feast>
+<feast>
+<occasion>S. Gatiani</occasion>
+<feastCode>14121800</feastCode>
+<description>Gatian, Bishop of Tours</description>
+<date>Dec.18</date></feast>
+<feast>
+<occasion>S. Thomae Apost.</occasion>
+<feastCode>14122100</feastCode>
+<description>Thomas, Apostle</description>
+<date>Dec.21</date></feast>
+<feast>
+<occasion>S. Victoriae</occasion>
+<feastCode>14122300</feastCode>
+<description>Victoria and Anatolia, Virgin Martyrs</description>
+<date>Dec.23</date></feast>
+<feast>
+<occasion>S. Gregorii, Mart.</occasion>
+<feastCode>14122400</feastCode>
+<description>Gregory of Spoleto, Martyr</description>
+<date>Dec.24</date></feast>
+<feast>
+<occasion>S. Thomae Cant.</occasion>
+<feastCode>14122900</feastCode>
+<description>Thomas Becket, Bishop of Canterbury</description>
+<date>Dec.29</date></feast>
+<feast>
+<occasion>S. Thomae Cant.,8</occasion>
+<feastCode>14122908</feastCode>
+<description>In week after Thomas Becket</description>
+<date></date></feast>
+<feast>
+<occasion>S. Trophimi</occasion>
+<feastCode>14122910</feastCode>
+<description>Trophimus, Bishop of Arles</description>
+<date>Dec.29</date></feast>
+<feast>
+<occasion>S. Egwini</occasion>
+<feastCode>14123000</feastCode>
+<description>Egwin, Bishop of Worcester</description>
+<date>Dec.30</date></feast>
+<feast>
+<occasion>S. Egwini,8</occasion>
+<feastCode>14123008</feastCode>
+<description>In week after Egwin</description>
+<date></date></feast>
+<feast>
+<occasion>S. Perpetui</occasion>
+<feastCode>14123010</feastCode>
+<description>Perpetuus, Bishop of Tours</description>
+<date>Dec.30</date></feast>
+<feast>
+<occasion>S. Silvestri</occasion>
+<feastCode>14123100</feastCode>
+<description>Silvester I, Pope</description>
+<date>Dec.31</date></feast>
+<feast>
+<occasion>S. Columbae</occasion>
+<feastCode>14123110</feastCode>
+<description>Columba of Sens, Virgin Martyr</description>
+<date>Dec.31</date></feast>
+<feast>
+<occasion>Ad Suffragium</occasion>
+<feastCode>15000000</feastCode>
+<description>Memorial chants</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. pro Pace</occasion>
+<feastCode>15001000</feastCode>
+<description>Memorial chants for peace</description>
+<date></date></feast>
+<feast>
+<occasion>Su.Oswaldi,Wulstani</occasion>
+<feastCode>15002000</feastCode>
+<description>Memorial chants for Oswald, Wulfstan</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. pro Penitent.</occasion>
+<feastCode>15003000</feastCode>
+<description>Memorial chants for penitence</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Apostolorum</occasion>
+<feastCode>15004000</feastCode>
+<description>Memorial chants for Apostles</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Confessorum</occasion>
+<feastCode>15005000</feastCode>
+<description>Memorial chants for Confessors</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. un. Mart. TP</occasion>
+<feastCode>15006080</feastCode>
+<description>Memorial chants for one Martyr, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Commune BMV</occasion>
+<feastCode>15007000</feastCode>
+<description>Common chants for Mary</description>
+<date></date></feast>
+<feast>
+<occasion>De BMV</occasion>
+<feastCode>15008000</feastCode>
+<description>Votive Office for Mary</description>
+<date></date></feast>
+<feast>
+<occasion>De BMV TP</occasion>
+<feastCode>15008080</feastCode>
+<description>Votive Office for Mary, in Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Genovefae</occasion>
+<feastCode>15010300</feastCode>
+<description>Memorial chants for Genevieve</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Vedasti</occasion>
+<feastCode>15020600</feastCode>
+<description>Memorial chants for Vaast</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Walburgae</occasion>
+<feastCode>15022500</feastCode>
+<description>Memorial chants for Walburga</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. David</occasion>
+<feastCode>15030100</feastCode>
+<description>Memorial chants for David</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Benedicti</occasion>
+<feastCode>15032100</feastCode>
+<description>Memorial chants for Benedict</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Crucis</occasion>
+<feastCode>15050300</feastCode>
+<description>Memorial chants for the Holy Cross</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Crucis TP</occasion>
+<feastCode>15050380</feastCode>
+<description>Memorial chants for Holy Cross, Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Jo. Bapt.</occasion>
+<feastCode>15062400</feastCode>
+<description>Memorial chants for John the Baptist</description>
+<date></date></feast>
+<feast>
+<occasion>Suff.S.Jo.Bapt. Adv.</occasion>
+<feastCode>15062410</feastCode>
+<description>Memorials, John the Baptist, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Suff.S.Jo.Bapt. Nat.</occasion>
+<feastCode>15062430</feastCode>
+<description>Memorials, John the Baptist, Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Suff.S.Jo.Bapt. TP</occasion>
+<feastCode>15062480</feastCode>
+<description>Memorials, John the Bapt., Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. SS.Petri,Pauli</occasion>
+<feastCode>15062900</feastCode>
+<description>Memorial chants for Peter and Paul</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Hermagorae</occasion>
+<feastCode>15071200</feastCode>
+<description>Memorial chants for Hermagoras</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Mariae</occasion>
+<feastCode>15081500</feastCode>
+<description>Memorial chants for Mary</description>
+<date></date></feast>
+<feast>
+<occasion>Recollectio Mariae</occasion>
+<feastCode>15081501</feastCode>
+<description>Recollection of Feasts of Mary</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Mariae Adv.</occasion>
+<feastCode>15081510</feastCode>
+<description>Memorial chants for Mary, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Mariae Nat.</occasion>
+<feastCode>15081530</feastCode>
+<description>Memorial chants for Mary, Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Mariae TP</occasion>
+<feastCode>15081580</feastCode>
+<description>Memorial chants for Mary, Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Exalt. S. Cru.</occasion>
+<feastCode>15091400</feastCode>
+<description>Memorials for Exaltation of Cross</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Lamberti</occasion>
+<feastCode>15091700</feastCode>
+<description>Memorial chants for Lambert</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Mauritii</occasion>
+<feastCode>15092200</feastCode>
+<description>Memorial chants for Maurice</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Justinae</occasion>
+<feastCode>15092600</feastCode>
+<description>Memorial chants for Justina</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Justinae TP</occasion>
+<feastCode>15092680</feastCode>
+<description>Memorial chants for Justina, Easter</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Michaelis</occasion>
+<feastCode>15092900</feastCode>
+<description>Memorial chants for Michael</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Om. Sanctorum</occasion>
+<feastCode>15110100</feastCode>
+<description>Memorial chants for All Saints</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Om. Sanct. Adv</occasion>
+<feastCode>15110110</feastCode>
+<description>Memorials for All Saints, Advent</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Om. Sanct. Nat</occasion>
+<feastCode>15110130</feastCode>
+<description>Memorials for All Saints, Christmas</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Om. Sanct. TP</occasion>
+<feastCode>15110180</feastCode>
+<description>Memorials for All Saints, Eastertide</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Marcelli Par.</occasion>
+<feastCode>15110300</feastCode>
+<description>Memorials for Marcellus of Paris</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Martini</occasion>
+<feastCode>15111100</feastCode>
+<description>Memorial chants for Martin of Tours</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. Reliquiarum</occasion>
+<feastCode>15120400</feastCode>
+<description>Memorial chants for Relics</description>
+<date></date></feast>
+<feast>
+<occasion>Suff. S. Stephani</occasion>
+<feastCode>15122600</feastCode>
+<description>Memorial chants for Stephan</description>
+<date></date></feast>
+<feast>
+<occasion>Tr. S. Christofori</occasion>
+<feastCode>17002000</feastCode>
+<description>Moving of Christopher's relics</description>
+<date></date>
+</feast>
+</sanctorale>
+</feastList>
+<!-- End of sanctoral list and file -->

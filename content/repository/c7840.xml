@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7839" nextid="c7841" id="c7840">
+   <header>
+      <usage ms="Bat" code="02010100">[27v] matins-n2-r8</usage>
+      <usage ms="Cdm" code="02122500">[24r] vesp2</usage>
+      <usage ms="Cdm" code="02123000">[31r] matins-n2-r7</usage>
+      <usage ms="Ely" code="02122500">[19r] matins-n2-r8</usage>
+      <usage ms="Evm" code="02122500">[36v] matins-n3-r12</usage>
+      <usage ms="Evm" code="02123100" corresp="c7840-7">[56v] matins-n1-r4</usage>
+      <usage ms="Hyd" code="02122500">[21v] vesp2</usage>
+      <usage ms="Pet" code="02010100">[34r] vesp1</usage>
+      <usage ms="Wcb" code="02122500">[56r] matins-n3-r12</usage>
+      <usage ms="Wor" code="02122500" corresp="c7840-8">[16v] vesp2</usage>
+      <usage ms="Wor" code="02122500">[15r] matins-n3-r11</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">The Wor version c7840-8 is incipit of responsorium, without any reference to verse; then (with music) "Gloria patri...sancto" and "Prosa: Plenum gratiae et veritate", latter to tune of the regressio to those words (see version on fol.15r) plus a long melisma on the final syllable.</note>
+      </notesStmt>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Bat Cdm Ely Wor Pet"> Verbum caro factum est
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Evm Wcb Bat Cdm Ely Wor Pet"> et habitavit in nobis</rdg>
+         <rdg wit="CAO-B CAO-H CAO-L"> et habitabit in nobis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Evm Bat Cdm Ely Wor Pet"> cuius gloriam vidimus</rdg>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-F Wcb"> et vidimus gloriam eius gloriam</rdg>
+      </app> quasi unigeniti a patre
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S Hyd Evm Wcb Bat Cdm Ely Wor Pet"> plenum gratiae et veritatis</rdg>
+         <rdg wit="CAO-G CAO-B CAO-M CAO-H CAO-R"> plenum gratia et veritate</rdg>
+         <rdg wit="CAO-L"> plenum gratiae et veritate</rdg>
+         <rdg wit="CAO-C"> plenum gratia et veritatis</rdg>
+         <rdg wit="CAO-V"> plenum gratiae et <corr sic="veritate">veritatis</corr>
+         </rdg>
+      </app>
+   </rBody>
+   <rBody id="c7840-7" wit="Evm" num="2"> Verbum caro factum est et habitavit in nobis et vidimus gloriam eius gloriam quasi unigeniti a patre plenum gratiae et veritatis</rBody>
+   <rBody id="c7840-8" type="incipit" wit="Wor">Verbum caro</rBody>
+   <verses>
+      <vBody type="r" wit="Wcb Cdm Pet"> In principio erat verbum et verbum erat apud deum et deus erat verbum</vBody>
+      <rep type="r" wit="Wcb">Et vidimus</rep>
+      <rep type="r" wit="Cdm">Cuius</rep>
+      <rep type="r" wit="Pet">Plenum</rep>
+      <dox type="r" wit="Pet">Gloria</dox>
+      <rep type="r" num="2" wit="Pet">Plenum</rep>
+      <vBody id="c7840-1" type="r" wit="CAO-H"> In principio erat verbum et verbum erat apud deum et deus erat verbum</vBody>
+      <rep corresp="c7840-1" type="r" wit="CAO-H"> Plenum</rep>
+      <dox corresp="c7840-1" type="r" wit="CAO-H"> Gloria</dox>
+      <rep corresp="c7840-1" type="r" num="2" wit="CAO-H"> Plenum <rubric type="general">vel</rubric> Verbum</rep>
+      <vBody id="c7840-2" type="r" wit="CAO-G CAO-V"> In principio erat verbum et verbum erat apud deum et deus erat verbum</vBody>
+      <rep corresp="c7840-2" type="r" wit="CAO-G CAO-V">Plenum</rep>
+      <dox corresp="c7840-2" type="r" wit="CAO-G CAO-V"> Gloria</dox>
+      <rep corresp="c7840-2" type="r" num="2" wit="CAO-G CAO-V"> Et veritate</rep>
+      <vBody id="c7840-3" type="r" wit="CAO-B CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Ely Wor"> In principio erat verbum et verbum erat apud deum et deus erat verbum</vBody>
+      <rep corresp="c7840-3" type="r" wit="CAO-B CAO-M CAO-L Ely Wor"> Plenum</rep>
+      <rep corresp="c7840-3" type="r" wit="CAO-R CAO-D CAO-S Hyd"> Cuius</rep>
+      <rep corresp="c7840-3" type="r" wit="CAO-F"> Et vidimus</rep>
+      <vBody id="c7840-4" type="r" wit="CAO-B CAO-H CAO-R CAO-L"> Puer natus est nobis
+      <app>
+            <rdg wit="CAO-H CAO-R CAO-L"> et filius datus est nobis</rdg>
+            <rdg wit="CAO-B"> filius datus est nobis</rdg>
+         </app>
+      </vBody>
+      <rep corresp="c7840-4" type="r" wit="CAO-H CAO-R CAO-L"> Cuius</rep>
+      <rep corresp="c7840-4" type="r" wit="CAO-B"> Plenum</rep>
+      <vBody id="c7840-5" type="r" wit="CAO-C CAO-E"> Omnia per ipsum facta sunt et sine ipso factum est nihil</vBody>
+      <rep corresp="c7840-5" type="r" wit="CAO-C"> Et vidimus</rep>
+      <rep corresp="c7840-5" type="r" wit="CAO-E"> Plenum</rep>
+      <vBody id="c7840-6" type="r" wit="Evm Bat"> In principio erat verbum et verbum erat apud deum et deus erat verbum</vBody>
+      <rep corresp="c7840-6" type="r" wit="Evm Bat">Cuius</rep>
+      <dox corresp="c7840-6" type="r" wit="Evm">Gloria</dox>
+      <rep corresp="c7840-6" type="r" wit="Evm">Plenum</rep>
+   </verses>
+</res>

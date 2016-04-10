@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7070" nextid="c7072" id="c7071">
+   <rBody wit="CAO-E CAO-M CAO-V CAO-L"> Lamentabatur Jacob de duobus filiis suis heu me dolens sum de Joseph
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-L"> perdito</rdg>
+         <rdg wit="CAO-M"> perditum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V"> et tristis</rdg>
+         <rdg wit="CAO-L"> et tristor</rdg>
+      </app> nimis de Beniamin
+      <app>
+         <rdg wit="CAO-L"> ducto</rdg>
+         <rdg wit="CAO-E CAO-M"> ductus</rdg>
+         <rdg wit="CAO-V"> ductor</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V"> pro alimoniis</rdg>
+         <rdg wit="CAO-L"> pro alimonia</rdg>
+      </app> precor caelestem regem ut me
+      <app>
+         <rdg wit="CAO-E CAO-V CAO-L"> dolentem nimium</rdg>
+         <rdg wit="CAO-M"> dolente nimio</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-L"> faciat</rdg>
+         <rdg wit="CAO-M CAO-V"> facias</rdg>
+      </app> eos
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V"> cernere</rdg>
+         <rdg wit="CAO-L"> cerneret</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V"> Prosternens se Jacob vehementer cum lacrimis pronus in terra
+       <app>
+            <rdg wit="CAO-E"> et exorans ait</rdg>
+            <rdg wit="CAO-V"> et adorans ait</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L"> Prosternens se Jacob pronus in terra cum lacrimis orabat</vBody>
+      <vBody type="r" wit="CAO-M"> Prosternens se autem Jacob cum lacrimis pronus in terra dicens Joseph baculum senectutis meae Beniamin virga consolationis</vBody>
+      <rep type="r" wit="CAO-L CAO-M">Heu me</rep>
+      <rep type="r" wit="CAO-E CAO-V">Precor</rep>
+      <dox type="r" wit="CAO-V"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-V"> Ut me</rep>
+   </verses>
+</res>

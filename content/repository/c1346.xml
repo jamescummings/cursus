@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1345" nextid="c1347" id="c1346">
+   <aBody wit="CAO-E CAO-M CAO-V CAO-F CAO-S CAO-L"> Alleluia mane apud nos hodie et crastina proficisceris alleluia et dum ortus fuerit dies
+     <app>
+         <rdg wit="CAO-E CAO-V CAO-F CAO-L"> ambulabis viam tuam</rdg>
+         <rdg wit="CAO-M"> ambulabis via tua</rdg>
+         <rdg wit="CAO-S"> ambulabis vias tuas</rdg>
+      </app> alleluia alleluia</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7676" nextid="c7678" id="c7677">
+   <rBody wit="CAO-R CAO-D CAO-F"> Solem iustitiae regem paritura supremum stella Maria maris hodie processit ad ortum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R CAO-D CAO-F">Cernere divinum lumen gaudete fideles</vBody>
+      <rep type="r" wit="CAO-R CAO-D">Stella</rep>
+      <rep type="r" wit="CAO-F">Hodie</rep>
+      <prosula wit="CAO-D"> Hodie processit regina archangelorum et liberatrix animarum perditarum salus medicinaque christicolarum fugatrix omnium clara tenebrarum</prosula>
+   </verses>
+</res>

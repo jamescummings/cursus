@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6709" nextid="c6711" id="c6710">
+   <header>
+      <usage ms="Hyd" code="08081000">matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-D CAO-F CAO-S CAO-L Hyd"> Facta autem hac voce convenit multitudo et mente confusa est
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-S CAO-L Hyd"> quoniam</rdg>
+         <rdg wit="CAO-F"> quia</rdg>
+      </app> audiebat unusquisque
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S Hyd"> lingua sua</rdg>
+         <rdg wit="CAO-L"> linguam suam</rdg>
+      </app> illos loquentes magnalia dei
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-S Hyd"> alleluia alleluia alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Repleti sunt omnes spiritu sancto et coeperunt loqui</vBody>
+      <vBody type="r" wit="CAO-S CAO-L"> Stupebant autem omnes et mirabantur
+       <app>
+            <rdg wit="CAO-L"> super his quae dicebant</rdg>
+            <rdg wit="CAO-S"> dicentes</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="Hyd"> Stupebant autem omnes et mirabantur adinvicem dicentes ecce omnes isti Galilei sunt qui loquuntur</vBody>
+      <vBody type="r" wit="CAO-C"> Nonne omnes ecce isti qui loquuntur Galilaei sunt et quomodo nos audivimus unusquisque linguam nostram</vBody>
+      <rep type="r" wit="CAO-D CAO-S CAO-L"> Quoniam</rep>
+      <rep type="r" wit="CAO-F Hyd"> Magnalia</rep>
+      <rep type="r" wit="CAO-C"> Illos loquentes</rep>
+   </verses>
+</res>

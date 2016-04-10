@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2436" nextid="c2438" id="c2437">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Dum aurora finem daret</rdg>
+         <rdg wit="CAO-H CAO-R"> Dum aurora nocti finem daret</rdg>
+         <rdg wit="CAO-C"> Dum aurora finem dare</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-S CAO-L"> beata Caecilia dixit</rdg>
+         <rdg wit="CAO-C CAO-D CAO-F"> Caecilia sancta</rdg>
+         <rdg wit="CAO-E"> Caecilia exclamabat dicens</rdg>
+         <rdg wit="CAO-M"> Caecilia virgo dixit</rdg>
+      </app> eia milites Christi abicite opera tenebrarum
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-D"> et induimini arma lucis</rdg>
+         <rdg wit="CAO-E CAO-F"> et induimini armis lucis</rdg>
+         <rdg wit="CAO-S"> et induimini armis lucis alleluia</rdg>
+         <rdg wit="CAO-V"> et induimini armi lucis alleluia</rdg>
+         <rdg wit="CAO-H CAO-R CAO-L"> et induimini arma lucis alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

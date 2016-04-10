@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1365" nextid="c1367" id="c1366">
+   <aBody wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S"> Ambulans Jesus iuxta mare Galilaeae vidit <name reg="Petrus" type="saint">Petrum</name> et <name reg="Andrea" type="saint">Andream</name> fratrem eius et ait illis venite post me faciam vos fieri piscatores hominum at illi relictis retibus et navi
+     <app>
+         <rdg wit="CAO-B CAO-R CAO-D CAO-S"> secuti sunt eum</rdg>
+         <rdg wit="CAO-F"> secuti sunt illum</rdg>
+         <rdg wit="CAO-H"> secuti sunt illum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

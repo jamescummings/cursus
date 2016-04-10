@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1521" nextid="c1523" id="c1522">
+   <header>
+      <usage ms="Alb2" code="07034000"/>
+      <usage ms="Bat" code="07034000">[55v] lauds gosp</usage>
+      <usage ms="Cdm" code="07034000">[66r] lauds gosp</usage>
+      <usage ms="Cht" code="07034000"/>
+      <usage ms="Ely" code="07034000"/>
+      <usage ms="Evm" code="07034000"/>
+      <usage ms="Glo" code="07034000"/>
+      <usage ms="Mch" code="07034000">[134r] lauds gosp</usage>
+      <usage ms="Pet" code="07034000"/>
+      <usage ms="Wcb" code="07034000"/>
+      <usage ms="Wor" code="07034000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Evm Wcb Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Pet Evm Alb2 Cdm Mch Bat"> Audite et intelligite traditiones</rdg>
+         <rdg wit="Wcb"> Audite et intelligite traditionem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Cht Pet Alb2 Cdm Mch Bat"> quas dominus dedit vobis</rdg>
+         <rdg wit="Evm"> quas dominus vobis dedit</rdg>
+         <rdg wit="Wcb"> quam dominus dedit vobis</rdg>
+         <rdg wit="Wor"> quas dominus redit vobis</rdg>
+         <rdg wit="CAO-L"> quas dominus tradidit vobis</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit"> Audite et intelligite traditiones</aBody>
+</ant>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2572" nextid="c2574" id="c2573">
+   <header>
+      <usage ms="Alb2" code="07015000"/>
+      <usage ms="Bat" code="07015000">[50v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07015000">[59v] vesp2</usage>
+      <usage ms="Cht" code="07015000"/>
+      <usage ms="Ely" code="07015000"/>
+      <usage ms="Evm" code="07015000"/>
+      <usage ms="Glo" code="07015000"/>
+      <usage ms="Hyd" code="07015000"/>
+      <usage ms="Mch" code="07015000">[120r] vesp2 gosp</usage>
+      <usage ms="Pet" code="07015000"/>
+      <usage ms="Wcb" code="07015000"/>
+      <usage ms="Wor" code="07015000"/>
+   </header>
+   <aBody wit="CAO-F Hyd Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Ego enim ex deo processi et veni
+     <app>
+         <rdg wit="Hyd Ely Wor Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> neque enim</rdg>
+         <rdg wit="CAO-F"> neque</rdg>
+      </app> a me ipso veni sed pater meus ille me misit</aBody>
+</ant>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5018" nextid="c5020" id="c5019">
+   <aBody wit="CAO-G CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-H CAO-R CAO-D CAO-S CAO-L"> Stat a dextris eius agnus nive candidior</rdg>
+         <rdg wit="CAO-E"> Stans a dextris eius agnus nive candidior</rdg>
+         <rdg wit="CAO-V CAO-F"> Stat ad dextris eius agnus nive candidior</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Christus sibi sponsam et martyrem consecravit</rdg>
+         <rdg wit="CAO-G"> Christo sibi sponsam et martyrem consecravit</rdg>
+         <rdg wit="CAO-E"> Christus sibi sponsam et martyrem sociavit</rdg>
+         <rdg wit="CAO-L"> Christus sibi sponsam et martyram consecravit</rdg>
+      </app>
+   </aBody>
+</ant>

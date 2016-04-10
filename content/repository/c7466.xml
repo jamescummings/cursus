@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7465" nextid="c7466b" id="c7466">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> Quatuor facies uni erant</rdg>
+         <rdg wit="CAO-L"> Quatuor pennae uni erant</rdg>
+      </app> et quatuor pennae uni pedes eorum pedes recti planta pedis eorum ut vituli et scintillae quasi aspectus aeris candentis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">Sub pennis eorum
+      <app>
+            <rdg wit="CAO-F CAO-S CAO-L"> manus hominis</rdg>
+            <rdg wit="CAO-D"> manus hominum</rdg>
+         </app> in quatuor partibus</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L">Et scintillae</rep>
+   </verses>
+</res>

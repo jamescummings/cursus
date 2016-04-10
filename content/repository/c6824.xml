@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6823" nextid="c6825" id="c6824">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Hic est fratrum</rdg>
+         <rdg wit="CAO-E"> Hic est frater</rdg>
+      </app> amator et populi Israel hic est qui multum orat pro populo et
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> universa</rdg>
+         <rdg wit="CAO-C CAO-V CAO-S"> universam</rdg>
+         <rdg wit="CAO-M"> universa<del status="unremarkable">m</del>
+         </rdg>
+      </app> sancta civitate Jerusalem</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-R CAO-F CAO-S CAO-L"> Vir iste in populo suo mitissimus apparuit</vBody>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-H"> Ecce quam bonum et quam iucundum habitare fratres in unum</vBody>
+      <vBody type="r" wit="CAO-D"> Apparuit Judae Jeremias propheta Dei de quo dictum est ei</vBody>
+      <vBody type="r" wit="CAO-V"> Respondens vero Onias sacerdos dixit Hic est Jeremias propheta Dei</vBody>
+      <vBody type="r" wit="CAO-G"> Vir aetate et gloria mirabilis et magni decoris habitudine Jeremias propheta Dei</vBody>
+      <rep type="r" wit="CAO-C CAO-V"> Et universam</rep>
+      <rep type="r" wit="CAO-E CAO-M CAO-S CAO-L"> Et universa</rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-H CAO-R CAO-D CAO-F"> Hic est</rep>
+   </verses>
+</res>

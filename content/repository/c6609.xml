@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6608" nextid="c6610" id="c6609">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ecce sacerdos magnus qui in diebus suis placuit Deo ideo iureiurando fecit illum dominus crescere
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> in plebem suam</rdg>
+         <rdg wit="CAO-L"> in plebe sua</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Benedictionem omnium gentium dedit illi et testamentum suum confirmavit super caput eius</vBody>
+      <rep type="r" wit="CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ideo</rep>
+      <rep type="r" wit="CAO-M"> Fecit</rep>
+   </verses>
+</res>

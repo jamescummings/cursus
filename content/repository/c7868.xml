@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7867" nextid="c7869" id="c7868">
+   <rBody wit="CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-D CAO-F CAO-S"> Vides o frater Luciane</rdg>
+         <rdg wit="CAO-L"> Video<del status="unremarkable">s</del> o frater Luciane</rdg>
+      </app> hos calathos
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> hic rosas habens pulcherrimas</rdg>
+         <rdg wit="CAO-S"> his rosas habens pulcherrimas</rdg>
+      </app> loculus est pretiosi martyris Stephani qui solus ex nobis martyrio meruit coronari</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F CAO-S CAO-L">Introgressus ostium sepulcri
+      <app>
+            <rdg wit="CAO-D CAO-F CAO-S"> invenies eum</rdg>
+            <rdg wit="CAO-L"> invenit eos</rdg>
+         </app> in parte orientali</vBody>
+      <rep type="r" wit="CAO-D CAO-F CAO-S CAO-L">Qui solus</rep>
+   </verses>
+</res>

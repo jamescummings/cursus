@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1793" nextid="c1795" id="c1794">
+   <header>
+      <usage ms="Alb2" code="02122800">[37r] matins-n1-a2</usage>
+      <usage ms="Bat" code="02122800">[22v] matins-n1-a2</usage>
+      <usage ms="Cdm" code="02122800">[28r] matins-n1-a2</usage>
+      <usage ms="Evm" code="02122800">[46v] matins-n1-a2</usage>
+      <usage ms="Hyd" code="02122800">[25v] matins-n1-a2</usage>
+      <usage ms="Pet" code="02122800">[28v] matins-n1-a2</usage>
+      <usage ms="Wor" code="02122800">[21v] matins-n1-a2</usage>
+   </header>
+   <aBody wit="CAO-G Hyd Alb2 Evm Bat Cdm Wor Pet"> Christus infans non despexit suos coaetaneos milites sed provexit quibus dedit ante triumphare
+     <app>
+         <rdg wit="Alb2 Evm Bat Cdm Wor Pet">quam vivere</rdg>
+         <rdg wit="Hyd"> quam <add place="interlined">vivere</add>
+            <add place="over erasure">loqui</add>
+         </rdg>
+         <rdg wit="CAO-G"> quam loqui</rdg>
+      </app>
+   </aBody>
+</ant>

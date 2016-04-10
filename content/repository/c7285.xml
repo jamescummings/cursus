@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7284" nextid="c7285a" id="c7285">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for All Saints</note>
+   <rBody wit="CAO-E CAO-F CAO-S"> O quam gloriosum est regnum in quo cum Christo gaudent omnes sancti amicti stolis albis Agnum sequuntur quocumque ierit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-S"> Beata es civitas Jerusalem caelestis</rdg>
+            <rdg wit="CAO-F"> Beata civitas Jerusalem caelestis</rdg>
+         </app> in qua cum Christo omnes sancti in perpetuis mansionibus
+      <app>
+            <rdg wit="CAO-F CAO-S"> feliciter</rdg>
+            <rdg wit="CAO-F"> felices</rdg>
+         </app> laetantur</vBody>
+      <vBody type="r" wit="CAO-E"> Gaudent <hi rend="without music notation">angeli</hi> in caelis animae sanctorum et sine fine exsultant in conspectu Dei</vBody>
+      <rep type="r" wit="CAO-E CAO-F CAO-S">Amicti</rep>
+   </verses>
+</res>

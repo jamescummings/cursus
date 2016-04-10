@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3150" nextid="c3152" id="c3151">
+   <header>
+      <usage ms="Hyd" code="01014000">[6r] vesp2-a3</usage>
+      <usage ms="Hyd" code="05024000"/>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd"> Hymnum cantate nobis de canticis Sion </aBody>
+</ant>

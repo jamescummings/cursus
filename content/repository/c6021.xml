@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6020" nextid="c6021b" id="c6021">
+   <header>
+      <usage ms="Hyd" code="05026000"/>
+   </header>
+   <rBody wit="CAO-H CAO-S CAO-L Hyd"> Ad annuntiandum mane
+     <app>
+         <rdg wit="CAO-H CAO-S Hyd"> misericordiam tuam</rdg>
+         <rdg wit="CAO-L"> misericordiam</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-S CAO-L Hyd">Et veritatem tuam
+      <app>
+            <rdg wit="CAO-H CAO-L Hyd"> per noctem</rdg>
+            <rdg wit="CAO-S"> per nocte</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-S">Misericordiam</rep>
+   </verses>
+</res>

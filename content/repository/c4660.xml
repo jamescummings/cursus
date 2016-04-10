@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4659" nextid="c4661" id="c4660">
+   <header>
+      <usage ms="Evm" code="07055000">[139v] lauds</usage>
+      <usage ms="Glo" code="07055000">[71v] lauds</usage>
+      <usage ms="Wcb" code="07055000">[110r] lauds</usage>
+   </header>
+   <aBody wit="CAO-L Evm Wcb"> Rogabat Jesum quidam Pharisaeus ut manducaret cum illo et ingressus domum Pharisaei discubuit</aBody>
+   <aBody wit="Glo" type="incipit"> Rogabat Jesum quidam</aBody>
+</ant>

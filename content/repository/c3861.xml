@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3860b" nextid="c3862" id="c3861">
+   <header>
+      <usage ms="Hyd" code="10400000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> Ne reminiscaris domine</rdg>
+         <rdg wit="CAO-D"> Non reminiscaris domine</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> delicta mea vel parentum meorum</rdg>
+         <rdg wit="CAO-D"> delicta nostra vel parentum nostrorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd"> neque vindictam sumas</rdg>
+         <rdg wit="CAO-C CAO-S"> neque vindicta sumas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd"> de peccatis meis</rdg>
+         <rdg wit="CAO-D"> de peccatis mostris</rdg>
+      </app>
+   </aBody>
+</ant>

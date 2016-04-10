@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1546" nextid="o1548" id="o1547">
+   <header>
+      <usage ms="Alb2" code="07043000">[96r] lauds</usage>
+      <usage ms="Cdm" code="07043000">[69r] lauds</usage>
+      <usage ms="Cht" code="07043000">[43v] lauds</usage>
+      <usage ms="Ely" code="07043000">[79r] lauds</usage>
+      <usage ms="Hyd" code="07043000">[83v] lauds</usage>
+      <usage ms="Mch" code="07043000">[141r] lauds</usage>
+      <usage ms="Wcb" code="07043000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.264</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Cht Hyd Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="Ely Cht Hyd Wcb">Sacrae nobis quaesumus domine observationem ieiunia</rdg>
+         <rdg wit="Alb2 Cdm Mch">Sacrae nobis quaesumus domine observationis ieiunia</rdg>
+      </app> et pie conversationis augmentum et tuae propitiationis
+     <app>
+         <rdg wit="Ely Cht Hyd Wcb"> continuum praestant auxilium</rdg>
+         <rdg wit="Alb2 Cdm Mch"> continuum praestent auxilium</rdg>
+      </app>
+   </pBody>
+</prayer>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1705" nextid="o1707" id="o1706">
+   <header>
+      <usage ms="Cdm" code="07012000">[58r] matins-n2</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Protector in te sperantium deus salva populum tuum ut a peccatis liber et ab hoste securus in tua semper gaudia perseveret</pBody>
+</prayer>

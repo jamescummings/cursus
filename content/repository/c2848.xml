@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2847" nextid="c2849" id="c2848">
+   <header>
+      <usage ms="Cht" code="07063000">[58v] sext</usage>
+      <usage ms="Evm" code="07063000">[146r] sext</usage>
+      <usage ms="Glo" code="07063000">[78r] sext</usage>
+      <usage ms="Pet" code="07064000">[87v] terce</usage>
+      <usage ms="Wcb" code="07063000">[114r] sext</usage>
+   </header>
+   <aBody wit="CAO-B CAO-R Cht Pet Evm Wcb Glo">
+      <app>
+         <rdg wit="CAO-B CAO-R"> Factus Jesus in agonia</rdg>
+         <rdg wit="Cht Pet Evm Wcb Glo"> Jesus factus in agonia</rdg>
+      </app> prolixius orabat et factus est sudor eius sicut guttae sanguinis decurrentis in terram</aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2359" nextid="c2361" id="c2360">
+   <aBody wit="CAO-D CAO-F"> Domine non est alius deus praeter te et quia tibi de omnibus cura est
+     <app>
+         <rdg wit="CAO-F"> eo quod omnium dominus es</rdg>
+         <rdg wit="CAO-D" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app> parce populo tuo qui das peccantibus largitatem
+     <app>
+         <rdg wit="CAO-F"> ut convertantur malitia in bonitatem alleluia</rdg>
+         <rdg wit="CAO-D"> ut convertatur malitia in bonitate alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

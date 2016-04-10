@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3377" nextid="c3379" id="c3378">
+   <aBody wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-V CAO-H CAO-R CAO-L"> Interrogatus a Judaeis dominus</rdg>
+         <rdg wit="CAO-C"> Interrogatus a Pharisaeis dominus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-L"> si licet censum dari Caesari</rdg>
+         <rdg wit="CAO-V"> scilicet censum dari Caesari</rdg>
+         <rdg wit="CAO-H CAO-R"> si licet censum dare Caesari</rdg>
+         <rdg wit="CAO-C"> si licet censum dari Caesari an non</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-H CAO-R"> respondit Jesus et dixit</rdg>
+         <rdg wit="CAO-L"> quibus ille respondens ait</rdg>
+         <rdg wit="CAO-V"> quibus ille respondebat dicens</rdg>
+         <rdg wit="CAO-C"> quibus ille respondit ait</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R"> reddite ergo quae sunt Caesaris Caesari</rdg>
+         <rdg wit="CAO-L"> reddite Caesari quae sunt Caesari</rdg>
+      </app> et quae sunt dei deo alleluia</aBody>
+</ant>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1009" nextid="o1011" id="o1010">
+   <header>
+      <usage ms="Alb2" code="06036000">[73v] lauds</usage>
+      <usage ms="Bat" code="06036000">[46v] lauds</usage>
+      <usage ms="Cdm" code="06036000">[56r] lauds</usage>
+      <usage ms="Cht" code="06036000"/>
+      <usage ms="Ely" code="06036000"/>
+      <usage ms="Evm" code="06036000"/>
+      <usage ms="Hyd" code="06036000"/>
+      <usage ms="Mch" code="06036000">[111r] lauds</usage>
+      <usage ms="Wcb" code="06036000"/>
+   </header>
+   <pBody wit="Alb2 Hyd Ely Cht Evm Wcb Cdm Bat Mch"> Inchoata ieiunia quaesumus domine benigno favore prosequere ut observantiam quam corporaliter exhibemus mentibus etiam sinceris exercere valeamus</pBody>
+</prayer>

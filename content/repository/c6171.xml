@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6170" nextid="c6172" id="c6171">
+   <header>
+      <usage ms="Alb2" code="02122500">[27v] matins-n3-r9</usage>
+      <usage ms="Bat" code="02122500">[17r] matins-n3-r9</usage>
+      <usage ms="Cdm" code="02122500">[22v] matins-n3-r9</usage>
+      <usage ms="Ely" code="02122500">[20r] matins-n3-r9</usage>
+      <usage ms="Hyd" code="02010100">[34v] matins-n3-r10</usage>
+      <usage ms="Pet" code="02122500">[16r] matins-n2-r5</usage>
+      <usage ms="Wor" code="02122500">[14v] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor Pet"> Beata viscera Mariae virginis quae portaverunt
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Bat Cdm Ely Wor Pet"> aeterni patris filium</rdg>
+         <rdg wit="CAO-F"> aeterni patri filium</rdg>
+         <rdg wit="CAO-L"> aeterni patris filius</rdg>
+      </app> et beata ubera quae lactaverunt Christum dominum
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Bat Cdm Ely Wor"> quia hodie</rdg>
+         <rdg wit="Hyd"> ipse hodie</rdg>
+         <rdg wit="Pet"> qui hodie</rdg>
+      </app> pro salute mundi de virgine nasci dignatus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-V CAO-H"> Ave Maria gratia plena dominus tecum</vBody>
+      <vBody type="r" wit="CAO-B">Ave Maria</vBody>
+      <vBody type="r" wit="CAO-E CAO-M"> Ave Maria gratia</vBody>
+      <vBody type="r" wit="CAO-G CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Bat Cdm Ely Wor Pet"> Dies sanctificatus illuxit nobis venite gentes
+       <app>
+            <rdg wit="CAO-G CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Bat Cdm Ely Wor Pet"> et adorate dominum</rdg>
+            <rdg wit="CAO-L">adorate dominum</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Bat Cdm Ely Wor">Quia</rep>
+      <rep type="r" wit="Hyd"> Ipse hodie</rep>
+      <rep type="r" wit="Pet"> Qui</rep>
+   </verses>
+</res>

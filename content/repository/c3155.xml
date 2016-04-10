@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3154" nextid="c3156" id="c3155">
+   <aBody wit="CAO-E CAO-F"> Hymnus omnibus sanctis eius
+     <app>
+         <rdg wit="CAO-E"> filii Israel</rdg>
+         <rdg wit="CAO-F"> filiis Israel</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E"> populo appropinquantem sibi</rdg>
+         <rdg wit="CAO-F"> populo appropinquanti sibi</rdg>
+      </app> gloria haec est omnibus sanctis eius</aBody>
+   <aBody wit="CAO-C" type="incipit">Hymnus omnibus sanctis eius</aBody>
+</ant>

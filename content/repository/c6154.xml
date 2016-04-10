@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6153b" nextid="c6155" id="c6154">
+   <header>
+      <usage ms="Hyd" code="05023000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> Auribus percipe domine lacrimas meas
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S Hyd"> ne sileas</rdg>
+         <rdg wit="CAO-V"> ne scileas</rdg>
+      </app> a me remitte mihi
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> quoniam incola ego sum</rdg>
+         <rdg wit="Hyd"> quoniam ego incola sum</rdg>
+      </app> apud te et peregrinus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd">Dixi custodiam vias meas ut non delinquam in lingua mea </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R">Ne sileas</rep>
+      <rep type="r" wit="CAO-G CAO-D CAO-F CAO-S Hyd"> Quoniam</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4602" nextid="c4604" id="c4603">
+   <aBody wit="CAO-D CAO-F CAO-S CAO-L"> Regressus Lucianus presbyter a sancto Joanne episcopo
+     <app>
+         <rdg wit="CAO-D CAO-F CAO-L"> iussit ut consurgerent omnes diluculo</rdg>
+         <rdg wit="CAO-S"> iussit ut consurgerint omnes diluculo</rdg>
+      </app> et foderent in acervo illo
+     <app>
+         <rdg wit="CAO-D CAO-S"> ubi putabat esse corpora sanctorum</rdg>
+         <rdg wit="CAO-F CAO-L"> ubi putabant esse corpora sanctorum</rdg>
+      </app>
+   </aBody>
+</ant>

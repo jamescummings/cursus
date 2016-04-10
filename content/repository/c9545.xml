@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9544" nextid="c9546" id="c9545">
+   <header>
+      <usage ms="Pet" code="02122700">[28r] lauds</usage>
+      <usage ms="Wor" code="02122700">[21r] lauds</usage>
+   </header>
+   <rBody wit="Wor Pet"> Valde honorandus est beatus Joannes</rBody>
+   <verses>
+      <vBody type="r" wit="Wor Pet"> Qui supra pectus domini in cena recubuit</vBody>
+   </verses>
+</res>

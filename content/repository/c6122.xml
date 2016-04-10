@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6121" nextid="c6123" id="c6122">
+   <header>
+      <usage ms="Hyd" code="08066000">lauds-r1</usage>
+   </header>
+   <rBody wit="CAO-B CAO-V CAO-H CAO-D Hyd"> Ascendit deus
+     <app>
+         <rdg wit="CAO-B CAO-V CAO-D Hyd"> in iubilatione</rdg>
+         <rdg wit="CAO-H"> in iubilo</rdg>
+      </app> alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-D Hyd">
+         <app>
+            <rdg wit="CAO-B CAO-H"> Et dominus</rdg>
+            <rdg wit="CAO-V CAO-D Hyd"> Dominus</rdg>
+         </app> in voce tubae</vBody>
+      <rep type="r" wit="CAO-B CAO-D Hyd">Alleluia</rep>
+   </verses>
+</res>

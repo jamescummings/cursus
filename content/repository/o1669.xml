@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1668" nextid="o1670" id="o1669">
+   <header>
+      <usage ms="Hyd" code="02122508"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.59</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Deus qui humanae substantiae dignitatem et mirabiliter condidisti et mirabilius reformasti da nobis quaesumus eius divinitatis esse consortes qui nostrae humanitatis dignatus est fieri particeps</pBody>
+</prayer>

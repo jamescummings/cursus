@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1577" nextid="o1579" id="o1578">
+   <header>
+      <usage ms="Cdm" code="07064000">[77r] sext</usage>
+      <usage ms="Ely" code="07066000">[90v] lauds</usage>
+      <usage ms="Mch" code="07064000">[157v] lauds</usage>
+      <usage ms="Wcb" code="07058000">[109v] </usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.324</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Wcb Cdm Mch"> Deus qui pro nobis filium tuum crucis patibulum subire voluisti ut inimici a nobis expelleres potestatem concede nobis famulis tuis ut resurrectionis gratiam consequamur</pBody>
+</prayer>

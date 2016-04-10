@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2392" nextid="c2394" id="c2393">
+   <aBody wit="CAO-C CAO-H CAO-F CAO-L"> Domine tu mihi lavas pedes respondit Jesus
+     <app>
+         <rdg wit="CAO-C CAO-H CAO-F"> et dixit ei</rdg>
+         <rdg wit="CAO-L"> et ait illi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-H CAO-F"> et si non lavero tibi pedes</rdg>
+         <rdg wit="CAO-L"> si non lavero tibi pedes</rdg>
+      </app> non habebis partem mecum</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-H CAO-F CAO-L"> Domine non tantum pedes sed et manus et caput</vBody>
+      <rep type="a" wit="CAO-H CAO-F CAO-L">Respondit</rep>
+      <vBody type="a" wit="CAO-F"> Venit Jesus ad Simonem Petrum et dicit ei Petrus</vBody>
+   </verses>
+</ant>

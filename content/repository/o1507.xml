@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1506" nextid="o1518" id="o1507">
+   <header>
+      <usage ms="Alb2" code="07015000"/>
+      <usage ms="Cht" code="07015000"/>
+      <usage ms="Ely" code="07015000"/>
+      <usage ms="Hyd" code="07015000"/>
+      <usage ms="Wcb" code="07015000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.187</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Ely Hyd Cht Wcb Alb2">Da quaesumus domine populis christianis et quae profitentur agnoscere et caeleste munus diligere quod frequentant</pBody>
+</prayer>

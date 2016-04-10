@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1481" nextid="c1483" id="c1482">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Arguebat Herodem Joannes</rdg>
+         <rdg wit="CAO-L"> Arguebat Herodes Joannem</rdg>
+      </app> propter Herodiadem quam tulerat
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-S CAO-L"> fratri suo Philippo</rdg>
+         <rdg wit="CAO-R"> fratris sui Philippi</rdg>
+         <rdg wit="CAO-H CAO-D"> fratri suo Philippi</rdg>
+         <rdg wit="CAO-F"> fratri suo <corr sic="Philippo">Philippi</corr>
+         </rdg>
+      </app> uxorem</aBody>
+</ant>

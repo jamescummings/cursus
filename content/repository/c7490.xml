@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7489" nextid="c7491" id="c7490">
+   <rBody wit="CAO-E CAO-V"> Quid mihi molesti estis propter iustitiam
+     <app>
+         <rdg wit="CAO-E"> ipse enim</rdg>
+         <rdg wit="CAO-V"> ipse</rdg>
+      </app> novit causam meam cui cognitum est cor meum credo videre vindictam de inimicis meis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V"> Eripe me de inimicis meis deus meus et ab insurgentibus in me libera me</vBody>
+      <vBody type="r" wit="CAO-E"> Eripe me de inimicis meis deus</vBody>
+      <rep type="r" wit="CAO-E CAO-V">Credo</rep>
+   </verses>
+</res>

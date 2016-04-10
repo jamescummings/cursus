@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4114" nextid="c4116" id="c4115">
+   <aBody wit="CAO-M CAO-H CAO-D CAO-L"> Omne quod dat mihi pater ad me veniet et eum qui venit ad me
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-L"> non eiciam foras</rdg>
+         <rdg wit="CAO-D"> non etiam foras</rdg>
+      </app>
+   </aBody>
+</ant>

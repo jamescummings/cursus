@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7622" nextid="c7624" id="c7623">
+   <rBody wit="CAO-B CAO-H CAO-R CAO-L"> Saulus autem magis ac magis convalescebat et confundebat Judaeos qui habitabant Damasci affirmans quoniam hic est Christus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-H CAO-R CAO-L">Fuit autem cum discipulis qui habitabant Damasci per dies aliquot et continuo in synagogis praedicabat
+      <app>
+            <rdg wit="CAO-H CAO-R CAO-L"> Jesum</rdg>
+            <rdg wit="CAO-B"> Christum</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-L">Affirmans</rep>
+   </verses>
+</res>

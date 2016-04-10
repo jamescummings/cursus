@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2039" nextid="c2041" id="c2040">
+   <header>
+      <usage ms="Mch" code="06021000">[105v] lauds gosp</usage>
+      <usage ms="Bat" code="06021000">[44v] lauds gosp</usage>
+      <usage ms="Alb2" code="06021000">[69v] lauds-a6</usage>
+      <usage ms="Cdm" code="06021000">[52v] lauds-a6</usage>
+      <usage ms="Cht" code="06021000">[15r] lauds gosp</usage>
+      <usage ms="Ely" code="06021000">[62v] lauds gosp</usage>
+      <usage ms="Evm" code="06021000">[98r] lauds</usage>
+      <usage ms="Hyd" code="06021000">[64v] lauds</usage>
+      <usage ms="Pet" code="06021000">[59v] lauds</usage>
+      <usage ms="Wcb" code="06021000">[88v] lauds</usage>
+      <usage ms="Wor" code="06021000">[39v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Pet Cht Wor Ely Evm Wcb Cdm Bat Mch">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-F CAO-S Wor Ely Evm Mch"> Cum turba plurima conveniret ad Jesum</rdg>
+         <rdg wit="CAO-M CAO-V CAO-L Hyd Alb2 Cht Pet Wcb Cdm Bat"> Cum turba plurima convenirent ad Jesum</rdg>
+         <rdg wit="CAO-D"> Cum turba plurima convenire<del status="unremarkable">n</del>t ad Jesum</rdg>
+         <rdg wit="CAO-R"> Cum turba plurima conveniret</rdg>
+      </app> et de civitatibus
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Pet Cht Wor Ely Evm Cdm Bat Mch"> properarent ad eum</rdg>
+         <rdg wit="Wcb"> properarent ad Jesum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Pet Cht Wor Ely Evm Cdm Bat Mch"> dixit per similitudinem</rdg>
+         <rdg wit="Wcb"> dixit illis per similitudinem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Pet Cht Wor Ely Evm Wcb Cdm Bat Mch"> exiit qui seminat seminare semen suum</rdg>
+         <rdg wit="CAO-L"> exiit qui seminat seminare semen suum et dum seminat aliud cecidit in terram bonam et obtulit fructum in patientia</rdg>
+      </app>
+   </aBody>
+</ant>

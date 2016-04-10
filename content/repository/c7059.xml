@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7058" nextid="c7060" id="c7059">
+   <rBody wit="CAO-C CAO-E CAO-R CAO-D CAO-F CAO-L"> Iustum deduxit dominus per vias rectas et ostendit illi regnum Dei et dedit illi
+      <app>
+         <rdg wit="CAO-E CAO-R CAO-D CAO-F CAO-L"> scientiam</rdg>
+         <rdg wit="CAO-C"> scientia</rdg>
+      </app> sanctorum honestavit illum
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-L"> in laboribus suis</rdg>
+         <rdg wit="CAO-C"> in <sic resp="Hesbert">boribus</sic> suis</rdg>
+         <rdg wit="CAO-R"> in laboribus et complevit labores illius</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F CAO-L">
+         <app>
+            <rdg wit="CAO-E CAO-D CAO-L"> Magnificavit eum</rdg>
+            <rdg wit="CAO-F"> Magnificavit illum</rdg>
+         </app> in conspectu regum et dedit illi coronam gloriae</vBody>
+      <vBody id="c7059-1" type="r" num="2" wit="CAO-C"> Magnificavit eum in conspectu regum et dedit illi coronam gloriae</vBody>
+      <rep corresp="c7059-1" type="r" wit="CAO-C"> Honestavit</rep>
+      <vBody id="c7059-2" type="r" wit="CAO-C"> Cibavit illum</vBody>
+      <rep corresp="c7059-2" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <vBody type="r" wit="CAO-R"> Immortalis est enim memoria illius quia et apud Deum nota est et apud homines</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-L">Honestavit</rep>
+      <rep type="r" wit="CAO-R">Et complevit</rep>
+   </verses>
+</res>

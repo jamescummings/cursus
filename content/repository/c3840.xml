@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3839" nextid="c3841" id="c3840">
+   <aBody wit="CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-D"> Multitudo languentium et qui vexabantur a spiritibus immundis veniebant ad eum</rdg>
+         <rdg wit="CAO-F"> Multitudo languentium veniebant ad eum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-D"> quia virtus de illo <corr sic="exiebat">exibat</corr>
+         </rdg>
+         <rdg wit="CAO-F"> quia virtus de illo exiebat</rdg>
+      </app> et sanabat omnes</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1433" nextid="c1435" id="c1434">
+   <header>
+      <usage ms="Alb2" code="02010600"/>
+      <usage ms="Hyd" code="02010600"/>
+      <usage ms="Pet" code="02010600"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, pp.135-137</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd Pet"> Ante luciferum genitus et ante saecula dominus salvator noster hodie mundo apparuit</aBody>
+</ant>

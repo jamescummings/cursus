@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3925" nextid="c3927" id="c3926">
+   <aBody wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Non omnis qui dicit mihi domine domine
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F"> intrabit in regnum caelorum</rdg>
+         <rdg wit="CAO-S CAO-L"> intravit in regnum caelorum</rdg>
+         <rdg wit="CAO-M"> intrabat in regnum caelorum</rdg>
+      </app> sed qui facit voluntatem patris mei qui in caelis est
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-F"> ipse intrabit in regnum caelorum alleluia</rdg>
+         <rdg wit="CAO-D"> ipse intrabit in regnum caelorum</rdg>
+         <rdg wit="CAO-S"> ipse intravit in regnum caelorum alleluia</rdg>
+         <rdg wit="CAO-L"> ipse intravit in regnum caelorum</rdg>
+      </app>
+   </aBody>
+</ant>

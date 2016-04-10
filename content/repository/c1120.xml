@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1119" nextid="c1121" id="c1120">
+   <header>
+      <usage ms="Alb2" code="01034000">[15r] matins inv</usage>
+      <usage ms="Alb2" code="01041000">[18r] matins inv</usage>
+      <usage ms="Bat" code="01034000">[10r] matins inv</usage>
+      <usage ms="Bat" code="01041000">[11v] matins inv</usage>
+      <usage ms="Cdm" code="01034000">[16r] matins inv</usage>
+      <usage ms="Ely" code="01037000">[13r] matins inv</usage>
+      <usage ms="Evm" code="01034009">[18v] matins inv</usage>
+      <usage ms="Hyd" code="01034009">[11v] matins inv</usage>
+      <usage ms="Mch" code="01031000">[9v] matins inv</usage>
+      <usage ms="Wcb" code="01041000">[48r] matins inv</usage>
+      <usage ms="Wor" code="01034000">[8r] matins inv</usage>
+   </header>
+   <aBody wit="CAO-F Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Prope est iam dominus venite adoremus</aBody>
+</ant>

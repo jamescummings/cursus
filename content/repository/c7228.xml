@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7227" nextid="c7229" id="c7228">
+   <rBody wit="CAO-D CAO-L"> Non eris inter virgines fatuas dicit Dominus sed eris inter virgines prudentes
+      <app>
+         <rdg wit="CAO-D"> accipientes</rdg>
+         <rdg wit="CAO-L"> adicientes</rdg>
+      </app> oleum laetitiae lampadibus suis obviantes obviaverunt sponso cum palma virginatitis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Media autem nocte clamor factus est ecce sponsus venit exite obviam ei</vBody>
+      <vBody type="r" wit="CAO-D"> Venientes autem venient cum exsultatione portantes manipulos suos</vBody>
+      <rep type="r" wit="CAO-D">Obviantes</rep>
+   </verses>
+</res>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1529" nextid="c1531" id="c1530">
+   <header>
+      <usage ms="Alb2" code="07042000">[95v] lauds</usage>
+      <usage ms="Cdm" code="07042000">[69r] lauds gosp</usage>
+      <usage ms="Cht" code="07042000">[43r] lauds</usage>
+      <usage ms="Ely" code="07042000">[79r] lauds</usage>
+      <usage ms="Evm" code="07042000">[130v] lauds</usage>
+      <usage ms="Glo" code="07042000">[68v] lauds</usage>
+      <usage ms="Hyd" code="07042000">[83v] lauds</usage>
+      <usage ms="Mch" code="07042000">[140v] lauds gosp</usage>
+      <usage ms="Pet" code="07042000"/>
+      <usage ms="Wcb" code="07042000"/>
+      <usage ms="Wor" code="07042000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Evm Wcb Alb2 Mch"> Auferte ista hinc dicit dominus</rdg>
+         <rdg wit="CAO-C CAO-D Ely Wor Cht Hyd Pet Cdm"> Auferte ista hinc</rdg>
+      </app> et nolite facere domum patris mei domum negotiationis</aBody>
+   <aBody wit="Glo" type="incipit"> Auferte ista hinc dicit dominus</aBody>
+</ant>

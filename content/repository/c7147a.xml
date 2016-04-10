@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7147" nextid="c7148" id="c7147a">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">The version for St Vincent</note>
+   <rBody wit="CAO-D CAO-F"> Meruit esse hostiae levita Vincentius qui dum assaretur non negavit dominum et ideo inventus est sacrificium laudis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D"> Gloriosus Dei amicus Vincentius inter tormentorum supplicia stetit imperterritus</vBody>
+      <vBody type="r" wit="CAO-F"> Multiplici enim vulnerum varietate confossos non differebat pugnam sed alacrius iterabat</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Et ideo</rep>
+   </verses>
+</res>

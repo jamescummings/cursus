@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7714" nextid="c7716" id="c7715">
+   <header>
+      <usage ms="Alb2" code="02122800">[38r] matins-n2-r5</usage>
+      <usage ms="Bat" code="02122800">[22v] matins-n1-r3</usage>
+      <usage ms="Cdm" code="02122800">[28r] matins-n1-r3</usage>
+      <usage ms="Evm" code="02122800">[47v] matins-n2-r7</usage>
+      <usage ms="Hyd" code="02122800">[26r] matins-n1-r3</usage>
+      <usage ms="Pet" code="02122800">[29r] matins-n1-r3</usage>
+      <usage ms="Wcb" code="02122800">[63v] matins-n2-r7</usage>
+      <usage ms="Wor" code="02122800">[22r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Sub throno dei omnes sancti
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Bat Cdm Wor Pet"> clamant</rdg>
+         <rdg wit="CAO-S Evm Wcb"> clamabant</rdg>
+      </app> vindica sanguinem nostrum deus noster</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-S"> Et ceciderunt in conspectu throni in facies suas et adoraverunt deum dicentes</vBody>
+      <vBody type="r" wit="CAO-H CAO-R CAO-D Alb2 Bat Hyd Cdm Wor Pet"> Sub altare dei audivi voces occisorum clamantium et dicentium</vBody>
+      <vBody type="r" wit="CAO-F Evm Wcb"> Vidi sub altare dei
+      <app>
+            <rdg wit="Evm Wcb"> animas sanctorum</rdg>
+            <rdg wit="CAO-F"> animas interfectorum</rdg>
+         </app> propter verbum dei
+      <app>
+            <rdg wit="Evm Wcb"> quod habebant</rdg>
+            <rdg wit="CAO-F"> et propter testimonium quod habebant</rdg>
+         </app> et clara voce dicebant</vBody>
+      <rep type="r" wit="CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">Vindica</rep>
+   </verses>
+</res>

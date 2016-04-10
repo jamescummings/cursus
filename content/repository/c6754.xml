@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6753" nextid="c6755" id="c6754">
+   <rBody wit="CAO-G CAO-H CAO-R"> Fulgebunt iusti sicut lilium et sicut rosae in Jericho florebunt ante dominum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Iusti autem in perpetuum vivent et apud dominum est merces eorum</vBody>
+      <vBody id="c6754-1" type="r" wit="CAO-H"> Iusti autem in perpetuo vivent et apud dominum est merces eorum</vBody>
+      <rep corresp="c6754-1" type="r" wit="CAO-H"> Et sicut</rep>
+      <vBody id="c6754-2" type="r" wit="CAO-H"> Iusti epulentur et exsultent in conspectu Dei et delectentur in laetitia</vBody>
+      <rep corresp="c6754-2" type="r" wit="CAO-H">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse</note>
+      </rep>
+      <vBody type="r" wit="CAO-G"> Iusti fulgebunt in gloria sanctorum induti vestibus albis</vBody>
+      <rep type="r" wit="CAO-R CAO-G"> Et sicut</rep>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3991" nextid="c3992b" id="c3992">
+   <header>
+      <usage ms="Hyd" code="09011000">lauds</usage>
+   </header>
+   <aBody wit="CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> O beata et benedicta et gloriosa trinitas pater et filius et spiritus sanctus</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L Hyd">Tibi laus tibi gloria tibi gratiarum actio</vBody>
+      <rep type="a" wit="CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L"> O beata</rep>
+   </verses>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1777" nextid="o1779" id="o1778">
+   <header>
+      <usage ms="Mch" code="07031000">[132v] nones</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Fulda no.314</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Mch"> Deus qui solus es bonus et sine quo nihil est bonum fac nos quaesumus tales fieri qui non mereamur tua bonitate privari</pBody>
+</prayer>

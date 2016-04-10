@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6258" nextid="c6260" id="c6259">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Caeciliam intra cubiculum</rdg>
+         <rdg wit="CAO-S CAO-L"> Caecilia intra cubiculum</rdg>
+      </app> orantem invenit et
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> iuxta eam</rdg>
+         <rdg wit="CAO-F"> iusta eam</rdg>
+      </app> stantem
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> angelum domini</rdg>
+         <rdg wit="CAO-E CAO-V"> angelus domini</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> quem videns</rdg>
+         <rdg wit="CAO-F"> quam videns</rdg>
+      </app> Valerianus nimio terrore correptus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Angelus domini descendit de caelo et lumen
+       <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> refulsit</rdg>
+            <rdg wit="CAO-D"> refulxit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> in habitaculo</rdg>
+            <rdg wit="CAO-V"> in habitaculo carceris</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Quem</rep>
+   </verses>
+</res>

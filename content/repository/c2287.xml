@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2286" nextid="c2288" id="c2287">
+   <header>
+      <usage ms="Alb2" code="07021000"/>
+      <usage ms="Bat" code="07021000">[52v] prime</usage>
+      <usage ms="Cdm" code="07021000">[61v] prime</usage>
+      <usage ms="Cht" code="07021000">[31v] vesp2</usage>
+      <usage ms="Ely" code="07021000"/>
+      <usage ms="Evm" code="07021000"/>
+      <usage ms="Glo" code="07021000"/>
+      <usage ms="Hyd" code="07021000"/>
+      <usage ms="Mch" code="07021000">[124v] terce</usage>
+      <usage ms="Pet" code="07021000"/>
+      <usage ms="Wcb" code="07021000"/>
+      <usage ms="Wor" code="07021000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Hyd Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Hyd Cht Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Dixit dominus mulieri Chananaeae</rdg>
+         <rdg wit="CAO-G"> Dicit dominus mulieri Chananaeae</rdg>
+      </app> non est bonum sumere panem filiorum et mittere canibus ad manducandum utique domine
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> nam et catelli edunt de micis quae cadunt de mensa dominorum suorum</rdg>
+         <rdg wit="Cht"> nam et catelli edunt de mensa dominorum suorum</rdg>
+      </app> ait illi Jesus mulier magna est fides tua fiat tibi sicut petisti</aBody>
+</ant>

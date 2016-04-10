@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5012b" nextid="c5014" id="c5013">
+   <aBody wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Stans a longe publicanus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> nolebat oculos ad caelum levare</rdg>
+         <rdg wit="CAO-M"> nolebat nec oculos ad caelum levare</rdg>
+         <rdg wit="CAO-V"> nolebat oculos ad caelum levaret</rdg>
+      </app> sed percutiebat pectus suum dicens deus propitius esto mihi peccatori</aBody>
+</ant>

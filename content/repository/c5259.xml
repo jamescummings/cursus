@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5258" nextid="c5260" id="c5259">
+   <aBody wit="CAO-C CAO-M CAO-F CAO-L"> Ubi est caritas et dilectio
+     <app>
+         <rdg wit="CAO-C"> ibi sancta est congregatio</rdg>
+         <rdg wit="CAO-M CAO-F CAO-L"> ibi sanctorum est congregatio</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-L"> ibi nec ira est nec indignatio</rdg>
+         <rdg wit="CAO-M CAO-F"> ibi nec ira nec indignatio</rdg>
+      </app> sed firma caritas in perpetuum
+     <app>
+         <rdg wit="CAO-C CAO-M CAO-F"> Christus descendit mundum redimere</rdg>
+         <rdg wit="CAO-L"> Christus descendit mundum redimeret</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F"> ut liberaret a morte hominum</rdg>
+         <rdg wit="CAO-L"> ut liberaret a mortem hominum</rdg>
+         <rdg wit="CAO-M"> ut liberaret animas</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-F"> exemplum praebuit suis discipulis</rdg>
+         <rdg wit="CAO-L"> exemplum dedit suis discipulis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F CAO-L"> ut sibi invicem pedes abluerent</rdg>
+         <rdg wit="CAO-C"> ut sibi invicem pedes abluerint</rdg>
+         <rdg wit="CAO-M"> ut sibi invicem pedes ablueret</rdg>
+      </app>
+   </aBody>
+</ant>

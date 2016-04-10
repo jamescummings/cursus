@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6563" nextid="c6564b" id="c6564">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dum steteritis ante reges et praesides nolite cogitare quomodo
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> aut quid loquamini</rdg>
+         <rdg wit="CAO-E"> aut qui loquamini</rdg>
+      </app> dabitur enim vobis in illa hora quid loquamini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Non enim vos estis
+       <app>
+            <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> qui loquimini</rdg>
+            <rdg wit="CAO-V"> quid loquimini</rdg>
+         </app> sed spiritus patris vestri qui loquitur in vobis</vBody>
+      <vBody type="r" wit="CAO-L"> Cum autem inducent vos in synagogas et ad magistratus nolite solliciti esse qualiter respondeatis</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dabitur</rep>
+   </verses>
+</res>

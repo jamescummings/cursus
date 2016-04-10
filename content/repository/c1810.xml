@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1809" nextid="c1811" id="c1810">
+   <header>
+      <usage ms="Cht" code="07054000">[51v] lauds</usage>
+      <usage ms="Glo" code="07054000">[71v] lauds</usage>
+      <usage ms="Pet" code="07054000">[82v] -a1</usage>
+      <usage ms="Wcb" code="07054000">[110r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-V CAO-F CAO-S Cht Pet Evm Wcb">
+      <app>
+         <rdg wit="CAO-V CAO-F CAO-S Cht Pet Evm Wcb"> Circumdantes Judaei dominum dicebant</rdg>
+         <rdg wit="CAO-C"> Circumdantes Judaei dominum dixerunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F CAO-S Cht Pet Evm Wcb"> quousque animam nostram tollis</rdg>
+         <rdg wit="CAO-V"> quousque animam nostram tollit</rdg>
+      </app> si tu es Christus dic nobis palam</aBody>
+   <aBody wit="Glo" type="incipit"> Circumdantes Judaei dominum</aBody>
+</ant>

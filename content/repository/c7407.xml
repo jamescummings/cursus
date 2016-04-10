@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7406" nextid="c7408" id="c7407">
+   <rBody wit="CAO-C CAO-D">
+      <app>
+         <rdg wit="CAO-C"> Postquam in praesentia</rdg>
+         <rdg wit="CAO-D"> Postquam in praesentiam</rdg>
+      </app> Hippolyti
+     <app>
+         <rdg wit="CAO-D"> famuli sui</rdg>
+         <rdg wit="CAO-C"> famuli tui</rdg>
+      </app> martyrizati fuissent dixit Hippolytus Gratias tibi ago domine Jesu Christe quia famulos meos in conspectu sanctorum
+     <app>
+         <rdg wit="CAO-D"> tuorum coronatos video</rdg>
+         <rdg wit="CAO-C" type="silent">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-D">Miles Christi Hippolytus
+      <app>
+            <rdg wit="CAO-D"> armatus fide</rdg>
+            <rdg wit="CAO-C"> armatus fidei</rdg>
+         </app> in conspectu iudicum
+      <app>
+            <rdg wit="CAO-D"> ait</rdg>
+            <rdg wit="CAO-C"> dixit</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-D">Gratias (D)</rep>
+   </verses>
+</res>

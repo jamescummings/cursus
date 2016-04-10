@@ -1,0 +1,16 @@
+<!ELEMENT date ( #PCDATA ) >
+
+<!ELEMENT description ( #PCDATA ) >
+
+<!ELEMENT feast ( occasion, feastCode, description, date ) >
+
+<!ELEMENT feastCode ( #PCDATA ) >
+
+<!ELEMENT feastList ( temporale, sanctorale ) >
+
+<!ELEMENT occasion ( #PCDATA ) >
+
+<!ELEMENT sanctorale ( feast+ ) >
+
+<!ELEMENT temporale ( feast+ ) >
+ 

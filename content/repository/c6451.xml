@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6450" nextid="c6452" id="c6451">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Dilexit Andream dominus in odorem suavitatis dum penderet in cruce dignum sibi
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> computavit</rdg>
+         <rdg wit="CAO-S"> computabit</rdg>
+      </app> martyrem quem vocavit apostolum dum esset
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-L"> in mari</rdg>
+         <rdg wit="CAO-M CAO-F CAO-S"> in mare</rdg>
+      </app> et ideo amicus Dei appellatus est</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H"> Tu es magister meus Christe quem dileai quem cognovi quem confessus sum tantum modo in ista voce exaudi me</vBody>
+      <vBody type="r" wit="CAO-R CAO-S CAO-L"> Elegit eum dominus et excelsum fecit illum</vBody>
+      <vBody type="r" wit="CAO-B CAO-D"> Vir iste in populo suo mitissimus apparuit sanctitate autem et gratia plenus</vBody>
+      <vBody type="r" wit="CAO-F"> Biduo vivens pendebat in cruce pro Christi nomine beatus Andreas et docebat populum Dignum</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-B CAO-D"> Et ideo</rep>
+      <rep type="r" wit="CAO-R CAO-S CAO-L"> Quem</rep>
+      <rep type="r" wit="CAO-F"> Dignum</rep>
+   </verses>
+</res>

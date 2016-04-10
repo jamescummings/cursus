@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5329" nextid="c5331" id="c5330">
+   <header>
+      <usage ms="Alb2" code="01036000">[16v] lauds-a2</usage>
+      <usage ms="Evm" code="01035000">[27r] lauds gosp</usage>
+      <usage ms="Evm" code="01035009">[20r] lauds gosp</usage>
+      <usage ms="Evm" code="01044000">[26v] lauds-a1</usage>
+      <usage ms="Evm" code="01045000">[25v] lauds-a1</usage>
+      <usage ms="Hyd" code="01045000">[15v] lauds-a4</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-R Hyd Alb2 Evm">
+      <app>
+         <rdg wit="CAO-E CAO-R Hyd Alb2 Evm"> Veniat iterum angelus tuus</rdg>
+         <rdg wit="CAO-C"> Veniet iterum angelus tuus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C Hyd Alb2"> et docebit nos vias tuas domine</rdg>
+         <rdg wit="CAO-E CAO-R Evm"> et doceat nos vias tuas domine</rdg>
+      </app>
+   </aBody>
+</ant>

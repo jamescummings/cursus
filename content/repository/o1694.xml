@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1693" nextid="o1695" id="o1694">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n3-r12</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.497</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Concede quaesumus omnipotens deus ut qui hodierna die unigenitum tuum redemptorem nostrum ad caelos ascendisse credimus ipso quoque mente in caelestibus habitemus</pBody>
+</prayer>

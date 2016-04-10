@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1268" nextid="c1270" id="c1269">
+   <aBody wit="CAO-C CAO-E CAO-M"> Adesto domine servo tuo
+     <app>
+         <rdg wit="CAO-E CAO-M"> ut cum pace</rdg>
+         <rdg wit="CAO-C"> et quo pace</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E"> dirigas me</rdg>
+         <rdg wit="CAO-M"> diligas me</rdg>
+      </app> ad sedem tuam
+     <app>
+         <rdg wit="CAO-E CAO-M"> alleluia</rdg>
+         <rdg wit="CAO-C"> alleluia alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

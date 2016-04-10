@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2760b" nextid="c2762" id="c2761">
+   <header>
+      <usage ms="Hyd" code="08065000">matins-n2</usage>
+   </header>
+   <aBody wit="CAO-V CAO-H CAO-R CAO-D Hyd">
+      <app>
+         <rdg wit="CAO-R CAO-D Hyd"> Exaltare super caelos deus alleluia</rdg>
+         <rdg wit="CAO-V CAO-H"> Exaltare super caelos deus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-H CAO-R"> et super omnem terram alleluia</rdg>
+         <rdg wit="CAO-D Hyd"> et super omnem terram gloria tua alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

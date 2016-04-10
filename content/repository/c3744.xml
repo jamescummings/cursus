@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3743" nextid="c3745" id="c3744">
+   <aBody wit="CAO-H CAO-R CAO-D CAO-F"> Mens mea solidata est
+     <app>
+         <rdg wit="CAO-H CAO-R CAO-F"> et a Christo fundata</rdg>
+         <rdg wit="CAO-D"> et in Christo fundata</rdg>
+      </app>
+   </aBody>
+</ant>

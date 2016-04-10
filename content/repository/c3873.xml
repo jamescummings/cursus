@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3872" nextid="c3874" id="c3873">
+   <header>
+      <usage ms="Alb2" code="07041000">[92v] vesp1</usage>
+      <usage ms="Bat" code="07041000">[55v] vesp1 gosp</usage>
+      <usage ms="Cdm" code="07041000">[67r] vesp1-a1</usage>
+      <usage ms="Ely" code="07041000">[77r] vesp1</usage>
+      <usage ms="Evm" code="07041000">[126v] vesp1</usage>
+      <usage ms="Glo" code="07041000">[67v] vesp1</usage>
+      <usage ms="Hyd" code="07041000">[81r] vesp1</usage>
+      <usage ms="Mch" code="07041000">[136r] vesp1 gosp</usage>
+      <usage ms="Pet" code="07041000">[74v] vesp1</usage>
+      <usage ms="Wcb" code="07041000">[103r] vesp2</usage>
+      <usage ms="Wor" code="07041000">[50r] vesp1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Glo Alb2 Cdm Mch Bat"> Nemo te condemnavit mulier nemo domine nec ego te condemnabo iam amplius noli peccare</aBody>
+</ant>

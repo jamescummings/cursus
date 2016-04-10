@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1917" nextid="c1919" id="c1918">
+   <header>
+      <usage ms="Hyd" code="01012000">[5r] lauds-a4</usage>
+      <usage ms="Hyd" code="05022000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-B CAO-H CAO-S CAO-L Hyd"> Conversus est furor tuus domine
+     <app>
+         <rdg wit="CAO-E CAO-B CAO-H CAO-S Hyd"> et consolatus es me</rdg>
+         <rdg wit="CAO-G"> consolatus es me</rdg>
+         <rdg wit="CAO-V">
+            <del status="unremarkable">et</del> consolatus es me</rdg>
+         <rdg wit="CAO-L"> et consolatus est me</rdg>
+      </app>
+   </aBody>
+</ant>

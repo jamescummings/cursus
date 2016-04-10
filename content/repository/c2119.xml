@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2118" nextid="c2120" id="c2119">
+   <header>
+      <usage ms="Alb2" code="01014000">[6v] lauds gosp</usage>
+      <usage ms="Bat" code="01014000">[5v] lauds gosp</usage>
+      <usage ms="Cdm" code="01014000">[11r] lauds gosp</usage>
+      <usage ms="Evm" code="01014000">[11v] lauds gosp</usage>
+      <usage ms="Hyd" code="01014000">[6r] lauds gosp</usage>
+      <usage ms="Mch" code="01014000">[6r] lauds gosp</usage>
+      <usage ms="Wor" code="01014000">[4v] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Wor Bat">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Mch Cdm Wor Bat"> De Sion exibit lex</rdg>
+         <rdg wit="CAO-V"> De Sion exivit lex</rdg>
+         <rdg wit="CAO-S"> De Sion exiet lex</rdg>
+      </app> et verbum domini de Jerusalem</aBody>
+</ant>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<html>
+  <head>
+    <title>Cursus Search Page</title>
+  </head>
+  <body>
+    <h1>Cursus Search Page</h1>
+    <form class="searchform" action="/search" method="get">
+      <div class="inputradiobuttons"> 
+	<h3>Search in CURSUS:</h3>
+	<span class="radio-button"><input name="collection" type="radio" value="ant" />Antiphons</span>
+	<span class="radio-button"><input name="collection" type="radio" value="res" />Responds</span>
+	<span class="radio-button"><input name="collection" type="radio" value="prayer" />Prayers</span>
+	<span class="radio-button"><input name="collection" type="radio" value="incipits" />Any Antiphon, Respond or Prayer</span>
+	<span class="radio-button"><input name="collection" type="radio" value="mss" checked="checked" />Manuscripts</span>
+	<span class="radio-button"><input name="collection" type="radio" value="vulgate" />Vulgate</span>
+	<!--<span class="radio-button"><input name="collection" type="radio" value="all" checked="checked" />All data</span>-->
+      </div>
+
+      <div class="inputsearchterm">
+	<h3>Search for:</h3>
+	<input type="text" name="terms" size="30" />
+	<p>Use double quote marks (") to enclose phrase searches.</p>
+	<p>Use AND, OR and parenthesies to construct logical expressions.</p>
+	<p>Result records have properties for which you can specify criteria, e.g. for Vulgate books, use: 'book=Luke term1 term2'</p>
+	<p>Vulgate: book; verse [c:v] (where there are multiple books with the same name, e.g. Kings, the format should be '1Kings' or '2Kings')</p>
+	<p>Incipits: type [ant|res|prayer]</p>
+	<p>Manuscripts: ms-id [Alb2|Ely|Evm|...]; feast-code; day-num; service-name</p>
+      </div>
+      <!--<div class="inputsearchtype">
+	  <input type="radio" name="mode1" value="contains" checked="checked">Word List</input>
+	  </div>-->
+      <div class="inputsubmit">
+	<input name="from" type="hidden" value="1" />
+	<input name="number" type="hidden" value="20" />
+	<input name="submit" type="submit" value="Search" />
+      </div>
+   </form>
+   <!--<p>(Note: You can use * and ? in search terms.  e.g. 'qua*' matches 'quam', 'qualiter', and 'quasi' while 'su?s' matches 'suis', 'suos' and 'suas'.)</p>-->
+  </body>
+</html>

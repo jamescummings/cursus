@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6922" nextid="c6924" id="c6923">
+   <rBody wit="CAO-E CAO-V"> In pinguedine terrae et in rore caeli desuper erit benedictio tua vivens gladio et fratri tuo minori
+      <app>
+         <rdg wit="CAO-V"> serviens</rdg>
+         <rdg wit="CAO-E"> servies</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-V">Tempusque
+       <app>
+            <rdg wit="CAO-V"> veniat ut excutias</rdg>
+            <rdg wit="CAO-E"> veniet ut excitias</rdg>
+         </app> jugum eius de cervicibus tuis</vBody>
+      <rep type="r" wit="CAO-E">Vivens</rep>
+      <rep type="r" wit="CAO-V">
+         <sic resp="Hesbert">Vives</sic>
+      </rep>
+   </verses>
+</res>

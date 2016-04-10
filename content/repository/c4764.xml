@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4763" nextid="c4764b" id="c4764">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-R CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-F CAO-L"> Sanctorum sicut aquilae iuventus renovabitur</rdg>
+         <rdg wit="CAO-V CAO-R"> Sanctorum velut aquilae iuventus renovabitur</rdg>
+         <rdg wit="CAO-M"> Sanctorum sicut aquila iuventus renovabitur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-L"> florebunt sicut lilium</rdg>
+         <rdg wit="CAO-R"> et florent ut lilium</rdg>
+         <rdg wit="CAO-C"> florebunt sicut lilia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-F CAO-L"> in civitate domini</rdg>
+         <rdg wit="CAO-V"> in civitate David</rdg>
+         <rdg wit="CAO-E"> ante conspectum domini</rdg>
+         <rdg wit="CAO-M"> ante conspectu domini</rdg>
+         <rdg wit="CAO-R"> in conspectu domini</rdg>
+      </app>
+   </aBody>
+</ant>

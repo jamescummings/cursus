@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2473" nextid="c2475" id="c2474">
+   <header>
+      <usage ms="Alb2" code="07063000">[106v] lauds</usage>
+      <usage ms="Cdm" code="07063000">[76v] lauds-a3</usage>
+      <usage ms="Cht" code="07063000">[58r] lauds</usage>
+      <usage ms="Ely" code="07063000">[87r] lauds</usage>
+      <usage ms="Evm" code="07063000">[146r] lauds</usage>
+      <usage ms="Hyd" code="07063000">[92v] lauds</usage>
+      <usage ms="Mch" code="07063000">[156v] lauds-a3</usage>
+      <usage ms="Pet" code="07063000">[87r] lauds</usage>
+      <usage ms="Wcb" code="07063000">[114r] lauds</usage>
+      <usage ms="Wor" code="07063000">[57v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Dum tribularer clamavi ad dominum de ventre inferi
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> et exaudivit me</rdg>
+         <rdg wit="CAO-C"> exaudivit me</rdg>
+         <rdg wit="CAO-L"> et exavit me</rdg>
+      </app>
+   </aBody>
+</ant>

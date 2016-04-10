@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6604" nextid="c6606" id="c6605">
+   <header>
+      <usage ms="Alb2" code="07067000">[112r] matins-n2-r6</usage>
+      <usage ms="Cdm" code="07067000">[80r] matins-n2-r6</usage>
+      <usage ms="Cht" code="07066000">[64r] matins-r3</usage>
+      <usage ms="Ely" code="07067000">[91v] matins-n2-r6</usage>
+      <usage ms="Evm" code="07066000">[151r] matins-n1-r3</usage>
+      <usage ms="Hyd" code="07067000">[97v] matins-n1-r3</usage>
+      <usage ms="Mch" code="07067000">[163v] matins-n2-r6</usage>
+      <usage ms="Pet" code="07067000">[94v] matins-n2-r6</usage>
+      <usage ms="Wcb" code="07066000">[116r] matins-n1-r3</usage>
+      <usage ms="Wor" code="07067000">[62v] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Ecce quomodo moritur iustus et nemo percipit corde
+     <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Alb2 Cdm Mch"> et viri iusti tolluntur</rdg>
+         <rdg wit="Wcb"> et viri iusti <corr sic="tollentur" resp="DC">tolluntur</corr>
+         </rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> viri iusti tolluntur</rdg>
+         <rdg wit="CAO-G"> et vir iniuste tollitur</rdg>
+      </app> et nemo considerat a facie iniquitatis
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-D CAO-F CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> ablatus est iustus</rdg>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-S Cht"> oblatus est iustus</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> sublatus est iustus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> et erit in pace memoria eius</rdg>
+         <rdg wit="CAO-E CAO-V"> et erit in pace memoriam eius</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Wcb Alb2 Cdm Mch"> In pace factus est locus eius</rdg>
+            <rdg wit="Evm"> In pace factus locus eius</rdg>
+         </app> et in Sion habitatio eius</vBody>
+      <vBody type="r" wit="CAO-L"> Tamquam agnus tondentes se obmutuit et non aperuit os suum de angustia et de iudicio sublatus est</vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">Et erit</rep>
+      <rep type="r" num="2" wit="Ely Wcb Alb2"> Ecce</rep>
+   </verses>
+</res>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3202" nextid="c3204" id="c3203">
+   <header>
+      <usage ms="Hyd" code="01015000">[6r] lauds-a4</usage>
+      <usage ms="Hyd" code="05025000"/>
+   </header>
+   <aBody wit="CAO-G CAO-E CAO-V CAO-S Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-S Hyd"> In aeternum dominus regnabit</rdg>
+         <rdg wit="CAO-V"> In aeternum domine regnabit</rdg>
+         <rdg wit="CAO-G"> In aeternum dominus regnavit</rdg>
+      </app> et ultra</aBody>
+</ant>

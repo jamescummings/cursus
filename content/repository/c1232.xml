@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1231" nextid="c1233" id="c1232">
+   <aBody wit="CAO-C CAO-H CAO-R CAO-D CAO-F">
+      <app>
+         <rdg wit="CAO-D CAO-F"> Accipiens Jesus septem panes</rdg>
+         <rdg wit="CAO-C"> Et accipiens Jesus septem panes</rdg>
+         <rdg wit="CAO-H CAO-R"> Accipiens dominus septem panes</rdg>
+      </app> gratias agens fregit
+     <app>
+         <rdg wit="CAO-C CAO-D"> et dabat discipulis suis ut apponerent</rdg>
+         <rdg wit="CAO-F"> et dedit discipulis suis ut apponerent</rdg>
+         <rdg wit="CAO-H CAO-R"> et dabat discipulis suis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F"> et apposuerunt turbae</rdg>
+         <rdg wit="CAO-H CAO-R"> et apposuerunt turbae et manducaverunt et saturati sunt</rdg>
+      </app> alleluia</aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8504" nextid="c8506" id="c8505">
+   <header>
+      <usage ms="Cht" code="07055000">[52r] lauds</usage>
+      <usage ms="Ely" code="07055000">[84r] lauds</usage>
+      <usage ms="Hyd" code="07055000">[89r] lauds</usage>
+      <usage ms="Pet" code="07055000">[82v] -a1</usage>
+   </header>
+   <aBody wit="Ely Cht Hyd Pet">Cum audissent quidam de turba sermones Jesu dicebant hic est vere propheta alii dicebant hic est Christus</aBody>
+</ant>

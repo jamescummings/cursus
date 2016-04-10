@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3406" nextid="c3408" id="c3407">
+   <aBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Ipsi sum desponsata</rdg>
+         <rdg wit="CAO-M"> Ipsi sum disponsata</rdg>
+      </app> cui angeli serviunt
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> cuius pulchritudinem sol et luna mirantur</rdg>
+         <rdg wit="CAO-M CAO-L"> cuius pulchritudine sol et luna mirantur</rdg>
+      </app>
+   </aBody>
+</ant>

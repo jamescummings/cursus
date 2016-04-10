@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3299" nextid="c3301" id="c3300">
+   <header>
+      <usage ms="Hyd" code="01011000">[2r] matins-n2-a6</usage>
+      <usage ms="Hyd" code="05001000"/>
+      <usage ms="Mch" code="01011000">[2r] matins-n2-a6</usage>
+   </header>
+   <aBody wit="CAO-E CAO-V CAO-H CAO-S CAO-L Hyd Mch">In tua iustitia libera me domine</aBody>
+</ant>

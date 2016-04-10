@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6602" nextid="c6604" id="c6603">
+   <header>
+      <usage ms="Alb2" code="02122700">[35r] matins-n2-r6</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n1-r2</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins-n1-r2</usage>
+      <usage ms="Evm" code="02122700">[44v] matins-n3-r10</usage>
+      <usage ms="Hyd" code="02122700">[24r] matins-n2-r5</usage>
+      <usage ms="Pet" code="02122700">[25v] matins-n1-r2</usage>
+      <usage ms="Wcb" code="02122700">[62r] matins-n3-r10</usage>
+      <usage ms="Wor" code="02122700">[19v] matins-n1-r2</usage>
+   </header>
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Ecce puer meus</rdg>
+         <rdg wit="CAO-F"> Ecce puer meus electus</rdg>
+      </app> quem elegi dicit dominus electus meus complacuit sibi in illo
+      <app>
+         <rdg wit="CAO-E CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> anima mea</rdg>
+         <rdg wit="CAO-B CAO-H CAO-R"> animae meae</rdg>
+         <rdg wit="CAO-V"> animam meam</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D Hyd Bat Cdm Wor Pet">
+         <app>
+            <rdg wit="CAO-D Hyd Bat Wor Pet"> Dedi spiritum meum super eum</rdg>
+            <rdg wit="Cdm"> Dedi super eum spiritum meum</rdg>
+         </app> iudicium gentibus
+      <app>
+            <rdg wit="CAO-D Hyd"> profert</rdg>
+            <rdg wit="Bat Cdm Pet"> proferre</rdg>
+            <rdg wit="Wor"> proferet</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-L Alb2 Evm Wcb"> Hic est discipulus meus sic eum volo manere</vBody>
+      <vBody type="r" wit="CAO-E"> Iste est Joannes cui Christus in cruce Matrem virginem virgini commendavit</vBody>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R"> Iste est Joannes qui supra pectus domini in cena recubuit</vBody>
+      <vBody type="r" wit="CAO-F"> Ponam super eum spiritum meum iudicium gentibus nuntiabit</vBody>
+      <vBody type="r" wit="CAO-S"> Sic eum volo manere donec veniam </vBody>
+      <rep type="r" wit="CAO-B CAO-V CAO-H CAO-R CAO-S CAO-L Evm Wcb Pet"> Complacuit</rep>
+      <rep type="r" wit="CAO-D CAO-E CAO-F Hyd Bat Cdm Wor"> Electus</rep>
+   </verses>
+</res>

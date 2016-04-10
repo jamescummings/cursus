@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4412" nextid="c4414" id="c4413">
+   <aBody wit="CAO-D CAO-F"> Puer quidam parvulus elephantino morbo percussus
+     <app>
+         <rdg wit="CAO-D"> ad dei hominem est adductus</rdg>
+         <rdg wit="CAO-F"> a dei hominem est adductus</rdg>
+      </app> pristina sanitate recepta
+     <app>
+         <rdg wit="CAO-D"> incolumis remeavit ad patria</rdg>
+         <rdg wit="CAO-F"> incolumis remeavit ad propria</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2394" nextid="c2396" id="c2395">
+   <header>
+      <usage ms="Alb2" code="07063000">[106v] lauds</usage>
+      <usage ms="Cdm" code="07063000">[76v] lauds-a4</usage>
+      <usage ms="Cht" code="07063000">[58r] lauds</usage>
+      <usage ms="Ely" code="07063000">[87v] lauds</usage>
+      <usage ms="Evm" code="07063000">[146r] lauds</usage>
+      <usage ms="Hyd" code="07063000">[92v] lauds</usage>
+      <usage ms="Mch" code="07063000">[156v] lauds-a4</usage>
+      <usage ms="Pet" code="07063000">[87r] lauds</usage>
+      <usage ms="Wcb" code="07063000">[114r] lauds</usage>
+      <usage ms="Wor" code="07063000">[57v] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch"> Domine vim patior
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">responde pro me</rdg>
+         <rdg wit="CAO-R">responde mihi</rdg>
+      </app> quia nescio quid dicam
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch">inimicis meis</rdg>
+         <rdg wit="CAO-V">inimicus meus</rdg>
+      </app>
+   </aBody>
+</ant>

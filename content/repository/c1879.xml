@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1878" nextid="c1880" id="c1879">
+   <aBody wit="CAO-M CAO-D CAO-F"> Confitemini domino filii Israel quia non est alius deus praeter eum
+     <app>
+         <rdg wit="CAO-M"> ipse liberavit nos</rdg>
+         <rdg wit="CAO-D CAO-F"> ipse liberabit nos</rdg>
+      </app> propter misericordiam suam
+     <app>
+         <rdg wit="CAO-M CAO-F"> aspicite quae fecit nobiscum</rdg>
+         <rdg wit="CAO-D"> aspicite quae fecit <corr sic="vobiscum">nobiscum</corr>
+         </rdg>
+      </app> et enarremus omnia mirabilia eius alleluia</aBody>
+</ant>

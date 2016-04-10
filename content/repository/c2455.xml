@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2454" nextid="c2456" id="c2455">
+   <header>
+      <usage ms="Hyd" code="08015000">[104r] sext-a1</usage>
+   </header>
+   <aBody wit="CAO-C CAO-E CAO-H CAO-R CAO-D Hyd">
+      <app>
+         <rdg wit="CAO-E CAO-H CAO-R"> Dum flerem ad monumentum alleluia</rdg>
+         <rdg wit="CAO-C CAO-D Hyd"> Dum flerem ad monumentum</rdg>
+      </app> vidi dominum meum alleluia</aBody>
+</ant>

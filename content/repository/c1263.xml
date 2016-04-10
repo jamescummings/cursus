@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1262" nextid="c1264" id="c1263">
+   <aBody wit="CAO-D CAO-F"> Adest multitudo monachorum ac virginum
+     <app>
+         <rdg wit="CAO-D"> his specialis gloria</rdg>
+         <rdg wit="CAO-F"> hii specialis gloriae</rdg>
+      </app> praecipue flebant
+     <app>
+         <rdg wit="CAO-D"> dum sentirent</rdg>
+         <rdg wit="CAO-F"> cum sentirent</rdg>
+      </app> magis esse gaudendum si rationem vis doloris
+     <app>
+         <rdg wit="CAO-D"> admitteret</rdg>
+         <rdg wit="CAO-F"> admitterent</rdg>
+      </app>
+   </aBody>
+</ant>

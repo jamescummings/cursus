@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6798" nextid="c6800" id="c6799">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-H CAO-S CAO-L Hyd"> Haec est dies
+     <app>
+         <rdg wit="CAO-H CAO-L Hyd"> quam</rdg>
+         <rdg wit="CAO-S"> quem</rdg>
+      </app> fecit dominus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-H CAO-S CAO-L Hyd"> Exsultemus et laetemur in ea</vBody>
+   </verses>
+</res>

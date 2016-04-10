@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4670" nextid="c4672" id="c4671">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sacerdos dei Martine pastor egregie
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ora pro nobis deum</rdg>
+         <rdg wit="CAO-C"> ora pro nobis deo</rdg>
+      </app>
+   </aBody>
+</ant>

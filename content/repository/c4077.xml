@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4076" nextid="c4078" id="c4077">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.160</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-B CAO-E CAO-H CAO-R CAO-L"> O regem caeli cui talia famulantur obsequia stabulo ponitur qui continet mundum
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-H CAO-R"> iacet in praesepio et in nubibus tonat</rdg>
+         <rdg wit="CAO-L"> iacet in praesepio et in caelis regnat</rdg>
+      </app>
+   </aBody>
+</ant>

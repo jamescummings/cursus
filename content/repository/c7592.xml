@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7591" nextid="c7593" id="c7592">
+   <rBody wit="CAO"> Sancti tui domine mirabile consecuti sunt iter servientes praeceptis tuis ut invenirentur illaesi in aquis validis terra apparuit arida et in Mari Rubro via sine impedimento</rBody>
+   <verses>
+      <vBody type="r" wit="CAO" variant="CAO-variant-A">
+         <note type="unproofedCAOsrc" place="unspecified" anchored="yes">(CEMVHRFS)</note> Quoniam percussit petram et flu xerunt aquae et torrentes inundaverunt</vBody>
+      <rep type="r" wit="CAO">Terra</rep>
+      <vBody type="r" wit="CAO" variant="CAO-variant-B">
+         <note type="unproofedCAOsrc" place="unspecified" anchored="yes">(DL)</note> Victricem manum tuam laudaverunt pariter et decantaverunt Domine nomen sanctum tuum</vBody>
+      <rep type="r" wit="CAO">Terra</rep>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4883" nextid="c4885" id="c4884">
+   <header>
+      <usage ms="Hyd" code="08081000">vesp1</usage>
+   </header>
+   <aBody wit="CAO-F Hyd"> Si diligeretis me gauderetis utique
+     <app>
+         <rdg wit="CAO-F"> quia ad patrem vado</rdg>
+         <rdg wit="Hyd"> quia vado ad patrem</rdg>
+      </app> quia pater maior me est alleluia</aBody>
+</ant>

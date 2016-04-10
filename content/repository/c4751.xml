@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4750" nextid="c4751b" id="c4751">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Sanctis qui in terra sunt eius</rdg>
+         <rdg wit="CAO-M"> Sancti qui in terra sunt eius</rdg>
+         <rdg wit="CAO-E"> Sanctis qui in terra sunt eis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L"> mirificavit omnes voluntates meas inter illos</rdg>
+         <rdg wit="CAO-C"> mirificavit omnes voluntates meas in eis</rdg>
+         <rdg wit="CAO-S"> mirificabi omnes voluntates meas inter illos</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2593" nextid="c2595" id="c2594">
+   <header>
+      <usage ms="Hyd" code="08084000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-R Hyd"> Ego sum panis vivus
+     <app>
+         <rdg wit="CAO-R"> qui de caelo descendi dicit dominus</rdg>
+         <rdg wit="Hyd"> qui de caelo descendi</rdg>
+      </app> si quis manducaverit ex hoc pane vivet in aeternum alleluia</aBody>
+</ant>

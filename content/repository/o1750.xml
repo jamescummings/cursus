@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1749" nextid="o1751" id="o1750">
+   <header>
+      <usage ms="Cdm" code="02122500">[23v] lauds</usage>
+      <usage ms="Alb2" code="02122500">[29v] lauds</usage>
+      <usage ms="Evm" code="02122500">[37v] lauds</usage>
+      <usage ms="Wcb" code="02122500">[57r] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.42</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Evm Wcb Cdm"> Da quaesumus omnipotens deus ut qui nova incarnati verbi tui luce perfundimur hoc in nostro resplendeat opere quod per fidem fulget in mente</pBody>
+</prayer>

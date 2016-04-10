@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1719" nextid="o1721" id="o1720">
+   <header>
+      <usage ms="Cdm" code="07041000">[68v] sext</usage>
+      <usage ms="Mch" code="07041000">[139v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm Mch"> Adesto domine quaesumus supplicationibus nostris et famulos tuos assidua protectione conserva ut qui tibi iugiter famulantur continua remuneratione dicentur</pBody>
+</prayer>

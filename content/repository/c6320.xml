@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6319" nextid="c6321" id="c6320">
+   <rBody wit="CAO-V CAO-L"> Confortamini et iam nolite timere ecce deus noster cito veniet
+      <app>
+         <rdg wit="CAO-V"> et salvos nos faciet</rdg>
+         <rdg wit="CAO-L"> ut salvos nos faciat</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-V CAO-L">Ecce deus vester ultionem adducet retributionis deus ipse veniet</vBody>
+      <rep type="r" wit="CAO-V">Et salvos</rep>
+      <rep type="r" wit="CAO-L"> Ut salvos</rep>
+   </verses>
+</res>

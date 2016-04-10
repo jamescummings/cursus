@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6232" nextid="c6234" id="c6233">
+   <rBody wit="CAO-M CAO-L"> Beatus Vitus genua flectens
+      <app>
+         <rdg wit="CAO-L"> Christum dominum deprecabatur</rdg>
+         <rdg wit="CAO-M"> deprecabatur dominum</rdg>
+      </app> qui
+      <app>
+         <rdg wit="CAO-L"> Tobiam</rdg>
+         <rdg wit="CAO-M"> Tobias</rdg>
+      </app> illuminasti et Job a vulneribus
+      <app>
+         <rdg wit="CAO-L"> curasti</rdg>
+         <rdg wit="CAO-M"> curasti ita</rdg>
+      </app> fac misericordiam cum patre meo sed si consenserit
+      <app>
+         <rdg wit="CAO-L"> tibi</rdg>
+         <rdg wit="CAO-M"> mihi</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-M"> Et ponens manus super oculos eius et statim ceciderunt cicatrices oculorum eius</vBody>
+      <vBody type="r" wit="CAO-L"> Prosternens se beatus Vitus in oratione cum lacrimis dicebat</vBody>
+      <rep type="r" wit="CAO-M">Qui</rep>
+      <rep type="r" wit="CAO-L">Fac</rep>
+   </verses>
+</res>

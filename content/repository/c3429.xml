@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3428" nextid="c3429b" id="c3429">
+   <aBody wit="CAO-E CAO-V CAO-R">
+      <app>
+         <rdg wit="CAO-E CAO-R"> Iste homo ab adolescentia sua</rdg>
+         <rdg wit="CAO-V"> Iste homo ab adolescentiam suam</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-V CAO-R"> partim meruit infirmos curare</rdg>
+         <rdg wit="CAO-E"> partem meruit infirmos curare</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-R"> dedit illi dominus claritatem magnam</rdg>
+         <rdg wit="CAO-V"> dedit illi dominus claritatem magna</rdg>
+      </app> caecos illuminare et daemones effugare</aBody>
+</ant>

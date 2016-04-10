@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6830" nextid="c6832" id="c6831">
+   <rBody wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Hic est vir
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-F CAO-S CAO-L"> qui non est</rdg>
+         <rdg wit="CAO-D"> qui non</rdg>
+      </app> derelictus a Deo in die
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> certaminis sui</rdg>
+         <rdg wit="CAO-M"> certaminis suae</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-R CAO-D CAO-F CAO-L"> et ipse conculcavit</rdg>
+         <rdg wit="CAO-M"> ipse conculcavit</rdg>
+         <rdg wit="CAO-S"> et ipse conculcabit</rdg>
+      </app> caput
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> serpentis antiqui</rdg>
+         <rdg wit="CAO-E"> antiqui serpentis</rdg>
+      </app> modo
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R"> coronabitur</rdg>
+         <rdg wit="CAO-D CAO-F CAO-S CAO-L"> coronatur</rdg>
+      </app> quia fideliter
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-L"> vicit</rdg>
+         <rdg wit="CAO-S"> vixit</rdg>
+      </app> in mandatis domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R"> Iste est qui contempsit</vBody>
+      <rep type="r" wit="CAO-R">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-R</note>
+      </rep>
+      <vBody id="c6831-1" type="r" num="2" wit="CAO-E CAO-M CAO-H"> Iste est qui contempsit</vBody>
+      <rep corresp="c6831-1" type="r" wit="CAO-E CAO-M CAO-H"> Quia</rep>
+      <vBody id="c6831-2" type="r" num="3" wit="CAO-C CAO-L"> Iste est qui contempsit
+       <app>
+            <rdg wit="CAO-L"> vitam mundi</rdg>
+            <rdg wit="CAO-C"> vita mundi</rdg>
+         </app> et pervenit ad caelestia regna</vBody>
+      <rep corresp="c6831-2" type="r" wit="CAO-C CAO-L"> Modo</rep>
+      <vBody id="c6831-3" type="r" num="4" wit="CAO-C CAO-R"> Armis divinis praecinctus saevitiam persequentium
+       <app>
+            <rdg wit="CAO-R"> feliciter superavit</rdg>
+            <rdg wit="CAO-C"> superavit</rdg>
+         </app>
+      </vBody>
+      <rep corresp="c6831-3" type="r" wit="CAO-C CAO-R"> Modo</rep>
+      <vBody id="c6831-4" type="r" num="5" wit="CAO-S"> Armis divinis praecinctus saevitia persequentium feliciter superavit</vBody>
+      <rep corresp="c6831-4" type="r" wit="CAO-S"> Quia</rep>
+      <vBody id="c6831-5" type="r" num="6" wit="CAO-D CAO-F"> Iste sanctus pro lege Dei sui certavit usque ad mortem et a verbis impiorum non timuit</vBody>
+      <rep corresp="c6831-5" type="r" wit="CAO-D CAO-F"> Modo</rep>
+      <vBody id="c6831-6" type="r" num="7" wit="CAO-H CAO-R"> Probasti domine</vBody>
+      <rep corresp="c6831-6" type="r" wit="CAO-H CAO-R">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-H and CAO-R</note>
+      </rep>
+   </verses>
+</res>

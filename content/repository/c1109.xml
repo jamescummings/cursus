@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1108" nextid="c1110" id="c1109">
+   <aBody wit="CAO-E CAO-M CAO-V">
+      <app>
+         <rdg wit="CAO-E"> Non repellet dominus plebem suam</rdg>
+         <rdg wit="CAO-M"> Ne repellat dominus plebem suam</rdg>
+         <rdg wit="CAO-V"> Non repellit dominus plebem suam</rdg>
+      </app> quia in manu eius sunt omnes fines terrae</aBody>
+</ant>

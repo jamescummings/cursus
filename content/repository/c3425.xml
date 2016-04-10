@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3424" nextid="c3426" id="c3425">
+   <header>
+      <usage ms="Alb2" code="02122700">[36v] lauds gosp</usage>
+      <usage ms="Bat" code="02122700">[22r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="02122700">[27v] lauds gosp</usage>
+      <usage ms="Pet" code="02122700">[28r] lauds gosp</usage>
+      <usage ms="Wcb" code="02122700">[62v] lauds gosp</usage>
+      <usage ms="Wor" code="02122700">[21r] lauds gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Wcb Bat Cdm Wor Pet"> Iste est Joannes</rdg>
+         <rdg wit="CAO-M"> Iste Joannes</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L Wcb Cdm Wor Pet"> qui supra pectus domini recubuit</rdg>
+         <rdg wit="CAO-F CAO-S Alb2 Bat"> qui supra pectus domini in cena recubuit</rdg>
+      </app> beatus apostolus cui revelata sunt secreta caelestia</aBody>
+   <prosula wit="CAO-D"> Iustus virginitate clarus ut palina Joannes ornatus pudicitia floruit et ideo sicut cedrus paradisi nectare irrigatus undique mundo plene eructavit arcana theoriat quae angeli vix valent percipere quapropter eius honore gaudet proles ecclesiae quae doctrina eius multiplicabitur<rep type="p" wit="CAO-D">Supra pectus domini</rep>
+   </prosula>
+</ant>

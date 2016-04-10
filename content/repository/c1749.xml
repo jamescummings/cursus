@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1748" nextid="c1750" id="c1749">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <name reg="Caecilia" type="saint">Caecilia</name> virgo <name reg="Almachius" type="person">Almachium</name> exsuperabat <name reg="Tiburtius" type="person">Tiburtium</name> et <name reg="Valerianus" type="person">Valerianum</name>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> ad coronas vocabat</rdg>
+         <rdg wit="CAO-M"> ad coronam vocabat</rdg>
+      </app>
+   </aBody>
+</ant>

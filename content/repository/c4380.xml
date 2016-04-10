@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4379" nextid="c4381" id="c4380">
+   <header>
+      <usage ms="Cht" code="07056000">[52v] lauds</usage>
+      <usage ms="Ely" code="07063000">[87v] vesp2-a1</usage>
+      <usage ms="Evm" code="07056000">[140r] lauds</usage>
+      <usage ms="Glo" code="07056000"/>
+      <usage ms="Glo" code="07061000">[75r] procession-a15</usage>
+      <usage ms="Hyd" code="07063000">[92v] terce</usage>
+      <usage ms="Mch" code="07061000">[153r] matins-n3</usage>
+      <usage ms="Pet" code="07056000">[83r] nones-a1</usage>
+      <usage ms="Wcb" code="07056000">[110v] lauds</usage>
+      <usage ms="Wor" code="07056000">[55r] vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Glo Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Hyd Pet Evm Mch"> Principes sacerdotum consilium fecerunt</rdg>
+         <rdg wit="CAO-L Wor Cht Wcb Glo"> Principes sacerdotum concilium fecerunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Cht Hyd Pet Evm Wcb Glo Mch">ut Jesum occiderent</rdg>
+         <rdg wit="CAO-L">ut Jesum dolo tenerent et occiderent</rdg>
+      </app> dicebant autem non in die festo
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Glo Mch"> ne forte tumultus fieret in populo</rdg>
+         <rdg wit="Cht"> ne forte tumultus fieret in <gap resp="DC" extent="one word"/>
+         </rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" type="incipit" num="2"> Principes sacerdotum consilium</aBody>
+</ant>

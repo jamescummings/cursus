@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6142" nextid="c6144" id="c6143">
+   <header>
+      <usage ms="Alb2" code="07041000">[94r] matins-n3-r10</usage>
+      <usage ms="Bat" code="07041000">[56r] matins-n2-r8</usage>
+      <usage ms="Cdm" code="07041000">[67v] matins-n2-r8</usage>
+      <usage ms="Cht" code="07041000">[40v] matins-n2-r8</usage>
+      <usage ms="Ely" code="07041000">[77v] matins-n2-r8</usage>
+      <usage ms="Evm" code="07041000">[128r] matins-n2-r8</usage>
+      <usage ms="Hyd" code="07041000">[82r] matins-n2-r8</usage>
+      <usage ms="Mch" code="07041000">[138r] matins-n3-r10</usage>
+      <usage ms="Pet" code="07041000">[76r] matins-r8</usage>
+      <usage ms="Wcb" code="07041000">[104r] matins-n2-r8</usage>
+      <usage ms="Wor" code="07041000">[50v] matins-n2-r8</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Audi Israel praecepta domini et ea in corde tuo quasi in libro scribe et dabo tibi terram fluentem lac et mel</rBody>
+   <verses>
+      <vBody id="c6143-1" type="r" wit="CAO-C CAO-B CAO-H CAO-R"> Israel si me audieris non erit in te deus recens neque adorabis deum alienum</vBody>
+      <rep corresp="c6143-1" type="r" wit="CAO-C CAO-B CAO-H CAO-R">Et dabo</rep>
+      <vBody id="c6143-2" type="r" num="6" wit="CAO-E"> Israel si me audieris non erit in te Deus recens neque adorabis deum alienum ego enim dominus</vBody>
+      <rep corresp="c6143-2" type="r" wit="CAO-E"> Et dabo</rep>
+      <vBody id="c6143-3" type="r" wit="CAO-M"> Israel</vBody>
+      <rep corresp="c6143-3" type="r" wit="CAO-M"> Et dabo</rep>
+      <vBody id="c6143-4" type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat">  Observa igitur et audi vocem meam et inimicus ero inimicis tuis</vBody>
+      <rep corresp="c6143-4" type="r" wit="CAO-G CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Et dabo</rep>
+      <dox corresp="c6143-4" type="r" wit="Pet">Gloria</dox>
+      <vBody id="c6143-5" type="r" num="8" wit="CAO-V"> Observa igitur et audi vocem meam et inimicus ero inimicis tuis</vBody>
+      <rep corresp="c6143-5" type="r" wit="CAO-V"> Et dabo</rep>
+      <vBody id="c6143-6" type="r" wit="CAO-E"> Eduxi te per viam semitas maris</vBody>
+      <rep corresp="c6143-6" type="r" wit="CAO-E"> Et</rep>
+      <vBody id="c6143-7" type="r" num="2" wit="CAO-E"> Ad possidendam semper in qua sis felix</vBody>
+      <rep corresp="c6143-7" type="r" wit="CAO-E"> Fluentem</rep>
+      <vBody id="c6143-8" type="r" num="2" wit="CAO-E"> Ad possidendam semper in qua felix</vBody>
+      <rep corresp="c6143-8" type="r" wit="CAO-E"> Fluentem</rep>
+      <vBody id="c6143-9" type="r" num="3" wit="CAO-E"> Multiplicabo semen <corr sic="belligerorum" resp="Hesbert">mille genarum</corr>
+      </vBody>
+      <rep corresp="c6143-9" type="r" wit="CAO-E"> Et dabo</rep>
+      <vBody id="c6143-10" type="r" num="5" wit="CAO-V"> Multiplicabo semen <corr sic="bellierarum" resp="Hesbert">mille genarum</corr>
+      </vBody>
+      <rep corresp="c6143-10" type="r" wit="CAO-V"> Et dabo</rep>
+      <vBody id="c6143-11" type="r" num="4" wit="CAO-E"> Obtemperabo tibi robustas manus</vBody>
+      <rep corresp="c6143-11" type="r" wit="CAO-E"> Fluentem</rep>
+      <vBody id="c6143-12" type="r" num="5" wit="CAO-E"> Non erit metus directionis</vBody>
+      <rep corresp="c6143-12" type="r" wit="CAO-E"> Fluentem</rep>
+      <vBody id="c6143-13" type="r" num="3" wit="CAO-V"> Non erit metus dispersionis</vBody>
+      <rep corresp="c6143-13" type="r" wit="CAO-V"> Fluentem</rep>
+      <vBody type="r" num="4" wit="CAO-V"> Hostem non timebis robusta manus</vBody>
+      <vBody type="r" num="6" wit="CAO-V"> Obtemperabis <sic resp="Hesbert">lipidos</sic> more securus</vBody>
+      <vBody type="r" num="7" wit="CAO-V"> A te numquam scires si me audisset ea perfrueris</vBody>
+      <vBody type="r" num="9" wit="Evm"> Terrorem meum mittam in praecursum tuum et occidam omnem populum ad quem ingredieris</vBody>
+      <prosula wit="CAO-L"> Ad possidendam semper in qua felix Multiplicabo semen mille genarum Non erit tibi metus directionis Hostes non timebis robusta manus A te ergo numquam sinas si me audisses Protector tuus ero ubique semper Daboque vobis terram lac et mel manantem Vobis et patribus vestris obtuli manna Possidebitis eam in sempiternum Hostem conteram vestrum dum mecum estis Vobis ducatum praesto usque in ea Columna nubis per diem ignis in nocte Eam perflueris</prosula>
+      <rep type="p" wit="CAO-L">Fluentem</rep>
+      <prosula wit="CAO-L" num="2">
+         <rubric type="general">ALIA PROSULA</rubric> Nefanda et iniqua Hebraea gens Quas tradiderunt <sic resp="Hesbert">Sotyr</sic> Redemptorem O felix alma Virgo genuit haec Qui verbo cuncta creans regnansque semper Velati sunt in corde Hebraea gens Quas perdiderunt legem a Moysen Usque ad finem mundi non habet legem Benignus namque Deus judicat haec Maria prophetissa fortis psallebat Cantemus nunc o viri Domino Deo Columna nubis eos ducet per diem Columna ignis eos ducens per noctem Ad terram repromissam omnes pergebant</prosula>
+      <rep type="p" wit="CAO-L" num="2">Fluentem</rep>
+   </verses>
+</res>

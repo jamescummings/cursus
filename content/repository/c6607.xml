@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6606b" nextid="c6608" id="c6607">
+   <rBody wit="CAO-E CAO-V"> Ecce rex noster veniet et omnes sancti eius cum eo reddere illis mercedem laborum ipsorum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E"> Ecce dominator dominus</vBody>
+      <vBody type="r" wit="CAO-V"> Sanctis qui in terra sunt eius mirificavit omnes voluntates meas inter illos</vBody>
+      <rep type="r" wit="CAO-E CAO-V"> Reddere</rep>
+   </verses>
+</res>

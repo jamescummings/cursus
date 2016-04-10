@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3848" nextid="c3850" id="c3849">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Nativitas est hodie sanctae Mariae virginis</rdg>
+         <rdg wit="CAO-M"> Nativitas hec hodie sanctae Mariae virginis</rdg>
+      </app> cuius vita inclyta
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> cunctas illustrat ecclesias</rdg>
+         <rdg wit="CAO-V CAO-L"> cunctas illustrat ecclesia</rdg>
+      </app>
+   </aBody>
+</ant>

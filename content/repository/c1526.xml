@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1525" nextid="c1527" id="c1526">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> Auditu auris audivi te nunc autem oculus meus videt te
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S"> idcirco ipse me reprehendo</rdg>
+         <rdg wit="CAO-M"> idcirco me reprehendo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> et ago paenitentiam</rdg>
+         <rdg wit="CAO-M"> et agam paenitentiam</rdg>
+         <rdg wit="CAO-S"> et ago paenitentia</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S"> in favilla et cinere</rdg>
+         <rdg wit="CAO-E"> in favilla et cineri</rdg>
+      </app>
+   </aBody>
+</ant>

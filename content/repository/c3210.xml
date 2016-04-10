@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3209" nextid="c3211" id="c3210">
+   <aBody wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-L"> In civitate domini ibi sonant iugiter organa sanctorum</rdg>
+         <rdg wit="CAO-E"> In civitate domini clare sonant iugiter organa sanctorum</rdg>
+         <rdg wit="CAO-V"> In civitate domini clara sona iugiter organa sanctorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-L"> ibi cinnamomum et balsamum</rdg>
+         <rdg wit="CAO-V"> ibi cinnamomi et balsami</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R"> odor suavissimus carmina eorum</rdg>
+         <rdg wit="CAO-L"> odor suavissimus corpora sanctorum</rdg>
+         <rdg wit="CAO-E"> odor suavissimus quod ad deum pertinet</rdg>
+         <rdg wit="CAO-V"> odor suavissimus quod ad te deum pertinet</rdg>
+      </app> ibi angeli et archangeli
+     <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-L"> hymnum deo decantant</rdg>
+         <rdg wit="CAO-E CAO-V"> hymnum novum decantant</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-L"> ante thronum dei alleluia</rdg>
+         <rdg wit="CAO-V"> ante sedem dei alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

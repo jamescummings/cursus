@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7463" nextid="c7465" id="c7464">
+   <rBody wit="CAO-E CAO-M CAO-V CAO-F CAO-S"> Quatuor animalia et viginti quatuor seniores ceciderunt coram agno habentes singuli cytharas et phialas aureas plenas odoramentorum quae sunt orationes sanctorum
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-F CAO-S"> et cantant</rdg>
+         <rdg wit="CAO-V"> et cantabant</rdg>
+      </app> canticum novum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-V CAO-F CAO-S"> Et omnes angeli stabant in circuitu throni
+      <app>
+            <rdg wit="CAO-E CAO-M CAO-V CAO-F CAO-S"> et seniorum et quatuor animalium</rdg>
+            <rdg wit="CAO-V"> et seniores</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-M CAO-F CAO-S"> et ceciderunt in conspectu throni</rdg>
+            <rdg wit="CAO-E CAO-V"> et ceciderunt</rdg>
+         </app> in facies suae
+      <app>
+            <rdg wit="CAO-M CAO-S"> et adoraverunt eum</rdg>
+            <rdg wit="CAO-V CAO-F"> et adoraverunt deum</rdg>
+            <rdg wit="CAO-E"> et adoraverunt viventem in saecula saeculorum</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-E CAO-M">Habentes</rep>
+      <rep type="r" wit="CAO-V CAO-F">Et cantant</rep>
+      <rep type="r" wit="CAO-S">Quae sunt</rep>
+   </verses>
+</res>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7567" nextid="c7569" id="c7568">
+   <rBody wit="CAO-D CAO-F"> Sancta dei genitrix virgo semper Maria</rBody>
+   <rBody wit="CAO-L"> Sancta dei genitrix</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F"> Intercede pro nobis ad dominum deum nostrum</vBody>
+      <vBody type="r" wit="CAO-D"> Intercede pro nobis</vBody>
+   </verses>
+</res>

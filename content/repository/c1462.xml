@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1461" nextid="c1463" id="c1462">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-S"> Apparuit Thomae dominus in visu noctis</rdg>
+         <rdg wit="CAO-C"> Apparuit Thomae dominus in visu nocte</rdg>
+         <rdg wit="CAO-L"> Apparuit Thomae dominus Jesus Christus</rdg>
+      </app> dicens ei ne timeas descendere in Indiam
+     <app>
+         <rdg wit="CAO-E CAO-L"> quia ego te non derelinquo</rdg>
+         <rdg wit="CAO-C CAO-V"> quia ego non te derelinquo</rdg>
+         <rdg wit="CAO-S"> quia ego non te derelinquam</rdg>
+         <rdg wit="CAO-M"> quia ego te non derelinquam</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9501" nextid="c9503" id="c9502">
+   <header>
+      <usage ms="Alb2" code="07061000">[105r] matins-n3-r11</usage>
+      <usage ms="Bat" code="07061000">[63r] matins-n3-r11</usage>
+      <usage ms="Cdm" code="07061000">[75r] matins-n3-r11</usage>
+      <usage ms="Cht" code="07061000">[55r] matins-n3-r11</usage>
+      <usage ms="Ely" code="07061000">[85v] matins-n3-r11</usage>
+      <usage ms="Evm" code="07061000">[143r] matins-n3-r11</usage>
+      <usage ms="Hyd" code="07062000">[92r] matins-r3</usage>
+      <usage ms="Mch" code="07062000">[155v] matins-n1-r3</usage>
+      <usage ms="Pet" code="07061000">[85r] matins-n3-r11</usage>
+      <usage ms="Wcb" code="07061000">[112v] matins-n3-r11</usage>
+      <usage ms="Wor" code="07061000">[56r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="Ely Wor Cht Hyd Evm Wcb Alb2 Pet Cdm Mch Bat"> Cum audisset turba
+     <app>
+         <rdg wit="Ely Wor Cht Hyd Wcb Alb2 Pet Cdm Mch Bat"> quia venit Jesus Hierosolymam</rdg>
+         <rdg wit="Evm"> quia Jesus venit Hierosolymam</rdg>
+      </app> cum ramis palmarum processerunt ei obviam</rBody>
+   <verses>
+      <vBody type="r" wit="Ely Wor Cht Hyd Evm Wcb Alb2 Pet Cdm Mch Bat">
+         <app>
+            <rdg wit="Ely Cht Hyd Pet Mch">Et cum appropinquaret</rdg>
+            <rdg wit="Wor Evm Wcb Alb2 Cdm Bat">Et cum appropinquasset</rdg>
+         </app>
+         <app>
+            <rdg wit="Wor Cht Hyd Evm Wcb Alb2 Pet Cdm Mch Bat"> ad descensum montis oliveti</rdg>
+            <rdg wit="Ely"> ad descensum montis olivarum</rdg>
+         </app> omnes turbae gaudentes et deum voce magna collaudantes</vBody>
+      <rep type="r" wit="Ely Wor Cht Hyd Evm Wcb Alb2 Pet Cdm Mch">Cum ramis</rep>
+   </verses>
+</res>

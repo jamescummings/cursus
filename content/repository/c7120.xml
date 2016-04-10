@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7119" nextid="c7121" id="c7120">
+   <header>
+      <usage ms="Hyd" code="05021000"/>
+   </header>
+   <rBody wit="CAO-F Hyd"> Magnus dominus noster et magna virtus eius in aeternum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F Hyd">Et sapientiae eius non est numerus</vBody>
+      <rep type="r" wit="CAO-F">In aeternum</rep>
+   </verses>
+</res>

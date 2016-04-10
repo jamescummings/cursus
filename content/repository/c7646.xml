@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7645" nextid="c7647" id="c7646">
+   <rBody wit="CAO-C CAO-H CAO-D CAO-F CAO-S"> Sexto namque die portari se
+     <app>
+         <rdg wit="CAO-C CAO-F CAO-S"> in oratorio</rdg>
+         <rdg wit="CAO-H CAO-D"> in oratorium</rdg>
+      </app> a discipulis fecit ibique exitum suum dominicis sacramentis munivit atque inter discipulorum
+     <app>
+         <rdg wit="CAO-H CAO-D CAO-F CAO-S"> manus</rdg>
+         <rdg wit="CAO-C"> manibus</rdg>
+      </app> exspiravit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-H CAO-D CAO-S"> Erectis in caelum manibus
+      <app>
+            <rdg wit="CAO-H CAO-D CAO-S"> stetit</rdg>
+            <rdg wit="CAO-C"> fecit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-H CAO-D"> et ultimum spiritum</rdg>
+            <rdg wit="CAO-S"> ad ultimum spiritum</rdg>
+         </app> inter verba orationis efflavit</vBody>
+      <vBody type="r" wit="CAO-F"> Cumque per singulos dies languor ingravesceret sexto die portari se in oratorio a discipulis fecit</vBody>
+      <rep type="r" wit="CAO-C CAO-H CAO-D CAO-S">Atque</rep>
+      <rep type="r" wit="CAO-F">Ibique</rep>
+   </verses>
+</res>

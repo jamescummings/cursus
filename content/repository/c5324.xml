@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5323" nextid="c5325" id="c5324">
+   <header>
+      <usage ms="Alb2" code="01008000">[5v] terce</usage>
+      <usage ms="Cdm" code="01012000">[10v] terce</usage>
+      <usage ms="Ely" code="01012000">[5v] terce</usage>
+      <usage ms="Evm" code="01012000">[8v] terce</usage>
+      <usage ms="Hyd" code="01012000">[5r] terce</usage>
+      <usage ms="Mch" code="01012000">[5v] terce</usage>
+      <usage ms="Wor" code="01012000">[4r] terce</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-H CAO-R CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor"> Veni et libera nos deus noster</aBody>
+</ant>

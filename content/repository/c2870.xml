@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2869" nextid="c2870b" id="c2870">
+   <aBody wit="CAO-E CAO-V CAO-F">
+      <app>
+         <rdg wit="CAO-V"> Fili a iuventute tua excipe doctrinam</rdg>
+         <rdg wit="CAO-E"> Fili a iuventute tua accipe doctrinam</rdg>
+         <rdg wit="CAO-F"> Fili a iuventute tua excipe doctrina</rdg>
+      </app> et usque ad canos
+     <app>
+         <rdg wit="CAO-E CAO-F"> invenies sapientiam</rdg>
+         <rdg wit="CAO-V"> inveniet sapientiam</rdg>
+      </app>
+   </aBody>
+</ant>

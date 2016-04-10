@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1562" nextid="c1564" id="c1563">
+   <aBody wit="CAO-E CAO-M CAO-V CAO-F CAO-L"> Beata dei genitrix <name reg="Maria virg" type="saint">Maria</name> virgo perpetua templum domini
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-F CAO-L"> sacrarium spiritus sancti</rdg>
+         <rdg wit="CAO-V"> sacrario spiritus sancto</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-F CAO-L"> sola sine exemplo placuisti femina</rdg>
+         <rdg wit="CAO-V"> sola sine exemplo placuisti</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-F CAO-L"> Jesu Christo</rdg>
+         <rdg wit="CAO-M CAO-V"> Christo</rdg>
+      </app> ora pro populo
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-F CAO-L"> interveni pro clero</rdg>
+         <rdg wit="CAO-V"> intervenit pro clero</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-F"> intercede pro devoto femineo sexu</rdg>
+         <rdg wit="CAO-L"> intercede pro omnibus nostris</rdg>
+      </app>
+   </aBody>
+</ant>

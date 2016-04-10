@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4920" nextid="c4922" id="c4921">
+   <header>
+      <usage ms="Mch" code="06018000">[102r] gospel</usage>
+      <usage ms="Cdm" code="06018000">[50v] -a2</usage>
+      <usage ms="Cht" code="06018000">[13r] -a1</usage>
+      <usage ms="Evm" code="06018000">[95r] </usage>
+      <usage ms="Glo" code="06011000">[49v] nones</usage>
+      <usage ms="Hyd" code="06018000">[62v]  gosp</usage>
+      <usage ms="Pet" code="06011000">[57v] vesp2</usage>
+      <usage ms="Wcb" code="06011000">[86v] nones</usage>
+      <usage ms="Wor" code="06018000">[38r] </usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">The two items in Glo have different melodies</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cht Wor Pet Wcb Evm Glo Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cht Wor Pet Evm Cdm Mch"> Sic erunt novissimi primi</rdg>
+         <rdg wit="Wcb Glo"> Erunt novissimi primi</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Cht Wor Pet Wcb Evm Glo Cdm Mch"> et primi novissimi</rdg>
+         <rdg wit="CAO-G"> primi et novissimi</rdg>
+      </app> multi enim sunt vocati
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Cht Wor Pet Evm Cdm Mch">pauci vero electi</rdg>
+         <rdg wit="Hyd Wcb Glo">pauci vero electi dicit dominus</rdg>
+      </app>
+   </aBody>
+   <aBody wit="Glo" num="2"> Sic erunt novissimi primi et primi novissimi multi enim sunt vocati pauci vero electi</aBody>
+</ant>

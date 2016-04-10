@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4908" nextid="c4910" id="c4909">
+   <header>
+      <usage ms="Hyd" code="08083000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-F Hyd"> Si quis introierit per me salvabitur et ingredietur
+     <app>
+         <rdg wit="CAO-F"> et egredietur</rdg>
+         <rdg wit="Hyd"> et regredietur</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F"> et pascua inveniet alleluia</rdg>
+         <rdg wit="Hyd"> et pascua inveniet</rdg>
+      </app>
+   </aBody>
+</ant>

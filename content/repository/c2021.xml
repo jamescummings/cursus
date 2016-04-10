@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2020" nextid="c2022" id="c2021">
+   <aBody wit="CAO-C CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-E CAO-M CAO-V CAO-D CAO-F CAO-S CAO-L"> Cum palma ad regna</rdg>
+         <rdg wit="CAO-C CAO-H CAO-R"> De palma ad regna</rdg>
+      </app> pervenerunt sancti
+     <app>
+         <rdg wit="CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S"> coronas decoris meruerunt</rdg>
+         <rdg wit="CAO-V"> corona decoris meruerunt</rdg>
+         <rdg wit="CAO-C CAO-E"> coronas decores meruerunt</rdg>
+         <rdg wit="CAO-L"> coronas decoras meruerunt</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> de manu dei</rdg>
+         <rdg wit="CAO-E"> de manu domini</rdg>
+      </app>
+   </aBody>
+</ant>

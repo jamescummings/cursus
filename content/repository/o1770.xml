@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1769" nextid="o1771" id="o1770">
+   <header>
+      <usage ms="Cdm" code="02122700">[27v] sext</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Fulda no.83</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Cdm"> Deus qui per os beati apostoli tui Joannis verbi tui arcana reserasti praesta quaesumus ille nostris auribus excellenter infudit intelligentiae competentis eruditione capiamus</pBody>
+</prayer>

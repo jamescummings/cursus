@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7039" nextid="c7041" id="c7040">
+   <header>
+      <usage ms="Alb2" code="02122500">[24r] vesp1</usage>
+      <usage ms="Bat" code="02122500">[14v] vesp1</usage>
+      <usage ms="Cdm" code="02122400">[21r] vesp2</usage>
+      <usage ms="Ely" code="02122500">[17v] vesp1</usage>
+      <usage ms="Evm" code="02122400">[31r] matins-n3-r4</usage>
+      <usage ms="Hyd" code="02122500">[17r] vesp1</usage>
+      <usage ms="Mch" code="02122400">[23v] vesp2</usage>
+      <usage ms="Pet" code="02122500">[14v] vesp1</usage>
+      <usage ms="Wcb" code="02122400">[53r] vesp2</usage>
+      <usage ms="Wor" code="02122400">[13v] vesp2</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet">
+      <app>
+         <rdg wit="CAO-D CAO-S Hyd Alb2 Evm Wcb Cdm Mch Ely Wor Pet"> O Juda et Jerusalem</rdg>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-L Bat"> Judaea et Jerusalem</rdg>
+      </app> nolite timere cras egrediemini et dominus erit vobiscum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet">Constantes estote videbitis auxilium domini super vos</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Mch Ely Wor Pet">Cras</rep>
+      <dox type="r" wit="Evm Mch Pet">Gloria</dox>
+      <rep type="r" num="2" wit="Evm">Et dominus</rep>
+      <rep type="r" num="2" wit="Pet">Cras</rep>
+   </verses>
+</res>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4063" nextid="c4065" id="c4064">
+   <header>
+      <usage ms="Alb2" code="02122600">[33v] lauds gosp</usage>
+      <usage ms="Evm" code="02122600">[42r] vesp2 gosp</usage>
+      <usage ms="Pet" code="02122600">[24r] lauds gosp</usage>
+      <usage ms="Wcb" code="02122600">[60v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-F Alb2 Evm Wcb Pet">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N"> O quam gloriosus est beatus Stephanus</l>
+         <l part="N"> martyr et levita qui ante apostolos</l>
+         <l part="N"> regna caelestia possidere meruit</l>
+         <l part="N"> et ad patris dexteram filium videre</l>
+      </lg>
+   </aBody>
+</ant>

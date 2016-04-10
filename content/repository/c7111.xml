@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7110" nextid="c7111b" id="c7111">
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Lux perpetua lucebit sanctis tuis Domine et aeternitas temporum alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-V CAO-H CAO-R"> Iusti autem in perpetuum vivent et apud dominum est merces eorum</vBody>
+      <vBody type="r" wit="CAO-G CAO-F CAO-L"> Laetitia sempiterna super capita eorum gaudium et laetitiam obtinebunt</vBody>
+      <vBody type="r" wit="CAO-D CAO-S">
+         <app>
+            <rdg wit="CAO-D"> Vox laetitiae et exsultationis</rdg>
+            <rdg wit="CAO-S"> Vox exsultationis et salutis</rdg>
+         </app> in tabernaculis iustorum</vBody>
+      <vBody type="r" num="2" wit="CAO-F"> Vox laetitiae et exsultationis in tabernaculis iustorum</vBody>
+      <vBody type="r" wit="CAO-E"> Lux orta est iusto rectis corde laetitia</vBody>
+      <vBody id="c7111-2" type="r" wit="CAO-C"> Lux orta est iusto et rectis corde laetitia</vBody>
+      <rep corresp="c7111-2" type="r" wit="CAO-C"> Et aeternitas</rep>
+      <vBody type="r" wit="CAO-M"> Iustorum animae in manu Dei sunt et non tanget illos tormentum malitiae</vBody>
+      <vBody id="c7111-1" type="r" num="2" wit="CAO-C"> Iustorum animae</vBody>
+      <rep corresp="c7111-1" type="r" wit="CAO-C">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-C</note>
+      </rep>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">Et aeternitas</rep>
+   </verses>
+</res>

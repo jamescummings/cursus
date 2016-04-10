@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1137" nextid="o1139" id="o1138">
+   <header>
+      <usage ms="Hyd" code="07012000"/>
+      <usage ms="Wcb" code="06034000"/>
+   </header>
+   <pBody wit="Hyd Wcb"> Deus qui iuste irasceris et clementer ignoscis afflicti populi lacrimas respice et iram tuae indignationis quam iuste meremur propiciatus averte</pBody>
+</prayer>

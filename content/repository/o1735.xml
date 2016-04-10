@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1734" nextid="o1736" id="o1735">
+   <header>
+      <usage ms="Hyd" code="01000000">[4v] </usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.000</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Voce nostri quaesumus domine aurem tuae pietatis accomoda et cordis nostri tenebras lumine tuae visitationis illustra</pBody>
+</prayer>

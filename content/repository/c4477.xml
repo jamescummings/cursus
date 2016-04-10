@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4476" nextid="c4478" id="c4477">
+   <header>
+      <usage ms="Alb2" code="07023000"/>
+      <usage ms="Bat" code="07023000">[53r] vesp2 gosp</usage>
+      <usage ms="Cdm" code="07023000">[62v] vesp2</usage>
+      <usage ms="Cht" code="07023000"/>
+      <usage ms="Ely" code="07023000"/>
+      <usage ms="Evm" code="07023000"/>
+      <usage ms="Glo" code="07023000"/>
+      <usage ms="Hyd" code="07023000"/>
+      <usage ms="Pet" code="07023000"/>
+      <usage ms="Wcb" code="07023000"/>
+      <usage ms="Wor" code="07023000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Ely Wor Hyd Cht Pet Evm Wcb Glo Alb2 Cdm Bat"> Qui maior est vestrum erit minister vester quia omnis qui se exaltat humiliabitur dicit dominus</aBody>
+</ant>

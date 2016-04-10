@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1670" nextid="o1672" id="o1671">
+   <header>
+      <usage ms="Alb2" code="03026000">[43v] vesp2</usage>
+      <usage ms="Hyd" code="14123100"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.79</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd Alb2"> Da quaesumus omnipotens deus ut beati Silvestri confessoris tui atque pontificis veneranda sollemnitatis et devotionem nobis augeat et salutem</pBody>
+</prayer>

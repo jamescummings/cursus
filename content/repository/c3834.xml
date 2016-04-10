@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3833" nextid="c3835" id="c3834">
+   <header>
+      <usage ms="Glo" code="06011000"/>
+   </header>
+   <aBody wit="CAO-C CAO-L Glo">
+      <app>
+         <rdg wit="CAO-C"> Multi erunt primi novissimi</rdg>
+         <rdg wit="CAO-L Glo"> Multi enim erunt primi novissimi</rdg>
+      </app> et novissimi primi
+     <app>
+         <rdg wit="CAO-C CAO-L"> dixit Jesus discipulis suis</rdg>
+         <rdg wit="Glo"> dixit dominus discipulis suis</rdg>
+      </app>
+   </aBody>
+</ant>

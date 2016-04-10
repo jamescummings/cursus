@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1602" nextid="o1604" id="o1603">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes"> readings transferred to o1548 [02 December 2003]</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Evm Wcb">
+      <note type="editorial" resp="DC" place="unspecified" anchored="yes">readings transferred to o1548 [02 December 2003]</note>
+   </pBody>
+</prayer>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6516" nextid="c6518" id="c6517">
+   <header>
+      <usage ms="Alb2" code="05021000"/>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Domini est terra et plenitudo eius orbis terrarum et universi
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> qui habitant in eo</rdg>
+         <rdg wit="CAO-M">
+            <note type="editorial" resp="DC" place="unspecified" anchored="yes">lacuna</note>
+         </rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2"> Ipse super maria fundavit
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F Alb2"> eum</rdg>
+            <rdg wit="CAO-S CAO-L"> eam</rdg>
+         </app> et super flumina praeparavit
+       <app>
+            <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Alb2"> eum</rdg>
+            <rdg wit="CAO-L"> illam</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="Hyd"> In manu eius omnes fines terrae et altitudines montium ipsius sunt</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Hyd"> Orbis</rep>
+      <rep type="r" wit="CAO-G"> Et universi</rep>
+   </verses>
+</res>

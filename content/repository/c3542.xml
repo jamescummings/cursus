@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3541" nextid="c3543" id="c3542">
+   <aBody wit="CAO-M CAO-R CAO-D CAO-F CAO-S">
+      <app>
+         <rdg wit="CAO-R CAO-D CAO-F CAO-S"> Iustum deduxit dominus per vias rectas</rdg>
+         <rdg wit="CAO-M"> Iustum deduxit dominus per viam rectam</rdg>
+      </app> et ostendit illi regnum dei
+     <app>
+         <rdg wit="CAO-M CAO-R CAO-D CAO-F"> et dedit illi scientiam sanctorum</rdg>
+         <rdg wit="CAO-S"> et dedit illi scientia sanctorum</rdg>
+      </app> honestavit illum in laboribus et complevit labores illius</aBody>
+</ant>

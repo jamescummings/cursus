@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1629" nextid="o1631" id="o1630">
+   <header>
+      <usage ms="Alb2" code="07067000">[113v] vesp2</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.377</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2">Deus qui hanc sacratissimam noctem gloria dominicae resurrectionis inlustras conserva in novam familiae tuae progeniem adoptionis spiritum quem dedisti ut corpore et mente renovati puram tibi exhibeant servitutem</pBody>
+</prayer>

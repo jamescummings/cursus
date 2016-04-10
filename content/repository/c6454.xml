@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6453" nextid="c6455" id="c6454">
+   <header>
+      <usage ms="Alb2" code="02122700">[34v] matins-n1-r4</usage>
+      <usage ms="Bat" code="02122700">[21v] matins-n2-r6</usage>
+      <usage ms="Cdm" code="02122700">[26v] matins-n2-r6</usage>
+      <usage ms="Evm" code="02122700">[43r] matins-n1-r4</usage>
+      <usage ms="Hyd" code="02122700">[23v] matins-n1-r3</usage>
+      <usage ms="Pet" code="02122700">[26v] matins-n2-r6</usage>
+      <usage ms="Wcb" code="02122700">[61r] matins-n1-r4</usage>
+      <usage ms="Wor" code="02122700">[20r] matins-n2-r6</usage>
+   </header>
+   <rBody wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Diligebat autem eum Jesus</rdg>
+         <rdg wit="CAO-V"> Diligebat autem meum Jesum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-M CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Pet"> quoniam specialis praerogativa castitatis</rdg>
+         <rdg wit="CAO-G CAO-E CAO-S CAO-L Wor"> quoniam specialis praerogativae castitatis</rdg>
+         <rdg wit="CAO-V"> quoniam speciali <sic resp="Hesbert">per rogativam</sic> castitatem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> ampliori dilectione</rdg>
+         <rdg wit="CAO-V"> ampliori dilectionem</rdg>
+         <rdg wit="CAO-M"> ampliori dilectionis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> fecerat dignum</rdg>
+         <rdg wit="CAO-S"> fecerat dignus</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> quia virgo electus</rdg>
+         <rdg wit="CAO-L"> quia virgo est electus</rdg>
+      </app> ab ipso virgo
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> in aevum permansit</rdg>
+         <rdg wit="CAO-S">in eum permansit</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> In cruce denique moriturus
+       <app>
+            <rdg wit="CAO-G CAO-E CAO-V CAO-S Hyd Alb2"> huic matrem suam</rdg>
+            <rdg wit="CAO-M Evm Wcb"> matrem</rdg>
+            <rdg wit="CAO-D CAO-F Bat Cdm Wor Pet"> huic matrem</rdg>
+            <rdg wit="CAO-B"> matrem dominus</rdg>
+            <rdg wit="CAO-H CAO-R"> matrem huic suam</rdg>
+            <rdg wit="CAO-L"> huic matre sua</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> virginem virgini</rdg>
+            <rdg wit="CAO-S"> virgini</rdg>
+            <rdg wit="CAO-G CAO-L CAO-V" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> commendavit</rdg>
+            <rdg wit="CAO-B"> commendabat</rdg>
+            <rdg wit="CAO-S"> commendabit</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Quia</rep>
+      <rep type="r" wit="CAO-B"> Ampliori</rep>
+   </verses>
+</res>

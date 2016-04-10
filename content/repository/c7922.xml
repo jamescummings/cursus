@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7921" nextid="c8001" id="c7922">
+   <rBody wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Zoe uxor Nicostrati dixit beato Sebastiano beatus es tu et benedictus sermo oris tui per Jesum Christum dominum nostrum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L"> Benedicti qui in omnibus</rdg>
+            <rdg wit="CAO-F"> Beati qui in omnibus</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-H CAO-D CAO-F CAO-S CAO-L"> quae locutus es</rdg>
+            <rdg wit="CAO-E CAO-V CAO-R"> quae locutus est</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> credunt</rdg>
+            <rdg wit="CAO-V"> credunt et benedictus sermo oris tui</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">Per</rep>
+      <rep type="r" wit="CAO-S">Sermo</rep>
+   </verses>
+</res>

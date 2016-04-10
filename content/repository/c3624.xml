@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3623" nextid="c3625" id="c3624">
+   <header>
+      <usage ms="Cdm" code="07065000">[77v] matins-n2</usage>
+      <usage ms="Ely" code="07065000">[88v] matins-n2</usage>
+      <usage ms="Evm" code="07065000">[148r] matins-n2</usage>
+      <usage ms="Hyd" code="07065000">[95r] matins-n2</usage>
+      <usage ms="Mch" code="07065000">[158r] matins-n2-a4</usage>
+      <usage ms="Pet" code="07065000">[89r] matins-n2</usage>
+      <usage ms="Wcb" code="07065000">[115r] matins-n2</usage>
+      <usage ms="Wor" code="07065000">[59r] matins-n2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Cdm Mch">
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Cdm Mch"> Liberavit dominus pauperem</rdg>
+         <rdg wit="CAO-F"> Liberabit dominus pauperem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F Ely Wor Hyd Pet Evm Wcb Cdm Mch">a potente</rdg>
+         <rdg wit="CAO-V">ad potentem</rdg>
+         <rdg wit="CAO-S CAO-L">a potentem</rdg>
+      </app> et inopem cui non erat adiutor</aBody>
+</ant>

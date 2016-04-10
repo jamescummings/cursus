@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7659" nextid="c7661" id="c7660">
+   <header>
+      <usage ms="Alb2" code="01021000">[8r] matins-n2-r6</usage>
+      <usage ms="Bat" code="01021000">[6v] matins-n2-r7</usage>
+      <usage ms="Cdm" code="01021000">[12v] matins-n2-r7</usage>
+      <usage ms="Ely" code="01021000">[7v] matins-n2-r7</usage>
+      <usage ms="Evm" code="01021000">[13v] matins-n2-r6</usage>
+      <usage ms="Hyd" code="01021000">[7v] matins-n2-r7</usage>
+      <usage ms="Mch" code="01021000">[7r] matins-n2-r5</usage>
+      <usage ms="Wcb" code="01021000">[44v] matins-n2-r6</usage>
+      <usage ms="Wor" code="01021000">[5r] matins-n2-r7</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> Sicut mater
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> consolatur</rdg>
+         <rdg wit="CAO-V"> consolator</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> filios suos</rdg>
+         <rdg wit="CAO-V"> filio suo</rdg>
+      </app> ita consolabor vos dicit dominus et de Jerusalem
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-H CAO-R CAO-D CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Wcb Bat"> civitate quam elegi</rdg>
+         <rdg wit="CAO-C CAO-M CAO-V CAO-F"> civitatem quam elegi</rdg>
+      </app> veniet vobis auxilium et videbitis et gaudebit cor vestrum</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Cdm Bat"> Deus a Libano veniet et sanctus de monte umbroso et condenso</vBody>
+      <vBody type="r" wit="CAO-G CAO-D CAO-F CAO-S Hyd Alb2 Evm Mch Ely Wor Wcb"> Dabo in Sion salutem et in Jerusalem gloriam meam</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-V CAO-R Mch Bat">Veniet</rep>
+      <rep type="r" wit="CAO-G CAO-H CAO-D CAO-F CAO-S Hyd Alb2 Evm Ely Wor Wcb">Et videbitis</rep>
+   </verses>
+</res>

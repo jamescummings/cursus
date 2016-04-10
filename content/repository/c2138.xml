@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2137" nextid="c2139" id="c2138">
+   <header>
+      <usage ms="Hyd" code="05031000"/>
+      <usage ms="Pet" code="05031000"/>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Pet"> Deficiente vino
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Pet"> iussit Jesus implere hydrias aqua</rdg>
+         <rdg wit="CAO-E"> iussit Jesus impleri hydrias aqua</rdg>
+         <rdg wit="CAO-S"> iussit impleri Jesus hydrias aqua</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F"> quae in vinum conversae sunt alleluia</rdg>
+         <rdg wit="CAO-C CAO-M CAO-S"> quae in vino conversae sunt alleluia</rdg>
+         <rdg wit="CAO-G CAO-D Hyd Pet"> quae in vinum conversa est alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

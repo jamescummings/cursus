@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2678" nextid="c2680" id="c2679">
+   <aBody wit="CAO-C CAO-E CAO-D CAO-S">
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-S"> Est deus in caelis</rdg>
+         <rdg wit="CAO-E"> Est deus in caelo</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-E CAO-S"> cui nos servimus</rdg>
+         <rdg wit="CAO-D"> tui nos servimus</rdg>
+         <rdg wit="CAO-C"> cuius nos servimus</rdg>
+      </app> potens est eripere nos de camino ignis et de manibus tuis o rex
+     <app>
+         <rdg wit="CAO-S"> liberare nos</rdg>
+         <rdg wit="CAO-C"> libera nos</rdg>
+         <rdg wit="CAO-E CAO-D"> liberare</rdg>
+      </app>
+   </aBody>
+</ant>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2157" nextid="c2159" id="c2158">
+   <aBody wit="CAO-C CAO-M CAO-R CAO-S"> Descendit hic iustificatus in domum suam ab illo
+     <app>
+         <rdg wit="CAO-R CAO-S"> quia omnis qui se exaltat humiliabitur et qui se humiliat exaltabitur</rdg>
+         <rdg wit="CAO-C"> quia omnis qui se  humiliat exaltabitur</rdg>
+         <rdg wit="CAO-M"> quia omnis qui se exaltat humiliabitur dicit dominus</rdg>
+      </app>
+   </aBody>
+</ant>

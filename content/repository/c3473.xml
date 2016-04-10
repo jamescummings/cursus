@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3472" nextid="c3474" id="c3473">
+   <aBody wit="CAO-E CAO-M CAO-D CAO-F"> Iam tibi fili carissime
+     <app>
+         <rdg wit="CAO-E CAO-M CAO-F"> divini verbi curam commiseram</rdg>
+         <rdg wit="CAO-D"> divini verbi curam cum miseram</rdg>
+      </app> nunc quoque pro fide
+     <app>
+         <rdg wit="CAO-E CAO-D CAO-F"> qua astamus</rdg>
+         <rdg wit="CAO-M"> qua stamus</rdg>
+      </app> responsa committo</aBody>
+</ant>

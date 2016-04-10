@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7063" nextid="c7065" id="c7064">
+   <rBody wit="CAO-H CAO-R CAO-D CAO-F"> Laetabitur iustus in domino et sperabit in eo et laudabuntur omnes recti corde alleluia alleluia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Laetamini in domino et exsultate iusti et gloriamini</vBody>
+      <vBody type="r" wit="CAO-H"> Annuntiaverunt opera dei et facta eius intellexerunt</vBody>
+      <vBody type="r" wit="CAO-R"> Iustum deduxit dominus per vias rectas et ostendit illi regnum Dei</vBody>
+      <rep type="r" wit="CAO-D CAO-F">Omnes</rep>
+      <rep type="r" wit="CAO-H CAO-R">Alleluia</rep>
+   </verses>
+</res>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4078" nextid="c4080" id="c4079">
+   <header>
+      <usage ms="Hyd" code="08065000">vesp2</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> O rex gloriae domine virtutum qui triumphator hodie super omnes caelos ascendisti ne derelinquas nos orphanos
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd"> sed mitte promissum patris in nos</rdg>
+         <rdg wit="CAO-V"> sed mitte promissum patris in vos</rdg>
+      </app> spiritum veritatis alleluia </aBody>
+</ant>

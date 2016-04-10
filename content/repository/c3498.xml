@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3497" nextid="c3499" id="c3498">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-L"> Joannes est nomen eius
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-L"> vinum et siceram non bibet</rdg>
+         <rdg wit="CAO-C"> vinum et sicera non bibit</rdg>
+         <rdg wit="CAO-V"> vinum et sicera non bibet</rdg>
+      </app> et multi in nativitate eius gaudebunt</aBody>
+</ant>

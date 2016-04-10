@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3533" nextid="c3535" id="c3534">
+   <aBody wit="CAO-C CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L"> Iusti autem in perpetuum vivent</rdg>
+         <rdg wit="CAO-C CAO-E CAO-H"> Iusti autem in perpetuo vivent</rdg>
+      </app> et apud dominum est merces eorum</aBody>
+   <aBody wit="CAO-R" num="2"> Iustus autem in perpetuum vivet et apud dominum est merces eius</aBody>
+</ant>

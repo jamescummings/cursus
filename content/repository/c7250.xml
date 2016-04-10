@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7249" nextid="c7251" id="c7250">
+   <rBody wit="CAO-L">
+      <verse type="stanza">
+         <l part="N">Nuntia quae domini redivivi vera fecisti</l>
+         <l part="N">Annue laetitiae spem nobis Magdala sanctae</l>
+         <l part="N">Quam desperato tribuisti iam prope Petro</l>
+      </verse>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <verse type="stanza">
+            <l part="N">Certa fides mentis sit cunctis de nece Christi</l>
+         </verse>
+      </vBody>
+      <rep type="r" wit="CAO-L">Quam desperato</rep>
+   </verses>
+</res>

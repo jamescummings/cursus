@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1775" nextid="c1777" id="c1776">
+   <header>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Is third strophe of hymn 'A solis ortus cardine'</note>
+         <note place="unspecified" anchored="yes">See Le Roux 1961, p.158</note>
+      </notesStmt>
+   </header>
+   <aBody wit="CAO-E CAO-R CAO-L">
+      <lg type="CDATA" org="uniform" sample="complete" part="N">
+         <l part="N">
+            <app>
+               <rdg wit="CAO-E">Casta parentis viscera</rdg>
+               <rdg wit="CAO-R CAO-L">Clausa parentis viscera</rdg>
+            </app>
+         </l>
+         <l part="N">caelestis intrat gratia</l>
+         <l part="N">venter puellae baiulat</l>
+         <l part="N">secreta quae non noverat</l>
+      </lg>
+   </aBody>
+</ant>

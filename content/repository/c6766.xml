@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6765" nextid="c6767" id="c6766">
+   <rBody wit="CAO-B CAO-H CAO-R CAO-D CAO-F CAO-L"> Gaudete iusti in domino alleluia rectos decet collaudatio
+      <app>
+         <rdg wit="CAO-H CAO-D CAO-F CAO-L"> alleluia</rdg>
+         <rdg wit="CAO-B CAO-R"> alleluia alleluia</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-D CAO-F"> Cantate ei canticum novum bene psallite ei in vociferatione</vBody>
+      <vBody type="r" wit="CAO-H CAO-L"> Confitemini domino in cithara in psalterio decem chordarum psallite ei</vBody>
+      <vBody type="r" wit="CAO-L"> In memoria aeterna erunt iusti ab auditione mala non timebunt</vBody>
+      <rep type="r" wit="CAO-B CAO-H CAO-R CAO-D CAO-F"> Rectos</rep>
+      <rep type="r" wit="CAO-L"> Alleluia</rep>
+      <dox type="r" wit="CAO-R"> Gloria</dox>
+      <rep type="r" num="2" wit="CAO-R"> Alleluia</rep>
+   </verses>
+</res>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4595" nextid="c4597" id="c4596">
+   <header>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-L Hyd">
+      <app>
+         <rdg wit="CAO-L"> Regi autem saeculorum</rdg>
+         <rdg wit="Hyd"> Regi saeculorum</rdg>
+      </app> immortali invisibili soli deo honor et gloria in saecula saeculorum
+     <app>
+         <rdg wit="CAO-L"> amen alleluia</rdg>
+         <rdg wit="Hyd"> amen</rdg>
+      </app>
+   </aBody>
+</ant>

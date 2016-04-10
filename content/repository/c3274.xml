@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3273" nextid="c3275" id="c3274">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-L">
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F"> In prole mater</rdg>
+         <rdg wit="CAO-C CAO-H CAO-L"> In flore mater</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-R CAO-D CAO-F CAO-L"> in partu virgo</rdg>
+         <rdg wit="CAO-C CAO-V"> in partum virgo</rdg>
+         <rdg wit="CAO-H"> in partu<del status="unremarkable">m</del> virgo</rdg>
+      </app> gaude et laetare Virgo Mater domini</aBody>
+</ant>

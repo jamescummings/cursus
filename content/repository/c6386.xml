@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6385" nextid="c6387" id="c6386">
+   <rBody wit="CAO-L">
+      <l part="N">Custos artificum sic est delapsus ab alto</l>
+      <l part="N">Illius ut vitae nulli spes ulla maneret</l>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L">
+         <l part="N">Liberat hunc Mauri virtus <corr sic="praesentia" resp="Hesbert">pretiosa<note type="editorial" resp="DC" place="unspecified" anchored="yes">Hesbert notes that 'praesentia' spoils the hexameter, and takes 'pretiosa' from the breviary-missal Benevento V 19-20</note>
+            </corr> beati</l>
+         <l part="N">Quem male praecipitem quassavit tanta ruina</l>
+      </vBody>
+      <rep type="r" wit="CAO-L"> Illius</rep>
+   </verses>
+</res>

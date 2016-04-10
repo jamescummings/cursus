@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9535" nextid="c9537" id="c9536">
+   <header>
+      <usage ms="Pet" code="02122500">[19r] vesp2</usage>
+      <usage ms="Wcb" code="02122500">[57v] vesp2</usage>
+   </header>
+   <rBody wit="Wcb Pet"> In principio deus erat verbum</rBody>
+   <verses>
+      <vBody type="r" wit="Wcb Pet"> Et verbum erat apud deum</vBody>
+   </verses>
+</res>

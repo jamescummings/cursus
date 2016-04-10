@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4656" nextid="c4657b" id="c4657">
+   <header>
+      <usage ms="Alb2" code="02122400">[23r] terce</usage>
+      <usage ms="Cdm" code="02122400">[21r] terce</usage>
+      <usage ms="Ely" code="02122400">[17r] lauds-a5</usage>
+      <usage ms="Evm" code="02122400">[32r] nones</usage>
+      <usage ms="Hyd" code="02122400">[16v] matins-n2-a5</usage>
+      <usage ms="Pet" code="02122400">[14r] lauds-a5</usage>
+      <usage ms="Wor" code="02122400">[13r] sext</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Pet"> Rex pacificus magnificatus est
+     <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Cdm Ely Wor Pet"> cuius vultum desiderat universa terra</rdg>
+         <rdg wit="CAO-C"> cuius vultu desiderat universa terra</rdg>
+      </app>
+   </aBody>
+</ant>

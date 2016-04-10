@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1286b" nextid="c1287b" id="c1287">
+   <aBody wit="CAO-C CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S"> Adoramus te Christe et benedicimus tibi quia per crucem tuam
+     <app>
+         <rdg wit="CAO-C CAO-V CAO-H CAO-D CAO-F CAO-S"> redemisti mundum</rdg>
+         <rdg wit="CAO-R"> redemisti mundum alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

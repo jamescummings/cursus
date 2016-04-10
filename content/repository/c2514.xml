@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2513" nextid="c2515" id="c2514">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> Ecce factus est sacer ille Agaunensium locus per suffragia sanctorum salus praesentium
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F"> praesidium futurorum</rdg>
+         <rdg wit="CAO-E"> subsidium futurorum</rdg>
+      </app>
+   </aBody>
+</ant>

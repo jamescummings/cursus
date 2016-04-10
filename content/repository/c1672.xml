@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1671" nextid="c1673" id="c1672">
+   <aBody wit="CAO-E CAO-D"> Beatus <name reg="Vincentius" type="saint">Vincentius</name> martyr
+     <app>
+         <rdg wit="CAO-E"> a domino transmisit in spiritu</rdg>
+         <rdg wit="CAO-D"> a domino transmisit spiritum</rdg>
+      </app> a divinis canticis circumdatus laudes resonant caelitus hodie in gloria
+     <app>
+         <rdg wit="CAO-E"> cum angelis susceptus est</rdg>
+         <rdg wit="CAO-D"> cum angelis triumphat</rdg>
+      </app>
+   </aBody>
+</ant>

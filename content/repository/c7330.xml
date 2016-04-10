@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7329" nextid="c7331" id="c7330">
+   <rBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> Orante sancto Clemente apparuit ei
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-R CAO-D CAO-F CAO-S CAO-L"> agnus dei</rdg>
+         <rdg wit="CAO-H"> agnus domini</rdg>
+         <rdg wit="CAO-V"> angelus domini</rdg>
+      </app> de sub cuius
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> pede</rdg>
+         <rdg wit="CAO-V"> pedes</rdg>
+      </app> fons vivus
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S"> emanat</rdg>
+         <rdg wit="CAO-H CAO-L"> emanabat</rdg>
+      </app> fluminis impetus laetificat civitatem Dei</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R"> Vidi supra montem agnum stantem de sub cuius pede fons vivus
+      <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-R"> emanat</rdg>
+            <rdg wit="CAO-H"> emanabat</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-F CAO-S CAO-L"> Cumque
+      <app>
+            <rdg wit="CAO-F CAO-L"> orationem</rdg>
+            <rdg wit="CAO-S"> oratione</rdg>
+         </app> complesset
+      <app>
+            <rdg wit="CAO-S CAO-L"> et hic inde</rdg>
+            <rdg wit="CAO-F"> et hinc inde</rdg>
+         </app> circumspiceret vidit
+      <app>
+            <rdg wit="CAO-F"> super montem</rdg>
+            <rdg wit="CAO-S CAO-L" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app> agnum stantem</vBody>
+      <vBody type="r" wit="CAO-C CAO-V CAO-D">
+         <app>
+            <rdg wit="CAO-C CAO-V"> Vidi supra montem Sion</rdg>
+            <rdg wit="CAO-D"> Vidit supra montem Sion</rdg>
+         </app> agnum stantem</vBody>
+      <rep type="r" wit="CAO-B CAO-E CAO-M CAO-H CAO-R">Fluminis</rep>
+      <rep type="r" wit="CAO-C CAO-V CAO-D CAO-F CAO-S CAO-L">De</rep>
+   </verses>
+</res>

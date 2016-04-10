@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c9532" nextid="c9534" id="c9533">
+   <header>
+      <usage ms="Evm" code="02122800">[48r] matins-n2-r8</usage>
+      <usage ms="Wcb" code="02122800">[64r] matins-n2-r8</usage>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">for rBody cf. respond c6617 (and verse of c6273) and antiphon c2555: vBody in Evm etc = verse of c7022</note>
+      </notesStmt>
+   </header>
+   <rBody wit="Evm Wcb"> Vidi supra montem Sion agnum stantem et cum eo centum quadraginta quatuor millia habentes nomen eius et nomen patris eius scriptum in frontibus suis</rBody>
+   <verses>
+      <vBody type="r" wit="Evm Wcb"> Hii sunt qui cum mulieribus non sunt coinquinati virgines enim sunt</vBody>
+      <rep type="r" wit="Evm Wcb"> Habentes</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+   </verses>
+</res>

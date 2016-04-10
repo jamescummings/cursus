@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6617" nextid="c6619" id="c6618">
+   <header>
+      <usage ms="Alb2" code="07065000">[108r] matins-n1-r3</usage>
+      <usage ms="Cdm" code="07065000">[77v] matins-n1-r3</usage>
+      <usage ms="Ely" code="07065000">[88v] matins-n1-r3</usage>
+      <usage ms="Evm" code="07067000">[154r] matins-n2-r6</usage>
+      <usage ms="Hyd" code="07067000">[97v] matins-n2-r4</usage>
+      <usage ms="Mch" code="07065000">[158r] matins-n1-r3</usage>
+      <usage ms="Pet" code="07065000">[88v] matins-n1-r3</usage>
+      <usage ms="Wcb" code="07067000">[118r] matins-n2-r6</usage>
+      <usage ms="Wor" code="07065000">[59r] matins-n1-r3</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> Ecce vidimus eum non habentem speciem neque decorem aspectus eius in eo non est
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> hic peccata nostra portavit</rdg>
+         <rdg wit="CAO-M CAO-H CAO-R"> hic peccata nostra portabit</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> et pro nobis dolens</rdg>
+         <rdg wit="CAO-C CAO-H"> et pro nobis dolet</rdg>
+      </app> ipse autem vulneratus est propter iniquitates nostras cuius livore sanati sumus</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch">Vere languores nostros
+      <app>
+            <rdg wit="CAO-C CAO-G CAO-D CAO-F CAO-S CAO-L Hyd Evm Wcb Alb2"> ipse tulit</rdg>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R Ely Wor Pet Cdm Mch"> ipse abstulit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-M CAO-V CAO-H CAO-R CAO-D Wor Hyd Pet Cdm"> et infirmitates nostras</rdg>
+            <rdg wit="Alb2"> et iniquitates nostras</rdg>
+            <rdg wit="CAO-E CAO-F CAO-S CAO-L Ely Evm Wcb"> et dolores nostros</rdg>
+            <rdg wit="CAO-B Mch"> et peccata nostra</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-V CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2 Cdm Mch"> ipse portavit</rdg>
+            <rdg wit="CAO-M CAO-H"> ipse portabit</rdg>
+         </app>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Hyd Pet Evm Wcb Alb2"> Cuius</rep>
+      <rep type="r" wit="CAO-G"> Hic</rep>
+      <rep type="r" wit="CAO-E"> Ipse</rep>
+      <rep type="r" num="2" wit="Ely Wor Evm Wcb Cdm"> Ecce</rep>
+   </verses>
+</res>

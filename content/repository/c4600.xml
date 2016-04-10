@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4599" nextid="c4601" id="c4600">
+   <header>
+      <usage ms="Glo" code="14022400"/>
+      <usage ms="Hyd" code="01011000">[1r] vesp1-a1</usage>
+      <usage ms="Hyd" code="05021000"/>
+      <usage ms="Pet" code="05027000"/>
+   </header>
+   <aBody wit="CAO-H CAO-L Hyd Pet"> Regnum tuum domine regnum omnium saeculorum</aBody>
+   <aBody wit="Glo" type="incipit">Regnum tuum</aBody>
+</ant>

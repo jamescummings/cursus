@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4852" nextid="c4854" id="c4853">
+   <header>
+      <usage ms="Hyd" code="01011000">[4r] vesp2-a1</usage>
+      <usage ms="Hyd" code="05001000"/>
+   </header>
+   <aBody wit="CAO-B CAO-H CAO-S CAO-L Hyd"> Sede a dextris meis dixit dominus domino meo</aBody>
+</ant>

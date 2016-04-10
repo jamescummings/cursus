@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1614" nextid="o1616" id="o1615">
+   <header>
+      <usage ms="Wcb" code="07012000"/>
+      <notesStmt>
+         <note place="unspecified" anchored="yes">Deshusses no.859</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Wcb">Praesta quaesumus omnipotens deus ut qui iram tuae indignationis agnovimus misericordiae tuae indulgentiam consequamur</pBody>
+</prayer>

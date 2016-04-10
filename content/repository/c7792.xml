@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7791" nextid="c7793" id="c7792">
+   <rBody wit="CAO-E CAO-M CAO-F"> Tu vir Symphoriane
+     <app>
+         <rdg wit="CAO-M CAO-F"> mentem</rdg>
+         <rdg wit="CAO-E"> mente</rdg>
+      </app> et oculos tuos ad astra suspende in tormenta fortis inventus in infantia
+     <app>
+         <rdg wit="CAO-E CAO-M"> meruit</rdg>
+         <rdg wit="CAO-F"> meruisti</rdg>
+      </app> coronam de manu domini</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-M CAO-F">
+         <app>
+            <rdg wit="CAO-F"> Symphorianus trahitur ad coronam martyrii</rdg>
+            <rdg wit="CAO-M"> Symphorianus traditus ad coronam martyrii</rdg>
+            <rdg wit="CAO-E"> Symphorianus traditur ad coronam martyrii</rdg>
+         </app> beata mater sua votum vovit deo</vBody>
+      <rep type="r" wit="CAO-E CAO-F">In tormenta</rep>
+      <rep type="r" wit="CAO-M">Meruit</rep>
+   </verses>
+</res>

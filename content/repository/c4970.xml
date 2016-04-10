@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c4969" nextid="c4971" id="c4970">
+   <header>
+      <usage ms="Alb2" code="01024000">[11r] vesp2 gosp</usage>
+      <usage ms="Bat" code="01024000">[7v] vesp2 gosp</usage>
+      <usage ms="Cdm" code="01024000">[13v] vesp2 gosp</usage>
+      <usage ms="Ely" code="01023000">[8v] vesp2 gosp</usage>
+      <usage ms="Evm" code="01024000">[15v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01024000">[13r] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01044000">[15r] lauds gosp</usage>
+      <usage ms="Mch" code="01024000">[9v] vesp2 gosp</usage>
+      <usage ms="Wcb" code="01024000">[45v] vesp2 gosp</usage>
+      <usage ms="Wor" code="01024000">[6v] vesp2 gosp</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Alb2 Evm Mch Cdm Ely Wor Wcb Glo Bat"> Sion renovaberis et videbis iustum tuum qui venturus est in te</aBody>
+   <aBody wit="Hyd"> Sion renovaberis</aBody>
+</ant>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1921" nextid="c1923" id="c1922">
+   <header>
+      <usage ms="Glo" code="07011000">[58v] vesp1</usage>
+   </header>
+   <aBody wit="CAO-E Glo"> Convertimini ad dominum deum vestrum quia benignus et misericors est praestabilis
+     <app>
+         <rdg wit="CAO-E"> super malitiam</rdg>
+         <rdg wit="Glo"> super malitia</rdg>
+      </app>
+   </aBody>
+</ant>

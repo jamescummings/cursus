@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7374" nextid="c7376" id="c7375">
+   <header>
+      <usage ms="Alb2" code="06021000">[68v] matins-n3-r11</usage>
+      <usage ms="Bat" code="06021000">[44r] matins-n3-r10</usage>
+      <usage ms="Cdm" code="06021000">[52r] matins-n3-r11</usage>
+      <usage ms="Cht" code="06021000">[14r] matins-n3-r3</usage>
+      <usage ms="Ely" code="06021000">[62r] matins-n3-r10</usage>
+      <usage ms="Evm" code="06021000">[97r] matins-n3-r10</usage>
+      <usage ms="Hyd" code="06021000">[64r] matins-n3-r10</usage>
+      <usage ms="Mch" code="06021000">[104v] matins-n3-r10</usage>
+      <usage ms="Pet" code="06021000">[59r] matins-n3-r11</usage>
+      <usage ms="Wor" code="06021000">[39r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat Mch"> Per memetipsum iuravi dicit dominus
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat Mch"> non adiciam ultra aquas diluvii super terram</rdg>
+         <rdg wit="CAO-V"> non adiciam ultram aquis diluvii super terram</rdg>
+      </app> pacti mei recordabor
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat Mch"> ut non perdam aquis diluvii omnem carnem</rdg>
+         <rdg wit="CAO-L"> ut non perdam aquas diluvii omnem carnem</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Cht Wor Pet Ely Cdm Bat Mch"> Ponam arcum meum in nubibus caeli et iurabo per dexteram meam</vBody>
+      <vBody type="r" wit="CAO-V CAO-L Alb2 Evm">
+         <app>
+            <rdg wit="CAO-V CAO-L Evm"> Arcum meum ponam in nubibus caeli</rdg>
+            <rdg wit="Alb2"> Ponam arcum meum in nubibus caeli</rdg>
+         </app> et erit signum foederis inter me et inter terram</vBody>
+      <rep type="r" wit="CAO-G CAO-B CAO-E CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Evm Cdm Bat Mch"> Ut non</rep>
+      <rep type="r" wit="CAO-H CAO-L">Pacti</rep>
+   </verses>
+</res>

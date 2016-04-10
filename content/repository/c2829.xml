@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2828" nextid="c2830" id="c2829">
+   <header>
+      <usage ms="Alb2" code="07031000">[90r] lauds</usage>
+      <usage ms="Bat" code="07031000">[54v] lauds-a1</usage>
+      <usage ms="Cdm" code="07031000">[65r] lauds-a1</usage>
+      <usage ms="Cht" code="07031000">[36v] lauds</usage>
+      <usage ms="Ely" code="07031000">[75v] lauds</usage>
+      <usage ms="Evm" code="07031000">[123r] lauds</usage>
+      <usage ms="Hyd" code="07031000">[79r] lauds-a1</usage>
+      <usage ms="Mch" code="07031000">[132r] lauds-a1</usage>
+      <usage ms="Pet" code="07031000">[73r] lauds</usage>
+      <usage ms="Wcb" code="07031000"/>
+      <usage ms="Wor" code="07031000">[49r] lauds</usage>
+   </header>
+   <aBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Ely Wor Cht Hyd Pet Evm Wcb Alb2 Cdm Mch Bat"> Fac benigne in bona voluntate tua
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-E CAO-H CAO-L Ely Wor Cht Pet Wcb Alb2 Mch"> ut aedificentur domine muri Jerusalem</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-R CAO-D CAO-F CAO-S Hyd"> ut aedificentur domino muri Jerusalem</rdg>
+         <rdg wit="Evm Cdm"> et aedificentur muri Jerusalem</rdg>
+         <rdg wit="Bat"> ut aedificentur muri Jerusalem</rdg>
+      </app>
+   </aBody>
+</ant>

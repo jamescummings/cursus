@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c2894" nextid="c2896" id="c2895">
+   <aBody wit="CAO-C CAO-D CAO-F CAO-L"> Frater Maure curre velociter quia puer Placidus
+     <app>
+         <rdg wit="CAO-L"> in amnem mergitur</rdg>
+         <rdg wit="CAO-D"> in agnem demergitur</rdg>
+         <rdg wit="CAO-F"> in amnem demergitur</rdg>
+         <rdg wit="CAO-C"> in amne flumen mergitur</rdg>
+      </app>
+   </aBody>
+</ant>

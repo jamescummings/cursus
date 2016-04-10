@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1161" nextid="c1163" id="c1162">
+   <aBody wit="CAO-H CAO-R">
+      <verse type="stanza">
+         <l part="N">Stellam Christum matutinam</l>
+         <l part="N">Cum <name reg="Maria Magdalena" type="saint">Maria</name> praestolantes</l>
+         <l part="N">Ne sola stet foris plorans</l>
+         <l part="N">Nos cum ea vigilemus</l>
+         <l part="N">Ut per noctem quem in somnis</l>
+         <l part="N">Quaeritando dilexerat</l>
+         <l part="N">Hunc inventum simul una</l>
+         <l part="N">Procidentes adoremus</l>
+      </verse>
+   </aBody>
+</ant>

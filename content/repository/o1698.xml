@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1697" nextid="o1699" id="o1698">
+   <header>
+      <usage ms="Hyd" code="08083000">lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes"> Deshusses no.535</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Hyd"> Adsit nobis domine quaesumus virtus spiritus sancti quae et corda nostra clementer expurget et ab omnibus tueatur adversis</pBody>
+</prayer>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8511" nextid="c8513" id="c8512">
+   <header>
+      <usage ms="Alb2" code="07041000">[95r] sext</usage>
+      <usage ms="Wor" code="07041000"/>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">cf. c1217</note>
+      </notesStmt>
+   </header>
+   <aBody wit="Wor Alb2"> Accepit ergo Jesus panes benedixit dedit discipulis suis et porrigebat illis</aBody>
+</ant>

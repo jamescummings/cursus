@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6562" nextid="c6564" id="c6563">
+   <header>
+      <usage ms="Alb2" code="06031000">[70r] matins-n2-r5</usage>
+      <usage ms="Bat" code="06031000">[45r] matins-n2-r5</usage>
+      <usage ms="Cdm" code="06031000">[53v] matins-n2-r5</usage>
+      <usage ms="Cht" code="06031000">[16r] matins-n1-r2</usage>
+      <usage ms="Ely" code="06031000">[63r] matins-n2-r5</usage>
+      <usage ms="Evm" code="06031000">[99v] matins-n2-r5</usage>
+      <usage ms="Glo" code="06031000">[57r] vesp1</usage>
+      <usage ms="Hyd" code="06031000">[65v] matins-n2-r5</usage>
+      <usage ms="Mch" code="06031000">[107r] matins-n2-r5</usage>
+      <usage ms="Pet" code="06031000">[61r] matins-n2-r5</usage>
+      <usage ms="Wcb" code="06031000">[89v] matins-n2-r5</usage>
+      <usage ms="Wor" code="06031000">[40v] matins-n2-r5</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Wcb Glo Cdm Mch Bat"> Dum staret Abraham
+     <app>
+         <rdg wit="CAO-C CAO-B CAO-M CAO-V CAO-H CAO-R CAO-S Alb2 Wor Pet Ely Evm Cdm Mch Bat"> ad radicem</rdg>
+         <rdg wit="CAO-F CAO-L Hyd Cht Wcb Glo"> ad ilicem</rdg>
+         <rdg wit="CAO-G"> ad radices</rdg>
+         <rdg wit="CAO-D"> ad illicem</rdg>
+         <rdg wit="CAO-E"> ad ylicem</rdg>
+      </app> Mambre
+     <app>
+         <rdg wit="CAO-C CAO-G CAO-B CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S Hyd Alb2 Cht Wor Pet Ely Evm Wcb Glo Cdm Mch Bat"> vidit tres pueros</rdg>
+         <rdg wit="CAO-E CAO-L"> vidit tres viros</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-G CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Wcb Glo Cdm Mch Bat"> descendentes per viam</rdg>
+         <rdg wit="CAO-C"> descendens per viam</rdg>
+         <rdg wit="CAO-M"> ascendentes per viam</rdg>
+      </app> tres vidit et unum adoravit</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-C CAO-B CAO-M CAO-H CAO-R CAO-S"> Dixit dominus ad Abraham</rdg>
+            <rdg wit="CAO-F"> Dixitque dominus ad Abraham</rdg>
+         </app> ecce Sara uxor tua pariet tibi filium et vocabis nomen eius Isaac</vBody>
+      <vBody type="r" wit="CAO-E"> Apparuerunt illi tres viri stantes <corr sic="propter" resp="Hesbert">prope</corr> eum quos cum vidisset surrexit in occursum illorum</vBody>
+      <vBody type="r" wit="CAO-L"> Cumque sedisset Abraham in foribus domus suae vidit tres viros venientes ad se</vBody>
+      <vBody type="r" wit="CAO-G"> Cumque vidisset eos cucurrit in occursum illorum de ostio tabernaculi</vBody>
+      <vBody type="r" wit="CAO-V Mch"> Domine si inveni gratiam in oculis tuis
+    <app>
+            <rdg wit="Mch"> ne transeas servum tuum</rdg>
+            <rdg wit="CAO-V"> ne transeat servo tuo</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-D Hyd Alb2 Cht Ely Evm Wcb Glo Cdm Bat">
+         <app>
+            <rdg wit="CAO-D Hyd Cht Ely Evm Wcb Glo"> Tunc quippe vidit Abraham diem domini</rdg>
+            <rdg wit="Alb2 Cdm Bat"> Tunc inquam Abraham diem domini vidit</rdg>
+         </app>
+         <app>
+            <rdg wit="CAO-D Hyd Cht Ely Evm Wcb Glo"> cum in figura summae trinitatis</rdg>
+            <rdg wit="Alb2 Cdm Bat">quando in figura summae trinitatis</rdg>
+         </app> tres angelos hospitio suscepit</vBody>
+      <vBody type="r" wit="Wor"> Cumque stetisset Abraham in ostio tabernaculi sui in ipso fervore diei vidit tres pueros descendentes</vBody>
+      <vBody type="r" wit="Pet"> Cumque vidisset eos ascendit in occursum illorum adoravit dominum</vBody>
+      <vBody type="r" num="2" wit="CAO-D"> Dixit dominus ad Abraham ecce Sara uxor tua pariet tibi filium et vocabis nomen eius Isaac<note type="editorial" resp="DC" place="unspecified" anchored="yes">Included in CAO-D by later hand</note>
+      </vBody>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Cht Wor Pet Ely Evm Wcb Glo Cdm Mch Bat"> Tres</rep>
+      <dox type="r" wit="Glo">Gloria</dox>
+   </verses>
+</res>

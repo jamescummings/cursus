@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c1385" nextid="c1387" id="c1386">
+   <aBody wit="CAO-B CAO-V CAO-F"> Amice quomodo huc intrasti
+     <app>
+         <rdg wit="CAO-B CAO-F"> non habens vestem nuptialem</rdg>
+         <rdg wit="CAO-V"> non habes vestem nuptialem</rdg>
+      </app> at ille obmutuit rex autem dixit ligatis manibus et pedibus
+     <app>
+         <rdg wit="CAO-F"> mittite in caminum ignis</rdg>
+         <rdg wit="CAO-V"> et mittite in caminum ignis</rdg>
+         <rdg wit="CAO-B"> mittite <add rend="without neumes" place="margin">in caminum ignis</add>
+         </rdg>
+      </app>
+   </aBody>
+</ant>

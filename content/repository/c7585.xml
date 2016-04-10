@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7584" nextid="c7586" id="c7585">
+   <rBody wit="CAO-C CAO-E CAO-H CAO-D CAO-L"> Sancti dei dedit vobis Dominus locum istum ut faciatis in eo mirabilia</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-E CAO-L"> Sancti et iusti in domino gaudete vos elegit
+      <app>
+            <rdg wit="CAO-C CAO-E CAO-L"> dominus in loco isto</rdg>
+            <rdg wit="CAO-E"> deus in hereditatem sibi</rdg>
+         </app>
+      </vBody>
+      <vBody type="r" wit="CAO-H"> Benedicta gloria Domini de loco suo</vBody>
+      <vBody type="r" wit="CAO-D"> Ego sum dominus deus vester qui habi tare vos feci in loco isto</vBody>
+      <rep type="r" wit="CAO-C CAO-E CAO-H CAO-D CAO-L">Ut</rep>
+   </verses>
+</res>

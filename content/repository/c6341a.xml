@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6341" nextid="c6342" id="c6341a">
+   <rBody wit="CAO-C CAO-M CAO-V CAO-H CAO-S"> Corona aurea super caput eius expressa signo sanctitatis
+      <app>
+         <rdg wit="CAO-V CAO-H"> gloria honoris</rdg>
+         <rdg wit="CAO-M"> gloria et honoris</rdg>
+         <rdg wit="CAO-C CAO-S"> gloriae honoris</rdg>
+      </app> et opus fortitudinis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-M CAO-V CAO-H"> Quoniam praevenisti eum in benedictionibus dulcedinis posuiti in capite eius coronam de lapide pretioso</vBody>
+      <vBody type="r" wit="CAO-S"> Stola iucunditatis induit eum dominus et coronam pulchritudinis posuit super caput eius</vBody>
+      <rep type="r" wit="CAO-C CAO-M CAO-V CAO-H"> Gloria</rep>
+      <rep type="r" wit="CAO-S"> Expressa</rep>
+   </verses>
+</res>

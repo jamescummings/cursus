@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3380" nextid="c3382" id="c3381">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-D CAO-F CAO-S CAO-L"> Interrogatus te dominum confessus sum</rdg>
+         <rdg wit="CAO-B CAO-M CAO-V CAO-H CAO-R"> Interrogatus te domine confessus sum</rdg>
+         <rdg wit="CAO-E"> Interrogatus te dominum confessum</rdg>
+      </app> assatus gratias ago</aBody>
+   <verses>
+      <vBody type="a" wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">
+         <app>
+            <rdg wit="CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S">Gratias tibi ago domine Jesu Christe</rdg>
+            <rdg wit="CAO-C">Gratias tibi ago domine</rdg>
+         </app> quia ianuas tuas ingredi merui</vBody>
+   </verses>
+</ant>

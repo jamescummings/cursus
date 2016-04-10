@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3441" nextid="c3443" id="c3442">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S"> Isti sunt sancti qui pro dei amore minas hominum contempserunt
+     <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S"> sancti martyres</rdg>
+         <rdg wit="CAO-C"> Christi martyres</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-R"> in regno aeterno</rdg>
+         <rdg wit="CAO-H"> in <corr sic="regnum">regno</corr> aeterno</rdg>
+         <rdg wit="CAO-F CAO-S"> in regnum aeternum</rdg>
+         <rdg wit="CAO-C CAO-V"> in regnum caelorum</rdg>
+         <rdg wit="CAO-E"> in regno caelorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-V CAO-R CAO-F CAO-S"> exsultant cum angelis</rdg>
+         <rdg wit="CAO-C CAO-H"> exsultent cum angelis</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S"> o quam pretiosa est mors sanctorum</rdg>
+         <rdg wit="CAO-V"> o quam gloriosa est mors sanctorum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-V CAO-H CAO-R CAO-F CAO-S"> qui assidue assistunt ante dominum</rdg>
+         <rdg wit="CAO-E"> qui quotidie assistunt ante dominum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-H CAO-R CAO-F CAO-S"> et ab invicem</rdg>
+         <rdg wit="CAO-V"> et ad invicem</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-E CAO-H CAO-F CAO-S"> non sunt separati</rdg>
+         <rdg wit="CAO-B CAO-V CAO-R"> non sunt separati alleluia</rdg>
+      </app>
+   </aBody>
+</ant>

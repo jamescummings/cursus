@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prayer previd="o1640" nextid="o1642" id="o1641">
+   <header>
+      <usage ms="Alb2" code="07033000"/>
+      <usage ms="Bat" code="07033000">[55v] lauds</usage>
+      <usage ms="Cdm" code="07033000">[66r] lauds</usage>
+      <usage ms="Mch" code="07033000">[134r] lauds</usage>
+      <notesStmt>
+         <note resp="DC" place="unspecified" anchored="yes">Deshusses no.236</note>
+      </notesStmt>
+   </header>
+   <pBody wit="Alb2 Cdm Mch Bat">Exaudi nos omnipotens et misericors deus et continentiae salutaris propitius nobis dona concede</pBody>
+</prayer>

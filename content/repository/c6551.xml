@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6550" nextid="c6552" id="c6551">
+   <rBody wit="CAO-L">
+      <l part="N">Dum oraret in obscuro</l>
+      <l part="N">Servus Dei latibulo</l>
+      <l part="N">Lux immensa super eum</l>
+      <l part="N">Resplenduit post triduum</l>
+      <l part="N">Hoc signo cunctis proditus</l>
+      <l part="N">Papa Urbis efficitur</l>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Quia misericordiam et veritatem diligit Deus gratiam et gloriam dabit Dominus</vBody>
+      <rep type="r" wit="CAO-L"> Hoc</rep>
+   </verses>
+</res>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c5228" nextid="c5230" id="c5229">
+   <header>
+      <usage ms="Alb2" code="01008000">[5v] sext</usage>
+      <usage ms="Cdm" code="01012000">[10v] sext</usage>
+      <usage ms="Ely" code="01012000">[5v] sext</usage>
+      <usage ms="Evm" code="01012000">[8v] sext</usage>
+      <usage ms="Evm" code="01014000">[11v] vesp2 gosp</usage>
+      <usage ms="Glo" code="01014000">[11v] vesp2 gosp</usage>
+      <usage ms="Hyd" code="01012000">[5r] sext</usage>
+      <usage ms="Mch" code="01012000">[5v] sext</usage>
+      <usage ms="Wor" code="01012000">[4r] sext</usage>
+   </header>
+   <aBody wit="CAO-G CAO-B CAO-H CAO-R CAO-S Hyd Alb2 Evm Mch Cdm Ely Wor Glo"> Tuam domine excita potentiam et veni ad salvandum nos</aBody>
+</ant>

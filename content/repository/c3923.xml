@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c3922b" nextid="c3924" id="c3923">
+   <aBody wit="CAO-C CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L">
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L"> Non me permittas domine famulum tuum</rdg>
+         <rdg wit="CAO-M"> Ne per me permittas domine famulum tuum</rdg>
+         <rdg wit="CAO-D"> Nonne permittas domine famulum tuum</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-C CAO-B CAO-E CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L"> a te separari</rdg>
+         <rdg wit="CAO-M"> as te separari</rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-B CAO-E CAO-M CAO-H CAO-R CAO-D CAO-S CAO-L"> tempus est ut commendes terrae corpus meum</rdg>
+         <rdg wit="CAO-C CAO-F"> tempus est ut commendas terrae corpus meum</rdg>
+         <rdg wit="CAO-V"> tempus est ut recondis terrae corpus meum</rdg>
+      </app>
+   </aBody>
+</ant>

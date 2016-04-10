@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7624" nextid="c7626" id="c7625">
+   <header>
+      <usage ms="Alb2" code="07011000">[77r] matins-n3-r11</usage>
+      <usage ms="Evm" code="07011000">[107v] matins-n3-r12</usage>
+      <usage ms="Wcb" code="07011000">[94r] matins-n3-r12</usage>
+   </header>
+   <rBody wit="CAO-C CAO-R Evm Wcb Alb2">
+      <app>
+         <rdg wit="CAO-R Evm Wcb Alb2"> Scapulis suis obumbrabit tibi dominus</rdg>
+         <rdg wit="CAO-C"> Scapulis suis obumbravit tibi</rdg>
+      </app> et sub pennis eius sperabis scuto circumdabit te veritas eius</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-R Evm Wcb Alb2">
+         <app>
+            <rdg wit="CAO-R Wcb"> Angelis suis deus mandavit de te</rdg>
+            <rdg wit="Evm Alb2"> Angelis suis mandavit de te</rdg>
+         </app> ut custodiant te in omnibus viis tuis</vBody>
+      <vBody type="r" wit="CAO-C"> Cadent a latere tuo mille et decem milia a dextris tuis</vBody>
+      <rep type="r" wit="CAO-C CAO-R Evm Wcb Alb2">Scuto</rep>
+      <dox type="r" wit="Evm">Gloria</dox>
+      <vBody type="r" num="2" wit="Evm">Scuto</vBody>
+   </verses>
+</res>

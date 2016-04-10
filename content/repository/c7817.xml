@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7816" nextid="c7818" id="c7817">
+   <header>
+      <usage ms="Alb2" code="02122700">[34r] matins-n1-r1</usage>
+      <usage ms="Bat" code="02122700">[21r] matins-n1-r1</usage>
+      <usage ms="Cdm" code="02122700">[26r] matins-n1-r1</usage>
+      <usage ms="Evm" code="02122700">[42v] matins-n1-r1</usage>
+      <usage ms="Hyd" code="02122700">[23v] matins-n1-r1</usage>
+      <usage ms="Pet" code="02122700">[25r] matins-n1-r1</usage>
+      <usage ms="Wcb" code="02122700">[60v] matins-n1-r1</usage>
+      <usage ms="Wor" code="02122700">[19v] matins-n1-r1</usage>
+   </header>
+   <rBody wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> Valde honorandus est beatus Joannes qui supra pectus domini in cena recubuit cui Christus in cruce matrem virginem virgini
+     <app>
+         <rdg wit="CAO-G CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet"> commendavit</rdg>
+         <rdg wit="CAO-C CAO-B"> commendabat</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-D CAO-F Hyd Bat Cdm"> Mulier ecce filius tuus ad discipulum autem ecce mater tua</vBody>
+      <vBody type="r" wit="Pet" num="2"> Mulier ecce filius tuus ad discipulum autem ecce mater tua</vBody>
+      <vBody type="r" wit="CAO-S CAO-L Alb2 Evm Wcb Wor Pet"> Virgo est electus
+      <app>
+            <rdg wit="CAO-L Alb2 Evm Wcb Wor Pet"> a domino</rdg>
+            <rdg wit="CAO-S"> ad domino</rdg>
+         </app> atque inter ceteros magis dilectus</vBody>
+      <vBody id="c7817-1" type="r" wit="CAO-D">
+         <verse type="stanza">
+            <l part="N">Felix inquam virgineum</l>
+            <l part="N">Joannis exstat meritum</l>
+            <l part="N">alta secreta penetrans</l>
+            <l part="N">nobisque visa nuntians</l>
+            <l part="N">dilecti nempe meriti</l>
+            <l part="N">Joannes sacer exstitit</l>
+            <l part="N">potatus serenissimi</l>
+            <l part="N">sacrato fonte pectoris</l>
+         </verse>
+      </vBody>
+      <rep corresp="c7817-1" type="r" wit="CAO-D">
+         <note type="editorial" resp="DC" place="unspecified" anchored="yes">No regressio for this verse in CAO-D</note>
+      </rep>
+      <vBody id="c7817-2" type="r" num="2" wit="CAO-D">
+         <verse type="stanza">
+            <l part="N">Eia nunc clarissimo</l>
+            <l part="N">Sacerdotes et consono</l>
+            <l part="N">Sacerdoti dignissimo</l>
+            <l part="N">Date voces in iubilo</l>
+         </verse>
+      </vBody>
+      <rep corresp="c7817-2" type="r" wit="CAO-D"> Cui</rep>
+      <rep type="r" wit="CAO-C CAO-G CAO-B CAO-E CAO-M CAO-V CAO-H CAO-R CAO-F CAO-S CAO-L Hyd Alb2 Evm Wcb Bat Cdm Wor Pet">Cui</rep>
+   </verses>
+</res>

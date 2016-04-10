@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ant previd="c8589" nextid="c8591" id="c8590">
+   <header>
+      <usage ms="Evm" code="02122800">[49v] vesp2 gosp</usage>
+      <usage ms="Wcb" code="02122800">[65r] vesp2 gosp</usage>
+   </header>
+   <aBody wit="Evm Wcb"> Centum quadraginta quatuor millia qui empti sunt de terra
+     <app>
+         <rdg wit="Evm"> hii sunt</rdg>
+         <rdg wit="Wcb"> hi sunt</rdg>
+      </app> qui cum mulieribus non sunt coinquinati virgines enim sunt ideo regnant cum domino et agnus dei cum illis</aBody>
+</ant>

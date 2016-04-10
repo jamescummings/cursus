@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7483" nextid="c7485" id="c7484">
+   <rBody wit="CAO-E CAO-D CAO-F CAO-S CAO-L"> Qui sunt isti qui ut nubes volant et quasi columbae ad fenestras suas</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-E CAO-D CAO-F CAO-S CAO-L"> Candidiores nive nitidiores lacte rubicundiores ebore antiquo
+      <app>
+            <rdg wit="CAO-L"> saphiro pulchriores</rdg>
+            <rdg wit="CAO-E CAO-D CAO-F CAO-S" type="silent">
+               <note type="editorial" resp="DC" place="unspecified" anchored="yes">silent reading</note>
+            </rdg>
+         </app>
+      </vBody>
+      <vBody type="r" num="2" wit="CAO-F"> In omnem terram exivit sonus eorum et in fines orbis terrae verba eorum</vBody>
+      <rep type="r" wit="CAO-E CAO-D CAO-F CAO-S CAO-L">Et quasi</rep>
+      <prosula wit="CAO-D"> Nos vos quos elegi de hoc mundo me patris summi dei verbum elegistis sed ego iudices saeculi vos et fratres vestros amicos electos vocavi et lucernas posui vos ut supra iubaris radios fulgentes et splendore virtutum nitentes in tenebris residentes scelerum orbis terrae splendescatis et dignum fructum germinaque feratis gentibus atque populis et fructus omnibus fidelibus supernae fidei iugiter vester maneat</prosula>
+   </verses>
+</res>

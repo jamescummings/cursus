@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c7325" nextid="c7326a" id="c7326">
+   <note type="editorial" resp="DC" place="unspecified" anchored="yes">For the Vigil of St Benedict</note>
+   <rBody wit="CAO-L"> Ora pro nobis</rBody>
+   <verses>
+      <vBody type="r" wit="CAO-L"> Offert deo pro grege sibi commisso sanctissimas preces</vBody>
+      <rep type="r" wit="CAO-L">Ut digni</rep>
+   </verses>
+</res>

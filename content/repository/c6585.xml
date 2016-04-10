@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<res previd="c6584" nextid="c6586" id="c6585">
+   <header>
+      <usage ms="Alb2" code="01021000">[8v] matins-n3-r10</usage>
+      <usage ms="Evm" code="01021000">[14v] matins-n3-r11</usage>
+      <usage ms="Mch" code="01021000">[8r] matins-n3-r11</usage>
+      <usage ms="Wcb" code="01021000">[45r] matins-n3-r11</usage>
+   </header>
+   <rBody wit="CAO-F Alb2 Evm Mch Wcb">
+      <app>
+         <rdg wit="CAO-F Evm Wcb"> Ecce dominus veniet cum splendore </rdg>
+         <rdg wit="Alb2 Mch"> Ecce veniet dominus cum splendore </rdg>
+      </app>
+      <app>
+         <rdg wit="CAO-F Alb2 Evm Wcb">descendet</rdg>
+         <rdg wit="Mch">descendens</rdg>
+      </app> et virtus eius cum eo visitare populum suum in pace et constituet super eum 
+     <app>
+         <rdg wit="CAO-F Alb2 Evm Wcb">vitam sempiternam</rdg>
+         <rdg wit="Mch">universam terram</rdg>
+      </app>
+   </rBody>
+   <verses>
+      <vBody type="r" wit="CAO-F Alb2 Evm Mch Wcb">
+         <app>
+            <rdg wit="CAO-F Evm Wcb"> Ecce dominator dominus</rdg>
+            <rdg wit="Alb2"> Ecce dominus noster ecce dominus</rdg>
+            <rdg wit="Mch"> Ecce dominus noster est ecce dominus</rdg>
+         </app> cum virtute veniet</vBody>
+      <rep type="r" wit="CAO-F Alb2 Evm Mch Wcb"> Visitare</rep>
+   </verses>
+</res>
