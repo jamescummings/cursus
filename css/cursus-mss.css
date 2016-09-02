@@ -1,4 +1,5 @@
- body {margin-left: 0px;margin-top:0px; margin-right: 10px; background-image: url("/images/lightpaper.gif"); font-family: "Times New Roman", Times, serif; color: black; font-weight: normal; font-size: 110%; text-align:left;}     
+ body {margin-left: 0px;margin-top:0px; margin-right: 10px; 
+font-family: "Times New Roman", Times, serif; color: black; font-weight: normal; font-size: 110%; text-align:left;}     
 .DayHeader{display:block; background-color:#FFFFDD;}
 .Day{display:block; padding:10px;}
 .Week{display:block; padding:10px;}

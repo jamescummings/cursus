@@ -1,8 +1,8 @@
  body {margin-left: 0px; 
     margin-top:0px;
-    background-image: url("/images/lightpaper.gif");
     font-family: "Times New Roman", Times, serif; color: black;
     font-weight: bold; font-size: 110%; text-align:left;}     
+
 h1 {color:#006600;}
 h3, h4 {color:#660000;}
 table {border-width:1px;border:none;margin-bottom:5px; width:70%;}

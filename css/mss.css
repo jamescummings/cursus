@@ -1,4 +1,5 @@
- body {margin-left: 10pt;   margin-right: 10pt;  background-image: url("paper.jpg");  font-family: "Times New Roman", Times, serif; color: black;   font-size: 110%; text-align:left;}     
+ body {margin-left: 10pt;   margin-right: 10pt;  
+font-family: "Times New Roman", Times, serif; color: black;   font-size: 110%; text-align:left;}     
 .aBody {display: block;margin-left:2%; }
 .aBodywits {display: inline; font-size: 70%;} 
 .antglyph {display: inline; font-size: 120%;}
