@@ -9,9 +9,8 @@ This site has two main branches, which may be accessed from the navigation links
 
 ##Status:
 
-Following the death of the Principle Investigator in November 2006, the project became at risk. Around 2010, UEA stopped providing hosting for the project's website. Since then, Dr James Cummings (now University of Oxford, and the initial research associate on the project)  agreed a CC+by+nc licence with them for the
-content produced by the project and now publishes them on new hosting
-under the same <a
+Following the death of the Principle Investigator, Professor David Chadd (University of East Anglia) in November 2006, the project became at risk. Around 2010, UEA stopped providing hosting for the project's website. Since then, Dr James Cummings (now University of Oxford, and the initial research associate on the project) agreed a CC+by+nc licence with them for the
+content produced by the project and with the help of @ironchicken (Dr Richard Lewis, Goldsmiths' College, University of London) makes the available under the same <a
 href="https://creativecommons.org/licenses/by-nc/4.0/">Creative
 Commons Attribution-NonCommercial 4.0 International</a> licence.
 The material is provided 'as is' and may be updated at some point on a best effort basis.
