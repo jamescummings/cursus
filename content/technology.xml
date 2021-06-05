@@ -65,10 +65,10 @@ not too much of a strain on the old machine runing it) fairly swiftly completed.
 kind of on-the-fly transformation is used for the critical editions and individual
 readings of our repository items, as well as for pages such as this one.
 </p>
-<p>
+<!-- <p>
 A full-text index of the text has also been created using <a href="http://www.swish-e.org/">Swish-e</a>
 and a Web-based interface to it is available to users so that they can perform full-text searches.
-</p>
+</p>-->
 <!--<p> All the files are also added to an <a href="http://exist-db.org">eXist</a>
      database to facillitate searching.  In truth, all of the files could be served from
      this wonderful native XML database, as it is embedded in cocoon.  However, it was
@@ -76,7 +76,7 @@ and a Web-based interface to it is available to users so that they can perform f
      eXist for searching.  </p>-->
 
 <p>If you have any other questions about the technology behind the 
-CURSUS project feel free to contact us at: <a href="mailto:James.Cummings@it.ox.ac.uk">James.Cummings@it.ox.ac.uk</a>
+CURSUS project feel free to contact <a href="https://www.twitter.com/jamescummings">James Cummings</a> via twitter.
 </p>
 </body>
 </html>
