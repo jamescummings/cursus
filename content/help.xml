@@ -14,7 +14,19 @@ it is used, then you might find our
 <a href="/incipits/list">Incipits</a> list 
 of use.  
 </p>
-
+  
+<h4>Why has the site not been updated?</h4>
+<p>The funded project ran from 2000-2003 with occasional updates after that. 
+  The project was conceived and lead by Professor David Chadd. During its funded 
+  period Dr James Cummings was the research associate and undertook most of the 
+  technical aspects of the work as well as some transcription and editing. 
+  David continued to work on the transcriptions (and oversaw the implementation of a 
+  full-text search facility for the project by Richard Lewis) after the end of the funded period up 
+  until his death in November 2006. Around 2010, UEA stopped providing hosting for the project's website. 
+  Since then, James Cummings has acquired the data under a Creative Commons Attribution-NonCommercial 4.0 International license.
+  Any updates after that are purely for maintenance purposes.
+</p>
+  
 <h4>Can I read your copy of the Vulgate?</h4>
 <p>Although this copy of the Vulgate was encoded in XML 
 only to be used internally to provide the readings for our 
@@ -26,9 +38,9 @@ manuscript editions, you may indeed read our copy of the
 <p>Yes, if you want to download the files, the latest versions are
 always available in our 
 <a href="/downloads">Downloads</a> 
-section.  You are allowed to use them for non-commercial personal research.  
-If you plan to make substantial (or commercial) use of them, please contact 
-us first at: <a href="mailto:James.Cummings@it.ox.ac.uk">James.Cummings@it.ox.ac.uk</a>
+section.  You are allowed to use them for non-commercial use with attribution as they are 
+  licensed under a CC+by+nc 4.0 license. If you want to make substantial (or commercial) 
+use of them please contact <a href="https://www.twitter.com/jamescummings">James Cummings</a> via twitter.
 </p>
 
 <h4>How do I search the files?</h4>
@@ -40,7 +52,7 @@ single missing character are able to be used.
 </p>
 
 <h4>Where can I find out more? or Why is my question not here?</h4>
-<p> If the web pages do not give you enough information, get in touch at <a href="mailto:James.Cummings@it.ox.ac.uk">James.Cummings@it.ox.ac.uk</a> and we will be happy to tell you more about the project.  If you have any questions you think should be here, feel free to send those as well.</p>
+<p> If the web pages do not give you enough information, get in touch <a href="https://www.twitter.com/jamescummings">James Cummings</a> via twitter we will try to help.</p>
 
 </body>
 </html>
