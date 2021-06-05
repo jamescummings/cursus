@@ -10,4 +10,4 @@ For more information about the Text Encoding Initiative
 see http://www.tei-c.org/
 
 -CURSUS Project
-James.Cummings@it.ox.ac.uk
+
