@@ -8,5 +8,5 @@ files as <xptr>s to the CURSUS repository and
 vulgate files.
 
 -CURSUS Project
-James.Cummings@it.ox.ac.uk
+
 
